@@ -1,0 +1,342 @@
+The Enterprise discovers two threatened colonies which must cooperate to survive.
+
+
+== Summary ==
+
+
+=== Teaser ===
+On the bridge of the USS Enterprise-D, Worf is at his post at tactical when he suddenly begins to feel uncomfortable. He is fighting the odd sensations the best he can. Captain Picard arrives on the bridge and summons Commander Riker into the ready room. There, the captain talks about a meeting he had with Admiral Moore. He then plays on his monitor for his first officer the subject of the meeting: a series of sound pulses that had begun transmitting one month ago. Riker is quick to discern the sound as an antiquated distress signal; Starbase Research had spent hours coming to the same conclusion.
+
+A computer lookup reveals the distress signal as one that had been used by the European Hegemony, a 22nd century alliance that had been one of the earliest progressions towards a United Earth. However, further research into deep space launches in that timeframe draws a blank. That leaves only one option: go to the Ficus sector and figure out who needs help. But as they emerge from the ready room, Picard and Riker are surprised to see the bridge crew surrounding Worf... who has collapsed at his post. Data calls sickbay for a medical emergency and for Doctor Pulaski to come to the bridge.
+
+
+=== Act One ===
+"Captain's log, Stardate 42823.2. We are departing from Starbase 73 to investigate the source of the mysterious distress signal. Meanwhile, my security officer remains in sickbay where Dr. Pulaski is searching for the cause of his collapse."
+
+Worf, in typical Klingon stubbornness, is adamant that he is fine, but Dr. Pulaski counters with sarcasm. Eventually, the doctor gets to the point; Worf has contracted rop'ngor: "Klingon measles." Worf is appalled to learn that he had fainted because of a childhood ailment. However, Dr. Pulaski understands his concern, so when Picard asks what happened, Pulaski says Worf fainted due to a Klingon rite of fasting. She tells the captain that Worf made the mistake of not decreasing his physical activity while decreasing his caloric intake. Worf genuinely appreciates her going out of her way to preserve his dignity.
+Meanwhile, Data reports to Picard in the ready room with a possible means of identifying the unknown ship. As the 22nd century was a rather tumultuous time, record keeping from that era is known to be spotty. However, someone had to have loaded the ship with cargo of some sort. Picard realizes that means a manifest of that loading of that cargo must be on record. Sure enough, this angle does provide the answer. The ship they seek is the SS Mariposa: loaded 2123, commanded by a Walter Granger, and bound for the Ficus sector. However, the manifest introduces its own mystery; there are two distinct sets of cargo. One set is high-tech and expected cargo for a deep-space colony. But the other set lists among it spinning wheels and farm animals! Data proposes a theory for the latter; the tumult of the time prompted some people to revert to simpler ways of life: the Neo-Transcendentalist movement, founded by Liam Dieghan. Still, the mystery of the two apparently conflicting sets of cargo remains.
+
+In appreciation and apology for earlier, Worf treats Dr. Pulaski to a Klingon tea ceremony in her office. Pulaski is aware of the nature of the plants used to brew the tea, which is deadly to Humans, and antidotes herself so she can partake properly.
+The Enterprise traces the distress signal to the Bringloid system. The problem is soon apparent: the system's sun is undergoing major solar flare activity, threatening the viability of the planet, Bringloid V. There is no sign of technology other than orbital satellites that set off the signal automatically when the star became a threat. The situation is complicated. Data projects the flares will reach the planet in 3.6 hours, Worf points out that transport can only occur between flares, and Counselor Troi warns that exposing unsophisticated people to the Enterprise will present problems of culture shock. Picard decides to send Riker down to the colony (located underground) as an emissary to provide a cultural bridge and assist in the evacuation.
+
+"Captain's log, Stardate 42827.3. Commander Riker has reached the caverns where he is making preparations to begin the evacuation."
+Riker reports the situation of the colony: approximately two hundred people, all in good spirits, in surprisingly good condition, and understanding of the need to leave, but Riker still has an issue with them. Picard orders the evacuation to proceed in spite of the concern, saying they can deal with it later, and Riker mysteriously acknowledges that "all of us" will be on their way. This concern becomes known, however, once Chief O'Brien requests the captain come to the transporter room; in addition to some of the colonists, an assortment of farm animals have been transported aboard, all of which can be heard over the comlink!
+
+
+=== Act Two ===
+
+Picard and Worf are on their way to the transporter room when a chicken flies out of the door and into the corridor. A young girl picks it up, beams at the two of them, and runs back in. Once Picard is inside, one of the refugees steps forward: the colony's leader, Danilo Odell, who is quite pleased to meet another Irish descendant in O'Brien. All in all, he and the other Bringloidi (who prove to be the descendants of the Neo-Transcendentalists to whom Data alluded earlier) seem to be taking the exposure to advanced technology after two centuries (and then-unknown alien races, such as Worf) with surprising sanity. Riker explains that the Bringloidi had refused to leave without the animals since they represent their livelihood. Picard quickly demands they be placed out of the way and has O'Brien redirect the entire colony to Cargo Hold 7. The Bringloidi quickly get back on the pads for transport, and all remaining Bringloidi are directly transported there.
+
+In the observation lounge, the final tally is made: 223 refugees (with two more just days from being delivered and not counting their livestock). Picard prepares to transport them to the nearest starbase, and Riker quips that, while anachronistic, the Bringloidi are eager; he speculates that they will probably be running the place before long. Suddenly, a fire alarm goes off. The problem is quickly traced to the Bringloidi. Unused to modern conveniences like replicators, they had been cooking their own food, which had triggered the automated fire-suppression force fields.
+
+Danilo is puzzled and a little nonplussed, but his reaction is nothing compared to that of the cook, his own daughter, Brenna Odell. Sharp of tongue and quickly angered, she voices her frustration and displeasure in no uncertain terms. The whole situation leaves Picard laughing, left with no choice but to "bow to the absurd." The trip will be a learning experience for both parties. However, Riker's gentlemanly manner helps Brenna to warm to him.
+Danilo catches up with Picard in the corridor with a thought that had slipped his mind. He asks if there ever was any word about "the other colony." Suddenly, things begin to make sense in Picard's mind; there were two colonies aboard the Mariposa!
+
+
+=== Act Three ===
+"Captain's log, supplemental. A review of stellar charts had revealed a class M planet only half a light year from the Bringloid system. I am proceeding on the premise that it was the destination of the colony which possessed the more-sophisticated equipment."
+
+Riker leads Brenna to his quarters. The first thing she sees is a mess, and she insists on starting to clean it up. The conversation gets rather spirited, with both of them making verbal jabs at each other. Eventually, the words give way to actions as Riker gives in to Brenna's advances and they passionately kiss.
+Back in Cargo Hold 7 the rest of the Bringloidi, true to their Irish roots, try to get their still set up to brew poteen (a potent traditional Irish whiskey), but Danilo explains to Worf that it would need a fire. Danilo does not want a repeat of the fire-suppression debacle. On Worf's mention of the replicator, Danilo is reluctant after O'Brien offered him synthehol. Worf explains that replicators can make real alcohol instead and adjusts the nearest food replicator's control panel to do so. However, Danilo still finds that the 24th century's Earth standard of his ordered whiskey "has no bite," so Worf orders a Klingon drink, chech'tluth, for him, which is strong and much more to his liking. Just then, Brenna bursts in – and she is as angry as ever! After giving him an earful about drinking, she discusses having the Bringloidi children educated with the ship's children. A drunk Danilo goes along, and Brenna quickly sets everyone back to work. She even has a few choice words for Worf.
+
+"Captain's log, supplemental. We are approaching the class M planet, where we hope to find the other colonists."
+
+Upon arriving at the nearby system, the Enterprise is hailed from the surface. The caller identifies himself as Wilson Granger, prime minister of Mariposa. Although the Granger surname leads Data to believe Wilson is a descendant of Walter, the captain of the Mariposa, Wilson points out that this is not exactly true. Still, he is eager to reestablish ties with Earth after several centuries and invites them down planetside. Troi cautions, however, to Riker that Wilson is hiding something. Riker promises to investigate further and leaves the bridge in a turbolift.
+An away team composed of Riker, Worf, and Pulaski visits the Mariposans, and is greeted by the planet's Minister of Health, Victor Granger, who they are surprised to see resembles Wilson exactly, causing them to assume Victor to be his twin brother. Pulaski, while scanning the inhabitants discreetly, quickly learns that the entire Mariposan society is composed of clones.
+
+
+=== Act Four ===
+"Captain's log, supplemental. Prime Minister Granger has requested an urgent meeting to discuss the future of the Mariposan colony. I've invited him to the Enterprise."
+
+Wilson confirms Pulaski's assumption; the Mariposa had suffered a hull breach during landing, and only five people (two women, three men) survived, not enough to sustain the colony. However, as they were all scientists, they found another way to survive: cloning. Everyone is a clone of one of those five survivors. Through a combination of drug therapy and strong cultural taboos reinforced over several generations, they have suppressed their natural impulse towards sexual reproduction, and now find the practice outdated and somewhat repugnant.
+However, Wilson admits to Pulaski that their cloning process has failed to eliminate replicative fading, the genetic drift-based process by which subtle imperfections creep into each successive set of "copies": they will be unable to produce viable clones. Wilson therefore asks the Enterprise crew to donate fresh DNA so they can clone new citizens. Riker immediately refuses because he values his individuality and believes his being cloned perhaps thousands of times diminishes him in ways he cannot fathom. Picard points out that Riker's attitude is not unique and that Wilson will be hard-pressed to get consent from anyone on board the Enterprise. Picard does agree, however, to help repair defective equipment, and Pulaski is curious about the replicative fading effect. Granger grants her permission to return to the surface and hopefully states that perhaps she will discover a solution that their scientists may have missed. Pulaski thanks the prime minister for his compliments on her scientific prowess, but she reminds him that the repairing of the equipment will not solve the colonists' problems.
+
+"Captain's log, supplemental. Commander Riker and Dr. Pulaski have returned to Mariposa with a team of Enterprise technicians."
+As Riker and Pulaski report to Wilson that repairs are almost complete, they are shot from behind with a phaser-like weapon and stunned. The two are dragged away to have some of their cells taken without their knowledge while Wilson tells Geordi La Forge that he hadn't seen Riker or Pulaski after he enters his office asking about their whereabouts.
+
+La Forge eventually finds Riker and Pulaski back on the Enterprise. He wonders where they had been since every clone he spoke to lied about their whereabouts; he knew they were lying because his VISOR reads beyond normal vision, and he has trained himself to detect the physiological signs of Human deception. Between the three of them, Riker and Pulaski note inconsistencies and finally holes in their memories. Curious, Dr. Pulaski scans Riker, La Forge, and herself with her medical tricorder. She finds that both she and Riker are missing some epithelial cells; interstitial undifferentiated cells had been extracted from their stomachs without their knowledge.
+Outraged and repulsed at what the Mariposans have done, the three transport directly to the cloning labs. Inside, two clones are incubating: clones derived from their cells. Riker proceeds to destroy his maturing clone with his phaser, and Pulaski's clone with her permission, to the chagrin of Prime Minister Granger. A heated argument ensues. Riker accuses the Mariposans of stealing, but Wilson counters that desperation had forced their hand; they do have a right to survive.
+
+
+=== Act Five ===
+
+Back on the Enterprise, Picard considers the Mariposans' situation. Pulaski reports that Wilson's concerns are valid; their DNA will become terminally faded in two to three generations. Riker insists on a full inspection of the cloning lab, in case the Mariposans found more tissue samples to steal. Troi counters that the Mariposans are doing what anyone else would do given the situation. However, Pulaski notes that providing fresh DNA to them will only stave off the replicative fading for about fifteen generations.
+The only long-term solution is "breeding stock". Picard realizes there is an answer: the Bringloidi. Troi immediately agrees; the colonies have complementary traits (the Bringloidi's drive and the Mariposans's sophistication) that could work well in concert. If the two could be convinced to merge, both their problems would be solved; the Bringloidi would have a new home, while the Mariposans would have sufficient genetic diversity to sustain themselves. Riker notes the one catch, though; "Unfortunately, it will have to be a shotgun wedding."
+
+Wilson Granger and Danilo Odell are brought in to discuss the merge in the Enterprise's observation lounge. It does not start well. Wilson looks with disdain at the technologically backward, whiskey-loving Danilo, and Danilo is not impressed by Granger's haughty attitudes. Picard points out that they may have to confiscate the cloning lab to inspect for stolen tissue samples. Wilson takes it as blackmail, but Pulaski points out that they are doomed anyway; lab or no lab, the colony will otherwise be vacant in approximately fifty years.
+Wilson is still reluctant to tear down a centuries-strong culture, but Danilo points out that they are open to new ideas. This diversity is what they need to strengthen themselves. As for breaking down the sexual taboos, that will be up to nature to fix. Pulaski then notes that the Bringloidi will also have to change. She deduces that 30 couples are enough to ensure a healthy genepool, though it would be better for the genepool to be broader. To encourage genetic diversity, polyandry and polygyny will have to be permitted and encouraged for at least several generations; every woman in the colony must have a minimum of three children, with a minimum of three different husbands. Danilo considers it and is willing to adapt. He spits his palm and offers it to Wilson, saying, "It's a done deal." Grudgingly, Wilson shakes it. "I must be out of my mind," Picard states to Pulaski. "Starfleet will probably agree with you," Pulaski replies.
+
+They all head for Cargo Hold 7 where the Bringloidi are currently residing. Wilson is genuinely shocked and horrified at the Bringloidi, especially seeing a pregnant woman for the first time. Meanwhile, Brenna, sharp-tongued as ever, wonders angrily how this whole business will sort itself out. Picard offers her the chance to be taken to a starbase and seek out a new destination on her own, but Brenna is reluctant to leave her father. When she learns that Wilson is Prime Minister and leader of the Mariposans, however, she realizes that "moving up" may not be such a bad idea.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2365
+
+
+== Memorable quotes ==
+"What have they done to my ship now?"
+
+- Picard
+
+"What can we do? We asked for your help and you refused us! We are desperate! Desperate!!"
+"And that gave you the right to assault us? To rob us at...!"
+"We have the rights to survive!!"
+
+- Granger and Riker
+
+"My God, Picard, the place is a bloody death trap... lightning bolts falling from the ceiling! Just what the hell was that thing?!"
+"Automated fire system. A force field contains the flame until the remaining oxygen has been consumed."
+"Ah, wh-wh-what if I'd been under that thing?"
+"You would have been standing in the fire."
+"Yeah, well, leaving that aside for the moment – what would have happened to me?"
+"You would have suffocated and died."
+"Ah, sweet mercy."
+
+- Danilo Odell, Worf, and Picard
+
+"Medical emergency. Dr. Pulaski to the bridge."
+"What happened?"
+"He just collapsed, sir."
+
+- Data and Picard, after Worf passes out from rop'ngor
+
+"I am fine."
+"You're not fine, you fainted."
+"I did not faint. Klingons do not faint."
+
+- Dr. Pulaski and Worf
+
+(Farm animals making noises in the background)
+"Captain, you'd better get somebody down here. Right away."
+
+- Chief O'Brien
+
+"William Riker, you're a mess!"
+
+- Brenna Odell, after viewing Riker's quarters
+
+"Will, is something wrong?"
+"What do you mean?"
+"Do you not like girls?"
+"Of course I do. Oh, is there a certain technique to this foot washing?"
+"You generally start at the top and work your way down."
+"I think I could get used to that."
+
+- Brenna Odell and Riker
+
+"What are these animals doing here, Number One?"
+"I'm sorry, sir. It was either this or arguing until Hell froze over."
+
+- Picard and Riker
+
+"That isn't necessary. The ship will clean itself."
+"Well... good for the bloody ship!"
+
+- Riker and Brenna Odell as the latter is attempting to clean up the cargo bay
+
+"Tell me, is your entire population made up of clones, Prime Minister?"
+"Clones?"
+"Clones?"
+"Clones."
+
+- Katherine Pulaski, Worf, William Riker, and Wilson Granger
+
+"Sometimes, Number One, you just have to... bow to the absurd."
+
+- Picard, to Riker
+
+"You want to clone us?"
+"Yes."
+
+- Riker and Granger
+
+"She is very much like a Klingon woman."
+
+- Worf, about Brenna Odell
+
+"Oh ho ho ho! Right now and let's go stake out my three women. Send in the clones!"
+"I must be out of my mind."
+"Starfleet will probably agree with you."
+
+- Danilo Odell, Picard, and Dr. Pulaski
+
+"Send in the clones."
+
+- Danilo Odell, to Wilson Granger
+
+"Now that's what I call a wee drop of the creature."
+
+- Danilo Odell, after a swallow of Worf's selection of chech'tluth
+
+"Hello my darl'n'!"
+
+- Danilo Odell, drunk from the drink of chech'tluth and wheezing a greeting to his daughter, Brenna
+
+"Madam, have you ever considered a career in security?"
+"Well if it's anything like babysitting, then I'm an authority!"
+
+- Worf and Brenna O'Dell
+
+
+== Background information ==
+
+
+=== Deleted scenes ===
+Several scenes were filmed but later cut from the episode during editing. These were later included as features on the TNG Season 2 Blu-ray release.
+
+Act 3, Scene 24C – William T. Riker returns to the bridge after his romantic encounter with Brenna Odell.
+Act 4, Scene 33 – An alternate version of the Observation Lounge scene where Granger describes the Mariposan history of cloning, with a few additional lines of dialogue.
+Act 4, Scene 39B – Danilo Odell tells the Bringloidi settlers a story of the colony's founding.
+Act 5, Scene 48 – Data expresses a wish to further study the combined colony; Worf recites Klingon poetry.
+Scene numbers are derived from the script. [1]
+
+
+=== Production history ===
+Script revision (titled "Send In The Clones"): 14 March 1989
+Fourth revised final draft script: 17 March 1989 [2]
+Premiere airdate: 22 May 1989
+First UK airdate: 28 August 1991
+
+
+=== Story and production ===
+
+Melinda Snodgrass remarked, "It was intended to be a commentary about immigration, because I hate the current American policy. I wanted it to be something that says sometimes those outsiders you think are so smelly and wrong-colored, can bring enormous benefits to your society because they bring life and energy. That's what I was going for. Now my boss, at the time, was Maury Hurley, who is a major Irishman and leads the Saint Patrick's Day parade. When I was describing to him what I wanted to do, I was trying to come up with an analogy, and I said it was like a little village of Irish tinkerers, and he loved it so much he made me make them Irish tinkerers. I said okay, and that's how it came about." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 181)
+Snodgrass admitted that rewrites and budget restrictions resulted in the intended commentary being lost. (Star Trek: The Next Generation Companion, 2nd ed., p. 88)
+The episode title, "Up The Long Ladder," derives from an expression, "Up the long ladder and down the short rope," a reference to the gallows in an Irish rhyme popularized in the Tommy Makem song, "Are You Ready for a War?" [3] [4] (citation needed • edit)
+A draft title for the episode was "Send In the Clones," a pun on the Stephen Sondheim song "Send in the Clowns." The title was changed late in the production, after the scripts were already printed. (Star Trek: The Next Generation Companion, 2nd ed., p. 88)
+"Brionglóid" is the Irish word for "dream." (Star Trek: The Next Generation 365, p. 109)
+Wil Wheaton (Wesley Crusher) does not appear in this episode.
+The African pygmy goats used in the Bringloidi scenes were bred by property master Alan Sims and his family. (Star Trek: The Next Generation Companion, 2nd ed., p. 88)
+Just after arriving on Mariposa, Dr. Pulaski notices a sculpture holding a large sphere reminiscent of the receptacles from the TOS episode "Return to Tomorrow", which also featured Diana Muldaur.
+When Picard and Riker examine the list of ships launched in the relevant time period, they find no ships with a destination in the Ficus Sector. However, the SS Mariposa is on that list. When Data suggests looking for the manifest, Picard finds the SS Mariposa, with a destination of the Ficus Sector, making it unclear why that destination was not included on the original list.
+When Picard is examining the Mariposa's cargo manifest, he mentions "Yoshimitsu computers". The name Yoshimitsu can later be seen (in katakana) on the Mariposan cloning apparatus.
+In the original footage, when Riker confers with Picard in the ready room, one of the mission categories of 22nd century ships lists "Diplomatic Mission to Alderaan," a reference to Star Wars. (Star Trek: The Next Generation Companion, 2nd ed., p. 88) This was changed to the real star Aldebaran in the remastered version.
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+Riker mentions that one of him is unique, and perhaps even special, but a hundred or a thousand would diminish that status. He later finds out what that is like when he runs into a duplicate of himself, Thomas Riker, in TNG: "Second Chances".
+
+
+=== Reception ===
+"Up the Long Ladder" was criticized from two directions. Snodgrass recalled, "I got enormous flack from the right to life coalition because they destroyed the clones. They thought I was condoning abortion. In fact, I did put a line in Riker's mouth that was very pro-choice and the right to life coalition went crazy. He says "I told you that you can't clone me and you did it against my will, and I have the right to have control over my own body." That's my feeling and it was my soapbox, and it was one I got to get on. I was supported by Maurice all the way." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 181)
+The episode was also criticized by Irish-Americans for presenting an overly-stereotyped view of their culture. (Star Trek: The Next Generation Companion, 2nd ed., p. 88)
+Ronald D. Moore called it "embarrassing" (AOL chat, 1997) and in 2012 further called it "terrible beyond terrible." (TNG Season 3 Blu-ray "Inside the Writer's Room" special feature)
+A mission report for this episode by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 9, pp. 43-45.
+Director Rick Kolbe remarks, "It was a lot of fun to do. I didn't have to sit there and tell people to pull it back. I wanted a contrast between our guys, who are a little bit uptight and buttoned down, and the Irish in that episode, who were going bananas." (The Official Star Trek: The Next Generation Magazine issue 21, p. 30)
+Colm Meaney hates this episode due to the Irish stereotypes. On the Star Trek: Deep Space Nine episode DS9: "If Wishes Were Horses", he demanded that a leprechaun in the script be changed to Rumpelstiltskin.
+
+
+=== Apocrypha ===
+The Bringloidi and the Mariposans were revisited in the Star Trek: Starfleet Corps of Engineers eBook Out of the Cocoon.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 22, catalog number VHR 2505, 7 October 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 2.6, catalog number VHR 4742, 21 June 1999
+As part of the TNG Season 2 DVD collection
+As part of the TNG Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker / William T. Riker clone
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Michael Dorn as Lt. Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Special appearance by ===
+Diana Muldaur as Doctor Pulaski / Katherine Pulaski clone
+
+
+=== Guest stars ===
+Barrie Ingham as Danilo Odell
+Jon De Vries as Wilson Granger / Victor Granger
+Rosalyn Landor as Brenna Odell
+
+
+=== Co-star ===
+Colm Meaney as Miles O'Brien
+
+
+=== Uncredited co-stars ===
+Majel Barrett as USS Enterprise-D computer voice
+Ken Blanton as Bringloidi
+Shannon Carpenter as Bringloidi
+Kim Clark as Bringloidi
+Yvonne Clark as Bringloidi
+Dexter Clay as operations officer
+Kymberly Goldman as Mariposan clone
+Michelle Goldman as Mariposan clone
+Traci Goldman as Mariposan clone
+Allen Hughes as Bringloidi
+Fred Janos as Bringloidi
+Tim McCormack as Bennett
+Meg McCormick as Bringloidi
+John Meuer as Bringloidi
+Jean Rose as Bringloidi
+Lynda Rose as Bringloidi
+Richard Sarstedt as command officer
+Deniece Sims as Bringloidi
+Michael Stanhope as Bringloidi
+Floyd Weaver as Mariposan clone
+Lloyd Weaver as Mariposan clone
+Troy Weaver as Mariposan clone
+Linda Whitfield as Bringloidi
+Unknown performers as
+Com officer (voice only)
+Elizabeth Vallis
+Elizabeth Vallis clone
+Female command officer
+Female sciences officer
+Mariposan twin clones
+Six Bringloidi
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+
+
+=== References ===
+22nd century; 2123; 2165; 2190; 2365; 2415; "a lick of work"; "a match in heaven"; ability; accordion; Adam and Eve; ailment; alcohol; alien; alliance; amenity; anachronism; animal; answer; antidote; apology; area; argument; arrival; assault; asteroid; attitude; authority; automated fire system; away team; babysitting; baggage; beer; Berkshire pig; bigotry; blackmail; blatherskite; blood flow; blood glucose level; blood pressure; "bloody"; blushing; body; bravery; breath rate; breeding stock; Bringloid (star); Bringloid V; Bringloid V colony; Bringloid system; Bringloidi; brother; bureaucracy; butterfly; caloric intake; carnal; career; cargo; Cargo Hold 7; cargo manifest; catastrophe; cattle; cavern; ceiling; cell; cellular comlink; century; charity; chech'tluth; chicken; chief of staff; childhood; childhood disease; children; choice; chromosome; circulatory failure; city; class M; clone; cloning; cloning lab; code; colonist; colonization; comfort; communication network; compliment; computer; concept; concertina; copy; course; cow; creature; damage; danger; darling; date; daughter; day; death; "death trap"; debate; descendant; destination; device; Dieghan, Liam; distress beacon; distress signal; DNA; DNA sample; doctor; door; download; dozen; dream; drug; duck; Earth; Earth colony; effect; epithelial cells; error; European Hegemony; evacuation; evidence; experience; expertise; extraterrestrial; face; faint; fasting; father; Federation; Ficus sector; fire; firefighting; floor; food dispenser; foot; force field; founder; frequency; gene pool; generation; genetic base; glucose; goat; Granger, Walter; hand; handshake; harm; hat; hell; history; home; homebrew; hospitality; hour; hull breach; Human; humiliation; hundred; husband; "hustle and bustle"; idea; illness; information; Ireland; Irish; Irish language; Klingon; Klingon tea ceremony; landing; launch; law; leader; "let nature take its course"; lightning bolt; light year; liquor; livestock; love poetry; luggage; machine; magic; magnitude; mainframe; Mariposa; Mariposa colony; Mariposa, SS; Mariposans; maturity; measles; "meat and potatoes"; medical emergency; medical facility; medical problem; medical tricorder; meeting; meter; minister; Minister of Health; Miss; mister; monitor beacon satellite; month; monogamy; Moore; mortality; mug; murder; murderer; mystery; nature; Neo-Transcendentalist; November; number one; office; Old Earth calendar; opportunity; origin point; "out of my mind"; "out of the question"; oxygen; pain; peace; period; permission; person; philosopher; physical activity; physical manifestation; pig; pipe; place; pleasure; polygamy; population; poteen; power source; premise; prime minister; prize; problem; progenitor; prognosis; pulse; pupil; quadruplets; question; reason; record; refugee; repairs; right; ritual; rob; rod; romantic; rop'ngor; replicative fading; school; scientist; secret; security; security officer; sensor sweep; sexual drive; sexual reproduction; sheep; shield; shock; shotgun wedding; signal; signal beacon; skin; "slipped my mind"; society; solution; SOS; spaceship; Spanish language; spindle; spinning wheel; spitting; stake out; standing; starbase; Starbase 73; Starbase 73 planet; Starbase Research; Starfleet; stellar chart; stellar flare; stomach; suffocation; surface; survival: synthehol; tea; technical support away team; technical team; technician; Terran; theory; thief; thought; thousand; thread; time period; tissue sample; title; toe; transporter room 3; triplets; truth; twins; unconscious; utopians; VISOR; wall; warrior; "wee"; week; wheel; whiskey; word; work; World War III; Wyandotte chicken; yarn; Yoshimitsu computer
+
+
+==== Library computer references ====
+Interstellar Expeditions (original): 2102; 2105; 2119; 2120; 2135; 2137; 2146; 2160; 2183; 2187; ADR looping; Alderaan; BBI-993; Buckaroo Banzai, SS; deep space exploration; DEV; diplomatic mission; DY-245; DY-430; DY-500; DY-732; DY-950; DY-1200; Eagle Valley, DEV; Glick, Dave; Hatteras, SS; HMS; Hokule'a, SS; King, Dan; Kolbe, Winrich; Lederman, Bob; Loes, Gary; Lord Nelson, HMS; NAR18834; nebula survey project; Neuss, Wendy; New Zealand, HMS; Planet 10 (DIM-8); Roddenberry, Gene; RT-2203; Seattle, SS; Sector 184; Sector 185; Snodgrass, Melinda; Sol system; stellar chart mapping; Tomobiki, SS; Tucker, Steve; Urusei Yatsura, SS; Velikan, VK; VK; Whorfin, John; Young Jae Kim; Yuri Gagarin, VK
+Interstellar Expeditions (remastered): 2102; 2105; 2119; 2120; 2135; 2137; 2146; 2160; 2183; 2187; Aldebaran; BBI-993; Buckaroo Banzai, SS; deep space exploration; DEV; diplomatic mission; DY-245; DY-430; DY-500; DY-732; DY-950; DY-1200; Eagle Valley, DEV; Glick, Dave; Hatteras, SS; HMS; Hokule'a, SS; King, Dan; Winrich, Kolbe; Lederman, Bob; Loes, Gary; Lord Nelson, HMS; NAR18834; nebula survey project; Neuss, Wendy; New Zealand, HMS; Planet 10 (DIM-8); RT-2203; Seattle, SS; Sector 184; Sector 185; Snodgrass, Melinda; Sol system; SR-47; stellar chart mapping; Tomobiki, SS; Tucker, Steve; Urusei Yatsura, SS; Velikan, VK; VK; Volland, Mike; Whorfin, John; Young Jae Kim; Yuri Gagarin, VK
+SS Mariposa Page 1: Baikonur Cosmodrome; delta-vee; gross vehicle mass; metric ton; New United Nations; NVP; OCC; UN Registry; Yoyodyne pulse fusion
+SS Mariposa Page 3: Banzai Pipeline Surfboard; Cargo Hold ID Code; quantity; rotary tiller; University of Manitoba
+
+
+==== Deleted references ====
+Joey
+
+
+==== Deleted scenes references ====
+hardening of the arteries; Starbase 114
+
+SS Mariposa Page 2: Kolbe, Winrich; Snodgrass
+
+
+=== External links ===
+"Up The Long Ladder" at Memory Beta, the wiki for licensed Star Trek works
+"Up the Long Ladder" at Wikipedia
+"Up The Long Ladder" at MissionLogPodcast.com
+"Up The Long Ladder" script at Star Trek Minutiae
+"Up The Long Ladder" at the Internet Movie Database

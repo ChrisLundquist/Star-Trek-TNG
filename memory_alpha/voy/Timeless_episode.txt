@@ -1,0 +1,356 @@
+A failed attempt to return home results in Voyager crash-landing on an ice world and also in the deaths of the crew, except Chakotay and Harry Kim. Now, fifteen years later, the two men, having resigned from Starfleet, attempt to alter history to save the ship from disaster before Starfleet can stop them.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+2390
+A vast, icy landscape. Two figures materialize out of a transporter beam, shielded against the cold by survival suits. Laden with heavy backpacks, they begin hiking across the landscape. On reaching a certain spot, they stop and stick a sensor device into the ice. They brush aside a patch of snow, revealing a clear layer of ice underneath. Something not of nature is clearly visible under it.
+One of the figures taps his chest in the same spot where a Starfleet combadge would be. Sure enough, the chirp of such is heard. The figure's voice reveals him to be male. His face, like that of his companion, is hidden beneath his suit's mask. He indicates to the other that they have arrived at their destination. Beneath the thick sheet of translucent glacial ice, unmistakable markings become visible.
+USS Voyager
+NCC-74656
+
+
+=== Act One ===
+The other figure makes scans on a tricorder and informs the first that the fractures in the glacier the ship is entombed in are stable; they can beam inside safely. Like the first, this one's voice also reveals that it is a man. The first informs a third party over his combadge that they are ready to enter. A female voice acknowledges. They beam inside.
+
+Inside Voyager is dark and icy. The two figures, after materializing, remove their masks. They are revealed to be Voyager's Commander Chakotay and Ensign Harry Kim. Both appear noticeably older. Both are very grim-faced.
+Using wrist-borne lights to light their way, they walk slowly to a dark, dead, frosted-over wall console. Kim scrapes ice off of it, connects a portable power cell and activates it. The console comes to life. Kim accesses it and reports the extent of Voyager's damage: her power grid is destroyed, bioneural gel packs are frozen solid, and decks 9 through 14 had compacted and are now deck 10. Chakotay muses that she must have crashed into the ice at full impulse. He asks about The Doctor, their EMH, who served as the ship's chief medical officer. Kim tries to access the sickbay. But the console flickers and dies, despite his attempts to keep it going, to his great frustration. They decide to split up. Kim heads for the sickbay while Chakotay goes to the bridge.
+
+Chakotay reaches the bridge. It is frosted over and dark, like every other area on the ship. He walks among frozen bodies of crewmembers, including that of Voyager's Captain, his commanding officer and friend, Captain Kathryn Janeway. Chakotay pauses at her corpse for a long while before continuing. He is searching for something. He finds it: the corpse of the former Borg drone Seven of Nine.
+
+He hails the third party he spoke to before, calling her "Tessa", and informs her. He instructs her to lock on to the transporter relay he places on the corpse's neck and beam the cadaver to "the lab." She acknowledges and does so. He watches grimly as the cadaver dematerializes.
+Kim arrives at the sickbay. He scrapes ice off a wall console here and activates it with his power cell. He taps some controls on it. The Doctor appears, and starts his standard EMH greeting. But his words trail off as he sees what has become of the sickbay.
+
+He looks around in utter, uncomprehending horror. Kim tersely greets him. The Doctor addresses him in shock as "Ensign!", but Kim tells him not to. He instructs him to don his mobile emitter. The Doctor does so and agitatedly asks him what has happened, but he tersely responds that there is no time for that. He orders The Doctor to follow him. The Doctor refuses, demanding an explanation. Chakotay enters and responds that they are there to change history.
+
+
+=== Act Two ===
+Fifteen Years Earlier: Year 2375
+
+A great celebration is taking place in Voyager's Engineering area. Crew and officers are gathered, clapping and cheering. Confetti falls. Lieutenant B'Elanna Torres grins hugely as she smashes a bottle of champagne against the rail surrounding the warp core. The core looks strange, as if it has been modified.
+Captain Janeway calls for quiet and gives a speech. She proudly introduces the modified warp core as the "quantum slipstream drive", to cheers and applause. She speaks of the time Voyager has been lost in the Delta Quadrant: four years, two months, 11 days. To more cheers and applause, she then announces that "now it is time to go home." The quantum slipstream drive, should it work, will accomplish this; very much faster than warp drive, it would allow Voyager to cross the many tens of thousands of light years between here and Earth in mere hours as opposed to the several decades that warp drive would take.
+Janeway exhorts everyone to enjoy the party, but reminds them of the final work that needs to be done; the flight using the drive is scheduled for the next morning. Everyone mingles happily. Champagne flows. Seven of Nine, amusingly, becomes drunk from a single glass. Neelix gives Torres a good luck charm for the drive: a Talaxian Furfly, which he had kept hung in the engine room of his own small ship while he was a trader'. All enjoy themselves.
+
+But Lieutenant Tom Paris does not take part. Instead, he is seen at a console, running tests. Harry Kim, the main designer of the drive, finds him and, surprised, asks him why. Paris gives Kim his opinion of the thing: it is an Edsel, a potential disaster. He explains that he has found a 0.42 phase variance in the drive's system; a very small phase variance, but enough to possibly bring the flight to a catastrophic end by causing Voyager to get knocked out of the slipstream in mid-flight. This would almost certainly destroy her, and them with her.
+Kim dismisses his concerns, saying that such a small variance is probably due to a sensor glitch. But Paris will not be soothed. Kim then invites him to one of the ship's two holodecks to run simulations and ease his fears. Paris agrees and they leave together.
+The two men run a holodeck simulation of Voyager with Kim at the auxiliary Tactical console, while Paris mans his conn console. They begin the simulation. At first, all goes well; Paris engages the simulated drive, and, on the viewscreen, the view of normal space explodes into the gray, tunnel-like form of slipstream space. But then the bridge starts to vibrate as the phase variance Paris detected begins to manifest itself. It begins to increase. The vibration worsens. Kim tries stabilization measures, but none work. Hull breaches occur. Structural integrity rapidly falls and then fails; Voyager is tearing apart. The slipstream starts to collapse.
+Paris tensely orders the computer to cease the simulation. But Kim doggedly refuses to give up; he suggests yet another idea for stabilization, but Paris tells him it will not work. Kim tries to get the computer to run the simulation again, but Paris stops him: this is their 23rd consecutive simulation, and, like the 22 before it, it has ended in calamity. This is not a sensor glitch, he insists; the others must be told. Kim agrees with a sad sigh.
+In Engineering, Paris and Kim have reported the results of their simulations to the senior staff. Torres angrily protests that they have tested the drive "molecule by molecule". Seven informs Paris that she wants to examine the results herself. Paris somberly invites her to do so. Chakotay, who has seen the results, tells Janeway that in his opinion if they attempt this flight the next morning, the crew will find themselves in escape pods by the afternoon. Tuvok opines that there is no choice but to cancel.
+But then Paris informs them that Kim has a suggestion. He believes if a shuttlecraft were to "ride the rapids" in front of Voyager, then it could map the slipstream threshold as it forms and transmit phase corrections back to Voyager. The corrections would compensate for the phase variance, preventing a catastrophic collapse of the slipstream.
+
+Kim points out that the shuttle would only be at most a couple of seconds ahead of Voyager, and the auto-navigational system might not be able to make the adjustments quickly enough. But Kim, sensing the reluctance, begins a vehement plea for the idea to be tried. He points out the amount of time and effort that has been put into the project, and that benamite crystals in the drive have already begun to decay and would take years to re-synthesize.
+He proclaims that he did not "do all this work just to be stopped by a 0.42 phase variance...!" He finds himself shouting into Captain Janeway's face, and immediately apologizes. He begs her to let him try, confidently insisting that he will get them through the slipstream. She takes no offense, and orders him to submit a flight plan to her within the hour; she will let them know her decision. Extremely pleased, Kim acknowledges. The officers disperse.
+Janeway and Chakotay have dinner in the former's quarters. As they sit at the table, with Intermezzo op.117 no.1 by Brahms playing in the background, she makes her decision known to Chakotay; she has approved the attempt. Chakotay acknowledges, but voices his disagreement. He holds up a PADD containing Kim's flight plan. He has looked at it; the theory is sound, but there are simply too many variables. But Janeway responds that they have waited long enough to get home; they may never have this chance again. With a smile, Chakotay assures her of his support of her, though he does not agree with her decision. He sets the PADD down.
+2390
+The same PADD, frost-covered and long inoperative, is seen on the floor of Voyager's frozen, entombed wreckage.
+
+
+=== Act Three ===
+2390
+
+Kim, Chakotay, and The Doctor are on the Delta Flyer, a unique shuttlecraft Voyager had built. They fill The Doctor in. It is fifteen years after the attempted slipstream flight. They are in the Takara sector, just outside the Alpha Quadrant. The rest of the crew is dead; Voyager crashed into the ice planet, killing all aboard. The Doctor recalls that Kim and Chakotay were on the Delta Flyer at the time; they had been the ones mapping the slipstream and sending phase corrections to Voyager. Kim bitterly confirms this, commenting that they indeed made it back to Earth, with the only cost being the death of all whom they cared about.
+They further inform The Doctor that their finding of Voyager's grave is not a Starfleet-sanctioned endeavor. The service ended its search for Voyager nine years ago; they continued on their own. Chakotay explains his comment to him in the remains of Voyager's sickbay: they are embarked on an attempt to change history, preventing Voyager's destruction from ever occurring.
+Kim elucidates that he is to blame for Voyager's destruction. During the flight, he, as planned and agreed, sent phase corrections back to Voyager to compensate for the phase variance. But his corrections proved to be wrong; instead, they increased the variance, so much so that the disaster he was trying to prevent was immediately precipitated. Voyager was knocked out of the slipstream and the crew was sent "to an icy death".
+However, having fifteen years to think about his mistake, he has gone over the phase calculations from that day and has come up with a set of new corrections. The plan is to send the corrections back through time to Voyager, so that she actually makes it through and back to Earth instead of being destroyed. They intend to use three things, two of which they need The Doctor and Seven of Nine's corpse for, which is why they found and reactivated him, and found and retrieved the corpse.
+
+They tell The Doctor they stole a Borg temporal transmitter, salvaged by Starfleet from the wreck of a Borg cube. The Doctor's job is to extract two items from Seven's cadaver: her interplexing beacon and her chronometric node. The final translink frequency registered by the interplexing beacon at the time of Seven's death will tell them exactly where she, and hence, Voyager, was before the catastrophe. The chronometric node will tell her actual time of death, when her Borg implants disengaged from her organic systems.
+A young woman then enters, who alerts Chakotay of a Federation starship fast approaching. She informs them of measures she has taken to delay it from finding them, but warns that they will not work for long. They have six hours at most.
+The Doctor suddenly realizes that they are fugitives. Kim confirms it, listing the charges their plan has brought on their heads: high treason and conspiracy to violate the Temporal Prime Directive. Then Chakotay instructs him to begin work. He tells the woman to get ready to beam back down to Voyager's remains with him, to retrieve the ship's sensor logs. He then leaves to get himself ready.
+
+She introduces herself to The Doctor as Tessa Omond. Kim informs him that she is Chakotay's lover. She explains that she is there to help them carry out their plan. Chakotay returns for her, and they leave together.
+Returning to Voyager's bridge, Chakotay accesses the computer using his old first officer's command codes and begins downloading the sensor logs. As he sits in the first officer's seat next to the captain's, his pain of loss is evident. It is exacerbated when he finds a still-active file. It turns out to be Captain Janeway's last log entry, in which she states for the record, should the flight end in disaster, that the crew acted with "distinction and valor." Tessa, seeing his pain, immediately comforts him, reminding him that if they are successful, Janeway and everyone else will be alive and well. Chakotay does indeed take comfort in this.
+It then occurs to him that if they are successful he will lose Tessa, as they will never have met. He takes her hands in his and asks her if she is sure she wants to do this, given what it will mean. She replies his heart has always been on Voyager. She loves him enough to put his happiness first and help him fulfill his heart's desire and get them back, even if it erases what they have together. He accepts this gladly.
+
+Aboard the Delta Flyer, The Doctor works as Kim records a message to someone. The Doctor calls him to assist him. As they work, The Doctor asks him about his and Chakotay's homecoming. His extreme bitterness is made evident again as he recalls the reception they got: parades, antimatter fireworks, serenades by a Vulcan children's choir, speeches, and medals. The Doctor jokes that at least he was not buried under ice.
+Kim coldly responds that he wished that he had been, many times. The Doctor sympathizes with him. Kim then, with intense sarcasm, recalls the therapy sessions he was forced to endure; these were supposed to help him get over his survivor's guilt. He recalls that he signed onto the first deep space vessel he could and worked manically at finding where Voyager had crashed, until Starfleet, after four years of searching, called off the search, citing 'low probability of success'. He begged them to continue, but they refused. So, he and Chakotay resigned their commissions, devised their plan and enacted it, stealing the Delta Flyer to do so.
+The Doctor succeeds in extracting the interplexing beacon from Seven's cadaver and reads out the interlink frequency. Kim encodes it into the Borg temporal transmitter. The Doctor then cautiously asks him if he is sure about this course of action, and may worsen things by changing history. He pointing out that he and Chakotay survived. But Kim harshly replies that the only reason this timeline exists is because of his error. "The crew trusted me and I let them down!" he spits. Then the computer sounds an alarm, and announces a warning of a vessel approaching. Kim checks the scanners and sees that it is the Starfleet vessel. He hails Chakotay and Tessa and alerts them. They acknowledge and prepare to return immediately.
+Kim then offers to take The Doctor off-line if he has doubt about assisting them. The Doctor considers and agrees to help willingly: he wants Voyager back as much as they do. Kim smiles and pats him on the shoulder.
+
+
+=== Act Four ===
+2375
+Aboard Voyager, all is in readiness for the slipstream. Janeway records a log entry in which she states for the record, should the attempt end in disaster, that the crew acted with distinction and valor. Aboard the Delta Flyer, some distance ahead of Voyager, Commander Chakotay and Ensign Kim are also ready. After a pre-flight checklist, a telemetry link is established between the two vessels. Janeway gives the order to begin.
+2390
+
+The Federation starship arrives and closes on the Flyer. It is a Galaxy-class starship. The Flyer flees at top speed, and the ship pursues them. Chakotay and Tessa pilot the Flyer, while Kim works in the lab with The Doctor to send the new phase corrections.
+
+The Federation ship hails. Chakotay answers. Its captain, Geordi La Forge, appears on the viewscreen. He identifies himself, and his ship as the USS Challenger and calmly instructs them to stand down. Chakotay and Tessa refuse. La Forge then presents to them a deal offered by the Federation Council: if they stand down and return the temporal transmitter, the charge of conspiracy will be dropped.
+Chakotay and Tessa reject the offer. La Forge understands, admitting he would likely be attempting the same thing in Chakotay's position. But as a Starfleet captain his duty is to his own crew and to prevent history from being altered, and repeats his instruction to stand down. Chakotay says La Forge knows he cannot do that, to which La Forge responds Chakotay knows he, La Forge, must try to stop them. They wish each other luck and end the communication. Tessa reports the Challenger is targeting the Flyer's engines and Chakotay orders deflector shields raised and weapons readied.
+2375
+
+On Voyager's bridge, Captain Janeway hails the Delta Flyer and orders Chakotay and Kim to prepare for engagement of the slipstream drive. They acknowledge. Janeway orders Paris to engage the drive. Paris counts down. At zero, he engages the drive. Normal space explodes into a slipstream tunnel as the two ships enter slipstream space. They are on their way.
+2390
+The Flyer is hammered by the Challenger's weapons. Chakotay fires back, but of course, the shuttle's weapons have no effect against the starship's shields. In the lab, The Doctor quickly works to extract Seven's chronometric node from her cadaver, to give Kim the needed time index to send new phase corrections to.
+2375
+On Voyager's bridge, Seven of Nine, at the auxiliary tactical console, detects the phase variance. Ensign Kim, on the Delta Flyer, quickly calculates the compensatory corrections to send back to Paris at the conn console. He sends the corrections. Paris inputs them. The variance decreases. All seems to be going well.
+But then Seven reports the variance is increasing again. The increase is now more rapid than before. Voyager is shaken and begins to vibrate. Janeway hails Kim for an explanation. Kim becomes fearful. He is at a complete loss; the corrections should be working, he insists. He begins to quickly review them, fighting to control his fear.
+Then the com link between the ships fails, followed by the telemetry link. Paris reports tensely that the slipstream is destabilizing. Janeway orders him to shut the drive down. Paris tries to do so, but fails.
+2390
+The Doctor succeeds in extracting the needed time index from Seven's chronometric node. He reads it out to Kim, who quickly inputs it into the transmitter. He calls up the new corrections on the computer, interfaces the computer with the transmitter, and activates the transmitter, confidently telling The Doctor that this time, he will be successful.
+2375
+
+Seven of Nine suddenly looks perturbed. She reports to Janeway that she is receiving new phase corrections, even though the com link is down. Janeway surmises that Ensign Kim must have found a way to access her Borg implants to send the corrections. She orders them used.
+Seven does so. But they do not work; instead the variance increases even more rapidly. All hell breaks loose. Paris reports the hull is buckling. Janeway orders deflector shields at maximum. She orders Paris to hold her steady. He tries, but fails. The ship explodes back into normal space. Amid the alarms, Paris shouts that inertial dampers are offline. There is no sign of the Flyer.
+
+Aboard the Flyer, still in the slipstream, Kim is shocked and horrified to see what has happened. He tells Chakotay to alter course to return to where Voyager was thrown out. But Chakotay tells him that that the Flyer would not survive falling out, even if Voyager did. Panicked, Kim insists, but Chakotay sternly tells him they have no choice. Kim sinks to the floor, as the full enormity of his failure starts to sink in.
+Voyager spins and careens, completely out of control. Paris informs Janeway that they are but a few parsecs from the Alpha Quadrant. Tuvok reports extensive hull breaches; if they do not land immediately, Voyager will be torn apart. Paris then reports a planet nearby, Class L, covered with snow and ice. Janeway orders him to attempt to land.
+
+Voyager enters the planet's atmosphere, but fails to slow down and approaches the surface at full impulse. Janeway orders full reverse thrusters, but this avails them naught. She orders all hands to brace for impact.
+Voyager crashes belly-first into the solid, icy surface of the planet at high speed. The ship careens violently along the surface with one of the warp nacelles being destroyed upon impact with a patch of rocky terrain. Without inertial dampers, the crew of Voyager are killed immediately.
+
+
+=== Act Five ===
+2390
+On the Flyer, Kim is shocked and very much dismayed to find that nothing has changed. If Voyager had been saved, then this entire timeline would have been erased, and they would not be there still trying to save her. His new corrections did not work. He checks the equipment, and hails Chakotay, informing him of the failure.
+The Flyer's engines fail. The Challenger catches it in a tractor beam. Chakotay suggests a dangerous method of escape: sending a plasma surge through the beam to break its grip on them. Tessa confirms that this can be done, but warns him that their heavily damaged EPS relays might cause their warp core to destabilize, destroying them. Chakotay gently tells her she can leave and beam to the Challenger if she so desires, but she refuses with an equally gentle smile. He returns it and hails Kim, informing him that they have a few more minutes.
+In the lab, Kim feverishly checks his calculations, but cannot see why they did not work. The Flyer escapes from the tractor beam but, as Tessa warned, the warp core begins to destabilize. Chakotay hails Kim and alerts him that they have three minutes until they are destroyed. Kim begins to panic. He checks and rechecks his calculations, but to no avail; he simply cannot find the reason why they failed. The Doctor sternly tells him to keep trying. He does for a few seconds more, but gets nowhere.
+
+Kim then loses control of himself, screaming, anguished: "I killed them! They trusted me and I KILLED THEM!" The Doctor becomes furious. He spins him around to face him and shouts at him into his face to control himself and stop wallowing in self-pity. Kim hysterically tells him he is repeating history, destroying Voyager once again. The Doctor sternly retorts that he, Kim, is the only one who can change history to save her and the crew. Kim steps away from him, tearfully insisting that it is impossible.
+But then The Doctor counters that while they must accept that Kim was unable to correct Voyager's phase variance, could he not send them a warning to stop the flight or not attempt it at all? Kim seizes upon this: he could send a set of calculations that would cause the slipstream to harmlessly dissipate, depositing them back into normal space and shutting down the drive. Reinvigorated by the knowledge that he could still save the ship, he rushes back to the equipment and begins making the calculations, as the computer counts down the final 60 seconds before the warp core breaches.
+Chakotay asks Tessa if the core can be ejected. She responds no. Captain La Forge hails them. The Challenger's sensors have detected the imminent core breach; he offers to beam all of them off. Chakotay politely thanks him, but refuses and suggests he move his ship a safe distance away.
+Kim completes the calculations. But then he notices with horror the transmitter's power source is nearly depleted; the transmitter is shutting down. He looks desperately for an alternative and finds one: The Doctor's mobile emitter. The Doctor gladly surrenders it. He and Kim exchange comradely smiles and pats on the shoulder, then he dematerializes. Kim attaches the emitter to the transmitter, informing Chakotay that he is giving it one more try.
+The time runs down. Chakotay and Tessa, in the final ten seconds, hold hands. Kim works feverishly. At the very last second, he succeeds in transmitting the calculations. He screams an elated, victorious "YES!" just before the Flyer explodes, killing them.
+2375
+Seven of Nine suddenly looks perturbed. She reports to Janeway that she is receiving new phase corrections, even though the com link is down. Janeway surmises that Ensign Kim must have found a way to access her Borg implants to send the corrections. She orders them used. The corrections cause the drive to shut down. Paris reports the slipstream is dissipating. Both Voyager and the Flyer emerge from slipstream space back into normal space, unharmed.
+Communications between the two ships comes back online. Ensign Kim hails Voyager, confused, and asks what happened. Captain Janeway, looking very displeased, tells him that he made a mistake: the phase corrections, which he sent to Seven shut the drive down. This confuses Kim even more; he responds that he sent no corrections to Seven. This stuns Janeway and the bridge crew. She informs him that Seven received a set of corrections through her implants. "It wasn't you?" she asks. He repeats that it was not. Janeway and the bridge officers look at each other, dumbfounded.
+Janeway notes in her log that she has ordered the quantum slipstream drive dismantled until it can be perfected, however Janeway also notes that the little time they spent in the slipstream shaved a solid ten years off their journey. She comments that, despite the failure to get home, the crew's momentum seems to have been renewed. it seems to be a matter of when they get home, rather than if.
+Ensign Kim sits glumly alone in the darkened mess hall with a desktop monitor. Janeway enters and sits with him. He sadly tells her he has discovered the phase corrections he had sent were wrong; their use would have severely damaged or even destroyed Voyager.
+But, he continues, he cannot fathom where the other corrections came from, or who sent them. Janeway enigmatically tells him that they came from a "guardian angel named Harry Kim." She explains to him that Seven found a Starfleet security code in the transmission: his. Further, the transmission had a temporal displacement, showing that it originated between 10 and 20 years in the future.
+
+Confused, Kim asks how could he have sent the message from the future to change the past if by changing the past, that future was erased? Janeway gently advises him not to try to figure it out; all that matters, she insists, is that "somewhere, somehow, sometime, you'll come through for us." She then invites him to listen to it from his own mouth if he does not believe her, and hands him a tricorder. On it, she tells him, is a video message his future self also sent with the transmission, to him here, in the past, now the present. She then leaves him, but not before smiling at him sweetly and proudly.
+Kim slowly interfaces the monitor and the tricorder and plays the message. The image of the future, older Harry Kim gazes at him with a small smile. It is the same message the future Kim was seen recording. He tells him that if he is seeing this, then the mistake he made fifteen years ago (sending the erroneous phase corrections) has been corrected. "You owe me one," he finishes. Kim stares at the image in wonder.
+
+
+== Log entries ==
+Captain's log, Stardate 52143.6. With any luck, my next log entry will be made in the Alpha Quadrant, but should our luck run out, I'd like to say for the record that the crew of Voyager acted with distinction and valor.
+Captain's log, supplemental. Our Slipstream flight may have been brief but it took nearly ten years off our journey. I've given the order to dismantle the Quantum Drive until the technology can be perfected. Despite the setback, we have a renewed sense of momentum. It no longer seems a question of if we get home, but when.
+
+
+== Memorable quotes ==
+"Mr. Neelix, you are an unending source of astonishment."
+"Why, thank you, Mr. Vulcan!"
+
+- Tuvok and Neelix, in reference to Neelix's gift of the stuffed Talaxian Furfly.
+
+"Decks Nine through Fourteen are now... Deck Ten. They've been compacted."
+
+- Harry Kim, inspecting the damaged ship
+
+"How many glasses of champagne did you consume?"
+"One."
+"Obviously the Borg can't hold their liquor."
+
+- The Doctor and Seven
+
+"You see, Doc, fifteen years ago, I miscalculated the slipstream threshold and transmitted the wrong phase corrections to Voyager. Boom! They were knocked out of the slipstream and sent to an icy death; 'Thank you, Ensign Kim.'"
+
+- Harry Kim, to The Doctor
+
+"But I've had a long time to rethink my mistake, and now I know how to fix it. So...we're going to send Voyager a new set of phase corrections."
+"Isn't it a little late for that...?"
+
+- Harry Kim and The Doctor
+
+"And how did you get involved with Bonnie and Clyde here?"
+"I've been interested in Voyager for a long time."
+"They're having sex."
+
+- The Doctor, Tessa Omond, and Harry Kim
+
+"Shield generators?"
+"Online."
+"Plasma flow?"
+"Stable."
+"Comm link?"
+"Secure."
+"Lunch?"
+"(pause) Salami sandwiches."
+
+- Harry Kim and Chakotay, just before entering the slipstream in the Delta Flyer
+
+"I killed them!"
+"Control yourself!"
+"They trusted me and I KILLED THEM!"
+"MR. KIM! I didn't spend all those years in an ice bucket so I could listen to you berate yourself! If you want to wallow in self-pity, fine! DO IT ON YOUR OWN TIME!"
+
+- Harry Kim and The Doctor
+
+"To aid an honorable thief or to spend eternity in cybernetic oblivion... (pause) Let's tempt fate."
+
+- The Doctor to Harry Kim (regarding changing the timeline, at threat of having his program shut off)
+
+"This is no ordinary phone call, Doc, we're talking to yesterday. Timing is everything."
+
+- Harry Kim to The Doctor
+
+"I'm no time travel expert, but can't we just call Voyager again? The past isn't going anywhere."
+
+- The Doctor
+
+"Don't you see? History is repeating itself! I destroyed Voyager once and I'm doing it again!"
+"Someone has got to knuckle down and change history, and that someone is you."
+"It can't be done, Doc – I told you..."
+"No – you told me you can't correct their phase variance. All right – we have to accept that. But what about sending Voyager a warning? Is there a way to get them to abort the slipstream flight?"
+(Scientifically) "Yes... (Excitedly, realizing all is not lost) ...YES! I could send a phase correction which would disperse the slipstream entirely!"
+"If we can't get the crew home, at least we can save their lives!"
+
+- Harry Kim and The Doctor
+
+"Warning: Warp core breach in ten, nine, eight, seven, six, five, four, three, two..."
+"YES!!!"
+
+- The computer, counting down the final seconds before the Delta Flyer would experience a warp core breach; and Harry Kim, knowing his message got through
+
+"The corrections I sent you were wrong – if you had used them, Voyager would've been heavily damaged – maybe even destroyed. What I can't figure out is who sent the other phase corrections to Seven of Nine."
+"Looks like we've got a guardian angel."
+"Oh, I wish I could believe that..."
+"Believe it: his name is Harry Kim– Seven found a Starfleet security code embedded in the transmission – yours."
+
+- Harry Kim and Captain Janeway
+
+"If I sent a message from the future, and changed the past, then that future would no longer exist – right? So, how could I have sent the message in the first place – am I making any sense?"
+"My advice in making sense of temporal paradoxes is simple: Don't even try. To me, all that matters is that somewhere, somehow, sometime, you'll come through for us."
+
+- Harry Kim and Captain Janeway, after realizing that "he" saved Voyager
+
+"Hello, Harry. I don't have much time, so listen to me. Fifteen years ago, I made a mistake and 150 people died. I've spent every day since then regretting that mistake. But if you're watching this right now, that means all of that has changed. You owe me one."
+
+- Harry Kim (2390) to Harry Kim (2375)
+
+
+== Background information ==
+
+
+=== Story and script ===
+As was often the case during story development, executive producer Brannon Braga's first idea for this particular episode was visual, as the initial inspiration was the thought of Voyager buried under ice. (Cinefantastique, Vol. 31, No. 11, p. 40) In a retrospective interview, former staff writer Bryan Fuller recalled, "It was very exciting. You know, that episode really started with an image. We were all in the break room, we were talking with Joe Menosky and Brannon Braga, and the central image of that show was Voyager crashing in the ice and sinking and finding the crew frozen, decades later." (Star Trek: Fan Collective - Alternate Realities, "Alternate Lives: Part 2")
+The fact that this is Star Trek: Voyager's 100th episode motivated the show's writers. Actor/director LeVar Burton observed, "They felt excited about it [–] They felt there was an opportunity to see something special, but you never know. It all boils down to the script." (Cinefantastique, Vol. 31, No. 11, p. 40) The party that the crew of Voyager have in this episode may be considered a parallel to the celebratory mood of the production staff, regarding the episode's status as a notable milestone.
+Brannon Braga specifically chose not to have the story become a two-parter. Kim actor Garrett Wang reflected, "Brannon's comment on that was that he wanted the episode to stand alone, as if it was a 'City on the Edge of Forever' episode." (Cinefantastique, Vol. 31, No. 11, p. 42)
+While the installment was under development, co-writers Brannon Braga and Joe Menosky tried to differentiate the episode's plot from the clichéd "twists and turns" (in Menosky's words) of a typical time travel story. Menosky believed that this concern had a visible impact on the installment's plot. "'Timeless' is like a post-modern time travel story, because nobody is actually traveling through time," he observed. "There's [only] a message sent through time." (Cinefantastique, Vol. 31, No. 11, p. 40)
+Brannon Braga and Joe Menosky also took a minimalist approach to the writing of the episode's beginning. Menosky reflected, "When we were initially talking about it, we were trying to figure out a way to do it with no dialogue at all, and do the teaser and Act One absolutely silent, which is pretty impossible to pull off." Nonetheless, because of this effort, there is not much dialogue in the teaser and first act, as Menosky also noted. He concluded, "I think we did it as well as we could." (Cinefantastique, Vol. 31, No. 11, p. 40)
+The script of this episode specified how much ice Brannon Braga thought there should be between the buried Voyager and the frozen planet that served as its resting place. Visual effects supervisor Mitch Suskin remembered this description from the episode's teaser: "The script said, 'They see Voyager under tens of meters of ice.'" (Cinefantastique, Vol. 31, No. 11, p. 40)
+The scripted description of the sequence wherein Voyager crashes on the frozen planet was very short. "[It's] almost like nothing," Joe Menosky commented. "It's something we barely scripted, when Voyager plunges out of space, down through the atmosphere of this ice planet, and then does a belly flop on this glacier and crashes into the screen. [In] the script it's like half a page, nothing." (Cinefantastique, Vol. 31, No. 11, p. 40)
+The episode's focus on the character of Harry Kim was one of several instances where the writing staff tried to feature lesser-seen main characters. Story editor Nick Sagan offered, "There was definitely that mindset, especially at the very beginning of the [fifth] season, with 'Timeless' and Harry Kim, which gave him an opportunity to shine." [1]
+The persona of the future Kim was conceptually influenced by how the character had been portrayed in a previous two-parter. Explained Joe Menosky, "The future Kim in 'Timeless' was directly inspired by the belted-around Kim and edgy Kim from "The Killing Game"." (Cinefantastique, Vol. 31, No. 11, p. 40)
+The addition of Captain Geordi La Forge was made to the script shortly after a draft of the teleplay was released to the production company. LeVar Burton, who reprised the role here, remembered, "We had a draft, and then I got a call one Sunday afternoon from Brannon, who said, 'I'm just kicking around an idea, but before I start running with this, I want to know how you would feel about making a cameo appearance as Captain La Forge.' I laughed and said, 'I don't know. You write it, and we'll talk.'" (Cinefantastique, Vol. 31, No. 11, p. 42)
+According to the unauthorized reference book Delta Quadrant (p. 265), the USS Challenger was named for the space shuttle orbiter Challenger. Indeed, the two spacecrafts have similar registry numbers.
+
+
+=== Cast and characters ===
+During the fourth season of Star Trek: Voyager, Joe Menosky never imagined that the character of Harry Kim might serve as the protagonist in such a landmark episode as this. "If someone would have said to me, 'The hundredth episode, next season, is going to feature Garrett [Wang] and Ensign Kim,' I just would have laughed," Menosky speculated. "It was just inconceivable." Consequently, Menosky thought that the way in which Kim's portrayal in the two-parter "The Killing Game" and "The Killing Game, Part II" inspired the creation of the future Kim here was "funny". (Cinefantastique, Vol. 31, No. 11, p. 41)
+Garrett Wang approached the character of the older Harry Kim by seeking a well-known movie role as a reference. The actor remembered, "When I originally spoke with Brannon Braga about the episode, I said, 'What do you see out of the older Kim? Give me something from pop culture that will clue me in a little more.' He said, 'I see him as the character from the original Lethal Weapon, the character that Mel Gibson played, [who] doesn't care about what's going on, about his own life. He's kind of wacked out, that kind of character.' I see where he is coming from, but I just made sure that what I brought to the older Kim was somebody who had been completely focused, or obsessed really, with saving the crew, changing the timeline." Wang also tried to imbue the future Kim with a sense that he was a very pained character, having carried a mix of guilt, bitterness and generally unhappy feelings over many years. (Cinefantastique, Vol. 31, No. 11, p. 41)
+Garrett Wang had hopes of this episode being made into a film or at least a two-parter. "It could have been a feature," he theorized. "The way it was shot, and just the whole idea, it definitely could have been a feature. I was hoping that it was going to be a two-parter [...] and I was ready to do it, too." Wang reckoned that much of the exposition here about Kim and Chakotay's homecoming, such as them having received medals and Kim having been asked to marry Admiral MacIntyre's daughter, could have been shown in such a two-parter. (Cinefantastique, Vol. 31, No. 11, p. 42)
+Joe Menosky was enthusiastic about Garrett Wang's performance here, stating, "Garrett was great." (Cinefantastique, Vol. 31, No. 11, p. 42)
+LeVar Burton found that reprising his own role of Geordi La Forge here was enjoyable. "It was fun," he enthused. "It was a nice little opportunity to put a spacesuit on." (Cinefantastique, Vol. 31, No. 11, p. 42)
+
+
+=== Production ===
+This was the first time that LeVar Burton had directed an episode of Star Trek in which he appeared since TNG: "The Pegasus" in 1994. He was requested to direct this episode by Brannon Braga. "Brannon [–] called me and asked me to do the 100th episode," Burton remembered, "and I said, 'I'd be happy to.'" According to Burton, it was "right before we started shooting" that he okayed the possibility of him appearing in a cameo as Captain Geordi La Forge. (Cinefantastique, Vol. 31, No. 11, p. 42)
+The set of the Delta Flyer's interior, notably its rear door, was modified for its appearance in the alternate future. (Delta Quadrant, p. 265)
+Filming on this episode ran from 6 August 1998 to 18 August 1998. The first day's filming took place on the "frozen" bridge. The redressing of that set began after the final bridge scene for "Nothing Human" was filmed on 29 July 1998 – the filming schedule was arranged to allow the prep time needed. The set was returned to normal for the pre-crash sequences three working days later. The brief scene in Sickbay was prepared and filmed on 12 August 1998, with the "frozen" corridor and Jefferies tube scenes filmed on 18 August. (Star Trek Magazine issue 139)
+LeVar Burton found the installment's production somewhat challenging. He commented, "I don't think it was any harder than a normal episode, necessarily. [But] there were some really serious challenges, in terms of freezing some of the permanent sets, and then having to turn them around in the same episode and shoot them normal. That was harder on the art department and set dressing [crew] than anybody else." (Cinefantastique, Vol. 31, No. 11, p. 42)
+Despite the difficulties of production, LeVar Burton had fun during the filming. "I had a great time shooting it," he said. (Cinefantastique, Vol. 31, No. 11, p. 42)
+Garrett Wang noted that he managed his difficult job of portraying the older Kim "with the help of LeVar Burton" as director. (Cinefantastique, Vol. 31, No. 11, p. 42)
+During the episode's production, the shooting company held a party to commemorate the 100th episode. Bryan Fuller reminisced, "It was a big celebration for the crew and the cast and the writers, because [–] it's a huge landmark to actually have 100 episodes in the can and a benchmark that a lot of shows don't get to, so there was quite a big celebration. On the set, we had a huge cake [...] The entire cast was there, writers from past and present, cast members that had come and gone [...] All came down to tip their hat to the 100th episode of Voyager." (Star Trek: Fan Collective - Alternate Realities, "Alternate Lives: Part 2")
+
+
+=== Effects ===
+The Foundation Imaging staffers who worked on the computer generated effects of this show included both Foundation visual effects supervisor Robert Bonchune and director of animation John Teska. (Cinefantastique, Vol. 31, No. 11, p. 40) This was, in fact, the first episode for which Bonchune supervised Foundation's output. (Star Trek Monthly issue 80, p. 75)
+Even though the requirements of this episode's visual effects represented a challenge, the effects artists persisted with their work on the installment. "Everyone just said, 'Ok, we're gonna do it,'" recounted Rob Bonchune. "We made that decision, and everything just kept rolling until it was done." (Star Trek Monthly issue 80, p. 75)
+Visualizing the shot of Voyager buried under the ice turned out to be a particularly difficult task. Mitch Suskin noted, "The biggest problem with that was a conceptual problem." Even though Brannon Braga had imagined the ship being shown under "tens of meters of ice," nothing would actually be visible from the planet's surface if the vessel was under that depth. Illustrations were used to examine this issue. Suskin continued, "We talked to Brannon Braga about it, and Steve Burg did sketches of the problems inherent with seeing Voyager under the ice [...] We did some concept art showing the Voyager halfway sticking out of the glacier, half covered up. We thought it was really dramatic." However, Braga maintained that he wanted to see the ship entirely under the ice. The shot was finally realized with a digital matte painting illustrated by Eric Chauvin. Suskin opined that, in the final version of the shot, the ice looks "more like water than ice." (Cinefantastique, Vol. 31, No. 11, p. 40)
+The sequence showing Voyager crash-landing on the icy planet was planned with concept artwork designed by illustrator Steve Burg. [2](X) The same sequence was originally visualized by a different CGI effects company than Foundation Imaging. Mitch Suskin recalled, "We had approached the crash sequence with particle animation, with another group doing it first. They did a really good job, but in the end it didn't come up to our standard. It just wasn't good enough. We decided to do the combination of CG crash, and actual filmed elements." The sequence, in whose development Foundation Imaging ultimately did play a part, specifically involved a mixture of CGI and real baking soda. (Cinefantastique, Vol. 31, No. 11, p. 40) Robert Legato specified that the special effects team for Star Trek: Voyager used the baking soda to represent snow sprayed by the CGI-rendered USS Voyager. [3](X) In summation, Mitch Suskin noted about the task of capturing the sequence, "To some degree, that challenge is what made it so much fun." (Cinefantastique, Vol. 31, No. 11, p. 40)
+Foundation Imaging's work on this episode took slightly longer than a fortnight. Rob Bonchune commented, "We did all of that, the whole show, in two weeks and two days. From nothing to that." (Star Trek Monthly issue 80, p. 75)
+
+
+=== Reception ===
+Joe Menosky remarked, "In some ways I think 'Timeless' captures perfectly the new style of Voyager." He especially liked the crash sequence, regarding it as "my favorite moment of the year." Menosky went on to speak fondly of the effects work in the sequence and raved, "I couldn't stop watching it. I probably watched that sequence 50 times. It was like a nonstop, roller coaster rush for me." Menosky additionally enthused, "What I think made 'Timeless' work was the imagery, The Doctor up in the Delta Flyer holding Seven's skull, and the kind of mussed-up Kim. The mussed-up, tough, cynical Kim, things like this are the things that I think carried that episode." (Cinefantastique, Vol. 31, No. 11, p. 40) Menosky also found the installment's conclusion to be emotionally effective. "I had a little tear in my eye at the end, and that was a very earned emotion. That little goodbye message from [Kim's] future self was very interesting and evocative and emotional, without quite telling you what to think, which I think is a very cool thing to be able to do." (Cinefantastique, Vol. 31, No. 11, p. 42)
+Executive producer Rick Berman was likewise happy with this outing, ranking it (in 2003) among his favorites from the entirety of Voyager (along with "Scorpion", "Scorpion, Part II" and "Someone to Watch Over Me"). He stated, "I thought 'Timeless' was a great high-concept sci-fi episode and it had a great teaser." (Star Trek Monthly issue 105, p. 18)
+Brannon Braga was also proud of this time-related outing. "It was a perfect episode," he remarked. (Cinefantastique, Vol. 31, No. 11, p. 42) In a 2011 interview, he spoke very fondly of the installment and offered, "'Timeless' was specific to Voyager. It couldn't really have been done on any of the other shows. I thought it was really good." [4] In a 2013 interview, Braga again referred to being "enormously proud of" this episode and went on to say, "It's relatively simple, but it's filled with striking imagery and character moments. The image of a frozen ship is just perfect [–] If that had been a Next Generation episode, it would be a classic. It would be 'one of the good ones." [5]
+Another member of Star Trek: Voyager's writing staff who thought highly of this episode was Bryan Fuller. "I think it was one of our best episodes," he enthused. "It hit on all cylinders." Fuller also believed that the story tapped into a widespread wish of being able to correct a regretful action in the past. "That's something, I think, that is a fantasy of everybody when we've made a mistake," commented Fuller, "especially a costly mistake that has killed hundreds of people." (Star Trek: Fan Collective - Alternate Realities, "Alternate Lives: Part 2")
+LeVar Burton, Garrett Wang and Mitch Suskin each had high praise for the writing of the episode. Burton reminisced, "In the end, Brannon wrote an incredible script. I thought the first draft was pretty good, and then with every set of revisions, it just got better, and better, and better." Wang offered, "I thought the transitions joined the way that you got to see the original accident happening when it happened for the second time, how it skipped back and forth between present and past. I often tell people that the name of that episode, the way it was written at least, should be [–] 'Seamless' instead of 'Timeless'. To me it was definitely just seamless transitions." Enthused Suskin, "'Timeless' was serious, had a great, well-balanced script, and the visual effects were very nicely integrated into the show." (Cinefantastique, Vol. 31, No. 11, p. 42)
+Burton also later shared with Star Trek: The Magazine Volume 1, Issue 19, p. 18, "I thought 'Timeless' was a really excellent, well written, well realized episode. It was outstanding. I had many conversations with [Braga], and I really felt, more than ever before, that I had an ability to impact the material."
+In common with Garrett Wang, Rob Bonchune slightly regretted that the episode was not a two-parter. "I almost wish it was," he said. Bonchune also related that he had actually expected the production crew to film Chakotay and Kim stealing the Delta Flyer from a Federation drydock and embarking on their mission to change history by saving Voyager. He commented, "That would have been nice." (Cinefantastique, Vol. 31, No. 11, p. 42) Bonchune was, on the other hand, satisfied with the visual effects of this outing, "shamelessly" citing the episode as his favorite of Star Trek: Voyager's entire run. He noted, "I'm probably most proud of the work from everybody [at Foundation Imaging] for that one." (Star Trek Monthly issue 80, p. 75)
+Joe Menosky and Rob Bonchune were not alone in liking the visual effects of this episode. Bonchune observed, "A lot of people thought it was better than the stuff they'd seen on film – in movies – where they've had months to do something like that." (Star Trek Monthly issue 80, p. 75) Hence, the episode was nominated for an Emmy Award for Outstanding Special Visual Effects for a Series. Star Trek nearly swept the nominees that year; also nominated were VOY: "Dark Frontier", "Thirty Days" and DS9: "What You Leave Behind". "Dark Frontier" won.
+The book Star Trek 101 (p. 175), by Terry J. Erdmann and Paula M. Block, lists this episode as one of the "Ten Essential Episodes" from Star Trek: Voyager.
+Among the items, props, and costumes from this episode which were sold off on the It's A Wrap! sale and auction on eBay were the boots of Christine Harnos. [6](X)
+
+
+=== Continuity ===
+In this episode, Captain La Forge wears the Star Trek: First Contact, Star Trek: Insurrection, Star Trek Nemesis and later DS9 variant of uniform, with the red divisional color denoting command similar to the division color he wore in the first season of Star Trek: The Next Generation, but the variant of combadge previously shown in both TNG: "All Good Things..." and DS9: "The Visitor". The survival suits were previously seen in the Star Trek: Deep Space Nine episode "The Ascent".
+This episode marks one of the few times that the Beta Quadrant is named in dialogue, as the salvage location of the temporal transmitter.
+Star Trek: Picard season 1, set in the prime timeline, would later introduce the Artifact, an abandoned Borg cube stranded in Romulan space circa the 2380s and possibly the ship mentioned by the alternate Kim. When asked on Instagram if the Artifact was the same cube, Picard showrunner Michael Chabon merely responded: "Do you have a theory?" [7]
+The episode's inclusion of the USS Challenger marks the first appearance of a Galaxy-class starship on the series.
+This episode features the third of five times that the destruction of Voyager is depicted on the series, previous occasions being "Deadlock" and "Year of Hell, Part II". On this occasion, an alternate timeline version of Voyager has been destroyed by impact with a planet.
+This episode features the sixth of nine times that Kathryn Janeway's death is depicted over the course of the series. Previous episodes that depict this include "Time and Again", "Deadlock", "Before and After", "Worst Case Scenario", and "Year of Hell, Part II". On this occasion, the version of Janeway that succumbs to death is one of an alternate timeline that ultimately doesn't come to pass, and the cause of death is Voyager's impact with a planetary surface. It also marks the third time Harry Kim is seen to die in the series, in which case his future self dies in the explosion of the Delta Flyer.
+The slip stream drive represents the tenth time besides the series premiere (after "Eye of the Needle", "Prime Factors", "The 37's", "Cold Fire", "Threshold", "Death Wish", "False Profits", "Future's End, Part II", and "The Q and the Grey") that the Voyager crew is presented with the possibility of returning home much faster than by conventional warp travel. In this case, the technology works, if only for a short time, and provides a significant shortcut.
+Both the future Chakotay and future Harry Kim mention that 150 lives were lost when Voyager crashed, implying a total crew complement of 152. This is consistent with the second-season premier "The 37's" which also gives a figure of 152 at that time. However, the crew complement has more recently been established as 148 in third-season episodes "Displaced" and "Distant Origin", and implied by The Doctor just two episodes previously, in "In the Flesh", as being significantly lower at just 127.
+The events of this episode cut ten years off of Voyager's trip home.
+According to Janeway, this episode takes place four years, two months and eleven days since the events of the pilot episode "Caretaker".
+The events of this episode are similar to that of the series finale "Endgame" in which a future former crew member from the starship Voyager (Admiral Janeway) attempts to change time in order to have Voyager return to the Alpha Quadrant sooner. In both cases, the Galaxy-class starship USS Challenger makes an appearance.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 5.3, 3 May 1999.
+As part of the VOY Season 5 DVD collection.
+As part of the Star Trek: Fan Collective - Alternate Realities collection.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest star ===
+Christine Harnos as Tessa Omond
+
+
+=== Special appearance by ===
+LeVar Burton as Geordi La Forge
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Ashmore
+David Brett as Voyager operations officer
+Lin Chong as Voyager sciences ensign
+Christine Delgado as Susan Nicoletti
+Anna Deng as Voyager sciences officer
+Brian Donofrio as Voyager sciences officer
+Tarik Ergin as Ayala
+Richard Sarstedt as William McKenzie
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+Stuart Wong – stand-in for Garrett Wang
+
+
+=== References ===
+2371; 2379; 2380; 2381; 2390; acceptance speech; Alpha Quadrant; alternate timelines; antimatter fireworks; backpack; Baxial; bearing; benamite; Beta Quadrant; bio-bed; bio-neural circuitry; blood synthehol level; Bonnie and Clyde; Borg; Borg Collective; Borg cube (unnamed); Borg drone; Borg technology; Challenger, USS; champagne; choir; chronometric node; class L; classified; Cochrane Medal of Honor; com-link; commemorative plaque; command code; confetti; conspiracy; cortical implant; cortical node; counselor; crystal; cybernetic implant; deep freeze; deep space vessel (Unnamed Federation starships); deflector; Delta Flyer; Delta Quadrant; "distinction and valor"; dozen; Earth; Edsel; emergency landing; emergency power; engine; engine room; engineer; EPS relay; escape pod; evasive maneuvers; famished; Federation; Federation shipyard; fire; flight plan; fugitive; Galaxy-class; "Galaxy's Most Wanted"; generation; glacier; guardian angel; heart; high treason; hip; holodeck; homecoming; horror story; icebox; ice bucket; inaprovaline; interplexing beacon; inertial dampers; injection; Intermezzo op.117 no.1; intoxication; Intrepid-class decks; isoprobe; Janeway's grandmother; "Joined at the hip"; kilometer; kinetics; knuckle; "a lemon"; liquor; low orbit; lunch; MacIntyre; MacIntyre's daughter; medal; mentor; meter; Milky Way Galaxy; millisecond; Mister Vulcan; mobile emitter; molecule; most wanted; motor cortex; neural gel packs; organic systems; party; phase correction; phase variance; phone call; plasma; power cell; power grid; preserved (aka stuffed); probability; quantum field; quantum matrix; quantum slipstream drive (aka quantum drive/slipstream drive); reentry; resignation; reunion; ride the rapids; salami sandwich; Salvage Component 36698; security code; sensor glitch; sensor log; sex; shield generators; sign of good fortune; slipstream; social skills; spacefaring tradition; Starfleet Command; Starfleet design protocol; Starfleet Headquarters; Starfleet admirals; Starfleet Headquarters' counselors; Starfleet Intelligence; stowaway; streamer; survival suit; survivor guilt; synthehol; tactical alert; Talaxian; Talaxian Furfly; Takara sector; temporal paradox; Temporal Prime Directive; temporal transmitter; theft; time index; "time of death"; time travel expert; timeline; transceiver; translink frequency; transporter relay; tricorder; tunic; vegetable biryani; visual processor; Vulcan; Vulcan children's choir; warp core diagnostic; warp matrix; year
+
+
+=== External links ===
+"Timeless" at Memory Beta, the wiki for licensed Star Trek works
+"Timeless" at Wikipedia
+"Timeless" at FiveMinute.net
+"Report: Visual Effects Magic Not Always High-Tech"(X), 6 July 2001, StarTrek.com (2 January 2007)
+"Timeless" at the Internet Movie Database
+"Timeless" at MissionLogPodcast.com

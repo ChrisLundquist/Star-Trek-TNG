@@ -1,0 +1,213 @@
+The crew of the Enterprise wakes up after apparently passing through a wormhole, finding mysteries surrounding their blackout. Data begins to act suspiciously, prompting the command staff to wonder if he has been compromised.
+
+
+== Summary ==
+
+
+=== Teaser ===
+After completing a mission early at Harrakis V, the crew of the USS Enterprise is granted extra personal time to pursue their interests, with Worf instructing a mok'bara class and Dr. Crusher conducting an experiment with Diomedian scarlet moss. Captain Jean-Luc Picard decides to show Guinan his Dixon Hill holodeck program. After a gangster character named Johnny is killed by gunfire outside the windows in Dixon Hill's office while holding up Picard and Guinan at gunpoint, Picard attempts to explain to her why Humans find mysteries so fascinating. Just then, Data informs him of the discovery of a T-Tauri type star near the Ngame Nebula. The sensors have detected that the system has one M-class planet, and a small, unstable wormhole, which disappears. Data notes such phenomena are not uncommon in T-Tauri systems – thirty-nine had been observed since 2267. Suddenly the wormhole reappears, and flings the vessel 0.54 parsecs from the system, and causes the entire crew, with the exception of Lieutenant Commander Data, to fall unconscious.
+
+
+=== Act One ===
+As the crew slowly awakens, Data informs Picard that the crew was knocked out for only thirty seconds. Picard orders Worf to launch a probe to study the M-class planet that they were going to investigate before they went through the wormhole, and they continue on their regular course. However, while treating Chief O'Brien for twisted ligaments on his elbow, Dr. Crusher discovers that her Diomedian scarlet moss has shown a full day's growth.
+Meanwhile, as the probe approaches the mysterious planet, it detects that the planet has a hydrogen-helium composition with a frozen helium core, clearly not an M-class planet. This confuses some of the crew, but they conclude that the wormhole may have been interfering with the sensors. Data speculates that the sensors may have picked up the afterimage of a planet on the other side of the wormhole. He suggests they survey nearby stars and that it would take six days. Picard dismisses this, noting that they do not have time for such a survey. Picard tells Riker they have only a minor mystery, one that has been solved to Picard's satisfaction. He asks Riker if he has no objections, they should proceed to Evadne IV. Riker agrees and Ensign McKnight lays in a course to the planet. Later, when Picard is in his ready room, Dr. Crusher comes in with her moss, and explains that they have experienced a full day's growth. Picard cannot come up with an explanation.
+
+
+=== Act Two ===
+At the staff briefing in the observation lounge, Data tries to explain away these contradictions, quoting an obscure theory by Pell Underhill, a 22nd century physicist. After Data leaves, Geordi La Forge informs the captain that he does not buy Data's explanation for a minute. In fact, he is surprised Data even brought up Underhill's theory. La Forge suggests to Picard that he examine the ship's chronometer to see if it has been tampered with and Dr. Crusher offers to analyze the transporter traces to see how much time had actually passed while the crew was unconscious. "Doctor, commander, make it so", Picard orders.
+Dr. Crusher heads to the transporter room and asks Chief O'Brien who had used the transporter before the crew had been knocked unconscious. O'Brien discovers it was one of his technicians, Ensign Locklin. Dr. Crusher and Nurse Ogawa conduct a scan and discover Locklin's electrolyte concentration had deviated, confirming Crusher's suspicions. Later on, while informing Picard that the crew had been knocked out for a lot longer than thirty seconds, they go to engineering and speak to La Forge. He informs them that he has both good news and bad news. The good news is that he discovered the chronometer had indeed been tampered with and a new security program had been inserted in its place. La Forge says the bad news is that only he and Data would be capable of performing the task. Later on, in Picard's ready room, after Data evades several of Picard's questions about what really happened, he asks Data if he would consent to being examined by La Forge. Data agrees and is escorted to engineering by Ensign Kellogg.
+
+
+=== Act Three ===
+
+Evidence continues to mount that suggests the time of collective unconsciousness was much longer than thirty seconds – indeed, it now appears an entire day had passed. La Forge examines but cannot find anything wrong with Data, yet Dr. Crusher learns Lieutenant Worf's wrist had been broken and repaired, without either's knowledge, implying that the crew was not only "missing" a day but was also not even unconscious during the entire time.
+La Forge next attempts to discover whether Data rigged the probe they launched. He finds Data made it appear as though the observed planet was essentially identical to Tethys III. Picard orders La Forge to launch a second probe to the system, and this time they find there is in fact a much different, class-M planet. It now is clear Data had at least tampered with the first probe and makes it seem doubtless that he has been concealing information and fabricating data to keep the rest of the crew from discovering the truth about what really happened during their alleged thirty second collective loss of consciousness. Picard implores Data to tell him the truth, but Data refuses; not even the threat of a court martial or having him stripped down to his wires to find out what is wrong with him can compel Data to end his by-now obvious mendacity.
+During these events, Picard and the staff are in a meeting discussing recent events. Counselor Troi says that she feels unwell and requests to be allowed to return to her quarters to rest. The captain agrees to her request. Worf escorts her and the two walk arm and arm down the corridor. Worf inquires as to her health and asks if she is well. She assures him she is, and the two part ways as she enters her quarters. As Worf walks away, Troi is heard to scream in terror. Worf calls her name and gets no response. He uses his security code to override the locked door and enters. In the bedroom, Worf finds Troi terrified of her reflection, she says that it wasn't her in the mirror. Dr. Crusher is called and examines Troi. This turn of events makes the captain realize that they need to go back to where their troubles began.
+
+
+=== Act Four ===
+Picard decides to set a course back to the T-Tauri system. As soon as they arrive, an energy pulse passes through the shields and possesses Counselor Troi and informs Data that "the plan has failed." Data asks the entity for more time and argues that the destruction of the Enterprise at this time would serve no purpose. Just then, La Forge enters and tells Data that the captain has asked him to come to the bridge. Data asks for a moment, and after La Forge has gone he asks the possessed Troi to do nothing, as it may yet be possible to salvage the situation. She seems frustrated, and Data leaves for the bridge.
+Upon entering the bridge, Data implores Picard to immediately leave the T-Tauri system. Picard refuses and demands to know why Data will not tell him the truth. Just as the possessed Troi enters the bridge, the android finally informs him that he, Picard, had ordered Data to lie.
+
+
+=== Act Five ===
+The crew finds that the system in reality contains a class M planet inhabited by the Paxans, a violently xenophobic and highly advanced race. They terraformed their planet in the T-Tauri system in order to conceal it from intruders. When an intruder comes within their space, the "wormhole" (actually an energy field) renders the ship's crew unconscious in biochemical stasis, and the ship is transported out of their space to just over half a parsec away. The idea is that when the crew awakens, they believe they were knocked unconscious by a freak wormhole and proceed on their way. However, the Paxans had never had to deal with an android before: their bioagents have no effect on Data, and Data had promptly taken action to revive the crew, foiling the Paxans' plan. A representative of the Paxans possessed Deanna Troi and threatened to destroy the ship to protect their secret. Picard then created his plan to have the Paxans wipe their short-term memory and force Data into a pledge of secrecy. In this way, the first contact incident could be "undone" and the Paxans left alone.
+The body of Troi is possessed by the same Paxan representative to communicate with the crew and warns that their prior attempt to "undo" the contact has failed. Picard explains that the previous attempt had been imperfect; too many clues were left behind that piqued their natural curiosity and led to the unraveling of the plan. In order to prevent the Paxans from destroying the ship and killing all aboard, Captain Picard and the Enterprise crew again work to alter or erase all records concerning the true nature of the planet, this time taking into account the problematic inconsistencies previously discovered. Only Data is allowed to retain any knowledge of what happened to the ship and crew during the missing day, and he is again instructed to conceal that knowledge.
+Once the crew is brought back from stasis again, the conversation goes approximately the same as the first time. Data suggests launching a probe, to which Picard assents. He also orders Data to dispatch a hazard advisory about the phenomenon to Starfleet, preventing any other Federation ships from coming in contact with the Paxans. The Enterprise then departs for Evadne IV, with Data keeping the events of what actually occurred to himself.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2367
+
+
+== Memorable quotes ==
+"The doll's my cousin!"
+"Yeah! Gloria from Cleveland."
+
+- Picard, as Dixon Hill tells Johnny that Guinan is his "cousin" Gloria while he has a gun pointed at them
+
+"I have something of a minor mystery on my hands."
+"A "minor mystery"? That seems to be a recurring phrase these days."
+
+- Crusher, when she discovers her diomedian scarlet moss has grown a full day, not thirty seconds, and Picard's reply
+
+"Will you escort Commander Data to engineering?"
+"I know the way, sir."
+
+- Picard, to security officer Kellogg, and Data's response
+
+"Now, this won't hurt a bit."
+"Have you forgotten, Geordi, that my sensory inputs are not programmed to experience pain?"
+
+- La Forge, while performing a diagnostic on Data
+
+"Then, Mister Data, I'm going to ask you again, and I order you to directly answer me. What really happened to us?"
+"I cannot answer that."
+"What would you have me do, Data? How would you handle this if our positions were reversed?"
+"I am apparently guilty of falsifying the Enterprise's records, of interfering with an investigation, of disobeying a direct order from my commanding officer. Your duty seems clear, sir."
+"Do you know what a court martial would mean? Your career in Starfleet would be finished."
+"I realize that, sir."
+"Do you also realize that you would most likely be stripped down to your wires to find out what the hell has gone wrong?"
+"Yes, sir. I do."
+
+- Picard and Data, in Data's quarters
+
+"We must leave, sir."
+"This ship isn't going anywhere; not until I get an answer. Now, who gave you that order?"
+"You did, sir."
+
+- Data, forced to reveal that Picard gave him the order to never reveal the existence of the Paxans
+
+"I am ordering you never to reveal what has happened here today. Not to Starfleet, not to myself even. You will conceal your knowledge of the Paxans for as long as you exist. Do you fully understand, Data?"
+"Completely, sir."
+
+- Picard and Data, during the first attempt to erase the crew's memories
+
+"The second time will succeed if we leave no clues."
+"You are a most unusual species. Worthy of a second chance. Proceed."
+
+- Picard, saving the Enterprise again from a Paxan inhabiting Deanna Troi
+
+"Geordi, Data, reconfigure the computer and the records. Number One, I want you to oversee the rest of the ship. And this time… let's get it right."
+
+- Picard
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 14 November 1990 [1]
+Principal photography filmed: 22 November 1990 – 30 November 1990
+Second unit and insert shots filmed: 22 January 1991
+Premiere airdate: 11 February 1991
+First UK airdate: 21 September 1994
+
+
+=== Story and production ===
+The story for this episode came from fan Bruce D. Arthurs, who had submitted a spec script to the producers. Michael Piller recalled that the story was very good, but the script needed a rewrite. Piller gave the job to Joe Menosky during the hiatus. He noted that the changes were "mostly restructuring caused by the departure of Wil Wheaton and a major dialogue polish." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 215) Piller was so impressed with Menosky's efforts that he gave him a staff job on the show. (Star Trek: The Next Generation Companion, 2nd ed., p. 154)
+The book The Red Dwarf Programme Guide notes that the story had an "uncanny" resemblance to an earlier Red Dwarf episode, "Thanks for the Memory".
+To differentiate the flashbacks from scenes set in the "present", director Les Landau used longer and more fluid camera takes. (Star Trek: The Next Generation Companion, 2nd ed., p. 155)
+This episode is considered a bottle show. (Star Trek: The Next Generation Companion, 2nd ed., p. 154)
+The episode was filmed between Thursday 22 November 1990 and Friday 30 November 1990 on Paramount Stage 8, 9, and 16. Additional second unit and insert shots in Data's quarters were filmed on Tuesday 22 January 1991 on Paramount Stage 13.
+
+
+=== Continuity ===
+Worf's mok'bara classes are first seen in this episode.
+Alyssa Ogawa is given her first name in this episode. Her last name was not mentioned until TNG: "Cause And Effect".
+Data references the USS Trieste, a ship he stated he was familiar with in TNG: "11001001".
+
+
+=== Reception ===
+Michael Piller remarked, "I really loved that show. It's one of my favorites of the year. It was a perfectly realized classic mystery put together in a Star Trek format, which came together into a very satisfying episode." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 215)
+A mission report for this episode by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 16, pp. 15-18.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 44, 6 April 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 4.5, 16 July 2001
+As part of the TNG Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Colm Meaney as Miles O'Brien
+Pamela Winslow as McKnight
+Rhonda Aldrich as Madeline
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-stars ===
+Patti Yasutake as Nurse
+Thomas Knickerbocker as Gunman
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as USS Enterprise-D computer voice
+Joe Baumann as Garvey
+Michael Braveheart as Martinez
+Debbie David as Russell
+Cameron as Kellogg
+Gerard David as operations ensign
+Elliot Durant III as operations ensign
+Margaret Flores as sciences officer
+Kathy Hammers as Locklin
+Kraig Kishi as civilian
+Lorine Mendell as Diana Giddings
+Randy Pflug as Jones
+John Rice as sciences officer
+Joycelyn Robinson as Gates
+Guy Vardaman as Darien Wallace
+
+
+=== Stunt double ===
+Chris Doyle as stunt double for Thomas Knickerbocker
+
+
+=== Stand-ins ===
+Brett – stand-in for LeVar Burton
+Candace Crump – stand-in for Whoopi Goldberg
+D. Kai – stand-in for Patti Yasutake
+Nora Leonhardt – stand-in for Marina Sirtis and Rhonda Aldrich
+Tim McCormack – stand-in for Brent Spiner and Thomas Knickerbocker
+Lorine Mendell – stand-in for Gates McFadden and Pamela Winslow
+Randy Pflug – stand-in for Colm Meaney
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+1948; 22nd century; 23rd century; 24th century; "a little"; "a lot"; "a tempest in a test tube"; ability; ADTH; adrenaline; "after all"; airflow system; "all right"; alternative; amount; amplitude; answer; appointment; "as you wish"; "at once"; atmosphere; automatic defense procedure; baseline; beard; bearing; bedside manner; behavior; biochemical stasis; body; boss; brain function; bridge crew; brown; "by chance"; byproduct; career; "carry on"; cell; cellular membrane; Chamberlin virus; choice; chronometer; cigarette; cigarette holder; civilization; class M; Cleveland; clue; colleague; commanding officer; composition; compromise; computer; computer program; concentration; concern; conjecture; core; "count their blessings"; course; court martial; cousin; crime scene; crop; cultivation; daily cycle; damage; "damn it"; day; destruction; diagnostic; Diomedian scarlet moss; Diomedian system; disorientation; Dixon Hill series; dizziness; dock; door; dozen; dress; effect; elbow; electrolyte; emergency plan ZZA; emergency procedure; energy; energy distortion; energy field; energy fluctuation; energy pulse; environment; ethno-botanist; Evadne IV; event; evidence; examination; existence; explanation; explorer; eye; face; feedback loop; feeling; figure of speech; flight path; "for the moment"; fracture; free will; friend; fright; fun; Galaxy class decks; garter; Gloria; "go ahead"; "green thumb"; guilty; hallucination; Harrakis V; hazard advisory; heavy particle detector; helium; "hello"; heuristic function; higher functions; Hill, Dixon; hobby; holodeck number 4; holodeck program; hour; house call; hydrogen; hypothesis; "I see"; idea; "if you like"; image; impulse engine; "in advance"; "in order to"; incubation container; incubation experiment; incubator; infrared sensor; injury; internal clock; invader; investigation; iron; isolationist; "it's all right"; journey; "just a moment"; knowledge; lab; license plate; lie (lying); life; lifeform; ligament; light year; listener; location; lock; long range sensor; mask; memory; Midsummer Night's Dream, A; Milky Way Galaxy; mirror; mission; mok'bara; molecular level; money; Moon; mystery; name; neutrino detector; "never mind"; Ngame Nebula; nickel; nitrogen; "not for a second"; "not to worry"; "not too bad": number one; O'Brien, Keiko; objection; "of course not"; "on board"; "on my hands"; "one moment": order; oxygen; pain; Packard; parsec; parts per million; pattern recognition; Paxans; Paxan homeworld; Paxan system; percent; period; person (individual); personal time; phaser; phenomenon; photon torpedo; phrase; physical discomfort; physicist; plan; plant; positronic brain; positronic system; privacy; probe; problem; promise; protoplanet; question; range; record; report; role; rhythm; risk; ruse; safe passage; second; security; security override; security program; sensor range; sensory input; setting (medicine); shield; shield frequency; shield modulation; ship; ship's clock; ship's library; short-term memory; silence; size; slang; speed; spore; stalemate; Starbase 410; Starfleet; starship duty; status; status report; stranger; strength; stress; stole (fashion); subcutaneous bone fusion unit; subspace signal; survival; suspicion; "sweetheart"; synaptic function; syntactic algorithm; T-Tauri systems; T-Tauri type; tampering; technician; telephone; terraforming; territory; test tube; Tethys III; Tethys III star; "that's it"; "that's right"; thousand; threat; "throw us off the track"; time continuity; time distortion; time period; tractor beam; transporter; transporter trace; transporter trace analysis; trap; tricorder; Trieste, USS; trillion; truth; turgor pressure; unconsciousness; "under the circumstances"; Underhill, Pell; visit; visual range; "wait a minute"; warp drive; warrior; weapon system; week; welfare; "what on earth"; "what the hell": "where the hell"; whitewall tire; white; wormhole; wrist; xenophobe
+
+
+==== Unused production references ====
+Evadne system
+
+
+=== External links ===
+"Clues" at Memory Beta, the wiki for licensed Star Trek works
+"Clues" at Wikipedia
+"Clues" at MissionLogPodcast.com
+"Clues" script at Star Trek Minutiae
+"Clues" at the Internet Movie Database

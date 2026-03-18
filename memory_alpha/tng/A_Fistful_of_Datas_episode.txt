@@ -1,0 +1,330 @@
+After a computer malfunction, Worf, his son Alexander Rozhenko, and Counselor Deanna Troi are trapped in an Old West holodeck program wherein the interactive characters physically resemble and have the same enhanced abilities as Data.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 46271.5. The Enterprise has entered orbit of Deinonychus VII but our scheduled rendezvous with the supply ship Biko has been delayed for another 48 hours. In the meantime, many members of the crew are taking advantage of the delay to pursue their own projects, myself included."
+
+In his quarters, Captain Picard is trying to record a piece by Mozart with the Ressikan flute, but he is interrupted by Lieutenant Commanders Data and La Forge. They ask for permission to experiment with creating an interface between Data's positronic brain and the ship's computers, so he can act as an emergency backup system in case of ship-wide systems failure. Picard enthusiastically grants them permission and goes back to the recording when they leave, but is interrupted again by Doctor Beverly Crusher. She wants him to perform in her next play, "Something for Breakfast"; when he protests about his lack of free time and acting skill, Crusher explains she only wants to cast him in the minor role of the Butler, and assures him he can do it, reminding him of the rehearsal time as she exits. Picard again resumes the recording but is almost immediately interrupted for a third time by Worf, who presents a proposed schedule for security drills. When Picard suggests the drills should wait for the new personnel soon to come aboard from Starbase 118, Worf suggests he make maintenance checks on the forward phaser array instead, but the captain tells him to enjoy himself during this free time and to make good use of it. Worf, slightly baffled, thanks him and leaves Picard to resume his recording, who begins yet again from the top.
+In Worf's quarters, his son, Alexander is lying on the floor while he plays with his computer. He jumps up when he hears his father entering the room and he asks what the captain said, Worf lets himself fall into a chair and after a short silence reluctantly admits that he has been released from his duties for the duration of the delay. When Alexander asks him if this means that he can go with him, Worf told him he could. Alexander cheerfully announces, "Saddle up, Father!", and places a Stetson hat onto Worf's head. Visibly distressed, Worf realizes that he has no way to escape his son's idea of recreation.
+
+
+=== Act One ===
+
+Worf and Alexander are in the Deadwood holodeck program, looking down at the town of Deadwood. This program is situated on 19th century Earth in an era known as the "Ancient West." They are dressed up like law enforcement officers, with Worf portraying the sheriff – and Alexander his deputy.
+While Worf and Alexander are walking through the main street, Geordi La Forge and Data are in engineering, preparing for their experiment. Data, noticing facial hair growth on La Forge's face, inquires if he is growing a beard yet again. La Forge tells Data that he is, as a matter of fact, and asks what he thinks of it. Data responds that, as with any natural growth process, it is difficult to envision what it will look like based on an intermediate stage. After La Forge connects an optic cable on the opened right side of Data's head to access Data's auxiliary input, he admits that he still is not used to seeing Data like this, with parts of his head opened and showing his circuitry. After La Forge completes the connection, Data establishes the link-up with the Enterprise computer, and they start their experiment.
+Worf and Alexander, walking down the main street, are greeted by a lady of the night, who whistles at them. When Alexander tells him that Lieutenant Barclay helped him write the program, Worf notes to himself that he will have to have a little talk with Barclay later. Their conversation is interrupted by a gunshot, and both run towards the source of the sound.
+In the saloon, Eli Hollander is shooting at his wanted poster; he is angry with the man who drew his picture since he feels that the artist didn't draw him ugly enough. His Mexican partner is laughing out loud, amused by Eli's reaction. After they empty their whiskey glasses, they watch as Worf and Alexander enter the saloon.
+
+Alexander explains to Worf that Eli Hollander is the bad guy, the meanest and toughest gunslinger in the west, and Worf's job is to apprehend him if he can. Worf adjusts his gun-belt and walks over to Eli's table, looks briefly at Eli's partner, and tells Eli he is under arrest. As Eli stands up from his chair, he is hit by Worf, before he can say anything, and hits the floor. Alexander freezes the holodeck program and tells his father that this is too easy – it needs to be harder to beat the bad guys; otherwise, the program would not be any fun to play. Alexander orders the holodeck computer to change the difficulty level to level four and resets the program to where he and his father entered the saloon.
+
+As they enter the saloon again, the piano player stops, and other customers get out of the way; they do not want to be hit if shooting starts. Worf walks up to Eli Hollander and tells him he is under arrest. Eli, with his hand on his gun, tells Worf that that's not a good idea, then walks up to the bar and pours himself a whiskey. He challenges Worf and even insults him by telling him he looks like an armadillo.
+One of Eli's accomplices takes a chair with the intent to hit Worf in the back; he is warned by Alexander, but too late. The chair hits Worf and breaks apart, and with a swift turn, Worf hits the assailant, knocking him to the floor. When Eli's partner wants to attack Worf, Worf hits him, and he falls backwards on the table, crushing it before he hits the floor. Worf looks around for more and enthusiastically tells his son he is beginning to see the appeal of this program, but Eli is pointing his gun at him and tells his men to saddle up and demands Worf's money and jewelry. Eli walks up to Worf and cocks his gun, but before he can do anything, someone shoots off his hat. It is a stranger who just entered the saloon – Counselor Deanna Troi, who was asked by Alexander to participate because she loves western stories.
+In main engineering, Data is still connected to the computer while Geordi La Forge is working at a console. He experiences a brief power surge in his positronic subprocessors and disconnects himself. La Forge takes off the cable, and he gets up and mysteriously puts his tricorder away just like the Eli character slung around his gun in his holster.
+
+
+=== Act Two ===
+
+Eli Hollander is in the sheriff's jail playing cards and tells Worf and Alexander that he will not be in there for long. When his pa hears about this, he will get him out. Alexander tells him that his pa is no match for Sheriff Worf, but the stranger tells them otherwise. Worf asks Troi if she could be more supportive, at which she tells him to call her "Durango" – she was just passing through and thought she'd lend a hand when she saw them in trouble. With her feet on his desk, she lights a cigarillo and tells Worf that she is not a deputy when Worf suggests that she might help. When Worf asks her if she would consider becoming a temporary deputy, she tells him it would cost him five hundred dollars. Worf then turns to his son and tells him that they will need currency; Alexander tells him he will go to the bank to make a withdrawal and leaves the sheriff's office.
+Worf asks Troi how she knows so much about this period of Earth's history, and she tells him her father always read her stories about the ancient west. She always wanted to play the part of the mysterious stranger. Their conversation is interrupted by Annie, the owner of the Gold Strike Saloon. After she enters the sheriff's office, she affectionately kisses Sheriff Worf and tells him he was so brave when he faced that evil man, Eli Hollander. She tells him she will make him a special dinner, complete with a candle setting of real beeswax. When Worf tells her he cannot attend her dinner because he has a prisoner, "Durango" tells him not to worry; she will keep an eye on the prisoner while they are dining. Worf rejects Durango's offer and gets slapped in the face by Annie, who suspects there is another woman, someone from Miss Langford's House of Pleasure, although he denies it. An angry Miss Annie leaves the sheriff's office, slamming the door. When Eli sarcastically remarks that Worf has a way with women, "Durango" can barely suppress a laugh by masking it as a cough.
+Meanwhile, in the captain's quarters, Picard is listening to the musical performance he recorded earlier in the day. Suddenly the music changes from his flute recording to a full orchestra playing Anton Dvorak's Slavonic Dance, Opus 46, No. 8, although the computer identifies the performance as his: Picard Mozart Trio Program One. At the same time, Beverly Crusher is rehearsing "Something for Breakfast" together with Commander Will Riker and some other colleagues. She finds that her play is missing when Riker recites a poem, the one Data wrote in honor of his cat Spot entitled "Ode to Spot", instead of the text of the play. After she checks the PADD, the script of the play is still gone. Crusher takes the PADD to main engineering, where La Forge opens it up and checks its performance. He can find nothing wrong with it. It seems that when Crusher tried to retrieve her script, the computer accessed Data's poem instead. Data suggests that their experiment could be the source of the problems, and they decide to run a level two diagnostic on the computer while Data performs a self-diagnostic.
+
+In Deadwood, Deputy Alexander is walking on the boardwalk back from the bank where he got the money to pay Durango. After a quick check on the contents of the money bag, he is pulled from the street, gagged, and brought to a mine by one of Eli's accomplices. Here Alexander complains that he was not supposed to be kidnapped at this time, but when he orders the holodeck computer to freeze the program, nothing happens; even after a second command, the computer does not respond. A man comes around the corner – it is Data, as Frank Hollander, Eli's father. When the Mexican asks if he wants the deputy dead, Frank answers that he is more valuable alive.
+
+
+=== Act Three ===
+On the Enterprise, Data is in his quarters. He orders his cat's food, but the cat, Spot, refuses to eat it. He tells her perhaps hunger will convince her to try it later, then tries to do some work at the desktop monitor on his desk, but Spot keeps on interrupting him by jumping onto his desk and walking over his computer console, and Data is forced to pick her up and move her back to the floor. The first time he does this, he speaks normally; the second time, however, he says in a Texan accent, "Vamoose, you little varmint." Data does not notice his accent and continues working. The interface experiment seems to be influencing Data also in addition to the other computer malfunctions.
+
+Sheriff Worf enters the Gold Strike Saloon and looks around for his deputy. When he does not see him, he asks Miss Annie, who is behind the bar and trying to ignore him, still angry about his dinner rejection. After telling him that she has not seen his deputy, she asks him what he likes to drink. Annie laughs when Worf asks for Klingon firewine, and she tells him they don't serve European drinks, like they do in Kansas City. Annie tells him she could serve him a sherry like they do at Miss Langford's.
+While Miss Annie gets him a drink, Sheriff Worf hears footsteps on the boardwalk outside the saloon, and as he looks at the entrance, the saloon doors squeak, and he watches a stranger walk in with two accomplices. The stranger looks exactly like Lieutenant Commander Data; however, Worf simply assumes that either Alexander or Troi had invited him to participate in the program. This new character tells Worf that his name is Frank Hollander.
+As Worf checks him out, Frank asks him what he is looking at and Worf tells him he is not looking at him. When Worf asks him what he wants, Frank tells him he wants his son back. After sipping his drink, Worf turns to Frank and tells him that his son will have to stand trial for murder. Frank tells him that they have to work something out; when Worf refuses, he asks him if he has seen his deputy. When Worf asks him where his deputy is, Frank does not answer, and Worf tells him he does not negotiate with criminals and that his son will stand trial.
+
+After emptying his glass, Sheriff Worf walks past Frank to leave the saloon, but Frank grabs him by the shoulder, hard enough to be quite painful for Worf. Worf, in the belief that Frank is Data, asks him what he is doing and realizes that this is not Data at all before trying to freeze the holodeck program, but to no avail. As Worf backs out of the saloon, Frank tells him not to leave, and his accomplices stand ready to draw their weapons. After a short silence, Worf turns and dives through the saloon doors while bullets from Frank's accomplices follow him on his way out.
+When Worf enters the sheriff's office, he bolts the door, and Troi, who is practicing her fast draw, asks him what is wrong; he tells her that Alexander is missing and that the holodeck safeguards are not functioning. When Troi notices that Worf has been shot in his arm and is bleeding, she tries to freeze the holodeck program; when this fails, she tries to contact security and Captain Picard, but all attempts to contact someone outside the holodeck also fail. Troi uses her bandanna to tie a tourniquet on Worf's arm to stop the bleeding from his gunshot wound. Worf tells her that Eli's father looks just like Data but is in fact not the android and that he has kidnapped Alexander.
+Eli Hollander sneers at the sheriff from his cell, saying that his father might have been too rough with him, and as they look at him, Worf and Troi see that he also has the appearance of Data.
+
+
+=== Act Four ===
+Troi wonders why the computer creates characters that look like Data and stops Worf when he tries to force Eli to tell him where Alexander is. When Worf walks back from the cell, she tells him that when they finish the story, the program will automatically terminate like it is designed to, despite the non-functioning safeguards. Worf agrees with her and decides to talk to the people of Deadwood and see if someone might have seen Alexander's abduction.
+
+"Captain's log, supplemental. Commander La Forge and Mister Data believe they have found the cause of the mysterious malfunctions which have been plaguing the ship."
+In the Enterprise observation lounge, Picard, Riker, La Forge, and Data are deliberating on how to solve the computer problems their interface experiment has created. Computer core-subroutine C47 seems to have been replaced by parts of Data's own programming, and because C47 controls library computer access, replicators, and the recreational programs, among other things, this is the reason that Picard heard the wrong musical part and Doctor Crusher lost her script; in addition, six decks' worth of food replicators are limited to producing cat food: the custom supplements Data had designed just for Spot. Data and La Forge are busy isolating the corrupted computer circuit pathways, but it will take at least two hours. During their conference they notice that Data uses the antiquated phrase "I reckon", although Data himself does not remember using it; he even speaks with a Texan accent again while saying another unusual phrase: "Y'all must be mistaken". Picard suggests that La Forge take Data to main engineering and try to examine Data's behavior; when he and La Forge leave the observation lounge, Data walks with a cowboy swagger and mistakes the plant near the door for a spittoon. Picard and Riker look at each other when they see his behavior, not knowing what to think.
+In the sheriff's office, Troi watches how Eli shuffles his cards in exactly the same way Data does when he plays poker and with the same speed. Her thoughts are interrupted by a knock on the door – it is Sheriff Worf. He tells her that he has found witnesses who saw the abduction of Alexander and is told by Troi about Eli's abilities, and she assumes his father would also possess Data's abilities. Their conversation is interrupted by someone knocking on the door; it is Frank Hollander, who wants to see his son. Sheriff Worf demands his gun, whereupon Frank sneers at Worf to take a good look at his gun, as he will be seeing it again real soon.
+When Frank asks Eli how they were treating him, he complains that he has not eaten since he was imprisoned. Frank tells him that the sheriff will pay for this and asks him who the stranger is. Eli does not know but tells his father she is mighty good with a Winchester. Frank walks up to the sheriff and tells him he will give him one more chance to release his son. After a short silence Worf tells him he agrees. He will release Eli in exchange for his deputy. Frank tells him to meet him in two hours in front of the livery stables, and he does not want to see the stranger there and asks for his gun back. After a last look at his son, he leaves the sheriff's office.
+Troi tells Worf that in every story she has read about the ancient west, the bad guys always broke their word, and explains to him that bad guys of the Ancient West are not concerned about honor when Worf tells her they have just made an honorable agreement. This bad guy has the speed and accuracy of an android and will try to kill him.
+
+
+=== Act Five ===
+When Riker visits La Forge and Data in main engineering, they have discovered that part of Data's memory structure has been replaced by the computer recreational database. More specifically, parts of the 19th century American West. La Forge confirms that this is a result of their interface experiment and tells Riker that a progressive memory purge to restore Data's programming is running and will take a couple of hours to finish. When Riker asks about the computer recreational database, La Forge tells him that a memory purge there is also in progress and that it will take one to two hours to complete. As Riker leaves, he is told by Data not to worry; they will fix the problem in time for supper.
+In the sheriff's office, Worf and Troi are planning how they are going to deal with Frank Hollander when they are interrupted by several knocks on the door. It is Miss Annie who brings Worf a toolbox with Old Man Newsome's telegraph machine. While Worf looks through the toolbox, Troi nods to Miss Annie, hinting for Worf to thank her so she will leave the office. At 5:14 pm, Worf finishes making a simple force field generator with some telegraph parts and his combadge functioning as a power source. When Troi asks how long the field will last, he tells her not more than fifteen seconds because the field is very unstable.
+A few moments later, Sheriff Worf and Eli Hollander walk out of the sheriff's office towards the front of the saloon. When they arrive. Eli is stopped by Worf, and they watch as Frank Hollander and Deputy Alexander walk into the middle of the street and stop in front of the livery stable. After lighting his cigar, Frank pushes Alexander forward, and he starts walking towards his father, Sheriff Worf, who nods Eli to start walking. Unknown to Worf, Frank's accomplices are hiding beside the street, ready to use their weapons if necessary; by now they all look like Data.
+
+As Eli passes Alexander, he looks at him disdainfully, and just before he reaches his father, Frank yells at him to get down and draws his gun. Worf warns Alexander, and while he runs to the saloon, Worf turns on his makeshift force field, just in time. Frank empties his gun, but the bullets are stopped by the force field. When it stops working, one of Frank's accomplices draws his weapon and tries to shoot Worf, but he is stopped by Troi, who was hiding under a cover on a nearby wagon. At that time Frank's Mexican accomplice, who was hiding on a roof, throws a gun towards him. As he catches it, Worf draws his weapon and shoots the weapon right out of Frank's hand.
+Frank knows he is beaten and challenges Worf to shoot him. Worf cocks his weapon and looks towards Alexander, who is lying under the saloon doors, watching everything. After a short silence, Worf tells Frank Hollander never to show his face again in Deadwood. Frank calls his accomplices and walks out of the street while he throws a sharp look at Sheriff Worf. Troi and Worf run into the saloon, where Alexander embraces his father and tells him he is fine when Worf asks if he is alright. Worf orders the holodeck computer to end the program, but nothing happens. Troi does not understand – the story should have ended by now. She wonders what could possibly be left to do, and Worf tells the computer again to end the program. Miss Annie, who now also looks like Data, walks down the stairs and tells Worf he is as handy with a gun as with a woman's heart. An agitated Worf rapidly repeats his command to shut down the program while Miss Annie walks towards him. The computer shuts down the program just as Miss Annie places her head on Worf's shoulder, and Worf sighs with relief as he sees the holodeck grid appearing.
+
+"Captain's log, Stardate 46278.3. Both Commander Data and the ship's computer have been restored to normal operation. Our rendezvous with the supply ship Biko has proceeded as planned."
+
+Back in Worf's quarters, Worf looks to his son, who is almost asleep. When Alexander asks his father if he would go back to the ancient west despite what has happened, Worf tells him if the town of Deadwood were to face danger again, they would need a sheriff and a deputy. As Worf walks back to the living quarters, he notices the Stetson lying on a chair, and he cannot resist putting it on his head and trying out his fast draw in the mirror using his fingers as a pretend revolver and grinning widely.
+In space, the Enterprise breaks orbit and cruises towards the system star just as it dips into the penumbra of a nearby moon – creating an effect much like the sun going down on the horizon, and making it appear as though the ship is "riding off into the sunset."
+
+
+== Memorable quotes ==
+"I'm not much of an actor."
+
+- Picard, to Beverly Crusher
+
+"Saddle up, Father!"
+
+- Alexander, to Worf
+
+"I must admit, Data, I never get used to seeing you like this."
+"I do not understand. You are constantly working on similar electronic systems, yet their appearances do not disturb you."
+"But you're not just another electronic system."
+"Thank you, Geordi. Nor are you just another biological organism."
+
+- La Forge and Data
+
+"You wrote this holodeck program yourself..."
+"Well, Mr. Barclay helped a little."
+"I must have a little talk with Mr. Barclay."
+
+- Worf and Alexander, after seeing a prostitute in his son's holoprogram
+
+"If ever I find the varmint that drew this, he'll be sorry ever put pen to paper! I'm ten times uglier than that, ain't I?"
+(laughs very loudly)
+"Shut up! You laugh so much, it's a wonder you ain't got flies in your mouth."
+(laughs even louder) "You're very funny man, Señor Eli."
+
+- Eli Hollander and the bandit, while Hollander shoots at a wanted poster of himself with a somewhat inaccurate picture
+
+"No, no, no! Computer, freeze program."
+"What is wrong?"
+"That was too easy. It has to be harder to beat the bad guys!"
+
+- Alexander, to Worf after he abruptly knocks out Eli Hollander and begins to take him away
+
+"Where are they going?"
+"They don't want to get hit by the bullets."
+
+- Worf and Alexander, when saloon customers promptly leave when Worf arrives to arrest Eli Hollander
+
+"I'm beginning to see the appeal of this program!"
+
+- Worf, to Alexander, after violently knocking down two villains in the saloon on the holodeck, obviously enjoying the fight
+
+"You are a murderer and a thief."
+"A man's gotta make a livin'."
+(Gunshot abruptly removes Eli's hat)
+"I'd advise you to find a new line a' work."
+
+- Worf, Eli Hollander, and Troi as the suddenly arrived "Stranger"
+
+"What are his rights in this century? Is there a trial... or shall I execute him?"
+
+- Worf, to Alexander asking what he is supposed to do with Eli Hollander now that he has been arrested
+
+"Counselor, I would appreciate some support in this matter!"
+"Durango! I'm called Durango!"
+"Yes, err... Counselor Durango, [...]"
+
+- Worf and Deanna Troi, playing the mysterious stranger on the holodeck
+
+"You sure got a way with women, sheriff."
+
+- Eli Hollander, to Sheriff Worf, after Worf got slapped by Annie
+
+"The replicators on decks four through nine are producing nothing but cat food!"
+
+- Cmdr. Riker, on the C47 subroutine malfunctions
+
+(Spot meows and jumps onto Data's console.)
+"Spot, you are disrupting my ability to work."
+(After Data moves her to the floor, Spot meows and jumps back up.)
+"Vamoose, you little varmint!" (in Texan accent)
+
+- Data, to Spot, who is disrupting Data's ability to work
+
+"Aw! Now isn't that a shame? Poor sheriff's been injured. What's the matter? Was ma pa' 'little too rough on ya?" (laughs very gleefully)
+
+- Eli Hollander, looking like Data, about Worf's getting shot by one of Frank Hollander's men
+
+"Y'all must be mistaken."
+"Data, you did it again."
+"Did what?"
+
+- Data and La Forge about Data's Texas drawl
+
+"You sit tight, boy. I'll have you home in time for supper."
+
+- Frank Hollander, with the appearance of Data to Eli Hollander, who also looks like Data, on the holodeck
+
+"Howdy, Commander."
+
+- Data, in a Texan accent
+
+"You just sit tight. We'll have this all fixed up in time for supper."
+
+- Data, to Cmdr. Riker, about the progress in fixing the problem with subroutine C47, in the real world
+
+"The town of Deadwood may face danger once again. If they do, they will need a sheriff... and a deputy."
+
+- Worf, to Alexander after the program has ended
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 17 September 1992 [1]
+Premiere airdate: 9 November 1992
+First UK airdate: 22 July 1993 (Sky 1); 30 August 1995 (BBC)
+
+
+=== Story and script ===
+
+This was Robert Hewitt Wolfe's first contribution to Star Trek. He later wrote many episodes of Star Trek: Deep Space Nine. Wolfe recalled, "I'd pitched to TNG a few times. I didn't sell anything, but Michael Piller liked my pitches enough that he invited me back. Finally, I came in and pitched two stories, one of which I was sure they'd buy – but didn't – and another one which they actually did buy." The unsuccessful pitch involved Jean-Luc Picard and Geordi La Forge traveling back in time to twentieth-century Los Angeles just before the Watts riots, a premise which was later developed into the Deep Space Nine episodes "Past Tense, Part I" and "Past Tense, Part II". (Star Trek: The Next Generation 365, p. 282)
+The episode title is an homage to the Sergio Leone film A Fistful of Dollars, starring Clint Eastwood, the first in a series of what came to be called "Spaghetti Westerns" because they were produced in Italy by Italian filmmakers, such as Leone, often on a low budget. The original title was "The Good, the Bad and the Klingon", a paraphrase of the title of Leone's third "dollar spaghetti western", The Good, the Bad and the Ugly, again starring Eastwood. (Star Trek: The Next Generation Companion, 2nd ed., pp. 225-226)
+After Wolfe completed the draft script, it was assigned to Brannon Braga to revise. Braga was not familiar with Westerns and watched a number of films for inspiration. "I became a lover of the Western genre and watched dozens of them." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+The original story involved a greedy land baron, but Ira Steven Behr suggested that the plot instead be a homage to Rio Bravo. (Star Trek: The Next Generation Companion, 2nd ed., p. 225)
+Wolfe's story had Alexander attempting to bring Troi and Worf together romantically. Jeri Taylor noted that this was removed as it was felt that Worf's relationship with Alexander was becoming too similar to a contemporary soap opera or sitcom. "That's the kind of story that you can see on the air anywhere [...] It's not an element of Star Trek I want to concentrate on. I think we just mined out all the stories about Alexander and Worf's problems as a daddy." Braga added, "[I]t felt false to me. This was a holodeck romp and it should be light and fun." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 264)
+
+
+=== Production ===
+
+Director Patrick Stewart remembered, "There had been rumors around the production offices for some months that there was a Western episode coming up, and, of course, every director was eager to get a hold of it because everyone feels they have at least one Western in them." Originally, another director had been assigned to the episode but there was a switch, much to Stewart's delight.  "There is nothing I have done in my career anywhere that could match the amazing thrill of directing a Western." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+Despite Stewart's enthusiasm, he also had little knowledge of the genre. Braga noted this was ironic but believed that he brought a freshness to the episode. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+Jeri Taylor recalled, "Patrick approached this with such zealousness – he went out and rented two classic Westerns every night. The next morning he'd come in and tell us what great ideas he'd had, and we could always tell just what he'd watched." (Star Trek: The Next Generation Companion, 2nd ed., p. 225)
+Stewart revealed that the shot where Alexander looks out of the bottom of the saloon doors was a homage to a similar scene in the film Shane. (Bold New Directions Year Six, TNG Season 6 DVD special features)
+A scene cut for time included an homage to The Ransom of Red Chief with Alexander as the testy captive. (Star Trek: The Next Generation Companion, 2nd ed., p. 226)
+Another deleted scene featured Worf nearly shooting himself in the foot after a quickdraw lesson from Troi. (Star Trek: The Next Generation Companion, 2nd ed., p. 226)
+
+
+=== Sets and locations ===
+
+The Western sequences were filmed on one day on the backlot of Universal Studios in Los Angeles, better known as the "Western Town". (Star Trek Encyclopedia, 2nd ed., p. 12, Bold New Directions Year Six, TNG Season 6 DVD special features) The exact location is Six Points Texas, Backlot, Universal Studios – 100 Universal City Plaza, Universal City, California, USA.
+The production staff had very little time to create this episode, and Stewart actually asked that all the sets be set up at night, so they could catch every portion of daylight for shooting. (Bold New Directions Year Six, TNG Season 6 DVD special features)
+Production designer Richard James recalled that filming on the backlot was an uncomfortable experience for the cast and crew. "The temperature must have been a hundred and thirteen in the shade. It was awful. The guys in makeup, particularly Michael Dorn, were just miserable." Guy Vardaman was one of three people doubling for Brent Spiner. He recalled, "Everybody felt for Michael because of the Klingon headpiece and the wig and all that. It all came down to the heat, with all of us periodically running back to stand in front of whatever air-conditioning unit was functional – anything to avoid sweating makeup onto the wardrobe. Data should never be observed sweating." (Star Trek: The Next Generation 365, p. 282)
+Patrick Stewart greatly enjoyed the day of location shooting, notwithstanding the heat. "That was one of the most exciting days of my life. I had three cameras rolling almost all the time there, including an action slow-motion camera. I had the biggest crane that you could get in Hollywood. I had some wonderful toys to play with." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 264)
+Stewart nominated as a highlight the opportunity to ride in the crane along with the camera operator for the shootout scene. He remembered, "I was buckled into the spare seat alongside the camera, and someone actually found a megaphone for me. I was able to call 'Action' through a megaphone, on the Warner Bros lot!" (Star Trek: The Next Generation 365, p. 283)
+
+
+=== Cast and characters ===
+Marina Sirtis (as Deanna Troi) was originally written to play the dancing girl from the saloon, instead of the stranger. (AOL chat, 1999)
+When she performed as Durango, Sirtis initially tried to blow rings of smoke, but Michael Dorn (Worf) cut her off and said "Stop it! Don't be funnier than me, this is my show." (Bold New Directions Year Six, TNG Season 6 DVD special features)
+Brent Spiner commented that although he enjoyed playing all the villains in this episode Data was "homely" as the female bartender he played. (Special Crew Profile: Lt. Cmdr. Data, TNG Season 6 DVD special features)
+In another interview, Spiner remarked, "I had the chance to play five or six characters in a show and Patrick directed, which made it additionally fun. It's certainly the most fun episode I've had to do and I would have liked to have done a show called 'For a Few Datas More'." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+According to the Red Dwarf reference guide "The A to Z of Red Dwarf", Patrick Stewart later caught the Red Dwarf episode "Gunmen of the Apocalypse" on TV, and, mistaking it for a dramatic series, found the plot so similar to "A Fistful of Datas" that he briefly considered calling his lawyers. Only after watching the episode further, he realized that the show was a comedy and started laughing.
+In this episode Data notices Geordi La Forge growing a beard, and the beard appears fuller in the next episode, "The Quality of Life". La Forge was once seen unshaven in Season 5's "The Outcast".
+
+
+=== Props ===
+Picard's Ressikan flute, first seen in "The Inner Light", reappears here and once more later in this season ("Lessons").
+In that scene, the Mintakan tapestry from "Who Watches The Watchers" is seen unfolded on his chair on the background.
+The backing of Alexander's game that he plays in the beginning of the episode is made from 5.25" floppy drive face plates.
+Although the holodeck portion of the episode takes place in Deadwood, South Dakota, there is a map of the Arizona Territory (now the states of Arizona and New Mexico) in Worf's office.
+The chair in Worf's quarters was also seen in the episodes "Peak Performance", "Family", "Reunion", "Redemption", "New Ground", "Cost Of Living", "Birthright, Part I", "Parallels", "Genesis", and "Firstborn" and was used as the command chair aboard the Tarellian starship in the first season episode "Haven". It was designed by Peter Opsvik. [2]
+Worf's quarters also feature the Ligonian glavin again. It was previously seen in the episodes "Peak Performance", "Reunion", "Redemption", "New Ground", and "Cost Of Living".
+
+
+=== Reception ===
+Naren Shankar commented, "We hadn't done a holodeck malfunctioning story in three seasons, which is a perfectly good track record. It was a lighthearted show and it was a nice show. People love "Shore Leave" and this show reminds me of that way." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+David Livingston agreed. "Patrick did a wonderful job. He had a great time. He was Sergio Leone out there or Clint Eastwood, and Brent chewed every piece of scenery in sight and there wasn't any left by the time he got done.' (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+Rick Berman referred to this outing as a "fun" episode with a "very imaginative" story. (Cinefantastique, Vol. 23, No. 6, p. 18)
+
+
+=== Awards ===
+This episode won an Emmy Award for Outstanding Individual Achievement in Sound Mixing for a Drama Series.
+
+
+=== Apocrypha ===
+The Star Trek: Deep Space Nine comic "Unhappy Trails" (printed in Malibu Comics' Worf Special) features Worf, Jadzia Dax, and Kira Nerys participating in another adventure in the Ancient West.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 67, 17 May 1993
+As part of the UK VHS collection Star Trek: The Next Generation - Data Box: 6 November 1995
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Brian Bonsall as Alexander Rozhenko
+John Pyper-Ferguson as Eli Hollander
+Joy Garrett as Annie
+Jorge Cervera, Jr. as Bandito
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Brandy as Spot
+Bud as Spot
+Debbie David as Russell
+Nick Dimitri as henchman
+Gary Gang as gambler
+Christie Haydon as command division ensign
+Robert Earl Jones as bar patron
+Bruce Mercury as gambler
+Monster as Spot
+Michael Moorehead as civilian
+Noriko Suzuki as operations division ensign
+Mikki Val as operations division officer
+Unknown performers as
+Gambler
+Old man
+Piano player
+Shop owner
+Theater group member
+Two bar patrons
+Woman
+
+
+=== Stunt doubles ===
+Carl Ciarfalio as stunt double for Jorge Cervera, Jr.
+Rusty McClennon as stunt double for Michael Dorn
+Mark Riccardi as stunt double for John Pyper-Ferguson
+Brian J. Williams as stunt double for Brent Spiner
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Joshua Henson – photo double for Brian Bonsall
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – photo double for Brent Spiner
+Dana Vitatoe – photo double for Brent Spiner
+
+
+=== References ===
+19th century; ability; accent; accusation; act; allegro; Ancient West; Ancient West; American West; Arizona; armadillo; bank; Barclay, Reginald; Becky's Dry Goods and Sundries; beefsteak; Biko, USS; biological organism; Boseman; bullet; butcher; butler (the butler); beeswax; California; candle; cat food; Chicago; circuit pathway; clarinet; clock; Colt .45; combadge; contraction; Deadwood; Deinonychus VII; Deinonychus VII moon; Deinonychus VII sun; deputy; dialogue; double-barreled shotgun; Durango; duty roster; Dvorak, Anton; Earth; emergency backup system; endotherm; energy cell; European; feline supplement 127; Felis catus; firewine; floosie; fly; Gallagher, James; General Mercantile Company; Gold Strike Saloon; gooseberry cobbler; gravedigger; gunfighter (aka gunslinger); heart; Hollander, Frank; Hollander's victims; holo-programs; holodeck safeguards; homicide; hour; Howard and Son's Mercantile Company; inertial damping system; jefe; Kansas City; Klingon; law enforcement; level 2 diagnostic; line; livery station; Mintakan tapestry; Miss Langford's House of Pleasure; money; Montana; Mozart, W.A.; M. Schulz Company; neural net; Newsome; Oberth-class; oboe; "Ode to Spot"; old man; pa; PADD; painting; phaser array; piano; "Picard Mozart trio, Program 1"; pipe; playing cards; poker; positronic subprocessor; progressive memory purge; rain barrel; Rapid City; recreational database; rehearsal; Ressikan flute; rocking chair; security drill; self-diagnostic; señor; sextant; shave; sheriff; sherry; shotgun; shuffling; Slavonic Dances, The; Sol; Something for Breakfast; South Dakota; Spot; spur; Starbase 118; Subroutine C-47; sunflower; taxonomy; telegraph machine; tempo; thief; tin can; tricorder; Troi, Ian Andrew; US Marshal; varmint; villain; walk; Walworth; Western; whisker (beard); Winchester
+
+
+=== External links ===
+"A Fistful of Datas" at Memory Beta, the wiki for licensed Star Trek works
+"A Fistful of Datas" at Wikipedia
+"A Fistful of Datas" at MissionLogPodcast.com
+"A Fistful of Datas" script at Star Trek Minutiae
+"A Fistful of Datas" at the Internet Movie Database

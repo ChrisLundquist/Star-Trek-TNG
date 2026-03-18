@@ -1,0 +1,295 @@
+La Forge and a Romulan are trapped on a planet ravaged by electromagnetic storms; Worf turns out to be the only viable donor to save the life of an injured Romulan aboard the Enterprise.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+An away team from the USS Enterprise-D consisting of Commander Riker, Lieutenant Commander La Forge and Lieutenant Worf beam down to Galorndon Core, a planet inside Federation territory near the Neutral Zone, to investigate the source of a distress call that has been intercepted. Surface conditions make this difficult. Powerful electromagnetic storms on the surface are obscuring all scans. Their combadges also do not function and tricorder scans are severely limited.
+A crashed vessel is found, bearing the markings of a Romulan vessel. As the group splits up to investigate the area, Worf locates a Romulan survivor, alive enough to feebly attack him. Worf incapacitates the Romulan and calls for Riker. Meanwhile, La Forge falls into a large chasm and is cut-off from the rest of the away team. As the transport window closes, Worf and Riker return to the beam-out site with the wounded Romulan and are forced to return without La Forge to avoid being stranded on the planet. Inside the chasm, La Forge futilely yells Worf and Riker's names out.
+
+
+=== Act One ===
+"Captain's log, Stardate 43349.2. An unidentified distress signal has led to the discovery of a crashed Romulan vessel on the surface of Galorndon Core, a Federation planet. We have recovered one survivor, but Lieutenant Commander La Forge did not report back with the away team and is still missing."
+
+While the Romulan is rushed off to sickbay from the transporter room, Captain Picard and Riker discuss the situation. Picard is concerned Galorndon Core could be a hiding place for the Romulans, perhaps an ideal cover for an opening move in a new offensive. They intend to question the Romulan as soon as they can. In sickbay, they are informed the Romulan, Patahk, is dying. Dr. Crusher determines that he needs a ribosome infusion from a compatible donor to live, one too complicated to replicate. She orders tests of all the Enterprise crew to see if anyone can donate. Riker attempts to question him, but he will only state his name. He also states he was alone, which Riker interprets as false.
+On the planet, La Forge is assessing his situation and plans to get out. He melts chunks of silver ore with his hand phaser, fashions them into a pair of spikes, and uses them to make an arduous climb out of the pit. Despite the difficulty, he finally makes it out.
+Riker wants to be able to cut through the interference and send La Forge a message. Wesley Crusher proposes setting up a beacon out of a portable neutrino source installed in a probe sent to the planet. La Forge should be able to identify it on his VISOR as a signal but must alter it to alert the Enterprise to beam him up. Picard agrees, and Wesley leaves to execute it.
+Data reports a transmission coming from the Neutral Zone. A Romulan commander named Tomalak is reaching out to the vessel and announces that he intends to cross the Romulan Neutral Zone and arrive at the planet in six hours.
+
+
+=== Act Two ===
+Picard engages in dialogue with Tomalak, the commander of a Romulan D'deridex-class warbird, to notify him of the rescued Romulan and implicitly confront him over the obvious transgression into Federation space. Tomalak claims it was a navigational error. They agree to rendezvous in the Neutral Zone, where Picard will hand over the dying Romulan found on the planet.
+Despite Riker and Worf noting the right to detain and interrogate the Romulan, Picard decides to return the officer when they are finished on the planet. Unfortunately, Crusher reports he is not responding well to treatment. It appears a ribosome donor is the only answer.
+Wesley Crusher completed the beacon and has installed it on a class 3 probe. Picard orders its launch, and Worf complies by firing the probe to the surface of Galorndon Core. La Forge makes his way to the previous beam-out point and sees the neutrino beacon. He recognizes it as Wesley's work and thanks him aloud. But as he is making his way towards it, La Forge is knocked out by another Romulan.
+
+
+=== Act Three ===
+
+On the planet, the Romulan, whose name is Bochra, holds La Forge at disruptor-point. La Forge attempts conversation with him, however, the Romulan is very reluctant to relinquish authority or accept help, even after he is injured by falling rocks. The electromagnetic radiation has debilitating consequences for the Romulan, as he becomes paralyzed and is unable to walk.
+As it turns out, only Lieutenant Worf has the compatible ribosome needed for the Romulan. Citing his parents' deaths at the hands of Romulans at Khitomer, Worf refuses to donate his blood to Dr. Crusher. Crusher tells Worf that he is the only member of the crew that can save the Romulan's life. "Then he will die," Worf states matter-of-factly before leaving, while Dr. Crusher sits at her desk, shocked.
+
+Back on the ship, the Enterprise is still waiting anxiously to hear back from La Forge. They hear from Tomalak, who has noticed they have not reached the rendezvous and objects to not being able to receive their man.
+La Forge is eventually successful in eliciting cooperation from Bochra, and explains their only hope is being able to sense the neutrino stream. Similarly to Bochra, however, La Forge's nervous system is soon compromised by the EM radiation, rendering him unable to process the signals he receives through his VISOR, and thus blinded.
+
+
+=== Act Four ===
+Worf comes by Riker's quarters to speak to him. Riker tells Worf that he does understand his bitterness towards Romulans. Worf respectfully tells the commander that he does not. Worf vents his frustrations to Riker, noting that he is being asked to give up the very lifeblood of his parents to a member of a species that murdered them. Riker attempts to convince Worf to agree to the transfusion, noting that grudges have to end sometime. Worf still cannot agree. Dr. Crusher then calls Worf to sickbay to see the Romulan before he dies and tells him it's not too late to change his mind. Worf goes over to the Romulan and tells him he can save him, but the Romulan states that he would rather die than pollute his body with "Klingon filth".
+On the planet, Bochra suggests using the tricorder in conjunction with La Forge's VISOR to detect the neutrinos, but La Forge cannot perform this task blindly. So Bochra offers to be his eyes while La Forge directs him on how to connect the tricorder and VISOR.
+Data informs Picard that the storm on the surface is subsiding, and they can have a clear window in less than an hour. He orders Riker to assemble an away team, as there's no indication that he found the beacon. Just then, Worf informs the captain that the Romulan ship has crossed the Neutral Zone and is in Federation space heading towards the Enterprise. Picard belays the order he just gave Riker and regrettably brings the ship to red alert.
+
+
+=== Act Five ===
+Bochra and La Forge successfully set up the tricorder with the VISOR. Finally, they are able to detect the location of the neutrino beam and alert the Enterprise.
+
+Picard calls Worf to his ready room to ask that he volunteer to donate his blood to the Romulan because they cannot afford causing an incident if the Romulan were to die on board a Federation starship. Worf respectfully refuses to do so. However, he will do it if Picard makes it an order. Picard replies that he does not want to order him, but he asks and begs his security chief to reconsider. "I cannot," Worf says. Picard, without further pursuing this, dismisses him. When he informs Dr. Crusher as to Worf's final decision, she tells him that the Romulan has already died.
+Bochra and La Forge continue their trek to the neutrino beacon and eventually find it.  Between the two of them, they begin the work to modulate the neutrinos from the beacon.
+Picard paces the bridge anxiously, where Data reports a window is open for nine minutes and forty-seven seconds, but Wesley reports no change from the beacon. Then, the Romulan ship approaches the Enterprise giving them one last chance to return their officer to them. Picard angrily blasts Tomalak for entering Federation space despite his warning, but Tomalak pushes back, stating he will not leave without him.  Picard informs him that he is dead - and with fury building, Tomalak states that he is the first to fall and cuts off communications.  Worf reports the Romulan ship is powering up its disruptor array. Picard orders all shields at maximum and locks phasers - preparing to fight. At this instant, the signal-pattern from the neutrino beacon modulates, indicating that La Forge found it and is alive. Data also detects a second lifeform in addition to La Forge. They realize, however, that they cannot transport them with the shields up. At the same time, if they lower their shields, the Romulan vessel will strike.
+The EM window that allows for transport is rapidly closing, however, and they need to act quickly. Guessing that one of the people trapped on the planet is probably a Romulan, thus contradicting Patahk and Tomalak's previous declarations that only a single Romulan individual crash landed on Galorndon Core, Picard hails the Romulan ship. He explains the situation – noting that they have miraculously detected a second man from the Romulans' "one-man craft" – and asks that they not fire on the Enterprise while it is transporting them up from the planet. He warns that if the Romulan fire destroys the Enterprise, they will have broken the cease fire that the Federation and the Romulan Empire currently enjoy. Taking a deep breath, Picard orders Worf to lower their shields. Tomalak continues to ignore Picard but ultimately does not fire, and Picard orders La Forge and his Romulan companion beamed directly to the bridge. Worf orders a security team to the bridge, but Picard cancels that order and hastily orders their shields re-raised.
+
+Bochra looks around the bridge with open hostility, but Picard assures him that no one will harm him, and La Forge gives him his own word. The channel is still open, and Picard asks Tomalak if he will finally acknowledge Picard's transmission. Tomalak appears on the viewscreen, warning them that if his man has been mistreated in any way… Bochra offers a weak salute to his superior and assures Tomalak that he has given the Federation no information, but also that he has not been mistreated; to the contrary, La Forge saved his life.
+Pleased at Bochra's survival, Tomalak assures Picard that he was obviously "misinformed" about the size of the vessel and its crew. Picard responds that he might be more inclined to take Tomalak's word if the Commander powered down his ship's weapons. With a nod to his own bridge crew, Tomalak does so. Picard states that Bochra will be returned immediately, and the Enterprise will escort the warbird back to the Neutral Zone. Tomalak accepts this and ends the transmission.
+Picard welcomes La Forge back and suggests that he escort Bochra to the nearest transporter room. La Forge agrees, and something like a smile passes between the Human and the Romulan as they exit the bridge. Riker tells Picard that it was a close call. Picard responds with, "Too close, Number One. Brinkmanship is a dangerous game." The Enterprise escorts Tomalak's ship back to the Neutral Zone.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+
+
+== Memorable quotes ==
+"The Romulan craft is a total loss. There's nothing there to salvage, unless you wanna use tweezers."
+
+- Riker
+"We do have a right to detain him, Captain."
+"Without clear evidence of intent, it would not be a simple matter."
+"This was obviously not pilot's error, Captain… it requires a response from us."
+"We must measure the response carefully, Number One. Or history may remember Galorndon Core alongside Pearl Harbor and Station Salem-One… as the stage for a bloody preamble to war."
+
+- Riker and Picard, debating their response to the Romulan incursion on Galorndon Core
+
+"Thank you, Wesley!"
+
+- La Forge, when he sees the probe
+
+"You're my prisoner!"
+"Right… congratulations. Surely a strategic triumph for the Romulan Empire."
+
+- Bochra and La Forge, when first meeting
+
+"A Romulan ship will arrive shortly. You will accompany me on board."
+"I don't think so. You see, we heard your message too and well, the fleet's in, Commodore. Sky's full of Federation ships."
+"You're lying!"
+"I never lie when I've got sand in my shoes, Commodore."
+
+- Bochra and La Forge
+
+"Welcome to Galorndon Core. Where no good deed goes unpunished."
+
+- Geordi La Forge, when Bochra pulls a weapon on him after La Forge helped him
+
+"This Romulan didn't murder your parents. And you are the only one who can save his life."
+"Then he will die."
+
+- Dr. Crusher, speaking to Worf about the Romulan
+
+"How did this happen?"
+"I was born that way."
+"And your parents let you live?"
+"What kind of question is that? Of course they let me live!"
+"No wonder your race is weak. You waste time and resources on defective children."
+
+- Bochra and La Forge, discussing the latter's blindness
+
+"Everything's gone blank. I'm blind."
+
+- Geordi La Forge
+
+"For what it's worth, I understand your bitterness."
+"With respect, sir, you cannot. I am asked to give up the very lifeblood of my mother and my father to those who murdered them."
+"Must you blame all Romulans for that?"
+"Yes."
+"Forever? What if someday the Federation made peace with the Romulans?"
+"Impossible."
+"That's what your people said several years ago about Humans. Think how many died on both sides in that war. Would you and I be here now like this if we hadn't been able to let go of the anger and the blame? Where does it end, Worf? If that Romulan dies, does his family carry the bitterness on another generation?"
+
+- Riker, attempting to convince Worf to save Patahk's life
+
+"I would rather die… than pollute my body with Klingon filth…!"
+
+- Patahk refusing Worf's blood meant to save his life
+
+"Lieutenant, sometimes the moral obligations of command are less than clear. I have to weigh the good of the many against the needs of the individual and try to balance them as realistically as possible. God knows I don't always succeed."
+"I have not a cause to complain, Captain."
+"Oh, Lieutenant, you wouldn't complain even if you had cause."
+
+- Picard, attempting to convince Worf to save Patahk's life
+
+"I have no more wish to die than you do."
+"Bochra, there are times when it is necessary to die for one's ideals… do you believe that this is one of those times?"
+
+- Bochra and La Forge, before the former finally lowers his disruptor
+
+"…Bearing three-five-zero."
+"(laughing) We did it! The first Federation-Romulan co-venture!"
+
+- Bochra and La Forge, having cooperated to find the beacon
+
+"Report!"
+"The storm is beginning to subside, Captain. We should have a window in less than an hour."
+"Still no sign he has found the beacon yet."
+"Send an away team."
+"Yes, sir."
+"Captain, the Romulan warship has crossed the Neutral Zone border. It is in Federation space headed towards us."
+"Belay that order, Number One. Red alert."
+
+- Picard, Data, Riker, and Worf, on Geordi's situation when the Romulans cross the border
+
+"You have one chance to escape destruction, Picard. Return my officer at once."
+"Commander, you have entered the Neutral Zone, despite my warning!"
+"You forced the situation! I will not leave without him!"
+"He's dead."
+"…Then he is but the first to fall, Picard."
+
+- Tomalak and Picard
+
+"You see – they have no way of knowing how accurate our sensors are… Put on your best poker face, Number One."
+
+- Picard, to Riker
+
+"Commander Tomalak. It would appear our away team has rescued a second man from your one-man ship."
+
+- Picard hails Tomalak
+
+"Commander, both our ships are ready to fight. We have two extremely powerful and destructive arsenals at our command. Our next actions will have serious repercussions. We have reason to mistrust one another but even better reason to set those differences aside. Of course, the question is, who will take the initiative? Who will make the first gesture of trust? The answer is, I will. I must lower our shields to beam those men up from the planet's surface. Once the shields are down, you will of course have the opportunity to fire on us. If you do, you will destroy not only the Enterprise and its crew, but the cease fire that the Romulans and the Federation now enjoy."
+
+- Picard, to Tomalak
+
+"(to Picard) If he has been in any way mistreated…"
+"I have given them no information, Commander. But I have not been mistreated. In fact, this Human…saved my life."
+
+- Tomalak and Bochra, after Bochra and Geordi return to the Enterprise
+
+"Close call."
+"Too close, Number One. Brinkmanship is a dangerous game."
+
+- Riker and Picard, after narrowly avoiding war with the Romulans
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script, and revised final draft script: 11 September 1989 [1]
+Blue revision pages added to revised final draft script: 12 September 1989
+Two pages of research notes by David Krieger: 14 September 1989
+Premiere airdate: 6 November 1989
+Michael Piller recommends this episode, amongst others, in a memo to John Wentworth, president of Paramount's Network Television Publicity department: 7 December 1989 (The Making of Yesterday's Enterprise, p. 91)
+First UK airdate: 27 November 1991
+
+
+=== Story and production ===
+In early drafts of the script, Troi was also trapped on Galorndon Core. (Star Trek: The Next Generation Companion, 2nd ed., p. 107)
+Marina Sirtis saw this an example of her character remaining underutilized and underdeveloped. She recalled, "In the original draft which I happened to read which we're not allowed to see so we don't make conversations like this, it was Troi and Geordi stranded on the planet and because Geordi was blinded by the electromagnetics preventing his visor from working when we came across the Romulan it was actually Troi who incapacitated him. I felt very excited about this. I finally got to do something interesting and different and, of course, when the final script came not only was I not on the planet, but I had one line at the end of the show – and that was actually cut. That's the kind of thing that happens and I wish it wouldn't." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 202)
+The plot point of Worf letting Patahk die by refusing blood met great resistance among some of the writing staff and Michael Dorn when it was suggested by Michael Piller. (Star Trek: The Next Generation Companion, 2nd ed., p. 107)
+Dorn commented, "I called the producers and said I didn't agree. I thought [giving blood] was the honorable thing to do. I thought people would look at [Worf] as a murderer. The producers felt that Worf was getting to be too Human…just a guy with a big head. When the opportunity came for them to show that Worf was not Human, that he is not bound by the same morals as we are, they felt it was a wonderful opportunity." In hindsight, however, Dorn saw the wisdom of the decision, remarking how it revealed the different sides of Worf. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 188)
+Piller noted, "Rick Berman knew instantly it was the right thing to do. Once he was behind me, it was a race to the finish line. And it was absolutely the right thing to do. You knew the audience was waiting for Worf to come around, because they always do that in television. But the character wouldn't do that and I think we made a really good decision. At first though, it was quite a shock and a controversial decision. But you end up talking about survival and survival among enemies. I think it was just a natural character development." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 188)
+According to LeVar Burton, this episode was Star Trek's homage to the 1958 film The Defiant Ones with Tony Curtis and Sidney Poitier. ("Memorable Missions – "The Enemy"", TNG Season 3 DVD special feature)
+
+
+=== Continuity ===
+The launch of the class 3 probe is stock footage from the episode "Where Silence Has Lease".
+The episode marks the first and only time that the rank of commodore is mentioned in Star Trek: The Next Generation.
+This episode marks the first of four appearances of Romulan Commander Tomalak.
+This is also the first Star Trek episode directed by David Carson. Carson would go on to direct several more episodes of Star Trek: The Next Generation and Star Trek: Deep Space Nine, as well as the feature film Star Trek Generations.
+A brief reaction shot of Picard just after he ends contact with Tomalak in act three is taken from TNG: "The Ensigns of Command", five episodes prior.
+John Snyder (Bochra) later goes on to play the genetically engineered leader Aaron Conor in the fifth season Next Generation episode "The Masterpiece Society".
+Ironically, Steve Rankin, whose character Patahk preferred to die rather than accept a transfusion from a Klingon, would himself play a Klingon, the mercenary Yeto in DS9: "Invasive Procedures". He would also play a Cardassian officer in DS9: "Emissary" and Colonel Green in ENT: "Demons".
+For the first time since the first season, Beverly Crusher is seen wearing her hair long; she is seen with short hair again in the next episode. Gates McFadden wore wigs throughout seasons 3 to 5, but it is not currently known whether this one-off hairstyle was a wig or her own hair (which would reappear in the sixth season's "True Q").
+Worf tells Captain Picard that if he's ordered to undergo the transfusion procedure, he would of course obey. However, two other characters that strongly suggest Worf undergo the procedure (Doctor Crusher and Commander Riker) also outrank Worf, technically meaning they could have ordered him to do so as well.
+At the end of the episode, Picard tells Tomalak that the Enterprise will escort his ship to the Neutral Zone. However, the final shot shows the Enterprise and the Romulan Warbird departing in opposite directions. This is because the last scene of the episode "Contagion" was used, when the Enterprise parted ways with the Romulan Warbird Haakona.
+
+
+=== Reception ===
+Even though Brannon Braga had tried to watch early Star Trek: The Next Generation but had been disappointed by the show, this episode hooked him into the Star Trek universe. Recalling his reaction when he viewed the installment, Braga related, "I'm like, 'This is good stuff!' This was not like the Next Gen I first watched." [2]
+Michael Piller mentioned this as one of three highlights from TNG's third season (the others were "The Bonding" and "Yesterday's Enterprise"). (The Official Star Trek: Deep Space Nine Magazine issue 3, p. 9)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 11, pp. 39-42.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 28, November 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.3, 1 May 2000
+As part of the TNG Season 3 DVD collection
+As part of the TNG Season 3 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest stars ===
+John Snyder as Bochra
+Andreas Katsulas as Tomalak
+Colm Meaney as Miles O'Brien
+
+
+=== Co-star ===
+Steve Rankin as Patahk
+
+
+=== Uncredited co-stars ===
+Karin Baxter as operations division ensign
+James G. Becker as Youngblood
+Michael Braveheart as Martinez
+Jeremy Doyle as operations ensign
+Lorine Mendell as Diana Giddings
+John Rice as science division officer
+Natalie Wood as Bailey
+Unknown performers as
+Command division officer
+Conn ensign
+Female ops ensign
+Female science division officer
+Female science division officer
+Security ensign
+
+
+=== Stunt doubles ===
+Unknown stunt performers as
+Stunt double for LeVar Burton
+Stunt double for John Snyder
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+address; aggression; anger; anti-grav lift; apology; arsenal; atmosphere; away team; battle; beam-out marker; body temperature; beacon; bearing; blame; blindness; body; brain; brain wave; brinksmanship; cease fire; cell; cell damage; cell structure; centurion; channel; children; circuit; class-3 probe; climate; commander; commodore; communicator; cooperation; cranial trauma; crash site; D'deridex-class; death; deception; destruction; discovery; distress call; distress signal; disruptor; disruptor array; donor; drug; electrical storm; electromagnetic; electromagnetic interference; eletromagnetic window; error; evidence; explanation; exposure; explosive device; extinction; eye; eye device; family; Federation; Federation planet; Federation space; feeling; fever; fleet; frequency; Galorndon Core; Galorndon Core sector; Geiger counter; generation; gesture; ghost; God; guard; guest; hailing frequency; hand; head injury; heart rate; history; hostility; Human; humanoid; hypothesis; individual; information; initiative; injury; Klingon; La Forge, Edward M.; La Forge, Silva; lab; language; leg; lie; lifeform; " light year; luck; magnetic field; medical test; message; metabolism; meter; Milky Way Galaxy; millennium; minute; mission; mission of mercy; mister; Mogh; Mogh's wife; molecule; mother ship; murder; name; nervous system; neural impulse; neural output pod; neural pathway; neutrino; neutrino beacon; neutrino pulse; neutrino stream; number one; object; objection; one-man craft/one-man ship; opportunity; output range; path; patient; peace; Pearl Harbor; permission; phaser; phaser range; Pi; pilot; place; poker face; polarity; positron; precipitation; prisoner; question; race; radiation; radius; rank; reason; red alert; replicator; resource: result; ribosome; ribosome infusion; right; risk; Romulan; Romulan language; Romulan Neutral Zone; Romulan scout ship; Romulan Star Empire; sand; sarcasm; second; scanner; scanner head; scanner selector limiter; schedule; second; sector; security team; sensor; sensor device; shield; shoe; signal; size; sky; smile; soup; species; spike; Station Salem-One; substance; surface; surrender; survivor; synapse; target; territory; thing; thousand; throat; Tomalak's warbird; touch; training; transfusion; transmission; transporter room 1; treatment; tricorder; trust; tweezers; ultritium; vision; VISOR; visual contact; volunteer; Vulcan; war; warbird, Romulan; warship, Romulan; "whoa"; year
+
+
+=== External links ===
+"The Enemy" at Memory Beta, the wiki for licensed Star Trek works
+"The Enemy" at Wikipedia
+"The Enemy" at MissionLogPodcast.com
+"The Enemy" script at Star Trek Minutiae
+"The Enemy" at the Internet Movie Database

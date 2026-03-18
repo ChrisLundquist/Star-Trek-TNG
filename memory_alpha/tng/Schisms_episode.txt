@@ -1,0 +1,246 @@
+Enterprise crew members report that they go to sleep but wake up exhausted; a mysterious subspace pocket forms inside a cargo bay.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 46154.2. The Enterprise has entered the Amargosa Diaspora, an unusually dense globular cluster. We are faced with the daunting task of charting this vast region."
+William T. Riker is tossing and turning in bed in his quarters, having trouble getting to sleep. He struggles to get out of bed and groans as he makes his way to his Head. After washing his face, he hears a buzzer on his wall panel and checks and realizes he is late and shakes his head in disbelief.
+Geordi La Forge and Data work on charting the cluster and the former orders Lieutenant Shipley to triangulate the sector points. Riker comes in and apologizes for being late. La Forge brings him up to speed and tells him how he is attempting to speed up the process of charting the immense globular cluster. He just listens and struggles to pay attention. La Forge wants to boost the long-range sensor array using the warp drive. Afterward, Data asks Riker if he will be attending his poetry reading later in the afternoon in Ten Forward. Riker tiredly tells him he "wouldn't miss it for the world." La Forge grins at Riker and tells him he can't wait to see what Data has come up with.
+Later that afternoon, Data reads some of his poetry. The rhyme and meter are perfect, but there is no emotional content to it as most of the audience looks rather bored. Riker is very obviously tired, falling asleep twice while Data recites a self-made poem he wrote for his cat, Spot, titled "Ode to Spot".
+
+
+=== Act One ===
+Riker talks to Doctor Crusher and explains how he has been on edge all day, and almost swatting away her scanning device on the medical tricorder, complaining that it's too close to him. She finds nothing wrong with him, aside from muscle tension in his neck and suggests a warm milk toddy, a recipe from Captain Picard's Aunt Adele.
+La Forge, Data, and Shipley execute their plan for the sensor array and the results have increased active scanner output by 26%. Delighted at the results, La Forge wants to inform astrophysics laboratory about his new "La Forge Sensor Array", a task that Shipley is delighted to perform. Data then takes La Forge aside to ask about his poetry, saying he noticed people were distracted. While his form was good, La Forge recommends focusing on what he wants to say rather than on how he is saying it. Suddenly, there is a power grid overload in cargo bay 4, the location where they were routing power to amplify the sensors. Concerns mount as La Forge says he has three people working in there and wants damage control and medical teams there.
+Lieutenant Worf and a security guard arrive outside, followed by Crusher and two medical personnel with a stretcher. Shipley and La Forge stand clear as Data opens the door. However, they find nothing but three people working, which draws a nervous question from one of them, asking if there is something wrong.
+La Forge concludes to Riker that it was a glitch in the internal sensors which caused a pattern recognition failure, in part of his modifications. Riker suggests running a level 3 diagnostic on the internal sensor network and wants to pick the conversation up in the morning and get a fresh start, with obvious fatigue in his voice. Before leaving, Riker asks La Forge to stop by his quarters at 0700 in the morning, since he's having trouble waking up; La Forge agrees to do so.
+A warm milk toddy materializes in the replicator; Riker drinks it down, showing a mild disapproval of its taste. He lies down in his bed and quickly drifts off to sleep. What seems to be moments later, La Forge is seen walking in the corridor, acknowledging a passing crewman, and stopping at Riker's quarters to wake him the following morning, as asked. Despite the fact that Riker incredulously says he just went to bed, La Forge assures him that it is in fact 0700 hours, leaving Riker not only exhausted but completely puzzled.
+
+
+=== Act Two ===
+Worf is getting a haircut from Mr. Mot, the ship's barber. He asks to have his hair trimmed, but not as short as last time, which Mot apologizes for once again for his mistake. Engaging in small talk about how luxurious Klingon hair is and ways to keep it healthy, the way Mot's scissors come at Worf's face causes him to react strongly by grabbing Mot's wrist, but clearly, he doesn't know exactly why, and Worf leaves his shop in a hurry.
+
+La Forge is trying to diagnose the sensor problem back in the cargo bay. He can't find it, so, at Riker's suggestion, he disables the modifications. While they were walking together, La Forge lets out a yawn and excuses himself to Riker, which it seems this has been happening for quite some time. La Forge quips that after this survey is complete, they could all use a little shore leave. As he is about to run a structural integrity scan, his VISOR cuts out, making him extremely dizzy, the second time today it did that. After another strange feeling, he goes to sickbay, leaving Data to continue the diagnosis.
+Doctor Crusher finds that there is a bacterial infection around La Forge's neural implants, interrupting the data stream, but it doesn't match any bacterial strain in the medical database. She runs an additional scan to check that there are no other additional signs of infection.
+When La Forge returns, Data indicates he is just starting the integrity scan and thought La Forge just left. Confused, La Forge tells him that has been gone for more than an hour. After comparing his internal chronometer with the ship's computer, Data is surprised to learn that La Forge is correct – his chronometer is off by ninety minutes, seventeen seconds. Data decides to run a self-diagnostic later, and La Forge calls for a team from Engineering to have the cargo bay examined; his VISOR, a sensor glitch, and now Data's chronometer are not a coincidence.
+On the bridge, Riker is about to teach Ensign Sariel Rager how to compensate for gravimetric interference in a globular cluster for a course correction, but when he sits down at the conn, he suddenly has an odd reaction to the console. He runs his hand over the smooth forward edge of the helm, then gets out of the chair and resumes his seat, apparently deciding that Stellar cartography won't get their better angle.
+Later, La Forge and Data detect a subspace particle emission within Cargo Bay 4. With the use of a tricorder, they locate a glow from the plasma conduit they were examining before, which draws all the personnel in the bay to watch.
+
+
+=== Act Three ===
+They examine it and conclude that this is a subspace rift, and on the other side is something that is so deep into subspace it shouldn't exist in this universe, as it is, according to Data, composed of tetryon particles which are normally unstable in normal space. Picard asks if the rift poses a danger to the Enterprise, which La Forge says only if it spreads. If it does, they can beam the bulkhead out and erect a force field in its place. Picard wants that option ready just in case and orders them to continue their analysis.
+Riker explains to Counselor Deanna Troi in Ten Forward that he suddenly felt trapped sitting in front of the conn console on the bridge, and she tells him he is the third person to mention having a fear response provoked by an object. When she gets everyone together in the observation lounge, including Worf, La Forge and Kaminer, they all start to realize they are remembering the same thing. They all begin to describe a vague, but consistent, picture.
+
+On Riker's suggestion, they all go into the holodeck and begin to reconstruct the room. Starting with a table, they assemble a long, rectangular, inclined metal table; followed by a dark room with a bright light overhead. With things starting to come into place, they add a restraining arm to the table with a control panel, and a metal swing-arm at the head. Worf then adds a scissor-like device to the swing-arm, and Riker adds whispers to the room, but Kaminer switches them to clicks. With Riker increasing the volume, speed and number of the clicks in the room, La Forge horrifyingly concludes that he has been in this room, and Riker adds that they've all been in the room before.
+
+
+=== Act Four ===
+In sickbay, with everyone being examined, Picard is briefed on Crusher's findings: she has found high serotonin levels in each of those who had these strange memories, mainly in the hippocampus, suggesting they were exposed to a neuro-sedative. Furthermore, they each had minute tetryon particle traces in their subdermal tissues, the same traces as in the cargo bay. Data arrives and reports that, after completing his self-diagnostic, he has concluded he was not aboard the Enterprise for the lost time in the cargo bay. When Picard asks the computer if anyone is missing, it identifies two crew members unaccounted for: Lieutenant Edward Hagler and Ensign Rager, who have been gone since 2332 hours using an unknown method of departure. He immediately contacts the bridge to raise shields and orders a level 4 security alert. They conclude that to locate their missing crew members, they have to find the source of the tetryon emissions. Just then, one of Crusher's men alerts her to a shocking discovery: it appears that Riker's arm has been surgically removed and then reattached, almost invisibly, except with a point-zero-two micron difference. Riker's concern grows exponentially.
+With Shipley working on the analysis, he directs La Forge's to a very concerning discovery: the tetryon emissions in the cargo bay have intensified and coalesced, the beginning of a spatial rupture. They decide to put a subspace containment field around it in case it expands as it would present a threat of a hull breach if not contained.
+The Enterprise's internal sensors have not picked up anything unusual other than the rupture in Cargo Bay 4. Picard orders that a metallurgical analysis be conducted on the ship's hull, as he believes subspace field incursions may have left a trace. Just then, Worf reports that Lieutenant Hagler has been returned to the Enterprise and in his quarters. When Dr. Crusher comes rushing to Hagler's door, he is in severe distress and collapses on the deck floor. When Picard and Riker rush to help the doctor, she finds Hagler's blood turning into a liquid polymer, and calls for a plasma infusion unit to Deck 9.
+At the next staff meeting in the observation lounge, La Forge tells them that the subspace containment field isn't working. There is no way to beam the affected sections into space since the transporter cannot get a positive lock on the affected sections due to severe nucleonic interference and they have about 5 or 6 hours before the hull ruptures. La Forge also explains that the only way to close the rupture is with a coherent graviton pulse, but that has to be done at the source, and finding the specific tertiary subspace manifold where the abducting aliens dwell within the infinite number of domains which exist is almost impossible.
+Worf suggests creating a homing device, allowing them to track it when someone is taken but they have no way to get the device to the source. Riker disagrees and volunteers to take the device directly to the source, noting that he has been taken every night. The captain also asks Crusher if she can counteract the effects of the sedative the aliens have been administering which would give him an advantage. She gives Riker a high dosage of a neuro-stimulant which would give him about 12 hours. La Forge gives him a tricorder that's locked into a continuous cycle to record what they can of the subspace domain, and a modified sensor relay emitter to transmit a subspace beacon. When the indicator lights up, it means they've locked on to his location.
+Riker is laying on his bed in uniform with his mission equipment and armed with a phaser, waiting for the inevitable. Suddenly, a bright rift appears at the foot of his bed, and he is levitated and pulled through it feet first. On the bridge, Worf informs Picard that Riker has been taken from the Enterprise.
+
+
+=== Act Five ===
+
+Riker finds himself on an examination table in a room with several hooded aliens who appear to be busy with other tasks. The clicking sound is revealed to be their language. The missing Ensign Rager is unconscious on a similar table nearby, with several tubes sticking into her right arm. Riker looks around at what he can, feigning unconsciousness whenever they come by to work on him.
+La Forge has trouble finding Riker in subspace which they covered the entire high-width subspace energy band and are working on adjacent levels. With only 14 minutes left in the containment field, they decide to reinforce it with auxiliary power, but it won't be much.
+The aliens continue their work on Rager by taking a skin sample from her leg, and then proceed to work on Riker, while he continues to feign unconsciousness. Just then, he sees his relay emitter begin to light up, indicating the Enterprise has locked on to their location.
+La Forge locks in the subspace energy level of 16.2 keV and prepares to initiate the graviton pulse with the emitters at full power according to Shipley, but they have about four minutes left before the containment field fails. When the field then fluctuates, the Enterprise crew are forced to begin the graviton pulse. When this starts, the aliens attempt to counteract it, so La Forge starts adding a random shift to the frequency, but it doesn't help. He and Shipley are forced to channel all of the graviton energy into a single burst, which works, and they prepare to fire another blast at the rift.
+
+As the aliens are concentrating on keeping the rift open, Riker frees himself from the table, and proceeds to rescue Rager after she indicates she is aware of his presence. He gets off the table and approaches the ensign, shooting one of the aliens who attempts to interfere. Just as Shipley and La Forge ready one final blast and finally collapse the rift, Riker jumps through the rift with Rager in his arms, and lands in the cargo bay with Data rushing over to assist them moments before it collapses.
+However, the aliens send something unknown through the rift, which passes through the Enterprise's hull and out into space.
+
+"Captain's log, Stardate 46191.2. The tetryon emissions in Cargo Bay 4 have ceased, and there have been no further indications of alien intrusions. All Enterprise crew members are safe and accounted for, but we are still left with some unanswered questions."
+Data and La Forge examine the tricorder readings and conclude that these solanogen-based lifeforms had created a pocket of "normal" universe within their subspatial domain, allowing them to examine and experiment on their victims taken from the Enterprise. They'd been attempting to establish a pocket of their subspace realm inside the ship's cargo bay. La Forge hypothesizes that they discovered the ship due to his modified sensor signal and suggests that they warn Starfleet not to perform such a modification on other vessels in the future. The alien intent behind the abduction and experimentation was unclear, and there is some discussion of whether or not the energy sent through the rift was a probe of some sort, as Data notes they may be simply explorers like themselves. Although he and Rager were lucky to escape, Riker notes that Lieutenant Hagler is dead and the experimentation on the various crew members indicates that the motivation behind them was beyond mere curiosity.
+
+
+== Memorable quotes ==
+"Felis catus is your taxonomic nomenclature,
+An endothermic quadruped, carnivorous by nature."
+
+- Data, reciting his poem "Ode to Spot"
+
+"Your hesitation suggests you are trying to protect my feelings. However, since I have none, I would prefer you to be honest."
+
+- Data, asking for feedback on his poetry
+
+"Oh, excuse me."
+"I know the feeling."
+
+- La Forge yawns and Riker relates
+
+"It's such a pleasure to cut sometimes I get carried away!"
+
+- Mot after he earlier cut Worf's Klingon hair too short
+
+"Good morning."
+"Morning? I just went to bed!"
+"Commander, it's 0700 hours."
+
+- La Forge after Riker's abduction by the solanogen-based lifeforms
+
+"I've been in this room before."
+"We've all been here before."
+
+- La Forge and Riker
+
+"Whoever it was that sent that thing was more than simply curious..."
+
+- Riker
+
+"Have you dreamed about scissors recently?"
+
+- Troi
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 14 August 1992 [1]
+Premiere airdate: 19 October 1992
+First UK airdate: 9 August 1995
+
+
+=== Story and script ===
+Although hardly the first Trek episode in which characters have been abducted by aliens, "Schisms" marks Trek's first foray into the phenomenon of alien abduction in the popular sense. Set designer Richard James compared the episode to Close Encounters of the Third Kind. Brannon Braga noted, "Getting kidnapped by aliens is not very fresh. I was more interested in those first four acts, the mystery and the weirdness and seeing our people losing their minds, which is not something you get to see very often." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 262)
+An aspect Braga was very proud of in this episode was Data's poetry reading. He stated, "That was a decision to do a cold teaser and the poetry reading was an idea that we had been kicking around for quite a while. The things that's great about the teaser is that it's still advancing the plot with Riker falling asleep, even though you don't think that's going to have anything to do with the story." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 262)
+Actor Brent Spiner was highly impressed with Data's poem, "Ode to Spot." He recalled, "I couldn't believe it because not only did it rhyme but it's technobabble and it also had something to say. It had a really sweet point of view towards the cat." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 262)
+The character of Kaminer was named after author Wendy Kaminer. (Star Trek: The Next Generation Companion, 2nd ed., p. 221)
+The Amargosa Diaspora was named after the Amargosa Desert and a pet finch of Braga's mother. (Star Trek: The Next Generation Companion, 2nd ed., p. 221)
+A schism is a split or division. As such, the title refers to the splits in subspace that allow the aliens to abduct crewmembers.
+
+
+=== Production ===
+Co-producer Wendy Neuss, sound editor Jim Wolvington and supervising sound editor Bill Wistrom were tasked with creating the clicking language for the aliens. Neuss recalled it was among the funniest experiences she had on The Next Generation. She explained, "We had decided what kind of clicks we wanted with Rick [Berman] and Peter [Lauritson] at the spotting session. Then the three of us actually sat there one night and wrote a script in English and then transposed it to 'clicks.' We wanted it to be organic, not synthesized, and we had a cadence to it; we decided where the clicks should be and what kind of feeling they should have. Then we brought in the group [of] people to do it – so in addition to the individual clickers we had group clicking: you see five people clicking, really intently, like the professionals that they are. And I just had to leave the stage – that's when you think, 'I can't believe I'm doing this!'" (Star Trek: The Next Generation Companion, 2nd ed., p. 221)
+
+
+=== Continuity ===
+
+The stellar formations of the Amargosa Diaspora seen at the beginning of the episode turned up again later in the season to represent the Borgolis Nebula in "Lessons".
+This is the final appearance of the Bolian barber Mot (although Picard later masqueraded as Mot in "Starship Mine"), as well as conn officer Sariel Rager. Mot did reappear later in "The Chase", but the scene was deleted.
+The versatility of the main biobed in sickbay is seen in this episode. Riker is seen putting his arm on top of a retractable transparent scanner sheet while sitting on the bed. A scan of his forearm is then seen on a viewscreen, showing that it was severed by the aliens.
+Picard's Aunt Adele was previously mentioned in "Ensign Ro" and "Cause And Effect". In "Ensign Ro", Picard gave Admiral Kennelly her cure for the common cold, ginger tea with honey. In "Cause and Effect", he gave Crusher her recipe for steamed milk with nutmeg when she had trouble sleeping. Here, Crusher gives Riker her recipe for warm milk toddy.
+This episode marks the only time in the series that Riker takes the conn of the USS Enterprise-D, albeit briefly. The next time he would take the helm of an Enterprise would be the USS Enterprise-E in Star Trek: Insurrection.
+The poem "Ode to Spot" later appeared in "A Fistful of Datas".
+The wall decoration in the barbershop can also be seen in the Proconsul Neral's office in the fifth season episodes "Unification I" and "Unification II", in the reception area at Arkaria Base in the episode "Starship Mine", in the observation lounge in the seventh season episode "Parallels", in the office of Minister Kray in the Star Trek: Voyager first season episode "Ex Post Facto", in Neelix's quarters in the episode "Jetrel", and in Annorax ready room aboard the Krenim weapon ship in the fourth season episode "Year of Hell".
+
+
+=== Reception ===
+Director Robert Wiemer, Brannon Braga, and Michael Piller were all disappointed at the look of the aliens, and decided not to bring them back, despite the open ending. Braga stated, "I felt they looked like monks – fish monks – and monks aren't terrifying." (Star Trek: The Next Generation Companion, 2nd ed., p. 221)
+Braga was additionally displeased with previews for the episode. He stated, "Unfortunately, the trailer also gave everything away, 'Aliens are using the Enterprise crew as Human guinea pigs.' They showed everything during the coming attractions the week before, which was really annoying." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 262)
+Wiemer thought the alien scenes were too "languid" and should have used more cuts to create an off-balance feeling. "There was a story consensus to do lighting control, smoke control, to limit what one saw, but it's always harder to paint with light when you're on the crush of time." (Star Trek: The Next Generation Companion, 2nd ed., p. 221)
+
+
+=== Apocrypha ===
+In the game Star Trek Online, the first mission in the story arc known as Solanae Dyson Sphere draws heavily on this episode. During the course of the mission, the solanogen-based lifeforms were identified as servants of the Iconians while the player rescues Starfleet, Klingon, and Romulan teams, with the aid of Ambassador Worf. One of the Romulan captives would end up slain by the same procedure (and cause of death) that killed Lieutenant Hagler.
+The Star Trek: Titan novel Sight Unseen tells a different version: in 2386, now-Admiral William T. Riker, Lieutenant Commander Sariel Rager, and their comrades on the USS Titan encounter the Solanae while Starfleet is working with a new-to-warp species called the Dinac. The Solanae's home realm is revealed to be entropically decaying toward complete dissolution in less than 300 years, prompting the Solanae leadership to order experiments on Milky Way Galaxy species as a prelude to exodus by forcible colonization. With the help of exiled dissidents called the Ciari (who include Xikkix, the man who experimented upon Riker and Rager years before), the Titan crew foil the Solanae's plans to deploy a biogenic weapon against the Dinac homeworld.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 66, 17 May 1993
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Lanei Chapman as Sariel Rager
+Ken Thorley as Mot
+
+
+=== Co-stars ===
+Angelina Fiordellisi as Kaminer
+Scott T. Trost as Shipley
+Angelo McCabe as Crewman
+John Nelson as Medical Technician
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Lena Banks as operations division ensign
+Michael Braveheart as Martinez
+Tyce Bune as Edward Hagler
+Debbie David as Russell
+Cameron as Kellogg
+David Paul Christian as Ten Forward waiter
+Brian Ciari as solanogen-based lifeform
+Tracee Lee Cocco as Jae
+Tony Cruz as Lopez
+Elliot Durant III as operations division ensign
+Holiday Freeman as command division officer
+Jack Gilroy as operations lieutenant j.g.
+Grace Harrell as operations division officer
+Melanie Hathorn as sciences officer
+Kerry Hoyt as operations division ensign
+Hunt as operations division officer
+Gary Hunter as science division officer
+D. Kai as sciences officer
+Arvo Katajisto as Torigan
+Ron Large as command division officer
+Mark Lentry as civilian
+Debbie Marsh as command division ensign
+Ivonne Perez as command officer
+Brandy Pickett as science division officer
+Victor Sein as technician
+Noriko Suzuki as operations division ensign
+Talbot as Ten Forward waitress
+Unknown performers as
+Female civilian
+Female command division ensign
+Four solanogen-based lifeforms
+Gordon
+Science division officer
+Setti
+Starfleet officer (voice)
+Technician
+
+
+=== Stunt double ===
+Tom Morga as stunt double for Jonathan Frakes
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Joycelyn Robinson – stand-in for Lanei Chapman
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+Adele; alien lifeform; Amargosa Diaspora; amino acid; arm; analysis; anapestic tetrameter; anti-grav lift; astrophysics laboratory; aunt; auxiliary power; bacteria; barbershop; beard; bench; blade; blood; bulkhead; cargo bay 4; cat; centimeter; chronometer; classification; coherent graviton pulse; conditioning agent; conduit; conference table; cycle; deflector grid; denouement; design parameter; diagnostic; diagnostic team; dream; EM signature; emotional response; EPS mains; EPS explosion; explorer; FGC-13; fish; force field; Galaxy class decks; globular cluster; gravimetric disturbance; gravimetric interference; graviton; graviton emitter; haiku; heat; hedonism; height; hippocampus; holodeck; homing device; honeycomb; hull; hull breach; internal chronometer; internal sensor network; isolinear chip; joke; Jorkemo; Keats, John; keV; lactose; Latin language; level 3 diagnostic; liquid polymer; LT Lepton Emission Subharmonic Analysis; medical tricorder; metal (metallic); metallurgical analysis; meter (distance); meter (poetry); minute; molecular structure; moon; muscle; neural input; neuro-sedative; neuro-stimulant; non-sentient; nucleonic interference; number one; ocean; ode; "Ode to Spot"; orbit; oversleeping; plasma infusion unit; poetry; poetry reading; probe; quasi-molecular flux; radius; recharge; recipe; rectangular; red; REM sleep; resonance tissue scan; sand; scientific discovery; scissors; sector; security alert; sedative; self-diagnostic; sensor array; sensor ghost; sensor relay emitter; serotonin; servo fluid system; shields; shore leave; sickbay; snoring; solanogen; solanogen-based lifeform; sonnet; spatial rupture; Spot; Starfleet; Stellar cartography; structural integrity; subatomic level; subspace; subspace containment field; subspace energy; subspace field tap; subspace field incursion; surface area; sunflower; table; tertiary subspace manifold; tetryons; tide; tidal effect; tricorder; ulna; universe; visual cortex; warm milk toddy (aka hot milk toddy); warp field; warp grid coupler; warp-power transfer; wave; world
+
+
+==== "Ode to Spot" references ====
+acrobatic talents; carnivore; counterbalance; endotherm; Felis catus; quadruped; subvocal oscillations; tail; taxonomic nomenclature
+
+
+=== External links ===
+"Schisms" at Memory Beta, the wiki for licensed Star Trek works
+"Schisms" at Wikipedia
+"Schisms" at MissionLogPodcast.com
+"Schisms" script at Star Trek Minutiae
+"Schisms" at the Internet Movie Database

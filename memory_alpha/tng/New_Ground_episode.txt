@@ -1,0 +1,281 @@
+Worf's son Alexander comes to live on the Enterprise; the crew helps guide a test vehicle for a revolutionary new form of interstellar travel.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45376.3. We are approaching Bilana III, where a new method of propulsion known as the soliton wave is being developed. The Enterprise has been asked to participate in one of the first tests of this new technology."
+
+In engineering, Lieutenant Commander Geordi La Forge is visibly excited about the history-making events about to transpire. He likens it to being present to see Chuck Yeager break the sound barrier or Zefram Cochrane engage the first warp drive. Lieutenant Commander Data and Lieutenant Worf don't share his enthusiasm. La Forge leaves them to talk with Crewman Donaldson, a fellow engineer who may be more receptive.
+Worf receives a subspace communication from the transport ship Milan. It is Worf's mother, Helena Rozhenko, who has brought with her Worf's son, Alexander, to visit. Worf makes arrangements for them to come aboard.
+In the transporter room, Worf greets his mother and son stiffly and asks, "How long can you stay?" To which Alexander replies, "I'm not going back."
+
+
+=== Act One ===
+Worf and his mother enter Ten Forward and sit down together at a table. Helena explains to Worf that she and Worf's father are getting older and cannot take proper care of Alexander anymore and that he needs to be with his father. Worf protests that it is "not possible" and that they must find another option. Helena says that Alexander "needs his father" and that Alexander has been having difficulties with his behavior, even lying on occasion. She insists that he needs his father for guidance. Worf seems to agree with her.
+
+Afterward, Worf and Alexander are walking in a corridor to visit the Enterprise's primary school teacher, Miss Kyle. Worf is stiffly asking questions of Alexander, who is giving one-word answers and Worf can only respond with "good." When they arrive and are introduced, Miss Kyle asks Alexander to spell his last name for her. He isn't paying attention, and the teacher moves on to another question, Alexander's date of birth. Worf realizes that he doesn't know, and Alexander is clearly disappointed and answers instead, "The forty-third day of Maktag, Stardate 43205." When Kyle asks Worf how long Alexander will be on board, he replies that it hasn't been decided. Alexander looks crushed.
+Captain Picard is waiting in his ready room, tapping an isolinear chip and looking somewhat annoyed. Worf enters, and Picard mildly upbraids him for being late, then begins speaking about newly transferred security officers coming on duty when they are interrupted by a call from Miss Kyle asking about scheduling placement tests for Alexander. Worf cuts her off and says he will speak to her at another time. Picard continues, only to be interrupted again by Doctor Crusher calling Worf from sickbay to ask about scheduling a physical examination of Alexander. Worf asks her if they can discuss it later and apologizes to Picard for the interruptions. Picard tells Worf to take care of his son and that the security matters can wait. He seems mildly amused as Worf leaves.
+Doctor Ja'Dar is briefing the senior staff in the observation lounge about the upcoming experiment. He says that there are twenty-three field coils on the planet working in concert to generate the soliton wave. The test ship will be towed to a position approximately two million kilometers from the planet. The plan is for the wave to envelop the ship and push it into warp. Picard comments, "Warp without warp drive," and Commander Riker jokes that this could put La Forge out of a job, to which La Forge says he hopes so. Data asks how closely the Enterprise will need to follow the test vehicle, and Ja'Dar responds that the soliton emits a great deal of subspace radio interference, so they must remain within twenty kilometers in order to receive telemetry. Picard asks how the experiment will be terminated and is told that the wave is being directed toward the planet Lemma II, about three light years away, where their sister facility will generate a scattering field to dissipate the wave and bring the ship out of warp. The briefing ends and the staff leaves, while La Forge stays behind to speak some more with Ja'Dar.
+On the bridge, Counselor Deanna Troi approaches Worf and informs him that she has spoken with Mrs. Kyle about Alexander being enrolled in the ship's primary school. She asks if Worf is planning to attend the father-and-son field trip scheduled for later in the afternoon. Worf replies that he has a personnel review scheduled for 1300 hours. Troi replies that it would be a good opportunity for Worf to get to know the other students and parents. Worf decides to reschedule the review so they can attend. Troi informs Worf that she will let them know that he and Alexander will attend, much to his chagrin.
+On the field trip, Miss Kyle is showing her class and the parents a pair of animals from Corvan II in a cage while Alexander is looking at some small animal models on a table. While keeping an eye on Alexander, Miss Kyle explains that the animals are called gilvos and that their eating habits are similar to that of Earth's draco lizard, which went extinct more than three hundred years ago. She goes on to say there are only fourteen gilvos left on Corvan II, so the Enterprise is transplanting this pair to the protected planet Brentalia, where they will be able to thrive. After her lecture, Miss Kyle gently confronts Alexander about taking a model lizard from the table, trying to make it out to be a misunderstanding. Worf is angry at even the hint of an accusation and asks his son if he took the model. He looks directly at Worf and denies it. Miss Kyle insists that she saw Alexander put the model into his jacket. Worf reaches into Alexander's pocket and removes the lizard model; Alexander has lied to Worf's face.
+
+
+=== Act Two ===
+"Lieutenant Worf, personal log, Stardate 45376.8. Alexander has acted shamefully and as his father, I must now deal with him. But I find that I would rather fight ten Balduk warriors than face one small child."
+
+In his quarters, Worf is pacing and lecturing Alexander who is seated and staring at the floor. He is telling his son about honor and how "a Klingon's word is his bond; without it he is nothing." Alexander doesn't know why he stole or lied, and this infuriates Worf, who quickly calms down and takes Alexander into the next room and sits down with him on a couch. He points out a stature of two figures locked in hand-to-hand combat. He asks Alexander if he knows who they are. Alexander knows that one of them is Kahless, and Worf tells him that the other one is Kahless' brother, Morath. They are fighting because Morath told a lie and brought shame and dishonor to their family. They fought for twelve days and nights. Worf explains to Alexander that when he lies, he is dishonoring his own family in the same way, and that he is dishonoring Worf. Alexander promises never to lie again.
+
+In the corridor, Troi asks Worf about the field trip. As they enter the turbolift en route to the bridge, Worf recounts the incident with the model and the lie. Troi offers to help if there are any further problems, but Worf is confident that Alexander will not repeat the behavior.
+On the bridge, the Enterprise is linked telemetrically to the test ship and Dr. Ja'Dar begins the launch sequence for the soliton wave. The wave rockets from the surface of the planet and envelops the test ship which successfully enters warp. The Enterprise follows and moves to within twenty kilometers. La Forge reports that the ship's speed is warp 2.35, slightly faster than they expected. Picard asks if the wave is affecting the Enterprise's warp drive, but Data replies that it is not. La Forge reports that the power efficiency of the wave is 98 percent. Data remarks that is 450% more efficient than their own warp engines. Suddenly, the wave's power signature fluctuates and efficiency drops to 73%. Then a subspace distortion is detected and hits the Enterprise. La Forge is unable to compensate and Picard is forced to order Ensign Felton to put all stop on the engines just as the test ship explodes. The explosion ripples through the Enterprise, knocking most of the bridge crew to the deck.
+
+
+=== Act Three ===
+
+Sensors and warp drive are offline, and deflectors are at 15%. Dr. Ja'Dar sends a message from the surface of Bilana III asking if everyone is all right. He speculates that there was a transient power imbalance, and La Forge confirms this as consistent with the telemetry readings from the ship before it exploded. Though the experiment wasn't entirely successful, La Forge congratulates Ja'Dar for achieving warp without warp drive and hopes to witness the next test in person.
+Worf meets with Miss Kyle to discuss Alexander. She is concerned with his demeanor in class. Worf dismisses it as typical Klingon child behavior and suggests that Kyle use a "firm hand." She reports that Alexander is still stealing and lying and that perhaps they should meet with Counselor Troi. Worf interrupts her, stands, and inquires of the ship's computer the whereabouts of his son. The computer reports that he is on Holodeck 4. Worf turns as he leaves and tells Miss Kyle that he will "handle this."
+When Worf arrives at Holodeck 4, he discovers that Alexander is running his calisthenics program – at the novice level. Worf enters the holodeck and finds Alexander fighting a skeleton-headed holographic adversary. Alexander wins the battle, and Worf freezes the program. Alexander has taken Worf's bat'leth and used the holodeck without permission. Worf confronts Alexander about his disobedience to Miss Kyle. He denies doing it, and Worf orders him back to their quarters, lamenting his own failure in his fatherly duties. Alexander doesn't leave and argues with his father. Worf decides to send him to a Klingon school and Alexander shouts that he "won't go." With that, Worf demands that he return to their quarters and remain there.
+Back on the bridge, Riker is informed by La Forge that it will be another hour until engines are back online. Sensors come back up, and Data determines that the soliton wave is still on course for the Lemma II colony and that the wave has increased velocity to warp 4.1. Riker repeats these findings to Dr. Ja'Dar, and Data adds that the energy level of the wave has increased twelve times and will increase by a factor of two hundred by the time it reaches Lemma II. Ja'Dar announces that at such a power level, not only will the colony be destroyed, but most of the planet as well.
+
+
+=== Act Four ===
+Worf and Troi are meeting to discuss his decision to send Alexander away to a Klingon school. Troi asks Worf many questions that Worf seems to have difficulty answering. She also mentions Alexander's mother, K'Ehleyr, who was killed by an enemy of Worf's while they were visiting him. It was at this time that Worf sent Alexander to live with the Rozhenkos on Earth. Troi opines that for Alexander, this was like losing both parents at the same time.
+Worf listens, then tells Troi about the last time he spoke to K'Ehleyr. They argued about how K'Ehleyr kept her pregnancy and Alexander's birth a secret from Worf. He recalls that he was angry at her at the time for not revealing this to him sooner. Troi helps Worf deal with his anger over the episode and suggests that he and Alexander should work together on healing, as they both have a lot to do together.
+When Worf returns to his quarters, Alexander is packing a suitcase. He believes that Worf is ashamed of him and is sending him away for that reason. Worf tries to explain the reason for sending him away, but Alexander doesn't understand. Worf is called to the observation lounge by Commander Riker, but before he leaves, he instructs Alexander to remain in their quarters. After Worf exits, Alexander angrily knocks his suitcase off a table and leaves his father's quarters.
+Picard enters the observation lounge, where La Forge and Data are waiting. La Forge begins speaking as soon as the captain is seated when Worf comes in, interrupting him. La Forge continues to explain that the wave's energy level has increased by a factor of ninety-six and will hit the planet within a couple of hours. Picard asks how they can stop it, and La Forge replies that there are two options. The first is to use the Enterprise's warp engines to create an inverse resonance wave, but since the soliton wave is constantly changing its frequency and amplitude, it would be extremely difficult to match it exactly. The second option is a little more dangerous but has a better chance of success: they could create a backfire by making a large enough explosion consisting of five photon torpedoes and setting it off just in front of the wave, which would disrupt it and cause it to dissipate. The wave is now traveling at warp 6.37 according to Data, and while the Enterprise can catch up to it, for the plan to work, the ship must get in front of it to set off the explosion. Due to the increasing size and power of the wave, it is no longer possible to circumvent it before it reaches Lemma II; they have to go through it. Worf warns that the shields are only at 33%, as they have not yet been fully restored after the explosion of the test ship, and thus the Enterprise would be in for a rough ride. Picard says it's the better choice and orders a course to be set to intercept the soliton wave.
+The wave is now at warp 7.2. Picard orders Ensign Felton to increase speed and hold a relative position twenty-three kilometers in front of the wave. She increases speed to warp 7.21. As they approach the wave, Riker orders red alert and torpedo bays to be loaded with warheads set to Level 16. The Enterprise increases speed to warp 7.3, and everyone braces for impact.
+Alexander has disobeyed his father and snuck into the biolab. He switches on the light in the gilvos' cage when the ship is jolted by the wave, knocking him to the floor.
+
+The Enterprise has encountered the soliton wave and has passed through it, but it has been a rough ride. They take position in front of it, and Worf reports that there are fluctuations in several warp transfer conduits and that deflector strength is down to 12%. Riker reports gaps in the aft shields and recommends that they evacuate Sections 24 through 47, Decks 35 through 38, to avoid exposing the crew in these areas to ion radiation. Worf suddenly reports that there is a fire in Biolab 4 and that the fire-suppression apparatus is not working. Data reports that there are lifeforms in the biolab and that one is humanoid. The computer identifies the occupant of the biolab as Alexander Rozhenko, to Worf's horror.
+
+
+=== Act Five ===
+Picard tries to contact Alexander, but there is no response. Internal sensors show that he is alive but may be injured. Felton announces that warp power is dropping, and the ship is losing speed. Riker contacts La Forge in engineering for an explanation. La Forge reports that they lost four warp plasma conduits and can't maintain current speed much longer. Data states that they are four minutes and thirty seconds in front of the wave as Worf asks permission to leave the bridge to rescue Alexander. Picard grants it and sends Riker along to help. Data says that Biolab 4 is one of the areas that will be flooded with ion radiation when the torpedoes explode. Picard states that he must protect the colony at all costs and gives Worf and Riker "three minutes, not one second more."
+Riker and Worf arrive at the biolab but can't open the doors because the primary control is shorted out. Worf rips off an access panel and is able to open the doors by rearranging isolinear chips. Flames burst into the corridor, and the two enter the smoke-filled room. They call out for Alexander, but there is no response. On the bridge, Data announces that the soliton wave has closed to ten kilometers. Torpedoes are on standby as Worf finds Alexander unconscious under a fallen beam. He is still alive, but Riker and Worf cannot move the beam that has fallen on his leg. As Riker goes to find something to help them lift the beam, Alexander regains consciousness and tells Worf that his leg hurts and that he's scared. Worf summons strength from this and struggles to lift the beam himself. He does so and throws it aside just as Riker is returning with a lever. They move away more debris, and Worf takes Alexander into his arms. Alexander pleads with Riker to save the gilvos (which are trapped in their cage), and although there is little time, Riker does so as the wave closes to one kilometer. Picard has run out of time and orders the torpedoes launched.
+
+Worf and Riker exit the burning biolab carrying Alexander and the gilvos as the torpedoes explode, successfully disrupting the soliton wave. Riker reports to Picard that they made it out in time and that the boy will be fine.
+Later, Worf and Alexander are in sickbay with Dr. Crusher, who finds that Alexander has suffered some minor smoke inhalation and has a hairline fracture of the tibia. She wants to keep him overnight but announces that he will be fine. After she leaves, Alexander is worried that he is in trouble, to which Worf responds, "yes." Alexander apologizes and promises to be good at the Klingon school. Worf explains how difficult and demanding the Klingon school is, but that if Alexander would like an even greater challenge, he can stay on the Enterprise with Worf, and they can face the difficulties together. Alexander replies, "I accept your challenge, Father. I will stay." Worf replies, "I believe your mother would be pleased."
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+Personal log, Worf
+
+
+== Memorable quotes ==
+"This is going to be like being there to watch Chuck Yeager break the sound barrier or Zefram Cochrane engage the first warp drive!"
+"It should be interesting."
+"Very exciting."
+"I'm talking to the wrong crowd."
+
+- La Forge, excited about observing the use of the soliton wave, with Data and Worf's less than enthusiastic responses
+
+"How long can you stay?"
+"I'm not going back."
+
+- Worf, learning that his son Alexander Rozhenko will be staying on the Enterprise with him
+
+"Warp without warp drive."
+"They're gonna put you out of a job, Geordi."
+"I hope so, Commander."
+
+- Picard, Riker and La Forge, on the experimental use of a soliton wave
+
+"A Klingon's honor is more important to him than his life. A Klingon would gladly face the most horrible punishment rather than bring shame or disgrace to his family name. His word is his bond. Without it, he is nothing."
+
+- Worf
+
+"When I was a child, younger than you, I lost my parents, my family, my people. Everything I had was taken from me, except my sense of honor. It was the one thing I had which was truly Klingon and which no one could take away. Do you know who they are?"
+"Kahless."
+"And his brother Morath. They fought for twelve days and twelve nights because Morath had broken his word and brought shame to his family. When you lie or steal, you not only dishonor yourself, but your family. You dishonor me."
+
+- Worf and Alexander
+
+"You don't care about me!"
+"That's not true!"
+"All you care about is your honor."
+
+- Alexander and Worf
+
+"Are you going to get in trouble because of me?"
+"Do not concern yourself with that."
+"Am I in trouble?"
+"Yes. But we will discuss that at a later time."
+"I'm sorry. I promise I'll be good at the Klingon school. I'll make you proud of me."
+"Klingon schools are designed to be difficult. The physical and mental hardships faced by the students are meant to build character and strength. However, if you wish to face a greater challenge, you may stay here with me. It will not be easy, for either one of us, but perhaps we can face the challenge together."
+"I accept your challenge, Father. I will stay."
+"I believe your mother would be pleased."
+
+- Alexander and Worf
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 4 October 1991 [1]
+Filmed: 8 October 1991 – 16 October 1991
+Premiere airdate: 6 January 1992
+First UK airdate: 22 February 1995
+
+
+=== Story and script ===
+During the writing of "Reunion", the staff considered having Alexander stay on the ship with Worf, but it was a plot point they did not feel like dealing with at the time. The idea was resurrected for this episode. Michael Piller recalled, "We thought it would be a lot of fun to have a young Klingon and to see what Worf would be like as a father, and to use Alexander to see different parts of the ship." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 235)
+Grant Rosenberg was given the opportunity to write the teleplay from his friend Rick Berman. He remembered that the writing staff hadn't been able to make the story from Sara Charno and Stuart Charno work for some time. Accordingly, he and the staff took the main idea – dealing with Alexander – and rebuilt the story from there. (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 235-236)
+Ronald D. Moore performed an uncredited rewrite of the teleplay. (Star Trek: The Next Generation Companion, 2nd ed., p. 187)
+Considering the central conflict in the episode, Moore commented, "Worf is more Klingon than the Klingons are. He doesn't seem to have a real good sense of humor, he doesn't laugh a lot. The Klingons are these boisterous Vikings in space, and his whole relationship with his son is geared towards making him the perfect little warrior. The fact that Alexander's mother didn't share any of those ideas immediately puts the two in conflict, which was good because that's the essence of drama and it's built in stories of the two of them knocking heads." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 235)
+Working titles for this episode included "Trial Run" and "Barriers". [2]
+The episode's final draft script featured a character named "Miss Lowry". This ultimately became Miss Kyle. [3]
+
+
+=== Production ===
+"New Ground" was filmed between Tuesday 8 October 1991 and Wednesday 16 October 1991 on Paramount Stage 8, 9, and 16.
+According to the call sheet of Monday 14 October 1991, Paramount Stage 10 was used for the child actors as schoolroom under the supervision of teacher L. Fife.
+Country music singer and songwriter Eddie Rabbitt visited the set during the filming of this episode. (Star Trek: The Next Generation 365, p. 237)
+
+
+=== Sets and props ===
+The statue of Kahless and Morath seen in Worf's quarters was previously seen in the episodes "Peak Performance" and "Reunion" and later appeared in "Cost Of Living", "Parallels", and "Firstborn".
+The chair in Worf's quarters was also seen in the episodes "Peak Performance", "Family", "Reunion", "Redemption", "Cost Of Living", "A Fistful of Datas", "Birthright, Part I", "Parallels", "Genesis", and "Firstborn", and was used as the command chair aboard the Tarellian starship in the first season episode "Haven". It was designed by Peter Opsvik. [4]
+This episode introduced the Corvan gilvo, which was designed and created by Michael Westmore and puppeteered by Alison Elbl. It later appeared in the Star Trek: Deep Space Nine episode "The Nagus".
+The soliton wave rider is a re-dress of the Mars defense perimeter ship seen in "The Best of Both Worlds, Part II" and "Unification I". (Star Trek: The Next Generation Companion, 2nd ed., p. 187)
+The counselor's office appears for the sixth time in The Next Generation, built on Paramount Stage 9. ("New Ground" call sheet, Tuesday 15 October 1991)
+The costume worn by Richard McGonagle was sold off on the It's A Wrap! sale and auction on eBay. [5](X)
+Dave Archer created the painting "101" for the scenes in the teacher's office and classroom. This is the only episode that features this painting. [6]
+
+
+=== Cast and characters ===
+
+Georgia Brown reprises her role as Worf's foster mother Helena Rozhenko, following her first appearance in the episode "Family". This was her final appearance and also Brown's final performance, as the actress passed away in 1992. [7]
+This was the first episode showing Brian Bonsall as Worf's son Alexander Rozhenko, following Jon Steuer's performance in the episode "Reunion". Bonsall was chosen as he was considered to have the requisite experience (from Family Ties) to take on a recurring role. (Star Trek: The Next Generation Companion, 2nd ed., p. 187) Bonsall subsequently reprised this role in six further episodes.
+Richard McGonagle, who played Dr. Ja'Dar in this installment, later portrayed Commander Pete Harkins in the Star Trek: Voyager episodes "Pathfinder" and "Inside Man".
+This episode marks the second of five appearances of Sheila Franklin's Ensign Felton. She was credited as "Ensign" in the end credits of the episode.
+"New Ground" was the third and final time that the skull-faced opponent from Worf's holoprogram appears in The Next Generation. This time, the series' stunt coordinator, Dennis Madalone, played the part. A similar holographic character later appeared in Jadzia Dax's holosuite exercise program on Deep Space 9 in DS9: "The Way of the Warrior". On that occasion, the role was played by both Madalone and stunt actor Tom Morga.
+In this episode, regular background performers Michael Braveheart, Mark Lentry, and Joe Baumann were shown for the first and only time as fathers.
+This was the fourth episode on which Nora Leonhardt was absent and Melba Gonzalez filled in as stand-in for Marina Sirtis.
+
+
+=== Effects ===
+The special effects company Stokes/Kohne Assoc., Inc., which previously worked on the "entity" sequence in the second season episode "The Child", provided the soliton wave animation for this episode.
+
+
+=== Continuity ===
+La Forge states that watching the wave will be "like being there to see Chuck Yeager break the sound barrier, or Zefram Cochrane engage the first warp drive!" He is, in fact, present for the latter – and actually participates in the flight itself – in Star Trek: First Contact, later in his life.
+Throughout this episode, the pronunciation of Kahless the Unforgettable is anglicized to "Kahh-less".
+
+
+=== Reception ===
+Director Robert Scheerer remembered, "The father/son angle did that for me. Michael's normally in the position of having to feed lines to others on the bridge, and he doesn't get to do many things, so it's always a pleasure when he gets something with body to it. It's all emotion; it doesn't matter how they look. A director does his best work when an actor is willing to listen, try things and be brave. The little boy (Alexander, played by Brian Bonsall), was wonderful. He was the kid from Family Ties. Boy, did he love his character! He had more fun on this show with the makeup, putting it on and wearing it. On the first day, Brian was a little nervous, and it showed in his work. But from the second day on, he was a real pro. Michael is big and hulking, but he's also a very sensitive guy. Talk to him on the basis of a father's love and he understood it – all the frustrations a father has to deal with. He was excellent." (The Official Star Trek: The Next Generation Magazine issue 20, p. 34)
+Michael Piller also enjoyed Bonsall's performance. He thought the reintroduction of Alexander was a success, calling it an "interesting addition". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 235)
+According to Brannon Braga, the production staff received a lot of negative feedback about the episode. "I think that's an episode where you could complain it's getting to be like a soap opera on the ship. Perhaps because the B-story was just that, a B-story, with the soliton wave." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 235)
+Rick Berman commented, "I thought it was well done, but it doesn't stand out for me […] The shows that I find the most disappointing are the shows where we have a wonderful character piece and a weak science fiction story." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 235)
+A mission report for this episode, by John Sayers, was published in The Official Star Trek: The Next Generation Magazine issue 20, pp. 8-11.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 55, 16 November 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.4, 2 September 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Georgia Brown as Helena Rozhenko
+Brian Bonsall as Alexander Rozhenko
+Richard McGonagle as Ja'Dar
+Jennifer Edwards as Mrs. Kyle
+
+
+=== Co-stars ===
+Sheila Franklin as Ensign
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Joe Baumann as Garvey
+Michael Braveheart as Martinez
+Debbie David as Russell
+Chapman as boy
+Tracee Lee Cocco as Jae
+Cooper as Reel
+Nyra Crenshaw as operations division officer
+Gerard David, Jr. as operations division ensign
+Dickinson as boy
+Lanier Edwards as command division lieutenant
+Alison Elbl – puppeteer: Corvan gilvo
+Eben Ham as operations division ensign
+Holmes as boy
+Gary Hunter as science division officer
+D. Kai as sciences officer
+Arvo Katajisto as Torigan
+Alex Landi as operations division officer
+Mark Lentry as science division lieutenant
+Dennis Madalone as skull-faced opponent
+Jay Montalvo as operations division officer
+Michael Moorehead as science division ensign
+Murphy as boy
+O'Leary as boy
+Brandy Pickett as science division officer
+Keith Rayve as command division ensign
+Ricksecker as boy
+Joycelyn Robinson as Gates
+Victor Sein as command division officer
+Talbot as Ten Forward waitress
+Guy Vardaman as Darien Wallace
+Christina Wegler Miles as command division ensign
+Unknown performers as
+Donaldson
+Female com officer (voice)
+Field trip father
+Ten Forward waiter
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Cameron – stand-in for Gates McFadden
+Melba Gonzalez – stand-in for Marina Sirtis, Georgia Brown, and Jennifer Edwards
+Johnny Hayden – stand-in for Brian Bonsall
+Joshua Henson - photo double for Brian Bonsall
+Tim McCormack – stand-in for Brent Spiner and Dennis Madalone
+Lorine Mendell – stand-in for Sheila Franklin
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+Unknown actor – stand-in for Richard McGonagle
+
+
+=== References ===
+21st century; 22nd century; 24-hour clock; accusation; aft; afternoon; air; amplitude; anger; animal; attitude; backfire; Balduk; bat'leth; beard; bearing; behavior; Bilana III; Bilana III sector; biolab; Brentalia; bone; bully; calisthenics program; casualty; children; class; classmate; Cochrane, Zefram; colony; compartment; computer; Corvan gilvo; Corvan II; course; damage; damage report; data: date of birth; day; death; difficulty level; distance; Draco lizard; Earth; eating; emotional crisis; energy level; energy transfer; engineer; error; experience; experiment; extinction; face; family; family name; feeling; field coil; field generator; field trip; fire; fire-suppression apparatus; frequency; gamma emission; grandparent; grave; gray; green; hairline fracture; history; holodeck four; holographic program; home; honor; horn; hour; humanoid; idea; information; inverse-resonance wave; ion radiation; jacket; K'Ehleyr; Kahless the Unforgettable; kilometer; Klingon; Klingon calisthenics program; Komodo dragon; lamp; lapling; Lapsang suchong tea; last name; launch sequence; leg; Lemma II; lesson; liar; lie; lifeform; light year; lizard; main sensor array; Maktag; medical record; meeting; Midsummer Night's Dream, A; Milan; millicochrane; million; minute; mission; mission specs; mistake; model; Mogh; Mogh's wife; Morath; morning; name; nanosecond; night; novice; offline; online; pair; parameter; path; percent; permission; personnel review; photon torpedo; physical examination; placement examination; play area; pollutant; power; power coupling; primary school; propulsion; prototype; punishment; question; radiation; rainforest; rate of acceleration; red alert; resonance; room; Rozhenko, Sergey; Rozhenko house; running; scattering field; Science Institute of Bilana III; science lab; second; section 24; section 47; security officer; sensor sweep; shearing stress; size; smile; smoke inhalation; soliton wave; sound; sound barrier; space; speed; spell; Starfleet; stealing; story; student; subspace channel; subspace communication; subspace distortion; subspace interference; subspace message; subspace radio; surface; surfboard; table; telemetry; test score; test ship (aka test vehicle); theory; thing; tibia; time continuum; torpedo bay; toy; tractor beam; training; transient power imbalance; transport ship; transporter; truth; turbolift; value; velocity; warhead; warp; warp drive; warp engine; warp field; warp nacelle; warp power; warp-transfer conduit; warrior; week; white rhinoceros; Yeager, Chuck; year
+
+
+==== USS Enterprise-D schematic ====
+Bussard collector; captain's yacht; class M; gross vehicle mass; impulse engine; main shuttlebay Mars; navigational deflector; observation lounge; phaser bank; service docking port; shuttlebay 2; shuttlebay 3; torpedo launcher; umbilical connect port; Utopia Planitia; warp nacelle
+
+
+==== Soliton wave rider experiment ====
+millicochranes/sec; net subspace displacement; soliton wave rider; soliton wave rider experiment
+
+
+=== External links ===
+"New Ground" at Memory Beta, the wiki for licensed Star Trek works
+"New Ground" at Wikipedia
+"New Ground" at MissionLogPodcast.com
+"New Ground" script at Star Trek Minutiae
+"New Ground" at the Internet Movie Database

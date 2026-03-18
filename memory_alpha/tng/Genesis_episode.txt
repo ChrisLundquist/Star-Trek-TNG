@@ -1,0 +1,271 @@
+Enterprise crew members de-evolve into prehistoric creatures after a medical treatment by Dr. Crusher goes wrong.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+In sickbay, Nurse Alyssa Ogawa removes spines from Commander Riker's back; an accident while he was in the arboretum with Rebecca Smith had resulted in a close encounter with a Cypirion cactus. Meanwhile, Lieutenant Barclay, having diagnosed himself with a lethal illness, goes to see Doctor Crusher – who assures him that he in fact is not suffering from any lethal illness at all, but instead has a mild case of Urodelan flu. Humans typically exhibit a natural immunity to the flu, but since the T-cells that would normally fight off the infection are dormant, she activates that particular gene with a synthetic T-cell to let his body fight the infection naturally. Data soon arrives carrying his cat, Spot. The cat is here for a routine check on the progress of her pregnancy; she is expected to deliver before the end of the week. The talk of babies prompts Ogawa to reveal that she is herself pregnant with her husband's child, prompting congratulations from Crusher.
+
+
+=== Act One ===
+"Captain's log, Stardate 47653.2. We're performing field tests of our new tactical systems and weapon upgrades. Mr. Worf is supervising the exercises."
+
+On the bridge, Lieutenant Worf's new weapons guidance system is being put to the test. However, out of three photon torpedoes launched, only two hit their intended targets, while the third swerved off course. With the USS Enterprise-D unable to follow and disable the other torpedo due to a dense asteroid field ahead, Captain Picard and Data leave the ship to disarm the torpedo via a shuttlecraft. Before they leave, however, Data asks Picard if he can attend to a personal matter first. In his quarters, Data asks Barclay to watch over Spot. The cat might deliver before his return, and Barclay is one of the few people that Spot tolerates, and Data would prefer a Human to supervise Spot's birthing process.
+As time passes on the Enterprise, several crewmembers begin to start displaying strange behavior. After being ordered to take a break from checking the problems with the guidance system, Worf shows signs of becoming increasingly irritable and very hungry. Meanwhile, Counselor Troi finds the atmosphere on the ship too dry and cold, constantly changing around the ambient temperature and humidity levels, and is consuming large amounts of salty foods and water. That night, Worf's behavior degenerates further and becomes more primal: he rips up his bed and sleeps tensely on the floor.
+
+
+=== Act Two ===
+In engineering, Lieutenant Barclay shows his own strange behavior. He seems unusually energetic, speaking so rapidly that La Forge and Riker are having difficulty keeping up with him. Riker's inability to keep up with Barclay is compounded by his own problems; he is having trouble with his memory and higher thinking.
+On the bridge, Troi (currently on watch) keeps trying to raise the temperature, and Worf keeps turning it back down: complaining that she is making it too hot. Troi finally leaves the bridge to take a bath in her quarters.
+A problem detected in engineering has Barclay and La Forge in the Jefferies tubes. Barclay finds and rapidly bypasses a ruptured plasma conduit. As he does, La Forge detects cholic acid around the hole in the bulkhead where the ruptured line was located. The bulkhead and conduit seems to have been dissolved by an organic solvent. But in contrast to Barclay's increasing hyperactivity, La Forge seems increasingly lethargic. Barclay suggests a biospectral analysis; La Forge agrees before deciding to take a break.
+The changes being experienced by the crew continue to progress. Riker finds himself unable to either remember the recent weapons testing or respond to a Starfleet request for a report on the matter. Troi sits in her bath tub, wearing her Starfleet uniform, trying to stay wet when Worf suddenly enters her quarters, approaches Troi, and bites her cheek.
+
+Both Troi and Worf are taken to sickbay, and Crusher quickly notices the changes. When Ogawa adds that more of the crew are experiencing symptoms, but while some are also finding the temperature too cold like Troi, there are others who have developed fevers, leading Crusher to conclude that something is spreading around the ship. She then turns her attention to Worf who is completely unresponsive to her questions, and notices something else: he has swellings under his jaw that appear to be venom sacs. They prove to be just that when Crusher asks him to open his mouth, and Worf suddenly sprays venom in Crusher's face, then flees sickbay before he can be captured, while Ogawa and another nurse rush to aid Crusher, who is in extreme distress.
+In the observation lounge, Ogawa reports that she got Crusher into stasis before she became paralyzed by the venom. She will require reconstructive surgery, but Ogawa believes she will be all right. However, there is still the problem of the mysterious illness that is affecting the crew. Barclay reports that the venom that affected Crusher has been found in other parts of the ship, including at the ruptured plasma conduit seen earlier. Riker admits to his inability to think straight; he can't concentrate when La Forge (now serving as acting first officer) reports on having trouble locating Worf's life signs on the sensors, and despite having seven security teams looking for him. Riker dismisses the senior staff and tries to send a subspace message to Starfleet concerning their problem, but finds himself unable to recall the command codes required.
+
+
+=== Act Three ===
+
+"Captain's log, supplemental. Commander Data and I have recovered the stray torpedo after a three-day search. We are en route back to the Enterprise."
+
+Picard and Data are a little puzzled to not be able to locate the Enterprise, as the ship is not at the prearranged coordinates. A quick search locates the ship, visibly adrift. Upon docking, they ascertain that the ship's main power systems are down, environmental systems are configured strangely, and where there should be over a thousand humanoid lifeforms there seems to be a near-equal number of myriad creatures. Some of the characteristics are inconsistent with those of the known crew, such as casting off skin like a reptile. They come upon Troi's quarters where upon entering, the humidity of her quarters was altered by the condensation of the room. They discover her in her bath tub, having somehow transformed into an amphibian-like creature. It is their first clue that the crew is undergoing unusual changes.
+
+Seeking to stabilize the ship, they then go to the bridge, finding it in shambles, with Ensign Dern found dead at the conn (from what appears to be an animal attack), his spine fractured in three places; he had also been affected, but was killed before undergoing any significant changes. From the bridge, Data is able to note that the crew is still on board the ship but in a similar state to that of Troi. Many of them have been gravitating towards water (the aquatic lab) and plants (the arboretum), which are unaffected by the devolving situation. Picard is unable to restore power to the ship due to the entire power-transfer grid being damaged. Suddenly, they hear a noise coming from the captain's ready room. There they discover Riker, now a brutish proto-Human, attacking the captain's aquarium (in which Livingston, the captain's lionfish, has also de-evolved into a jellyfish). When he charges them, Data stuns Riker with his phaser. Based on what they've encountered so far, Data announces his hypothesis that the crew is de-evolving.
+
+
+=== Act Four ===
+Troi and Riker are taken to sickbay for further analysis. Data, after analyzing Riker's DNA, discovers that a synthetic T-cell has invaded his genetic codes and has begun to activate his latent introns, a result of Crusher's treatment of Barclay. He explains that introns are genetic codes that are normally dormant; they are sequences of DNA that provided key physical and behavioral characteristics millions of years ago but are no longer necessary. Counselor Troi's gill-slits and other amphibious characteristics, for example, are derived from introns, which contain amphibious codes. Because introns can include genetic material from many different species over millions of years of evolution, Data hypothesizes that the crew is undergoing a wide variety of transformations. Since all humanoid life has a similar genetic pattern, the virus will work similarly on all non-Human lifeforms as well, and they will each be de-evolving to earlier forms of life in their homeworlds. He informs Picard that he has also been infected by the intron virus and is now slowly de-evolving into an earlier form of primate, such as a lemur or a pygmy marmoset.
+Realizing that they do not have much time, they decide to act quickly. Since Data's computer in his quarters operates independently from the ship's computer and is probably still intact, they decide to go there in order to examine the situation further. Arriving at his quarters, Data notices that Spot, who has been expecting a litter of kittens, has finally given birth. A further search finds an iguana wearing her collar; they soon realize that the reptile is Spot and that the intron virus is capable of also affecting non-humanoids. Her kittens, however, do not seem to have been affected by the virus that has been plaguing the rest of the crew. Given that Spot's kittens are unaffected, Data and Picard conclude that the placental barriers and amniotic fluid that serve as a filtration system to protect the fetus in the placenta have probably prevented the intron virus from being passed on from Spot to her kittens. They decide that they probably can inhibit the intron virus by using the natural antibodies in Spot's amniotic fluid. However, in order for it to work on humanoid crewmembers, humanoid antibodies would be required. Recalling that Nurse Ogawa is also pregnant, Data tracks her down to the arboretum. But before they can go and find her, a failure in a warp plasma vent forces them to detour to main engineering so Data can program repairs. While checking on the status of the warp core, Picard is frightened by the sudden appearance of Barclay, partially transformed into a spider. Data surmises that his terror (a result of the heightened sense of awareness found in small primates) is an initial symptom of Picard's de-evolution; they need to hurry.
+They locate Ogawa (who is apparently partially de-evolved into a proto-Human) and Data begins to analyze her fetus, confirming that it is not affected by the virus. He says that he can use her amniotic fluid as a template for a retrovirus, which in turn would neutralize the synthetic T-cell and re-establish the genetic patterns of each host. While working on finding a way to most quickly address the situation, something pounds on the sickbay door. Life sign scans show something big, armored, and Klingon; it is Worf.
+
+
+=== Act Five ===
+A transformed Worf tries to force his way into sickbay. Picard calls for a heavy stun setting, but Data believes any stun setting won't have any effect, and any higher setting might kill him. He appears to be seeking something or someone particular. Picard notices that the bite Worf gave Troi was not to hurt her but rather seemed to be part of a mating process, and that it appears as if Worf had come back for her. The situation becomes increasingly dangerous as an ever angrier and aggressive Worf almost breaks through the door. Data and Picard cannot just abandon Troi and the others in sickbay, but at the same time, Data needs to continue with his analysis of the amniotic fluid. Picard, who is beginning to experience the effects of the virus himself, suggests distracting Worf and luring him away from sickbay. He suggests extracting pheromones from Troi's sebaceous glands to lure Worf away from sickbay so that Data can continue his work and the others remain safe, over Data's objections.
+While Data continues work on the retrovirus, Picard leads Worf on a chase through the Enterprise's corridors until becoming cornered at the ruptured warp plasma conduit La Forge and Barclay had been repairing earlier. Picard improvises, sitting upon the insulated access panel and using the bypassed conduit to send electricity through the Jefferies tube, knocking out Worf. At that moment, Data reports that he has completed the retrovirus. It will make the introns in the crew dormant again; at Picard's consent, he floods the ship with a gaseous form of the new virus, turning the crew back to normal. Before that happens, Picard mentions to Worf his hope that when he wakes up, he'll be a new man.
+In sickbay, Barclay nervously asks Dr. Crusher if all this was his fault. She states that actually it was her fault for having activated a dormant T-cell, which, in turn, activated all dormant T-cells (including the introns). She suggests naming the virus after Barclay, calling it Barclay's Protomorphosis Syndrome. Jokingly, she tells Troi that Barclay not only de-evolved into a spider but also had a new disease named after him. Troi sighs and comments that she'd better clear her calendar for the next few weeks.
+
+
+== Memorable quotes ==
+"Reg, you don't have Terellian Death Syndrome!"
+"Are you… you're sure?"
+"I'm sure."
+
+- Crusher and Barclay
+
+"I have spent the past nine weeks as an expectant parent. I would be happy to share my insights with your husband. If my experience is any indication, he will need all the help he can get."
+
+- Data, referring to Spot after Ogawa announces she is pregnant
+
+"The torpedo is out of range."
+"Even for your newly improved phasers?"
+
+- Worf and Riker
+
+"Mr. Worf… I think that you should consider analyzing your new guidance system."
+
+- Picard, after Worf's enhanced photon torpedoes malfunction
+
+"Doctor! My capillaries are shrinking!"
+
+- Reginald Barclay, to Beverly Crusher
+
+"She's such a sweet little kitty."
+"She is to you."
+
+- Reginald Barclay and Data, referring to Spot
+
+"Do not approach me unannounced – especially while I am eating."
+
+- Worf
+
+"Worf… open your mouth."
+
+- Beverly Crusher, shortly before being hit in the face by Worf's venom
+
+"Are you saying that Worf is spraying this…"
+"VENOM!"
+"…this venom… all over the ship?"
+"I'd say so!"
+
+- William Riker, attempting to comprehend, and Reginald Barclay assisting
+
+"Well… before I begin swinging through the ship, looking for breakfast, we need to find some answers."
+
+- Picard
+
+"What – what's that?"
+"It is large, approximately two hundred kilograms. It is heavily armored with an exoskeleton. Life signs appear to be… Klingon."
+"Worf!"
+
+- Data, responding to a terrified Picard, upon discovering the de-evolved Worf
+
+"Do you think he sees us as prey?"
+"There are crewmembers in the corridors and other sections of the ship. It would be easier for him to capture and consume one of them than attempt to break through a door."
+
+- Picard and Data, theorizing on Worf's motives
+
+"Well, Mr. Worf… let's hope when you wake up, you're a new man."
+
+- Picard, after subduing Worf in the Jefferies tube.
+
+"He transformed into a spider… and now he's had a disease named after him."
+"I think I'd better clear my calendar for the next few weeks."
+
+- Beverly Crusher and Deanna Troi, after Crusher finishes talking to Reginald Barclay
+
+
+== Background information ==
+
+
+=== Title ===
+This is one of twenty-four Star Trek episodes with titles derived from Biblical references.
+
+
+=== Production history ===
+Final draft script: 7 January 1994 [1]
+Premiere airdate: 21 March 1994
+First UK airdate: 15 May 1996
+
+
+=== Script ===
+It was written into the script that Gates McFadden's character, Beverly Crusher, would be severely disfigured by Worf. She was promptly put into stasis to prevent the injuries from worsening. The absence of Dr. Crusher from much of the episode gave McFadden more time to spend directing the episode. (Star Trek Encyclopedia, 2nd ed., p. 92)
+
+
+=== Production ===
+This is the only episode of the series directed by Gates McFadden (Beverly Crusher), and the first episode of Star Trek directed by a female cast member. The next episode directed by a female cast member was VOY: "Riddles", directed by Roxann Dawson six years later.
+Michael Westmore described his work in this episode as proving to be his greatest challenge. "Everybody mutated – Riker became an Australopithecine, Troi an aquatic animal, Barclay a spider," he recalled. "We never would have been ready if the episode hadn't miraculously fallen right after Christmas. We worked through the holiday." (Star Trek 30 Years, p. 47)
+
+
+=== Sets and props ===
+The chair in Worf's quarters was also seen in the episodes "Peak Performance", "Family", "Reunion", "Redemption", "New Ground", "Cost Of Living", "A Fistful of Datas", "Birthright, Part I", "Parallels", and "Firstborn" and was used as the command chair aboard the Tarellian starship in the first season episode "Haven". It was designed by Peter Opsvik. [2]
+Worf's quarters also feature the statue of Kahless and Morath, which can also be seen in "Peak Performance", "Reunion", "New Ground", "Cost Of Living", and "Firstborn".
+
+
+=== Continuity ===
+This episode marks the fifth and final appearance of Reginald Barclay (played by Dwight Schultz) on the series. He was seen again with the Enterprise crew in Star Trek: First Contact, and also appeared in six episodes of Star Trek: Voyager.
+This is the first episode since her promotion that Counselor Troi is seen in command of a duty shift on the bridge. When Picard and Data are later stood outside Troi's quarters, the nameplate on the door still shows her former rank of lieutenant commander.
+The events of this episode follow Dr. Crusher telling Alyssa Ogawa in "Lower Decks" that she'll support her promotion. Here, Ogawa is seen as a lieutenant for the first time.
+Toward the end of the episode, Dr. Crusher comments to Barclay that it is traditional to name new diseases after the first patient. This tradition, evidently, appeared after our own time period. Eponymous diseases have almost always been named for the first person to describe them in medical literature (Parkinson's disease; Down syndrome; Marfan syndrome; Kartagener's syndrome). Rare exceptions from our time include Legionnaires' disease (named for a group of people) and Lou Gehrig's disease (unofficially named for a famous – though not the first – sufferer).
+The list of visible transformations include:
+A crewmember, who has de-evolved into a humanoid who shed his/her skin like a snake
+Dern, who had begun to de-evolve before being killed by either Riker or Worf
+Deanna Troi, who has de-evolved into an amphibian
+William T. Riker, who had de-evolved into an Australopithecine
+Livingston, Picard's lionfish, de-evolved into a jellyfish
+Jean-Luc Picard, who had begun to de-evolve (according to Data) into a lemur or pygmy marmoset
+Spot, who had de-evolved into an iguana
+Reginald Barclay, who had de-evolved into a spider-like creature
+Alyssa Ogawa, who had de-evolved into an ape-like humanoid
+Worf, who had de-evolved into a prehistoric proto-Klingon
+Coincidentally, Barclay mentioned that spiders never bothered him in "Realm Of Fear" (also written by Brannon Braga).
+
+
+=== Reception ===
+In 2015, WhatCulture ranked this the 7th best episode of all time in the Star Trek science fiction universe. They note it as a horror-themed episode of Star Trek, remarking that "'Genesis' is terrifying in the way it unfolds so very subtly, watching the crew regress into primal animals".
+In 2017, Io9 noted "Genesis" for being one of the more bizarre science-fiction stories of the franchise, noting how different characters devolved into frightening creatures, such as Worf turning into a giant super-Klingon that hunted other crew members.
+In 2018, TheGamer ranked this one of the top 25 creepiest episodes of all Star Trek series.
+
+
+=== Awards ===
+This episode won an Emmy Award for Outstanding Individual Achievement in Sound Mixing for a Drama Series; it was also nominated for Outstanding Individual Achievement in Sound Editing for a Series and Outstanding Individual Achievement in Makeup for a Series.
+This episode received Star Trek 101's "Spock's Brain" Award for Worst Episode in The Next Generation.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 86, 22 August 1994
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Patti Yasutake as Alyssa Ogawa
+And
+Dwight Schultz as Barclay
+
+
+=== Co-stars ===
+Carlos Ferro as Ensign Dern
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Shawn Belschner as Ten Forward waiter
+Brandy as Spot
+Bud as Spot
+Debbie David as Russell
+Cameron as Kellogg
+Tracee Lee Cocco as Jae
+Fumiko Hamada as Female command division officer
+Gary Hunter as sciences division officer
+Judy Lea as sciences officer
+Lorine Mendell as Diana Giddings
+Rad Milo as operations division ensign
+Monster as Spot
+Keith Rayve as a civilian
+Rick Ryan as Fletcher
+John Tampoya as operations division ensign
+Oliver Theess as command division officer
+Margie Thomas as command officer
+Tyler as Spot
+Willie as Spot (lizard form)
+Unknown performers as
+Baldwin
+Command division officer
+Nurse
+Operations division officer
+Spot's kittens
+Ten Forward waitress
+
+
+=== Stunt doubles ===
+Rusty McClennon as stunt double for Michael Dorn
+Unknown stunt performers as
+Stunt double for Jonathan Frakes
+Stunt double for Marina Sirtis
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+50 million years ago; amniotic fluid; amniotic scan; amphibian; amphibious lifeform; appetite; aquatics lab; arachnid; arboretum; artery; asteroid field; attitude control; australopithecine; Barclay's Protomorphosis Syndrome; bath tub; behavioral characteristic; Betazoid; bioacidic compound; biobed; biology; bioscan; biospectral analysis; biospectral scan; blurred vision; Brooks; bulkhead; burp; capillary; cat; caviar; centigrade; cholic acid; collar; conduit; corrosion; Cypirion cactus; de-evolve (devolve); department; dizziness; DNA; DNA analysis; Earth; electrophoretic activity; Enterprise-D, USS; Enterprise-D cats; enzymatic agent; epidermal layer; feline; fever; field test; filtration system; Galaxy-class; Galaxy-class decks; Hacopian; Hayes; headache; hemotoxin series; hominid; hybrid; Hypatia; hyper-evolution; hypochondria; hypothalamic series; iguana; immunity; intravascular pressure; intron; Jefferies tube; jellyfish; K-3 cell; K-3 cell count; kitten; Klingon; Klingon food; lemur; level 2 security alert; level 4 diagnostic; litter; Livingston; medical tricorder; microcellular scan; molting; mutation; nausea; neck; nictitating membrane; Number one; Ongilin caviar; palpitations; pheromones; photon torpedo; physical characteristic; placental barrier; Powell, Andrew; power transfer grid; prenatal behavior; Proto-Klingon; pygmy marmoset; reconstructive surgery; relative humidity; reptilian; retrovirus; ribocyatic flux; saliva; salty; sebaceous gland; Sector 21527; Selar; sense of smell; sex; shivering; shock; Shuttlebay 2; shuttle pilot; sickbay; Smith, Rebecca; solvent; Soong-type android; spinal column; spread pattern; Starfleet Medical Database; stasis; Symbalene blood burn; symptom; T-cell; Terellian Death Syndrome; temperature; Type 6 shuttlecraft; Urodelan flu; venom; vocalization; weapon systems
+
+
+==== Library computer references ====
+Starship mission status: Ajax, USS; Alderaan; Alpha Laputa IV; Ambassador-class; Apollo-class; Aries, USS; Beta Cygni system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merced-class; Merrimac, USS; Monitor, USS; Nebula-class; pulsar; Renaissance-class; Repulse, USS; Romulan Neutral Zone; sector; Sector 21396; Sector 21538; Sector 22358; Sector 22846; Sector 22853; Sector 23079; Starbase 134; Starbase 434; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Zhukov, USS
+
+
+==== Unused production materials ====
+ammonia; methane; uric acid
+
+
+=== External links ===
+"Genesis" at Memory Beta, the wiki for licensed Star Trek works
+"Genesis" at Wikipedia
+"Genesis" at MissionLogPodcast.com
+"Genesis" script at Star Trek Minutiae
+"Genesis" at the Internet Movie Database

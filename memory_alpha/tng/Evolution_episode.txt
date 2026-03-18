@@ -1,0 +1,302 @@
+An obsessed scientist arrives on the Enterprise to perform a once-in-a-lifetime experiment. Accidentally released nanites, however, threaten both it and the ship. (Season premiere)
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Wesley Crusher is asleep, lying face down on a desk in the science lab as the USS Enterprise-D orbits a red giant. Commander Riker then contacts him over the comm, jerking Crusher awake. He asks Crusher if he forgot to set his alarm, to which Crusher, realizing he is late, apologizes, packs up his things, and hurriedly heads for his station.
+
+"Captain's Log, stardate 43125.8. We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astrophysical research. Our eminent guest, Dr. Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds from a massive stellar explosion which will occur here in a matter of hours."
+Moments later, on the bridge, Dr. Stubbs gazes out into the viewscreen as Crusher emerges from a turbolift and assumes his position at the helm. Riker asks the acting ensign what their current position is, to which he replies, "approaching one million kilometers from the neutron star, sir". The commander orders him to slow to one third impulse power. Stubbs then turns to Crusher and expresses his feelings of how beautiful the star is and explains how, "over and over again, the intense gravitational pull of the neutron star sucks up the star material from the red giant and builds up on the surface until it explodes, every one hundred and ninety six years like clockwork", and they are only eighteen hours away from experiencing it. Or eighteen hours, seven minutes and ten seconds, as Data corrects.
+
+Just then, Captain Picard enters the bridge from his ready room, and asks the doctor if he would like to make one final inspection of the egg. Dr. Stubbs replies that he has been inspecting the egg for the last twenty years and that they "may lay it when ready". Picard, slightly bemused by the statement, orders the launch of the probe. The shuttlebay doors are opened as Data reports they are nearing the launch site.
+Suddenly, something rocks the Enterprise and Dr. Stubbs goes flying across the bridge. Picard quickly orders Crusher to stabilize the Enterprise but the ship's controls aren't responding. In engineering, chief engineer La Forge reports that there is nothing wrong with the inertial dampers. Back on the bridge, Worf says they are heading straight into the path of the stellar matter. The captain orders shields up but Worf cannot; "the shields will not respond", he shouts, as the ship slowly drifts away.
+
+
+=== Act One ===
+The Enterprise continues to drift towards the stellar matter with only thirty seconds left until impact. Picard orders a manual override on the shields while Riker tells La Forge to reset the inertial dampers. The shields begin to rise but the inertial dampers are still unresponsive. The chief engineer activates the impulse engines in full reverse, which seems to stabilize the ship, but the momentum is still carrying the Enterprise into the stellar matter. Dr. Stubbs clings onto the bridge's tactical handrail, frightened, while Data reports that all systems are reporting normal. Picard asks the computer what the cause of the control malfunction was but the computer has no record of any such error. Confused, he checks Data's console, but everything appears normal. Riker, finding Stubbs injured, goes to check on him and calls for a medical team to the bridge.
+Down in sickbay, there is a hive of activity as the injured are being treated. Among them is Dr. Stubbs, lying on the main surgical biobed, being treated by Dr. Crusher, who has returned to the Enterprise and replaced Dr. Katherine Pulaski as chief medical officer. Moments later, Wesley enters and informs Stubbs that all systems have returned to normal and that they can attempt another launch as soon as he is ready. Stubbs jokes that the Crushers are "quite a dynamic family team".
+
+Beverly replies that it is nice to be together again, after her year away at Starfleet Medical, where she missed her son. Stubbs says "I'm not sure I'd want my mother flying through space with me," which gets a concerned look from Dr. Crusher. After hearing Wesley give a technical report, Stubbs asks if Wesley does anything other than work, to which Dr. Crusher expresses confidence that he does, but to her dismay, Wesley answers that he is actually spending most of his time in study to prepare for Starfleet Academy.
+After Stubbs is given a clean bill of health, he invites Wesley to go and check on "Humpty Dumpty", and the two leave. Just as the doors swish closed, Dr. Crusher notices something strange happening in the replicator – the computer is replicating a glass of water, with the water overflowing the glass. When asked by Dr. Crusher to correct the error, the computer replies that it is working perfectly. "Well, check again," Crusher orders, annoyed. According to the computer, the food slot is working fine. Crusher finally deactivates it and the water stops replicating.
+Back in engineering, La Forge is investigating the earlier matter on the bridge. Over the comm, he informs Picard that they are analyzing the computer systems data but it is not showing anything unusual. In his ready room, Picard orders La Forge to initiate a level 1 diagnostic series. Picard tells La Forge that he needs the computer working 100%, in order to expedite Dr. Stubbs' experiment and the food slots in sickbay, before closing the channel.
+
+Crusher visits Picard to talk about her son, asking, "How would you feel if you were seventeen years old and the only Starfleet officer whose mother was on board?", to which he replies, "Inhibited, I suppose". He goes on to say that Wesley is doing fine and that, if she is concerned, she shouldn't be. The doctor then asks him to tell her about Wesley during her time away. The captain has some good things to say about him. He begins to tell her how hard-working her son is, when she stops him mid-sentence. "No!", she says, "Tell me about him". After a moment of reflection, Picard compares him to the captain's dearly departed friend and Beverly's husband, Jack R. Crusher. "He's his father's son. Honest, trusting... strong," he tells her. Beverly smiles at Picard's statement, and asks him what he was like when he was seventeen. He jokes that he was probably getting into more trouble than Wesley is. "So was I!" Crusher says, "Isn't that what seventeen's supposed to be?"
+Meanwhile, Dr. Stubbs is inspecting his probe, down in the shuttlebay. He concludes that everything is fine. Wesley asks him how he can be so calm when he is just on the verge of making a major breakthrough in astrophysics. The Doctor says that he has had no doubt that this day would come and that Wesley's day would come too. "You will never come across a greater adversary than your own potential," he tells Wesley.
+
+Suddenly, the red alert is sounded. Wesley informs Stubbs that he should return to his quarters, immediately. On the bridge, there is an air of tension. Sensors have detected something but there is no evidence of it on the viewscreen. Picard, worried, orders Worf to zoom in on a region of space, but he still can't see anything. Riker asks if Worf was absolutely sure, to which Worf says, "Sensors clearly indicate the approach of a Borg vessel." He is ordered to raise the shields but they are not responding and the manual override is jammed. Suddenly, sensors report the Borg ship is opening fire. As Worf calculates the Borg ship's vector, all of a sudden, it disappears.
+They realize that this was all just another computer error. As Picard tries to ascertain the cause of the malfunction, the computer begins spurting out chess moves and the doors start opening and closing to the observation lounge for no reason, whatsoever. The ship is rocked violently, knocking everyone off-balance. Data reports the controls are unresponsive and La Forge states that all engines are down. He and Worf head for engineering, while Picard orders Riker and Data to the conference room. "It's time to discuss the future of this mission..." he says, "...if there still is one."
+
+
+=== Act Two ===
+In the conference lounge, the three officers are discussing what is happening on the Enterprise. Picard fears that the ship is suffering from a failure of the main computer. Data objects, however, saying the system automatically provides for self correction and that there hasn't been a complete systems failure on a starship for over seventy-nine years. Just then, Counselor Troi enters, informing the captain that Dr. Stubbs is waiting outside. Without waiting to be let in, the doctor briskly enters, asking to be informed as to what is going on. Picard invites him and the counselor to sit down.
+
+He informs Stubbs that Lieutenant Commander La Forge is attempting to resolve the situation but the doctor is only interested in his experiment. Picard reassures him that the experiment will go ahead as planned, as long as it is safe to do so, and that the safety of the ship and crew come first. Should the star explode with their systems down, even Stubbs will be caught in the blast on the receiving end while the doctor wants to stay and die. The counselor attempts to reassure Stubbs but he is adamant to continue his experiment, saying that he would rather die than leave. A moment later, he stands up. "Well, if we don't leave in time, it's one sure way to get into the record books, eh?" he says, before leaving the room. After he has left, Troi explains that Stubbs has put his entire self-worth on the line for the experiment and that he really would rather die than leave.
+Down in engineering, La Forge is attempting to correct the situation on the ship. In his office, Wesley is with La Forge and the two of them have found some kind of continuing disintegration with the computer circuitry but La Forge has no idea what is causing it. He zooms in on a cross section computer image of the circuitry. "If I didn't know better, I'd say somebody had climbed in there and started taking it apart," he says. Wesley suddenly looks concerned, as though he might have an idea about what is causing the malfunctions. He rushes back to the science lab, where he was working the night before. There, he opens a container and begins scanning it with a piece of equipment. Finishing, he looks very worried and leaves.
+
+Wesley has gone to an empty Ten Forward, where he is crawling along the floor, behind the bar, with another piece of equipment in his hand. He places a couple of circular objects on the floor, next to the bulkhead, and notices Guinan, looking over his shoulder. He stands up and explains to her that he is setting traps. Guinan jokes that she runs a clean place. Wesley says he is scared, saying that everything that is going wrong could be his fault. He goes on to explain that he had been working on nanotechnology, as part of his Advanced Genetics project, and that he was specifically studying nanites he obtained from the sickbay genetics supplies. His theory was that, by working together in tandem, nanites could combine their skills and increase their usefulness.
+He says it worked, but he fell asleep while pulling an all-nighter collecting the data and left their container open. "It's just a science project," he says, but Guinan reminds him of Dr. Frankenstein. Just then, he gets a call from his mother, over the comm. She says she stopped by his quarters but he wasn't there. Wesley says he is on his way but he stops to ask Guinan not to tell anyone. She just gives him a look and he says he will be the one to tell everyone. Before Wesley leaves, Guinan asks him if he will get a good grade. He says he always gets an "A" and leaves Ten Forward. As the doors close, Guinan mutters to herself, "So did Doctor Frankenstein."
+
+
+=== Act Three ===
+"Captain's Log, supplemental. Our computer core has clearly been tampered with and yet there is no sign of a breach of security on board. We have engines back and will attempt to complete our mission. But without a reliable computer, Dr. Stubbs' experiment is in serious jeopardy."
+
+On the bridge, Commander Riker orders a manual restart. La Forge reports the restart was successful and the impulse engine functions all appear normal. With Picard's approval, it is time to begin the experiment once again. Riker contacts the shuttlebay and tells the crewman to open the doors. The crewman reports that the door did not respond and the computer begins loudly playing "The Stars and Stripes Forever" by John Philip Sousa – another malfunction. Riker tries to turn it off but the computer isn't accepting it. Data reports that it is playing on all communications channels; the Enterprise is being stripped of one system at a time. "Shut off the power to the bridge!" Picard shouts, over the music. The bridge plunges into darkness, with only the light of a few flickering consoles providing illumination.
+Picard asks La Forge if he can get the ship out of the star system, safely. Stubbs, who was quietly standing at the rear of the bridge, lurches forward, insisting they stay. He is told to be quiet by Riker and La Forge is given the green light to get the ship out of the system. Riker then suggests circuiting in auxiliary power to the bridge, in case "Sousa decides to do an encore". The captain agrees but prioritizes the task of finding out who or what is doing it.
+Dr. Stubbs and Wesley are now back in the shuttlebay. Stubbs frets to Wesley that people will refer to his experiment as "the egg that Stubbs laid." Wesley assures him that no one will say that but the doctor is worried that history will not remember him, that he "won't even be mentioned." He goes on to talk about baseball and how he has "seen the great players make the great plays." Wesley asks if he recreates the games on the holodeck, to which Stubbs replies, "No, in here," pointing to his head. He says that playing whole seasons of baseball, in his head, was his reward for patience and the knowing that his time will come. He is now disappointed that he will never get the chance to carry out his experiment. "A brand new era in astrophysics... postponed one hundred and ninety six years... on account of rain," he says.
+
+A few minutes later, Wesley is back in the lab, analyzing the traps he set for nanites. He manages to find one of them, just as his mother enters the room. She suggests to him that he should get some rest but he insists he has responsibilities and must finish. Beverly says she thinks he has taken on too many responsibilities. Wesley snaps at his mother, for not being there for the past year. "I'm here now, Wesley," she replies, before offering to help him with his work. Wesley admits, "I think I've made a horrible mistake."
+The senior staff are gathered in the conference room. Dr. Crusher stands at the front, filling everyone in on nanites and their medical uses. She goes on to say that the nanites that have "infected" the Enterprise are no ordinary nanites – they have evolved. Stubbs is skeptical, asking how it is possible a machine can evolve. Wesley then informs everyone that it was his fault – that he allowed the nanites to interact and evolve past their intended purpose. Picard asks how far they have evolved, to which Wesley shows them how the nanites can absorb any piece of technology, such as a linear memory crystal from the Enterprise's computer core and replicate. "It's like candy to them," Riker observes. Data then calls engineering and has them display computer core processor 451, element 0299, and magnifies the section, one thousand times. Picard proposes that they may know what they are doing and Riker asks why they would attack the Enterprise. Stubbs suggests that they should just "kill" them, thus solving the problem straight away.
+Dr. Crusher protests, arguing that they are now working with a new collective intelligence, operating together and teaching each other new skills. Stubbs argues that the whole thing is nonsense, that a whole civilization of computer chips can't exist. He tells her he has seen them constructed in Dakar, Senegal. Crusher challenges him by asking how he could explain what he has just seen, but he argues it is no more strange than watching a strain of Leutscher virus reproduce itself and that is actually a lifeform. Picard interrupts as Stubbs asks Crusher how many diseases and viruses she has destroyed, during her time. The captain says that he cannot exterminate something that may or may not be intelligent. As Stubbs gets ready to argue some more, Picard stops him and reminds him that there is still time. After ordering Wesley and Data to work together to solve the nanite problem, he concludes the briefing.
+
+Dr. Stubbs has now gone down to the computer core, where Data, La Forge and Wesley are working. After climbing down an access ladder to join them, Stubbs learns from Crusher that he, Data, and La Forge are trying low gamma bursts in an effort to slow down the productivity of the nanites. Stubbs asks if they have tried a high-level charge but Data replies a high-level charge will kill them. "I know," Stubbs says, taking out an energy weapon and firing on the core with high-intensity gamma radiation. Data, La Forge and Wesley grab the doctor, stopping him before he can do any more damage.
+In his ready room, Captain Picard is discussing the situation with Commander Riker. He says he cannot get the story of Gulliver out of his head: how he was overpowered by the tiny Liliputians. He wonders how much longer they have to wait. Riker says they can continue to bypass the section of the computer that is affected, but the nanites are soon spreading through the whole ship. Suddenly, Picard smells a change in the air – the bridge is being flooded with toxic levels of nitrogen oxide, a reaction to the attack by Stubbs. Riker manually overrides the air handler and removes the toxic gas, but the bridge continues to suffer malfunctions, with lights flashing on and off and consoles activating and deactivating. The next moment, Worf and Data arrive on the bridge, along with Stubbs. They inform Picard of Stubbs' actions and that all the nanites in the upper core have been killed.
+
+
+=== Act Four ===
+
+The bridge systems are continuing to malfunction, as Stubbs stands smug in front of Picard. "You have no choice now. It is a matter of survival," he says. Picard begins to inform him what would happen if he was a member of his crew, but the doctor interrupts him, reminding him he has been sent by the "...highest command of the Federation." Picard replies that he would have Stubbs' head, should anything happen to anyone on the Enterprise. Stubbs cannot believe that the Captain wants to save them, when they are merely "machines with a screw loose." Data proves him wrong by informing him that his own actions have produced results proving that the nanites do indeed possess a collective intelligence: their actions against the life support system were in direct response to the irradiation of the upper core; it is difficult to see it as anything other than retaliation.
+The warrior in Worf suggests to the Captain that, as the ship is at risk, extermination may be the only option. After a brief pause for thought, Picard orders Dr. Stubbs confined to his quarters. As he leaves the bridge, the systems come back online and the Captain asks Data if there is any way to communicate with the nanites. He suggests modifying the circuitry in the universal translator to enable communication with them. Picard orders Data to proceed.
+Dr. Stubbs, now working in his quarters, receives a visit from Counselor Troi. She says she wants to help him but Stubbs is resistant. He invites her to join him in New Manhattan on Beth Delta I, when the mission is over, where they can laugh over glasses of champagne. She refuses, saying his "self portrait is so practiced, so polished." She continues by telling him that it is stretched so tight that the tension fills the room and that if he finally fails, it may snap. He congratulates her on a good try and informs her that "sometimes, deep down beneath a man's self portrait, you may find nothing at all." The Counselor has had enough and leaves. The doctor goes back to his work.
+Meanwhile, on the bridge, Data is busy trying to communicate with the nanites. He doesn't seem to be having any luck, as of yet.
+
+Stubbs is now resting in his quarters, imagining a baseball game out loud while he drifts off to sleep. Suddenly, the computer terminals begin to switch off, plunging the room into darkness, but Stubbs is oblivious. A bolt of electricity climbs the wall and enters the food replicator, where it sends an electrical surge towards Stubbs. He cries out in pain. The security officer outside hears his scream but the door is locked. A second later, Stubbs comes staggering out of the doorway and falls into the crewman's arms.
+In sickbay, Dr. Crusher is treating the doctor on the main biobed, when Captain Picard walks in. He says he cannot believe that it was an arbitrary attack. Crusher asks him if Data has made any progress but, before he gets a chance to respond, Stubbs grabs Picard and begs him to protect him by killing the nanites.
+Picard enters the bridge and informs Riker that he has decided to irradiate the nanites with gamma radiation. Just as Worf readies the gamma pulse generators, Data reports he has established contact.
+
+
+=== Act Five ===
+
+Data explains that, as they continue communicating, the nanites learn more and adapt. Picard asks if they can talk to them, yet. Data believes it is worth an attempt and Dr. Stubbs is brought to the bridge by Riker. The captain tells Stubbs to apologize to the nanites, so they can negotiate peace. Data proposes he allow the nanites to inhabit his body, so as to make communication easier. He explains how they can interface with his programming by entering his neural net, something which would only require them to use their basic skills. Worf protests, arguing that, if they had control of a Starfleet commander, they would become an even greater threat. Picard wants to know if they can be removed from Data. Data says letting the nanites enter him would be an enormous risk, but would demonstrate trust on their part. Picard agrees and Data submits the suggestion to the nanites, along with a diagram of the path they need to take once inside him. They agree.
+
+Picard, Riker, Worf, Data, and Stubbs are now down in the computer core, where Data is making preparations for the transfer. He places his hand on a piece of equipment and the nanites enter his body. His head suddenly jerks up and haltingly looks around, as the nanites experience the world as Data does for the first time. "You are very... strange looking creatures," they say. The captain explains that he and his crew have encountered even more creatures, perhaps even more strange looking than them, and that they seek to live peacefully with them. The nanites ask why they were attacked. Picard tells them that that they misinterpreted their actions as an attack.
+The nanites explain that they were seeking out new raw materials for use in their replicating process and that they meant no harm. They turn to Stubbs. He apologizes for the deaths of the nanites in the core and explains he was protecting his lifetime's work. Picard interrupts, proposing they end the conflict. "Mistakes were made on both sides," he says. The nanites agree, but they have a request. "This ship is too confining. We require... relocation."
+
+"Captain's Log, supplemental. Dr. Stubbs has used his influence to have planet Kavis Alpha IV designated the new home of the nanite civilization. Commander Data's neural network has been vacated. He has been returned to us unharmed and, with the help of the nanites, our computer core has been reconstructed in time for the experiment."
+With all systems restored and the nanite situation resolved, Dr. Stubbs' experiment goes ahead as planned. The Egg is launched and everything goes according to plan. Dr. Stubbs is in a state of excitement, as the computer telemetry pours in.
+In Ten Forward, Beverly Crusher is talking to Guinan at the bar about being a parent, when Wesley enters and it looks like he has a girlfriend. The Doctor is happy to see him finally enjoying himself. "It's so good to see him having fun for a change, with an attractive young woman who obviously looks at him with extraordinary affection." She suddenly realizes something. Turning to Guinan, she quickly asks, "What do you know about this girl?"
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+
+
+== Memorable quotes ==
+"Captain, I have been inspecting the egg for the last twenty years. You may lay it when ready."
+
+- Paul Stubbs, to Captain Picard
+
+"I'm not sure I'd want my mother flying through space with me. No, I take that back. I am sure. I wouldn't want her."
+
+- Paul Stubbs, to Wesley Crusher
+
+"I always get an A."
+"So did Dr. Frankenstein."
+
+- Wesley Crusher, discussing his school project of nanites to Guinan
+
+"I'm just setting some traps."
+"I run a clean place."
+
+- Guinan to Wesley Crusher, as he crawls around in Ten Forward
+
+"You will never come up against a greater adversary than your own potential..."
+
+- Paul Stubbs, to Wesley Crusher
+
+"You can't have a civilization of computer chips!"
+
+- Paul Stubbs, upon learning the nanites have developed intelligence
+
+"Look, I have done everything that everyone has asked of me and more! And how can you know? You haven't even been here!"
+"...I'm here now, Wesley."
+
+- Wesley Crusher, venting to his mother Beverly on how her year-long absence has affected him
+
+"I would rather die than leave."
+"I don't believe you speak for the majority of the crew."
+
+- Dr. Stubbs and Captain Picard
+
+"You have no choice now... it is a matter of survival."
+"Dr. Stubbs, if you were a member of my crew, I would..."
+"But I am not a member of your crew, sir... I am a representative of the highest command of the Federation... which has directed you to perform my experiment."
+"If any man, woman or child on my ship is harmed as a result of your experiment, I will have your head before the highest command of the Federation."
+
+- Paul Stubbs and Captain Picard, debating the destruction of the nanites and continuing Stubbs' experiment
+
+"Your self portrait is so practiced, so polished."
+"Yes. Isn't it though?"
+"It's stretched so tight the tension fills this room. And if you finally fail, I fear it will snap."
+"A good try counselor... but sometimes, when you reach beneath a man's self portrait – as you so eloquently put it – deep down inside what you find – is nothing at all."
+
+- Counselor Troi and Paul Stubbs, discussing Stubbs' ego
+
+"I have seen the great players make the great plays [...] in here... [indicates head]  With the knowledge of statistics, runs, hits, and errors, times at bat, box scores. Men like us do not need holodecks, Wesley. I have played seasons in my mind. It was my reward to myself. For patience. Knowing my turn would come. Call your shot. Point to a star. One great blast and the crowd rises. A brand new era in astrophysics, postponed one hundred and ninety-six years on account of rain."
+
+- Paul Stubbs
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft story outline: 31 May 1989
+Revised final draft script: 24 July 1989 [1]
+Premiere airdate: 25 September 1989
+First UK airdate: 9 October 1991
+
+
+=== Season premiere ===
+This was the first episode to air in The Next Generation's third season, but "The Ensigns of Command" was actually filmed first. (Star Trek: The Next Generation Companion, 2nd ed., p. 101)
+Before this episode (but after Stardate 42976.1), Lieutenant Geordi La Forge is promoted to lieutenant commander and Lieutenant Junior Grade Worf is promoted to lieutenant. Also, Gates McFadden returns to the series as Doctor Beverly Crusher, after a one-year absence.
+This episode marks the first appearance of the redesigned high collared style of uniforms, which are used by the cast throughout the rest of the series' run. They cost US$3,000 each to make and were made of breathable wool gabardine to give greater comfort for the main cast, many of whom had begun to suffer fatigue and back pain as a result of wearing the older design. Only characters above ensign rank initially wore them. (Star Trek: The Next Generation Companion, 2nd ed., p. 99) Background performers retained the old style jumpsuit. The uniforms were later used in some episodes of Star Trek: Deep Space Nine and Star Trek Generations.
+This episode also marks the first appearance of the new opening credits, featuring the typical "blue nebula" in which the camera enters in the first seconds of the opening credits. The score was altered again, becoming the show's final version of the famous Star Trek theme.
+This episode also marks the first appearance of the Paramount Communications byline on the Paramount logo after the Gulf+Western byline was rebranded.
+
+
+=== Story and production ===
+According to scientific consultant David Krieger, the plot originally involved dust mites that had gained sentience and began flying around the Enterprise in miniature aircraft, something he claims he laughed out loud at when first reading. It was his objections to this premise that led the dust mites to be changed into the more plausible nanites. [2]
+Michael Piller saw the episode as a real opportunity for character growth for Wesley. "I had this story about nanites. Once I got to know the scientist and realized who he was, I realized that the scientist is Wesley in forty years, if he stays on the course of being the smart kid who is dedicated to his work and seems not to have much else going on in his life. I said, 'If I use that relationship to get it down to a more Human level, I can help Wesley grow. I can help Wesley move into a relationship with a girlfriend.'...That became the key element to Beverley's re-entry into the series, which was, 'My son is not having a normal childhood.' We know a lot of kids like that. I saw that and had a sense that was needed." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 186)
+The baseball game Dr. Stubbs recalls with "Lockman on first, Dark on second, Thomson at the plate, Branca on the mound" is the third and final game of the 1951 National League tiebreaker between the Brooklyn Dodgers and New York Giants, just before Bobby Thomson hit the Shot Heard 'Round the World, winning the game and the pennant for the Giants. This was added by Michael Piller from his own love of baseball. (Star Trek: The Next Generation Companion, 2nd ed., p. 102) Though Pillar's description should have read: "Lockman on second, Hartung on third, Thomson at the plate, Branca on the mound," as Hartung was switched out due to an injured ankle. [3]
+Robert Blackman joined the production staff beginning with this episode, replacing William Ware Theiss as costume designer. The credits for this episode call him "Bob Blackman", which is never repeated.
+This episode's production period was a total of eight days. (Cinefantastique, Vol. 21, No. 2, p. 48)
+
+
+=== Sets ===
+The sickbay science lab is seen for the second time, in this episode. It was modified slightly from its first appearance in "Home Soil".
+The Egg, seen in this episode, is a re-use of the viral containment unit from "The Child". (Star Trek: The Next Generation Companion, 2nd ed., p. 102)
+This episode marks the first appearance of one of the computer cores of the Enterprise, by means of the computer access room, which was built on the old movie bridge set. (Star Trek: The Next Generation Companion, 2nd ed., p. 102)
+The shuttlebay/cargo bay set is used as shuttlebay 2 for the first time, and features a new angled control booth window on the upper balcony directly over one of the doors. The booth was one of only a few set pieces which survived until Star Trek: Enterprise where it was re-used as control booth window in the launch bay in episodes such as "The Andorian Incident". ("The Andorian Incident" text commentary, ENT Season 1 DVD special feature) The wall with the main entrance door has been reoriented to perpendicular to the wall with the balcony instead of at an obtuse angle as it was originally.
+Deleted scenes from the episode (see below) show that the corridor outside the holodeck has also now been connected to the primary corridor complex (presumably between seasons). The next-produced episode, "The Survivors", confirms this with a shot of Picard and Worf walking the newly-connected corridor.
+
+
+=== Deleted scenes ===
+Several scenes were filmed but later cut from the episode during editing. These scenes came to light in May 2013 when Star Trek collector Cyril "Patchou" Paciullo (who owns several more episode workprints) uploaded the contents of an early workprint VHS tape of the episode to the internet. [4]
+
+Teaser, Scene 7 – Wesley reveals that he's read everything Stubbs has published.
+Act 1, Scene 25 – Wesley runs in to Eric, Eric's girlfriend, and Annette on the way to a holodeck ski adventure.
+Act 2, Scene 26 – Stubbs gets defensive about the contents of an unauthorized biography.
+Act 2, Scenes 39-40 – Eric brings an injured Annette to sickbay after a holodeck malfunction; the duty nurse is electrocuted by a malfunctioning replicator.
+Act 2, Scene 41 – Worf warns the captain that the shipboard malfunctions may be the work of an external threat.
+Act 2, Scenes 42-43 – A portion of La Forge's repairs in engineering.
+These scenes were discovered too late for them to be incorporated in the remastered episode, or otherwise be included on the 2013 TNG Season 3 Blu-ray release, but as the webmasters of TrekCore (where the VHS workprint was submitted [5] [6]) stated, "(...) we passed on all the information about the recent discoveries to CBS which encouraged them to embark on a hunt for deleted footage. As a result, a number of deleted scenes will be presented on the upcoming fourth and fifth season Blu-ray sets (including the footage we featured from "The Wounded"). We're assured that the hunt for additional deleted scenes from Seasons Six and Seven is underway as well. Unfortunately, the film reels for Seasons 1-3 have been returned to archival storage making any retroactive inclusion of earlier deleted scenes on later sets unlikely." [7]
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Reception ===
+Piller commented, "I felt it was a B-episode. I thought it worked out okay, but I didn't have an ending for it and neither did Mike [Wagner]. There are some character scenes I'm very proud of. I didn't dislike it. I was proud of the episode, but I thought it didn't quite come off." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 186)
+Director Winrich Kolbe was equally ambivalent about the show. "I liked the fact that we had a scientist who tried to push an issue and then suddenly found out that there are ramifications he hadn't thought of, which is the lack of control of the nanites. So there was a certain amount of immaturity, cockiness or whatever. I liked that, but maybe due to the fact it was Wesley and everyone considered it a child's show, even the writers, the issue wasn't dealt with properly. It's a very serious issue." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 186)
+The script was, however, ultimately responsible for Piller being hired as head writer after Wagner's brief tenure. (Star Trek: The Next Generation - The Continuing Mission, pp. 112-113) Piller identified the scene where Stubbs discusses baseball with Wesley as particularly relevant. He recalled, "As it turned out, Rick Berman shared my love for baseball and that speech hit him right between the eyes. And so a partnership was formed." (Fade In: The Making of Star Trek Insurrection)
+
+Science Advisor Andre Bormanis mentions the nanites in his book, Star Trek Science Logs (pp. 235-237), where he writes about engineer K. Eric Drexler's theories on nanotechnology. Drexler predicts that, in the future, nanotechnology will make space colonization affordable by having pre-programmed nanites construct space habitats for future colonists. Visual Effects Artist Doug Drexler also created an Okudagram graphic of the "Evolution" nanites for the book.
+Authors Mark Jones and Lance Parkin wrote of this episode, "A story that isn't sure whether it's about scientific responsibility or mother and son relationships, so ends up being about nothing very much." (Beyond the Final Frontier, p. 102)
+A mission report for this episode by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 10, pp. 5-9.
+Director Kolbe also stated, "The Nanites were interesting, but I liked Wesley's mother coming back. That was interesting. But again, it got drowned out by the tech element that was expanded upon later on. As you can see, my problem is I would rather have less tech and more character." (The Official Star Trek: The Next Generation Magazine issue 21, p. 30)
+Star Trek author Keith R.A. DeCandido gave the episode an average review, writing, "There's nothing actively wrong with this episode, but nothing really stands out about it, either." Though he praised both Kolbe's directing and return of Doctor Crusher to the series, DeCandido felt the episode as a whole was left "unfinished" with no consequences of creating a new lifeform to either Wesley or the crew. Overall, he awarded the episode a "warp factor rating" of 5/10. [8]
+
+
+=== Home media format releases ===
+UK VHS original release (two-episode tapes, CIC Video): Volume 25, catalog number VHR 2531, 21 October 1991
+US VHS release (single episode tape, Paramount Home Video): Volume 49, catalog number 40270-150, 22 March 1995
+UK VHS re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.1, catalog number VHR 4744, 28 February 2000
+US LaserDisc release (two-episodes disc): Volume 25, catalog number LV40270-149, 21 March 1995
+As part of the Japan TNG Season 3 Star Trek: The Next Generation - Log 5 LaserDisc collection (two-episodes disc): Part 1, catalog number PILF-2009(01), 5 July 1996
+As part of the TNG Season 3 DVD collection (four-episodes disc): July 2002
+As part of the TNG Season 3 Blu-ray collection (five-episodes disc): April 2013
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest star ===
+Ken Jenkins as Paul Stubbs
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-stars ===
+Mary McCusker as Nurse
+Randal Patrick as Crewman #1
+
+
+=== Uncredited co-stars ===
+Arratia as Alfonse Pacelli
+Majel Barrett as USS Enterprise-D computer voice
+Karin Baxter as operations division ensign
+David Eum as Wright
+Michele Gerren as science division officer
+Scott Grimes as Eric
+Lorine Mendell as Diana Giddings
+Amy O'Neill as Annette
+Guy Vardaman as Darien Wallace
+Natalie Wood as Bailey
+Unknown performers as
+Hoy
+Female ops ensign
+Female patient
+Four of Wesley's friends
+Operations division officer
+Security officer
+Ten Forward waiter
+Ten Forward waitress
+
+
+=== Stunt double ===
+Johnny Miller as stunt double for Ken Jenkins
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+20th century; 2287; 2346; 2348; A; academic credit; acting officer; Advanced Genetics; adversary; affection; air handling system; alarm; all-nighter; alternative; American; Americas; answer; aquarium; astrophysics; As You Like It; astrophysics (aka astrophysical research); "at bat"; atom; attack; auxiliary power; band music; baseball; Beth Delta I; binary language; binary star system; biography; bishop; bite; Borg cube; box score; Branca, Ralph; candy; cell; cellular surgery; century; champagne; chance; chess; choice; civilization; clockwork; colleague; collective intelligence; "coming apart at the seams": communication; communications channel; composer; computer; computer access room; computer chip; computer core; computer core processor; computer glitch; computer log; computer memory; computer system; comrade; concept; conference room; confined to quarters; conflict; construction; contact; container; control malfunction; core memory; creature; critic; cross section; crowd; Crusher, Jack R.; Dakar; Dark, Alvin; data; daydream; death; degree; design; diffraction polarimetery scan; disease germ; door; eminent guest; ear; Earth; Egg, The; El-Aurian; electromagnetic scanner; encore; energy; energy weapon; environmental system malfunction; era; error (baseball); error (concept); evasive maneuvers (aka evasive action); evidence; evolution; experiment; exploration; explorer; exposure; exterminator; "face-to-face"; face-to-face interaction; failure; fast food; Federation; Federation starship, unnamed; feeling; first base; fish; food dispenser; food slot; forgiveness; Frankenstein; free time; friend; fun; gamma radiation; gamma pulse generator; generation; genetics; German language; gesture; gigabyte; glass; goal; grade; guest; Guinan's husbands; Guinan's children; Gulliver's Travels; hangar door; harm; head; Heaven; here and now; hit; holodeck; home; home plate; hour; Human; Humpty Dumpty; hundred; idea; impact; impatience; impulse engine; impulse power; inch; inertial damper; inspection; insult; intelligence; intelligent; Kavis Alpha IV; Kavis Alpha sector; Kavis Alpha sector binary; kilometer; knight: knowledge; language; laugh; launch sequence; launch site; learning; lesion; Leutscher virus; level one diagnostic series; life support system; lifeform; Lilliputian; linear memory crystal; listener; Lockman, Whitey; Lord; machine; magnification; main computer; malfunction; manual control; manual override; manual restart; medical personnel; medical tricorder; million; mind; minute; mission; "miss your one chance at bat"; mistake; mister; momentum; mosquito; nanite; nanotechnology; negotiation; neural network; neutrino; neutron star; neutronium; New Manhattan; nitrogen oxide; nucleus; Old Faithful; order; overload; pastime; patience; pawn; peace; percent; pitcher's mound; place; plant; player: power; problem; quarters; queen; question; rain; rate of evolution; raw material; record book; red alert; red giant; relativistic speed; repairs; representative; research; reverse sequence; risk; robot; room; run; sample; school project; science laboratory; science project; scientist; screw; season; second; second base; self-worth; Senegal; sensor; shield; shoulder; Shuttlebay 2; skill; society; soul; Sousa, John Philip; space; "stand by"; star; star material; starboard; Starfleet; Starfleet Academy; Starfleet Medical; "Stars and Stripes Forever, The"; state of mind; statistics; stellar matter; Sterilization (microbiology); strain; stellar explosion; story; Stubbs' mother; surface; survival; teaching; theory; thing; Thomson, Bobby; thousand; time at bat; time period; trap; trust; truth; universal translator; universe; upper core; vector; verbal program; visual contact; virus; warp engine; wonder child; wunderkind; youth
+
+
+==== Other references ====
+Shuttlebay Operations: Ansel Adams; approach vector; Armstrong; Chris Pike; Clarke; Cochrane; Cousteau; Curie; Decartes; Einstein; El Baz; Feynman; Hangar 1; Hangar 2; Hangar 3; Hangar 4; Hangar 5; Heinlein; Indiana Jones; JF Kennedy; Lindberg; main shuttlebay; McAuliffe; Onizuka; PT Farnsworth; primary acquisition zone; refit; Sakharov; Sam Freedle; Shuttlebay 3; Starbase 515; Tereshkova; tractor control zone; Type 7 shuttlecraft; Type 15 shuttlepod; Von Braun
+
+
+==== Deleted references ====
+Beldoron; hot chocolate; Switzerland
+
+
+==== Unused production references ====
+David; Goliath
+
+
+=== External links ===
+"Evolution" at Memory Beta, the wiki for licensed Star Trek works
+"Evolution" at Wikipedia
+"Evolution" at the Internet Movie Database
+"Evolution" at MissionLogPodcast.com
+"Evolution" script at Star Trek Minutiae

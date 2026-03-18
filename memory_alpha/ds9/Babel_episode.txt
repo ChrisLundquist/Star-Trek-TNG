@@ -1,0 +1,250 @@
+A virus infects the station's residents, making almost everyone unable to speak coherently.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Aboard Deep Space 9, Chief O'Brien is feeling both overworked and underappreciated. While he and his crew are in the docking pylon, trying to free several crew members stuck in a jammed airlock, a Boslic freighter captain, Jaheel, complains that O'Brien hasn't yet fixed his ship's antimatter flow converter; if his ship is left in dock for too long, the perishable goods aboard will be useless. After Jaheel exits with a rude comment, O'Brien is summoned to the science lab by Lieutenant Jadzia Dax, where an incessant whine has been coming from her equipment. After fixing this, he rushes to Ops, to repair a conduit near Major Kira's terminal. Just as he's thought he's earned a breather, Commander Sisko gags on a mug of coffee delivered by the Ops replicator and asks the chief why it hasn't been fixed yet. O'Brien grumpily makes his way down to the command level. "Can't have the operations chief sitting around daydreaming when there's work to be done, can we? Oh, ho, ho, I'll get right on it!", he says while leaving, causing Sisko and Kira to exchange looks.
+After fixing the replicators, O'Brien asks for a cup of hot coffee, black, double sweet as a test. It tastes fine, but behind the panel, a long-hidden electronic device activates and starts sending a signal into the replicator.
+
+
+=== Act One ===
+In Quark's, an angry Markalian customer, Asoth, complains to Quark about his terrible Kohlanese stew, forcing Quark to eat it. Odo recommends Quark ask O'Brien to fix his replicators, but warns wryly that O'Brien is a very busy man. After Odo leaves the bar, Quark breaks into the Cardassian computer system to find the location of a replicator on the station that isn't broken.
+Jadzia Dax, walking along the Promenade with Major Kira, discusses how odd it feels – being female for the first time in eighty years, she clarifies when Kira is confused. They notice Quark's is busy as they pass, and Quark himself greets them to say that they're having "a little party" to celebrate his replicators being fixed, and invites them to join in. Kira quickly excuses herself and tells Dax to go in if she wants. Dax is left flustered for a moment, before catching herself and smiling at Quark.
+Back in Ops, Sisko thanks O'Brien for fixing the replicator; he also compliments the chief's wife, Keiko, on being a good teacher to his son Jake in the station's new school, which she recently opened. When Major Kira is speaking with O'Brien a moment later, his talk turns to gibberish, which no one can understand. He appears similarly unable to comprehend anything said by anyone else.
+
+
+=== Act Two ===
+
+Dr. Bashir diagnoses the chief as suffering from aphasia: in effect, the connections in his brain between words and their meanings are scrambled. O'Brien tries communicating by writing on a PADD, but produces the same gibberish. As the senior staff discuss his condition in Ops, Lieutenant Dax is suddenly stricken with aphasia as well, unable to communicate with the people around her. In the infirmary, Bashir discovers that a virus has infected the brain's synapses; as other crew members are afflicted, Sisko orders DS9 to be placed in quarantine immediately.
+Odo notices that business is booming in Quark's. When questioned, Quark lies and says his replicators were fixed by Rom; in fact, Quark is surreptitiously using the replicator of a quarantined crew member. Odo, disguised as a piece of furniture, catches Quark in the act soon after this.
+Sisko finds his son Jake standing at the upper level on the Promenade after having been playing with classmate Nog. The concerned father orders his son back to their quarters. Sisko is now confronted by Jaheel, the impatient freighter captain, who is told to stay put.
+Back in Ops, Sisko begins to suspect the replicators are spreading the virus. When Odo informs them that Quark has been supplying his entire menu with an infected replicator from vacant quarters on the command level, Bashir checks the station's air, and determines that the virus has mutated into an airborne pathogen. They are now all infected; however, the virus has different incubation periods in different people.
+
+
+=== Act Three ===
+While searching with a tricorder, Kira finds the device hidden in the replicator's pattern generator. By now, 60 percent of the station population is showing signs of the virus. The replicators have been creating the virus (at the molecular level) within the food they have been producing.
+While Kira initially suspects Cardassians are to blame, Doctor Bashir determines that the virus is actually Bajoran in origin; and the device is 18 years old, the same age as DS9 itself, built in 2351. Presumably it was made and placed aboard the station by the Bajoran Resistance, but never activated to carry out their attack against the Cardassians.
+As Sisko takes Jake, recently afflicted, to crew quarters converted into a hospital ward, he tries to console Dax and O'Brien, but they still can't comprehend one another. The situation soon worsens, as O'Brien is found unconscious in his hospital bed. The virus has attacked O'Brien's autonomic nervous system, threatening his life. Bashir tells Sisko that O'Brien will be dead in twelve hours.
+
+
+=== Act Four ===
+Using her old contacts in the Bajoran Resistance, Kira tries to discover the creator of the virus. Her search leads her to a Dekon Elig, a Bajoran Resistance member, but he is deceased. Through his death certificate she locates his assistant Surmak Ren, who was also a member of the underground. Surmak has now been repatriated to Bajor and is currently a medical administrator at the Ilvian Medical Complex. When Kira contacts him about the aphasia virus, he rudely terminates the connection.
+
+Quark is still unaffected, for which he credits his Ferengi immune system. Odo warns him that, with DS9's current skeleton staff, Quark will be held accountable for any thefts occurring during the quarantine. In the infirmary, as Dr. Bashir continues searching for a cure to no avail, he too is overcome by the virus, suddenly speaking gibberish to the medical computer and is forced to abandon his research. 
+Sisko allows Kira to pilot a runabout to Bajor to confront the uncooperative Surmak Ren; she assures Sisko she will not set foot on the planet (so as not to spread the virus). She abducts Surmak by beaming him onto the runabout without his permission. At first, Surmak protests that his involvement with the Resistance was minimal, and he is not to blame for the station's current troubles. Kira snaps that she is not interested in assigning blame, just the cure for the virus. Surmak says he doesn't know if Dekon even created a cure – for all he knows, a cure doesn't exist. Kira informs him that she is infected with the virus, and now he has been exposed as well, so anything he knows about Dekon's work had better be put to use, and quickly. They return to DS9 to help with the cure.
+On DS9, Jaheel, the impatient and frightened freighter captain, decides to leave the station without permission. However, Sisko refuses to open the docking clamps mooring his vessel to the space station. As Jaheel increases power to his engines, the clamps become stuck in place. The freighter's engine begins to overheat, threatening to explode – and take half the docking ring with it.
+
+
+=== Act Five ===
+
+Odo suggests they explode the clamps to blow the ship clear of the station, but finds himself soon working alone, as Sisko now succumbs to the sickness.
+When Odo broadcasts a call for help throughout the entire station, help arrives in the form of Quark, one of the few people left unaffected. After smugly advising Odo that they can discuss his compensation later, Quark assumes control of Ops, beaming Odo directly to the docking ring; Kira is stunned to find Quark answering her hail as she returns to the station. After boarding and showing Surmak to medical, however, she becomes the virus's latest unintelligible victim.
+Odo rescues the babbling freighter captain and jettisons the doomed ship just in time before it explodes. Surmak Ren, whose memory is refreshed about the virus once he looks at Doctor Bashir's notes, quickly develops an antidote for the virus, curing everyone.
+As things begin to return to normal, Sisko welcomes O'Brien back to Ops – only to find a moment later that the replicators are faulty once more.
+
+
+== Log entries ==
+See: Station log, Deep Space 9, 2369
+
+
+== Memorable quotes ==
+"Chief, I thought you were going to fix the replicators!"
+"Oh, you're absolutely right, sir! I knew I'd forgotten something! Can't have the operations chief sitting around daydreaming when there's work to be done, can we? Oh ho ho ho, I'll get right on it!"
+
+- Benjamin Sisko and Miles O'Brien
+
+"'Fix the replicators, chief.' 'My console's offline, chief.' Should have transferred to a cargo drone. No people, no complaints."
+
+- O'Brien
+
+"Major Kira, Lieutenant Dax... I'd be honored if you'd join my party, as my guests, of course."
+"What's all this, Quark? You cheat your 1,000th customer?"
+"Who says Bajorans don't have a sense of humor?"
+
+- Quark and Kira
+
+"There's an old Ferengi saying: 'Never ask when you can take.'"
+
+- Quark
+
+"Rom's an idiot. He couldn't fix a straw if it was bent."
+
+- Odo
+
+"Waylink complete...WAYLINK!! "
+
+- O'Brien, undergoing a medical examination
+
+"Food, dabo, drinks! Money, hand mine, give!"
+"Well Quark, I see even you couldn't weasel your way clear of this one."
+"You underestimate the Ferengi immune system, commander. I'm merely here visiting my less fortunate customers to make sure they're not faking their illness to avoid paying their bills!"
+
+- Quark and Sisko
+
+"All right. You can... cross barrels. All job appalled."
+"What was that?"
+"Bread... the arrive... seen earlier!"
+"Oh, I see."
+
+- Sisko and Odo, as the former starts feeling the effects of the aphasia virus
+
+"Quark? Am I to believe that you're actually volunteering to help?"
+"Who said anything about volunteering? We'll haggle over price later."
+
+- Odo and Quark
+
+"I've got to get down to the docking ring before that ship explodes."
+"I'll beam you down there."
+"You'll...?"
+"Relax, I served on a Ferengi freighter for eight years. I must have witnessed the procedure hundreds of times."
+"Witnessed?! You mean you never operated the controls yourself?"
+"Energizing!"
+
+- Odo and Quark
+
+"Welcome back! I could use some help up here!"
+"Quark?! What are you doing in Ops?"
+
+- Quark and Kira
+
+"Computer, replay morning."
+"Command unclear. Please repeat."
+"Glass lunch judge a bin to let it!"
+
+- Julian Bashir, beginning to feel the effects of the aphasia virus, and Deep Space 9's computer
+
+"Dog... fellow... distance."
+"Yeah, tell me about it."
+
+- Jaheel and Odo
+
+"O'BRIEN!"
+
+- Benjamin Sisko, after the replicators malfunction again
+
+
+== Background information ==
+
+
+=== Title ===
+This is one of twenty-four Star Trek episodes with titles derived from Biblical references.
+Ira Steven Behr named the episode "Babel", a reference to the biblical Tower of Babel where, according to Genesis chapter 11, God confused the previously uniform language of Humanity. (The Official Star Trek: Deep Space Nine Magazine issue 8)
+
+
+=== Story and script ===
+According to Ira Steven Behr, the story idea that served as this episode's genesis was thought up during an approximately five-day brainstorming session between Behr and Peter Allan Fields during the week of 15 June 1992, which led them to devise the premises for the first-conceived episodes of DS9 Season 1 (apart from the pilot episode "Emissary"). (The Fifty-Year Mission: The Next 25 Years, p. 422) However, Michael Piller commented, "We had this premise for over five years at Next Generation. It was written by the same person who wrote "Hollow Pursuits" for us, and we had always been attracted to the idea that you could suddenly lose the ability to use language and communicate, and how people are able to communicate with each other." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 43)
+On the aphasic dialogue spoken by the characters, Michael McGreevey commented, "As I was writing that dialogue, I was very worried about how it would come off. At first, I just wrote gibberish, and I realized that was a mistake: it couldn't just be gibberish, because the person who was speaking was trying to say something. I literally had to say the lines out loud. Then, on paper, I put the real meaning of the words in parentheses, keeping the rhythm the same. It was almost like writing poetry, because I was using a meter, like an iambic pentameter. I think it helped the actors in delivering those lines. But it was rather frightening to write that stuff." (The Official Star Trek: Deep Space Nine Magazine issue 8)
+Naren Shankar contributed to the rewrite of this episode. (Cinefantastique, Vol. 24, No. 3/4, p. 102)
+This episode contains two references from the animated television series Ren and Stimpy. The first reference used was in the name of the Bajoran Surmak Ren, who was named after the co-main character "Ren Höek". The second reference was made in the name of the Cardassian Gul Spumco, who was named after Spümcø, the animation studio responsible for the Ren and Stimpy series. A third Ren and Stimpy reference appeared two episodes later, in "Q-Less", in the name of the planet Hoek IV, which was again named after "Ren Höek". Ira Steven Behr chose to show episodes of The Ren and Stimpy Show to improve relations between the writers. (Star Trek: Deep Space Nine Companion, p. 25)
+Script research and clearance was done by Joan Pearce Research Associates. [1]
+
+
+=== Production ===
+
+During filming, Ira Steven Behr rang Michael McGreevey to let him know the aphasic dialogue was working well. McGreevey commented "It's almost eerie. That's what we wanted. We wanted the audience to feel uncomfortable. We almost hoped viewers would try to figure out what they are saying. To be misunderstood so completely is very frustrating; I wanted that frustration in the script". (The Official Star Trek: Deep Space Nine Magazine issue 8)
+The scene where Sisko goes into the infirmary to find Jake has come down with the aphasia virus was extremely important to actor Avery Brooks because it was the first scene to establish the 'physical' intimacy between father and son. Indeed, this aspect of their relationship was initiated by Brooks himself; "It wasn't a thematic element. I don't have any trouble being physical with my children. That's a part of my nature, as opposed to something they wrote about Sisko and Jake. The first day I met Cirroc, I hugged him. And I hug him every time I see him." (Star Trek: Deep Space Nine Companion, p. 25)
+Terry Farrell and Colm Meaney found time for humour during filming. Farrell commented: "Colm and I were pretending we were sicker in the Infirmary than we were and were sticking paper up our nose so the challenge was to see that neither of us were going to be giggling by the time the camera reached us. It's sort of an infantile kind of humor". (The Deep Space Log Book: A First Season Companion)
+A set visit during the filming of this episode was reported by journalist Marc Shapiro for The Official Star Trek: Deep Space Nine Magazine (The Official Star Trek: Deep Space Nine Magazine issue 1, pp. 10 & 22).
+
+
+=== Reception ===
+This episode is a favorite of actor Armin Shimerman as he feels it is here that he really began to get a handle on the character of Quark. Speaking of the moment when Quark is left in charge of Ops, and is clearly loving the situation, Shimerman comments that he realized "Ah, this is the character, this guy who likes to have a good time, who enjoys life and who feels that no problem is insurmountable. And that fun-loving spirit and delight became ingrained in my character at that moment." (Star Trek: Deep Space Nine Companion, p. 24)
+Paul Lynch commented that he found "Babel": "a very exciting episode, with a lot going on. It was very nice singularly because of the relationship between Sisko and Jake. That was the key to the whole episode for me. Yes, they had to solve the problem of this disease on the space station, but the high point was growing relationship between father and son. It's very nicely played by Avery and Cirroc. That's what Berman and Piller and the writing staff are developing more and more of on the show". (The Official Star Trek: Deep Space Nine Magazine issue 3)
+Ira Steven Behr commented "The inability to communicate was fun, but I don't think it went far enough. It became 'Let's see who's going to get aphasia next' and I thought that was a bit of a problem. Sisko's scenes with the kid were nice, and the scenes with O'Brien were well done, although the pacing in the teaser was lethargic". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p 43)
+Michael Piller commented "It wasn't a great episode but had some wonderful moments in it". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p 43)
+Naren Shankar commented "I liked the teaser and the ending, where we broke the ship away from the docking ring before it exploded". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p 43)
+In The New Trek Programme Guide, the authors comment that "Babel" was "a marvelous story that builds to a gripping climax. There are some lovely scenes with Odo and Quark, especially at the end where they seem to be the only ones not affected by the virus". The authors liked the scene where Bashir realizes he too has become affected. (The New Trek Programme Guide, p. 292)
+Mark A. Altman regarded the virus in this episode as one of a few "hokey clichés" in the early run of DS9, which he would have personally avoided, opting instead for more character-driven stories. (Trek: Deepspace Nine, p. 72)
+Becca Caddy wrote in her Science of Star Trek series that "'Babel' doesn't only provide us with a series of symptoms to look out for but accurately portrays the sadness, confusion, and frustration that often accompanies aphasia." [2]
+
+
+=== Trivia ===
+This episode is the first credited writing contribution of Ira Steven Behr to the series.
+After he repaired the replicator at the beginning of the episode, O'Brien ordered his coffee "black, double sweet" which is consistent with his coffee order in "Rascals".
+In reality, there are different varieties of aphasia, and can be experienced to many different degrees. Specifically, the DS9 crew was suffering from what most closely resembles “Wernicke’s Aphasia”, a fluent aphasia in which language production is not affected, but the patient suffers from a lack of comprehension of both written and spoken language, and the language produced is nonsensical. Those with Wernicke’s aphasia may speak in a “word salad”, which is the main symptom the crew exhibits in the episode.    Moreover, those with Wernicke's aphasia are often unaware of their difficulties, as the crew appears to be until they observe reactions of others. Aphasia is most commonly caused by stoke or head injury, and is not known to be directly caused by any virus as seen in the episode, though it can be a result of infection-related inflammation.
+Geraldine Farrell, who portrayed Galis, appeared with Bajoran make-up similar to Michelle Forbes as Ro Laren, with the ridge going across the bottom of the forehead. For other characters such as Opaka and Sito Jaxa, who initially appeared with this extra ridge, it was removed in later appearances.
+Although Quark credits his Ferengi immune system with keeping him safe from the virus, and both Rom and Nog are mentioned in dialogue, neither of them answers Odo's announcement calling for help. Nothing is said about them thereafter.
+Odo knows Quark is lying about repairing his replicators because, "Rom's an idiot. He couldn't fix a straw if it was bent." However in later episodes Rom is shown to be a mechanical and engineering genius.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 3, 6 September 1993
+As part of the DS9 Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Jack Kehler as Jaheel
+Matthew Faison as Surmak Ren
+Ann Gillespie as Jabara
+Geraldine Farrell as Galis
+
+
+=== Co-stars ===
+Bo Zenga as Asoth
+Kathleen Wirt as Aphasia Victim
+Lee Brooks as Aphasia Victim
+Richard Ryder as Bajoran Deputy
+Frank Novak as Businessman
+Todd Feder as Federation Male
+
+
+=== Uncredited co-stars ===
+Majel Barrett as Federation Computer Voice
+Scott Barry as Bajoran officer
+Dan Curry as Dekon Elig (still image)
+Brian Demonbreun as Human science division officer
+Judi Durand as Cardassian Computer Voice
+Randy James as Jones
+Mark Lentry as Human command division lieutenant
+Susan Lewis as Bajoran civilian
+Chad McCord as operations ensign
+Mary Meinel-Newport as Bolian female
+Robin Morselli as Bajoran officer
+Tyana Parr as Human DS9 resident
+Mark Allen Shepherd as Morn
+Unknown performers as
+Bajoran with aphasia
+Human male command division ensign
+Human female command division officer
+Human male DS9 resident
+Rotciv member
+Two Humans with aphasia
+Human repair crewman
+Bajoran female operations officer
+
+
+=== References ===
+2284; 2319; 2342; 2351; 2356; 2357; 2360; 2362; access tunnel; adaptive synaptic inhibitor; aft thrusters; airlock; ankle; antidote; antimatter flow converter; aphasia; aphasia device; aphasia virus; Argosian sector; auditory stimuli; autonomic nervous system; Bajor; Bajoran; Bajoran Archival Records; Bajoran Medical Index; Bajoran Militia uniform; Bajoran underground; base correlation; base pair destabilizer; bio-filter; bird; blood; body language; booby trap; Boslic; brain; bread; bug; Cardassian; cargo drone; cat; cc; Certificate of Death; chief administrator; coffee; command level; corophizine; cranial trauma; crew quarters; crime; dabo table; dabo wheel; Danube-class; day; daydream; Deep Space 9; delta radiation; diboridium core; dinner; DNA; DNA sequencer; docking port; docking ring; dog; dolphin; drum; emergency quarantine; energy decay; environmental control; environmental system; EPS converter; faking illness; Federation; Federation records; female; Ferengi; Ferengi freighter; fever; fire control systems; flame; flower; fuel cell; garden; genetic engineering; geneticist; genius; gestation period; gesture; ghost; glass; Glessene sector; gold; graduation; harbor; hazard pay; head of security; Higa Metar; honeymoon; hospital; hyperonic radiation; I'danian spice pudding; Ilvia; Ilvian Medical Complex; immune system; intensity grid; interlock servo; isolation plate; isolinear rod; Jaheel's ship; judge; kiss; Kohlanese stew; Kran-Tobol prison; laboratory; landing pad 7; Largo V; liaison officer; lunch; main power core; Markalian; mass spectrometry analysis; materialization subroutine; medical assistant; medical doctor; medical library; medical tricorder; military; millirad; money; monoclonial link; mooring clamps; mutagenic adaptability; navigational computer; neural imaging scan; neural stimulation; neurophysiological history; neurosynaptic comparison; Nog; Northeastern District; Northwestern District; nucleotide convergence; nucleotide sequence; O'Brien, Keiko; operations chief; ops; PADD; pattern generator; pepper; perceptual dysfunction; persecution; personal duty log, Miles O'Brien; plot; positron emission tomography; power core; power coupler; prison; progressive base substitution; protein; protein sheath degradation; repair crew; replicator (aka replicator system); Replimat; Rom; runabout; sabotage; salt; saying; scientist; secondary grid; secondary infection; secondary phase modulator; sect; security clearance; security officer; sense of humor; sequential disruption; skeleton crew; sky; spoon; star chart; stardate; starduster; Starfleet uniform; station layout; stew; straw; stretcher; strike; stroke; synaptic pathway; Tamen Sasheer; tea-cart; teacher; temporal lobe; Terok Nor type; terrorist; tetracitrus gel; thrusters; tractor beam; triagar solution; tricorder; tunnel; turbolift; Velos VII internment camp; viral characterization research; virus; visual cortex; volt; wager; waiting list; ward; warp; weather; window; Yangtzee Kiang, USS
+
+
+==== Other references ====
+Surmek Ren's biography: Akira Advanced Genetics Research Unit; Alpha 1 Priority; Cardassian Central Command; Cardassian Intelligence; Cardassian Regional Court; genetic programming; gul; Kohn-Ma; Spumco; Surmak Hoek; Surmak Stimson; University of Bajor; Velos VII
+Dekon Elig's death certificate: neural trauma; next of kin; phaser
+
+
+=== External links ===
+"Babel" at Memory Beta, the wiki for licensed Star Trek works
+"Babel" at Wikipedia
+"Babel" at the Internet Movie Database
+"Babel" at MissionLogPodcast.com
+"Babel" script at Star Trek Minutiae

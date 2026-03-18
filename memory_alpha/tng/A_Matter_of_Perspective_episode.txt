@@ -1,0 +1,279 @@
+When Riker is charged with the murder of a prominent scientist, each side uses the holodeck to show their side of the story.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Captain Picard is attending figure drawing class with two other crewmembers, Ensign Williams and Lieutenant Wright, and all three are painting canvasses of an unknown figure – later revealed to be a nude model. Lieutenant Commander Data enters and informs the captain that the USS Enterprise has arrived at Tanuga IV, and that the away team has completed its survey of Dr. Nel Apgar's research and is ready to return to the ship. Picard acknowledges Data while he tries to subtly get a better look at the captain's painting.
+
+Picard notices and makes a gesture allowing Data to examine his work and that of the other students. Data compliments the work of Ensign Williams and Lieutenant Wright, but he is much more critical of Picard's work, saying that it is disorganized, using too many disparate techniques. Picard grimaces while Data makes his assessment but "thanks" him when he feels that Data has said enough, and the android leaves.
+
+"Captain's log, Stardate 43610.4. After completing a delivery of dicosilium to the Tanuga IV research station, our away team has received an update from Dr. Nel Apgar on his efforts to create Krieger waves, a potentially valuable new power source."
+Picard enters the bridge, welcoming Lieutenant Commander La Forge back from the station. The captain asks where Commander Riker is. La Forge replies that he is still on the station where Dr. Apgar is working as Apgar wanted to speak to Riker. Although La Forge replies evenly, Picard notices some tension in his speech, and asks if there were any problems.
+
+The chief engineer seems unsure of how to reply but says that nothing went wrong with the scientific portion of the mission. Picard becomes even more curious about what happened on the station due to La Forge's explanation, but La Forge is spared when Riker's exasperated voice is heard through the communicator asking to leave the station immediately. La Forge tells the captain that Riker will explain when he returns.
+
+Chief O'Brien engages the transporter to bring Riker back, but nothing happens, and when he reads the console, he immediately calls engineering, informing them of a power drain. Without warning, the station suddenly explodes, to the horror of Picard and the bridge crew seeing the event on the viewscreen. O'Brien has not beamed Riker back yet as he is having trouble clearing the first officer's signal, but eventually Riker is brought aboard. Riker asks why O'Brien is so surprised that he brought him back; O'Brien informs him that the science station just exploded. Riker turns to the transporter, with a visibly shocked look.
+
+
+=== Act One ===
+"Captain's log, supplemental: Commander Riker has informed me that Dr. Apgar was the only one aboard the space station when it exploded. We remain in orbit investigating the accident…"
+O'Brien tells the captain (over the com) that he has checked throughout the transporter system and has found no malfunctions, or indeed anything that could have caused such an explosion as the one that has just destroyed the station. He cannot explain the brief power drain just before the explosion, either. Picard tells O'Brien that he will want an explanation, and he is certain that the Tanugan government will demand one as well. Data informs Picard that the radiation and debris are consistent with an overload of the station's reactor core, but neither La Forge nor Riker saw any indications of problems with the reactor while they were on board the station.
+Picard turns his attention to Riker and asks him about the mission not going quite so routinely. Riker is slightly dismissive and doubts that it had anything to do with the explosion. Worf informs the captain that Chief Investigator Krag of the Tanugan security force is requesting permission to beam aboard; Picard grants permission and asks Worf to escort him to the bridge. While Worf is escorting Krag, Picard wants Riker to explain everything that happened on board the station as best as he can before the chief investigator arrives on the bridge.
+
+Upon Krag's entry to the bridge, Picard introduces himself and Riker. As soon as he hears Riker's name mentioned, Krag dismisses Picard and approaches Riker informing him that he is to take him into custody on suspicion of murder. Riker responds angrily, but Picard interrupts saying that he and the rest of the Enterprise crew are willing to fully co-operate. Krag, though, insists on extraditing the "prisoner" and Picard asks Krag to accompany him to the ready room, as the bridge is not the best place to discuss such a delicate topic. Riker walks to join them but Picard dismisses him, telling him that he has the bridge, and the bridge staff cannot help looking at Riker in surprise about the recent serious accusation against him.
+In the ready room, Picard asks Krag what evidence he has against Commander Riker. Krag says that two witnesses have come forward to describe Riker's threats against Apgar. Picard is surprised on hearing about threat allegations, saying that there was only an altercation, but Krag claims that it was much more than that. He says that Riker will be given the opportunity to prove his innocence – in the Tanugan jurisprudence, the accused is "guilty until proven innocent," while the Federation's own works on the opposite basis. Krag informs Picard that he has consulted Federation regulations and because the alleged incident happened within Tanugan space, they have jurisdiction, but Picard says that the regulations also state that the captain will decide if extradition of an officer is warranted and that, if there is sufficient evidence is brought forward, he will release Riker into Krag's custody.
+
+Krag asks about Picard's closeness to Riker but the captain refuses to answer, saying that it is irrelevant in this instance. Krag feels that it is relevant, though, as he would not expect an impartial decision from Picard, but Picard feels compelled to protect the rights of those who serve with him. Krag appreciates his situation but says that he will do it on the planet as the Enterprise can leave the Tanugan system at any moment; Picard gives his word that, as a Starfleet officer, he will not do so. Krag has little faith in Picard's statement and demands that Riker be turned over for interrogation immediately. Picard says that Krag can interrogate him on the Enterprise. Krag says that interrogation would be impossible on the ship, as great resources would be needed, from witness accounts to the ground computer data.
+Picard considers a compromise and says that perhaps it would not be impossible, calling Data into the ready room. Upon entering the ready room, Picard introduces Data to Krag and asks if it would be possible to recreate the events that took place on the station based on testimony from both the away team and witnesses. Although it would require extensive resources, including design specifications of the equipment used, visual representations, and voice analyses, Data replies that it would be possible to do so. Krag considers what Picard and Data have just said – because the captain has no intention of releasing Riker as of yet, Krag agrees and will make arrangements to provide all of the available information. He will also return with his witnesses, he says. Data escorts Krag to transporter room three.
+
+Picard leaves the ready room, telling La Forge and Wesley Crusher that they are going to recreate the station in the holodeck: both La Forge and Riker will give the computer depositions with detailed descriptions of what they witnessed on the station, and Counselor Troi will assist Picard during the inquiry. Picard then considers what he will say next and firmly (although quietly) tells Riker (and the other staff) that his decision on whether or not to extradite him will be based on the evidence presented in the holodeck re-creations. Riker asks for a private word with Picard. But the captain refuses, as it would be inappropriate under the circumstances, and returns to the ready room.
+
+
+=== Act Two ===
+"Second officer's log, Stardate 43611.6. Programming of the holodeck has taken eighteen hours and eleven minutes and is now complete. All participants have entered their depositions. Technical schematics and complete records from the lab's ground computers, as well as Dr. Apgar's personal logs, have been included. The recreations will have a nominal 8.7% margin of error."
+
+Picard, Riker, Krag, and Troi enter the holodeck and take their seats at a table in a holographic facsimile of the laboratory on board the space station. Before the inquiry begins, Riker makes a statement that he was not a murderer but a representative of Starfleet sent to make a progress report on Dr. Apgar's development of the Krieger wave converter and that he acted accordingly throughout the mission.
+Riker then runs a simulation recalling events as he remembers them. Holograms of Dr. Apgar and his assistant, Tayna, appear, and the holograms of Riker and La Forge beam aboard the station. Throughout Riker's simulation, the hologram of Riker maintains a neutral, businesslike demeanor, while Apgar is somewhat impatient and far from pleased with Starfleet's arrival, although he makes an effort to be polite. A simulation of Apgar's wife, Manua, enters, apologizing for the doctor's less than accommodating behavior. Throughout the simulation, she cannot seem to take her eyes off Riker and treats her husband, Apgar, like an afterthought.
+
+La Forge accompanies Tayna to one of the stations, talking about the Lambda field generator, while Manua escorts Riker (while Apgar follows) for a welcoming drink. The three share glasses of champagne, but Apgar has little interest in pleasantries and asks Riker why Starfleet came so soon, especially as Apgar was not due to update them on his progress for another three months. Riker explains that the Enterprise was in the sector on another mission studying a protostar cloud, and since Apgar had requested additional dicosilium for his research, they felt that it was a good opportunity to check-up on his progress.
+The Federation flagship would be returning the following day, with the hearing of which statement Apgar was less than pleased. But Riker told him that he and La Forge had already arranged for accommodations on the planet below. Manua, however, insisted that they stay to keep her company and further apologized for her husband's shortcomings in spite of his scientific prowess. Krag interrupts, asking if it was Riker's testimony that it was Manua's idea for Riker and La Forge to stay on the station; Riker confirms this and says that it is also the truth.
+The simulation resumes now in the station's guest quarters with Riker and Manua present. Manua shows Riker around the quarters but does not leave and begins to proposition Riker, lowering the light levels in the room and partially undressing. Riker insists that she leave, but as he redresses her, Apgar walks in, catching the two in an extremely uncomfortable position. The scientist reacts furiously, hitting his wife and taking a swing at Riker. But Riker moves out of the way of Apgar's punch, and he falls to the floor.
+
+Riker insists that what just happened was a terrible misunderstanding, but Apgar assures him that he will make a formal complaint to Starfleet. The first officer interrupts the simulation and says that he did not see Dr. Apgar until the following morning, when Apgar asked to speak to him alone. La Forge later returned to the Enterprise.
+The simulation resumes, returning to the laboratory, where Apgar asks if his complaint will result in Riker giving a less-than-favorable report on his work. Riker insists that the complaint will not affect the report in any way and asks that he call Manua in so they can all resolve the misunderstanding, but both she and Tayna have since returned to the planet. Apgar is frustrated with not knowing where he stands with Starfleet and asks Riker if he feels that there is no justification for the additional dicosilium that he ordered. He insists that he can explain why he needs it, but Riker needs no explanations. Apgar dismisses him, and Riker calls the Enterprise, saying that he is ready to leave now. Riker freezes the simulation and says that this was when he left the station.
+
+Krag asks if Riker has anything to add, such as firing a phaser. Riker denies having fired a phaser on the station at all, and Krag is somewhat perplexed by Riker's denial because the lab's ground computers indicated that a focused energy pulse was fired just as the Enterprise's transporters were engaged. Furthermore, analyses of the trajectory and angle of the pulse were traced back to Riker's exact position. Krag then runs a hypothetical simulation of what he believes Riker did. The simulation returns to the point just before Riker departs. Riker calls the Enterprise saying that he is ready to leave now, and as the materialization effect of the transporter begins, he quickly draws his phaser and fires at the reactor – three seconds later, the station explodes.
+
+
+=== Act Three ===
+
+Data, La Forge, and Wesley are all observing the monitors on the first science station on the bridge where there is a graph displaying the results of a composite radiation traceback analysis. There is an extremely large spike on the far right of the graph that indicates the explosion of the station but there is an anomalous smaller spike just before the larger one. Unfortunately, the energy signature is consistent with that of a phaser discharging and there was nothing else on board the station that La Forge saw that could produce a similar energy signature.
+Wesley openly says that it could not have been Riker who fired the phaser and thinks that there is something else that caused the discharge but, although La Forge agrees, he cannot explain why the discharge came from Riker's exact position. La Forge laments that he should have stayed with Riker the whole time they were on the station together. Worf then reports that there is a radiation burst on Deck 39, just outside of Cargo Bay 12. The computer cannot identify either the source or the type of radiation, but it soon subsides.
+La Forge and Wesley are now studying the recent burst of radiation with a tricorder which has melted a section of the bulkhead, but both are baffled, as neither knows of any type of radiation that could have done this. Not even the ship's main deflector puts out this much radiation spillage, but what they do know about this radiation is that it is a serious threat to the ship as it can melt a hole in solid duranium.
+
+Returning to the holodeck, Krag escorts (the real) Manua Apgar into the room. She is much more modestly dressed, and her demeanor is much less sensual than the hologram of her in Riker's simulation. Before the next simulation is shown, she makes no statement – she just "knows" that Commander Riker killed her husband. Krag runs Manua's recollection of events on board the space station. Holograms of Manua and Apgar appear in their quarters and Apgar is extremely anxious about Starfleet arriving and worries that they will stop sponsoring his research because he feels that he has not progressed as far as expected. Manua tries to assure him that just a bit of charm would be needed to persuade Starfleet to give him more time.
+The simulation proceeds to the lab where Riker introduces himself and La Forge to Apgar as Manua enters, but throughout this simulation, Riker has a much more relaxed, charming, less formal attitude – in some respects, much like the real Riker. In addition, he pays more attention to Manua than Apgar's progress and looks at her in a very provocative way, making her feel uncomfortable. Tayna shows La Forge the station, describing the field generator while Manua takes Apgar (whom she takes company of this time) and Riker away for a drink.
+During the drink, Riker again shows little interest in what Apgar has to say, continuously looking at Manua, and asks if he and La Forge can remain on the station; Apgar reluctantly agrees. Manua shows Riker the modestly-sized quarters but Riker says that it has her charm, making her feel more uncomfortable with each move he makes. He then closes the door on her and makes more, stronger advances on her. Since she is smaller and much weaker than Riker, Manua is almost powerless to stop him although she resists as much as she can, pleading for him to stop.
+
+(The real) Riker interrupts with an angry outburst, unable to take any more and Picard pauses the simulation. Leaving his chair, Riker is furious at Manua's accusations and categorically denies having propositioned her or, certainly, tried to rape her. He demands to know why Manua is doing this, but she said that this was exactly what happened. Troi calls for Riker to return to his seat to prevent him from doing or saying something that he may regret later. Visibly frustrated, Riker returns to his seat, and Krag resumes the simulation.
+Apgar walks in, sees Manua in Riker's arms, and is immediately enraged, taking a swing at Riker. But Riker blocks Apgar's punch and lands two jabs in the scientist's stomach, causing Apgar to fall back onto the floor. Manua runs over to try to protect her husband, and Apgar promises that this will be Riker's last mission, but Riker threatens him by saying that he will be making a terrible mistake if he lodges his complaint. Krag freezes the simulation and Manua says to Riker that his career in Starfleet was secure despite Apgar's promise – as a scientist, he would have been distracted by some technical trivia and would have forgotten all about his complaint to Starfleet. The memory of her dead husband has become too much for Manua and she leaves the holodeck crying.
+
+Picard calls for a recess and reassuringly taps Riker's shoulder as he and Krag exit, knowing that the evidence against Riker is mounting. Riker turns to Troi and asks why Manua would have lied about what happened, but the counselor does not respond. He notices and asks if she thought that he could have done what Manua accused him of. Troi reassures him that she knows that he could never even have contemplated such an act, even though she sensed no kind of deception from Manua – they are both telling the truth as they remember it. Unfortunately, Manua's recollection of events would result in Riker's extradition and likely conviction.
+Dr. Crusher and Martinez are treating a crewwoman in sickbay who has recently injured her arm. Crusher feels that the healing of her injury has advanced enough for her to start restoring the strength of her muscles, but Worf (on the com) calls for Crusher and those present to evacuate immediately as a radiation burst has been detected in sickbay; part of the wall in sickbay begins to burn away.
+
+
+=== Act Four ===
+La Forge and Wesley are studying the newly-melted spot in the wall. Data confirms that it is the same radiation that had previously penetrated the section of wall on Deck 39 – a highly-focused, powerful emission of radiation but it is of unknown origin. La Forge warns Captain Picard that if this radiation were to form in either the warp core or the antimatter storage pods, they would be in serious trouble.
+
+Picard asks if any of the three have any theories; none do. However, Data has noticed something that was too strange to be a coincidence – the two radiation events aboard the Enterprise occurred five hours, twenty minutes and three seconds apart while the space station exploded at almost four times that interval the previous day – there is a 0.0014 second variance that none of them have been able to explain. Although there is no evidence at present to connect the events, it appears that they may be linked, but if they are correct, they would be able to predict the next radiation event occurring – just over five hours from now. Picard orders them to take the necessary precautions to protect the ship's most vital areas and if they cannot find the source of the radiation by the next interval, the Enterprise is to leave orbit of Tanuga IV.
+In the holodeck, the hearing resumes with (the real) Tayna describing what Dr. Apgar told her about the alleged incident between himself, Commander Riker and Manua. She and Krag have made a reconstruction of what happened on the station in the guest quarters based on her deposition. Picard interrupts, protesting that Tayna's accounts are nothing more than hearsay evidence, but because Apgar is dead, Tayna's evidence is admissible under Tanugan law, and Krag insists that Picard consider it; Picard reluctantly agrees to view this supposed "evidence." Tayna's simulation runs, beginning similarly to where Manua's simulation ended.
+
+Apgar walks in catching Riker and Manua sharing a passionate kiss; Riker takes a swing at Apgar. The scientist ducks, however, and he then strikes Riker, knocking him to the floor and assuring him that he will be lodging a complaint to Starfleet, but Riker thereupon threatens him, calling him a "dead man." Krag moves on to Tayna's next simulation (set in the lab) with Tayna and Apgar; he wants her to take his wife and return to the planet, but Tayna protests and says that he should come down too because Riker threatened him. Apgar, though, feels compelled to protect their work, noting that a man like Riker is capable of doing anything and does not want to leave him alone on the station.
+She agrees and decides to contact the authorities, but Apgar tells her not to – he will take care of Riker himself. The simulation stops and Tayna recalls hearing about the station exploding, also "knowing" that Riker killed Apgar, then leaves. Krag has now established motive, method, and opportunity for Riker to have murdered Apgar – in any court within the Federation, these are sufficient criteria to warrant the extradition of a suspect and Krag awaits Picard's decision.
+
+Picard and Troi are in the ready room, and it seems all but certain that Picard will have little alternative other than to hand Riker over to the Tanugans, as the evidence gathered against Riker warrants a trial. Although both he and Troi know that Riker is totally innocent, they cannot yield to their feelings and unfortunately, there is little evidence to prove their friend's innocence. They are interrupted when Data calls them over the com, telling them that the source of the radiation has been discovered; they return to the bridge.
+
+Data reports that he, La Forge, and Wesley have been looking for a phenomenon that occurs every five hours, twenty minutes and three seconds. They have discovered one such phenomenon on the planet's surface – the field generator that Apgar used in his research. When it is fully charged, it emits an energy pulse, then requires the same amount of time to recharge itself – it was left on after the station had exploded. Picard asks why the generator was affecting the Enterprise as it had been – it should not have done so, as it was a harmless generator, but they knew that it was connected to the radiation bursts and the pieces soon fell into place. They have now determined not only the cause of the radiation bursts, and the cause of the explosion that destroyed the space station – but also who killed Dr. Apgar.
+
+
+=== Act Five ===
+Picard, Riker, La Forge, Troi, Krag, Manua, and Tayna are all present in the holodeck, where Picard says that despite all the evidence and events shown on the station, they have not seen all of what really happened. As Krag does not understand, Picard enlists La Forge's assistance to prepare their arguments with a few excerpts from their previous recreations:
+
+First is an excerpt from Manua's testimony, in which Apgar says that he has suffered several setbacks and was upset at Starfleet's early arrival to check on his progress. Manua acknowledges her testimony, adding that her husband was under extreme pressure to make his breakthrough. Picard then posits that Apgar was lying to Starfleet and had, in fact, already succeeded in creating Krieger waves. La Forge fills in Krag about the mysterious radiation bursts that have been hitting the Enterprise, which they have identified as Krieger waves. Baffled, Tayna says that is impossible – even if Apgar had succeeded in creating them, there is nothing to generate them after the station was destroyed.
+La Forge explains that the waves are being created by the holodeck's facsimile of Apgar's lab, which includes the Krieger wave converter that Apgar had falsely claimed did not yet work. The field generator on the planet has been sending out harmless energy pulses to the Enterprise, which were converted to Krieger waves by the facsimile of the converter. Riker is confused since the holodeck cannot create anything dangerous unless the safety protocols are disabled. La Forge acknowledges this and says that technically, it did not do so, since the converter is essentially little more than a complex series of mirrors and reflective coils. The energy pulses from the field generator were reflected off elements in the converter that changed them into focused Krieger waves, which have been striking different areas of the ship as it orbits the planet and its angles to the generator have changed.
+
+Krag asks why Apgar would lie about his progress. Picard runs extracts of two simulations, one in which Apgar promises Manua that his work will yield rich rewards, and another in which Manua references these same rewards as she, Apgar, and Riker are toasting her husband's anticipated breakthrough. Troi explains that Apgar would not have made substantial profits from selling a new power source to Starfleet, but he could have made a much greater profit by turning it into a new weapon and selling it to the Romulans, the Ferengi, and other adversarial species. Dr. Apgar's orders for extra dicosilium were a good indicator that he was trying to create larger reflective coils to build a more lethal version of his existing converter.
+When the Enterprise arrived early, Picard theorized that Apgar became worried that Starfleet had become suspicious of him. In all three simulations, Apgar claims that he needs more time for his research. Picard further theorizes that Apgar became convinced Riker was onto him and decided to kill Riker to protect himself. (Having found Riker with his wife, Picard adds, did not improve matters.)
+Manua finds Picard's submission ridiculous, but Picard replays Tayna's simulation from the lab, when Apgar assures Tayna that he would take care of Riker instead of taking the matter to the authorities. When Apgar sits at a console, Picard freezes the simulation and asks Tayna what Apgar is doing. She says he is activating the generator on the planet, but she does not know why. Picard suggests that Apgar was thinking ahead to his next confrontation with Riker.
+
+Picard replays Riker's simulation at the point where Riker and Apgar discuss what Riker would put in his report. After Riker says that he needs no explanation for Apgar's extra orders for dicosilium, Picard freezes the simulation and surmises that Apgar felt that Riker was confirming his worst fears, and this was when he decided to kill Riker.
+Krag reminds Picard that the energy pulse that blew up the reactor (causing the station's destruction) came from Riker's exact position, not Apgar's. La Forge picks up the explanation, hypothesizing that at the moment Riker beamed out, Apgar energized the converter to fire an energy pulse at Riker, hoping to make his death look like a mere transporter accident, but Apgar's plan went awry – the pulse instead reflected off the transporter beam into the reactor, causing the explosion that destroyed the station.
+Krag finds the hypothesis interesting but dismisses it as impossible to prove. La Forge disagrees, as they have already established that the generator has been discharging and recharging at regular intervals except for the 0.0014-second variance between the first discharge and the explosion of the station. The only logical explanation for this variance is the split-second it took for the energy pulse to bounce off the transporter beam back to the reactor.
+
+Picard and La Forge then deliver their final effect, running a new simulation that has been deliberately synchronized with the next discharge from the generator. The simulation resumes with Apgar returning to the console that he was working on (as seen also in Tayna's simulation) while Riker calls the Enterprise saying that he is ready to leave. As the transporter beam engages, a Krieger wave beam fires from the generator at Riker's position, but it reflects off the transporter beam into the reactor, resulting in an explosion, destroying everything in the simulation.
+Only the "real" people remain in an empty hologrid, where Picard summarizes that Dr. Apgar killed himself during his attempt to kill Commander Riker. After having seen this new evidence, Krag withdraws his request for Riker's extradition and offers Riker his apologies. After Krag, Manua, and Tayna return to Tanuga IV, the Enterprise leaves the system on a course for Emila II.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+Second officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"Riker to Enterprise, I'm ready to leave. Now."
+
+- Riker, before beaming over from the station.
+
+(Relieved) "Transporter room to bridge – he's aboard…"
+"Why do you sound so surprised, Mr. O'Brien?"
+"Well, for a moment we weren't sure you left the space station in time…"
+"In time for what?"
+"It just exploded, sir."
+
+- O'Brien and Riker
+
+"I must apologize for my husband's lack of social graces. He may be one of the great scientific minds in the galaxy… but he does come up a bit short in other areas."
+
+- Manua, on Dr. Nel Apgar
+
+"Damn it, I should have stayed with him!"
+
+- La Forge, during Riker's murder investigation
+
+"Investigator, in our system of jurisprudence a man is innocent until proved guilty."
+"In ours, he is guilty until he is proved innocent, and you are under our jurisdiction."
+
+- Picard, arguing with Krag over Tanugan legal procedures
+
+"I didn't proposition her, and I certainly didn't try to rape her!"
+
+- Riker, on Manua Apgar's accusation
+
+"A man more interested in Krieger waves than a lovely woman like you, how is that possible?"
+
+- Holographic Riker, to Holographic Manua (in Manua's simulation)
+
+"She's lying! That never happened!"
+
+- Riker, responding to Manua's accusation
+
+"We can't both be telling the	truth."
+"It is the truth… as you each remember it."
+"But her version puts a noose around my neck."
+
+- Riker and Troi
+
+"I'm going to report this, Riker. You can count on that."
+"You're a dead man, Apgar! A DEAD MAN!!!"
+
+- Holographic Apgar and Holographic Riker (in Tayna's simulation)
+
+"I submit he decided to murder Commander Riker."
+"Ridiculous!"
+"Is it?"
+
+- Picard and Manua
+
+"I never said that."
+"Nevertheless, it seems clear that your husband was motivated to earn the rewards that pleased you."
+
+- Manua and Picard, suggesting a possible motivation for the events on the station
+
+"Dr. Apgar killed himself  – during his attempt to kill Commander Riker."
+
+- Picard, revealing the truth
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 27 November 1989 [1]
+Premiere airdate: 12 February 1990
+First UK airdate: 22 January 1992
+
+
+=== Story and production ===
+According to Ronald D. Moore, the script of this episode received an uncredited "gang-bang" rewrite by the entire writing staff. This constituted Moore's first assignment after joining the team. (AOL chat, 1997)
+Scientific consultant David Krieger recalled that this episode was one of the few times that he was invited in person to a story conference. According to Krieger, the main problem faced by the writing staff was how to threaten the ship, while still maintaining the proposition that holodecks should not, of themselves, create dangerous objects. Krieger noted, "At the whiteboard in Michael Piller's office, I explained my idea of making the holodeck construct act merely as a reflector/concentrator for an outside radiation source. The reconstruction of the dead scientist's laboratory was not itself inherently 'dangerous' (as per the series bible), but in combination with an external radiation source, its geometry made it as effective as the real concentrator in creating the destructive phenomenon the scientist had been studying." Pleased with this solution, the writers decided to temporarily call the radiation field Krieger waves. Krieger was surprised when he discovered that the name was retained in the final episode. [2]
+According to Krieger, he had included a pseudo-scientific explanation on what the waves actually were ("a field that suppressed the strong nuclear force, making any matter exposed to it fissionable"), but the line was cut from the final episode. As a result, the waves ended up as a MacGuffin. [3]
+The plot of this episode has been likened to the classic Japanese film Rashômon. (Star Trek: The Next Generation 365, p. 135)
+This episode is considered a bottle show. (Star Trek: The Next Generation Companion, 2nd ed., p. 115)
+
+
+=== Sets and props ===
+The model used for Dr. Apgar's science station is a re-use of the one used as Regula I in Star Trek II: The Wrath of Khan, which in turn was a re-use of the one for an orbital office complex as seen in Star Trek: The Motion Picture. It was subsequently used again several times in Star Trek: Deep Space Nine.
+The set regularly used for the observation lounge was redressed to serve as the art studio as seen in the teaser. The table and the wall with the models of the ships named Enterprise were removed making the room a lot bigger.
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+Picard is never seen painting again. A deleted scene had Picard throw red paint at his painting after Data's crushing criticism of his work.
+The Star Trek: The Next Generation Companion, 2nd ed., p. 115 notes the similarity to the Star Trek: The Original Series episode "Wolf in the Fold".
+
+
+=== Reception ===
+Michael Piller recalled that the episode was "probably the hardest story to break. It was a technical nightmare for the director. I was very, very, happy with the script and I thought the show was disappointing. I guess it didn't translate properly. It was very ambitious, but the casting was off. If you had put Lana Turner in the role of the woman in that show, you would have understood it all – but I don't think it played as it was intended. That's about the best murder mystery I've been involved in developing in my career, because every detail falls into place, every line comes together to explain how, what, when and where, and it really worked from a mystery standpoint. It's so complicated a mystery. In fact, it's like The Big Sleep in space. It's very complicated, yet if you take that script apart, nothing falls out of it. It ought to win an Edgar Allen Poe Award for best mystery of the year. I've been involved in a lot of crime caper shows, but this was a very proud script turned out. I just didn't think it was great television." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 192)
+Ira Steven Behr and Ronald D. Moore were even more scathing in their opinions of the episode, with both naming it as the worst episode of the third season. Behr in particular called the episode "a disaster," and arguably even his least favorite of all the Star Trek episodes he ever worked on. (TNG Season 3 Blu-ray, "Yesterday's Enterprise" commentary)
+Director Cliff Bole remarked that "A Matter of Perspective" was "one of the toughest shows I've ever shot from the standpoint of keeping continuity and having to shoot something three different ways." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 192) He further remembered, "It was a real challenge and, I thought, a very clever show. Keeping everybody aware was the big challenge in doing that show, because many people started getting confused. The tougher they are, the better I like them." (²Cliff Bole – Of Redemption & Unification", The Official Star Trek: The Next Generation Magazine issue 17, p. 31)
+A mission report for this episode, by Robert Greenberger, was published in The Official Star Trek: The Next Generation Magazine issue 13, pp. 10-13.
+This episode was due to be given a repeat airing on 25 June 1990, but because he believed that people voting in the technical categories of the Emmy Awards would be carefully watching on that date, Michael Piller suggested otherwise to Rick Berman (in a memo dated 18 April 1990). Piller commented, "I'd like to pull 'Perspective' out of the mix," and went on to propose that 25 June be instead reserved for the repeat of an episode he considered more likely to garner an Emmy – specifically, "Yesterday's Enterprise". However, in a reply memo (dated 8 May 1990), Berman implied that 25 June was essentially irrelevant to the voting of the Emmy Awards, as the "best" dates to focus on for episode airings were 30 June, 1 July, 7 July, and 8 July 1990. (The Making of Yesterday's Enterprise, pp. 91-93)
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 31, 6 December 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.5, 3 July 2000
+As part of the TNG Season 3 DVD collection
+As part of the TNG Season 3 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest stars ===
+Craig Richard Nelson as Krag
+Gina Hecht as Manua Apgar
+Mark Margolis as Nel Apgar
+Colm Meaney as Miles O'Brien
+
+
+=== Co-star ===
+Juli Donald as Tayna
+
+
+=== Uncredited co-stars ===
+Majel Barrett as USS Enterprise-D computer voice
+Michael Braveheart as Martinez
+Debbie Marsh as command division officer
+Tim McCormack as Bennett
+Parker McPhinney as art class model
+Keith Rayve as command division ensign
+Dan Sachoff as Williams
+Unknown performers as
+Female operations ensign
+Wright
+
+
+=== Stunt doubles ===
+Dan Koko as stunt double for Jonathan Frakes
+John Nowak as stunt double for Mark Margolis
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+2366; "a long face"; accused; alternative; angle; answer; antimatter containment tanks; area; arrival; art; assistant; authority; away team; blast; career; cargo bay 12; champagne; chance; charm; charge; chief investigator; clockwork; coincidence; color; complaint; computer; conclusion; confrontation; construction specification; conversation; course; court; cubist; custody; Dadaism; danger; data; death; debris; deception; delivery; demonstration; deposition; Deposition Program Riker One; design specification; dicosilium; discussion; door; duranium; Emila II; emission; energy; energy discharge; energy drain; energy pulse; energy signature; engine core; Engineering; environmental control; event; evidence; experiment; experimental data; explanation; explosion; extradition; facsimile; fact; Fauvism; fear; Federation; Federation regulations; Ferengi; fight; figure drawing class; fool; Galaxy class decks; geometric constructivism; grievance; ground computer; guest; guest quarters; guilt; hearing; hearsay evidence; hole; holodeck; holodeck programs; hologram; hour; husband; hypothesis; Hypothetical Krag One; idea; information; innocence; inquiry; interrogation; irrationality; jurisdiction; jurisprudence; juxtapose; kilometer; knowledge; Krieger waves; Krieger wave converter; La Forge One; Lambda field generator; leak; Léger, Fernand; main deflector; malfunction; margin of error; Manua Simulation One; megawatt; Milky Way Galaxy; mind; minute; mirror; mission; mistake; mister; month; morning; motive; Mrs.; Much Ado About Nothing; murder; murderer; muscle; navigational deflector; neck; night; noose; nudity; number one; opportunity; orbit; overload; palette; panel; patience; percent; permission; personal log; phaser; phenomenon; Picasso, Pablo; "point of view"; power drain; power source; "princess in a very high tower"; prisoner; privacy; problem; profit; proto-Vulcan; protostar cloud; quarters; question; radiation; rape; reactor core; recess; record; reflective coil; research; research station; reflective coil; report; representative; right; Romulans; room; sanctuary; schedule; science lab; science station; scientist; second; sector; sector containing Tanuga system; sensor; sickbay; simulation; social graces; space station; speculation; "stand by"; standing; Starfleet; Starfleet material supply command database; statement; "step by step"; story; student; success; surface; surrealist; suspicion; Tanuga IV; Tanuga IV research station; Tanuga system; Tanugan; Tanugan law; Tanugan security force; Tayna Simulation Three; Tayna Simulation Four; technical schematics; testimony; theory; thousand; threat; time code; time index; time interval; toast; trajectory; transportation; transporter accident; transporter beam; Transporter Room 3; transporter system; trial; tricorder; truth; update; voice analysis; warp core; weapon; wife; witness; work
+
+
+=== External links ===
+"A Matter of Perspective" at Memory Beta, the wiki for licensed Star Trek works
+"A Matter of Perspective" at Wikipedia
+"A Matter of Perspective" at MissionLogPodcast.com
+"A Matter of Perspective" script at Star Trek Minutiae
+"A Matter of Perspective" at the Internet Movie Database

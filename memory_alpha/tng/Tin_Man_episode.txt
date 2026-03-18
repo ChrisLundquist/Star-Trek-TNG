@@ -1,0 +1,266 @@
+The Enterprise races against Romulans to make first contact with a powerful entity code-named "Tin Man."
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 43779.3. The Enterprise is preparing detailed exospheric charts of the Hayashi system. Although tedious, this endeavour is the first step toward planet colonisation."
+As an initial step in the process surveying systems for Federation colonization, the USS Enterprise-D is on routine assignment preparing detailed exospheric charts of the Hayashi system, when the USS Hood is detected by Lt. Commander Data on long-range sensors rapidly approaching on an intercept course – a rather odd appearance as they weren't expecting a rendezvous. Captain Robert DeSoto of the Hood, a long-time friend of Captain Picard, as well as Commander Riker's former captain, hails the Enterprise on a secure channel. Both captains engage in small talk with DeSoto pointing out while the "Galaxy-class boys" explore the unknown, he just "hauls" himself back and forth between starbases, but not today. He informs them that Starfleet has new orders and they require the best ship and crew, which is the Enterprise. However, these new orders are time-sensitive, because of security concerns of Romulan subspace surveillance, the orders are being conveyed to the Enterprise via mission specialist Tam Elbrun.
+
+The fact that this new mission is being spearheaded by Tam Elbrun causes concern among many of the command personnel of the Enterprise, particularly Commander Riker due to Tam Elbrun's involvement in the Ghorusda Disaster, which had cost the lives of forty-seven Starfleet personnel, among them Captain Darson of the USS Adelphi and two of Riker's Academy classmates. Many people, including Riker, place the blame squarely on Tam Elbrun for this tragedy.
+Counselor Deanna Troi asks the captain if she may come with him and Data to greet Tam in a transporter room and discloses that she had previously known Tam Elbrun as a patient at the university on Betazed where she was studying psychology. This concerns Picard greatly.
+
+
+=== Act One ===
+
+Picard is informed by Troi that Tam is considered a gifted telepath, even by Betazoid standards, and is a specialist for Starfleet in first contact situations. Data and Captain Picard greet Tam in the transporter room, where he is beamed over from the Hood by transporter chief Miles O'Brien. Though Picard extends common courtesy in welcoming Tam to the Enterprise, Tam appears almost brusque and aloof towards him and casually attempts to forestall what Tam considers uncomfortable extended interaction with others by tossing his orders and mission details to Picard on an isolinear data chip. Tam's attitude change is noticeably visible as he turns to greet Troi, with whom he has a more friendly and more comfortable relationship. He is, however, startled when Data interjects his welcome, questioning who or what Data is. Data explains that he's an android. Tam is interested, since he cannot "read" Data's presence at all via his telepathic senses; it's as if Data's not actually there in the room with them.
+Tam launches into a quick recitation to Data of Picard's wishes and orders for Data by reading Picard's thoughts and cutting off Picard's spoken orders. It is not known whether this is once again to simply expedite his being around Human members of the Enterprise's crew, a demonstration to Picard of his own prowess as a telepath, or a combination of the two. It does, however, noticeably annoy Picard, possibly because Tam read his thoughts before he had fully formed them. Picard is annoyed and shocked as he confirms what Tam had already stated to both Data and via his combadge to Riker on the bridge - that the course heading and basic mission orders are being brought to the bridge, and that a staff bridge briefing would occur within fifteen minutes. Tam expresses his desire to quickly complete the briefing so he can seclude himself as soon as possible until he is needed further.
+
+As the bridge crew assembles, first to review the orders on the supplied chip and then for the staff briefing on the new mission, Riker tells Lieutenant Commander Geordi La Forge in the turbolift more background on the Ghorusda Disaster than what La Forge knew from common knowledge and how Tam Elbrun, while not officially found to be responsible by a Starfleet board of inquiry, should have been more competent and aware in order to prevent such an incident.
+The new mission orders are that the Enterprise is to proceed at high warp to the Beta Stromgren star system, following the path of the Vega Nine probe, which has traveled twenty-three parsecs beyond the farthest manned Federation exploration. In the staff meeting in the Enterprise's observation lounge, Data conveys that the probe has discovered that the star in that system is in the final stages of an alternating cycle of expansion and collapse, which will soon result in the star going supernova. Tam interrupts Data out of frustration with Data's focus on tertiary background information and leaps ahead, explaining that the real focus of the mission is centered on the discovery by the probe of what appears to be a "living" starship possessing an unknown energy source, found to be in orbit around the star. This object has been code-named "Tin Man" by Starfleet.
+
+Troi is confused as to why Starfleet has made the mission so urgent, and Picard informs her that the issue is the Romulans, at which Tam expresses frustration with himself at forgetting to address this in giving the overview of the mission. After failed attempts at long-range subspace linguacode messages, Starfleet has ordered the Enterprise to set course for Beta Stromgren as quickly as possible, as that sector of space is claimed by the Romulan Star Empire. As the Romulans routinely monitor the telemetry of all Federation deep-space probes, Starbase 123 has detected that the Romulans have dispatched two D'deridex-class Warbirds in an attempt to reach "Tin Man" before the Federation. While these Warbirds are somewhat slower than the Galaxy-class starships, it is essentially a race to get to "Tin Man" ahead of the Romulans. As Data holds an honors degree from Starfleet in exobiology and is considered by the command staff as the on-board expert in the field, Picard then orders Data to head-up the life sciences team for the mission.
+
+After the meeting is adjourned, Picard and Riker talk further with Tam, with Picard expressing his concern about Tam's initial omission during the briefing about the Romulans, since the possibility of an encounter with them during the mission was vital information that Tam did not properly prioritize within the parameters of the mission. Tam apologizes for not mentioning it earlier in the briefing, stating that he was distracted. Riker is perturbed by this seeming pattern of carelessness in Tam's professionalism, and Tam picks up his thoughts and angrily counters Riker by stating, "And no, Billy-boy, I wasn't distracted on Ghorusda. If Darson had listened to me, no one would have died!" Apparently, this does little to change Riker's opinion of Tam's history, and in fact, in the next breath, Tam confirms that Riker doesn't believe what he's saying. Tam storms out, while Picard, Riker, and Data watch silently.
+
+
+=== Act Two ===
+"Captain's log, supplemental. Travelling at high warp, we are still several days from rendezvous with the mysterious entity which Starfleet has christened "Tin Man". My immediate concern is with Tam Elbrun. Starfleet considers his unique abilities crucial to our mission, yet he seems to me unstable."
+Still two days out from the Beta Stromgren system, Picard confers with Doctor Beverly Crusher and Troi in Crusher's office in sickbay because of his concerns about the stability of Tam, whom Starfleet considers crucial to the mission and upon whom Picard is forced to rely. Picard is surprised when informed by Crusher how high on the ESP scale Tam is and how he is considered to be a prodigy when it comes to telepathic abilities. Troi explains that this is due to Tam being born telepathic, which is very uncommon in Betazoids, who usually develop their telepathic abilities while in adolescence. Such Betazoids rarely, if ever, lead normal lives, as the "noise" of hearing so many other people's thoughts during early development is often overwhelming, even incomprehensible. Early diagnosis and special training helped Tam to adjust, though this has led to an occasional need for hospitalization and therapy to deal with the stress, hence her contact with him at the university while studying psychology. As a result of his background, this has prompted Tam to seek assignments where he is more isolated from other humanoids and pursue the more unusual lifeform assignments.
+
+As the Enterprise races towards its destination, acting Ensign Wesley Crusher notices that the navigational sensors are picking up an anomalous "echo" which matches their speed and course. Lieutenant Worf confirms this reading from the tactical station that something does appear to be shadowing their flight path, yet doesn't fully register on their sensors.
+Data, who has the bridge, surmises that since there is no known naturally-occurring phenomenon that travels faster than warp one, it must either be a sensor malfunction or another vessel is indeed following them covertly. Worf declares that it is not a sensor malfunction, yet Crusher is confused with the easiest explanation that a cloaked Romulan vessel is following them, since if it were a cloaked warbird, they should not be picking it up at all. La Forge speculates that if they are pulling an extreme amount of power for some other system, they may not be able to fully cloak, thus being picked up faintly on the navigation sensors. Worf is ordered by Data to continue monitoring the "echo", and if it changes course or behavior, to take the Enterprise immediately to yellow alert.
+Troi goes to Tam's quarters to check on him since he has not been out of his stateroom for quite some time. Tam at first is sarcastic and curt with Troi but finally lets down his emotional defenses and confides in Troi that the reason for his sequestering himself in his stateroom is because the number of people on the ship scares him. His inability to block out their thoughts and feelings threatens to overwhelm him, and he never really could shut it all out.
+Compounding Tam's own doubts about his reliability are Riker's and Picard's, stemming from the Ghorusda incident, which Tam is all too well aware of. Troi presses him on what happened to him during the incident. Tam admits that he may have gotten "too close" to the Ghorusdans, which was not a unique thing to happen for him, and that it may have affected the professional detachment that is often needed in such missions. He confesses that he probably could have warned Darson more forcefully and maybe avoided the disaster that resulted.
+Troi puts forward the suggestion that he "ran away" because of the Ghorusda incident by seeking out isolated assignments, such as being the only Federation delegate to be posted to Chandra V, giving him some measure of respite, and where Tam was up until his seeking out the assignment for making contact with "Tin Man". The Chandrans are a very peaceful and tranquil people, unlike Humans, and this had been a relief for Tam, and one reason why Tam tells Troi that he likes being around Data is since he is not being constantly bombarded by Data's thoughts. This perplexes Troi, since if the Chandrans proved some measure of relief for Tam, why would he volunteer to put himself into such an uncomfortable situation where he would be on board a vessel with over a thousand minds, which would be quite uncomfortable for him?
+Tam expresses that he couldn't help but volunteer, since he found "Tin Man" so compelling, so alien. That such a creature, intelligent, born in space, "swimming" in it as freely as a fish does in water, so mysterious, ancient, alone, and lonely. The depth and certitude of what Tam says about "Tin Man", even what emotions it is feeling, prompts Troi to confront Tam about whether he is in contact with "Tin Man" telepathically since he seems to know things that no deep-space sensor telemetry could possibly convey. Reflexively, Tam denies this but then acknowledges that he does have a connection with the creature, but not on a conscious level. This news is shocking to Troi, since such a connection light years away is impossible, even for a telepath as gifted as Tam is, to which Tam replies, "but maybe not impossible for 'Tin Man'."
+
+The Enterprise finally arrives at the outer edge of the Beta Stromgren system and are at an ETA of 18 minutes until reaching "Tin Man's" location in orbit of the star, but Riker informs Picard that the astrophysics section has reported that the star's collapse has accelerated and that the star could go supernova in minutes. They are also now getting a live data-relay from the Vega Nine probe, facilitating close-proximity visual surveillance of "Tin Man".
+As Tam and Troi arrive on the bridge, Worf informs Picard that sensors are now detecting a subspace wave front of highly ionized particles ahead of the "echo" that has been following them for some time. Picard immediately takes the ship to yellow alert as a Romulan Warbird becomes visible as it quickly enters the system.
+
+
+=== Act Three ===
+As the Romulan warbird approaches, it is detected arming its disruptors. Picard orders a red alert and to bring the shields to maximum. Riker orders the photon torpedo tubes to be loaded and Worf, as tactical officer to stand-by. Riker then wants an explanation as to how a D'deridex-class Warbird, which is supposed to be slower than the Enterprise could have arrived at almost the same time as they did. Picard interrupts the query and orders that the Romulans be hailed, but Tam assures Picard that the Romulans are not interested in talking to Picard. At that moment, the Romulans fire on the Enterprise, while passing by her towards Tin Man. The attack results in some casualties and disables 70% of the shields. Tam pointedly states that the Romulan attack was incidental and was employed simply to delay the Enterprise so they could reach "Tin Man" first. This assessment is supported by Data's analysis of readings taken of the Romulan vessel as it passed, which showed that they had exceeded their ship's warp output capacity by 30% in the effort to beat the Enterprise to "Tin Man", causing irreparable damage to their warp coils. Riker notes that in doing so, the ship sacrificed its ability to return to Romulan space – a one-way trip. Tam confirms Data's hypothesis by stating that a second Romulan ship is two days behind the one that just attacked the Enterprise and that their mission is indeed to reach "Tin Man" first at any cost. Picard is amazed that Tam could possibly know this; Tam explains that he got it from the mind of the Romulan commander as the vessel passed the Enterprise.
+
+Picard orders Wesley Crusher to put the ship at all stop, while La Forge tries to effect repairs to the shields. He attempts to do this by reconfiguring the structural integrity field power supply and re-routing it to feed the deflector grid, having overridden the computer safety protocols by voice command authorization in order to do so as this would compromise standard safety limits. He further notifies Ensign Russell that he will have to watch the grid's lateral balance manually. He then calls Picard to tell him he should have partial shields restored within 30 minutes, to which Picard informs an exasperated La Forge he has only 10 minutes to do so.
+While the Enterprise awaits repairs, Picard begrudgingly cedes the "honor" of first contact to the Romulans, which greatly upsets Tam, who worries that the Romulans may be able to win over "Tin Man". Picard assures him that the likelihood of that occurring is remote and orders that life sciences and engineering continue to monitor "Tin Man" and to query the Vega Nine probe via long-range sensors.
+
+As the crew waits for repairs to be completed, Data continues to monitor "Tin Man" from a workstation he has set up in his own quarters and is accompanied by Tam who questions Data about this. Data informs him that he often works from his quarters, as he has configured the workstation to display information more efficiently and quickly than workstations configured for other crew members. Tam explores Data's quarters, noting that it is looking rather "Spartan" and doesn't afford much room "to live", but then speculates aloud that he guesses Data doesn't sleep. Data confirms this by stating that while he has tried it from time to time, he does not require it. Tam also appears intrigued that Data has taken up painting as a hobby.
+Data, redirecting the conversation back to the task at hand of monitoring "Tin Man", confirms that "Tin Man" has an internal layout similar to a space vessel, with interior corridors and chambers, and that it is maintaining an internal environment suitable for carbon-based lifeforms, even though there is no evidence of a crew aboard. Data then speculates that the lifeform was bred or has adapted itself to serve a purpose and finds that "interesting".
+This prompts Tam to pose a philosophical question to Data as to why that is interesting: why must living beings have a purpose, or do they exist for no reason but to exist? Data states that he does not think he is qualified to answer such a question. Tam disagrees since he sees Data as uniquely qualified since he studies Humanity a great deal and is a meticulous and honest researcher. This leads Data to question Tam's earlier statement that he could not read Data's mind. Tam assures him that he cannot, but that he does feel he understands Data pretty well. Tam then asks Data if it bothers him that he could not read Data's mind. Data replies that perhaps there is nothing there to read other than mechanisms and algorithmic responses. Tam acknowledges that possibility, then counters with the idea that it is perhaps just that Data is different, and that there is no sin found in being different.
+
+Data and Tam return to the bridge as the Enterprise is back underway, where Data informs the captain that they are picking up the Romulan equivalent of linguacode transmissions being directed towards "Tin Man". Tam scoffs at the idea that the Romulans would have anything in common with Tin Man. Riker counters by asking Tam why he thinks Tin Man would want to talk to him.
+Just then, Data picks up sensor readings indicating that the Romulans are beginning to power up their disruptors. Picard orders the ship back onto yellow alert and to prepare for evasive action should the Romulans change course, as the ship is still vulnerable with only partial shields. Tam frantically interjects that the Enterprise is not the target, but that "Tin Man" is. He informs Picard that the Romulans have orders to destroy "Tin Man" if they can't secure the alien. Picard orders the speed increased and to hail the Romulans. Tam yells that the Romulans will not listen to him and concentrates mentally on the message:
+
+"Danger. Gomtuu. Do not allow."
+This causes a dramatic response from the alien object. It performs a clockwise rotation, suddenly discharging a massive energy wave that spreads throughout the star system, destroying the Romulan Warbird and striking the Enterprise causing a partial failure in the ship's main computer. This sudden and deadly turn of events makes obvious to Picard that Tam Elbrun has indeed made contact with and awakened his "Tin Man".
+
+
+=== Act Four ===
+The crew begins to effect repairs, with La Forge having to take the warp drive off-line in order to re-calibrate its regulators and begin to bring the main computers back online. Riker has him make the first priority getting the shields to function, since there is still a threat of a Romulan attack.
+As Tam is checked out in sickbay by Dr. Crusher after what appeared to be a seizure on the bridge following his frantic contact with "Tin Man", Picard presses him to be more forthcoming and explain exactly what level of contact Tam has had with "Tin Man". Tam explains that he only sent out a mental warning but that he had been in contact on an emotional level with "Tin Man", which calls itself Gomtuu. He then relays that Gomtuu is of an ancient species, most likely from beyond the galaxy, and that there were once millions of them, but now it is alone and perhaps the last of its species.
+
+Picard suggests that Tam attempt to ask Gomtuu to return to Federation space or at least move away from the Beta Stromgren star. Tam explains that Gomtuu knows the star is about to go supernova, and that is why it is in the system, in order to commit suicide. Long ago, there was some sort of explosion in space near Gomtuu, which emitted high levels of radiation that penetrated its outer layers and killed the crew that inhabited Gomtuu.
+As Tam relates what he senses of Gomtuu's history, he begins to be overwhelmed by the sense of loss and anguish which Gomtuu feels. Troi cautions Tam again about losing himself in his emotional connection to Gomtuu. Tam states that he can't do anything more to avert Gomtuu's suicide without physical contact and that he needs to be aboard it. Picard states that he would not risk such an action given Tam's inability to keep perspective, as evidenced by Tam's lack of regard for the Enterprise or her crew when he rashly warned Gomtuu about the Romulans. Tam notes to Picard that while he is right in having misgivings about him, the only way for them to not fail in their mission is for Picard to trust him.
+
+La Forge attempts swapping out the main sensory array control circuits with the secondary system ones to gain a minimum beam scan with the ship's sensors. This works and restores partial long-range sensors, where they pick up the second Romulan Warbird approaching the system. This underscores the need to regain shield function, even though it will not protect the ship should the star eventually go nova.
+Picard asks Troi and Data their views about Tam, as Data has developed an affinity with him and Troi has known him for years. Troi again expresses the precariousness of Tam's emotional stability, though both Data and Troi agree that Tam's motives are genuine and not in question. Data suggests that he could act as an oversight guide for Tam if he were to accompany him in beaming over to Gomtuu.
+
+The Romulan Warbird finally arrives in the system and decloaks next to the Enterprise. The Enterprise hails the Warbird in an attempt to parley, and the Warbird commander declares it has the right to retaliate against Gomtuu for the destruction of the first Warbird and warns the Enterprise that they will be destroyed if they intervene as well.
+
+
+=== Act Five ===
+"Captain's log, supplemental. A confrontation between the Romulan Warbird and "Tin Man" is imminent. I have no alternative but to rely on the telepathic abilities of Tam Elbrun."
+Tam and Data are allowed to beam over to Gomtuu. Direct and full contact between Tam and Gomtuu is established almost as soon as they arrive, and Tam is overcome with a flood of thoughts from Gomtuu. Data sees Tam's distress and begins to call for an emergency beam-out, but Tam has him call it off, explaining that Gomtuu was trying to relay an entire lifetime's worth of information in a few seconds but has slowed down to where Tam could cope with it.
+
+Gomtuu brings up a power shield of unknown type, which breaks the Enterprise's transporter lock and reflects back any attempts at sensor scans. The warbird begins to move towards Gomtuu, with the Enterprise following her in. Picard brings the ship to red alert once more and orders Worf to arm photon torpedoes in preparation for battle. Tam and Data begin to explore the interior of Gomtuu, which exhibits the ability to change its interior structures and extrude itself into various shapes and forms. Data reads a larger chamber twenty meters ahead of the corridor they are walking through, and Tam states he now knows all about Gomtuu, including the existence of the chamber ahead. They arrive at an area in the corridor that opens up and reveals the chamber, which Tam explains was once the control area of the vessel from which the crew guided their journeys. Tam explains that the ship and crew existed in a symbiotic relationship, and that once the crew was killed, Gomtuu no longer had a reason to exist. Data says, "Is that the purpose of existence? To care for someone?" Tam says it is for him – and that Troi was correct, that he could easily "lose himself" here. Data reminds him that their objective was to bring Gomtuu out of danger and report their findings to Starfleet, to which Tam confesses that he has no intention of returning to the Enterprise.
+During this time, the Romulan commander hails the Enterprise again and once more threatens to open fire if they interfere. Picard informs him that they intend to do everything in their power to defend the space creature and cuts off communications as the Enterprise readies to attack the warbird with its now partially functioning shields. Just as this happens, sensor readings indicate that the star has begun an irreversible reduction in diameter and is beginning its final collapse into a supernova.
+On board Gomtuu, Tam implores Data to explain to the Enterprise crew why he has chosen not to return, that he will carry out the main mission objective in saving Gomtuu from destruction by bonding with the creature; in doing so, Gomtuu in essence will also save Tam. Tam has taken the place of the long-lost crew for "Tin Man"; it now has a reason to live again. Meanwhile, Tam is no longer inundated by the thoughts of others. Now hearing only Gomtuu, Tam at long last has found the mental peace-of-mind long denied him due to his hypersensitive telepathic abilities; he says to Data, "This is where I belong."
+
+Gomtuu once again emits a powerful energy wave, this time throwing both the Enterprise and the Romulan warbird (more gently this time) out of the Beta Stromgren system. By the time the Enterprise comes to a full stop, it is close to 3.8 billion kilometers from where they previously were. Moments later, the Beta Stromgren star finally collapses into a supernova.  As the star explodes, the crew is gravely concerned that Data, Tam and Gomtuu are lost, but at that moment, Data reappears on the bridge (courtesy of Gomtuu) and Picard asked what happened over there, and Data says it's "difficult to explain." Troi then asks about Tam, and Data says he believes that Tam found what he was looking for.
+"Captain's log, supplemental. With all main systems at least temporarily restored, we are proceeding to Starbase 152 for inspection and additional repairs. We have had no further encounter with the Romulans. As for the whereabouts of "Tin Man" and Tam Elbrun, we can only speculate."
+
+The Enterprise sets course for Starbase 152 in order to effect full repairs and undergo a systems inspection, with Gomtuu's (and Tam's) whereabouts now unknown. Data, alone in the observation lounge looking out at the stars in the room's viewports, is joined by Troi at his request. Data states that it was Tam's final request that Data explain to the crew his decision to remain with "Tin Man" and that he hoped that Troi would understand. Troi asks what happened, and Data explains that he was witness to something "remarkable." Both Tam and Gomtuu were individually wounded and isolated, but with their joining, they had both been healed. Their grief transmuted into joy, loneliness into belonging. Troi expresses surprise that Data truly does understand. Data affirms that he does, and that when Gomtuu transported him back onto the Enterprise, Data realized that that is where he himself belonged. Troi embraces Data from behind as they both look out together through the lounge's windows at the stars.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+
+
+== Memorable quotes ==
+"Hey Will. Will, you getting soft on board that luxury liner?"
+
+- Robert DeSoto, speaking to his former first officer on the Hood
+
+"So, old friend, how are you?"
+"Ah, well… you know they send you Galaxy-class boys out here to the far reaches. Me, I just haul my butt between starbases."
+
+- Picard and DeSoto
+
+"Captain, may I come with you to greet Tam?"
+"You know him?"
+"I do. He was at the university on Betazed when I was studying psychology there."
+"Oh, I see. He was a colleague of yours?"
+"No… he was a patient."
+
+- Troi and Picard
+
+"The Romulans wish the honor of first contact? Let them have it."
+"You're out of your mind, Picard!"
+
+- Picard and Tam Elbrun regarding Gomtuu
+
+"It seems you woke… your "Tin Man"."
+
+- Picard, to Elbrun after he tells Gomtuu telepathically to destroy the Romulan vessel to save itself
+
+"Geordi, are we gonna have those shields any time soon?"
+"I'm doing the best I can, but shields won't help if that star explodes."
+
+- Riker and La Forge on the imminent destruction of the Beta Stromgren star
+
+"Enterprise, your presence here is a violation of Romulan space. You will leave immediately."
+"We are not familiar with the terms of your claim in this sector. We're here engaged in scientific research. Do you wish to participate?"
+"We have monitored the destruction of our sister ship by the star creature. We claim right of vengeance. We will destroy the alien. If you interfere, we will destroy you as well."
+
+- Romulan Commander and Picard
+
+"Is that the purpose of existence? To care for someone?"
+"It is for me."
+
+- Data and Elbrun
+
+"Captain Picard, if you interfere with us, we will fire upon you as well!"
+"Commander, we are prepared to defend the life of the alien. Screen off. Shields up."
+
+- Romulan Commander and Picard
+
+"I must remind you that our objective is to bring Tin Man out of danger and report our findings to Starfleet."
+"I'm not going back, Data. I'm staying here."
+
+- Data and Elbrun
+
+"Through joining, they have been healed. Grief has been transmuted to joy. Loneliness to belonging."
+
+- Data, to Troi on Tam Elbrun joining with Gomtuu
+
+
+== Background information ==
+
+
+=== Production history ===
+Writers' spec script: 10 September 1989
+Spec script received by Paramount: 29 September 1989
+Memo from Merri Howard, conveying notice of upcoming preproduction meeting: 29 January 1990
+Preproduction meeting: 30 January 1990
+Final draft script: 31 January 1990 [1]
+One page of technical notes by David Krieger: 5 February 1990
+Premiere airdate: 23 April 1990
+First UK airdate: 18 March 1992
+
+
+=== Story and script ===
+Writers Dennis Putman Bailey, David Bischoff, and Lisa Putman White based this episode on a short story titled "Tin Woodman" that Bailey and Bischoff wrote in 1976. It was first published in the December 1976 issue of Amazing Stories and served as the basis of a novel of the same name published by Doubleday in 1979. The original story was nominated for a Nebula Award in 1977. (Star Trek: The Next Generation Companion, 2nd ed., p. 123)
+On the back cover of the 1982 re-print of Tin Woodman (five years before Star Trek: The Next Generation was produced), Publisher's Weekly describes the novel as "…a mixture of Moby Dick, The Caine Mutiny, and Star Trek… a good adventure story." [2]
+According to Bailey, the trio were inspired to write a script for the series after watching "Samaritan Snare", which he considered "the most abysmal piece of Star Trek ever filmed." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 180)
+Writer Lisa Wilke worked on this episode in an uncredited capacity. (The Fifty-Year Mission: The Next 25 Years, p. 24) Bailey noted that only two of the three were given credit on the script because the rules at the time would not allow three people to be paid as a writing team. As such, he used Lisa Putnam White's middle name as his middle name. [3]
+A line from the script suggested that Captains Picard and DeSoto had previously served together as lieutenants. [4]
+
+
+=== Production ===
+
+The ambient sounds that Gomtuu made were derived from sounds recorded from sound effects editor Jim Wolvington's stomach through a stethoscope while he was eating pizza. (Star Trek: The Next Generation Companion, 2nd ed., p. 123)
+The growing chair was created by reversing a time-lapse film of a wax chair melting. (Star Trek: The Next Generation Companion, 2nd ed., p. 123)
+Hayashi is the Japanese word for "forest".
+
+
+=== Music ===
+This episode was the first to have its music composed by Jay Chattaway who was called in as a guest composer. Wendy Neuss and Peter Lauritson had a three-hour spotting session with Chattaway and recalled his whale sounds from his work on the 1988 action film Red Scorpion. Chattaway recalls, "As a result of composing music for Jacques Costeau over the last five years, I have an amazing library of sounds, which we digitally sampled and used in "Tin Man". We also used an Electronic Valve Instrument (EVI) to create those ancient flute sounds. I think we used two players for the electronics. Peter Levin was our whale specialist on "Tin Man". I use synthesizers to do certain things that an orchestra can't. The organic sound for the Tin Man was done by two synths, both playing Australian 'didjeri-doo' loops." (The Official Star Trek: The Next Generation Magazine issue 18, p. 34)
+
+
+=== Continuity ===
+Gomtuu's attack special effects is a reuse of V'Ger's "evolution" in the ending part of Star Trek: The Motion Picture. It has been edited to fit the scene in this episode.
+This episode is the first one to mention the name of the D'deridex-class Romulan Warbird.
+
+
+=== Reception ===
+Director Robert Scheerer commented, "I was disappointed with 'Tin Man.' It was an interesting show, but I don't think that I pulled off the sense sufficiently of the living ship. God knows I tried. We struggled and struggled with it, but we ended up a little bit insufficiently fulfilled – I thought. An interesting show, but I don't think I did my best work in that show." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 5)
+A mission report for this episode by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 13, pp. 63-66.
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Achievement in Special Visual Effects.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 34, 20 January 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.7, 4 September 2000
+As part of the TNG Season 3 DVD collection
+As part of the TNG Season 3 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest stars ===
+Michael Cavanaugh as Robert DeSoto
+Peter Vogt as Romulan Commander
+Colm Meaney as Miles O'Brien
+And
+Harry Groener as Tam Elbrun
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as the Enterprise-D computer voice
+Karin Baxter as an operations division ensign
+James G. Becker as Youngblood
+Debbie David as Russell
+Mark Lentry as a sciences division officer
+Debbie Marsh as a command division officer
+Tim McCormack as Bennett
+John Rice as a sciences division officer
+Joseph Michael Roth as an operations division officer
+Richard Sarstedt as a command division officer
+Guy Vardaman as Darien Wallace
+Unknown performers as
+Sciences division officer
+Female command division officer
+Female command division officer
+Female engineer
+Female operations division officer
+
+
+=== Stand-ins ===
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton / hand double for Harry Groener
+
+
+=== References ===
+14th century; 47; "a little"; "a lot"; adolescence; Adelphi, USS; Adelphi crew members (Riker's two classmates); admiral; algorithm; alien; "all right"; "all stop"; "all that"; alternative; anatomy; android (Soong-type android); assignment; astrophysics section; "at all"; "at least"; "at this point"; attack; authorization code; "back and forth"; behavior; belonging; "best of luck"; Beta Stromgren; Beta Stromgren system; Betazed; Betazoid; blood pressure; Board of inquiry; Borg; brain activity; bridge staff; butt; captain; carbon-based lifeform; carelessness; casualty; chamber; chance; Chandra V; Chandrans; child; chip; choice; circuit; claim; cloaking device; colleague; "come in"; commander; communication; computer; confrontation; control center; corridor; counselor; creature; crew; cruiser; cybernetic organism; cycle; D'deridex-class (unnamed, unnamed); damage; damage report; danger; Darson; day; deep space probe; deflector grid; delegate; destination; destruction; diagnosis; diameter; discovery; dissection; distance; doctor; doubt; drowning; eavesdropping; echo; efficiency; EM scan; "en route"; energy source; ensign; Enterprise-D, USS; entity; environment; ESP (extrasensory perception); ESP scale; ETA; evasive action; evidence; existence; exobiology; exploration; explosion; exposure; failure; fear; Federation; Federation space; feeling; first contact; fish; fleet; force field; friend; fugue; Galaxy-class; Ghorusda; Ghorusda Disaster; Ghorusdans; glucose; "go ahead"; Gomtuu; grief; hailing frequency; hate; Hayashi system; heading; "hello"; high warp; honor; honor student; Hood, USS; hostility; Humanity; humanoid; hybrid; "I don't know"; "I see"; impression; impulse power; "in common"; "in fact"; "in the land of the living"; information; inspection; instinct; intelligence; intention; intercept course; intermediary; intermix regulator; journey; joy; judgment; "keeps you on your toes"; kilometer; Klingon; level two diagnostic; lieutenant; lieutenant commander; life sciences; lifeform; light year; linguacode; listening; long range sensor; long range space probe; loneliness; love; luxury liner; main computer; main disruptor; main system; malice; mechanism; medical record; meter; Milky Way Galaxy; million; mind; minute; mission; mission briefing; mission order admiral; mission specialist; mistake; mister; mood; motive; name;  navigational sensor; "no doubt about it"; noise; obligation; object; "of course"; offline; "on course"; opinion; opportunity; order; "out of the question"; "out of your mind"; override; pain; painting; panel; parsec; passenger; peace; percent; personnel file; phaser; phenomenon; photon torpedoes; place; "point of view"; port array; power; power level; Prime Directive; Priority one; problem; prodigy; psyche profile; psychology; quarters; radiation; rate of collapse; reason; red alert; region; rendezvous; repairs; researcher; retro sensor element 32; Right of Vengeance; ritual; Romulan; Romulan commander; Romulan space; scientific research; scientist; sea; secondary array; Sector 25434; secure channel; seizure; sensor; sensor assembly; sensor data; sensor malfunction; sensor range; shield; sister ship; space; specialist; speed; shields; sin; special training; species; "stand by"; star; starbase; Starbase 123; Starbase 152; Starfleet; Starfleet Academy; Starfleet Command; starship; station; status; status report; stress; structural integrity power; structural integrity power supply; structural integrity field; student; subspace; subspace wave; subspace wavefront; supernova; symbiosis; taboo; talent; target; target lock; technical schematic; technology; telemetry; telepathy; telepathic ability; thousand; thought; tide; time; "to hell with"; top priority; top speed; transmission; transmissions analyst; transporter lock; transporter room six; trust; turbolift one; universal translation; universe; University of Betazed; Vega Nine probe; "very well"; violation; voice; warbird; warp coil; warp engine; wavefront; weapon system; work; year; yellow alert
+
+
+=== External links ===
+"Tin Man" at Memory Beta, the wiki for licensed Star Trek works
+"Tin Man" at Wikipedia
+"Tin Man" at MissionLogPodcast.com
+"Tin Man" script at Star Trek Minutiae
+"Tin Man" at the Internet Movie Database

@@ -1,0 +1,242 @@
+After Spock senses the destruction of the Vulcan-manned starship Intrepid, the Enterprise encounters an enormous single-celled organism that feeds on energy which threatens the galaxy as it prepares to reproduce.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, stardate 4307.1. Approaching Starbase 6 for a much needed period of rest and recreation. The crew has performed excellently, but is exhausted. And I, too, am looking forward to a nice period of rest on some lovely … planet."
+Headed for much-needed shore leave, the USS Enterprise gets a call from Starbase 6. Through massive subspace static, Lieutenant Uhura can only hear "Intrepid" and a sector coordinate. As she tries to reconnect, Spock suddenly appears stricken and informs Kirk and McCoy that the Intrepid – an all-Vulcan starship – has just "died" with all hands aboard.
+As Spock leaves for the sickbay with McCoy, Uhura gets through to Starbase 6. The Intrepid was investigating the Gamma 7A system in Sector 39J when communication with the system and the ship both ceased. The Enterprise is commanded to divert to the area. As they change course, Ensign Pavel Chekov conducts a full long range scan and reports that the Gamma 7A system is dead. Kirk notes that the system has billions of inhabitants, but Chekov states again that it is simply dead.
+
+
+=== Act One ===
+Diverted to investigate, the Enterprise encounters a "zone of darkness," an area of space so black not even starlight penetrates through. Spock says its location lies directly in the Intrepid's, as well as the Gamma 7A system's, projected path. The zone also appears to have a strong attractive force about it. Passive means of gathering information, such as sensors and probes, are ineffective as no data comes back from the zone, just a very loud noise, like feedback from a sound system. The sound nearly knocks everyone on the bridge out, such as Kyle, Uhura, and Chekov. Dr. McCoy reports to Kirk that half the crew members on the Enterprise fainted, but he and Nurse Chapel are treating them with stimulants.
+
+Kirk asks Spock for an analysis on the dark area ahead. Spock can provide none due to insufficient information, which irritates the captain. Spock comments that it is not liquid, gaseous, or solid, nor is it a nebula, and since the Enterprise's deflectors were activated by it, it must be some form of energy. Finally, Kirk decides to penetrate the zone. Once inside, the attractive force appears to grow stronger, pulling the Enterprise towards the center. In addition, energy is being drained from both the ship and the crew; McCoy orders stimulants to keep everybody going. Later, McCoy reports to Kirk that according to the medical monitors in sickbay, people are dying – they are all dying.
+
+
+=== Act Two ===
+"Captain's log, stardate 4308.8. It is now ten minutes since we entered the zone of darkness. We have stopped engines while we seek a defense against the energy drain which seems to pervade the zone."
+
+Kirk enters engineering where Montgomery Scott informs him that the Enterprise's power levels are down by twelve percent and steadily decreasing. On the bridge, Spock notes that the ship is being pulled toward the center of the zone of darkness by an unknown force. Scott and Spock find that normal laws of physics seem to be reversed within the zone. Reverse thrust, for example, creates forward motion. Forward thrust is ordered by Kirk, which slows (but does not stop) the forward motion. Later, McCoy announces at a meeting in the briefing room that as the Enterprise moves further into the zone of darkness, the weaker the crew's life signs become and he cannot determine why that is. Kirk has Scott channel all impulse and warp power into one giant thrust forward, so the Enterprise has a chance to escape the zone, and Scott plans to reserve power for the shields in case they do not. Spock disagrees, noting that if the ship does not escape the zone of darkness, the shields would be extraneous, and would do nothing but delay an inevitable death inside. Kirk agrees with that assessment and orders Scott use all power in the escape attempt.
+Kirk dismisses his crew, but Spock remains behind to discuss with Kirk that the crew of the Intrepid may have done all of these things they are planning on doing to escape their current predicament and yet they all died. Kirk disagrees, noting that Spock himself has commented on how illogical the whole situation is, thus the Intrepid's crew may not have undertaken the same course of action. Spock concedes to this point, but says the crew of the Intrepid did not know what was killing them, sensing earlier that he felt a "touch of death" from the crew. He also says the crew felt astonishment just prior to their deaths.
+Scott transfers the necessary power for the large scale thrust in the emergency manual monitor area of engineering. Kirk announces the plan to the whole crew via the intercom and to brace themselves. The attempt fails, however, and the best they can do is to maintain thrust against the pull. The Enterprise then penetrates deeper into the zone and the mystery is finally revealed at its center – an 11,000 mile long single-celled creature, which apparently radiates the zone as a protective covering. Spock announces that it is living.
+
+
+=== Act Three ===
+A quick analysis reveals that the creature feeds on energy, explaining the drain on machines and lifeforms, and it can reproduce, breathe, and eat like any other organism would. The entity must be destroyed in order to save the ship and crew, but more information is needed.
+A shuttlecraft is fitted with special instruments to take detailed readings from inside the creature itself. Both Spock and McCoy eagerly volunteer for the mission, despite the fact that it means almost certain death for the one selected. The confrontation between both men, each an expert in his own way, leaves Kirk with an agonizing choice.
+
+"Captain's personal log, stardate 4309.2. We have established that the thing which destroyed the USS Intrepid and the Gamma 7A system is an incredibly huge but simple cellular being whose energies are totally destructive to all known life. Both Mr. Spock and Dr. McCoy have volunteered to go in a specially equipped shuttlecraft to penetrate the cell, find a way to destroy it, and free the ship. Dr. McCoy has the medical, biological knowledge. Mr. Spock… is better-suited physically and emotionally to stand the stress. Both are right, both are capable… and which of my friends do I condemn to death?"
+
+Finally, he decides: "I'm sorry Mr. Spock; you're best qualified to go." Once inside, Spock sends back telemetry, but his power systems rapidly fade, and what power the shields have will nevertheless only last 47 minutes. His last transmission informs the crew that the forty chromosomes of the creature are lining up in an apparent first step toward dividing – the creature is preparing to reproduce and soon it will destroy the entire universe if not stopped. Spock radios back how to destroy the creature, but his transmissions are increasingly garbled and unintelligible.
+
+
+=== Act Four ===
+"Captain's log, stardate 4309.4. We have determined we can destroy the creature, provided we can do it from inside the organism. Spock clearly knew how to destroy it, but was unable to transmit that information."
+
+Fearing Spock to be dead, Kirk and McCoy reflect over what he was trying to say. Kirk makes the observation that when the creature divides, the Enterprise will be like an invading virus; McCoy is fascinated by the idea of being antibodies of their own galaxy. The analogy gives Kirk an idea – use a charge of antimatter in the chromosome body to destroy the entity. The ship goes into the creature itself, and a probe with the antimatter charge is implanted at point-blank range to prevent currents in the protoplasm from carrying it away from its target.
+
+"Personal log, Commander Spock, USS Enterprise. I have noted the passage of the Enterprise… on its way to whatever awaits it. If this record should survive me, I wish it known that I bequeath my highest commendation and testimonial to the captain, officers, and crew of the Enterprise… the finest starship in the fleet."
+(Log entry made by Captain James T. Kirk of the USS Enterprise) "We have arrived at the chromosome body… in the nucleus of the organism. If we should fail in our attempt to destroy it, or be unable to free ourselves, I wish to record my recommendations for the following personnel, that they receive special citation – Lieutenant Commander Leonard McCoy, Lieutenant Commander Montgomery Scott, officers Chekov, Kyle, Uhura, and my highest commendation for Commander Spock, science officer, who gave his life in the performance of his duty."
+Power levels are quickly dropping, however, and the ship backs out of the creature. As it does so, however, sensors pick up the shuttlecraft with Spock still alive. Despite the power drain (and Spock's protests), tractor beams are activated. Power levels read dead as the charge explodes, just before the Enterprise exits the creature. The explosion ruptures the creature's outer membrane and both the ship and shuttlecraft are thrown clear, with power levels restored. As Spock and McCoy argue over which tests were performed satisfactorily, the shuttlecraft is brought back aboard to the Enterprise's shuttlebay, and the ship resumes its course for the crew's well-earned shore leave.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701), 2268
+Captain's personal log, USS Enterprise (NCC-1701)
+Personal log, Spock
+
+
+== Memorable quotes ==
+"You find it easier to understand the death of one than the death of a million. You speak about the objective hardness of the Vulcan heart, yet how little room there seems to be in yours."
+
+- Spock to McCoy, on the deaths of the Intrepid crew
+
+""Insufficient data" is not sufficient, Mr. Spock. You're the science officer. You're supposed to have sufficient data all the time!"
+"I'm well aware of that, captain."
+
+- Kirk and Spock
+
+""Suffer the death of thy neighbor," eh, Spock? You wouldn't wish that on us, would you?"
+"It might have rendered your history a bit less bloody."
+
+- McCoy and Spock, on feeling empathy for the dead Intrepid crew
+
+"It was caused by the penetration of a boundary layer."
+"The boundary layer between what and what?"
+"Between where we were and where we are."
+"Are you trying to be funny, Mr. Spock?"
+"It would never occur to me, captain."
+
+- Kirk and Spock, after the Enterprise passes into another layer of the space amoeba
+
+"Vulcan dignity? How can I grant you what I don't understand?"
+"Then employ one of your own superstitions. Wish me luck."
+
+- McCoy and Spock, outside the hangar deck door
+
+"Good luck, Spock."
+
+- McCoy, to himself, after Spock boards the shuttlecraft
+
+"According to Spock's telemetry information, there are over forty chromosomes in the nucleus that are ready to come together, ready to reproduce.
+"If the energy of that organism only doubles, we're dead, and everything within a light year will be defenseless.
+"Well, all I know is, that soon there'll be two, four, eight, and more. The entire anti-life matter that that thing puts out could someday encompass the entire galaxy."
+
+- McCoy and Kirk, worrying for the galaxy and the space amoeba's reproduction
+
+"Here we are. Antibodies of our own galaxy, attacking an invading germ. It would be ironic indeed if that were our sole destiny, wouldn't it?"
+
+- McCoy to Kirk, on destroying the space amoeba
+
+"Shut up, Spock! We're rescuing you!"
+"Why, thank you… Captain McCoy."
+
+- McCoy and Spock, as the Enterprise locks tractor beams onto the shuttlecraft
+
+"The power levels are dead, sir."
+"You may have just written our epitaph, Mr. Scott…"
+
+- Scott and Kirk, before the warhead explodes
+
+"Spock, you're alive!"
+"Obviously, captain. And I have some fascinating data on the organism."
+"Don't be so smart, Spock! You botched the acetylcholine test!"
+
+- Kirk, Spock, and McCoy, before the shuttlecraft returns to the Enterprise
+
+
+== Background information ==
+
+
+=== Story and script ===
+Robert Sabaroff's outline on 14 August 1967 described the creature as a giant virus living in a "cell" that consists of our universe, and the illness affecting everyone was attributed to a reversal of the Enterprise's polarity, which did happen in "That Which Survives".
+The script ended simply with Kirk ordering the Enterprise to proceed to Starbase 6. The "tag bit" of Kirk looking at the aforementioned young woman and repeating his line from the teaser about hoping to "get some rest on a lovely planet" was improvised by Shatner and Pevney on the set. (These Are the Voyages: TOS Season Two)
+
+
+=== Cast and characters ===
+Although the name was cut from the final draft, the captain of the USS Intrepid was named Satak.
+
+
+=== Costumes ===
+John Winston wears a gold uniform for the only time in the series. This was done so that he would match the stock footage from the captain's chair viewpoint, showing Walter Koenig and William Blackburn's right shoulder. This was apparently arranged partway through filming, however, since in the teaser, John Winston can briefly be seen at the helm wearing his typical red uniform.
+This episode was the last time in which Kirk's green wraparound tunic was used. The last time viewers would see the shirt would be in "Bread and Circuses", since "The Immunity Syndrome" aired first.
+This is the sole episode in which McCoy wears only his medical tunic and not his regular uniform top.
+
+
+=== Special effects ===
+The space amoeba optical effects were created by Frank Van der Veer of Vanderveer Photo Effects. The amoeba itself was a mixture of liquids pressed between two thin sheets of glass. As the sheets were moved, the liquid would flow, as if the amoeba were pulsating. (Star Trek: The Original Series 365)
+
+
+=== Continuity ===
+This is the last time we see the interior of a shuttlecraft in the series. It is completely redesigned since its previous appearances, which can be explained by Kirk's line about sending in "a specially equipped shuttlecraft". The equipment included computer banks that were previously seen in the starbase operations room in "The Menagerie, Part I" and the Eminian war room in "A Taste of Armageddon".
+William Shatner consistently mispronounces Kyle's name as "Cowell".
+When recording his citations for the crew, Kirk refers to Dr. McCoy by his rank of lieutenant commander. This is the only time in the series McCoy's rank is referenced, although he wears the appropriate rank insignia (until TAS, in which he wears commander's stripes).
+This is the last episode directed by Joseph Pevney who – along with Marc Daniels – holds the record for helming the most number of episodes for the series.
+The young crew woman whom Kirk admires as he records his log at the end of this show appears to be the same extra who portrayed the other female Klingon seen in "Day of the Dove".
+The end credits of this episode include a make-up test shot of William Blackburn as the android from "Return to Tomorrow" wearing a brown velour zippered top. He discusses his experience in an interview on the remastered second season DVD collection of the series issued by Paramount and CBS Home Video.
+Spock explains in this episode that Vulcan was never conquered. However, in "The Conscience of the King" McCoy says "Now I know why they were conquered" in response to Spock's refusal to drink alcohol. This might be explained by Vulcan never having been conquered but one or more of their colonies having been annexed by another power at some point.
+The plot in which a starship and its crew are almost devoured by a space creature is repeated in the Star Trek: Voyager episodes "Bliss" and "The Cloud".
+
+
+=== Production timeline ===
+Story outline by Robert Sabaroff: 7 August 1967
+Revised story outline: 14 August 1967
+First draft teleplay: 8 September 1967
+Second draft teleplay: 9 October 1967
+Final draft teleplay by John Meredyth Lucas: 17 October 1967
+Additional page revisions: 20 October 1967, 23 October 1967, 24 October 1967
+
+Filmed: 25 October 1967 – 1 November 1967
+Day 1 – 25 October 1967, Wednesday – Desilu Stage 9: Int. Bridge
+Day 2 – 26 October 1967, Thursday – Desilu Stage 9: Int. Bridge
+Day 3 – 27 October 1967, Friday – Desilu Stage 9: Int. Bridge
+Day 4 – 30 October 1967, Monday – Desilu Stage 9: Int. Kirk's quarters, Briefing room, Engineering
+Day 5 – 31 October 1967, Tuesday – Desilu Stage 10: Int. Shuttlecraft; Desilu Stage 9: Int. Sickbay
+Day 6 – 1 November 1967, Wednesday – Desilu Stage 9: Int. Sickbay
+Original airdate: 19 January 1968
+Rerun airdate: 7 June 1968
+First UK airdate (on BBC1): 10 August 1970
+First UK airdate (on ITV): 2 January 1983
+Remastered airdate: 7 April 2007
+
+
+=== Remastered information ===
+
+The remastered version of "The Immunity Syndrome" aired in many North American markets during the weekend of 7 April 2007. Some of the effects shots were virtual recreations of the original footage (corrected to factor in the absence of light), while others were more dynamic and showed angles of the Enterprise never before seen. The space amoeba retained its original shape and colorful design, but featured a more realistic and three-dimensional nucleus. Shuttlecraft shots were new, with interior windows rotoscoped to feature brand new shots of the amoeba. For much of the episode, the CG Enterprise was depicted with impulse drive illuminated red, portraying the ship's struggle to remain in place. However, there is also a remastered mistake when Uhura asks Spock "Exactly what are we looking for Mr. Spock?", to which Spock replies with a console tap "I would assume, that." In the original episode the dark nebulous mass on the view screen doesn't appear until Spock draws attention to it. But in the remastered version, the dark mass appears before Spock's statement.
+
+
+=== Video and DVD releases ===
+Original US Betamax release: 1986
+UK VHS release (two-episode tapes, CIC Video): Volume 25, catalog number VHR 2360, 7 May 1990
+US VHS release: 15 April 1994
+UK re-release (three-episode tapes, CIC Video): Volume 2.7, 23 June 1997
+Original US DVD release (single-disc): Volume 24, 5 June 2001
+As part of the TOS Season 2 DVD collection
+
+
+=== Apocrypha ===
+A cat version of "The Immunity Syndrome" was featured in Jenny Parks' 2017 book Star Trek Cats.
+
+
+== Links and references ==
+
+
+=== Starring ===
+William Shatner as Captain Kirk
+
+
+=== Also starring ===
+Leonard Nimoy as Mr. Spock
+And
+DeForest Kelley as Dr. McCoy
+
+
+=== Co-starring ===
+James Doohan as Scott
+Nichelle Nichols as Uhura
+Walter Koenig as Chekov
+John Winston as Lt. Kyle
+And
+Majel Barrett as Christine Chapel
+
+
+=== Uncredited co-stars ===
+William Blackburn as Hadley
+John Blower as sciences lieutenant commander
+Frank da Vinci as Brent
+Steve Hershon as security guard
+Robert C. Johnson as Starbase 6 commander (voice)
+Jay Jones as sciences crewman
+Jeannie Malone as yeoman
+Eddie Paskey as Leslie
+Frieda Rentie as a Lieutenant
+Unknown performers as
+Command crew woman 1 and 2
+Command lieutenant
+Nurse 1 and Nurse 2
+Operations crew woman 1 and 2
+Sciences crew woman 1 and 2
+Security guard
+Yeoman 2
+
+
+=== Stunts ===
+Dick Dial
+
+
+=== References ===
+acceleration; acetylcholine test; "all hands"; amoeba; analysis; animal; answer; antibody; anti-life matter; antimatter; area of penetration; asexual reproduction; astonishment; audio; balloon; billion; biology; body; "Bones"; boundary layer; breathing; calculation; "carry on"; cell; central mass; chance; chemical process; chromosome (chromosome body); chromosome structure; Class F shuttlecraft; Coalsack Nebula; collective memory; collision; command pilot; commendation; communication channel; competition; computer; computer feed (data feed); conqueror; contact; corridor; course; creeping paralysis; current; damage control party; data; dark zone (area of darkness, dark area, zone of darkness, zone of energy); day; death; debris; deck; deflector shields; destiny; dignity; distance; dizziness; DNA code analyzer; eddy; eating; emergency; energy; energy drain (power drain); energy level; energy reserve (power reserve); enzyme recorder; epitaph; estimate; experience; explosion; fact; fainting; feet; fleet; friend; fuse; galactic nebula; Galileo; Gamma 7A sun; Gamma 7A system; Gamma 7A system inhabitants; gas; gelatinous layer; germ; gravimetric force; hangar deck; hangar door; heart; hole; hour; Human; Human body; Human history; hybrid; impulse power; impact; impulse power; information; inhabitant; intercom; interstellar dust cloud; Intrepid, USS; Intrepid crew; irony; irritable; irritation; job; kilometer; knowledge; laboratory; length; library computer; life (lifeform); life function indicator; life indicator; life monitor; life support system; light wavelength; light year; liquid; "live it down"; logic; long range scan; low-energy channel; magnetic bottle; magnetic storm; magnification; magnitude; malfunction; martyr; martyr complex; mass; mile; Milky Way Galaxy; million; mind; minute; mission; negative energy; neighbor; nervous energy; noise; nucleus; odds; order; organism; outer layer; outer protective membrane; pain; percent; permission; person; phaser; phaser bank; phenomenon; physical contact; point blank range; power; power level; probe; problem; programming; progress; protection; protective shield; protoplasm; R&R (rest and recreation); range; rate of decline; red alert; reflex; report; reproduce; rescue; rescue priority; research; reverse logic; reverse power; risk; rule; scanner; science officer; science specialist; Scots language; second; secondary power; secondary system; Sector 39J; sector coordinate; sensor; sharing; shield power; shuttlecraft; simple cellular being; solid; sound; space amoeba; speculation; "stand by"; star; Starbase 6; Starbase 6 planet; Starbase 6 sector; Starfleet; starship; static test; stimulant; straight line; stress; subspace message; suicide mission; sun; subject; superstition; telemetry; telemetry analysis; telemetry probe; telepathy; term; thing; thought; thousand; timing detonator; tractor beam; turbulence; unconditional priority; understanding; viewscreen (main viewing screen); virus; voice channel; voice contact; Vulcan (planet); Vulcan (species); warhead; warp power; waste; wavelength; width; wind tunnel
+
+
+==== Unreferenced materials ====
+ice; joy; lake
+
+
+=== External links ===
+"The Immunity Syndrome" at Memory Beta, the wiki for licensed Star Trek works
+"The Immunity Syndrome" at Wikipedia
+"The Immunity Syndrome" at MissionLogPodcast.com
+"The Immunity Syndrome" at the Internet Movie Database

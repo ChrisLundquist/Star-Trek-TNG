@@ -1,0 +1,310 @@
+Captain Janeway must carry out a top secret Starfleet directive regarding the most powerful and dangerous substance known to exist.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Aboard USS Voyager, Seven of Nine wakes up from her regeneration cycle and heads for the mess hall to meet Ensign Harry Kim. They have a scheduled maintenance inspection of the aft sensor array. She finds Kim playing kal-toh with Tuvok. Kim asks her to wait a few minutes, convinced he is about to defeat the Vulcan. Seven does not appreciate this waste of time and tells Kim that games can wait until after their work is completed. She takes the piece he is about to place and does it for him, finishing the game and defeating Tuvok in one move. He tells Tuvok he would have made that move, and then follows her as she leaves. As they walk along a corridor, he exasperatedly asks her if there is anything she does not know how to do. Suddenly the ship is shaken.
+
+On the bridge, a confused Tom Paris reports to Commander Chakotay that the ship hit some sort of shock wave and the warp drive suddenly went offline. He begins to scan for the source of the wave but the conn displays, along with all the others, go blank and then show the Greek letter "omega". All controls are now locked out, including the command console between the first officer's and captain's seats. Not even Chakotay's command codes can unlock any of them. He is about to hail Kim to have him try to figure out what is happening when Captain Kathryn Janeway steps out from the turbolift and crisply orders him not to do anything. She goes to a console and enters a command code known only by her. This unlocks the consoles but they remain blank. She orders Paris to hold all-stop and disengage the impulse engines. Warning all the officers not to discuss any of this with the rest of the crew, she disappears into her ready room.
+
+
+=== Act One ===
+
+The moment she enters her ready room, Janeway has the computer lock the doors. She sits at her desktop monitor and gives the computer a series of very high level security clearances. The computer accepts them and reports to her that sensors have detected the "Omega phenomenon" 1.2 light years away from the ship. The computer tells her that she is to immediately implement the "Omega Directive" and all other directives and priorities are null and void, including the Prime Directive. She has the computer show her the sensor data.
+In engineering, Chakotay gives instructions from Janeway to Paris, Seven of Nine, and B'Elanna Torres. He stresses that these instructions and the mission they are for, are highly classified: need-to-know only. He gives Torres Janeway's instructions for her – install multiphasic shielding around the warp core by 1100 hours. Torres doubts this is possible but Chakotay tells her the captain wants it done at any cost. Seven of Nine, knowing that this type of shielding protects against subspace radiation, asks Chakotay why the captain wants to do this with the reactor. He responds that he does not know.
+Torres and Paris comment on rumors they have been hearing that the captain has been locked in her ready room for the past 16 hours and of something called the "Omega Directive". This instantly gets Seven's full attention. Chakotay sharply warns against any such talk. He admits to being mystified himself but stresses the captain's adamance about discouragement of any rumors or talk about what is happening. Before he dismisses them, he informs Seven that the Captain wants to see her. She replies that she is not surprised.
+
+Seven enters the captain's ready room. As soon as the doors close behind her, Janeway immediately gets to the reason she asked for her. "How much do you know about Omega?" she asks. Seven responds that it is most likely everything Janeway knows. Janeway is not surprised. The Borg have assimilated Starfleet captains, thus Seven, as a former drone, would possess all of their knowledge. Seven confirms this and asks her if she intends to carry out the "Omega Directive". Janeway responds that she indeed does. The directive forbids her from speaking about it or what it concerns to any member of her crew. However, since Seven already knows about it, Janeway intends to either have her help her, or confine her to her quarters. Seven stoutly responds that she then should do the latter because she will not help her destroy Omega. She tells Janeway that it should be harnessed instead.
+Seven explains that the Borg Collective had managed to stabilize a single Omega molecule for one-trillionth of a nanosecond before it destabilized. The experiment allowed them to refine their theories about how to permanently stabilize it. Janeway asks her how many Borg were sacrificed during that experiment and is told 29 vessels and 600,000 drones. Seven says this is irrelevant but Janeway disagrees; she is determined to implement the Omega Directive with or without Seven's help. Seven confides that she has waited many years to observe the molecule first-hand. Helping Janeway would allow her to do this, so she agrees to assist. Janeway orders her to assemble all the data she has on the molecule and to present to her in a report within the hour. Seven acknowledges and leaves.
+
+
+=== Act Two ===
+
+In sickbay, The Doctor stares incredulously at Janeway in response to an order she has given him to provide her with arithrazine, used for the most severe cases of radiation poisoning. She tells him it is for an away mission and says no more. He asks her if she intends to "stroll through a supernova," insisting that a physician has to be present to supervise its use. If not, then he cannot obey, as that would violate Starfleet Medical protocols. Janeway curtly responds that she is overriding those protocols. He rolls his eyes. "Don't tell me: the "Omega Directive"." he responds exaggeratedly. "Whatever that might be."
+She firmly repeats her order for the arithrazine, to which The Doctor responds that it will be ready the next morning. As she leaves, he urges her to be careful. She smiles and says she will.
+In Cargo Bay 2, Janeway receives Seven's report. She has analyzed the shock wave. It indicates that not just one, but hundreds of Omega molecules destabilized within a radius of ten light years from their current position. Janeway is stunned. This was far larger and more dangerous of a threat than she previously thought. Seven tells her that it requires the resources of the entire crew, not just the two of them, to comply with the Omega Directive. Janeway orders her to transfer the data to astrometrics where she will work on it.
+Tuvok and Kim are modifying one of the ship's photon torpedoes, as per Janeway's orders, increasing its explosive yield. Kim comments the level they are raising it to, fifty isotons, is enough to destroy a small planet. Kim begins to speculate aloud on what is happening but Janeway enters, hears him and rebukes him. She modifies her previous order telling them they are to increase the yield to eighty isotons and that Kim is to help Torres reinforce the hull of the shuttlecraft. Kim is now totally unable to keep himself from speculating. After Janeway leaves, he relates to Tuvok the various theories circulating among the crew, such as one that says Species 8472 has opened a singularity from fluidic space to mount another invasion of the galaxy after they were driven back before and the torpedo is to close it. Another states Janeway has discovered a type-6 protostar and plans to detonate it to open a wormhole back to the Alpha Quadrant. She does not want to get anyone's hopes up, hence the secrecy. Tuvok tries to ignore him but finally admits that he too is curious. He tells Kim that they have no time for speculation and so Kim stops and focuses on the work.
+
+Janeway is in the astrometrics lab, studying Seven's data with the doors locked. The chime sounds and she bids the person to enter. It is Chakotay. He reports that everything is proceeding according to schedule. She acknowledges his report. Then she looks him in the eye and, in a deadly-serious tone, gives him the following instructions: she and Seven are departing in a shuttlecraft at 0600 the next day. If they are successful in what they are planning to do, they will return in a few days. If not, the long-range sensors will detect a large subspace explosion; he is to immediately have the ship go to maximum warp and leave the area at once. Chakotay does not like this. He presses her to tell him what this is about. She responds that she cannot, and tries to end it by telling him he has his orders. But he refuses to let it drop. He pleads with her that while Voyager is alone with no Starfleet contact, she is not. The entire crew is behind her and willing to help her face any threat they encounter. He urges her to let them help, suggesting that classified information could be kept only among the senior staff. He pleads with her to not go about this by herself. Janeway finally relents and orders him to assemble the senior staff.
+
+In the briefing room, Janeway briefs the senior staff about Omega and the Omega Directive but not before making clear that the meeting is classified and nothing they're about to hear is to be discussed with anyone else. If they were in the Alpha Quadrant then Starfleet Command would be sending in a specialized team to complete the mission. She explains that Omega is a molecule and the most powerful substance known. A single Omega molecule has the same amount of power as a warp core. It was first synthesized by a Federation scientist named Ketteract in the late 23rd century. Upon creation the molecule exploded, destroying the entire facility. The explosion tore up subspace in the Lantaru sector over a radius of several light years. In the affected area it is impossible to attain warp speed, as warp drive cannot work without subspace from which to create a warp field. Paris comments that flight control officers like himself are told that the reason for this was due to a natural phenomenon.
+Starfleet Command recognized the implications: an explosion of a large enough number of these molecules would annihilate subspace throughout the Federation, or even the entire Alpha Quadrant. If that happened, warp speed anywhere in the quadrant would become impossible and subspace communication would no longer work. This would mean the obliteration of every interstellar civilization in the quadrant. Every single planet in the quadrant would be permanently isolated, cut off from all others. Those civilizations that did not yet have warp drive would never discover it.
+Due to these implications, Starfleet Command classified all information about the experiment and the molecules as a military secret of the highest order and only officers with the rank of captain and above would be privy to it. Calling the molecule "Omega", for the ultimate threat to space-faring civilization it represented, it issued the Omega Directive, a top-secret order instructing that, if so much as one Omega molecule is encountered, it was to be destroyed at any cost, including ignoring any and all other orders and instructions, such as the Prime Directive.
+Janeway finishes the briefing with a warning that none of them, after hearing what she has just said, need to hear. If whoever is experimenting with Omega here causes a large-scale explosion then they, caught in the midst of the subspace destruction, will never be able to attain warp speed again. All hope of ever returning home would be forever lost. They now fully understand the secrecy and urgency and are in full agreement with her, this person must be stopped quickly.
+
+
+=== Act Three ===
+Voyager approaches the system where the Omega explosion originated. In Cargo Bay 2, Janeway finds Seven working on a resonance chamber that will dissolve the inter-atomic bonds of the Omega molecules, destroying them. Janeway starts to help her, but then Chakotay hails her from the bridge and informs her they are entering the system. She acknowledges and heads for the bridge.
+On her arrival, Paris informs her that the area's subspace has been destroyed. There is a pre-warp civilization on one of the outer planets, but Tuvok and Kim trace the source of the explosion to a small M-class moon closer to the center of the system. Janeway orders an on-screen view. A planetoid appears, with a massive blue cloud over one part of it. Tuvok reports subnucleonic radiation in the upper atmosphere, coming from a structure on the surface. Janeway orders an on-screen view of the structure.
+
+The image shows the same kind of devastation that occurred at the Starfleet facility that had synthesized Omega. Kim reports the devastation is over three hundred thousand square kilometers. Janeway orders a scan for Omega molecules. Tuvok finds none but reports that some areas of the facility are intact and shielded. Janeway inquires about the use of the transporters. Kim affirms that they can work through the subnucleonic cloud but warns about the high levels of radiation. Janeway orders Tuvok to assemble an away team, inoculated with arithrazine by The Doctor. She tells Tuvok that she will be joining the away team. She orders Paris to put the ship into high orbit and then come with her and the away team as a field medic. She then gives Chakotay the bridge and heads for the turbolift.
+The team beams into one of the facility's intact areas and finds it in ruins. They find the dead bodies of many aliens but others are alive, though badly injured. Crewmen rush to their aid, as Tuvok informs Janeway he is picking up Omega's resonant frequency but cannot locate it. Janeway approaches a wounded alien and asks him what happened to the substance they were trying to create. He tells her that there was an accident which caused a loss of containment and a resulting explosion. She asks him if any of the substance survived. He points to a large, sealed enclosure called the primary test chamber. She orders him to be beamed up to the ship for treatment and goes to the chamber. Tuvok reports that the material it is composed of, duritanium, has fused to the door. Janeway orders the use of phasers to cut through it. Tuvok feels that it is his duty to remind her that what they are about to do is a clear breach of the Prime Directive. She matter-of-factly responds that, for the duration of the mission, the Prime Directive is rescinded.
+In Cargo Bay 2, Seven of Nine has organized ten crew members to help her complete the resonance chamber. She has even gone so far as to give them Borg designations, assigning each to a specific task to increase efficiency. Kim greatly resents being referred to in this manner and complains to Chakotay. He gets no sympathy from the commander and instead is told to adapt. Seven has told him the chamber will be ready within the hour.
+
+Seven enters sickbay and finds The Doctor treating the injured aliens from the facility. She tells him she needs to speak with the senior researcher, who is the one whom Janeway had spoken to. His name is Allos. The Doctor points him out but insists that he is in no condition to speak to her. The Doctor attempts to prevent her from going to his bio-bed but she stares him down until he relents. When Seven approaches Allos she asks him if he is up to answering questions, which he says that he is. Seven learns from him that they were able to synthesize two hundred million omega molecules, using the molecules' own resonance frequencies. Synthesizing them was one thing but stabilizing them was quite another. Seven theorizes, however, that she may be able to adapt their technique to do just that. Thinking that she intends to save the molecules, he suggests transferring the remaining ones to the ship. He is bitterly disappointed and angry when Seven flatly tells him her orders are to destroy them. He accuses them of being small-minded, destroying what they do not understand. Rescue ships, he threatens, are on their way and will stop them. He gets so agitated that The Doctor immediately steps in and insists that Seven leave. "You don't know what you are doing! You don't know what this means...!" Allos shouts behind her. Seven quietly responds that she understands perfectly.
+
+
+=== Act Four ===
+
+In the remains of the facility, Captain Janeway and Tuvok reach the inner chamber containing the molecules. They approach an observation imager and are bathed in piercing, aquamarine light from it. They stare into it, at Omega. Janeway tensely notes that there is enough here to destroy the subspace in half the Delta Quadrant. Tuvok suggests returning to Voyager and targeting the facility with a gravimetric charge. Janeway responds that that will not be enough, they will have to use Seven of Nine's resonance chamber. She orders him to prepare to beam the molecules up to Voyager. He suggests that it is a pity they cannot study it more thoroughly before destroying it. But Janeway is not interested: some boundaries, she insists, should not be crossed and this, with its potential to destroy all space-faring civilization, is one.
+Seven's device is completed and stands ready in the cargo bay. Chakotay comes to relay Janeway's orders to her: Omega will be beamed directly into it and she will begin destroying the molecules. However, in a voice that is, for her, quite excited, she begins to tell him that they do not need to destroy them. By using the information she got from Allos, she believes she can stabilize them. Chakotay, annoyed, tersely cuts her off in mid-sentence. "Those weren't your orders," he says. "The captain wants Omega eliminated."
+
+Upset, Seven responds that she has never, in nine months of service aboard Voyager, asked a single favor. She is asking now. She pleads with Chakotay to allow her to proceed with the stabilization. Chakotay, never having seen her this passionate about anything, is curious to know why this means so much to her. She explains that, as a drone, she was instructed to assimilate Omega, which they call Particle 010, at all costs. It is, the Borg believe, perfection embodied. The molecules exist in a flawless state with infinite parts functioning as one. She has never seen it but, though she is no longer Borg, she needs to understand that perfection and feels that she will never be complete without it. She compares it to Chakotay's own spirituality. She asks him if he had the chance to see his Great Spirit, what would he do? He responds that he would pursue it with all his heart. He tells Seven that he understands her emotions and promises to inform Janeway of her idea. But for now, he stresses, her orders stand. She thanks him, truly grateful.
+In the facility, Janeway is overseeing final preparations to transfer the molecules to Voyager, when Chakotay hails her: two ships have been detected and are closing rapidly. It is time for them to leave. Janeway orders the molecules and away team be beamed aboard at once. Chakotay relays the order to Seven but the response is that that they need to get closer for a better transporter lock. She tells him the subnucleonic interference in the atmosphere will not affect the transporter signal enough to hinder the transport of the away team but the molecules may explode. She recommends getting five thousand kilometers from the surface. This is dangerous, however, as they will have to go in without shields, which would cause them to burn up, but they have no choice. On Chakotay's order, Paris starts the descent.
+
+Voyager starts descending into the moon's atmosphere. Kim locks the transporter onto the away team and Omega molecules. As they descend, the atmospheric friction on the hull starts to damage it, until, at nine thousand kilometers, Kim reports that the ship is beginning to break up. Janeway says they are close enough and orders Kim to commence the transport. It succeeds as the away team is safely brought aboard and Seven reports the molecules are in the chamber. Paris immediately pulls the ship back up and they retreat from the moon at maximum impulse.
+
+
+=== Act Five ===
+Janeway is back on the bridge. Chakotay reports that they are approaching the limits of the subspace destruction, beyond which is an uninhabited region where they should be able to destroy Omega without condemning any world's population to never discovering warp drive or bathing them with deadly theta radiation should something go wrong. The ships behind them, however, will reach them before they are clear of the subspace destruction. Janeway is confident that they will not fire, since Voyager has their Omega. Chakotay raises the issue of Seven's request. He informs Janeway about her idea on how to stabilize the molecules, as he promised he would. But she is unmoved and heads for the turbolift to speak with Seven.
+
+Janeway enters Cargo Bay 2, where Seven reports to her that 11% of the molecules have been neutralized. She then asks if Chakotay spoke to her about her idea. Janeway replies that he has and Seven expectantly asks if she can proceed, to be told she cannot. She insists that the Omega Directive is no longer relevant because she has found a way to control the molecules. "I don't care if you can make it sing and dance; we're getting rid of it," Janeway responds. Seven retorts that she chose to follow her command structure instead of just going ahead on her own. "I should have made the attempt," she bitterly says. "I still can". Janeway tells Seven that she is not trying to stop her from finding perfection, but the safety of the quadrant is at stake. Seven finally relents knowing Janeway is right. She goes to monitor the molecules at the chamber's imager, while Janeway replaces her at the controls.
+But with 18 percent of the molecules now destroyed it is evident that it will take hours to destroy them all. Janeway asks if increasing the resonance frequency to maximum would speed up the process. Seven states up to half of the molecules would be destroyed, with the gravimetric torpedo charge taking care of the rest in the chamber once jettisoned. Janeway orders Tuvok to ready the charge and orders Chakotay to prepare to decompress the cargo bay.
+On the bridge, the aliens hail Voyager and angrily demand the return of the molecules. Chakotay refuses and they begin opening fire. In the cargo bay, 28% of the molecules have been destroyed. Janeway decides that this is close enough and orders Chakotay to begin the decompression sequence.
+
+But, as the computer begins counting down until the outer doors open, the controls start beeping. Janeway demands to know what is happening, but Seven is gazing into the imager in shock.
+She tells the captain the molecules are self-stabilizing.
+Janeway orders Seven to follow her out of the bay before the inner doors seal shut, but Seven does not hear her.. All her attention is focused on the imager, as she watches the molecules' component atoms swirl around each other until they form a perfect, complex, molecular lattice structure.
+After several seconds of calling her without a response, Janeway takes Seven by the arm away from the imager. They dash out of the cargo bay ten seconds before the doors seal shut. The outer doors open and the chamber is blown out into space.
+On the bridge, Chakotay tensely asks if they are clear of the subspace ruptures. Almost, Paris responds. Chakotay orders him to engage warp drive ten seconds after the molecules are detonated or they will be caught in the ensuing subspace destruction. Tuvok reports that the resonance chamber has been jettisoned. Chakotay orders him to fire. He launches the torpedo at the chamber just as the ship clears the subspace ruptures. The torpedo strikes the chamber and a massive explosion ensues. As the shock wave spreads out toward them, shredding the subspace in its wake, Chakotay orders Paris to engage warp. Voyager surges forward, away from the damage, leaving the two alien ships behind.
+
+
+=== Epilogue ===
+It is late and Captain Janeway discovers that someone is running her Leonardo da Vinci holodeck simulation. She enters and finds Seven of Nine in Da Vinci's simulated workshop, looking up at a crucifix on the wall. The room is dark, the only light coming from the fireplace and candles. Janeway asks Seven why she is there. She explains that she is studying the religious elements in the room to try to understand her reaction to what she saw in the resonance chamber's imager.
+
+"When Omega stabilized," she elaborates softly, "I felt a curious sensation: as I was watching it, it seemed to be watching me."
+They sit together by the fireplace. Seven explains that the Borg have assimilated many species with religious explanations for such moments. After her de-assimilation, once she could choose to retain what information she thought important instead of what the collective dispensed to her, she had always dismissed such things as irrelevant. Perhaps, she admits, she was wrong.
+Janeway simply tells her, "If I didn't know you better, I'd say you just had your first spiritual experience."
+
+
+== Log entries ==
+"Daily log, Seven of Nine, stardate 51781.2. Today, Ensign Kim and I will conduct a comprehensive diagnostic of the aft sensor array. I have allocated three hours, twenty minutes for the task and an additional seventeen minutes for Ensign Kim's usual conversational digressions. I am scheduled to take a nutritional supplement at fifteen hundred hours, engage in one hour of cardiovascular activity, then I intend to review a text The Doctor recommended, entitled, "A Christmas Carol." He believes it will have educational value. End log."
+
+"Captain's log, supplemental. Encrypt log entry. We're approaching the star system where we believe we'll find Omega. I have to admit, I have never been this apprehensive about a mission. I know how Einstein must have felt about the atom bomb or Marcus when she developed the Genesis Device. They watched helplessly as science took a destructive course, but I have the chance to prevent that from happening. I just hope it's not too late."
+"Captain's log, stardate 51793.4. We've arranged for our guests in sickbay to be taken back to their home world, and we can finally put this mission behind us. This will be my last encrypted log concerning the Omega Directive. The classified data files will now be destroyed."
+
+
+== Memorable quotes ==
+"Impressive."
+"Elementary spatial harmonics."
+
+- Tuvok and Seven, on kal-toh
+
+"On one occasion, we were able to create a single Omega molecule. We kept it stable for one trillionth of a nanosecond before it destabilized."
+
+- Seven, on the Omega particle
+
+"Tell me, how many Borg were sacrificed during this experiment?"
+"29 vessels, 600,000 drones, but that is irrelevant."
+
+- Janeway and Seven, on the Omega particle
+
+"The Borg's Holy Grail..."
+
+- Janeway, on the Omega particle
+
+"Arithrazine? What for?"
+"I'm going on an away mission."
+"What are you planning to do? Stroll through a supernova?"
+"Something like that."
+
+- The Doctor and Captain Janeway
+
+"Want to know what I think?"
+"No."
+
+- Harry Kim and Tuvok
+
+"Captain, I would be negligent if I didn't point out that we are about to violate the Prime Directive. "
+"For the duration of this mission, the Prime Directive is rescinded. Let's get this over with."
+
+- Tuvok and Janeway, on the Prime Directive and the Omega Directive.
+
+"Your new designation is Two of Ten."
+"Wait a minute. You're demoting me? Since when did the Borg pull rank?"
+"It's Starfleet protocol I adapted. I find it most useful."
+"I'm glad you're not the captain."
+
+- Seven of Nine and Harry Kim
+
+"Seven's taking this 'hive mentality' just a little too far. Designated functions, numbered drones... I wouldn't be surprised if she started plugging us into alcoves."
+"When in the Collective, Harry... adapt!"
+
+- Harry Kim and Chakotay
+
+"I always thought that Starfleet was run by duty-crazed bureaucrats, but I find it hard to believe that even they would order a captain to go on a suicide mission. This shuttle excursion is your idea, isn't it?"
+
+- Commander Chakotay, to Captain Janeway
+
+"I won't ask the crew to risk their lives because of my obligation."
+"'My obligation.' That's where you're wrong. Voyager may be alone out here, but you're not. Let us help you."
+
+- Captain Janeway and Commander Chakotay
+
+"Which of them is the senior researcher?"
+"This gentleman. Why do you ask?"
+"He has knowledge I require."
+"He also happens to be barely conscious. Come back in an hour."
+"Unacceptable."
+"Unavoidable! This is my sickbay. The man needs to recover."
+"The captain left me in charge of our efforts on Voyager. I would be negligent if I ignored a new source of information." 
+"Our next social skills seminar is entitled 'Adding Diplomatic Flair to Future Negotiations.'"
+
+- Seven of Nine and The Doctor
+
+"Your Starfleet directive is no longer relevant; I have found a way to control Omega."
+"I don't care if you can make it sing and dance. We're getting rid of it."
+"A foolish decision."
+
+- Seven of Nine and Captain Janeway
+
+"Why is this so important to you?"
+"... it is perfection. The molecules exist in a flawless state, infinite parts functioning as one... Commander, you are a spiritual man."
+"That's right."
+"If you had the chance to see your god, your Great Spirit – what would you do?"
+"I'd pursue it. With all my heart."
+"Then you understand."
+
+- Chakotay and Seven
+
+"It's unfortunate we can't study this phenomenon in more detail. We may not have the opportunity again."
+"Let's hope we never do."
+"A curious statement from a woman of science."
+"I'm also a woman who occasionally knows when to quit."
+
+- Tuvok and Janeway
+
+"The Final Frontier has some boundaries that shouldn't be crossed."
+"And we're looking at one."
+
+- Janeway to Tuvok
+
+"The molecules exist in a flawless state. Infinite parts functioning as one."
+"Like the Borg."
+"Precisely. I am no longer Borg, but I still need to understand that perfection. Without it, my existence will never be complete."
+
+- Seven of Nine and Chakotay
+
+"I wondered who was running my program. Master da Vinci doesn't like visitors after midnight."
+"He protested. I deactivated him."
+
+- Captain Janeway and Seven of Nine
+
+"For 3.2 seconds, I... saw perfection."
+
+- Seven of Nine to Captain Janeway
+
+
+== Background information ==
+
+
+=== Title, story, and script ===
+This episode had the working title "The Omega Effect".
+The Omega Directive was intended to be a controversial, and consequently entertaining, concept. Co-executive producer Brannon Braga remarked, "The Directive is meant to be controversial. Janeway knows it and the crew knows it. That's what makes for an exciting hour of television." (AOL chat, 1998)
+Nevertheless, the episode had a difficult birth and was initially considered as being too tedious, despite including some concepts that the writing staff found interesting. "'The Omega Directive' was a very troubled script," Brannon Braga admitted. "We knew we had something engaging with the idea that there was a Starfleet directive that superseded all other directives. There were some analogies about the Omega particle and the atom bomb. Where is the edge of the frontier in science? But it was dry and intellectual." (Cinefantastique, Vol. 30, No. 9/10, p. 105)
+It was thereafter decided that the episode would be centered on the theme of religion, which allowed for some much-desired character development. Brannon Braga explained, "We hit on the idea that the show should be about religion [....] Maybe the Borg look at the Omega particle as perfection, or, in essence, it is their Holy Grail, so that we could show another side to Seven of Nine. At the same time, we could show another side to Janeway, and again get them in a more minor philosophical clash." (Cinefantastique, Vol. 30, No. 9/10, p. 105) Braga also said about the episode's theme, "This is not a story, ultimately, about a substance. It's not about Janeway following a directive or not. It's not about science and the hackneyed concept of whether or not we should cross the line and explore what should not be explored. It is about, in the end, religion. Seven of Nine, we reveal, has an interest in Omega that borders on religious obsession. To her, Omega represents 'Perfection.' And in this way, we explore themes of religion in an unexpected way." (AOL chat, 1998)
+An early script draft for this episode had Seven of Nine citing Janeway's history of taking risks in the interest of exploration, as the basis of her argument that Voyager's crew should save some of the Omega molecules rather than neutralizing them all. In the same draft, Janeway allowed Seven to make the attempt but, as in the episode's final version, the attack from the alien ships forced the crew to jettison the entire batch of destructive molecules. (Star Trek: Voyager Companion, p. 238)
+The final draft of the episode's script was submitted on 6 January 1998. [2]
+Although Torres is included in the scripted version of the Omega briefing scene, she is not in the briefing room in the final version of that scene. [3]
+
+
+=== Cast ===
+The reason why Torres is not at the Omega briefing here is due to the fact that actress Roxann Dawson went into labor straight after the filming of the only scene in this episode that her character of Torres does feature in; Dawson gave birth on 16 January 1998. (Cinefantastique, Vol. 30, No. 9/10, p. 94)
+
+
+=== Production ===
+The okudagram of the Lantaru sector research station in this episode made use of an oft-reused studio model previously utilized for the films Star Trek: The Motion Picture and Star Trek II: The Wrath of Khan as well as several episodes of both Star Trek: The Next Generation and Star Trek: Deep Space Nine. According to the unauthorized reference book Delta Quadrant (pp. 234, 9, 82, 222), the model was also used for the first season episode "Caretaker" (as the Caretaker's array), the second season episode "Cold Fire" (as Suspiria's array) and the fourth season episode "Hunters" (as a Hirogen relay station in their communications network).
+Also according to Delta Quadrant (p. 234), the alien laboratory in this episode was made from stock set pieces. The book additionally suggests that the design of the alien ships seems like a revamp of the reptohumanoid vessel from the second season episode "Parturition".
+
+
+=== Effects ===
+The task of visualizing one of the Omega molecules was a daunting challenge. Visual effects producer Robert Bonchune recalled the request to create the effect: "At the time, it was like, [....] 'Come up with a design where Seven of Nine would look at and thinks she's looking at God. Good luck.' And that was it! I was like, 'Okay, I gotta come up with something where Seven of Nine thinks she is looking at her version of God!' I'm like, 'Alright(!)'" As he had a background in physics, Bonchune set to work by considering what might be appropriate from his personal knowledge of science, such as molecular structure. "So I just designed this buckyball," Bonchune recalled. "And I actually designed [...] fake electron clouds around it, like it had sort of a center. Everything was mildly translucent, flow of energy – it kinda had like electron flow moving over it, things like that." Bonchune digitally modeled the molecule by using numerous different procedures available in Star Trek's most commonly-used CGI software package, Lightwave. He was ultimately very happy with the look of the CG molecule, although he suspected that he may have put slightly too much detail into the design. "I probably put way too much effort into it," he said, "because it ended up being on a screen where people couldn't even see the detail, anyway." (Red Alert: Amazing Visual Effects, VOY Season 4 DVD)
+Subsequently, Rob Bonchune was tasked with designing the mass of Omega molecules – a group whose shape was required to match that of each individual molecule – as well as it assembling and dividing. "I remember thinking, 'Well, how is that all gonna come together?" Bonchune related. He firstly carried out the lengthy process of crafting the collection of molecules. "That took the longest time," he explained, "just building these individual things, [and bringing] them together in these assemblies. I just had to sit there for days and just had to put this thing together." Once this was achieved, Bonchune executed the simpler undertaking of animating the cluster's dissolution. Reversing this animation was a relatively straight-forward method of making the formation seem to gather. Bonchune added, "It was [also] one of the first times we'd started using volumetric lights, actually used like a, you know, a volume light to create streaks and, you know, a sense of depth and three-dimensionality to it." (Red Alert: Amazing Visual Effects, VOY Season 4 DVD)
+
+
+=== Continuity ===
+Brannon Braga felt this episode satisfactorily conformed with canon. "The Omega Directive fits in nicely with established Trek canon," he remarked. "In fact, it plays off it and uses it in a very dramatic fashion." (AOL chat, 1998) One aspect that Braga thought fit well with previously established canon was the episode's exploration of religion. "We hit religion again this year," he stated, at the conclusion of the fourth season. (Cinefantastique, Vol. 30, No. 9/10, p. 105)
+This episode has been likened to TNG: "The Pegasus", a claim that Brannon Braga agreed with. He commented, "Someone pointed out the parallels to a TNG show called 'The Pegasus,' and they are right in doing so: Starfleet does not always make the right decisions for the right reasons. It's up to our heroes to ultimately make the right moral choice." (AOL chat, 1998)
+This is the only time Janeway, or any other captain, is established as officially rescinding the Prime Directive.
+Janeway's log entries are encrypted throughout this episode. In one of her log entries, Janeway references Star Trek II: The Wrath of Khan, when she makes mention of Dr. Carol Marcus and the Genesis Device. Coincidentally, the Genesis Device was originally called an "Omega" device in early story treatments of Star Trek II. (The Making of Star Trek II: The Wrath of Khan, p. 41, et al.)
+In an example of Star Trek: Voyager's internal continuity, Harry Kim is seen playing kal-toh, after Tuvok offered to teach him the game during the third season outing "Alter Ego".
+In the seventh-season episode "Q2", Q Junior suggests blowing up some Omega molecules for fun, referring to the bridge crew's knowledge of them.
+Seven describes the Borg's experiments with Omega, claiming that the "knowledge we gained allowed us to refine our theories." B'Elanna Torres had previously claimed, in the third-season finale "Scorpion", that "The Borg gain knowledge through assimilation. What they can't assimilate, they can't understand."
+
+
+=== Reception ===
+One of few elements of this episode that Brannon Braga was ultimately happy with was its philosophical clash between Janeway and Seven. "I think that's what made the show," he commented. "A lot of the show was still kind of boring, but I think the scenes with Seven and Janeway salvaged it." (Cinefantastique, Vol. 30, No. 9/10, p. 105)
+This episode achieved a Nielsen rating of 3.7 million homes, and a 6% share. [4](X)
+Cinefantastique rated this episode 2 out of 4 stars. (Cinefantastique, Vol. 30, No. 9/10, p. 105)
+Star Trek Magazine scored this episode 3 out of 5 stars. (Star Trek Monthly issue 46, p. 60)
+The unauthorized reference book Delta Quadrant (p. 236) gives the installment a rating of 8 out of 10.
+Janeway actress Kate Mulgrew contemplated why she believed this episode was popular with viewers: "I can understand why the audience liked 'The Omega Directive'. First of all, it's, again, using that wonderful relationship between Seven of Nine and the captain. Science at its best, at its most animated, because [Seven] was a smart cookie, right? And I, being the mentor, thought myself smarter. And in this case, it was a real rush to the finish because this was a very dangerous idea we were playing with. So I think the fans are always excited when there is a relationship that's unpredictable, and there's a scientific element that's unpredictable. And it embraces both of those, so how can you possibly lose?" (Star Trek: Fan Collective - Captain's Log)
+
+
+=== Apocrypha ===
+Omega particles, first introduced in this episode, were subsequently featured in the core story line of the original Star Trek: Armada video game. They were also to have played a major role in a proposed, and ultimately undeveloped, Star Trek: Final Frontier.
+The Star Trek: Section 31 novel Cloak reveals that James T. Kirk's USS Enterprise was on hand to witness the events surrounding Ketteract's synthesis of the molecule. Starfleet is described as classifying the secret Omega Directive as General Order 0, thereby placing it before the first General Order: the Prime Directive.
+In Star Trek Online, the new Odyssey-class Enterprise is briefly shut down by the Omega Directive due to its detection of Omega molecules in the Solanae Dyson sphere. It is later revealed that a race of Solanogen-based lifeforms working for the Iconians had harnessed the use of Omega to teleport massive megastructures through subspace. The Jenolan Dyson Sphere is later teleported using this method, to the Nekrit Expanse in the Delta Quadrant.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 4.11, catalog number VHR 4632, 2 November 1998
+As part of the VOY Season 4 DVD collection
+As part of the Star Trek: Fan Collective - Captain's Log collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest star ===
+Jeff Austin as Allos
+
+
+=== Co-stars ===
+Kevin McCorkle as Alien Captain
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Ashmore
+Tarik Ergin as Ayala
+Glenn Goldstein as alien scientist
+Jennifer Somers as sciences ensign
+Steve Stella as alien scientist
+Jean Victor as alien scientist
+Unknown actor as
+Dell
+Operations ensign
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+
+
+=== References ===
+2145; 23rd century; ability; addiction; Adding Diplomatic Flair To Future Negotiations; Allos' colleagues; Allos' moon; Allo's moon outpost planet; Allos' rescue ships; Allos' species; Allos' system; Alpha Quadrant; arithrazine; assimilation; atom bomb; Big Bang; Borg; Borg algorithm; Borg drones; Borg philosophy; Borg ships; boronite ore; bureaucrat; centimeter; Christmas Carol, A; Class M; classified information; command structure; cosmologist; Christ, Jesus; crown; crucifix; da Vinci, Leonardo; decompression sequence; Dell; Delta Quadrant; demotion; dozen; duritanium; Einstein, Albert; efficient; elbow grease; evasive maneuvers; fear; Federation; field medic; flag officer; fluidic space; Genesis Device; gravimetric charge; gravimetric torpedo; Greek alphabet; ground zero; harmonic resonance chamber (harmonic chamber); heart; Hickman; high orbit; holodeck; Holy Grail; ignorance; inoculation; ionic pressure seal; Intrepid class decks; isoton; isolinear processor; kal-toh; Kelvin; Ketteract; Ketteract's science team; kilometer; Lantaru sector; Lantaru sector research station; Leonardo da Vinci's workshop; light year; logic; loincloth; M class; Marcus, Carol; Master; maximum warp; medical care; mentality; midnight; military secret; Milky Way Galaxy; milligram; multiphasic shielding; nanosecond; observation port; Omega Directive; Omega molecule; Omega one; Omega phenomenon; oral history; pattern enhancer; phase modulator; power grid; pre-warp civilization; Prime Directive; regeneration cycle; rescue ship; rescue team; scientist; seminar; senior researcher; senior staff; sensor log; shock wave; social skills; spatial harmonics; Species 262; Species 263; Species 8472; spiritual experience; square kilometer; Starbase 375-type; Starfleet Medical protocols; subspace; subspace explosion; subspace radiation; subspace rupture; suicide mission; supernova; targeting scanners; terahertz; Theta radiation; thorn; tractor beam; transporter; Transporter Room 2; type-6 protostar; universe; Voyager shuttle; Vulcan; warp drive; warp field; Wildman, Samantha
+
+
+=== External links ===
+"The Omega Directive" at Memory Beta, the wiki for licensed Star Trek works
+"The Omega Directive" at Wikipedia
+"The Omega Directive" at MissionLogPodcast.com
+"The Omega Directive" at the Internet Movie Database
+"The Omega Directive" script at Star Trek Minutiae

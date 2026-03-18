@@ -1,0 +1,325 @@
+Lwaxana Troi is on board the Enterprise-D to hold her wedding ceremony, and she also takes an interest in Worf's son Alexander, encouraging him to adopt her carefree ways.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The USS Enterprise-D destroys an asteroid using the navigational deflector that was in danger of colliding with Tessen III, near Starbase 117, although multiple methods are necessary. As the Enterprise continues its course to the Moselina system, however, a mysterious glittering dust heads into the ship and is absorbed.
+
+
+=== Act One ===
+Worf brings his son Alexander before Counselor Deanna Troi in the counselor's office to resolve discipline issues. Troi decides there is little respect in their relationship, so she recommends they draft a "contract" outlining each other's responsibilities and chores. This way, they could stand on equal footing and both have a say in what needs to be done. Although Worf is hesitant to allow Alexander to have equal footing, he agrees to it.
+Deanna then learns, to her complete surprise, that her mother, Lwaxana Troi, is not only aboard the Enterprise but is also about to be married. They meet in Ten Forward, where Lwaxana tells Deanna about the groom, Campio, who is a minister in the Kostolain government. Further to Deanna's surprise, Lwaxana intends to have the wedding held in Ten Forward and is already thinking about how to decorate it for the occasion. Deanna is trying to get more details when Worf and Alexander come in for more advice on their situation. Instead, Lwaxana intrudes in her usual style. Hearing of her daughter's plan for Worf and Alexander, she notes that contracts are usually made between two parties who do not trust one another and that it would not be equal in any case because Alexander would have no way of policing Worf's commitments.
+Later, while walking down a corridor, Captain Picard expresses to Commander Riker his dissatisfaction with "that woman" using the Enterprise as her "personal rec room" just because her daughter happens to be one of his officers. However, when Riker reveals that Lwaxana wants Picard to give her away at the wedding, Picard immediately agrees: "Nothing would please me more than to give away Mrs. Troi." Just as Picard and Riker continue to walk down the corridor, the dust begins to infest the Enterprise by moving about the ship out of sight.
+
+
+=== Act Two ===
+
+Lwaxana finds Alexander waiting for Deanna for their session. Hearing how he hates the rules his father imposes and wishes he had his mother to speak to, Lwaxana attempts to comfort him by taking him to break the rules for a while. In Holodeck 2, she conjures up a program of the Parallax colony, a society of unusual, artistic, fun-loving souls (including a colorful sentry, a juggler who views his balls as worlds, a poet, and a painted dancer) for a relaxing mud bath. Alexander gets into the spirit of the program quickly.
+Worf is grumbling while finding Alexander's clothes stuffed under their couch in their quarters when Deanna walks in. She tells Worf that his son failed to show up on time for their counseling session, and she assumed he was with his father. Worf asks the computer for Alexander's location and discovers he is in the holodeck. Deanna also asks the computer if he is with someone, and the computer confirms he is with Lwaxana. The two go to the holodeck together, locate Alexander, and eventually confront Lwaxana during the mud bath.
+
+
+=== Act Three ===
+In Lwaxana's quarters, Deanna demands that she stop undermining their efforts to instill Alexander with responsibility. She eventually pries and questions why her mother isn't busy with wedding planning. Her servant, Mr. Homn, boarded the ship with her and is taking care of the details, so Lwaxana has time on her hands. Deanna is surprised to hear that Lwaxana is accepting a wedding without the Betazoid tradition of being naked, but Lwaxana brushes it off as a compromise since Campio is not Betazoid. But she complains to Deanna about her replicator malfunctioning.
+In fact, Data and La Forge have received over 200 reports of malfunctioning replicators. Concerned about what will happen when the captain decides to order dinner, they go to engineering to investigate and detect an energy fluctuation in an access corridor. In the corridor, La Forge finds an odd EM pattern, but it is not serious. Then, a mysterious goo drips out from behind the panel.
+Lwaxana is now with Mr. Homn trying on the dress. She is clearly uncomfortable, but Homn doesn't think any of her suggested changes are feasible. Then, Alexander comes to the door to apologize if he got her into trouble earlier. Lwaxana thanks him and laughs. She also tells him that while marriage should be between those that like each other a lot, those who are older must sometimes compromise. She's happy Alexander visited.
+Picard is briefed on the replicators on the bridge. It turns out that the data net interface, which routes replicator selections to the correct subprocessors, has been transformed into an unknown gelatinous material. Suddenly, the inertial damping system fails and the ship shakes. Picard orders the ship out of warp, but then, primary attitude control and helm control fail, and the ship shakes even more.
+
+
+=== Act Four ===
+Fortunately, back-up systems kick in and attitude control returns. Since there are automatic back-up systems for the inertial dampers that didn't kick in, Picard orders answers. Later, in the observation lounge, La Forge informs them that the systems suffered the same transformation as the replicators, the metal has been turned into gelatinous material. They will next attempt to identify the substance. Then, they get word that Campio is beaming aboard.
+Campio arrives in the transporter room along with his "protocol assistant", a stringent man named Erko, and meets Lwaxana for the first time. Campio seems to be a poor fit for Lwaxana, demanding that she resolve business before she goes to the holodeck for fun, while Erko is appalled that she speaks to Campio as a familiar and demands she address him only by his title of "minister". Lwaxana, caught at the hub of three completely different conversations all taking place in the same room at the same time, flees with Alexander to the holodeck the moment everyone's backs are turned.
+La Forge and Data finally identify that there is a nitrium parasite on the ship. The parasite has begun to infest systems throughout the ship, eating them away. Realizing that the dilithium crystal chamber and power transfer conduits are vulnerable, they go to investigate. The chamber is fine, but behind an access panel in examining the conduits, they get a glimpse of the parasite as it leaves more of its gelatinous waste, and realize they have no way to detect it before it moves on to another system.
+
+
+=== Act Five ===
+Lwaxana and Alexander are almost out of time in the holodeck. The juggler is sad because he's eaten his worlds, amusing Alexander. They begin to leave, and Alexander guesses that Lwaxana's husband would never take a mud bath. She is optimistic, but she senses his sadness. The holodeck begins to malfunction visibly, with the parasite revealing the hologrid in the program, and they leave.
+La Forge, Data, and Picard devise a strategy to get rid of the parasites – find the asteroid field from which came the asteroid they previously destroyed, the Pelloris asteroid field. It must be rich in nitrium and therefore a natural feeding ground. Picard immediately orders a course at warp 9 but is reminded by Data that the parasites may do too much damage to the Enterprise before then. Data suggests an exanogen gas barrier to slow them down, and when they get to the field, they can use the deflector dish to send a nitrium beam to lure the parasites to the field. Unfortunately, the parasite is eating away at the warp system, and the life support system begins to fail.
+
+As the crew may soon be unconscious, it is now up to Data to fly the ship to the asteroid field, configure the deflector, and rid the ship of the parasites. When the Enterprise arrives at the Pelloris field, Data is the only one conscious on the bridge. He activates the Bussard collectors to include 30% nitrium and aims it at a nearby asteroid. The nitrium parasite then leaves the Enterprise. All ship's systems begin to return to normal, and the bridge officers recover consciousness.
+
+"Captain's log, Stardate 45733.6. Temporary repairs to the ship have been completed. Our attention now turns to matters of a more festive nature."
+Lwaxana finally proceeds with the wedding but decides to follow Betazoid custom and arrives naked for the ceremony. She winks at Alexander, who remains respectful of her spirit. Erko objects strongly and covers Campio's eyes; Campio faints, and Lwaxana remains unmarried.
+Finally, Lwaxana, Alexander, Troi, and an irate Worf share a mud bath together.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+
+
+== Memorable quotes ==
+"Ha!"
+"HA!"
+
+- Deanna and Alexander
+
+"Well, it appears the bride won't be here either"
+
+- Deanna, to Erko
+
+"Deanna, I love you, but you do make everything sound like an epitaph."
+
+- Lwaxana
+
+"What would you like your father to promise, Alexander?"
+"No yelling."
+"I DO N… I do not yell."
+"Well, then you should have no trouble with that part."
+
+- Troi, Alexander, and Worf, during a counseling session
+
+"It may be hard to imagine right now but eventually most children come to appreciate their parents."
+"Riker to Counselor Troi. Your mother has just come aboard."
+"On the other hand…"
+
+- Troi, to Alexander, on his problems with his father only to be told by Riker her mother has come aboard
+
+"Uh, you see, we haven't exactly met yet, really."
+
+- Lwaxana Troi, on Campio, the man she plans to marry
+
+"My dear, don't they ever let you change those colorless outfits?"
+
+- Lwaxana, to Deanna
+
+"Of course he's unreasonable, he's a child!"
+
+- Lwaxana Troi, to Worf
+
+"I'm supposed to do everything right all the time. I don't know how."
+"To tell you the truth, little warrior, neither do I…"
+
+- Alexander and Lwaxana
+
+"You know, making little boys reasonable only gives them pimples."
+
+- Lwaxana Troi
+
+"Well, who else are you gonna fight with if not your friends?"
+
+- Lwaxana Troi
+
+"I exposed you to all sorts of mixed messages when you were that age, and you still turned out deadly dull."
+
+- Lwaxana Troi to Deanna
+
+"And you are doing this to your own child, Mr. Woof?"
+"It is Worf, Madam."
+
+- Lwaxana and Worf
+
+"Life's true gift is the capacity to enjoy enjoyment."
+
+- Lwaxana Troi
+
+"Nothing would please me more than to give away Mrs. Troi."
+
+- Picard
+
+"Wedding gown? Mother, stop. You're telling me you're not going to be naked at your own wedding?"
+
+- Deanna Troi
+
+"The higher, the fewer."
+
+- Alexander
+
+"You're just supposed to sit here?"
+
+- Worf, in the mud bath
+
+"Every one of us has a thousand different kinds of… of little people inside of us. And some of them want to get out and be wild, and some want to be sad or happy or inventive or… or even just go dancing. That's why we all have so many different urges at different times. And all those different little people inside of us… we must never be afraid to take them with us, wherever we go."
+
+- Lwaxana Troi
+
+"I'm alone, Alex."
+
+- Lwaxana, to Alexander
+
+"Isn't it wonderful how things worked out, Alexander? I wanted to teach you how to grasp the joys of living. And then you turned around and… taught me to not let go of them. How very mutual."
+
+- Lwaxana Troi
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft script: 13 January 1992
+Production meeting: 31 January 1992 ("The First Duty" call sheet)
+Final draft script: 3 February 1992 [1]
+Filmed: 4 February 1992 – 13 February 1992
+Second unit and inserts filmed: 14 February 1992
+Filming of Larry A. Hankin's scenes: 28 February 1992
+More second unit and inserts filmed: 6 March 1992
+Premiere airdate: 20 April 1992
+First UK airdate: 3 May 1995
+
+
+=== Story and script ===
+Rick Berman recalled the original premise as "Auntie Mame arriving aboard and taking Worf's son under her wing to bring him out of his shell in her own flamboyant way." While Berman was initially skeptical of the idea, he was very happy with Peter Allan Fields' first draft of the script. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 244)
+Berman recalled that there were problems with revising the script. "I felt it wasn't getting any better, the revision process was hurting it in terms of some of the wonderful dialogue.'" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 244)
+Fields was bothered by the insertion of the nitrium parasite B-story, considering it to be "something one needed to have there rather than something that was an intrinsic part of the show." However, he was pleased when it was agreed to let the personal story take precedence. He noted, "We don't want to do them all like that. This is a science-fiction show and the science is fun, but in this case it was the personal story that was most important." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 244)
+A scene that can be found in the script, but cut from the final episode, had Troi and Worf discussing their frustrations with parenting, from the perspectives of being a child and being a parent respectively. Troi remembers an event in which her mother embarrassed her on her sixth birthday party and claims that she often feels like she is the parent and her mother the child. The conversation concludes with Troi saying it's been said that grandparents and grandchildren get along so well because they have a common enemy. [2] This deleted scene appears on the TNG Season 5 Blu-ray set.
+
+
+=== Production ===
+Makeup designer Michael Westmore enjoyed creating the Parallax colony holograms. "Thanks to the holodeck, I never knew what sort of characters I'd be called upon to create. There was a fire sculptor, who had an elaborate set of head appliances; the dancer, whose entire body had to be painted; and the poet, whose wig and beard were made of rope. We literally used dyed hemp for his hair, hand-laying each strand. And we had a lot of fun doing the juggler, who wore a nosepiece, and had ears that wrapped around his head – an idea I'd had for a long time. For a more whimsical look, we added spiked hair and eyebrows that grew up in the center of his forehead." (Star Trek: The Next Generation 365, p. 253)
+"Cost of Living" was filmed between Tuesday 4 February 1992 and Thursday 13 February 1992 on Paramount Stage 8, 9, and 16. Second unit and inserts for this episode were filmed on Friday 14 February 1992 on Paramount Stage 8 and 16 and on Friday 6 March 1992 on Paramount Stage 9 and 16.
+The production meeting for this episode took place on Friday 31 January 1992 at 2:00 pm. ("The First Duty" call sheet)
+On Tuesday 4 February 1992, the Make-A-Wish Foundation kids Nichlas Frank and Michael Amidel visited the sets with their families. ("Cost of Living" call sheet)
+On Monday 10 February 1992, the cast and crew had the "French Hours". On this day, catering for breakfast and lunch was provided by a catering service on Paramount Stage 10. ("Cost of Living" call sheet)
+On Thursday 13 February 1992, Good Morning America was on set. They shot a live feed between 4:00 and 6:00 am and a wrap up between 6:00 and 8:00 am. All main cast members except Brent Spiner were picked up by a limo at home. Regular background talent Mark Lentry was also part of this airing, in full makeup as a Romulan. ("Cost of Living" call sheet)
+
+
+=== Sets and props ===
+Among the reused props seen in this episode are the Kahless and Morath statue and the Ligonian glavin in Worf's quarters which previously appeared in the episodes "Peak Performance", "Reunion", and "New Ground" and were later seen in "Genesis" and "Firstborn".
+The chair in Worf's quarters was also seen in the episodes "Peak Performance", "Family", "Reunion", "Redemption", "New Ground", "A Fistful of Datas", "Birthright, Part I", "Parallels", "Genesis", and "Firstborn" and was used as the command chair aboard the Tarellian starship in the first season episode "Haven". It was designed by Peter Opsvik. [3]
+This episode marks the seventh appearance of Deanna Troi's counselor's office.
+The scenes of the holographic program "Parallax colony" were filmed on Paramount Stage 16. On the call sheets the locations were named "The Glade" and "The Mud Bath".
+
+
+=== Continuity ===
+According to Michael Piller, Worf and Deanna Troi's mutual concern over Alexander was inserted as a hint towards a potential romance between the two characters. The idea was later pursued in the seventh season. (Star Trek: The Next Generation Companion, 2nd ed., p. 198)
+The main plot of this episode focuses on two recurring characters instead of main characters. "It's Only a Paper Moon" from the seventh season of Star Trek: Deep Space Nine also did this.
+
+
+=== Cast ===
+Brian Bonsall makes his third of seven appearances as Alexander in this episode.
+Majel Barrett appears for the fifth time on Star Trek: The Next Generation portraying Lwaxana Troi. She makes her final appearance on this series in the seventh season episode "Dark Page". Lwaxana's line of dialogue in which she tells Alexander, with noticeable sadness, that she is alone, likely had personal significance for Barrett, who lost her husband, Gene Roddenberry, only four months earlier.
+This episode also features one of the few occasions in which Majel Barrett talks "to herself", portraying both Lwaxana Troi and Computer Voice of the Enterprise-D. This happened also in the second season episode "Manhunt".
+Christopher Halsted later plays a Jem'Hadar in DS9's final episode "What You Leave Behind".
+Albie Selznick later appeared in the Star Trek: Voyager episodes "Macrocosm" as the Tak Tak consul and Tash in "The Voyager Conspiracy" and worked as choreographer for the Ventu in "Natural Law".
+Carel Struycken appears as Mr. Homn for the last time.
+Larry A. Hankin was not part of the principal photography for this episode and filmed his scenes during the production of the episode "Imaginary Friend" on Friday 28 February 1992.
+This episode marks the second appearance of background actress Holiday Freeman who later became a recurring background talent on The Next Generation, Deep Space Nine, and Voyager.
+
+
+=== Reception ===
+Director Winrich Kolbe remembers, "That was fun. Majel was terrific. It's a fast-moving show, and it was slightly different because we had comedic elements in there. It gave us a different pace. These shows could be rather boring if they all go with the same direction, same philosophy, same sets, same actors. After a while, you just want to throw up your hands and say, 'OK, guys, you know what to do.' You want to go to the director of photography and say, 'Just shoot the damn thing. You can reach me at my home number.' This type of episode is exciting to me. I suddenly had to direct comedy. The pace is different. It was a real challenge and I loved it. I had never met Majel before, and I understand she didn't know who the hell I was. When I came in with my German accent, she did a double take. We had a tremendous rapport and loved working together. I wouldn't mind doing another Majel show in the sixth season." (The Official Star Trek: The Next Generation Magazine issue 21, p. 32)
+In another interview, Kolbe commented, "That was fluff, but nice fluff […] I wouldn't consider it a Star Trek episode par excellance. It fulfilled a certain function, but it was not Star Trek at its best." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 244)
+Rick Berman remarked, "I was extremely pleased by the way it turned out […] I had some problems, some costuming and make-up things that troubled me, but by the time we put it together and added some wonderful visual effects to the show, I found it utterly charming. It had heart and warmth." Berman also credited Michael Dorn for giving a "funny, great performance." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 244)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 21, pp. 20-21.
+
+
+=== Awards ===
+This episode won two Emmy Awards. Only four other episodes of Trek have won this many. It won for Outstanding Individual Achievement in Costume Design for a Series (Robert Blackman) and Outstanding Individual Achievement in Makeup for a Series. It was also nominated for Outstanding Individual Achievement in Hairstyling for a Series.
+
+
+=== Goofs ===
+In the turbolift with Data, Picard wears only the three rank pips of Commander rather than the four of a Captain. It's even possible to see the hole in his collar where the missing pip should be.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 60, 15 February 1993
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.7, 2 December 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Majel Barrett as Lwaxana Troi
+Brian Bonsall as Alexander Rozhenko
+Tony Jay as Campio
+Carel Struycken as Mr. Homn
+David Oliver as Young Man
+Albie Selznick as Juggler
+Patrick Cronin as Erko
+
+
+=== Co-stars ===
+Tracey D'Arcy as Young Woman
+George Ede as Poet
+Christopher Halsted as First Learner
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Lena Banks as operations division ensign
+Tonya Chianis as fire sculptor
+Tracee Lee Cocco as Jae
+John Copage as command division officer
+Tony Cruz as Lopez
+Denise Deuschle as science division officer
+Inez Edwards as sciences officer
+Lanier Edwards as command division lieutenant
+Gunnel Eriksson as science division officer
+Holiday Freeman as First Learner's companion
+Eben Ham as operations division ensign
+Larry A. Hankin as wind dancer
+Christie Haydon as command division ensign
+Kast as command division officer
+Arvo Katajisto as Torigan
+Ron Large as command division officer
+Mark Lentry as science division lieutenant
+Michael Moorehead as science division ensign
+Keith Rayve as command division ensign
+Jennifer Richards as painted dancer
+Joycelyn Robinson as Gates
+Richard Sarstedt as command division ensign
+Noriko Suzuki as operations division ensign
+John Tampoya as operations division ensign
+Théyard as science division officer
+Mikki Val as operations division officer
+Christina Wegler Miles as command division ensign
+Unknown performers as
+Command division lieutenant
+Female command division officer
+Female science division officer
+Gates (voice)
+Ten Forward waiter
+Transporter officer (voice)
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton
+Patty Davis – stand-in for Majel Barrett
+Dwayne – stand-in for Carel Struycken
+Michael Echols – stand-in for Tony Jay
+Eddie – stand-in for Patrick Cronin
+Melba Gonzalez – stand-in for Marina Sirtis
+Johnny Hayden – stand-in for Brian Bonsall
+Joshua Henson – photo double for Brian Bonsall
+Kathleen Hodder – stand-in and photo double for Majel Barrett
+Joe – stand-in for David Oliver
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner, Albie Selznick and Patrick Cronin
+Lorine Mendell – stand-in for Gates McFadden, Majel Barrett and Tracey D'Arcy
+Eddie Robinson – photo double for LeVar Burton
+Richard Sarstedt – stand-in for Jonathan Frakes, Christopher Halsted and Tony Jay
+Dennis Tracy – stand-in for Patrick Stewart and George Ede
+Guy Vardaman – stand-in for David Oliver
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+access panel; address; Alex; Alexander; alloy; antimatter containment; apple; asteroid; backup generator; Betazed; Betazoid; Betazoid wedding; bodice; breeding; bribery; Bussard collector; chrondite; collision course; Conference of Judges; contract; corrosion; deflector; density; exanogen gas; feeding ground; fire sculptor; flammable; food replication system; garment reprocessor; gourd; heart; hemline; Holy Rings of Betazed; holodeck; hug; hydrogen; inertial damping system; Jefferies tube; jestral tea; juggler; laughing hour; K'Ehleyr; Kostolain; Kostolain native; Kostolain starship; kumquat; lie; life support system; magnetic field; mandarin orange; metal parasite; "Mister Woof"; Moselina system; mud bath; mud pool; nitrium; nitrium parasite; number one; oxygen; Parallax colony; particle beam; Pelloris asteroid field (aka Pelloris Field); Petrokian sausage; photon torpedo; pimple; poet; pore; Protocol Master; pumpkin; red alert; royalty; secondary generator; Sacred Chalice of Rixx; Shiralea VI; spelled out; stepfather; Ten Forward; Tessen III; tractor beam; transporter room 1; turbolift; wedding; wedding gown; wedding hall; weep; wind dancer
+
+
+==== Unreferenced material ====
+Koropian princess
+
+
+=== External links ===
+"Cost of Living" at Memory Beta, the wiki for licensed Star Trek works
+"Cost of Living" at Wikipedia
+"Cost of Living" at MissionLogPodcast.com
+"Cost of Living" script at Star Trek Minutiae
+"Cost Of Living" at the Internet Movie Database

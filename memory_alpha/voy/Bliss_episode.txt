@@ -1,0 +1,237 @@
+Voyager finds a wormhole that leads directly back to Earth, but Seven of Nine suspects that it may not be what it appears.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+A small ship fires at an unseen object before it. Lightning-like bolts strike the ship from the direction of the object. Piloting the ship is a crusty, very animated old humanoid alien. He shouts defiant taunts at the thing he is attacking. The thing is revealed to be an enormous cloud-like entity, with a vast opening on its surface. Inside is ominously foreboding. Lightning-like bolts can be seen within. The old pilot, still shouting in defiance, flies through the opening, into the entity.
+
+
+=== Act One ===
+On USS Voyager's bridge, Captain Janeway discusses with her chief tactical officer, Lt. Commander Tuvok and her executive officer, Commander Chakotay, the sudden appearance of a wormhole seemingly leading directly back to Earth, approximately 4 million kilometers from their position. They all agree that it seems suspicious, as secondary scans of the wormhole show the presence of bioplasmic discharges, indicating a lifeform and a possible deception.
+
+Meanwhile. Tom Paris and Seven of Nine, accompanied by young Naomi Wildman, are returning to Voyager on the Delta Flyer after an exploratory mission to find deuterium, the matter in the matter/antimatter reaction that powers the ship's warp engines and other systems. The mission was unsuccessful, but Seven notes in her personal log that it was educational for Naomi.
+On their arrival, Paris takes the sleeping Naomi to her mother, crewmember Ensign Sam Wildman, while Seven goes to the astrometrics lab to do the mission report. Entering the lab, she finds the captain, Tuvok and Chakotay, there along with Ensign Kim, the ship's operations officer. The Human officers excitedly tell her about the discovered wormhole, which they now believe is genuine. The Vulcan Tuvok, of course, displays no emotion, but he too is pleased.
+Bemused, Seven points out the sheer unlikelihood of finding such a phenomenon, as well as its distance of just 300 million kilometers away, which means that it should have been detected days before. The officers, however, are unconcerned, telling her that they have scanned it and found nothing unusual. Lt. Torres, the Chief Engineer, has already downloaded transmissions, believed to be from Starfleet, from the probe they sent in. Capt. Janeway suggests to Seven that she run a diagnostic of the astrometrics sensors, and the officers leave. Seven begins running the diagnostic.
+She finishes, goes to Captain Janeway in her ready room reports to her that the diagnostic showed no problems with the sensors. However, the wormhole's neutrino levels are erratic, which makes her concerned. Captain Janeway, who has ordered the ship's course to be altered to head for the wormhole, dismissively replies that a Starfleet communication she received from the messages downloaded by Lt. Torres assures her that these erratic neutrino levels are no cause for concern. Seven insists on caution, but the captain will not hear of it, suggesting that Seven's sense of unease is simply due to her fear of going to Earth.
+Chakotay then enters with more messages. Seven watches and listens as Janeway and Chakotay happily discuss their contents. Both contain very positive news: Chakotay has been granted a full pardon for his Maquis activities, reinstatement to Starfleet and a professorship in anthropology at the Academy. Janeway's former betrothed, Mark, who had gotten engaged to another, thinking Janeway dead, has broken off his engagement (VOY: "Hunters"). Seven watches them both, concerned about their lack of concern about the possibility that the wormhole may not be what it seems.
+
+She returns to her quarters (Cargo Bay 2, where her alcove is located), hacks the computer and accesses Captain Janeway's log entries for that day. In three consecutive entries the Captain goes from suspicion of the supposed "wormhole" because of anomalous sensor readings to sudden enthusiastic acceptance of it at face value, in spite of the said anomalous readings. Her concern growing, Seven goes to the mess hall and finds several members of the crew excitedly discussing letters they have received from the downloaded communication; they are all convinced the wormhole is genuine. On the way, she encounters Neelix, who is as excited as everyone else, and who gives her a letter "from an aunt of hers on Earth."
+In the mess hall, she finds Ensign Paris and voices her belief to him that the whole thing is a set-up; the crew is being deceived by false telemetry and "overly-optimistic correspondence". Paris responds that he too has gotten such correspondence: an offer from an old friend of a position as a pilot at a new Starfleet test-flight facility in Australia. At first, Seven gets the impression that he is also suspicious of what is happening, but her hopes are quickly dashed.
+Now convinced that it is indeed a set-up, Seven goes to sickbay and urgently voices her belief to the Doctor, the ship's Emergency Medical Hologram and chief medical officer. She is surprised to learn that he has not been told anything about what is happening. She asks him to search for any physiological reasons for the crew's blind acceptance of this "wormhole" despite compelling evidence that it is a deception, so he agrees to summon some crewmembers on the pretense of routine examinations. Just then, she is called to the bridge.
+On the bridge, the first images of the wormhole are put on the viewscreen. Chakotay informs Seven that the first images from the probe they sent in are coming through: images from the other end of the wormhole. The images are put on the viewscreen; they are images of Earth. Everyone stares in rapt attention. Captain Janeway orders the course maintained, and, when Voyager emerges from the other side, that they land right at Starfleet Headquarters. Seven looks around at everyone, her sense of alarm growing ever stronger.
+
+
+=== Act Two ===
+
+Returning to the astrometrics lab, Seven twice runs gravimetric scans of the wormhole. Both times, the computer tells her the results are consistent with what it appears to be: a class 1 wormhole. However, she notices an object in the scanning grid and has the computer magnify it; it appears to be a ship. She asks for confirmation, but the computer reports that sensors do not detect any vessel. Not trusting the sensors, she sends out a hail and gets a response: an old humanoid alien pilot. He gruffly asks who she is. She identifies herself and Voyager, and informs him that they are on a course to come across him from 3.4 light-years away. His ominous response confirms her fears: "Turn around. You're being deceived."
+She asks for elaboration, but just as he begins, the connection is cut; power is being lost from the lab. She tells the computer to identify cause of the power failure. Tuvok enters and informs her that the captain has ordered power to be rerouted from the lab to the main navigational deflector for the duration of their passage through the wormhole. Seven informs him of her contact with the alien and his warning that the wormhole was indeed a deception, but, on checking the communication logs, Tuvok finds no such communication listed. Seven insists that the communication took place; the alien was warning that the wormhole is a trap. Tuvok will not listen. Seven tells him of her belief that he, like the rest of the crew, is being manipulated; someone or something is compromising his logic. He responds by restricting access to the lab "until further notice." Dismissed, she leaves.
+She returns to her Cargo Bay 2 quarters, where she finds Naomi Wildman hiding; the behavior of the crew, including her mother, has frightened the child. She tells Seven that her mother keeps smiling in an unnervingly happy manner and incessantly talking about Earth. Seven notes an important fact: she and Naomi are the only two people who are unaffected by what is happening. This is because both of them are without a desire to reach Earth; Seven out of apprehension as to how she, a former Borg drone, would be greeted; and Naomi because she was born on Voyager, and thus it is the only home she has ever known.
+
+Instructing Naomi to remain where she was, Seven goes to sickbay to get a report from the Doctor, only to find that he has been taken off-line and Ensign Paris, a trained medical technician, has taken over his duties. Paris explains that Starfleet sent a message though the wormhole that the Doctor's program could be adversely affected by the passage and that he should be taken off-line for his safety. Leaving sickbay, she is greeted by Chakotay and two security officers. Chakotay tells her that, according to Starfleet, the wormhole passes through a region of subspace that the Borg monitor, and that her neural transceiver may attract their attention; she is to be put in stasis in her alcove for the duration of the passage. She sees that 'resistance is futile' and goes with them peacefully.
+
+
+=== Act Three ===
+
+On the bridge, Captain Janeway and the duty officers, including Ensign Paris, who went to the bridge after meeting Seven in the sickbay, are very jovial about finally leaving the Delta Quadrant behind. Seven, meanwhile, is escorted by Chakotay and the security officers back to Cargo Bay 2. They are only 2,000 kilometers from the alleged wormhole. However, on the pretense of needing to adjust her regeneration parameters before going into stasis, she erects a Borg force field through which she can pass, but which prevents the others from reaching her once she moves away from them. On the bridge, Kim tries to remotely drop the force field, but Seven has Naomi enter a code to block the attempts.
+Getting a phaser rifle from storage, Seven initiates a site-to-site transport to engineering, where she stuns Torres and the engineering staff. She then instructs the computer to erect a level 10 force field around engineering and then proceeds to shut down the engines. However, on the bridge, Janeway sends an EM pulse to the console Seven is using, which stuns her. The captain then returns to her seat and orders the ship to proceed on impulse into the wormhole.
+The "wormhole" is revealed to be the same creature that the old humanoid alien was engaging. As the ship enters, the opening closes like a giant mouth. The ship flies deeper inside, struck by lighting-like discharges from the inner walls of the entity. But on the bridge, and all over the ship via view ports and monitors, what the crew sees is the inside of the "wormhole" they are convinced they are in, on their way to Earth, completely unaware that they are, in fact, on their way to death.
+
+
+=== Act Four ===
+As the ship moves deeper inside the entity, the entire crew is rendered unconscious. Their minds are locked in a dreamworld. Neelix believes he is meeting Starfleet Admirals, who have an ambassadorial position for him. On the bridge, Captain Janeway and the duty officers believe they have passed through the wormhole and Earth is now before them. Tuvok believes he is reunited with his wife, T'Pel, touching fingers with her. None of them are seeing the hideous, alien environment Voyager is now trapped in and being drawn ever deeper into.
+
+Naomi emerges from hiding. Frightened, she walks nervously through the corridors of the ship, strewn with the bodies of the unconscious crew. Peeping into engineering, she sees Seven lying unconscious as well. She tries to get to her, but is painfully stopped short by the force field Seven had the computer erect. She calls to Seven. Seven awakens, rises, returns to the console she was using, drops the force field and Naomi joins her.
+Seven then runs a scan and finds that the hull of the ship is being broken down on a molecular level; hull integrity is dropping. She and Naomi leave Engineering and head for astrometrics, where Seven hopes to at least partially get power back and use the sensors to get a better handle on the situation. On the way, they pass along a corridor lined with windows and see the horror outside. In astrometrics, a sensor scan shows that the ship is inside an immense anomaly, over 2,000 kilometers wide, that is giving the readings of a lifeform: bioplasmic discharges, organic compounds and neural networks. Remembering the old alien she had spoken to, Seven contacts him again. When she does, he angrily asks her why they did not listen to him and stay away. Seven responds that the crew believed that it was a wormhole that would take them home. The alien, whose name is Qatai, asks her if getting home was what the crew always wanted. Seven confirms this. "He deceived them," Qatai replies.
+Seven proposes that he join them aboard Voyager and work with them to find a way to escape. She tells him to drop his shields so that she could beam him aboard. He is reluctant to do this, since his ship's hull, like Voyager's, is losing its integrity and his shields are the only thing holding it together. He concludes that they are a hallucination, but Seven impatiently tells him that her scans predict the failure of his shields in 15 minutes; he can join them or die. He joins them.
+
+Once aboard, he explains to them the true nature of the entity; it is in fact a telepathic creature that feeds on starships and their crews, using a neurogenic field to telepathically induce illusions in the crew's minds that make the creature appear to be what they want most, deceiving the crew into bringing their ship to it and entering its maw, passing into its digestion chamber. The bioplasmic discharges that are intermittently hitting the ship are causing the hull to break down molecularly; this is how the creature digests the ships and crews it consumes.
+Qatai reveals that he had been hunting the creature for 40 years. He has become largely immune to its telepathic manipulation, but he still falls prey to it at times, such as in his most recent attempt to kill it. when he believed that by allowing the creature to swallow his ship, he could reach its neural plexus, a weapon shot on which would kill it. But he was deceived; the creature made him believe he was approaching its neural plexus when he was, in fact, entering its belly. Naomi, remembering a botany lesson The Doctor gave her, compares the manner in which the creature's mode of feeding to a pitcher plant catching insects, a comparison with which Qatai agrees. Naomi asks how they are going to escape the monster. Seven clarifies that it is not a monster, but Qatai agrees with the girl and says the only way to escape is to kill it.
+
+
+=== Act Five ===
+
+Seven reactivates the Doctor and fills him in. The Doctor is confused; the last thing he remembers is Ensign Paris telling him about the wormhole and how he had to be taken off-line before they entered it. Qatai informs him that the creature deceived the crew into shutting him off when he began to suspect something was amiss, since he was a hologram and therefore immune to the creature's illusion inducement. Furthermore, the creature has been fooling the crew for days, creating false sensor readings and utilizing neurogenic telepathic to get them to lower their guard. The Doctor remarks that would account for the heightened dopamine levels he found during his routine scans of the crew. Seven tells him to retrieve any bio-scans he has of the creature, while the Doctor attempts to wake up the crew.
+Qatai later returns to sickbay to find the Doctor trying to use a cortical inhibitor to break the neurogenic field's hold on the crew, starting with Lt. Torres. He insists it won't work, as he already tried a similar procedure and is soon proven right, as she's hallucinating her Maquis comrades alive, ignoring the Doctor's attempts to rouse her from her fantasy. As the Doctor is forced to lay Torres back to rest, Qatai grimly remarks that not one of the creature's victims even wants to break free of their fantasy.
+As the Doctor studies the creature further from Qatai's bioscans, Qatai comments he hates the silence, the creature's method of taking them without a fight He recounts to the Doctor how his family was lost, along with thousands of others, on a colony ship, the Nokaro, looking for a planet to settle on, when they encountered the creature. It deceived them into thinking that it was a paradise, a perfect, uninhabited world. By the time he reached them, all that was left were fading engine emissions.
+As he counts that was exactly thirty-nine years, two weeks and four days he had been fighting the creature, the Doctor loses his patience and chides him for making their dismay situation even worse. Qatai defends that he was just trying to remind them of what they're facing. The Doctor refutes that his scans have estimated the creature to be approximately 200,000 years old; "The intelligent always survive," Qatai remarks. Despite the Doctor insisting he hadn't found any signs that the creature is sentient, only operating on highly evolved instinct, Qatai begs to differ, reminding that the creature was smart enough to fool the crew into deactivating the Doctor.
+Suddenly, the ship is rocked by another bioplasmic discharge, stirring Naomi from her sleep, who calls for Seven, asking if they were still inside the monster. As Seven assured her they will find a way out, Qatai, who was studying Voyager's weapons manifest, announces he had found a possible weapon: a class 9 photon torpedo, and discusses how to use it to kill the creature with Seven. The Doctor is loath to kill a lifeform and asks for a few hours to study the creature to find a non-lethal weakness, but Seven and Qatai firmly respond that there is no time; the ship's hull is degrading too quickly.
+The Doctor suggests another course of action: every organism will attempt to expel a foreign body. He suggests they find a way to make Voyager "taste bad." Seven considers and suggests that they vent antimatter from Voyager's warp core and Qatai fire his tetrion-based weapons at it; this would cause an electrolytic discharge that would feel like a bad "stomach-ache" to the creature, causing emesis, expelling them. Qatai agrees.
+As they entered the transporter room, the Doctor passes Qatai a PADD to help him readjust his ship's shields to better resist the bioplasmic discharges. Impressed with the Doctor's versatility, he offered the hologram a place on his ship, as it'd be hard for the creature to manipulate a hologram's desires. Comparing himself as Ishmael to Qatai's Ahab from Moby Dick, the Doctor politely declines his offer, saying, "I'm a doctor, not a dragon slayer."
+
+Qatai returns to his ship and, in engineering, the Doctor, on Seven's mark, vents the antimatter. Qatai fires on it, causing violent contractions of the creature's digestive tract that hurl the two ships back up to the mouth. The sensors tell Seven that they have been expelled and are 3.9 kilometers from its mouth, but the Doctor finds it strange that only one burst could have brought about emesis in such a large creature.
+His suspicions are confirmed when Seven hails Qatai and he agitatedly tells her that they are still inside; it deceived her. She is reluctant to accept this, insisting that she is immune to the creature's telepathic manipulation, but the Doctor corrects her, telling her that she was immune when the creature was giving the illusion of being a wormhole to Earth; since she did not share that desire, she was unaffected. However, she most certainly wants to escape the creature, and thus it is now preying on that desire. Seeing that they are right, she orders a second discharge of antimatter to be released and ignited, which really does cause the creature to expel them. They beat a hasty retreat once outside. Seven offers Qatai help in repairing his damaged ship, but he declines as the creature is already chasing after them, telling her not to worry about him. "Just get your ship home. And watch out for...'pitcher plants'," he chuckles.
+
+Seven, who has routed all bridge controls to engineering, clears Voyager out of the area at maximum warp. Once out of range of the creature's neurogenic field, the crew awakens, confused, and very much surprised to find themselves still in the Delta Quadrant. On the bridge, Janeway orders Paris to scan the wormhole to find out what went wrong; of course, he finds no wormhole to scan. Kim tells her bridge controls have been rerouted to engineering. She contacts engineering and Seven responds. Janeway orders an explanation. Seven responds that the Doctor will fill her in. Meanwhile, she will file a complete report in the morning... after she has regenerated.	
+The next day, Seven finds Naomi in astrometrics studying Earth. They both agree that they find nothing remarkable about it, but, given the crew's determination, they both expect to see it for themselves someday.
+Later, Qatai engages the creature for yet another attempt at its destruction.
+
+
+== Log entries ==
+"Daily log, Seven of Nine. While we failed to locate a new source of deuterium, our mission had educational value for at least one member of the crew."
+Janeway's logs that were reviewed by Seven of Nine once she became suspicious of the crew's optimism:
+"Captain's log, stardate 52542.3. Long-range sensors have identified a wormhole leading to the Alpha Quadrant. Unfortunately, secondary scans have revealed that it's some kind of elaborate deception. The question is, who's attempting to deceive us and why?"
+"Captain's log, supplemental. We've begun to receive faint telemetry from our probe. I don't want to get the crew's hopes up, but B'Elanna thinks it may be a message from Starfleet. I am beginning to wonder if my earlier skepticism was justified." (dated 52542.4 from the graphic on a computer screen)
+"Captain's log, supplemental. I've set a course for the wormhole. With any luck we should be back in the Alpha Quadrant in a matter of days." (dated 52542.5)
+"Captain's log, stardate 52542.3. We've deployed a series of beacons to warn other vessels about the bioplasmic creature and resumed a course for home – our real home."
+
+
+== Memorable quotes ==
+"A direct route to Earth's doorstep out of the blue. What's wrong with this picture?"
+
+- Kathryn Janeway
+
+"The odds of finding such a phenomenon are infinitesimal."
+
+- Seven of Nine
+
+"Computer, activate EMH."
+"Please state the nature of the medical emergency."
+
+- Seven of Nine and Tom Paris
+
+"Resistance is futile."
+
+- Chakotay, to Seven of Nine
+
+"Voyager's my home. If we go to Earth, I'll have to leave the ship. I'd miss my room, Neelix. You and I wouldn't be able to play Kadis-kot anymore. "
+
+- Naomi to Seven
+
+"My mom says two heads are better than one. Isn't that the Borg philosophy, too?"
+"Simplistic, but accurate."
+
+- Naomi Wildman and Seven of Nine
+
+"I believe we should work together to escape this anomaly. Lower your shields and I'll beam you aboard."
+"Shields are the only things holding my ship together. I'd be destroyed."
+"I will enhance your shield emitters."
+"You won't fool me that easily."
+"I assure you we are not a deception."
+"Oh, how convenient, an enormous starship comes to my rescue. You might try a more subtle approach."
+"My scans indicate that your shields will fail in approximately fifteen minutes. Join us, or you can remain on your vessel secure in the knowledge that you were not deceived. But that knowledge will do you little good when you are dead. Decide now."
+"All right. All right, I'm taking my shields down."
+
+- Seven of Nine and Qatai
+
+"Anomaly? It's a beast! Cunning, deadly."
+"What does it want?"
+"You. Your ship. Antimatter, biomatter. He consumes it."
+
+- Qatai and Seven of Nine
+
+"Turn around. You're being deceived."
+
+- Qatai warning Seven about the pitcher plant
+
+"Please state the nature of the medical emergency."
+"Your ship is being devoured. I'd say that's an emergency."
+
+- The Doctor and Qatai
+
+"And who might you be, the local monster expert?"
+
+- The Doctor, to Qatai
+
+"This is a sickbay, not an arsenal."
+
+- The Doctor
+
+"I'm a doctor, not a dragon-slayer."
+
+- The Doctor
+
+"It is unremarkable."
+
+- Seven of Nine discussing Earth with Naomi Wildman
+
+"The intelligent always survive."
+
+- Qatai
+
+
+== Background information ==
+The story pitch that initiated the writing of this episode had a botanical basis. Supervising Producer Kenneth Biller explained, "Bill Prady, who pitched and wrote the story [...] had this idea about the pitcher plant, a plant that sends out false pheromones to attract its prey." (Cinefantastique, Vol. 31, No. 11, p. 45)
+Naomi Wildman actress Scarlett Pomers relished how much this episode emphasises her character. Consequently, she remarked, "It was a really awesome episode to do." (Star Trek Magazine issue 179, p. 65)
+According to the unauthorized reference book Delta Quadrant (p. 286), the windowed corridor through which Seven of Nine carries Naomi Wildman was actually the mess hall set, and the interior of Qatai's vessel contained many "bits and pieces" from stock, including the distress beacon from the previous episode ("Gravity").
+In addition, Delta Quadrant (p. 286) proposes that the hallucinatory views of the "wormhole" interior seem to reuse stock effects footage from DS9: "Emissary".
+The creature that stars in this episode is similar to a creature – described by Worf in the earlier-produced TNG: "Where Silence Has Lease" – that is said to "devour entire starships." Another creature similar to the one in this episode is Bevvox from the episode "Think Tank", which prefers a variable-gravity environment. The plot of a starship and crew almost being "Devoured" by a creature was used before in TOS: "The Immunity Syndrome". The Moby Dick plot of a man being obsessed with "destroying" the creature that wronged him even at the cost of his own life is seen in Star Trek II: The Wrath of Khan and TOS: "The Doomsday Machine".
+Seven of Nine says that the spaceship eater is the largest organism she has ever seen, at 2,000 kilometers in size. This is orders of magnitude smaller than the nucleogenic cloud being Voyager entered prior to her presence on the ship. It is also orders of magnitude smaller than other space organisms the Federation has encountered.
+Ken Biller perceived this episode to be reminiscent of Star Trek: The Original Series. "It's kind of like old-fashioned Star Trek," he observed. (Cinefantastique, Vol. 31, No. 11, p. 45)
+The creature gives a false letter to Janeway that supposedly came from Mark, saying that he had broken off his engagement to another woman. Yet from an actual letter Janeway receives in the fourth season installment "Hunters", Mark was already married to another woman.
+Ken Biller did not hold this outing in high esteem. "'Bliss' was not my favorite episode [....] A big monster in space that eats starships has the potential for being silly," Biller opined. (Cinefantastique, Vol. 31, No. 11, p. 45)
+
+
+=== Continuity ===
+This is the second time that a ship's emissions are modified to have an unpleasant taste to a creature that wishes to feed on them. The first was TNG: "Galaxy's Child", in which "Junior"'s milk is soured.
+The Doctor tells Qatai that his wide range of skills make him "something of a renaissance EMH." The Doctor went on to feature in the seventh season episode "Renaissance Man", in which he must impersonate multiple crew members.
+Harry Kim references Delta Quadrant species in this episode when he says "no more Hirogen hunting parties, Malon garbage scows". Voyager encountered these species for the first time in "Message in a Bottle" and "Night" respectively.
+Naomi Wildman is seen carrying the Flotter toy, introduced in "Once Upon a Time".
+The game of kadis-kot, introduced in "Infinite Regress", is mentioned by Naomi when she lists things she would miss by leaving the ship.
+When Seven reviews Janeway's log entries, the stardates begin at 52542.3 and advance up through 52542.5. At the end of the episode, however, Janeway's final log entry again has the stardate 52542.3.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 5.7, 5 July 1999.
+As part of the VOY Season 5 DVD collection.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest star ===
+Scarlett Pomers as Naomi Wildman
+
+
+=== Special guest star ===
+W. Morgan Sheppard as Qatai
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Christine Delgado as Susan Nicoletti
+Andrew English as operations officer
+Larry Fine as illusory Starfleet admiral
+Sylvester Foster as Timothy Lang
+A. Margellon as illusory Starfleet admiral
+Erin Price as Renlay Sharr
+Kimber Lee Renay as T'Pel
+G. Roland as illusory Starfleet admiral
+Unknown performers as
+Boylan
+White
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+Stuart Wong – stand-in for Garrett Wang
+
+
+=== References ===
+adage; anthropology; antimatter; Australia; beach: bioplasmic energy; bioplasmic organism; bioscan; botany; Cardassians; class-5 probe; class 9 torpedo; cortical inhibitor; Delta Flyer; deuterium; digestive chamber; dopamine; duty shift;Earth; electrolytic reaction; engagement; esophageal aperture; Federation; Ferengi; Flotter; foreign body; garbage scow; gravimetric scan; Hansen, Claudia; Hansen, Magnus; Hirogen; hunting party; impulse manifold; Johnson, Mark; kilometer; Lan'Tuana sector; logic; Malon; Maquis; Moby Dick; monster expert; navigational array; neural pathway; neural transceiver; neurogenic field; neurotransmitter; neutrino; Nokaro; odds; organic compound; part-time job; phenomenon; pheromone; pitcher plant; primary neural plexus; psychogenic manipulation; Romulans; second opinion; Sector 001; Starfleet Academy; spatial turbulence; stasis; subspatial contortion; photon torpedo; pitcher plant; Qatai's vessel; quadruped; security alert; spatial gradient; "steady as she goes"; survey report; telepathic pitcher plant; telepathy; temporal variance; test flight center; tetryon; transkinetic vector; tummy ache; warning beacon; weapons manifest; welcome home party; Wildman, Sam; wormhole; yellow alert
+
+
+=== External links ===
+"Bliss" at Memory Beta, the wiki for licensed Star Trek works
+"Bliss" at Wikipedia
+"Bliss" at the Internet Movie Database

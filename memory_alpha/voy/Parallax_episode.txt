@@ -1,0 +1,310 @@
+Investigating an apparent distress call, Voyager becomes trapped inside the event horizon of a quantum singularity.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+In sickbay, Lieutenant Carey is being treated by The Doctor after getting into a conflict over the power grid in engineering with B'Elanna Torres. He is extremely furious with Torres, telling Chakotay and Tuvok that he wants her kept away from engineering after Chakotay tells Carey that he will have a word with Torres. Carey yells at Chakotay to "keep that woman out of my engine room and everything will be fine!" The two officers leave sickbay and discuss the situation in the corridor. A difference in opinion occurs when Tuvok wants Torres confined to the brig with the possibility that she'll receive a court martial on the ship, while Chakotay prefers to deal with her on his own. Chakotay is able to persuade Tuvok to let him deal with Torres and enters a turbolift alone, while Tuvok warns that he intends to make a full report in his security log. While proceeding to Torres' quarters, Chakotay is met by Crewman Jarvin and Ensign Seska, who let him know that they will support him if he seeks to take over the ship. Chakotay's bad mood becomes worse at being told this and threatens to personally throw them in the brig for mutiny if he hears it again, leaving Jarvin and Seska shocked.
+In her quarters, Torres is fuming to the point that when she hears the door chime, she throws a plate at the door, which misses hitting Chakotay. He hands her a PADD containing information on Joe Carey's medical status, and furiously tells her that if she'd hit him a little harder she might have caused serious and permanent injury and now he has a Vulcan wanting to court martial her on one side and the Maquis ready to mutiny on the other. Torres mentions how much Carey irritates her. Chakotay tries to coax Torres into apologizing to Carey and getting to know him over a hot cup of pejuta, but Torres scoffs at the very idea. Chakotay then tells her that she could use the help and support of people like Carey if she wants to be the next chief engineer. Torres is suspicious about this, pointing out that Carey is next in line. But Chakotay tells her that she is the better engineer. He moves to leave her quarters, and Torres asks about what Captain Janeway thinks of the situation; Chakotay replies that he hasn't told her – yet.
+
+
+=== Act One ===
+"Captain's log, stardate 48439.7. As we maintain a course back to the Alpha Quadrant, we're conducting what would normally be routine maintenance to the ship. Routine, that is, if we had access to a starbase."
+In the briefing room, the senior staff members are discussing the situation of the power and personnel shortage, as Neelix and Kes invite themselves into the meeting. Given the energy shortage, dwindling rations and problems with the replicators, Kes recommends converting a cargo bay into a hydroponics bay so they can grow their own vegetables. Ensign Kim suggests cargo bay 2. Janeway agrees, and puts Kes in charge of the project. Janeway then brings up the open positions on the ship, and Chakotay passes her a list of former Maquis crew members he believes would make good officers. Seeing B'Elanna Torres' name on the list, Janeway wonders – following all the complaints she has heard about Torres – exactly what job it is that Chakotay thinks she can do. His response is "Chief engineer." Somewhat taken aback, Janeway changes the topic to medical staff due to the fact that the the Emergency Medical Hologram, which is substituting as the chief medical officer, is unable to leave sickbay and also has no bedside manner. It is decided that someone should train as a field medic, and Tom Paris is unhappy at being selected (having taken two semesters of biochemistry in Starfleet Academy, he is the most qualified candidate). The staff briefing is interrupted when Voyager violently shakes; those present at the meeting all proceed to the bridge.
+
+On the bridge, Seska reports that Voyager has encountered a spatial disturbance which is actually a type-4 quantum singularity. A ship is caught near the event horizon and sends a transmission to Voyager. The message is erratic and cannot be understood. Voyager sends a transmission back, but there's no response. Janeway inquires about a tractor beam, but Harry Kim reports that subspace interference in the area is extremely heavy. Chakotay contacts engineering and asks Torres, who recommends remodulating a tractor beam to match the subspace interference. Janeway, who is upset at Chakotay contacting Torres directly rather than consulting the senior officer in charge, interrupts Chakotay and puts Carey in charge. She then asks Chakotay to see her in her ready room.
+In the ready room, Janeway tells Chakotay that his behavior on the bridge was unacceptable. Chakotay states that he contacted Torres because he felt that she would give him a quicker answer. He explains that, if she received a senior position and if the former Maquis crew members were granted more responsibility in general, they would finally become more loyal. Janeway argues that all the Starfleet officers have worked hard and earned their commissions, while the Maquis (apart from Chakotay, who was a command-level officer before his resignation from Starfleet) are untrained and undisciplined so it would be asking too much that the Starfleet crew be forced to accept a Maquis being promoted above them, especially one like Torres, who has already shown she can't control herself and couldn't handle the Academy. She then tells Chakotay that he needs to stop seeing them as specifically his crew. Chakotay retorts that he won't be Janeway's "token" Maquis officer and the reason he treats them as his own people is that, if he didn't look out for them, no one else would. Janeway tells him that she'll consider any other Maquis officer he wants to recommend, but he insists Torres is the right choice for chief engineer and asks Janeway to at least talk to Torres and get to know her better.
+
+
+=== Act Two ===
+Kes enters sickbay to retrieve some nitrogenated soil for her hydroponics bay. The Doctor begins commenting on how he is going to be used for every minor medical problem that's going to occur. Kes notices The Doctor's sensitivity in his behavior, but also notices that he appears shorter. The Doctor performs a diagnostic on his imaging processor and discovers he has decreased in height by 10.4 centimeters. He contacts Harry Kim and asks for assistance, but he's too busy. Before Kes leaves with her soil samples, she inquires if The Doctor has chosen a name, which he has not. She deactivates his program and leaves.
+The subspace tractor beam has been completed and is used. The beam is able to penetrate the singularity's event horizon, but the new power relays installed begin to fail. Voyager is jolted and begins to be pulled into the singularity. Full reverse is engaged but the tractor beam cannot be disabled, causing massive hull stress. Janeway orders the impulse engines disengaged and Voyager begins moving forward again. She then orders the tractor beam disengaged, at which Carey cuts the power feed, manually; the tractor beam is disengaged. In need of help, Janeway orders setting a course for Ilidaria (a nearby, technologically-advanced society which Neelix had suggested might be willing to help) at full impulse.
+
+Janeway decides to follow Chakotay's suggestion to talk with Torres and invites her to her ready room. The captain tries to bond with Torres, by talking to her about her past, especially with Starfleet Academy. Torres then notes that she didn't like Starfleet's system and angrily leaves, saying that she didn't want anything to do with Starfleet then and is sorry that she has to now. After Torres leaves, The Doctor contacts Janeway, using monitor input 47, and notifies her of the error in his imaging system. He also relays news to her that nine crew members have reported severe headaches, muscle spasms, sudden waves of dizziness, all of which are possibly related to the quantum singularity. The ship jolts and Janeway returns to the bridge, while leaving the channel to The Doctor open.
+
+Apparently, Voyager has found another type-4 quantum singularity that has all the same properties as the one discovered earlier. Reports indicate, however, that Voyager is back to the same position as before, and that it is the same quantum singularity.
+
+
+=== Act Three ===
+Voyager is turned in the opposite direction from the singularity and warp is engaged. At twelve million kilometers from the singularity, it appears ahead of the ship again. All departments are ordered to submit reports and a staff meeting is planned. Chakotay requests that Torres be invited along if she is still being considered as Chief Engineer, and Janeway decides to include her. In Engineering shortly beforehand, Carey submits news of the briefing to Torres, but tells her that he speaks for Engineering and warns her not to say anything unless directly asked, which prompts Seska to privately comment after he leaves to Torres that she should have broken more than his nose.
+
+In a corridor, Tuvok and Kim discuss the singularity situation. Kim changes the subject and inquires about the conflict in engineering, noting that he has heard Starfleet and Maquis are figuratively at each other's throats. Kim, all of a sudden, collapses, complaining of extreme dizziness. Tuvok helps him up and begins to escort him to sickbay.
+During the staff briefing, The Doctor reports that 27 more crew members have since encountered the symptoms he mentioned earlier (a number that includes Kim). The Doctor has no idea what's going on and therefore cannot provide a treatment. The shrinking is still occurring; at this point, he has lost 68 centimeters of height. The staff moves onto the subject of the singularity, for which no progress has been made. However, using the problem with the Doctor's imaging system, Torres (who has, in fact, been behaving herself) is able to determine that she could use a localized dampening field around the external sensors to contact the other ship. Janeway agrees with this idea and dismisses the staff to begin work. As Chakotay leaves, Janeway gives him a small nod to communicate that Torres is starting to impress her.
+The deflector dish is modified and the dampening field is deployed. The crew receive the transmission from the ship again. It is cleared up and it becomes evident to the crew that it is the same message Janeway transmitted earlier. Torres applies the dampening field to the visual sensors, and the image of the ship resolves; it is Voyager.
+
+
+=== Act Four ===
+
+Torres has an explanation for the seeming duplication of the starship, so the staff returns to the briefing room. Torres uses a reflection in water as a metaphor for the current situation, except that what the Voyager's crew is viewing is a time-delayed image of themselves. They estimate it will take nine hours until Voyager is destroyed by the singularity, so Torres recommends that they find a "crack" to escape. Remembering when they first entered the anomaly, Janeway and Torres think that Voyager made a hole in the event horizon and that they will need to find the same hole. Finishing each other's sentences, "warp particles" is the idea developed by Torres and Janeway; if all goes to plan, such particles will make the crack visible, allowing Voyager to fly out.
+The deflector dish is deactivated and warp particles are routed to the deflector. The particles are deployed and Paris locates an irregularity in the event horizon. The hole is too small, so they will have to expand it. Torres recommends using a dekyon beam to expand the hole. Voyager is too far to emit the beam, so a shuttlecraft has to be used. With their understanding of the "finer points" of temporal mechanics, both Janeway and Torres board the shuttle and leave Voyager.
+
+
+=== Act Five ===
+On the shuttlecraft, the dekyon beam is prepared. Torres decides to use this moment to apologize to Janeway about her earlier behavior and also recalls that she left the Academy because she felt she couldn't make it in Starfleet. Janeway notes that Professor Chapman thought Torres was a promising cadet and, disappointed that she had quit, went as far as noting in her permanent record that he would support her re-entry if she ever decided to reapply. Torres is surprised to hear that, because she always felt that Chapman hated her and couldn't wait to see her kicked out of the Academy, but Janeway explains that some professors like students who challenge their assumptions, and many of Torres' teachers agreed that she had the potential to be an excellent officer. The shuttle arrives at the irregularity and the dekyon beam is charged. They get close enough to fire the beam and do so, causing the hole to start widening. It reaches a 65% increase in growth, as the shuttle starts to lose power. They turn around and return to find two Voyagers: they only have enough power to reach one with no way to communicate with the rest of the crew. Guessing, Janeway chooses the Voyager on the starboard side of the shuttlecraft while Torres chooses the one on the port side. Janeway realizes that the port one is moving towards the rift, which the real Voyager did, twenty minutes prior whereas the starboard one is pointed away to give them easier access to the shuttlebay. They go with Janeway's suggestion, which is indeed the correct one.
+
+Voyager begins to move towards the rift, which is slowly closing. The rift length reaches 110 meters, which is too small to facilitate the ship's exit. Knowing this is their only chance of escape, Janeway decides they're going to smash their way through and orders full power to the impulse engines as they approach the rift. Shields fail and the port impulse engines lose power. Despite the problems, Voyager is able to punch its way out and clears the singularity. Relieved, Janeway orders that Voyager be at least a hundred million kilometers away from the singularity before commencing repairs.
+
+In engineering, Torres has earned the position of chief engineer. Her first duty is to bring the warp drive online by 1300 hours, which she says is impossible. Chakotay suggests she break a few noses, or at least bend a few to make it happen. After the commander departs, she orders some officers to work on getting the isolinear bank up and running but they don't respond until she says "please." Torres confronts Carey and asks for his help in her promotion as the new chief engineer. He gladly accepts, stating that she will never get anything less than his best, and they both shake hands. Meanwhile, on engineering's upper level, Janeway is observing Torres and the staff, as Chakotay joins her. Two crew members have already filed complaints about Torres' promotion and she may be in for a rough period of adjustment, Janeway notes, but she has a feeling that Torres will be a fine addition to the crew. Chakotay asks Janeway a question – off the record – if things had happened differently and they were on the Maquis ship now instead of Voyager, would Janeway have served under him? She responds, "One of the nice things about being captain... is that you can keep some things to yourself."
+And back in sickbay, The Doctor contacts Janeway again and once again requests a repair crew to fix his imaging systems, as he is now only several centimeters tall and unable to treat Lieutenant Paris' scratched hand, much to Tom's amusement.
+
+
+== Memorable quotes ==
+"I didn't even come close to hitting him that hard."
+"So, on the one side, I'm facing a Vulcan who wants to court martial you. And on the other, I'm facing all the Maquis who are ready to seize this ship over this. You've turned this into one lousy day for me, Torres!"
+
+- B'Elanna Torres and Chakotay
+
+"Engine efficiency is down another fourteen percent. If we don't get more power to the warp drive, we're all going to have to get out and push."
+
+- Tom Paris
+
+"I can do some wonderful things with vegetables, captain! My feragoit goulash is known across twelve star systems."
+
+- Neelix
+
+"We have a problem."
+
+- Kathryn Janeway
+
+"Lieutenant, I understand you studied biochemistry at the Academy?"
+"Uh, only two semesters."
+"Close enough. You've just volunteered to be a field medic. Report to The Doctor as soon as we're finished here."
+"But, captain..."
+
+- Kathryn Janeway and Tom Paris
+
+"If I ever hear you talk that way again, I'll personally throw you in the brig for mutiny!"
+
+- Chakotay, to Jarvin and Seska
+
+"I've made a list of several Maquis candidates who would make good officers."
+"B'Elanna Torres? She was the one involved in that incident with Mr. Carey?"
+"That's right."
+"Just what job do you think she's suited for?"
+"Chief engineer."
+"You're serious?"
+"Very."
+"Regarding sickbay..."
+
+- Chakotay and Janeway
+
+"Now I know how Hippocrates felt when the king needed him to trim a hangnail."
+
+- The Doctor
+
+"I've never found your twisted sense of humor very funny, Chakotay."
+
+- B'Elanna Torres
+
+"She struck a fellow officer. That is a court martial offense."
+"She's a Maquis, and in the Maquis, sometimes you have to push people out of your way to get things done."
+
+- Tuvok and Chakotay, on B'Elanna Torres
+
+"I will never cease to be amazed at the Human capacity for hyperbole."
+
+- Tuvok
+
+"Mr. Paris is about to impress us with his piloting skills."
+
+- Chakotay
+
+"Wait a minute, wait. Wait a minute. Let me get this straight. We were cruising along at warp seven. Then, we picked up a distress call and moved in to investigate. But now, you're saying that the other ship is actually just a reflection of us and that the distress call is actually just the captain's opening hail. But we picked up the distress call before she sent the hail. How could we have been seeing a reflection of something we hadn't even done yet? Am I making any sense here?"
+"No, but that's okay."
+
+- Tom Paris and Kathryn Janeway
+
+"This isn't another singularity... it's the same one!"
+
+- Tom Paris
+
+"She's the best engineer I've ever known. She could teach at the Academy! You're right, captain; I do consider these to be my people because nobody else on this ship will look out for them like I will. And I'm telling you: you're going to have to give them more authority if you want their loyalty."
+"Theirs or yours, commander?"
+
+- Chakotay and Kathryn Janeway
+
+"I have no intention of being your token Maquis officer!"
+
+- Chakotay
+
+"In command school, they taught us to always remember that maneuvering a starship is a very delicate process, but over the years, I've learned that, sometimes, you just have to punch your way through. Mr. Paris, full impulse power."
+
+- Kathryn Janeway
+
+"''Sometimes you just have to punch your way through.' I'll have to remember that one."
+
+- Tom Paris
+
+"Can I ask you a question, off the record? If things had happened differently, and we were on the Maquis ship now instead of Voyager, would you have served under me?"
+"One of the nice things about being captain is that you can keep some things to yourself."
+
+- Chakotay and Janeway
+
+
+== Background information ==
+
+
+=== Story and script ===
+Jim Trombetta pitched the premise for this Star Trek: Voyager episode after having pitched several tech-heavy installments to Star Trek: Deep Space Nine. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135) At this early stage, the story had the working title "Ghost Ship". (Information from Larry Nemecek) Supervising Producer Brannon Braga said of the Voyager pitch, "His concept was that there was a ship trapped in a quantum singularity and how do we get it out?" (Cinefantastique, Vol. 27, No. 4/5, p. 34) The pitch was considered to be hard to execute, however. Trombetta noted, "That story was very complicated and possibly wasn't completely doable." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135) Braga similarly thought the pitch was "a highly technical premise to get working." (Star Trek Monthly issue 7, p. 8) However, he also particularly liked the premise, referring to it as "a very cool idea." Executive Producer Jeri Taylor commented, "['Parallax'] started as a really high-concept show right up Brannon Braga's alley, because it was some weird time distortion thing." (Cinefantastique, Vol. 27, No. 4/5, p. 34)
+The story pitch was bought early in the development of Star Trek: Voyager. Jeri Taylor noted, "'Parallax' was one of the first concepts that we bought as we started into story development." (Cinefantastique, Vol. 27, No. 4/5, p. 34)
+One influence on this episode was the prospect of bonding the Voyager crew. Executive Producer Michael Piller stated, "I wanted the ship out there and into danger to see how the crew reacted. So we created this strange time-space anomaly that we were involved with, and then we were going to see how this crew would work together." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135) Brannon Braga remarked, "We knew we wanted to do a Maquis/Starfleet adjustment episode; and it needed to come early. It turned out that would be 'Parallax.'" (Cinefantastique, Vol. 27, No. 4/5, p. 76) Indeed, at least one of the reasons that Braga was eager to become involved in the early stages of Star Trek: Voyager (having missed the chance to work on the writing of the script for the pilot episode, "Caretaker", due to having been on vacation) was that he wanted to have a hand in developing the characters. Of his earliest influence on the series, he said, "I was involved in developing the stories, and wrote the first episode after the pilot. I was very eager to get involved from the beginning, for all the obvious reasons. I wanted to see what it was like to shape characters." (The Official Star Trek: Voyager Magazine issue 5, p. 45)
+The idea of B'Elanna Torres' promotion to the head of her department was transplanted into this episode. Jeri Taylor recalled, "We had planned originally to make B'Elanna the chief engineer and Tom Paris the conn officer in the pilot, and then it just seemed overkill, so we lifted that out and attached it to this." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135) Having Torres become the chief engineer in this episode not only set her up in that position for the rest of the series but also provided motive for the tension between the Maquis and Starfleet sides of the crew. Brannon Braga explained, "The [series] bible said the Chief Engineer is B'Elanna Torres. Well, she's not made chief engineer in the pilot. Her earning the job probably should be her first episode, which can also embody the Maquis-Starfleet conflict that is going on, because if you make a Maquis chief engineer, there are lots of Starfleet people in line for that job who are going to be pretty pissed off. So that was a good character situation to exploit." (Cinefantastique, Vol. 27, No. 4/5, p. 76) Braga also stated, "One of [the] things we wanted to accomplish with the first episode was getting B'Elanna into position as chief engineer, so that concept fit a lot of criteria." (The Official Star Trek: Voyager Magazine issue 5, p. 45)
+The "Ghost Ship" pitch was discussed by the VOY writing staff at a story meeting in late May 1994. Some of the ideas they discussed for this initial episode were B'Elanna becoming chief engineer and conflict with the crew. In the minutes from the meeting (dated 31 May 1994), the episode was referred to as including not only these two elements but also "Tuvok relationship", "pressure on Janeway and Chakotay", and the crew feeling a lack of connectedness. Additionally, a bracketed note concerning this first episode stated, "Possible marriage to 'Ghost Ship'." [1]
+"Ghost Ship" wasn't the only working title this episode had, as it was also initially called "Deep Time". [2] The episode was renamed this after the pitch was bought. (Information from Larry Nemecek)
+From the pitch, Brannon Braga developed the script, with help from some other contributors. Jeri Taylor recalled, "We bought the idea of the quantum singularity and then tried to make a story out of it, and several people added to it. The original writer had a vision for it and Brannon [Braga] took it over." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135)
+The episode's script was a difficult one for Brannon Braga to pull together. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 136) He noted, "'Parallax' was a story that had some problems." (The Official Star Trek: Voyager Magazine issue 5, p. 45) While he was trying to write the script, Braga was also taking pitches – two or three a day, every day – as Jeri Taylor and Michael Piller (the only members of the series' writing team, at that point) were both busy with helping to cast the series, and stories were needed for the rest of the first season. (A Vision of the Future - Star Trek: Voyager, p. 260)
+Brannon Braga was unsure, while writing this episode, how the members of the series' main cast would perform the teleplay. "I wrote 'Parallax' without having seen any of the actors perform the roles," he explained. "I didn't know how they were going to do it." (A Vision of the Future - Star Trek: Voyager, p. 171)
+It was Brannon Braga who introduced the concept of a duplicated Voyager into the story. "Jim Trombetta [had come] up with the idea of our finding a ship in a quantum singularity," Braga recalled, "and there were aliens trapped in there that we helped. What I did was cut the aliens out and say, 'Wouldn't it be cool if in fact it wasn't another ship, it was us and we've been trapped all along?'" (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 136) Braga also said, "My only twist [to Trombetta's pitch] was that there is no ship; it's really us, and we've been trapped the whole time, we're just looking at a reflection, like being at the bottom of a lake looking up at the ice above. I thought that was kind of a cool thing. And there is the twist about seeing two Voyagers at the end. One is the reflection and one is real. Which one is which?" (Cinefantastique, Vol. 27, No. 4/5, p. 34)
+Another facet of the story that Braga introduced related to the hardship of life aboard Voyager. Jeri Taylor stated, "Brannon set up the conditions of the crew and the ship [....] For instance, the replicators are not fully functional, so people are on replicator rations. They have to get food and grow food." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135)
+Brannon Braga lost no sleep worrying about the particulars of the technobabble used for the anomaly of this episode, as his top priority was dramatizing the plot itself. He explained, "Normally, the way we write stories is we come up with what we want to do dramatically [...] We add science later. And it works out much better that way. Though 'a quantum singularity' is a mouthful, I decided to use it anyway; but I literally could have called it 'a quantum fissure,' 'a quantum sinkhole,' anything. And who cares? Who really cares?" (Cinefantastique, Vol. 27, No. 4/5, p. 34)
+The first draft of the episode's script was issued on 19 August 1994. (Information from Larry Nemecek) In that draft of the teleplay, the Maquis, as a group, weren't referred to as having problems with Voyager's Starfleet contingent. On the contrary, an initial captain's log which would have started the episode included Janeway saying, "So far, the Maquis are working well with the rest of the crew... and seem to be willing to put aside their differences. It's an encouraging sign..."
+Rather than begin with Carey in sickbay, the teaser of the first draft script focused on repairs to Voyager following the Kazon attack that takes place in "Caretaker". The maintenance work was to be shown with a montage accompanying Janeway's voiceover log entry.
+In the scene where Kes takes some soil samples from sickbay, the first draft script had Tom Paris casually namecalling The Doctor – addressing him as "photon-face" and "Doctor Smoke and Mirrors" – and, after The Doctor revealed to Kes that Paris was attracted to her, she and Paris had a conversation about Human sexuality which ended with Paris uncertain, as he exited, about how Kes felt about him. She subsequently assumed "Doctor Smoke" might be The Doctor's real name.
+B'Elanna was eating P'tokian spikefish, a Klingon food she had volunteered to receive from the ship's emergency rations, in the mess hall when Chakotay arrived there. They proceeded to have a discussion much like the one they have in the episode's teaser, though it took place later in the first draft script (i.e., as part of the second act). While arm wrestling, they reminisced about having served on the Zola together, where they had previously arm wrestled, and made mention of Torres having shattered the sternum of a crewmember named Jenkins on the ship, a long time ago. Chakotay admitted that he believed Jenkins had deserved the injury.
+On the way to the Ilidaria system, Neelix mentioned to Janeway that he was familiar with the commander of the Ilidarian merchant fleet and advised her, when she began suffering a slight headache, to pinch her big toe, apparently an ancient Talaxian remedy. He was even about to demonstrate this medical treatment on her when she declined.
+Janeway only approved of B'Elanna Torres as the chief engineer in the penultimate scene of the first draft script, talking directly with Chakotay as they walked through a corridor. In the last scene of the script, Chakotay showed B'Elanna her engineering staff, much as he does in the final version of the episode.
+Brannon Braga had completed the teleplay by September 1994. (A Vision of the Future - Star Trek: Voyager, p. 323) The installment's final draft script was submitted on 11 October 1994. [3] In summation of the writing process, Braga noted, "What I tried to do is come up with some interesting twists." (Cinefantastique, Vol. 27, No. 4/5, p. 34) He elaborated, "I tried to put as many twists and turns in there as possible. It seemed like a good idea to do a weird time anomaly show, because they're generally very popular, and it afforded us the chance to develop conflict between some of the characters." (The Official Star Trek: Voyager Magazine issue 5, p. 45)
+The scripted scene description for the moment when the distant and as-yet-unidentified future Voyager appears on the viewscreen stated, "We see the image of a distorted spacecraft – the ship is a ghostly smear, murky and wavering, as though seen through a funhouse mirror." (Star Trek Magazine issue 128, p. 94) Hence, the concept of essentially a "ghost ship" was retained despite the story and script having meanwhile undergone multiple changes.
+
+
+=== Cast and characters ===
+Jeri Taylor was pleased that this episode develops the relationship between Janeway and Torres. "We were able to put in place the whole arc of B'Elanna and Janeway," Taylor noted. (Cinefantastique, Vol. 27, No. 4/5, p. 34) She also remarked, "I think a nice arc occurs between B'Elanna and Janeway from conflict and skepticism to a real bonding, problem solving and, ultimately, affection." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135)
+Michael Piller liked the character development of not only Janeway and Torres but also Chakotay. Piller commented, "What appealed to me most about 'Parallax' was how it illuminated the relationship between Chakotay and B'Elanna and Janeway; how Janeway was going to deal with this first issue with the Maquis, how Chakotay was going to be the man in the middle and how, ultimately, B'Elanna was going to fit into this crew. Essentially she went from being the most outside force on the ship to being brought into the inner circle [...] Ultimately, what worked was the triangle between Chakotay, Janeway and B'Elanna. The more time we spent with that, the better the show became." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135)
+As Brannon Braga had been unsure how the regular cast members would perform this episode's script, he found that their interpretations of his written material were completely different from his own. "Of course none of them did it the way I imagined it," he noted. (A Vision of the Future - Star Trek: Voyager, p. 171)
+Actress Martha Hackett was cast in the role of Seska by Director Kim Friedman, who – a few months beforehand – had helmed the Star Trek: Deep Space Nine outing "The Search, Part I", in which Hackett had portrayed T'Rul. Regarding Seska, Martha Hackett recalled, "When they first gave me the role, they said, 'You know, she's a member of the Maquis and she's one of Chakotay's gang before they joined up here. She's vigilant about the beliefs of the Maquis, the energy behind that kind of rebel: "We're gonna do it a little differently."' That was the background they gave me." ("Saboteur Extraordinaire: Seska", VOY Season 2 DVD special features) The actress also remembered, "It was clear that her point of view was, we shouldn't have done this, why did we join up with the Federation? We should have stayed a splinter group. That was all that had been spelled out for me." [4]
+Robert Picardo has revealed that this episode provided him with a better understanding of his character of The Doctor than he had previously had. Picardo remembered, "I didn't quite get the joke [...] until the third episode of the series, where Kes comes into The Doctor's office and asks for soil samples, and The Doctor goes off on this tirade about how he was designed for emergency medical use only and now every tiny, banal medical or scientific need was gonna be funneled his way and he was gonna be forced to do all these demeaning things, in his eyes. Here he was, the combination of everything that we know about medicine in the 24th century, so he has all of this wealth of knowledge. And yet anyone, any idiot on the crew, can turn him on or off like a light switch. Now that would piss me off. And that's what it did to The Doctor. It made him mad, and I think that that was the first major clue." ("Voyager Time Capsule: The Doctor", VOY Season 7 DVD special features)
+At the 2009 DragonCon, Garrett Wang recalled that Kim Friedman sent the cast of Voyager a video tape along with a letter shortly before "Parallax" was to begin shooting. The letter advised the cast to practice shaking before filming, as this episode had several scenes where Voyager was rocked by the quantum singularity. Friedman had included clips on the video tape of the Deep Space Nine episodes she had directed, where she felt the cast of that show had perfected the shaking she wanted. [5]
+
+
+=== Production ===
+
+A graphic of this episode's singularity was created for the episode but was ultimately not used here, subsequently being reserved as stock animation in case it was ever needed in later episodes. (The Official Star Trek: Voyager Magazine issue 8, p. 44) The graphic was later reused in the third season episode "Displaced".
+This episode is a bottle show, the first such installment of Star Trek: Voyager. (Delta Quadrant, p. 14)
+The episode began shooting on Monday, 24 October 1994, a date that did not leave much time for "Caretaker" to finish shooting and made filming of visual effects – which was busily being undertaken on "Caretaker" – even more hectic than it already was. When production on this episode was well under way, it was decided that several scenes of "Caretaker" would be reshot. (A Vision of the Future - Star Trek: Voyager, pp. 316, 321 & 325)
+Although this episode's credits name Tom Benko as the episode's editor, the official reference book A Vision of the Future - Star Trek: Voyager (p. 318) claims that the episode was edited by Daryl Baskin.
+The opening credits changed in this episode from how they were displayed in "Caretaker", with ranks being added to all of the "also starring" roster, except for B'Elanna Torres, who would have her rank added to the credits in the following episode.
+
+
+=== Creating the shuttlecraft, shuttlebay, and spatial effects ===
+
+This episode marks the first appearances of both a Type 8 shuttlecraft as well as Voyager's shuttlebay.
+Despite both Production Designer Richard James and Scenic Art Supervisor/Technical Consultant Michael Okuda firmly believing that Voyager should have a shuttlecraft design of its own, the series had no money in its first season budget for the design and construction of such a craft. Consequently, the interior of the shuttlecraft shown here was a slightly modified reuse of sets that had been used as the inside of the Type 6 shuttlecraft in Star Trek: The Next Generation. The Type 8 shuttlecraft's exterior was similarly a modified reuse of the Type 6 shuttlecraft miniature. (A Vision of the Future - Star Trek: Voyager, pp. 67 & 68) James and Okuda later got their wish with the creation of the Class 2 shuttle, which was first introduced in the second season episode "Threshold".
+The name of the Type 8 shuttlecraft in this episode, the Tereshkova, was only decided upon after Michael Okuda had suggested several names that had been rejected by either Richard James or the producers. On 5 December 1994, Okuda considered the name Einstein, but he really wanted a female explorer's name to be used. For several minutes, he brainstormed for names with Assistant Art Director Louise Dorton and Senior Illustrator/Technical Consultant Rick Sternbach, tossing suggestions back and forth. These names included Amelia Earhart, Mary Leakey, Marie Curie, Christa McAuliffe, and Mae Jemison. Each suggestion was quickly discarded, however, either because it had been used before or was deemed inappropriate (such as out of deference to the woman's family members). Richard James, Art Director Michael L. Mayer, and Scenic Artist Wendy Drapanas arrived and joined in the discussion. James finally suggested Valentina Tereshkova, a Russian cosmonaut who became the first woman into space, and Okuda liked the suggestion immediately. (A Vision of the Future - Star Trek: Voyager, pp. 69-70)
+To create the effect of the shuttlecraft landing in Voyager's shuttlebay, Visual Effects Coordinator Joe Bauer created a low-budget model of the bay and optically married it to the Voyager studio model. "There you have [...] [a] situation of sizing," Bauer explained, "because the Voyager model is five feet and the shuttle model is a foot and a half to two feet, but if it were in scale it would be about an inch. The shuttle bay doesn't exist as a full set or even as a nice model so it was a matter of scrounging through some throw-away DS9 models from last year and I ended up rebuilding in cardboard a docking bay. We ended up doing a move going back into the Voyager and then did a match move, scaled to size, of the inside bay and then just composited it. Thank God it all lined up. This was something Amblin Imaging was approached to build, but it became expensive and we needed it quickly, so in this case it was faster to build a physical model." (Cinefantastique, Vol. 27, No. 4/5, p. 83)
+A reflection of the shuttlebay is shown in the shuttlecraft's windshield as the craft approaches the bay. Explaining how the bay footage was altered to feature as the reflection, Joe Bauer stated, "We flopped it for that shot, defocused it, then used a device called a System G that can warp a piece of video and just warped it around the edges so it looked like it was defining a bent piece of plexi-glass. Then at the point in the POV shot where they are going in the door we raised the light level inside, just the kind of detail that tries to sell the shot." (Cinefantastique, Vol. 27, No. 4/5, p. 83)
+The event horizon of the black hole was essentially a completely new effect. However, it was actually a mix of not only elements that were specially photographed for this episode but also images from Star Trek's extensive library of stock elements. More specifically, the effect married cloud elements with silver cloth viewed through ripple glass, and liquid nitrogen filmed on the motion control stage at Image G. Philip Barberio, the visual effects supervisor on this episode, commented, "I actually had some money for that show to develop a whole effect so I played with stuff from our elements books and put this effect together with a cloud element made from liquid nitrogen, put into a Sony System G, then colorized and wrapped in clouds." (Cinefantastique, Vol. 27, No. 4/5, p. 82)
+
+The tear in the event horizon proved to be the hardest element of the anomaly to visualize. Phil Barberio stated, "In 'Parallax,' I was drawing a blank on the tear. I asked [the writers] about it and they said, 'You know, a tear you can see space through.'" Fortunately, Visual Effects Producer Dan Curry had devised an inventive tearing effect using acetone dripped onto Styrofoam in front of a light that, as the foam was eaten away, would shine through, producing a very organic-looking effect. "We used that image to start with," Barberio explained, "and then we created this background that was moving in four directions at the same time very slowly behind the hole so it gave it the look that it was being pulled toward the hole. Then we darkened that and reddened it. The first hole was roundly rejected, because it was too big and looked like the ship could sail through easily. They wanted it to be gummy, where the Voyager could barely squeeze through, so we made it smaller and added more veins originally used on the goo monster [the alien Caretaker] from the pilot. They had some tests that weren't used and we put those into the opening as strands that would attach themselves to the ship as it goes through. As it punches through you see some residual stuff on the engine. Nothing's ever thrown away." (Cinefantastique, Vol. 27, No. 4/5, pp. 82-83)
+
+
+=== Continuity and trivia ===
+When Janeway and Torres are returning from their shuttle trip and are faced with both Voyagers, Janeway says she is receiving identical readings from both ships. However, since neither she nor Torres are back on board Voyager at the time, the real ship should have a personnel count of two fewer than its reflection.
+After being introduced in this episode, Seska went on to become a recurring character of the first two seasons of Star Trek: Voyager and eventually reveals – in the later first season installment "State of Flux" – that she is a Cardassian spy, surgically altered to look Bajoran. Martha Hackett knew, from the time she was first hired for this episode, that the role of Seska would be recurring, "but [the writers] didn't know what that would mean – they came up with the storyline as it went," Hackett explained. [6] In a retrospective interview, Hackett also said of the role, "It just kinda evolved [...] They had no idea what direction Seska was gonna go in. It hadn't been... decided [...] I think, with a new show, they're trying things out and, with this show in particular, they had all these new enemy species and they were in a new quadrant that they had never gone before. I think they were just trying things on for size, so it wasn't as if they were promising me this or that." ("Saboteur Extraordinaire: Seska", VOY Season 2 DVD special features) Consequently, Martha Hackett was unaware, while acting in this episode, of her character's deviousness. "In the beginning I was just an energetic, contrary Maquis member," she recalled. "I didn't know I was a spy." [7] Hackett further explained, "When I first appeared on the show, Seska was just a member of the crew. It was only after I had done an episode that someone said, 'We may be making you a spy', but even then they weren't sure." (Star Trek Monthly issue 34, p. 37) The actress also stated, "They had it vaguely in mind that they were going to have this spy, but they hadn't worked it out yet." [8]
+In this episode, Seska is wearing a blue sciences division uniform but is sitting at the engineering station on the bridge. She appears in a yellow operations division uniform in later episodes. Martha Hackett has since stated that, in this episode, she was mistakenly costumed in the wrong color uniform. [9]
+With the writers still finding their footing in the series at this point, Tom Paris exclaims, "It's the Voyager," instead of, "It's Voyager" (without the definite article). This was, in fact, the way that the ship was commonly referred to (at this point in the series and in the future) in interviews, etc., in keeping with previous Star Trek shows ("It's the Enterprise", or "It's the Defiant").
+This episode includes the first appearances of not only a Type 8 shuttlecraft and Voyager's shuttlebay but also the starship's conference room.
+This episode marks the first occasion of many where Voyager encounters some sort of temporal phenomenon, in which the crew either visit the past, are visited from the future, or experience an alternate timeline. Voyager would go on to encounter these phenomena in "Time and Again", "Eye of the Needle", "Non Sequitur", "Future's End", "Future's End, Part II", "Before and After", "Year of Hell, Part II", "Timeless", "Gravity", "Relativity", "Blink of an Eye", "Fury", "Shattered", and "Endgame".
+Tuvok wears the insignia of a lieutenant commander in this episode, as he does throughout the first season, despite being a lieutenant.
+Reference to 47: In his rant about being "not just a doctor" The Doctor states he is designed with the experience of 47 individual medical officers.
+The Doctor also later requests Captain Janeway to access monitor input 47 when he informs her of his decreasing size due to the spatial distortions.
+In this episode, Paris is tapped to become the Doctor's assistant, an idea described in an interview in Star Trek Magazine with writer Brannon Braga as a major intention which "soon went by the wayside." Despite this, the idea would resurface in the program's fourth season following the departure of Kes from the program.
+
+
+=== Reception ===
+Brannon Braga ultimately felt that, in this episode, he had written the characters as slightly too hard-edged and that it had taken a while for him to find their proper "voices." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 136) Shortly after working on the episode, he noted, "Now I know how these actors are, and it's helping a lot. The actors definitely contribute to the creation of the character." (A Vision of the Future - Star Trek: Voyager, p. 171)
+Of this episode's completed version, Braga remarked, "Too much tech, but some clever twists and some great character work. All in all, a good episode." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 136) He elaborated, "It's a very techy episode, and some people weren't too thrilled with it for that reason [...] I thought it had some great character work in it. I also thought it was a good time anomaly show, something we had never seen, and it had a good twist when you realized the ship was Voyager. The 'lady or the tiger' gag at the end was a lot of fun, and I thought it had some good stuff in it." (The Official Star Trek: Voyager Magazine issue 5, pp. 45 & 46) Another reason why Braga was pleased with this episode was that both the character development herein and the episode's scientific plotline are very much connected. He observed, "I've always felt the best storytelling on TNG and on Voyager are stories that may have an A-and-B plot, but the A-and-B plots are integrally connected, as in 'Parallax,' or at least thematically connected." (Cinefantastique, Vol. 27, No. 4/5, p. 84) Braga also found, however, that the anomaly was ultimately too complex for viewers. He opined, "The quantum parallax is hard to grasp." Braga took full responsibility for this level of complexity, adding, "Regretfully that's my fault." (Cinefantastique, Vol. 27, No. 4/5, p. 34)
+Both Jeri Taylor and Michael Piller liked how this episode balances character work with high-concept science fiction. Piller declared, "What made this show work for me was that this was a show about a crew coming together and not about a ship in jeopardy." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135) Jeri Taylor stated that, even though the episode evolved from a highly technical premise, "Brannon was able to write a script that I think made the crew struggle with 'We're out here and things are not working and what do we do? Who's going to be The Doctor and who's going to be the Chief of Engineering?' [...] So even though it felt high concept, it was very strongly rooted in character." (Cinefantastique, Vol. 27, No. 4/5, p. 34) In addition, Taylor expressed approval of how Braga used the episode to establish some of the circumstances that the starship Voyager and its crew find themselves in, saying that introducing these elements was "giving us [the series' writing staff] things that we were able to have fun with." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135)
+This episode achieved a Nielsen rating of 9.2 million homes, and a 14% share. It was the most watched episode of Voyager's first season (on first airing) except for the series pilot, "Caretaker". [10](X)
+Cinefantastique gave this installment 3 out of 4 stars. (Cinefantastique, Vol. 27, No. 4/5, p. 34)
+In their unofficial reference book Trek Navigator: The Ultimate Guide to the Entire Trek Saga (pp. 166-167), co-writer Mark A. Altman rates this episode 2 and a half out of 4 stars (defined as "average") while fellow co-writer Edward Gross rates the installment 3 out of 4 stars (defined as "good"). Altman describes the outing as "a surprisingly effective technoromp," enthusing about how the plot's technicalities are offset by the way that the episode embraces character problems "with gusto" and how it presents the technobabble in a more-or-less straight-forward manner. He approves of the way in which the episode tackles the simmering conflict between the two portions of Voyager's crew, saying that the episode does so with "wit and intelligence" that "elevates" it. He raves, "The show succeeds marvelously in further defining the series ensemble in an effective and satisfying way." In addition, Altman characterizes the time-related briefing room discussion between Janeway and Paris as "amusing" but is less enthusiastic about the storyline involving The Doctor's shrinking, saying the joke "doesn't quite work." Gross remarks on the originality, for an anomaly episode, of having a duplicate Voyager as a conceit and says that "the real meat" of the outing is the character interactions, especially the choosing of the ship's chief engineer. He concludes that the slowly developing relationship between Janeway and Torres is "both fascinating and believable to watch."
+The unauthorized reference book Delta Quadrant (p. 16) gives the episode a rating of 7 out of 10.
+In its retrospective "Ultimate Guide", Star Trek Magazine gave this episode 3 out of 5 Starfleet-style arrowhead insignia. (Star Trek Magazine issue 164, p. 29)
+Ultimately, Jim Trombetta wished that Voyager's regular writing team had taken his pitch in a slightly different direction than they had. "The way it should have come out was there really shouldn't have been two Voyagers, there should have been three," he mused. "I wanted them to send the hologram doctor to each ship by crushing him into a burst of energy, sending him to the next one to warn them. It would have started out with him arriving on their ship trying to warn them but not being able to do it because he's all garbled. The original idea was more metaphysical and less character. It was what's going on and how do I figure it out?" (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 135)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 1.2, catalog number VHR 4002, 10 July 1995
+As part of the VOY Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Guest stars ===
+Martha Hackett as Seska
+Josh Clark as Carey
+
+
+=== Co-star ===
+Justin Williams as Jarvin
+
+
+=== Uncredited co-stars ===
+Derek Anthony as operations ensign
+Jasmin Bischoff as operations officer
+Tarik Ergin as Ayala
+Gunnel Eriksson as operations officer
+Kerry Hoyt as Fitzpatrick
+Julie Jiang as operations lieutenant junior grade
+Katsuki Kazuhiro as command officer
+Hubie Kerns, Jr. as operations officer
+Dennis Madalone as sciences officer
+Coleman McClary as operations officer
+Jordan Monheim as sciences officer
+Trina Mortley as sciences officer
+Tami Peterson as sciences ensign
+Jerry Quinn as command officer
+Simon Stotler as operations ensign
+John Tampoya as Kashimuro Nozawa
+Ondar Tarlow as sciences officer
+Rod Wallace as operations officer
+Debra Waters as command ensign
+Audrey Williams as operations officer
+
+
+=== Photo double ===
+Mike Fujimoto – hand double for Garrett Wang
+
+
+=== Stand-ins ===
+Steve Giralo – stand-in for Josh Clark
+Melba Gonzalez – stand-in for Roxann Biggs-Dawson
+Sue Henley – stand-in for Kate Mulgrew
+Cy Kennedy – stand-in for Robert Beltran
+Nora Leonhardt – stand-in for Roxann Biggs-Dawson
+Susan Lewis – stand-in for Martha Hackett and Roxann Biggs-Dawson
+Zack Milan – stand-in for Robert Picardo and Justin Williams
+Lemuel Perry – stand-in for Tim Russ
+Jerry Quinn – stand-in for Robert Duncan McNeill
+Ron – stand-in for Josh Clark
+Jennifer Somers – stand-in for Jennifer Lien
+Simon Stotler – stand-in for Ethan Phillips
+John Tampoya – stand-in for Garrett Wang
+
+
+=== References ===
+47; ability; Alpha Quadrant; analogy; assault; astrogation; astrogation plotter; auxiliary power; bedside manner; biochemistry; black hole; bow; brig; cargo bay; cerebellum; Chapman; cheek; chief engineer; chief medical officer; confined to quarters; court martial offense; cranium; cup; dampening field; Deep Space 9 (DS9); dekyon; department; distress call; dizziness; Emergency Medical Hologram; Emergency medical holographic channel; energy matrix; engine efficiency; ethmoid fossa; event horizon; Feragoit goulash; field medic; gravimetric flux density; gravimetric force; hangnail; headache (splitting headache); height; Hippocrates; holodeck; holodeck reactor; hull stress; hydroponics bay; hyperbole; ice; Ilidaria; Ilidaria system; imaging processor; Intrepid class decks; isolinear bank; Keloda; Maquis; medical practitioner; medical support personnel; meter; methodology; microscope; modern medicine; muscle spasm; navigational array; navigational scan; nitrogen; nitrogenated soil; Ocampa; pejuta; permanent file; physical dimension; pimple; plasma conduit; pond; port; power grid; quantum singularity; quirk; runny nose; sculpture; semester; senior officer; seniority; sense of humor; speaker; staff meeting; Starfleet; Starfleet Academy; General Orders and Regulations; statue; subspace tractor beam; tachyon signal; Talaxian; temporal dimension; temporal mechanics; Tereshkova; theodolite; trade mission; transporter chief; Type 8 shuttlecraft; Val Jean; Voyager's original chief engineer, Voyager's original transporter chief, Vulcan
+
+
+=== External links ===
+"Parallax" at Memory Beta, the wiki for licensed Star Trek works
+"Parallax" at Wikipedia
+"Parallax" at MissionLogPodcast.com
+"Parallax" at the Internet Movie Database

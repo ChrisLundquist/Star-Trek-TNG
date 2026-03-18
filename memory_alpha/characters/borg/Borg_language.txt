@@ -1,0 +1,7 @@
+The Borg language was the language used by Borg drones and the Borg Collective, written in alphanumeric code. 
+The code consisted of circular symbols with geometric shapes cut out of them. These symbols could be seen on various control panels, labels, and viewscreens within Borg structures. It was written in horizontal lines going from left to right and right to left, and vertically. (TNG: "Q Who", et al.)
+During Seven of Nine's integration into the crew of the USS Voyager, she still sometimes used Borg alphanumerics. When Seven designed new navigational sensors, some of the plans were in the Borg language, prompting Harry Kim to joke "I always wanted to learn Borg." (VOY: "Revulsion")
+In trying to access a succession of log entries written in Borg alphanumeric code, Harry Kim noted that he had gotten "pretty good with the Borg language," and believed he could translate the information. (VOY: "The Raven")
+
+In 2376, Seven of Nine called Captain Kathryn Janeway to astrometrics to review Borg tactical data about Icheb's assimilation after returning him to the Brunali. With the information displayed in the Borg language, Captain Janeway noted she didn't read Borg and relied on Seven's summarization. (VOY: "Child's Play")
+In 2399, Raffaela Musiker's attempt to hack the Artifact's tractor beam lock on La Sirena was slowed by the underlying code being entirely in "freaky Borg machine language." (PIC: "Nepenthe")

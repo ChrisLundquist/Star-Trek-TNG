@@ -1,0 +1,335 @@
+While exploring an uncharted area of space, the Enterprise is outmatched and taken in tow by a massive spherical spaceship.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise is in its third day of making star maps of a region previously unexplored by the Federation. Spock is in command while Captain Kirk submits to a quarterly physical. Lieutenant Sulu announces contact with an object approaching the Enterprise at light speed. Evasive maneuvers and deflectors are ineffective. Spock sounds the alarm, then countermands it as the object begins to slow down. Chief navigator Lieutenant Dave Bailey reacts emotionally to the danger. When the Enterprise cannot steer around the object, Sulu declares red alert and calls Kirk to the bridge.
+
+
+=== Act One ===
+"Captain's Log, Stardate 1512.2. On our third day of star mapping, an unexplained cubical object blocked our vessel's path. On the bridge, Mr. Spock immediately ordered general alert. My location: sickbay. Quarterly physical check."
+
+In sickbay, Doctor McCoy continues Kirk's physical, writing his results down on a PADD though McCoy sees the red alert. Kirk scolds McCoy for not notifying him, but McCoy is pleased to have completed an examination on the usually unwilling Kirk. "What am I, a doctor or a moon shuttle conductor? If I jumped every time a light came on around here, I'd end up talking to myself," McCoy says after Kirk leaves him alone in sickbay.
+On the bridge, Bailey interrupts Spock, then defends his emotional reaction earlier, noting that he has an adrenaline gland. Spock has a dry retort, asking Bailey if he has considered having it removed, and Sulu good-naturedly teases Bailey of the risks of "crossing brains" with Spock.
+The bridge crew analyzes the object as solid and of unknown composition, 107 meters on each edge, and almost 11,000 metric tons in mass. Scott cannot say what propels it or allows it to sense, and react to, the movements of the Enterprise. McCoy has no analysis of it either. Attempts to communicate with it fail. Bailey says, "We've got phaser weapons; I vote we blast it." At that, Kirk gives him another reminder of how things work on the bridge, retorting dryly, "I'll keep that in mind, Mr. Bailey... when this becomes a democracy."
+
+"Captain's log, Stardate 1513.8. Star maps reveal no indication of habitable planets nearby. Origin and purpose of the cube still unknown. We've been here, held motionless, for eighteen hours."
+Eighteen hours later, the department heads assemble in the briefing room. Spock concludes that the object is either some kind of buoy – or "flypaper." Kirk and Spock agree that "sticking around" would convey weakness. Bailey misinterprets the talk as an order to prepare phasers and starts to issue an order to the phaser gun crew. When countermanded, he begins to defend his action.
+Kirk instead orders Bailey to plot a spiral course away from the object. The course is executed, at speeds increasing from 0.25 to warp factor 3, but the object stays with the Enterprise, begins to emit lethal radiation, and closes with the ship. When it is within 51 meters, Kirk orders fire from the main phasers, with Bailey hesitating until Kirk repeats himself. The object is destroyed, but the Enterprise is rocked hard by the resulting shock wave.
+
+
+=== Act Two ===
+"Captain's Log, Stardate 1514.0. The cube has been destroyed. Ship's damage minor, but my next decision major. Probe on ahead or turn back?"
+Spock reports no other objects within sensor range and believes that, if the ship continues forward, it will encounter the intelligence that sent the cube, intelligence probably both different and superior to their own. Kirk resolves to proceed, as contact with alien life is the mission. But he orders the phaser crew and engineering to conduct drills, calling their reaction to the attack too sluggish. Bailey supervises the drills.
+In the turbolift, McCoy questions the timing of Kirk's order, as the crew is tired; and doubts Bailey's fitness as navigator, suggesting that Kirk promoted him too fast, possibly seeing something of himself in the young man. Bailey had been slow to respond to orders during the crises, and Sulu covered for him. Bailey's emotionalism on the intercom during the drills, the doctor suggested, supports his doubts as to Bailey's fitness to have been promoted so quickly, but Kirk brushes off these expressed doubts.
+Kirk and McCoy continue their conversation in Kirk's quarters over a drink. Spock reports a rating of 94% on the last drill but Kirk presses them for 100%. He faces two additional annoyances: the fact that McCoy has put him on a salad diet to lose weight and that someone has assigned him an attractive female yeoman, Janice Rand, who had just delivered the salad.
+
+Kirk and McCoy pause to listen to the intercom, where Bailey orders a second drill. But Sulu countermands the order, as a new object is approaching. It is spherical and much larger than the first one: about a mile in diameter. Sulu reports "This is not a drill" and Kirk abandons his salad and heads for the bridge.
+As the object comes onto the viewscreen, Kirk cuts speed to warp 2. A hard tractor beam grabs the Enterprise. The engines overload and Kirk orders a full stop and orders phaser crews to readiness. Kirk orders Bailey to decrease the main viewscreen magnification; Sulu does so when Bailey doesn't hear him or perhaps froze at his station. Kirk orders Uhura to open a hailing frequency and starts to offer a greeting, but Bailey detects a message on the navigation beam.
+The message identifies the sphere as the Fesarius, the flagship of the First Federation, and the speaker as her commanding officer, Balok. Balok claims the Enterprise and her crew have shown their hostile intention by ignoring the cube; a warning buoy and by destroying it, and says the Fesarius is now considering their "disposition."  When Kirk tries to explain to Balok, that exceptionally powerful sensors invade all Enterprise systems. Balok refuses further communication from the Enterprise and says he will destroy her if she makes any move. When Kirk launches a recorder marker, Balok destroys it and declares that the Enterprise must be destroyed, giving the crew ten minutes to make death preparations, assuming they have "a deity or deities." When McCoy tells Kirk that Balok's message was heard throughout the ship, Kirk addresses a calming and optimistic message to his crew.
+
+Kirk signals to the Fesarius that the Enterprise will "return the way it came," but all engine and weapon power is drained. Spock, claiming curiosity, obtains a fearsome visual image of the face of Balok, who declares that the Enterprise cannot escape.
+Bailey, becoming more unnerved by the moment and the realization of certain death sinking in, launches into a tirade against the bridge officers for their apparent lack of concern or emotion at their impending destruction. Kirk orders him relieved of duty and for Dr. McCoy to escort him to his quarters. Kirk, not immune to the gravity of the situation, pleads with Balok about their non-hostile intentions, but Balok ignores them.
+
+
+=== Act Three ===
+With four minutes remaining to annihilation, Kirk asks Spock for options, but Spock says that sometimes, as in chess, when one is outmatched, the game is over. "Checkmate," Spock finishes. Kirk balks at Spock's recommendation and the Vulcan nearly admits that he's sorry, but quickly rephrases himself by saying he cannot think of a more logical alternative. McCoy uses the lull in activity to ask to record the incident with Bailey as fatigue, but Kirk rebuffs him. McCoy disagrees with Kirk, saying that the incident is a direct result of Kirk putting too much pressure on the young navigator and threatens to challenge Kirk's actions in his report, pointing out, "I'll state that I warned you about Bailey's condition. Now that's no bluff!" Kirk angrily dares McCoy to try to bluff him but is suddenly struck by inspiration.
+Drawing not from chess, as Spock suggested, but rather poker, Kirk signals to Balok that a substance aboard all Starfleet vessels called corbomite, is undocumented in any ship's memory banks. As Kirk explains, the corbomite aboard the Enterprise creates a reverse reaction of any destructive energy that touches the ship, destroying the attacker. He further details that since Starfleet began using corbomite two centuries earlier, no attacking vessel has survived and dares Balok to open fire.
+With no apparent reaction from the Fesarius, it appears the bluff has failed. With seconds to live, Bailey returns to the bridge, calmer, and requests permission to resume his duties, which Kirk grants. Sulu counts down the final seconds to destruction, but, as the timer reaches zero, the Fesarius does not attack. The crew exhales, apparently safe, with even Spock admitting that the game of poker sounds rather interesting.
+However, Balok hails the Enterprise, and Kirk readies to either raise the bluff or call. Balok claims that the destruction of the Enterprise has been delayed, with the intent to relent in their destruction if they can have proof of the corbomite device. Kirk, his back to the wall, hails back that Balok's request has been denied and lets him sweat it out. A small pilot vessel emerges from the Fesarius, which disengages, as Balok announces that it has been decided that he shall direct the crew to a planet of the First Federation, where the crew will be interred and the Enterprise will be destroyed. He grabs the Enterprise with a tractor beam and declares that any attempt to escape or destroy his ship will result in the instant destruction of the Starfleet vessel.
+
+
+=== Act Four ===
+"Captain's log, Stardate 1514.1. The Enterprise is in tow; to this point, no resistance has been offered. My plan: a show of resignation. Balok's tractor beam has to be a heavy drain of power on a small ship. Question: Will he grow careless?"
+With the Enterprise in tow, Kirk orders a right-angle course, shearing away from Balok, with the intent to tax his small ship's engines against the strain of the Enterprise's engines. The impulse engines are engaged but quickly begin to overheat. Kirk orders more power applied. As the strain increases, the Enterprise begins to shudder, but Balok's ship begins to show signs of stress as well. Mr. Spock warns that the engines are close to exploding, but Kirk is relentless and orders more thrust applied against the tractor beam. As the crew weathers the horrific ride, Bailey finally announces that they're breaking free. The Enterprise veers away from Balok, whose ship seemingly becomes disabled.
+Scott advises the captain that their engines need work badly, but Spock warns that Balok has sent out a distress signal to the Fesarius. Uhura intercepts it, reading that his engines are down and his life support systems are failing. She determines that the signal is so weak that it's doubtful if the mothership could have heard it. Kirk orders an intercept course with the intent to rescue Balok. Dr. McCoy is skeptical, but Kirk proclaims that the mission of the Enterprise is to seek out alien life, and that's what he intends to do, friendly or not. He orders McCoy and Bailey to accompany him on the landing party over but also orders Mr. Spock to remain behind, just in case Balok is baiting a trap for them, so the capable first officer will be in a position to rescue them.
+
+The three transport to the escort ship (stooping, as advised by Scott because of low ceilings aboard the alien ship), where they find that the fearsome creature they had viewed is the head and torso of a puppet-dummy. The real Balok, who is childlike in appearance, warmly welcomes them aboard. He offers them some tranya, a beverage, as a sign of goodwill. He explains that the puppet is simply an alter-ego he used to frighten the Enterprise, as he was attempting to determine their real intentions, believing that even their memory banks could have been deceptive. He also reveals he has no crew aboard, controlling the entire Fesarius starship from his small pilot vessel. However, he laments how lonely his voyages are, as he misses company and would welcome even an alien aboard for an exchange of information and cultures. Balok suggests one of Kirk's crew remain for some time. Bailey immediately volunteers, and Kirk agrees, explaining that while Bailey might not represent the best of Starfleet, it would be an extraordinary learning experience for him and would allow Balok to learn more about Humans by learning about their fallibility. Balok laughs, amused by the notion that he agrees with Kirk's rationale. Offering the trio a tour of his vessel while the Fesarius is recalled, he also remarks how much alike he and Kirk are, as they are both very much proud of their ships.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701), 2266
+
+
+== Memorable quotes ==
+"What am I, a doctor or a... moon-shuttle conductor? Humph... if I jumped every time a light flashed around here, I'd end up talking to myself."
+
+- McCoy, after Kirk leaves sickbay, uttering a variant of his famous catchphrase for the first time
+
+"Raising my voice back there doesn't mean I was scared or couldn't do my job. It means I happen to have a Human thing called an adrenaline gland."
+"It does sound most inconvenient, however. Have you considered having it removed?"
+
+- Bailey and Spock
+
+"You try to cross brains with Spock, he'll cut you to pieces every time."
+
+- Sulu, to Bailey
+
+"Mode of power? Beats me what makes it go."
+"I'll buy speculation."
+"I'd sell it if I had any. That's a solid cube. How something like that can sense us coming, block us, move when we move, it beats me. That's my report."
+
+- Scott and Kirk, on Balok's cube
+
+"We've got phaser weapons; I vote we blast it."
+"I'll keep that in mind, Mr. Bailey... when this becomes a democracy."
+
+- Bailey and Kirk, on command decisions
+
+"Has it occurred to you that there's a certain... inefficiency in constantly questioning me on things you've already made up your mind about?"
+"It gives me emotional security."
+
+- Spock and Kirk, after the cube's destruction
+
+"I've already got a female to worry about. Her name's the Enterprise."
+
+- Kirk to McCoy, on Rand
+
+"Hailing frequencies open, sir."
+
+- Uhura, uttering her signature catchphrase for the first time
+
+"We've only got eight minutes left!"
+"Seven minutes and forty-five seconds."
+"He's doing a countdown!!"
+
+- Bailey and Sulu
+
+"You have an annoying fascination for timepieces, Mr. Sulu."
+
+- Scott, as Sulu keeps track of the countdown to destruction
+
+"I have no time for you, your theories, your quaint philosophies...!"
+"I intend to challenge your actions in my records. I'll state that I warned you about Bailey's condition. Now that's no bluff."
+"Any time you can bluff me, Doctor!"
+
+- Kirk and McCoy
+
+"Not chess, Mr. Spock. Poker! Do you know the game?"
+
+- Kirk, to Spock
+
+"I regret not having learned more about this Balok. In some manner he was reminiscent of my father."
+"Then may heaven have helped your mother."
+"Quite the contrary. She considered herself a very fortunate Earth woman."
+
+- Spock and Scott
+
+"A very interesting game, this poker."
+"It does have advantages over chess."
+"Love to teach it to you."
+
+- Spock, Kirk, and McCoy, after Kirk's successful bluff
+
+"Let him sweat for a change."
+
+- Kirk, on Balok's request for proof of the corbomite device
+
+"You represent Earth's best, then?"
+"No, sir, I'm not. I'll make plenty of mistakes."
+"But you'd find out more about us that way. And I'd get a better officer in return."
+
+- Balok, Bailey, and Kirk, inside Balok's ship
+
+
+== Background information ==
+
+
+=== Production timeline ===
+Story outline "Danger Zone" by Jerry Sohl: late-March 1966
+Revised outline "The Corbomite Maneuver" by Sohl: 4 April 1966
+Revised outline by Gene Roddenberry: 17 April 1966
+First draft teleplay by Sohl: 21 April 1966
+Revised first draft teleplay: 29 April 1966
+Additional revision by Sohl: 3 May 1966
+Final draft teleplay by Roddenberry: 9 May 1966
+Revised final draft teleplay: 12 May 1966
+Second revised final draft teleplay: 20 May 1966
+Additional revisions: 23 May 1966, 25 May 1966
+Cast and crew rehearsal: 23 May 1966
+Filmed: 24 May 1966 – 2 June 1966
+Day 1 – 24 May 1966, Tuesday – Desilu Stage 9: Int. Sickbay, Kirk's quarters, Bridge
+Day 2 – 25 May 1966, Wednesday – Desilu Stage 9: Int. Bridge
+Day 3 – 26 May 1966, Thursday – Desilu Stage 9: Int. Bridge
+Day 4 – 27 May 1966, Friday – Desilu Stage 9: Int. Bridge
+Day 5 – 31 May 1966, Tuesday – Desilu Stage 9: Int. Bridge & Makeup test for Clint Howard
+Day 6 – 1 June 1966, Wednesday – Desilu Stage 9: Int. Bridge, Briefing room, Balok's pilot vessel (redress of briefing room)
+Day 7 – 2 June 1966, Thursday (Half Day) – Desilu Stage 9: Int. Corridors, Turbolift, Transporter room
+Original airdate: 10 November 1966
+Rerun airdate: 11 May 1967
+First UK airdate (on BBC1): 18 October 1969
+Remastered airdate: 9 December 2006
+
+
+=== Production ===
+Also filmed for this episode (by associate producer Robert H. Justman) was George Takei's reaction shot in which he turned around and looked at Kirk, reused in dozens of future episodes whenever something strange appeared on the viewscreen. A similar clip was filmed of Walter Koenig during season two. (Inside Star Trek: The Real Story p 174)
+This was the first regular episode of Star Trek: The Original Series produced following the two pilots.
+It was also the first episode to feature Kirk's famous "Space: The Final Frontier" monologue in the opening credits.
+A front-on close-up of Balok, without the rippling distortion of his image as seen on the main viewing screen, was the final shot of past episodes that was displayed in many of the series' end credits. In Inside Star Trek: The Real Story (pp. 194-195), Robert Justman explained that he superimposed the credit "Executive in Charge of Production Herbert F. Solow" over Balok's image as an in-joke. Justman later secured a screen grab of the shot and kept it in his home office, in what he called the "cheapest, junkiest black frame" he could find.
+Although the script instructed Spock actor Leonard Nimoy to emote a fearful reaction upon his first sight of the Balok puppet, director Joseph Sargent suggested to Nimoy that he ignore what the script called for and instead simply react with the single word "Fascinating." The suggestion of this response helped refine the Spock character. (Star Trek Phase II: The Lost Series, pp. 44-45)
+This is the first episode to use the "cello" theme arranged by Fred Steiner. The DVD and Blu-ray prints incorrectly used the original theme recorded for "The Man Trap". (These Are the Voyages: TOS Season One (page number? • edit))
+
+
+=== Story and script ===
+Even the final draft of this script, dated 3 May 1966, was quite different from the aired version:
+The character of Uhura was not present. Dave Bailey was the communications officer, and he did not "flip out" as he does in the aired episode.
+Lieutenant Ken Easton was the navigator.
+Many bits of character-building were also absent. There were no flypaper, chess, or poker analogies – Kirk simply decided to bluff Balok out of the blue.
+The planet where Balok intended to imprison the Enterprise crew was named Carpi.
+There was also no reference in this draft to:
+Kirk's salad
+Curiosity on Spock's part as to what Balok looks like – instead, Balok initiated visual contact with the Enterprise
+Spock's opinion that Balok reminded him of his father or Scott's retort
+A line from Balok warning the crew they had one minute left was not recorded, leaving Sulu to comment, "I knew he would" in response to nothing. (The Star Trek Compendium (page number? • edit)) The preview has an unused cut of Balok saying, "We grant you one minute" that could be modified and dubbed into the episode.
+Spock confesses an ignorance of poker, and he probably wouldn't enjoy the game since he said in the season two episode "The Doomsday Machine" that Vulcans do not bluff.
+Part of engineering's location is referred to in this episode. Kirk orders Bailey to coordinate drills with engineering, and Bailey says on two distinct occasions "On the double, Deck 5, give me the green light!" and also "Engineering Deck 5, report! Come on phaser crews, let's get with it!". He could either be referring to an engine room in the saucer on Deck 5 or a separate "Engineering Deck 5" that exists in lower levels (where some of engineering is referenced to be in episodes like "The Enemy Within", "The Conscience of the King", and "Day of the Dove").
+When addressing the Fesarius, Kirk identifies his ship as the United Earth Ship Enterprise, nomenclature that was never used again.
+Balok displays a knowledge of Earth popular culture. When discussing the "false" Balok, he referred to it as "the Mr. Hyde to my Jekyll".
+The dimensions (107 meters on a side) and mass (11,000 metric tons) of the warning cube imply an average density of 9 kg per cubic meter, indicating its composition was an incredibly advanced material that was 100 times less dense than spider web silk, or 7 times that of earth air at sea level.
+
+
+=== Cast and characters ===
+Leonard McCoy, Janice Rand, and Uhura debut here.
+Sulu has transferred to the command division from the sciences division following his premiere in "Where No Man Has Gone Before". This is the first episode in which he occupies his familiar seat at the helm. The change was made because the producers realized there was no need for an astrophysicist in every episode, yet they had to have someone sitting at the helm. (Inside Star Trek: The Real Story (page number? • edit))
+Michael Dunn (popular at the time for his role as Dr. Loveless in The Wild Wild West) was an early choice for the part of Balok; however, Gene Roddenberry thought something "much more weird" would be more effective, leading to six-year-old Clint Howard being cast. Dunn later appeared as Alexander in "Plato's Stepchildren". (These Are the Voyages: TOS Season One (page number? • edit))
+Both Stewart Moss and Bruce Mars were considered for the role of Dave Bailey before Anthony Call was eventually cast. (These Are the Voyages: TOS Season One 1st ed. p. 120) Some sources list both actors as appearing in background roles in the episode; however, they seem to be cut from the final print. Many of the extras credited to the extras list were cut from the final print, including Sean Morgan, in addition to Moss and Mars.
+
+
+=== Effects ===
+This episode was originally scheduled to air much earlier than it did, but the large amount of visual effects took several months to complete. The producers had to delay the planned airdate twice, before eventually broadcasting "The Corbomite Maneuver" as the tenth episode of the season. (These Are the Voyages: TOS Season One 1st ed. pp. 127-128)
+In the original version of the series, this was the first episode in which the forward sections of the warp engine nacelles were made to glow, though in the teaser this didn't happen because it seems to have used footage from "The Cage". In the remastered TOS, however, this is no longer true, as the nacelles of the ship are uniformly shown to glow.
+The distinctive bridge sound effects of TOS are first heard in this episode. Early episodes of The Twilight Zone (notably "Execution" from 1960), previously featured this distinctive computer sound. (citation needed • edit)
+Both in terms of its order on the production schedule and its order of televised broadcast, this episode marks the very first time that the Enterprise fires its phasers. The actual burst that the ship fires at the warning buoy is unique to this episode.
+The shot of the ship being towed by the small First Federation pilot vessel, from a perspective behind the nacelles, was re-used countless times in future episodes, with different ships or planets matted in. When it was used later, it was often slowed down, which made it much more grainy than the clear print in this episode. Around halfway in the second season, this shot was replaced by a much better-looking new shot of the ship. (citation needed • edit)
+
+
+=== Costumes ===
+
+This episode contains several "firsts" for the costume department. Although some of the pilots' uniforms were seen on background extras, this is the first episode in which black collars on tunics debut. Nevertheless, some of the uniforms – particularly Spock's – have higher, loose, "turtleneck" black collars than generally appeared throughout the series. In Sulu's first close-up, the zipper built into the collar is visible – because he was wearing a "leftover" from the first two pilots that was retrofitted, with the new black collar.
+Additionally, "The Corbomite Maneuver" saw the initial appearance of skirt uniforms, as well as "plunging neckline" collars for most women. Red operations division tunics were also seen for the first time here, as was the silk, short-sleeved "laboratory" tunic for the CMO. The system of sleeve rank insignia was also more refined in this episode than it had been in either pilot. Noticeably, Kirk first wore the insignia he would display throughout the series, and the rank stripes themselves took on a more wavy, stylized design than the simple bands they had been in the previous pilots, complete with broken bits of braid to denote the ranks of lieutenant junior grade, lieutenant commander, and captain.
+Finally, beginning with this episode, the men's uniforms featured a "raglan" construction, like that found in crew-neck sweaters, with the tops of the sleeves reaching up to the collar. In the two previous pilots, the uniform sleeves were constructed like those in men's dress shirts, with their tops ending at the upper arm.
+Despite the introduction of the red operations division tunic in this episode, Uhura is seen in a gold command division uniform both here and in "Mudd's Women". She also incongruously wears a sciences division assignment patch, rather than the appropriate command "star".
+In addition, in the bridge scene following the destruction of Balok's cube, several crew members who are repairing the damage can be seen wearing blue uniforms without black collars that were left over from the pilots.
+This is the first episode to introduce pointed sideburns on all of the male crew members.
+Makeup artist Fred Phillips originally wanted to shave Clint Howard's head; however, the boy and his father denied his request and Howard wore a bald cap in his appearance as Balok. (These Are the Voyages: TOS Season One 1st ed. p. 125)
+
+
+=== Sets and props ===
+
+There are detailed close-ups of some of the engineering station read-outs in this episode.
+The set of Balok's room was a re-dress of the Enterprise conference room set. (Inside Star Trek (page number? • edit)) It was later recycled to create the bar in "Court Martial" (later reused in "The Trouble with Tribbles"). (The Star Trek Compendium (page number? • edit))
+Instead of reusing the bridge helm station as in the two pilot episodes, a dedicated transporter console makes its debut. The top was painted black and the intercom stands alone on the top of the console. Beginning with "Mudd's Women", the next episode to be filmed, the console was painted its customary reddish-orange seen in all subsequent episodes, and the intercom was bracketed by two alert lights.
+The panel seen behind the Balok puppet when Kirk, McCoy, and Bailey first beam aboard the pilot ship first appeared in the Delta Vega station in "Where No Man Has Gone Before" and was later used as the main panel in the Enterprise engineering room.
+When Kirk reports to the bridge from the turbolift, a rare camera angle from the elevator illustrates the panel to the right of the main viewscreen, and the two bridge consoles to the left of the science station. These sections were usually rolled out (off-screen) to facilitate filming the navigation console and Spock's station. Like "Where No Man Has Gone Before", the turbolift has double doors (the inner is gray; the outer is red), like modern elevators. This feature was later eliminated.
+The "tranya" served by Balok was actually grapefruit juice. Clint Howard, who was a little kid at the time, had to pretend very hard to like the drink, which he found distasteful. (TOS Season 1 DVD special features)
+
+
+=== Continuity ===
+This is one of several episodes of the original which places a time stamp on the events. It is placed two centuries after mankind's early space explorations.
+Yeoman Rand brings hot coffee to the bridge, despite power being out in the galley, prompting McCoy to ask her how she did it. "I used a hand phaser and zap – hot coffee," was her reply, which suggests that there may be a weapons locker in the kitchen; this would later prove an important plot point in Star Trek VI: The Undiscovered Country.
+Part of Kirk's dialogue "There's no such thing as the unknown, only things temporarily hidden" is also said by Kirk in the alternate reality. (Star Trek Beyond)
+
+
+=== Preview ===
+The preview contains a Captain's Log recorded solely for the preview: "Captain's log, Stardate 1512.2. The Enterprise and crew are held captive by a strange, alien vessel."
+Balok's dialogue as the puppet was rerecorded to replace "We therefore grant you 10 Earth time periods known as minutes" from the finished episode with the simpler and more stressful "We grant you one minute."
+
+
+=== Reception ===
+This episode was nominated for a Hugo Award in 1967 as "Best Dramatic Presentation".
+In the 1970s, the Mego toy company used Balok's "puppet head" to create "The Keeper" action figure doll (despite Balok not being Talosian).
+At the Rally to Restore Sanity and/or Fear on October 30, 2010, Jon Stewart and Stephen Colbert referred to this episode by name after riffing on the dangers of "corbomite" in bottled water; they also mentioned Uhura's incongruous uniform, as described above. [1]
+
+
+=== Remastered information ===
+The remastered version of this episode premiered in syndication the weekend of 9 December 2006. New shots of the Enterprise, the pilot vessel, the Fesarius, and the warning cube were rendered. As a "tip of the hat" to the original episode, the opening shot of the Enterprise for the remastered version was the same as seen on the view screen in the remastered version of "The Menagerie, Part I" and "The Menagerie, Part II" (except the CGI model was modified to match the rest of the episode, with the smaller antenna dish, the spinning nacelle domes and the lack of spires on them).
+
+In the original version of this episode, when Sulu announces there is one minute left on the timer, the timer reads: "2:02... 2:01... 1:00 (the two-minute marker changes to one as the one-second marker changes to zero) ... 1:59". In the remastered version, this apparent error is corrected by the insertion of an entirely redesigned chronometer.
+
+The next remastered episode to air was "Friday's Child".
+
+
+=== Video and DVD releases ===
+Original US Betamax/VHS release: 28 February 1985
+Original UK VHS release (two-episode tapes, CIC Video): Volume 2, catalog number VHR 2210, release date unknown
+As part of the UK Star Trek - The Three Beginnings VHS collection: 31 January 1994
+US VHS release: 15 April 1994
+As part of the UK Star Trek - The Four Beginnings VHS collection: 1995
+UK re-release (three-episode tapes, CIC Video): Volume 1.1, 24 June 1996
+Original US DVD release (single-disc): Volume 1, 17 August 1999
+As part of the TOS Season 1 DVD collection
+As part of the TOS Season 1 HD DVD collection
+As part of the TOS Season 1 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+William Shatner as Capt. Kirk
+
+
+=== Also starring ===
+Leonard Nimoy as Mr. Spock
+
+
+=== Co-starring ===
+Anthony Call as Dave Bailey
+Clint Howard as Balok
+
+
+=== Featuring ===
+DeForest Kelley as Dr. McCoy
+Grace Lee Whitney as Yeoman Rand
+George Takei as Sulu
+James Doohan as Scott
+Nichelle Nichols as Uhura
+
+
+=== Uncredited co-stars ===
+William Blackburn as Hadley
+Ted Cassidy as Balok's puppet (voice)
+Frank da Vinci as Brent
+Walker Edmiston as Balok (voice)
+Jeannie Malone as yeoman
+Eddie Paskey as Leslie
+Frieda Rentie as command lieutenant
+Eddie Smith as sciences crewman
+Ron Veto as Harrison
+Unknown performers as
+Bobby
+James
+Command crew woman
+Crewman 1
+Engineer
+Operations crew woman
+Sciences crewman
+
+
+=== Stand-ins ===
+William Blackburn – stand-in for DeForest Kelley
+Frank da Vinci – stand-in for Leonard Nimoy
+Jeannie Malone – stand-in for Grace Lee Whitney
+Eddie Paskey – stand-in for William Shatner
+
+
+=== References ===
+21st century; 2255; adrenal gland; air; alarm light; alien; all decks alert; alter ego; alternative; Andromeda Galaxy; angle; annoyance; assumption; atmosphere; attacker; Balok's cube; Balok's pilot vessel; battle stations; belief; bluff; brain; Carpi; case; century; checkmate; chess; civilization; coffee; collision course; commander; composition; condition alert; Constitution-class; Constitution-class decks; contact; conversation; coolant; corbomite; countdown; course; cube (cubical object); culture; curiosity; custom; damage; danger; day; death; deception; deck; deflector; degree (angle); degree (temperature); deity; democracy; demonstration; department head; destination; device; diameter; diet; diet card; dietary salad; directional beam; distress signal; distance; doctor; drill; dummy; Earth; electrical system; electromagnetic spectrum; emotional security; "end of watch"; energy; engage; engine system; engineering deck; evasive maneuvers (aka evasive action); exercise; exercise rating; exercise table; explanation; face; fatigue; fear of the unknown; Fesarius; First Federation; flagship; flight path; flypaper; foolishness; friendship; galley; general alert; genius; gesture; "give the word"; gravity; Grayson, Amanda; green; green light; greeting; grid line; hailing frequency; hand phaser; harm; Headquarters genius; heaven; hour; Human; impulse power; indication; information; intention; intermix chamber; job; leaves; lettuce; life; lifeform; life sciences; life sustaining system; light speed; location; logic; machine (mechanical device); mass; material; maximum acceleration; medical record; memory bank; Messier 32; Messier 110; meter; metric ton; mile; mind; minute; mission; mistake; moon shuttle; moon shuttle conductor; mother ship; motive; motive power; name; navigation; navigation beam; navigator; object; officer; opportunity; order; overload; oxygen; percent; permission; phaser; phaser gun crew (aka phaser crew); phaser station; phaser weapon; philosophy; photograph; pilot vessel; plan; planet; plot; poker; pound; power; primary manifold; product; promotion; proof; puppet; quarterly physical; quarters; question; radiation; range; reaction time; recorder marker; report; right angled course; risk; robot; salad; Sarek; savage; screen; second; self-preservation; sensor; sensor probe; shearing angle; signal; size; sitting; soul; space buoy; space exploration; space travel; spectrograph; speculation; spiral course; star map; star mapping; star system; Strange Case of Doctor Jekyll and Mister Hyde, The; substance; suffering; superheating; sweat; tape; temperature; textbook; theory; thing; thousand; time period; timepiece; tolerance; toy soldier; tractor beam; transporter room; tranya; trap; trespassing; vessel; visual contact; voice; volunteer; vote; warning buoy; warp factor; warp speed; weapon system; weight; word; year
+
+
+=== Star chart references ===
+Andromeda; Aries; Auriga; Cancer; Canis Major; Canis Minor; Cetus; Columba; Eridanus; Fornax; Gemini; Lepus; Lynx; Monoceros; Orion; Pisces; Puppis; Sculptor; Taurus
+
+
+=== Unused references ===
+blood; fish eggs; grapes; gymnasium; honeycomb; lead shot; movies; Orientals; shorts; Sino-Western trouble; soup; treadmill; World War III; wrist watch
+
+
+=== External links ===
+"The Corbomite Maneuver" at Memory Beta, the wiki for licensed Star Trek works
+"The Corbomite Maneuver" at Wikipedia
+"The Corbomite Maneuver" at the Internet Movie Database
+"The Corbomite Maneuver" at MissionLogPodcast.com

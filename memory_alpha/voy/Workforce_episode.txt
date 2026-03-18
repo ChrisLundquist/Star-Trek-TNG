@@ -1,0 +1,217 @@
+Most of the Voyager crew is kidnapped and forced to labor in a massive industrial work force.
+
+
+== Summary ==
+
+
+=== Teaser ===
+At a large industrial complex, workers are going about their everyday jobs. Kathryn Janeway asks a worker where she can find the supervisor and the worker points him out to her. When she reaches the supervisor, he asks for her authorization and licenses. Janeway gives them to him. He inspects them, discovering that Janeway has a level 6 in thermal dynamics and quantum fusion, which impresses him. He states that he is lucky to have her working for him, but embarrasses her by informing her that she is late. Janeway apologizes, saying that she boarded the wrong transport, ending up in the atmosphere filtration facility, and promises that she won't be late again. The supervisor sympathizes, saying that it is easy for newcomers to get disoriented, and that even he gets lost on occasion. He then goes on to inform Janeway of her designated job, which is to monitor the primary reactor coils, which process more than eight thousand metric tons per second of tylium at 94% thermal efficiency. The supervisor asks that if she has any problems that she inform him – they like to keep their workforce happy here. Janeway replies she can already tell this job will be much better than her last one...
+
+
+=== Act One ===
+A worker delivers some specifications to Janeway, which she then inputs into the computer. However, the computer sounds an alarm, stating that Janeway has committed Input Error 415 and Command Code Violation 2308. Janeway whispers to the computer, saying that if it stops the alarm then she promises to never violate it again. The computer continues, but just as she finishes whispering, a hand appears and inputs something into her control panel. This stops the alarm. He states that she almost started a core overload. He comments on Janeway's "unique" way of communicating to the computer. She states that it is an old habit. The man introduces himself as Jaffen, and says that he works close by. Seven of Nine interrupts, telling Jaffen and Janeway (employee 1326 and 8584) that labor protocols dictate that fraternizing is not permitted during work hours. Jaffen asks for her number, or name, and she introduces herself as Annika Hansen, the station's new efficiency monitor. She tells Jaffen to get back to his station, but Janeway interrupts, informing Annika that Jaffen was just assisting her with an input error, and that they were almost finished. Annika leaves, and Jaffen asks Janeway if she would like to go out for a meal, but Janeway rejects the offer, stating that she has little time to socialize with her new job.
+
+Tom Paris is talking to a bar manager about working there. She is not very willing to hire him at first, and tells him that the power distribution plant is always looking for workers. Paris replies by saying that he did work there before, but didn't like it. The manager is slightly suspicious, stating that they treat their employees well. She asks how long he worked there, and after some convincing, he reveals that he was only there for approximately half a day; the manager is shocked. Paris says that he doesn't belong behind a console, and that he heard workers talking about her great bar. She is surprised that he was terminated during a labor shortage, and asks him why, to which he replies that he had a disagreement with the new efficiency monitor. After some convincing, and begging, she hires him, and tells him to get to work.
+Jaffen shares a humorous anecdote with some colleagues, about how a man was trying to insult him about his father, with the punchline being that he was Norvalen, and so doesn't have a father. Tuvok, laughing heartily, turns around and starts analyzing the joke. Janeway enters the bar, and Jaffen asks her why she is here, when earlier she said she had little time to socialize. She says she wants to review manuals while eating, not socialize. Jaffen joins her. Jaffen and Janeway walk home together after a long night out reviewing manuals. Janeway tells him about her home planet, Earth, describing it as overpopulated, polluted, and with few jobs. Jaffen invites her to his home, but Janeway refuses, saying that she must get to sleep.
+An alarm in Janeway's workplace sounds briefly. She tells Jaffen that it wasn't her, but Jaffen tells her that it is not an overload, but just time for inoculations, courtesy of the employer. Janeway asks what they are for, and Jaffen tells her that it is to protect against ambient radiation. Janeway was unaware of that problem, but doesn't question it. As Tuvok is about to be inoculated, though, he backs away from the hypospray, apologizing and telling the nurse that he is afraid of injections. While being injected, he flashes back to a traumatic experience: two Quarren guards restraining him, while he is unwillingly injected by a Quarren doctor. He returns to work, confused and disturbed.
+
+
+=== Act Two ===
+"First officer's log, Stardate 54584.3. Ensign Kim, Mr. Neelix, and I are returning to Voyager after five days of trading with the Nar Shaddan."
+Ensign Kim is ill after being infected with alien parasites, after drinking falah nectar, a delicacy. Kim is angry at Neelix for making him drink it, and asks why he didn't make Commander Chakotay drink it. Neelix explains that Chakotay is a vegetarian; Kim is dismayed to realize the drink was made from meat ("more like a meat byproduct," notes Neelix). Neelix offers him Leola bark tea for his queasy stomach, but as it smells really bad, Kim decides to wait to see The Doctor. Chakotay summons the two to the bridge of the Delta Flyer, and tells them that they are at the rendezvous coordinates, but there is no sign of Voyager, and they are not responding to hails. He orders them to start scanning on all frequencies.
+Meanwhile, in a nebula, The Doctor is having problems repairing Voyager's systems. His uniform is clearly command red instead of science blue. He commands the computer to reinitialize the subspace transponder, but it replies that the main computer is failing. He tells it to switch to backup processors, which stabilizes the main computer. The Doctor reorders the computer to reinitialize the subspace transponder, but there is insufficient power. The Doctor tells the computer to reroute power from the replicator system, but the computer is unable to do so because the relays to the transponder have been fused. Extremely aggravated by the computer's apparent difficulty, he asks the computer what he can do. He asks if the relays can be bypassed, but they cannot, so he decides that he must replace them. Just as he is about to do so, the intruder alert activates, detecting two humanoids in the bridge; identification is not possible as sensor resolution is below 20%. The Doctor goes to the bridge, and finds two humanoids in environmental suits. He orders them to stop their activities, but they quickly identify themselves as Harry Kim and Chakotay. He greets them warmly and apologizes for the lack of life support, but he wasn't expecting anyone soon. Chakotay asks what happened, and The Doctor informs them that about twelve hours after the Delta Flyer left on its away mission, things started to go wrong.
+
+Voyager hit some sort of subspace mine, and The Doctor was forced to quickly transfer his program to the mobile emitter due to a systems failure in sickbay. After a few minutes, he was inundated with casualties of tetryon radiation poisoning. The captain asked him if he could treat his patients, to which he answered that he could only stabilize them, since they were still being exposed to the radiation. The captain ordered the patients and the crew to the escape pods, but ordered The Doctor to stay. Janeway then activated the ECH, engaging the emergency command subroutines in The Doctor's program and transferring all command codes to him. She said that he should vent the radiation from the ship, and that until he could, the crew would abandon the ship and the contaminated area around it, and head for the nearest habitable planet, attempting to compensate for professional medical care with med-kits, or the goodwill of nearby ships. As the ECH was about to start repairs, an alien ship locked a tractor beam onto Voyager. The ECH hailed the ship, identifying himself and the ship; the alien captain was surprised since his sensors had showed no life forms, but still refused to release Voyager, so The Doctor told Voyager to fire phasers at the alien ship's tractor emitter. But before Voyager could escape at warp, its warp engines were disabled. The Doctor managed to disable the alien ship's engines with a phaser beam, avoiding pursuit. Another two incoming ships were detected, but The Doctor managed to evade them, hid in the nebula, and vented the radiation. Harry Kim comments on how hard it was to pick up his homing signal, and The Doctor says that he had to encrypt it because of the increasing number of ships he detected every time he attempted to leave the nebula. The Doctor says that he has no idea who the aliens were, but he does know that their weapons signatures match those of the mine, telling him that the mine was deployed by the aliens as a part of a trap. The rest of the crew has not been heard from since.
+
+
+=== Act Three ===
+Tuvok is watching Kathryn Janeway work from afar. He flashes back again. This time, Janeway has just been rescued from her escape pod and is being treated by a Quarren doctor. He gives her an anti-radiation serum, and then starts to operate on her. Tuvok, who is in the same room as Janeway, lying on a sickbed, sees what the doctor is doing and asks why he is doing it. The doctor says that Janeway is suffering from Dysphoria Syndrome, which he assures Tuvok is perfectly treatable. Tuvok does not accept this explanation, and attempts to stop him from operating, but the Quarren doctor orders two guards to restrain him, and then sedates Tuvok. Back in the present, Tuvok walks up to Janeway, telling her that he believes they know each other. Janeway recognizes him as Tuvok, whom she met at the shift briefing a week ago. Tuvok talks about knowing her from before then, from the hospital, but Janeway does not know what he is talking about, and assumes that he is talking about someone else. Tuvok is, however, relentless, and asks her to try to remember the hospital, at which point, Jaffen interrupts and asks if something is wrong. Afraid that he may be deemed insane, or perhaps genuinely wrong, Tuvok stops persisting and apologizes. Jaffen asks Janeway if she would like to have dinner together again, but Janeway so far has not been impressed with his cooking skills. She compromises, and agrees to have dinner, as long as she can cook this time.
+
+Tom Paris asks B'Elanna Torres, a customer in the bar, if she would like anything else, to which she replies no. Paris states that he hasn't seen Torres in the bar before, and she comments that he obviously isn't very observant, as she has been going there the same time every day for the two previous weeks. Paris explains to her that this is because he usually works nights. Torres replies that she does too, and Paris adds that she works at the Power Distribution facility, showing that he is observant. The bar manager summons Paris, and he replies that he will be there shortly. Paris, continuing his conversation with Torres, says that she should come back in on her next night off, as it is more fun when there is a crowd. Torres says that she doesn't like crowds. Paris then asks if she would like to go for a walk by the lake. Torres dislikes the idea, and Paris asks her why, stating that he is a very interesting conversationalist. As he says this, Torres stands up, displaying the fact that she is pregnant. She asks Paris if he would still like to go out with her. Paris asks if she is married, and she replies that she is not. Torres walks out, unhindered by Paris.
+
+"First officer's log, Stardate 54597.9. After restoring primary systems, we have left the nebula to try and find the crew. Although there is still a lot of damage, we have been able to reconfigure our sensors to detect subspace mines. Ensign Kim has been running continuous scans, but there is still no sign of our people. On the bright side, the ships that were searching for us seem to have given up. With only four people on board, repairs are going slowly."
+The Doctor manages to restore power to the secondary propulsion systems, when Harry Kim summons him to the astrometrics lab. The Doctor asks if he has had any luck in finding the crew. Kim informs him that he has scanned ships and planets in 83 systems, with no sign of Humans, Bolians, or Vulcans. The Doctor suggests that Kim increase the sensor range by tying them in with the main deflector, but Kim informs him that he has already done that. As The Doctor is about to give another suggestion, Kim interrupts him, and says that the reason he summoned him was to stop his queasiness, caused by the falah nectar. The Doctor says that he treated him days ago, but Kim tells him that whatever he did hasn't quite worked.
+On the bridge, The Doctor informs Chakotay of his completed duties: repairing the deuterium injectors, restoring the secondary propulsion systems and soothing Harry Kim's upset tummy. Chakotay congratulates him, and then asks him to repair the ruptured plasma relays on deck 10, which The Doctor is reluctant to do. Chakotay asks him why, and the ECH says that he is the Emergency Command Hologram and therefore should be in the command center of Voyager, the bridge. Chakotay tells The Doctor that they must prioritize. Harry Kim interrupts, informing them that he has found the crew on an M-class planet that is within a three-day journey at maximum warp. Chakotay goes to visit astrometrics, giving The Doctor the command center.
+
+Back on Quarra, Janeway is cooking dinner for Jaffen, saying that her food is only burnt on the outside and that after cutting off the charred bits, it should taste fine. She adds that his cooking console (food replicator) is a little temperamental, and Jaffen wittily asks if she tried talking to it. Jaffen gently lets down Janeway, telling her that her food is not that good. Janeway suggests that they go out for food, but Jaffen says he is not very hungry. Janeway says that neither is she, and they kiss passionately.
+
+
+=== Act Four ===
+"First officer's log, Stardate 54608.6. We've traced the crew's lifesigns to a large city on a planet called Quarra. Unfortunately, the local officials aren't being very cooperative."
+An official tells Chakotay that after interviewing some of his so-called crewmembers, none of them remember a Chakotay or a Voyager. Chakotay asks if he can talk to the crewmembers himself, but the official states that the workers are protected by the laws on Quarra, apparently from unscrupulous individuals attempting to acquire skilled laborers. After some resistance, Chakotay ceases his attempt at negotiation, and asks Harry Kim to take Voyager out of orbit of Quarra. The Doctor says that they can't just leave them there, and Chakotay says that they won't, but that he wants the Quarrens to think they are.
+Back on Quarra, Janeway and Jaffen are starting to realize their affection for one another. Paris and Torres are also forming a friendship, based on Torres' unborn baby. Torres says that she isn't looking for a romantic relationship, but Paris is willing to just be her friend.
+Neelix informs Chakotay and The Doctor that the eight captains that have left Quarra in the previous two weeks knew nothing about the previous Voyager crew, but all of the captains asked him if he was looking for employment, because of an apparent labor shortage in the system. Chakotay adds that the official said that most of the crew had jobs in the main power facility, and asks Neelix if he can find a job for them in the same facility. After The Doctor adds that reentering orbit might arouse suspicion, Neelix suggests using his ship instead. The Doctor also adds that Chakotay may be recognized, and Chakotay has him perform some "reconstructive" surgery. Neelix says that Chakotay should have posed as a Talaxian, as he thinks they would have made a striking pair, but apparently whiskers make him itch.
+Chakotay asks how the interview went, and Neelix says that they have been eagerly employed. Harry Kim hands The Doctor a subdermal transponder, which he injects under Neelix's hand, allowing Voyager to keep an open comm link to him and to transport him through the shield grid if an emergency arises. Chakotay orders Ensign Kim to hold position at maximum transporter range, and The Doctor asks Chakotay why he is leaving Kim in charge, because "an Emergency Command Hologram programmed with over 2,000,000 tactical subroutines outranks an ensign", to which Kim replies that "with a few words to the computer, this ensign can delete those subroutines". After some more quibbling, Chakotay orders the two of them to "work it out". Chakotay and Neelix depart for their new jobs on Quarra.
+Meanwhile, on Quarra, the efficiency monitor, Annika Hansen, confronts employee 8586, Tuvok, asking him why he has neglected to report for his last three inoculations. He refuses to respond, and she orders him to report to the infirmary. Tuvok, barely able to speak and sweating, says to Annika "Seven of Nine". She is confused, and Tuvok says that it is her designation. She is about to state her employee designation, but before she can finish, Tuvok initiates a mind meld. Annika screams and struggles, and just before the guards can pull Tuvok away from her, she has a vision of herself stepping out of an alcove just after regeneration. Tuvok is dragged off, shouting: "I don't believe you are who you think you are. WE DON'T BELONG HERE! WE DON'T BELONG HERE! THIS ISN'T RIGHT! WE DON'T BELONG HERE!"
+
+
+=== Act Five ===
+Neelix and Chakotay have started their first day of work at the main power facility on Quarra. The supervisor is not astounded by Chakotay's level 3 aptitude in microkinetics, and says he could work on it, but very impressed by his level 5 in thermionic conversion. The supervisor adds that they lost a thermionics specialist the previous day. He is referring to Tuvok, but Chakotay is unaware of this. As they walk, Chakotay notices at least one female crewman, but as she looks back at him, it's clear she doesn't recognize him. The supervisor describes the thermionic converters to Chakotay, stating that they run under rotating frequencies and so have to be closely monitored, and that Chakotay must report his readings to the controller at regular intervals. However, Chakotay is distracted by Janeway returning to her station, and the supervisor, realizing that Chakotay isn't listening, asks him why he isn't. Chakotay excuses himself by saying he's just excited to be there. Once the supervisor leaves him to his duties, he goes over to Janeway and whispers to her that it is Chakotay. However, he realizes that Janeway either doesn't know him or is trying to remain undercover, so he pretends to be genuinely a new worker in the power facility. He says that the supervisor suggested that if he had any problems he should speak to her. Janeway asks what he said his name was, and he says it is Chakotay, but that is only his nickname; his real name is Amal Kotay. Janeway says that she is happy to help in anyway she can.
+
+Meanwhile, in the infirmary, Tuvok is about to be sedated. Kadan, a doctor in the infirmary, tries to convince him that he is experiencing a relapse of dysphoria syndrome. Tuvok struggles, but in vain, as he is sedated and operated upon.
+In the bar, Paris and Neelix are discussing how lucky Paris was to find this job after losing his position at the power plant. Torres is at the other side of the room talking to the expectant parents that Paris found for her to talk to. Paris is very distracted by this, but continues to talk about how losing that job was the best thing that ever happened to him. He says that there were too many rules and regulations, which Neelix describes as like working on a starship. Paris asks if he has ever done that, and Neelix says that he used to be the captain of a cargo vessel. Neelix asks Paris if he has worked on a starship, but Paris says that space travel makes him sick. Neelix then asks if he knows most of the customers, and Paris states that he knows a lot of them, describing the bar as a great place to work; Neelix answers that it certainly looks that way. Just as Paris offers to put in a good word for Neelix to his boss for a job, Chakotay walks in. Neelix introduces him to Paris using his alias, Amal Kotay, and introduces Chakotay to "his new friend, Tom Paris". Neelix reports to Chakotay that he has been assigned to the primary fusion chamber, where Ensigns Celes and Mulchaey were also assigned to work. He adds that none of them recognized him. Chakotay, recounting a similar experience, bets that they all really love their jobs. Neelix states that it is like "they've all been programmed to be happy" on Quarra. Chakotay states that it is a safe bet that none of them will go willingly.
+Janeway and Jaffen enter and she invites Chakotay and his friend (Neelix) to join them. Chakotay accepts, but Jaffen tells Janeway that he was thinking of eating alone tonight. Chakotay accepts this, and as she walks out, Janeway tells Jaffen that what he just did was rude. Jaffen excuses himself, saying that he wanted to talk to her about something. As Torres is about to leave, Tom runs up to her and asks if he can walk her to the transport. Torres says that she will be fine, and Paris adds that it's not her he's worried about. Torres reassures him, saying that the baby will be fine too. She gives him a warm smile as she leaves.
+Jaffen awkwardly asks Janeway if she would like to move in with him. After some awkward discussion, she agrees.
+Torres, walking home alone, starts cautiously looking around; Neelix is stalking her. She looks around instead of watching where she's going and runs into Chakotay, who is walking the other way. After some quick apologies, he calls her by her name, as if she is someone he met a long time ago, and she is surprised. Torres asks him how he knew her name, and he implies that they are old friends. She makes up an excuse about work and tries to leave. Chakotay grabs her and stops her from leaving, and tells Torres that he won't harm her. She manages to loosen his grip, but Neelix comes up behind her and grabs her. She struggles and screams for security to help; Chakotay hails Kim on Voyager and orders him to beam Neelix and Torres up to sickbay as The Doctor heads there himself. As the two are being transported, two Quarren security officers arrive and attempt to stop Chakotay.
+
+The security officers chase Chakotay down the street. Chakotay requests an emergency transport, but Harry Kim reports that Voyager is under attack by two Quarren vessels and he had to raise the shields. In sickbay, The Doctor is trying to sedate Torres while Neelix holds her still. After a moment of struggling, the sedative takes effect.
+The officers continue to chase Chakotay, but he eventually reaches a dead-end, standing on an open platform surrounded by a force field with security guards on their way and nowhere to go.
+TO BE CONTINUED...
+
+
+== Log entries ==
+First officer's log, USS Voyager
+
+
+== Memorable quotes ==
+"Maybe all those command subroutines are compromising your medical abilities."
+"Maybe all that sarcasm is compromising your natural charm."
+
+- Harry Kim and The Doctor
+
+"I've repaired the deuterium injectors, brought secondary propulsion back online, and soothed Ensign Kim's upset tummy."
+"Good work."
+
+- The Doctor and Chakotay
+
+"Strange man."
+"And a terrible joke teller."
+
+- Janeway and Jaffen, on Tuvok
+
+"A sick worker is not an efficient worker."
+
+- Seven of Nine
+
+"I still think you should have posed as a Talaxian, we would have made a striking pair."
+"Whiskers make me itch."
+
+- Neelix and Chakotay
+
+"Seven of Nine."
+"What?"
+"Seven of Nine. Your designation."
+"My employee number is 8586. Take your hands off me! Call security!"
+"I don't believe you are who you think you are! We don't belong here! We don't belong here! This isn't right! We don't belong here!"
+
+- Tuvok and Seven of Nine
+
+
+== Background information ==
+
+
+=== Cast and characters ===
+Ensign Golwat can be seen several times in this episode, such as when Tom Paris flirts with her in the restaurant, or with Captain Janeway on the elevator in the teaser.
+Iona Morris (Umali) previously played an Only girl in TOS: "Miri". She is the elder sister of fellow Voyager guest star Phil Morris.
+
+
+=== Production ===
+The Quarren coyote ship's bridge was evidently a minor redress of the Voyager crew quarters set.
+The same vessel was a modified re-use of the CGI model of a Breen interceptor from Deep Space Nine.
+
+
+=== Continuity ===
+Among the alien races represented on Quarra are a few that Voyager has previously encountered, including Kraylor (first encountered in "Nightingale"), Benkarans ("Repentance"), and Brunali, which was first encountered in "Collective" when Voyager made contact with Icheb. Also present on Quarra is a somewhat purple species that closely resembles an Alpha Quadrant race, the Benzites.
+The Doctor becomes the Emergency Command Hologram for the second time in the series, having first assumed this role in the sixth-season episode "Tinker Tenor Doctor Spy". However, in contrast to that episode, he doesn't wear any pips.
+In this episode, The Doctor finds himself alone on Voyager until one of the shuttles carrying some of the crew came back from an away mission. He faced a similar situation in "Macrocosm", when the entire crew was incapacitated by a virus (coincidentally, Neelix was present in the shuttle both time).
+Neelix's shuttle Baxial makes its third appearance in this episode. It has previously appeared in the series premiere "Caretaker" (where only the interior is seen) and in the third-season episode "The Chute".
+This episode represents the final time that Tuvok is seen to perform a mind-meld in the series.
+
+
+=== Trivia ===
+The Stargate SG-1 episode "Beneath the Surface", which aired six months earlier, shares significant plot elements with this two-parter. Both draw heavily from the Fritz Lang silent film Metropolis.
+Several costumes and props from this episode were sold off on the It's A Wrap! sale and auction on eBay, including eight unused Quarren uniform patches, [1](X) a Quarren med tech jacket, [2](X) the costume of Ken Gruz, [3](X) and a gold two piece jumpsuit. [4](X)
+
+
+=== Awards ===
+This episode was nominated for two Emmy Awards: Outstanding Music Composition For A Series (Dramatic Underscore) (Dennis McCarthy) and Outstanding Special Visual Effects for a Series. It lost both to VOY: "Endgame".
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, Paramount Home Entertainment): Volume 7.8, 1 October 2001
+As part of the VOY Season 7 DVD collection.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+James Read as Jaffen
+Don Most as Kadan
+John Aniston as Quarren Ambassador
+
+
+=== Co-stars ===
+Iona Morris as Umali
+Tom Virtue as Supervisor
+Michael Behrens as Coyote
+Matt Williamson as Security Officer #2
+Akemi Royer as Med Tech
+Robert Mammana as Security Officer #1
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Ashmore
+John Austin as
+Alien worker
+Starfleet officer
+Michael Bailous as Voyager worker
+Amy Kate Connolly as female Kaitlen
+Mitch Earl as Numiri worker
+Tarik Ergin as Ayala
+Marina Freeman as Quarren med tech
+Ken Gruz as alien worker
+Dieter Hornemann as male Kaitlen
+Joyce Lasley as Lydia Anderson
+Lalita Lauren as alien worker
+Shauna Lewis as Kraylor worker
+Mark Major as alien worker
+Robin Morselli as alien worker
+James Do Pearson as alien worker
+Stephen Pisani as alien worker
+Keith Rayve as a command officer
+Katie Rowe as Benkaran supervisor
+Richard Sarstedt as William McKenzie
+Pablo Soriano as
+Kraylor worker
+Pelian worker
+Robert Stachowiak as Quarren med tech
+Noriko Suzuki as alien worker
+Curtis Wong as Numiri worker
+Cricket Yee as alien worker
+Unknown performers as
+Golwat
+Alien computer voice
+Pink skinned aliens
+Voyager crew member on Quarra
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+Stuart Wong – stand-in for Garrett Wang, Tom Virtue, Don Most, and Michael Behrens
+
+
+=== References ===
+ambient radiation; anecdote; Atmosphere Filtration Facility; backflip; Baxial; bearing; Benkaran; blanket; Bolian; bully; byproduct; capital city; career; cargo vessel; Celes, Tal; Central Hospital; Central Power Facility (aka Power Distribution Facility, aka Power Distribution Plant); collector; com-link; command center; command subroutine; console (aka control panel); controller; cooking; cooking console; curfew; Delta Flyer; dermal regenerator; deuterium injector; docking permit; Dralian; Dysphoria Syndrome; Earth; efficiency monitor; Emergency Command Hologram (ECH); emergency shutdown; emergency transport; ensign; environmental suit; escape pod; evasive pattern; express lift; Falah nectar; father; Federation; government official; green; Hazari; Human; interpreter; intruder alert; inoculation; irony; itch; Jaffen's bully; joke; Kaitlen; Kotay, Amal; laborer; latara broth; leader; leola bark tea; M class; meat; medkit; medical ability; medical care; metric tons per second; microkinetics; mind control; mobile emitter; Mulcahey; Nar Shaddan; nebula; Norvalen; Norvalen homeworld; operator; parasite; percent; perfectionist; plasma conduit; power relay; primary fusion chamber; proprietress; public health; qualification level; quantum fusion; Quarra; Quarren coyote ship; Quarren; Quarren patrol ship; Quarren transport; queasy; radiation; radiation poisoning; reactor coil; reconstructive surgery; replicator system; sarcasm; shield grid; skilled worker; stomach; subdermal transponder; subspace mine; subspace transponder; supervisor; Talaxian; tetryon radiation; thermionic converter; thermionics specialist; thermal coefficient; thermal dynamics; thermal efficiency; time travel; tractor emitter; transport; transporter range; tylium; "upset tummy"; vegetarian; Vulcans; whiskers; worker (aka workforce); work hours
+
+
+=== External links ===
+"Workforce" at Memory Beta, the wiki for licensed Star Trek works
+"Workforce" at Wikipedia
+"Workforce" at the Internet Movie Database

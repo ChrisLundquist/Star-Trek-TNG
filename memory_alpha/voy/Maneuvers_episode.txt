@@ -1,0 +1,200 @@
+After Seska steals vital transporter technology from Voyager, Chakotay sets off on his own to recover it.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Commander Chakotay and Lieutenant B'Elanna Torres enter a turbolift in civilian clothes. They have just been pulled away from a game they were playing – one that Torres insists she was winning easily. Chakotay counters that he was just letting her run up a substantial lead so she would tense up when he staged a rally. She balks at the idea, virtually proving his point. "Easy, B'Elanna," he says with a smile. "It's only hoverball."
+Before she can respond, the lift halts at the bridge. There, Tuvok and Janeway explain that the USS Voyager is being hailed using a Federation signal emanating from a nearby beacon.
+
+
+=== Act One ===
+Initial analysis of the beacon's carrier wave frequency indicates that its security code dates from a month after Voyager was thrown into the Delta Quadrant. Brief optimism that it might actually be from a Starfleet effort to find Voyager is quickly dashed by the appearance of a Kazon raider that immediately starts firing its weapons. A second, much smaller ship appears, clarifying the larger ship's pattern of attack. It is cutting a small hole in Voyager's shields, employing knowledge of Voyager's access codes, so that the Kazon shuttle can breach Voyager's hull. The Kazon shuttle enters the ship at cargo bay 2 on deck 4. Once inside Voyager, the raiding party outruns Tuvok's security detail, and heads for the transporter room on the same deck. They steal a transporter module and beam back to the main Kazon vessel – after completely disabling Voyager's remaining transporters.
+The shuttle lodged in deck 4 has not only caused a dangerous hull breach, it's also preventing Voyager from establishing a stable warp field. Left with few alternatives, Janeway orders Chakotay to hold the Kazon vessel in a tractor beam. The vessel hails, revealing First Maje Culluh. Janeway insists on the return of the module, but Culluh refuses. Instead, he shows the secret to his successful raid: Seska emerges from behind Culluh to give a special greeting to Chakotay. Now undergoing therapy to restore her Cardassian physiology, Seska seems almost disappointed with Chakotay's predictability. She initiates a feedback loop with her deflector shields which disrupts the tractor beam. Free from Voyager, the Kazon ship quickly goes to warp. Voyager cannot pursue.
+
+
+=== Act Two ===
+Most of the senior staff examine the damage done by the Kazon shuttle. They sort through their repair priorities following the attack and determine that the shuttle's removal must take priority. Without its removal, Voyager cannot pursue the Kazon raider. Neelix initially resists Janeway's plan to pursue the Kazon ship, failing to understand why the extreme danger of tangling with the Kazon again is worth the risk. Janeway is firm and she explains that the impact of stolen Federation technology will irrevocably alter the balance of power in the Kazon Collective. Neelix and the rest of the senior staff quickly fall in line behind Janeway's priorities. Tuvok begins planning a response immediately, suggesting that Chakotay use his intimate history with Seska against her.
+On the Kazon raider, Culluh indicates that he's not going to stop with just the transporter module. He tries to enlist the aid of Maje Haron, leader of the Kazon-Relora. The basic terms of the deal are simple: If the Relora lend their support to Culluh, the Kazon-Nistrim will share Voyager's technological spoils with them.
+Back in engineering, Torres has found the technological solution to the problem. She tells Chakotay that the stolen transporter module contains a quantum resonance oscillator. If they modify a coil scanner to detect the oscillator, it will be possible to lock onto the module and beam it out. Chakotay believes that Seska will have anticipated this move and presses for a backup plan. Chakotay recalls a move Seska once made on a Maquis mission as providing the key to the problem. If he uses an anti-proton beam he'll be able to destroy the module. The problem is that they have to get relatively close to the Kazon raider for the plan to work. For the moment, Chakotay doesn't answer how he plans to get that close.
+Torres notes that Chakotay is taking Seska's reappearance very personally. She tries to comfort him by explaining that everyone was fooled by Seska. When that fails to ease him, Torres echoes his own words back to him. "Don't tense up", she says.
+Meanwhile, the negotiations between Majes Haron and Culluh continue. However, Haron appears to have the upper hand. He has a far greater number of troops and suggests that the only reason the Nistrim need help with this operation is because Culluh's grandfather wasted the Nistrim's resources. Therefore he proposes that Culluh should give the transporter to him and allow the Relora to perform the operation alone. This meets with violent objection but Seska manages to calm tensions between the two leaders temporarily.
+Voyager unwittingly discovers exactly how she was able to ease tensions between the two negotiating parties. Paris finds a gap in the raider's warp trail. When Voyager slows to investigate, they find Haron's body floating in space.
+
+
+=== Act Three ===
+In sickbay, Neelix ties together evidence supplied by The Doctor and Kes, along with his own visual inspection of Haron's uniform. Since the uniforms betray the corpse as belonging to the Relora – known enemies of the Nistrim – he suggests that the transporter module was used to beam Haron and his guards to their death in space.
+Janeway convenes a meeting of the senior staff to discuss the implementation of the plan devised by Chakotay and Torres, only to discover that Chakotay is no longer on the ship. A shuttlecraft has gone missing from the shuttlebay, taken by Chakotay. Dumbfounded by the lack of adequate safety protocols that could have prevented Chakotay from leaving, Janeway tries to understand what her first officer is doing. With the coil scanner missing from engineering, it becomes apparent that Chakotay intends to effect the plan on his own.
+Culluh upbraids Seska for suggesting that the Relora would join them. She apologizes but spins the incident deftly. She insinuates that his decision to kill the Maje of the Relora will send shock waves through the Kazon Collective. Word will spread quickly that he is a powerful leader with superior technology. Culluh warms to the idea and theorizes that the Relora were too strong to be sufficiently interested in his newfound technology. However, weaker sects, like the Mostral and the Hobii, might now join with him. When, however, Seska says that she's sent messages of invitation to other Majes in his name, he becomes enraged. He angrily tells her that she has overstepped her boundaries. Only he leads the sect. She begs his forgiveness and his anger abates. She tells him that the other sects have responded positively to "his" invitation. He dreams of being the first leader since Sankur to unite the sects.
+Torres enters the captain's ready room to try to explain why Chakotay has behaved as he has. Since Chakotay will likely not speak on his own behalf, should he be found, Torres wants to ensure that someone offer a defense for his actions, before she passes judgment on him. While Janeway remains firm in her conviction that there's no real excuse for his open defiance of the chain of command, she partly allays Torres by insisting that they worry about finding him now, while deferring discussion about his punishment until after his safe return.
+Meanwhile, Chakotay's shuttle is now powered down and situated just off the hull of Culluh's Kazon raider. He uses the oscillator to locate the transporter module. Just as he's about to release the anti-proton beam, however, Seska unmasks his position with a coherent polaron pulse and the raider begins to fire on the shuttle. She has the shuttle tractored into the raider. When a security team opens it up, however, they discover he's not there. He's beamed himself into position near the transporter module. He destroys the module using his phaser then taps on his combadge to instruct the shuttle to begin transmitting a message from a probe he launched just prior to the attack on his shuttle. He surrenders his phaser with the words, "Lovely to see you again."
+
+
+=== Act Four ===
+Voyager detects the probe's message which Chakotay recorded to explain that the signal has only been activated because he successfully disabled the transporter module. He warns Voyager to avoid coming to his rescue.
+Seska begins an interrogation, of sorts, with Chakotay back on the Kazon raider. He's non-responsive to a variety of approaches, including seduction. Along the way, he explains that he's not only deprived her of the transporter module, but that he also completely wiped the computers on the shuttle, rendering it worthless. He still has something she wants, though: Voyager's command codes. He refuses.
+Back on Voyager, Tuvok, Torres and Janeway struggle with how to proceed. Tuvok recommends that they follow Chakotay's recorded advice, and abandon him to the Kazon. Janeway is conflicted. Her better judgment agrees with Tuvok, but her "gut reaction" is to go after him. Torres agrees with Janeway and asks her a difficult question, "How would the loss of our first officer affect this crew? What would it do to the morale on this ship?" Janeway considers for a moment, then orders Paris to lay in a course to Chakotay's shuttle.
+Meanwhile, Culluh has joined the interrogation of Chakotay. Now the questions are rougher, punctuated by hard fist blows. Chakotay responds to each punch by trying to appeal to Culluh as a man who's experienced Seska's manipulation. When he refuses to break, he is injected with a serum that affects his mind. Culluh insists on the command codes but still Chakotay doesn't break. Instead he says he has better information: "When Seska's through with you," he intones, "she's going to kill you." Seska interrupts the interrogation by claiming Chakotay is delirious. Culluh exits, promising to retun in one hour. When he's gone, Seska disagrees with Chakotay's assessment of her. She says that if she were a killer, he would have been dead long ago. Simultaneously, she pushes a needle between his shoulder blades, at the base of his neck.
+
+
+=== Act Five ===
+Tuvok announces that the Kazon raider is now only about a half a light year away, but it has been joined by six other vessels. Neelix ponders the improbability of Culluh having that many ships, and says that they must come from rival sects. He quickly adds, though, that he's never known of Kazon sects to form an alliance like this. Leaving the political ramifications to one side, Tuvok says that it would be tactically unsound to proceed into an area with so many enemy ships. The only solution, Janeway asserts, is to find a way to remove Chakotay "without picking a fight".
+Torres offers a radical solution. She suggests that they can beam Chakotay while traveling at warp speed. Kim, Tuvok and Janeway – namely, the Starfleet personnel – are dubious of Torres' plans, mainly because it flies in the face of Starfleet safety protocols. Torres insists she can do it, because she has done it while a part of the Maquis.
+Meanwhile, Culluh is conducting negotiations between the various Majes – Loran of the Hobii, Surat of the Mostral, and Valek of the Oglamar. He appeals to them to make today the day that future Kazon children will remember as the day that the hegemony of the Relora and Ogla was ended. If they join together to seize Voyager, they will be the masters of the Kazon Collective. Valek is vocally opposed, and wonders whether they can actually defeat Voyager. Culluh claims he has Voyager's command codes. When Valek demands proof, Culluh at first seems slightly surprised, then has Commander Chakotay brought into the conference room. Chakotay looks like a man defeated by aggressive interrogation.
+As Voyager nears, Torres is having problems finding Chakotay's life signs. Tuvok reminds the captain there is no guarantee that Chakotay is still onboard the raider, or even alive. Janeway refuses to concede that point just yet and asks Torres for an update. She claims there's a dampening field in place which is disrupting the targeting scanners. Janeway theorizes that Seska could be masking Chakotay's signal. Torres reinitializes the transporter scanners to compensate for the field and finds him. Nevertheless, the dampening field prevents accurate beaming.
+Valek demands that Culluh use the command codes to disable Voyager. Culluh hesitates and instead orders a direct assault on the Federation ship.
+Now that a battle has been joined, Janeway presses Torres for results. She gets a transporter lock on Chakotay, and almost pulls him through. At the last moment, though, the Kazon ship alters the frequency of its dampening field and Chakotay remains aboard the Kazon ship. As Voyager is impacted by more direct hits, Janeway continues to wonder whether Torres can complete the transportation of Chakotay.
+Back on the Kazon raider, Valek continues to demand the use of the command codes. Culluh claims that he's having problems interfacing with the Federation technology. With their backs turned on the other Majes, Culluh and Seska look furtively at each other. Seska decides to leave for the bridge, claiming she might have better luck interfacing with Voyager there. Valek moves to stop Culluh from joining her, however.
+With Voyager's shields now almost depleted, Tuvok urgently recommends retreat. Janeway holds his recommendation briefly to consult with Torres. She asks how big the dampening field actually is. Torres responds that it's comparatively tiny – just enough to block transport of Chakotay. Janeway thus orders a change of tactics.
+Back in the Kazon conference room, Valek brings the issue of the command codes to a head. He accuses Culluh of lying to the other Majes. Culluh admits as much, saying that it does not matter if they have the command codes as long as they work together to defeat Voyager. Angered by the response, Valek pulls his weapon on Culluh and threatens to take over the ship. Before he can make good on his words however, the Majes are beamed aboard Voyager instead. Their weapons disarmed by the transporter, the Majes are forced to concede to Tuvok's security team. Tuvok declares the terms: they will be beamed back to their ship in exchange for Chakotay and the shuttlecraft. They agree and the crisis is finally resolved.
+Janeway calls Chakotay into her ready room in order to discipline him. In the end, she chooses not to offer any tangible punishment, aside from putting him on report. She stresses her profound disappointment in him. "How do you expect me to keep order," she asks him, "when the first officer decides to run off like some cowboy because he believes it's a good idea?"
+The two are then called to the bridge when another automated message beacon is discovered, directed to Chakotay. Opting to view the message in the presence of others, Chakotay soon discovers it's Seska calling with some very disturbing news. She claims to have extracted his DNA in order to impregnate herself with it. She congratulates him on his impending fatherhood.
+
+
+== Log entries ==
+"Captain's log, stardate 49208.5. I have convened a meeting of the senior staff to determine how we can get close enough to the Nistrim ship to deploy the anti-proton beam."
+"Captain's log, stardate 49211.5. Now that Commander Chakotay has made a full recovery, I'm faced with the difficult task of responding to his failure to follow procedure."
+
+
+== Memorable quotes ==
+"I should have known you were involved."
+"Yes, you should have."
+
+- Seska and Chakotay
+
+"Flattery, devotion, sex… I thought she had a lot to offer a man."
+
+- Chakotay, to Culluh about Seska
+
+"It's like they know our access codes!"
+
+- Chakotay, while Voyager is attacked through the shields by the Kazon
+
+"When you are a Maquis, you don't always have the luxury of following protocols."
+
+- B'Elanna Torres, on violating Starfleet protocols while using the transporter to rescue Chakotay
+
+"Hello, Chakotay. Congratulations on your victory. I look forward to our next meeting. Oh, and there's something you should know. While you were unconscious, I took the liberty of extracting a sample of your DNA. I impregnated myself with it. So, I guess more congratulations are in order. You're going to be a father."
+
+- Seska, to Chakotay
+
+"I'm putting you on report, in case that means anything anymore."
+"It means something to me, Captain. It means I've let you down… and for that I'm truly sorry."
+
+- Janeway and Chakotay
+
+
+== Background information ==
+
+
+=== Story and script ===
+In or by summer 1995, executive story editor Kenneth Biller was assigned the task of writing this episode. (The Official Star Trek: Voyager Magazine issue 7)
+The episode's original working title was "Manipulations".
+Although Ken Biller wanted Chakotay to be penalized at the end of the installment, the writer was not permitted to include the idea of such punishment. He remarked, "Picard would have thrown him in the fucking brig. That's what I wanted to do, but I got a lot of resistance on it and ultimately had the scene rewritten on me. He's the first officer and we need him, but there should have been some consequences to him disobeying the captain." (Cinefantastique, Vol. 28, No. 4/5, p. 89)
+When Ken Biller was notified that he couldn't fulfill his wish of having Janeway punish Chakotay, the writer came up with the solution of having Janeway warn Chakotay that she would put him on report. Biller explained, "What I tried to do was to attack that problem head on and expose Janeway's frustration at not being able to do anything about it. She can't throw him in the brig and can't replace him or get rid of him. She needs him." Biller hoped that, by having Chakotay be emotionally affected by Janeway's warning, the scene would demonstrate that Chakotay valued the captain's opinion. Biller ultimately thought, however, that the scene was "really a soft, weak kind of thing." Regarding his efforts to tackle the scene, Biller concluded, "I tried to do the best I could with what they would let me do." (Cinefantastique, Vol. 28, No. 4/5, pp. 89 & 91)
+The episode's final draft script was submitted on 11 September 1995. [1]
+
+
+=== Cast and characters ===
+Executive producer Michael Piller was pleased with the chance this episode gave to develop the character of Chakotay. Piller stated, "We had a real opportunity to do some nice work here with Chakotay […] I think that there's a personal drive that Chakotay had in this show that's very dramatic." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Chakotay actor Robert Beltran similarly felt that the episode was notable for showing a passionate side of his character. Likening himself to Chakotay, Beltran commented, "We both seem very calm on the outside but, you know, there's actually a volcano underneath. Anyone who's seen Chakotay in the episode 'Maneuvers' will know what I'm talking about." (Star Trek Monthly issue 20)
+One particular moment of this episode that Robert Beltran liked was the brief scene in which Torres advises Chakotay to exercise emotional restraint, giving him advice about controlling his emotions. Beltran opined, "It shows you the depth of their relationship." (The Official Star Trek: Voyager Magazine issue 7)
+Robert Beltran also enjoyed the physicality of the episode. "It was fun getting beat up, and being able to do some physical stuff that is not usual of any of [our] shows," Beltran commented. (Cinefantastique, Vol. 28, No. 4/5, p. 99) He also said of this episode, "That was a lot of fun! It allowed me to be more physical and that's one of the things I miss doing [on] Star Trek: Voyager, when we're always stuck on the bridge doing talky scenes. I relish the moments when I get to shoot at or hit someone – I love doing the more physical action." (Star Trek Monthly issue 20)
+Another aspect of the episode that Robert Beltran liked was the hostility between Seska and his own character of Chakotay. Beltran remarked, "I just liked the chess game that [Chakotay] and Seska were playing, and what had evolved in their relationship from what was originally a romantic relationship, degenerated into this bitter rivalry." (Cinefantastique, Vol. 28, No. 4/5, p. 99) In addition, Beltran enthused, "I […] enjoyed the psychological battle of wills between Chakotay and Seska; I thought it was very cleverly written." (Star Trek Monthly issue 20) Beltran defined the nature of Seska's relationship with Chakotay here by stating, "It's still clear that she has some feelings for him and that she doesn't want to hurt him." However, he also said of their relationship in this episode, "It was a huge, technical chess game. She made a move, Chakotay a counter-move. We just went at each other and there was no pretense." (The Official Star Trek: Voyager Magazine issue 7)
+Coincidentally, actress Martha Hackett was pregnant herself when she learned that the same fate would befall her role of Seska, who is reintroduced here after having appeared as a recurring character in Voyager's first season. "You're probably not going to believe this, but it's a coincidence that I happened to get pregnant and that the story editors decided Seska would carry Chakotay's child!" Hackett maintained, in a 1996 interview. "Ken Biller […] has been a friend of mine long before we both came onto Voyager; he ran into me on the street one day last summer and said, 'I've been assigned Seska's comeback. We've decided to make her pregnant!' I was 2 weeks pregnant at the time and didn't say anything, but I knew eventually I would have to." (The Official Star Trek: Voyager Magazine issue 7) In another 1996 interview, Hackett gave an alternative account in which, after Biller initially told her he would be doing this episode, she immediately notified him of her pregnancy. "I said to him, 'Well, between you and me, because I haven't even told my agent, I'm pregnant,'" the actress stated. "He told me, 'You're not going to believe this, but that's one of the ideas we're throwing around.' Of course, I thought he was joking, but he told me he was serious." (TV Zone, issue #85, pp. 30-31) Hackett had only recently learned she was pregnant, prior to receiving the news about Seska's comeback and finding out that the character would simultaneously be pregnant. The actress was thankful for the coincidental timing. "It was an incredible coincidence," the actress laughed. "It worked out very neatly […] It was a happy accident." (Star Trek Monthly issue 34, p. 38)
+Robert Beltran was impressed by Martha Hackett's perseverance to act here despite being pregnant. Beltran raved, "Martha Hackett is so good. She was really pregnant when we shot that episode, but she was still able to project in Seska a sexual, predatory aspect that was really scary." (The Official Star Trek: Voyager Magazine issue 7) Hackett herself was thrilled by the fact that, despite being pregnant, she was able to act in this episode. "It was […] really lucky, because unless you're a series regular or a star and they really need you, you normally don't get to work if you're pregnant […] So it was really nice to work at that time." (Star Trek Monthly issue 34, p. 38)
+Culluh actor Anthony De Longis appreciated the fact that this episode gives an insight into the Kazon. "I really enjoyed 'Maneuvers' because it provided me with the chance to show the audience that Culluh's a dangerous fellow," De Longis explained. "Seska is less in control of him in this episode than she has ever been before. It's obvious that she's the power behind the throne, but there's also a feeling of her swimming among the sharks and that she had better be careful. This episode gives us a better sense of who Culluh is and who these Kazon guys actually might be." (The Official Star Trek: Voyager Magazine issue 18)
+Working with Robert Beltran on this episode was pleasing for Anthony De Longis, who was familiar with some of Voyager's main cast members (such as having tutored Kim actor Garrett Wang at UCLA – at which De Longis had spent a nineteen-year stint of teaching fencing, stage combat and character movement – and having acted alongside Paris actor Robert Duncan McNeill in the film Masters of the Universe) but was more unfamiliar with Beltran. "Robert Beltran was very nice to work with on 'Maneuvers,'" De Longis stated. "I guess both Garrett and Robert McNeill had put in a good word for me. He felt very comfortable with the physical action and said, 'I know you know what you're doing and I can trust you.' Robert's a very strong actor and a very generous one, both of which always make the work more enjoyable because you can take more risks in the scene, both physical and emotional." (The Official Star Trek: Voyager Magazine issue 18)
+Although both the Star Trek: Voyager Companion, p. 81 and the unauthorized reference book Delta Quadrant (p. 85) claim that Kes does not appear in this episode, she does indeed appear herein.
+
+
+=== Production ===
+Anthony De Longis found that an enjoyable collaboration on this episode was with director David Livingston; the actor found Livingston to be welcoming of input from the actors and was also impressed by the director's thorough preparedness, as Livingston more-or-less knew what he wanted and had planned all his shots for the episode. (The Official Star Trek: Voyager Magazine issue 18)
+A scene whose production was notable for Anthony De Longis was the one in which Seska repeatedly says, "Yes, Maje," to Culluh, telling him he can be and do anything he wants. De Longis noted that the scene "became a big hoot on the set." He continued, "Martha played the scene delightfully, and got as kittenish as she ever got around me […] But in this scene, we were moving around this table too much, and it just didn't feel right. [David Livingston] asked us how we wanted to shoot the scene, and we opted for the intimacy of the sofa. Because we were sitting, the camera had to get in much closer, and we had to contort ourselves into some rather user-unfriendly positions, which, conversely, were perfect for either my jewelry, boot or belt to clang into the couch's brass pipes. As soon as we would get into position and were about to shoot you would hear, 'Ting.' In the end, it became one of my favorite scenes. The hair department used to give me the 'Yes, Maje. Yes, Maje.' whenever I came in to get made up. Rather a fun fantasy." (The Official Star Trek: Voyager Magazine issue 18)
+As there was a sizable interim between this episode and the first one in which Anthony De Longis appeared as Maje Culluh (namely, "State of Flux"), his makeup for this installment was eventful. "Because I wasn't back for three months," he explained, "the next time we did the makeup it took a bit of juggling to find the right balance. Steve Weber took over [from Michael Westmore], so Maje Culluh became his responsibility." (The Official Star Trek: Voyager Magazine issue 18)
+Martha Hackett thought highly of this episode's production. She said, "There was some stuff in 'Maneuvers' that I thought was directed very interestingly and shot really interestingly […] I thought the episode looked great." A notable scene for Hackett was the one in which Chakotay is interrogated by Culluh. "The interrogation scene with Chakotay was done in one shot, and it was a really fun scene to do," Hackett recalled. (Star Trek Monthly issue 34, p. 38)
+The Kazon bridge in this episode has, as its background, a large doorway that was reused from "Time and Again". (Delta Quadrant, p. 85)
+Michael Piller was concerned and ultimately disappointed by the ways the budget for this episode was used, particularly regarding the visual effects. He remarked, "This is another one of those shows where I don't think we spent the money to execute the premise well enough. This particularly was a show in which I was afraid the audience wouldn't have a clue what was going on because they never saw a lot of crucial stuff. The Enemy Below sequence in the third act had the potential to be a really terrific sequence, yet optically I felt a little shortchanged by it. Basically, we had to thread a needle without the visual, optical support for that. I just think it was very confusing." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+A shot of Chakotay's shuttlecraft immediately after he drops the craft's power is a reverse stock shot of a Voyager shuttlecraft. This is evidenced by the fact that Voyager's registry numbers, on the side of the shuttlecraft, are shown mirrored. (Delta Quadrant, p. 86)
+The editing of this episode was in its final stages during the first day of production on the later second season episode "Death Wish". (Star Trek Monthly issue 10)
+
+
+=== Continuity and other trivia ===
+This episode establishes that Stardate 48423 was "a month" after Voyager had left Deep Space 9 – for reference, in "Caretaker", Voyager arrived in the Delta Quadrant no less than three days before Stardate 48315.6. This stardate/time reference would additionally seem to indicate that Voyager's second episode "Parallax", which was dated Stardate 48439.7, also took place over a month after "Caretaker". For comparison, the Star Trek: Deep Space Nine episode "Meridian" – which actually aired two months before the Voyager premiere – also takes place a month after Voyager left DS9, specifically, on Stardate 48423.2.
+Seska's reintroduction here follows her betrayal of the Voyager crew in her last episodic appearance, Season 1's "State of Flux". Having looked Bajoran throughout the first season (including in "State of Flux"), Seska now sports a far more natural Cardassian look. She would go on to appear in several subsequent installments of Voyager's second season and, following the production of one or two such episodes, Martha Hackett said of Seska's Cardassian appearance, "I quite like the new makeup and the way it's gradually building. I'm used to working with it now; I figure if Ethan Phillips can go through it as much as he does, then I can too." (The Official Star Trek: Voyager Magazine issue 15)
+Even though some fans questioned Chakotay's leadership skills after learning he had been duped by both Seska (as is established in "State of Flux") and Tuvok (as Chakotay discovers in series pilot "Caretaker"), Robert Beltran felt that this episode went some way towards clarifying that the reason Seska had managed to trick him was because she was a master manipulator. The actor stated, "Seska is quite a mental chess player and a manipulator, as you've seen, especially in 'Maneuvers,' when she manipulated the Kazon leader." Of how he believed this episode changed the character of Seska, Beltran noted (shortly after acting in the episode), "She's now a dangerous and worthy adversary." (The Official Star Trek: Voyager Magazine issue 7)
+The story about Seska's pregnancy and her baby is continued in "Basics, Part I" and concluded in "Basics, Part II".
+This is the fourth episode in which Voyager encounters the Kazon after "Caretaker", "State of Flux", and "Initiations".
+This episode introduces more Kazon sects, namely the Kazon-Relora, Kazon-Mostral, Kazon-Hobii and Kazon-Oglamar.
+This episode marks the first of two conferences held between the First Majes of the principal Kazon sects, the other being held in the later second season episode "Alliances".
+In this episode, the Kazon shuttle breaches the hull of cargo bay 2 on deck 4. This is not the same "cargo bay 2" that, two years later, gets converted into Seven of Nine's alcove; the sixth season episode "Equinox, Part II" establishes that Seven's "cargo bay 2" is on deck 8. It is also likely not the "cargo bay 2" in which Kes' airponics bay was set up in the first season episode "Parallax", as no evidence of vegetation is seen during the firefight that occurs in the area in this episode. The area may have originally had another number when Voyager launched, and was possibly reassigned as "bay 2" after Kes' alterations to the original bay 2 caused it to be known as the "airponics" or, "hydroponics bay", as it was previously called several episodes. Following the massive damage to the "cargo bay 2" of this episode, it possibly was declared unsafe for a long enough period of time that the bay on deck 8 assumed its designation.
+Ensign Kim mentions in this episode a speed of "2 billion kilometers per second" when describing flying past the stationary Kazon ship at warp speed. This would be 6671 times faster than the speed of light. Voyager's speed capability was previously mentioned in "The 37's".
+This episode has the third shortest teaser of Voyager's second season, being slightly longer than the teasers of both "Projections" and "Non Sequitur", both of which are (like this episode) under a minute in duration.
+
+
+=== Reception ===
+This episode achieved a Nielsen rating of 5.4 million homes, and an 8% share. [2](X) It also ranked as the fifth most popular episode of Voyager's second season in a contemporaneous fan poll, to which executive producer Jeri Taylor paid particular attention. (Star Trek: Communicator issue 108, p. 18)
+Despite regretting not having been allowed to have Chakotay punished in the conclusion of this episode, Ken Biller ultimately held the episode in high acclaim, noting, "I really like the show and am proud of it." (Cinefantastique, Vol. 28, No. 4/5, p. 89)
+This is the third in a trio of Chakotay-centred, second season episodes that Robert Beltran thought were "really fine scripts" (the other episodes being "Initiations" and "Tattoo"). He continued by saying, "I especially liked 'Maneuvers,' and at the time I think it was my favorite of the three." Beltran, speaking at about the end of the second season, went on to imply that, since working on this installment, the episode had either been topped or equaled in his estimation due to the fact that he had recently reevaluated "Tattoo". (Cinefantastique, Vol. 28, No. 4/5, p. 99) However, Beltran subsequently ranked this episode as being his favorite from the first three seasons of Star Trek: Voyager. (Delta Quadrant, p. 84)
+Likewise, Martha Hackett rated this episode as her favorite of the first season and a half of Voyager (with "State of Flux" being her second favorite). (The Official Star Trek: Voyager Magazine issue 7) She stated, "Along with 'State of Flux', it was my favorite episode." (Star Trek Monthly issue 34, p. 38)
+Star Trek Magazine gave this episode 3 out of 5 stars, defined as "Warp Speed". Additionally, Star Trek Monthly reviewer Stuart Clark referred to the episode as "a heavy drama." (Star Trek Monthly issue 14, p. 62)
+Cinefantastique gave the installment 3 out of 4 stars. (Cinefantastique, Vol. 28, No. 4/5, p. 89)
+The reference book Delta Quadrant (p. 86) scored the episode 6 out of 10.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 2.4, 22 April 1996
+As part of the US VHS collection Star Trek - The Greatest Battles: 3 April 1997
+As part of the UK VHS collection Star Trek - Greatest Battles: 16 November 1998
+As part of the VOY Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as Lieutenant B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Guest stars ===
+Martha Hackett as Seska
+Anthony DeLongis as Culluh
+Terry Lester as Haron
+John Gegenhuber as Surat
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Dan Carton as Loran
+Tarik Ergin as Ayala
+T. Fonte as Kazon-Relora aide
+Norman Gibbs as Kazon-Nistrim officer
+Mark Major as Valek
+Mike Nyman as Kazon-Nistrim interrogator
+Mark Smith as Kazon-Nistrim guard
+John Tampoya as Kashimuro Nozawa
+
+
+=== References ===
+2371; access code; advisor; annular confinement beam; antiproton beam; antiproton generator; automated message beacon; Bajor; balance of power; beacon; blood enemy; brig; Cardassian; Cardassian frigate; carrier wave; centimeter; chain of command; close range; cognac; coherent polaron pulse; coil scanner; command code; computer core; cowboy; Culluh's raider (aka Nistrim ship, Nistrim vessel); DNA; dampening field; Deep Space 9; delirium; Delta Quadrant; emergency containment field; encryption key; enemy's blood; evasive pattern; execution; face; Federation; First Maje; first year Academy student; flattery; freedom; frequency; heart; Hobii; hoverball; hull breach; hydrogen cloud; inertial dampers; Intrepid class decks; intruder alert; Jal; Kazon; Kazon-Nistrim (Nistrim); Kazon-Relora (Relora); Kazon raider; Kazon shuttle; kilometers per second; leader; maneuvering thrusters; Maquis; meter; mole; month; Mostral; Ogla; Oglamar; pattern buffer frequency; photonic charge; physiology; polaron; probe; quantum resonance oscillator; red alert; report; Sankur; scanner range; "score to settle"; security codes; sensor range; sex; shadow maneuver; shield harmonics; slap; Starfleet; Starfleet Academy; targeting scanners; toast; towing emitter; Trabe; tractor beam; tractor emitter; transporter; transporter module; transporter oscillator; transporter range; Transporter Room 2; transporter signal; transporter technology; turbolift; Type 8 shuttlecraft (unnamed); warp core frequency
+
+
+=== External links ===
+"Maneuvers" at Memory Beta, the wiki for licensed Star Trek works
+"Maneuvers" at Wikipedia
+"Maneuvers" at MissionLogPodcast.com
+"Maneuvers" at the Internet Movie Database

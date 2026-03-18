@@ -1,0 +1,267 @@
+Picard tries to finish his old archaeology teacher's monumental last mission: solving a puzzle that leads Humans, Romulans, Klingons and Cardassians to the secret of life in this galaxy, revealing the origin of humanoid life.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+While the USS Enterprise-D is studying protostars in the Volterra Nebula, Captain Picard receives a call from Commander Riker, requesting that he join him in the observation lounge. When Picard enters the darkened room, he sees an object sitting on the lounge's table. Riker requests that the computer turn the lights up, revealing himself and an older man standing next to him to Picard as the room brightens. Picard has received an unexpected visit from Galen, a reclusive professor, and personal mentor of his, from Starfleet Academy. In the lounge, Galen gives the captain an extremely rare archaeological gift, an intact third-dynasty Kurlan naiskos and encourages him to take a leave of absence from Starfleet to go on an expedition of vast importance to the galaxy.
+
+
+=== Act One ===
+Picard and Galen sit together at a table in Ten Forward. Galen urges him to accept, telling Picard that when he announces his findings, it will be heard across the galaxy. Picard asks the professor if he can sleep on it. "Dream not of today", he tells the captain. Picard briefly mulls it over while talking to Dr. Crusher the next morning at breakfast but knows that he can never leave the Enterprise, despite the tempting offer. He informs Galen that he cannot go with him, and receives a bitter rebuke from his former teacher, who immediately leaves on a shuttlecraft for his next destination.
+Not long after, the Enterprise receives a distress call from Galen's shuttle, which is under attack from a Yridian vessel. Worf fires a single moderate phaser shot that should not have destroyed the ship, but somehow it does. They barely retrieve Professor Galen, but, unfortunately, he is dying in sickbay from a disruptor blast to his chest. Before he dies, Galen tells Picard with his last breath that his earlier rebuke had been too harsh.
+
+
+=== Act Two ===
+Data and Geordi La Forge discover that Galen tried to protect certain files in his computer system when the Yridians attacked. But the files only contain blocks of numbers, and without anything to narrow their search, it will be almost impossible to tell what they mean. Assuming that the Yridians were going to sell the information, Picard asks about where Galen was. Data says his course had taken him through a star system with no current inhabitants, but with a planet, Ruah IV, capable of sustaining life. Picard delays the ship's current diplomatic mission to the planet Atalia VII to follow the clues in the number blocks from Galen's database. It will take four days to get there.
+When they arrive, they see that there are some proto-hominids, but no sign of previous civilizations. Picard recalls that Galen was planning to head to Indri VIII on his archaeological expedition. Picard believes there is some connection between the two planets, and he intends to find it, though Riker reminds him of his diplomatic responsibilities. Later, Counselor Troi enters Picard's ready room and asks how he has been doing since Galen died. Picard tells her he has been staring at the number blocks displayed on his desktop monitor, hoping that if he looked at them long enough, he might be able to figure out what they mean. So far, he cannot determine what they represent. He begins to express his regret for not joining Galen on his expedition, but Troi stops him, telling Picard that he must not blame himself for what happened to the professor. She reminds him that the conference of Altalia VII has been scheduled for six months in advance and that Starfleet is counting on his mediation efforts. Before she can continue, Picard angrily tells Troi that he is not taking the Enterprise on some wild goose chase around the galaxy to assuage his guilt over Galen dying. He announces that Galen's death will not be in vain and if it means inconveniencing squabbling delegates for a few days, so be it. Troi can see there is nothing more she can say, so she quietly leaves.
+When the Enterprise arrives at Indri VIII, they find a process rapidly destroying the planet's atmosphere, killing all life there. Worf announces that the effect is global and cannot be stopped.
+
+
+=== Act Three ===
+In a science lab, Crusher and Picard discover that the number blocks from Galen's database actually represent DNA strands from nineteen different species from all across the Quadrant, each of which has existed in the lifeforms of these planets since the formation of life there. Crusher has all the DNA strands combined together by protein link compatibility. It forms a strange shape that Picard and Crusher cannot identify.
+In engineering, La Forge tells Picard and Crusher that it is not part of a natural design, but rather an algorithm, suggesting that it is part of some kind of program. Picard, Data, Crusher, and La Forge cannot determine what the purpose of the program is or why someone apparently designed it four billion years before. La Forge has tried every DNA material in the Enterprise's database to run the program, but they cannot find any compatible protein combinations. Picard suggests that perhaps they should run DNA material from non-Federation citizens, seventeen individuals of which the Enterprise-D currently has as crew members. Crusher then leaves to collect samples from them. Picard muses on this computer program designed by an apparently advanced civilization four billion years ago. "Whatever information this program contains could be the most profound discovery of our time... or the most dangerous. The professor knew that."
+
+In Picard's ready room, he and Crusher are sitting at his desk looking at their PADDs. Crusher tells Picard that the samples from the seventeen various crew members all came out negative. Picard says that he can find no mention in Galen's published work to suggest where to head to next. Then, he remembers Galen telling him that he was in the neighborhood near Kurl. Crusher suggests he was in the Kurlan system collecting DNA samples. Picard, while looking through his PADD, finds that there is only one planet in the Kurlan system is capable of supporting life: Loren III. Picard has the Enterprise proceed to Loren III at maximum warp where they are immediately confronted by two Cardassian warships, prepared to attack in order to protect the planet for only their scientific mission. Immediately, the IKS Maht-H'a, a Klingon Vor'cha-class attack cruiser, decloaks, making the situation all the more tense.
+
+
+=== Act Four ===
+Picard decides to invite the commanding officers of each vessel to the Enterprise to discuss the situation and collaborate. Meeting the Cardassian Gul Ocett and the Klingon captain Nu'Daq, he plays his cards, relating that the Enterprise crew has determined that Galen's research leads them to believe that a computer program has been written and scattered on planets located throughout the galaxy, being stored in the genetic code of organisms on certain planets. An uneasy truce is forged between the three powers so as to share the data all three factions possess.
+In the science lab, Ocett and Nu'Daq provide their samples. Combined, it appears there are still missing pieces. Picard supposes that there should be a pattern, for the designers would have wanted the code to be found. He has Crusher program the computer to use the locations of the samples to extrapolate where the missing DNA would be. It will take some time, so Ocett and Nu'Daq wait. Nu'Daq decides to use this time to seek out Data in Ten Forward and challenge him to the B'aht Qul challenge, unsuccessfully. He then attempts to bribe Data, telling him that a being of his abilities would go far in the Klingon Empire to get him to tell him the results first, also unsuccessfully.
+However, La Forge discovers that the Enterprise's defensive systems have been tampered with – rightfully anticipating deception on the part of the Cardassians. Secretly, Picard and Nu'Daq decide to tamper with their data a bit prior to the meeting. All three factions meet back in the science lab to view the star chart inferred from the data points. Immediately, and as predicted, Ocett transports off of the Enterprise and begins firing on both the Maht-H'a and the Enterprise.
+
+
+=== Act Five ===
+The Enterprise makes a good show of being damaged, and the Maht-H'a actually is slightly damaged. To save time, Nu'Daq stays on board the Enterprise as it heads to the true coordinates, the planet Vilmor II.
+Once there, they transport to the surface to take tricorder measurements of lichen growing in an ancient seabed. They don't get too far before Ocett and a team beam down next to them. Then, suddenly, a team of Romulans appear as well, insisting that everyone else leave. They reveal that they have been monitoring communications since Galen's shuttle was intercepted. The Cardassians threaten to destroy what they all came for. While they argue with the Klingon and Romulans, Dr. Crusher covertly takes readings of the lichen. The program then begins to reconfigure the tricorder, using the emitter diode to project something.
+The argument is silenced when the tricorder begins projecting a holographic image of a humanoid. She explains that her civilization existed alone in the galaxy, billions of lonely years before any of the others developed. They decided to spread their genetic material to other planets, in the hopes of creating a rich ecosystem of humanoids who could fulfill the joys of finding and integrating with alien cultures that these first beings never had. The Klingons and Cardassians are disgusted at the thought of a common progenitor.
+Back on board the Enterprise, Picard is in his quarters talking with Crusher. He tells her that he is pleased at solving the mystery, but wishes that Galen was alive to see it, and that the message had not fallen on such deaf ears. After Crusher leaves to begin her shift in sickbay, Picard receives an unexpected message from the Romulan commander. In light of the recent events, he expresses his opinion that Humans and Romulans are not so dissimilar after all, in both their hopes and dreams. The Romulan hopes that one day, the two powers could stand together in friendship.
+
+
+== Log entries ==
+"Captain's log, Stardate 46731.5. We are in the midst of the Volterra nebula, a stellar nursery. Our three-week mission is a routine analysis of several dozen protostars in various stages of development."
+"Captain's log, supplemental. It's been over thirty years since I last saw my archaeology professor. His presence has taken me back to a time when I had considered a very different career."
+"Captain's log, supplemental. We have completed our mission in the nebula and are en route to a diplomatic conference on Atalia Seven. I must admit I've lost my enthusiasm for those proceedings."
+"Captain's log, supplemental. It seems that we have not one, but two competitors in our attempt to complete Professor Galen's puzzle. I have prevailed upon the Cardassian and Klingon captains to meet with me."
+"Captain's log, stardate 46735.2. Our frequent use of high warp over the last few days has overextended the propulsion systems. We are finishing minor repairs before returning to Federation territory."
+
+
+== Memorable quotes ==
+"When finished... and I announce my findings, it will be heard halfway across the galaxy."
+
+- Galen, to Picard on his discovery
+
+"Dream not of today."
+
+- Professor Galen, to Picard
+
+"If I go, I go for good... and it's not something that I'm prepared to do."
+
+- Picard, reluctantly refusing Galen's offer to join him on his archaeology mission
+
+"Will you come with me?"
+"...I can't."
+"Then I'll be going."
+
+- Galen and Picard
+
+"Jean-Luc... I was too harsh."
+
+- Richard Galen's dying words
+
+"This is not part of a natural design, Captain. This is part of an algorithm coded at the molecular level."
+"An algorithm? Are you saying that these DNA fragments are elements in some kind of computer program?"
+"I know how it sounds, but there's no way this could be a random formation. This is definitely part of a program."
+"This fragment has been part of every DNA strand on Earth since life began there and the other fragments are just as old. Someone must've written this program over four billion years ago."
+"So...four billion years ago, someone scattered this genetic material into the primordial soup of at least 19 different planets across the galaxy?"
+"The genetic information must have been incorporated into the earliest lifeforms on these planets and then passed down through each generation."
+"But why would anyone do this in the first place?"
+"And what was this program designed to do?"
+"Well, we couldn't know that until we assembled the entire program and ran it. We've tried all of the DNA material in the Federation computer, but we haven't been able to come up with any compatible proteins."
+"Then, they must be from worlds outside the Federation."
+
+- La Forge, Picard, Crusher, and Data
+
+"Until we assemble it, we will never know its purpose."
+"He's right. As far as we know it might just be a recipe for biscuits!"
+"Biscuits? If that's what you believe, then go back to Cardassia, I will send you my mother's recipe."
+
+- Picard, Gul Ocett, and Nu'Daq
+
+"My upper spinal support is a polyalloy designed for extreme stress. My skull is composed of cortenide and duranium."
+
+- Data, explaining to Nu'Daq why he was unaffected by a Klingon head-butt
+
+"A being of your abilities would go far in the Empire."
+"You are attempting to bribe me."
+
+- Nu'Daq, trying to get Data to reveal the results of the combined DNA samples to him before anyone else
+
+"That's all!? If she were not dead, I would kill her!"
+
+- Nu'Daq, expressing his disappointment about the message
+
+"It would seem that we are not completely dissimilar after all; in our hopes, or in our fears."
+"Yes..."
+"Well then perhaps, one day..."
+"...one day..."
+
+- Romulan captain to Picard
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 4 February 1993 [1]
+Premiere airdate: 26 April 1993
+First UK airdate: 22 November 1995
+
+
+=== Story and script ===
+
+"The Chase" was inspired by Carl Sagan's novel Contact, in which clues to the nature of the universe are discovered in a long calculation of π (pi). (Star Trek: The Next Generation Companion, 2nd ed., p. 243)
+Ronald D. Moore remembered, "Joe Menosky was intrigued with this notion of why there's a common humanoid ancestry for all the bipedal races we've encountered in Star Trek. Why was the show filled only with people with bumps on their foreheads? We looked to give that an answer. And I was fascinated with the notion of something being written into the very fabric of their genes, that there was a code in there waiting to be established." (Star Trek: The Next Generation 365, p. 302)
+It took over a year for Menosky and Moore's premise to be written into a workable script. Early drafts were in the manic mood of It's a Mad, Mad, Mad, Mad World, but were shelved for being "too cartoony". The original story involved a Vulcan scientist not personally involved with any of the characters. Along with the Klingons and Romulans, this version also included the Ferengi. As Moore recalled, "Riker beams over into this cramped little tiny shuttle, where everyone's yelling and trying to find things and the guy's dead. And then they zip away, and we're off an running with It's a Mad, Mad, Mad, Mad World. It would have been a lot more comedic." Michael Piller and Rick Berman felt this lacked sufficient character – that there was no real motivation for Picard to join in the chase. It was only with the addition of the death of Picard's mentor that Piller and Berman were sold on the idea. (Star Trek: The Next Generation Companion, 2nd ed., p. 243; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 276)
+Menosky and Moore divided the task of writing the teleplay. Menosky commented, "I took the scenes between Picard and his old professor. I based them on my memories of the complicated emotions I'd observed between students and mentors in college. I think those scenes had a kind of 'emotional truth' to them." (Star Trek: The Next Generation 365, p. 302)
+Moore stated that he'd considered, but intentionally did not specify, that the Ancient humanoids were the Preservers from TOS: "The Paradise Syndrome". He added, "but this could be them and be internally consistent." (Star Trek: The Next Generation Companion, 2nd ed., p. 244)
+When it appeared that the episode would run short, Ronald D. Moore added a scene in which Mr. Mot is tested by Dr. Crusher as one of the seventeen crew members said to come from non-Federation worlds, but this was cut from the final episode. This scene would have thus established that Bolarus IX is not a Federation member. (Star Trek: The Next Generation Companion, 2nd ed., pp. 243-244) The script for this episode, including the deleted scene, can be found here. The scene was also included as a bonus feature on the TNG Season 6 Blu-ray.
+The final episode contains no explanation for the destruction of the Yridian ship attacking Galen's shuttle following a single phaser blast from the Enterprise. However, the original teleplay contains a line by Data immediately following the ship's destruction that explains this ("The Yridian vessel was overloading its power generators. That, combined with the phaser blast, caused it to explode"). [2]
+
+
+=== Production ===
+Director Jonathan Frakes was disappointed at not being able to shoot outside. "I think it does look like 'Planet Hell', but that's the way it goes. The money was being spent across the street [at Deep Space Nine]. I don't think it's a secret." However, set designer Richard James noted that it was impossible to shoot outside, as the crew had been unable to find a salt flat without vegetation, as the episode demanded. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 277)
+
+
+=== Cast and characters ===
+Salome Jens went on to play the recurring role of the Female Changeling in Star Trek: Deep Space Nine. John Cothran, Jr. went on to play Telok in DS9: "Crossover" and Gralik Durr in ENT: "The Shipment".
+
+
+=== Continuity ===
+Several sources, including the Star Trek: The Next Generation Companion, 2nd ed., p. 243, state that this episode marked the first appearance of a Cardassian female on Star Trek. This had already occurred in "Chain Of Command, Part II", where Gul Madred's daughter, Jil Orra, appeared. Ocett is, however, the only female with a rank of Gul ever mentioned or seen in any episode of any Star Trek series.
+As noted in the Star Trek: The Next Generation Companion, 2nd ed., p. 243, this episode marks the first time that Humans, Klingons, Romulans, and Cardassians appear in the same episode.
+Despite Picard's obvious delight at being given the Kurlan naiskos in this episode, he casually discards it among the wreckage of the Enterprise-D in Star Trek Generations, in favor of the Picard family album. In PIC: "Remembrance", the naiskos was shown to be stored in Picard's vault at the quantum archive of the Starfleet Archive Museum. Later, in PIC: "The Star Gazer", it was shown to have been moved to a hallway at Château Picard.
+The Cardassian transporter effect from Star Trek: Deep Space Nine is used.
+This episode is the first to mention one of Deep Space 9's sister deep space stations, in this case Deep Space 4.
+This episode reveals that seventeen people aboard the Enterprise are from non-Federation planets.
+The Progenitor story arc originating in this episode is followed up on in Season 5 of Star Trek: Discovery.
+
+
+=== Reception ===
+The production staff dubbed this the most "Roddenberry-esque" TNG episode. (Star Trek: The Next Generation Companion, 2nd ed., p. 243)
+Jonathan Frakes remarked, "The speech that Salome Jens makes at the end would make Roddenberry very proud I think. It's a great cast and it's wonderful to have all those villains and aliens in one place." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 276-277) Frakes nominated the opportunity to work with Norman Lloyd as a highlight. "He was a wonderful storyteller and a brilliant actor. We were so lucky to have this guy on our show." (Star Trek: The Next Generation 365, p. 302)
+However, Rick Berman was not overawed by the finished episode. "Conceptually, it's very interesting. I always had some problems with dealing with the whole idea of these kind of prehistoric creatures who are the fathers of us all. It's not Roddenberry-esque, it's very sixties Roddenberry-esque." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 276)
+The episode was previewed at the 1993 StarFest Convention in Denver, Colorado, to generally favorable reaction.
+
+
+=== Apocrypha ===
+A playable level with this same title and similar theme is featured in the video game Star Trek: Encounters, only involving USS Voyager racing Culluh for the answer to the genetic puzzle. The humanoid does not appear.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 73, catalog number VHR 2731, 22 November 1993
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Salome Jens as Progenitor
+John Cothran, Jr. as Nu'Daq
+Maurice Roëves as Romulan captain
+Linda Thorson as Ocett
+
+
+=== Special appearance by ===
+Norman Lloyd as Professor Galen
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Lena Banks as
+Civilian
+Romulan officer
+Steven Boz as operations ensign
+David Paul Christian as Ten Forward waiter
+Tracee Lee Cocco as Jae
+Debra Dilley as command ensign
+Inez Edwards as sciences officer
+Star Halm as Ten Forward waitress
+Grace Harrell as civilian
+Christie Haydon as command ensign
+Kerry Hoyt as operations ensign
+Gary Hunter as sciences officer
+Kathy as Towles
+Judy Lea as sciences officer
+Michael Moorehead as sciences ensign
+Keith Rayve as civilian
+S. Reed as Burton
+Sissy Sessions as operations officer
+Leatrim Stang as Romulan officer
+Oliver Theess as command officer (citation needed • edit)
+Ken Thorley as Mot (deleted scene)
+Michael Zurich as Vellek
+Unknown performers as
+Cardassian officer
+Command ensign (voice)
+Female buck-toothed alien (deleted scene)
+Female civilian
+Female sciences officer
+Klingon officer (voice)
+Operations officer
+Operations officer
+Transporter chief
+Transporter officer (voice)
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+4.5 billion years ago; 12,000 years ago; 2309; 2339; Al-Leyan transport; ability; Alpha Quadrant; ancient humanoid homeworld; animal life; archaeological expedition; archaeologist; arboretum; Atalia VII; Atalia system; attack cruiser; B'aht Qul challenge; battle station; Beta Quadrant; biological database; biosphere; biscuit; bribery; Caere; Cardassia; Cardassian; Cardassian war vessel; career; centurion; class M; command ship; companionship; datastream; deciduous; Deep Space 4; dilettante; DNA (deoxyribonucleic acid); dozen; Earth; earthworks; emitter diode; Federation; Federation territory; fellowship; Fifth Dynasty; final exam; flight log; Galen's children; Galen's planets; Galor-class; generation; genus; geometric pattern; goose; high orbit; high warp; Indri VIII; Indri system; inertial damper; information dealer; jigsaw puzzle; Klingon; Klingon Empire; Klingonese; Kurl; Kurlan; Kurlan naiskos; Kurlan system; L-class; land mass; level 3 diagnostic; level 4 security; lichen; "long shot"; Loren III; Loren system; Loren system sector; IKS Maht-H'a; M'Tell; Master of Tarquin Hill; medical tricorder; micropaleontology; Milky Way Galaxy; monument; Non-Federation; number one; Ocett's war vessel; Ocett's sister ship; offensive systems; orbit; path; Picard, Maurice; plasma; Progenitors; Progenitor program; protein; primitive culture; proto-hominid; province; pupil; quadrant; Rahm-Izad; Rahm-Izad system; Roman; Roman Empire; Romulan; Romulan command ship; Romulan disruptor rifle; Romulan space; Romulus; Ruah IV; Ruah system; Satarran; Schliemann, Heinrich; scholar; science laboratory; scientific research; Sector 21459; short-sightedness; Sothis III; standard orbit; staring; stomach; Subsector 3383; summer; surrender; tractor beam; transporter; Transporter Room 1; tricorder; Troy; Type 7 shuttlecraft (Galen's shuttlecraft); Vilmor II; Vilmoran system; vital sign; Volterra Nebula; Volterra Nebula planets; Vor'cha-class; Vulcan transport (aka Vulcan ship); workshop; Ya'Seem; Yash-El; Yridian; Yridian destroyer
+
+
+==== Other references ====
+USS Enterprise Personnel Database: Aaamazzara; Alpha Carinae V; Alpha Cygnus IX; Blackman, Robert; Braga, Brannon; Chattaway, Jay; Courage, Alexander; Curry, Dan; Echevarria, Rene; Eminiar VII; Fukai, Arlene; Gamma Trianguli IV; Goldsmith, Jerry; James, Richard; Johnson, J. Lowry; Mees, Jim; Neuss, Wendy; Regulus V; Rigel VII; Selcundi Drema; Sherman's Planet; Simmons, Adele; Sigma Draconis VI; Surma, Ron; Talos IV; Taurus II; Therbia; Triacus; Triskelion Prime; Tucker, Steve; Tycho IV; West, Jonathan; Xendi Sabu IX; Yacobian, Brad
+Starship mission status: Ajax, USS; Alderaan; Alpha Laputa IV; Ambassador-class; Apollo-class; Aries, USS; Beta Cygni system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merced-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Romulan Neutral Zone; sector; Sector 21396; Sector 21538; Sector 22358; Sector 22846; Sector 22853; Sector 23079; Starbase 134; Starbase 434; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Zhukov, USS
+Spacecraft Systems Status: Bussard collector; captain's yacht; class M; gross vehicle mass; impulse engine; main shuttlebay Mars; navigational deflector; observation lounge; phaser bank; service docking port; shuttlebay 2; shuttlebay 3; torpedo launcher; umbilical connect port; Utopia Planitia; warp nacelle
+
+
+==== Unreferenced materials ====
+Aolian Cluster;  Earl Grey tea; Kea IV; macchiato; nail polish; power generator
+
+
+=== External links ===
+"The Chase" at Memory Beta, the wiki for licensed Star Trek works
+"The Chase" at Wikipedia
+Observations in TNG: "The Chase" at Ex Astris Scientia
+"The Chase" HD Screencap & Image Gallery at TrekCore
+"The Chase" script at Star Trek Minutiae
+"The Chase" at MissionLogPodcast.com
+"The Chase" at the Internet Movie Database

@@ -1,0 +1,318 @@
+To the Federation's surprise, Ambassador Spock has traveled to Romulus. Fearing he has defected, they send Captain Picard and Data on a covert mission to determine why.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45233.1. Our terraforming mission to Doraf I has been cancelled and the Enterprise recalled to Starbase 234. Fleet Admiral Brackett would not discuss the matter on subspace for reasons she said would soon be clear"
+The USS Enterprise-D has had a terraforming mission on Doraf I cancelled and has been recalled to Starbase 234 by Fleet Admiral Brackett, who is unwilling to discuss the matter over subspace. Meeting with Captain Picard in his ready room, she explains to him that one of the Federation's most prestigious and celebrated ambassadors and an advisor to Federation leaders for generations had suddenly disappeared without a trace three weeks ago. Then two days ago, intelligence suggested that the ambassador is currently on the planet Romulus. The trip was unauthorized, and there are serious worries that he has defected. If so, the potential damage to Federation security would be devastating. She shows Picard a distorted image taken on Romulus by a long-range scanner on his desktop monitor that, after image enhancement, clearly shows the face of the missing ambassador – Spock.
+
+
+=== Act One ===
+
+"Captain's log, Stardate 45236.4. As I study the intelligence reports on Ambassador Spock's disappearance, I cannot help but feel a... deeper... more personal concern about this mission, for I know this man through his father. It was barely a year ago that I shared a mind meld with the Vulcan Sarek. Now we must meet again, as I attempt to find an explanation for his son's actions."
+The Enterprise arrives at the planet Vulcan. In the observation lounge, Picard and Commander Riker discuss informing Sarek's wife, Perrin, of their plans. Riker tells Picard that arrangements have already been made to transport her to the ship, as Sarek is too ill to beam aboard. Picard tells Riker that Sarek is dying, and it is his honor to inform him that his son may have betrayed the Federation. Taking a seat, Riker asks Picard how well he knows Spock. The captain says that he had only met the legendary Vulcan once, and what he knows of him comes from history books and from the mind meld he shared with his father. Leaving this behind for the moment, Picard hands Riker a PADD detailing that debris was recovered from a crashed Ferengi cargo ship that appears to be Vulcan in origin. The debris has been sent to Vulcan for further analysis. Riker will be assisting the forensic team studying the pieces.
+Later in Picard's ready room, Sarek's wife Perrin joins him for mint tea. Sarek is known to be very ill, suffering from the effects of Bendii Syndrome. Perrin tells Picard that Spock couldn't have been abducted, as he tidied up his affairs before his disappearance, and then relates that there has been a rift in the relationship between Sarek and Spock over the Federation-Cardassian War. Sarek is now wasting away in bed and wants nothing more than to heal the rift between himself and his son before it's too late. Taking a seat with Perrin on his couch, Picard asks her for permission to see Sarek. She says that if it were anyone but Picard, she would refuse. However, she notes, Sarek is a part of him, as he is of Picard.
+In a cargo bay, Riker and Lieutenant Commander La Forge examine the pieces of debris that were recovered from the cargo ship that crashed in a Hanolin asteroid belt. The material dentarium is detected in the debris, confirming that their origin is Vulcan. La Forge observes that investigating this mystery is going to be like piecing together a jigsaw puzzle without knowing what the picture is supposed to be.
+Picard goes to the planet, and Perrin escorts him to Sarek's room. Sarek is in bed and restless – Perrin attempts to rouse him, speaking loudly into his ear, but shouting and ranting Sarek doesn't initially recognize or even acknowledge Picard, and Perrin leaves them to talk, noting that Picard may or may not get through to him. Picard asks him about Spock, and he suddenly calms and becomes more lucid, his weakened emotional control leading him to speak and gesture much as a Human would. He finally recognizes Picard, who asks if he would know why Spock would be on Romulus. Sarek says possibly to meet with Pardek, a Romulan Senator whom Spock met and befriended at the Khitomer Conference decades ago. Picard asks if Spock may have defected, but Sarek responds, "Never!" Sarek soon becomes confused again, and in his ramblings recalls that when he was a child, Spock would disappear into the mountains for days, refusing to tell anyone what he was doing there, and would endure punishments silently before immediately returning; Sarek then confesses that secretly, he was proud of his son's unyielding spirit. Picard reminds Sarek that they have a part of each other, and he knows Sarek loves Spock despite all the pain he's caused. Sarek struggles to give Picard a message to take to his son: "Live long and prosper."
+
+
+=== Act Two ===
+"Captain's log, Stardate 45240.1. To cross the Neutral Zone, I will require a cloaked ship. To that end, I have set a course for the Klingon homeworld. After all we did for Gowron during the recent war, I am certain he will be happy to return a favor."
+The Enterprise is en route to Qo'noS to request a ship from Chancellor Gowron that has cloaking capability. They hail Gowron for three days and receive no response. Lieutenant Worf explains that the messages are likely being ignored because "Gowron has been re-writing Klingon history", claiming that it was his genius that ended the civil war, without a word about the help of the Federation, to which Riker adds that the arrival of the Enterprise may be an uncomfortable reminder of the facts. Picard suggests that Worf try to contact K'Tal of the Klingon High Council instead. Data shows Picard a Barolian visual identification of Pardek taken at a trade negotiation four years ago. Picard compares the image to the one with Spock in it on Romulus and finds that the man with Spock is indeed Pardek. Data tells Picard that Pardek has been a senator for nine decades and is considered a radical by the Romulan Senate as he is a known advocate for peace. Data adds that he lives in the Krocton Segment on Romulus and could likely be located there on the third day of the Romulan week when the Senate is not in session. Picard thanks Data for this information and remarks that his resourcefulness never ceases to amaze him.
+The Enterprise is hailed from Qo'noS. It is B'iJik, the Junior Adjutant to the Diplomatic Delegation. He advises Picard that Gowron is too busy to meet with him. Picard is incensed. He diplomatically threatens Gowron through B'iJik, implying that if Gowron doesn't grant his request, he will request a ship from one of Gowron's rival factions thereby causing a loss of political credibility, apart from playing to Gowron's vanity. B'iJik promises to give the message to Gowron.
+Later in sickbay, Doctor Crusher is examining Data's head in preparation for the prosthetic ears he will be wearing for his mission to Romulus. Riker enters and reports there's still no word from Gowron, but he does ask Picard to join him in the cargo bay as La Forge has made some progress with the metal fragments. Crusher tells him that Data and Picard still need to meet with Mot to be fitted for their hairpieces, and Picard tells Riker he'll be there in thirty minutes.
+In the cargo bay, La Forge has determined that the debris found on the Ferengi cargo ship is part of the deflector array from the Vulcan ship T'Pau, which was decommissioned years ago and sent to the surplus depot at Qualor II as scrap. Riker suggests that he take the Enterprise to Qualor II and continue their investigation, and Picard agrees. Worf calls in to tell Picard that a Klingon ship has just decloaked off the Enterprise's port bow, compliments of Gowron. Picard and Data go aboard the Klingon vessel and proceed toward Romulus while the Enterprise goes the other direction toward Qualor II.
+
+
+=== Act Three ===
+Captain K'Vada shows Picard and Data to their quarters on the ship. K'Vada prods them with conditions on the ship, saying they have to share a room, eat Klingon food and get used to the hard bed. Picard takes it in stride. On the intercom, he's informed they have crossed the Neutral Zone. He confirms with Picard that he intends to continue, then orders the ship to cloak.
+
+"First officer's log, Stardate 45240.6. The Enterprise is nearing Qualor II, home of a Federation surplus depot operated by the Zakdorn. We hope to find out how the salvaged deflector array ended up in the hands of the Ferengi."
+
+Riker takes the Enterprise to the Zakdorn-operated Surplus Depot Z15, a Federation scrap yard for decommissioned ships. They contact the quartermaster of the depot, a Zakdorn named Klim Dokachin, who is less than helpful. Riker invites him on board and has Counselor Troi try to persuade him to assist them in finding out the whereabouts of the remainder of the T'Pau. He agrees and the Enterprise goes to the coordinates of the T'Pau. To the quartermaster's shock, the ship is gone. Dokachin explains that when the ship was stripped of material upon its arrival, the deflector array was sent to the USS Tripoli, a holding vessel on the outer rim of the shipyard. They go to that location and find it, too, is missing. The quartermaster informs them that there is a transport of deuterium storage tanks to the Tripoli scheduled in two hours. Riker orders the ship to be aligned so it appears to be one of the abandoned ships and powered down with the exception of sensors and life support. They lie in wait to see what will happen when the transport is initiated.
+
+
+=== Act Four ===
+Picard and Data see that there is one bunk, obviously for one person, which probably amuses the Klingons. Picard lies down to sleep as Data does not need to lie down. He stands nearby calculating how he should behave when undercover as a Romulan. He makes Picard nervous and unable to sleep. After Picard discovers what Data is doing, he tries to go back to sleep. However, he quickly realizes that Data is silently staring in Picard's direction (not at Picard, he clarifies to the captain when asked) as he lies on the bunk making Picard again feel uncomfortable. Just as Picard gets up, they are called to the bridge, where Captain K'Vada hands him a PADD containing a subspace message he monitored that he believes Picard will find interesting. Picard reads, and sadly tells Data the news it contains... Sarek has died.
+On the Enterprise, a ship is approaching at warp speed. It stops at the coordinates 12 Delta 4 – the previous position of the Tripoli. The small combat vessel is heavily armed and receives the scheduled transport. Riker powers up all systems and hails the ship, ordering them to identify themselves. The ship turns to intercept and fires phasers at the Enterprise. Riker orders Worf to return fire, targeting only the weapon systems and using only a .75 power burst with the phasers just to "get their attention." The ship is hit and takes damage to their forward shields. La Forge details a more through assessment with collateral damage in the cargo bay and a destroyed phaser array. However, he also reads massive power fluctuations and internal explosions; and concludes that with all the armament on board, the ship will blow.
+No sooner from that assessment, the attacking ship explodes in front of the bridge crew's eyes.
+
+
+=== Act Five ===
+
+Data and Picard are in costume and prosthetic makeup, looking just like Romulans. Data observes that Picard has been unusually pensive since learning of Sarek's death. Picard attempts to explain to Data the effect that Sarek's death has had on him and how the mission has taken on a more personal nature as it is left to him to deliver the news to Spock. Data assumes that, as a Vulcan, Spock will simply accept Sarek's death as the logical conclusion of his illness. But Picard disagrees, telling the android it is never that simple, even for Vulcans, and especially as Spock is half-Human. They've spent years in conflict, and now his chance to reconcile with his father is gone. Data notes how illogical it is that, given the naturally long lifespan of Vulcans, Spock and Sarek never chose to resolve their differences in the time allowed. Picard notes that Spock and Sarek were a lot alike in their stubbornness and pride, constantly building emotional barriers that were hard to bring down... and now Spock will have to face the knowledge that it is too late to begin building bridges again.
+
+They beam down to Romulus after K'Vada tells them that he won't rescue them if anything goes wrong. On Romulus, Senator Pardek arrives at Proconsul Neral's office and is asked if he knows of Jean-Luc Picard. He says he does not and is told that Picard is on his way to Romulus. They decide to alert security to be watchful for him, and Neral speculates that he has disguised himself as a Romulan. Picard and Data are on the street where the images of Pardek and Spock were standing. They locate the office of an intercessor (lawyer) who is likely related to Pardek. They decide to get some food and wait for him to arrive. At a nearby restaurant, they notice two Romulans in military uniform just before Pardek comes down the street. They turn toward Pardek, and the uniformed Romulans stop them and escort them out. Data and Picard are taken to an underground chamber. Pardek walks in behind them and says, "Welcome to Romulus, Captain Picard." The military men were his assistants in disguise, and Pardek explains they had to get him and Data off the street as quickly as they could, as Romulan Security knows that they're here, and assures him that they are among friends. Picard explains that he is on an urgent mission from the Federation. He is looking for Ambassador Spock. "Indeed," says a voice from deeper within the cavern. "You have found him, Captain Picard." Spock emerges from the shadows.
+TO BE CONTINUED...
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+First officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"How well do you know Spock?"
+"I only met him once. What I know of him comes from history books, and of course my mind meld with his father."
+"Well, that must cover a lot of ground."
+"Not as much as you'd imagine. Sarek and Spock... well... sometimes, fathers and sons..."
+"Understood."
+
+- Riker and Picard
+
+"The man is dying. And it's my honor to tell him that his son may have betrayed the Federation."
+
+- Picard, discussing Sarek when it appears Spock has defected to the Romulans
+
+"Sarek, you will listen!"
+"Go from me!!"
+"Picard is here."
+"No more chaos!! No more."
+"I will leave you alone with him. He will either acknowledge you, or he won't."
+
+- Perrin and Sarek
+
+"Sarek, I have come a long way to see you."
+"I will not answer!!"
+"I must talk to you about your son."
+"I wish no one with me!!"
+"About Spock."
+
+- Picard and Sarek
+
+"I never knew what Spock was doing. When he was a boy, he would disappear for days into the mountains. I asked him where he had gone, what he had done, he refused to tell me. I insisted that he tell me. He would not. I forbade him to go. He ignored me. I punished him. He endured it, silently. But always he returned to the mountains. One might as well ask the river not to run. But secretly I admired him, the proud core of him that would not yield."
+
+- Sarek, about Spock
+
+"The only benefit to the Klingon Empire would be our gratitude."
+"That is what you want me to tell him?"
+"Yes. And please add that if he is unable to provide us with a ship, then I am sure there are others in the Klingon Empire who would be willing to help me. And then... they would have our gratitude."
+(Long pause) "I see."
+"Also, please tell Gowron that I am immensely gratified that he is prospering so well. A tribute to his skilled leadership."
+
+- Picard, negotiating with B'iJik for a cloaked vessel
+
+"He probably figures that we don't get to see a lot of handsome women out this way, and someone like you might get a little more cooperation out of me." [pause] "He's probably right."
+
+- Klim Dokachin, speaking to Troi
+
+"Sarek is dead."
+
+- Picard
+
+"These quarters were obviously intended for one crewman, sir. There is but a single sleeping space." 
+"I'm sure the Klingons found it amusing to put us in here together." 
+"Since I do not require sleep, I propose you take the...shelf, sir. I am content to stand." 
+
+- Data and Picard, trying to sort out sleeping arrangements on the Klingon ship
+
+"Be careful, android. Some Romulan beauty might take a liking to you. Lick that paint right off your ears."
+
+- K'Vada, on Data's Romulan disguise
+
+"Perhaps you should appear to enjoy your soup, sir."
+
+- Data, disguised as a Romulan, tells Picard while they are being observed on the street by Romulans
+
+"I have come on an urgent mission from the Federation. I'm looking for Ambassador Spock."
+"Indeed. You have found him, Captain Picard."
+
+- Picard and Spock, setting up Part II
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft script: 21 August 1991
+Several cave scenes are filmed: 11 September 1991
+Several more cave scenes are filmed, and final draft script is issued: 13 September 1991
+Filming of scenes on the Klingon Bird-of-Prey, and scheduled filming of scene involving Fran Bennett as Fleet Admiral Shanthi: 16 September 1991
+Principal photography: 19 September 1991 – 26 September 1991
+Premiere airdate: 4 November 1991
+First UK airdate: 1 February 1995
+
+
+=== Story and script ===
+"Unification" originated with a suggestion by Frank Mancuso, Sr., the then-chairman of Paramount Pictures, during the early planning of Star Trek VI: The Undiscovered Country. Noting that 1991 would mark the 25th anniversary of Star Trek first airing, Mancuso proposed to Leonard Nimoy that the Star Trek: The Original Series film series and Star Trek: The Next Generation should find a way to work together to mark the occasion. Accordingly, TNG Executive Producer Rick Berman met with Nimoy and Nicholas Meyer. Following these discussions, Nimoy and Meyer inserted several references to TNG into the film script. In return, Nimoy agreed to appear in TNG. Berman recalled, "We structured a deal with him: he got very little, a little more than scale [union salary minimum]. But with Leonard as executive producer of Star Trek VI, what you had in essence was a cross-promotion. It made everybody happy." (Star Trek: The Next Generation Companion, 2nd ed., pp. 182-183; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+This was not the first time that Nimoy considered appearing as Spock on TNG. Before the 1988 Writers Guild of America strike, there were proposals for him to appear in an episode of the second season, to be written by Tracy Tormé. (Star Trek: The Next Generation - The Continuing Mission, p. 166) See also: "Return to Forever".
+Explaining his decision to appear here, Nimoy commented, "I thought that if we could do a TNG episode in which we hinted at the beginnings of a crossover between The Original Series and The Next Generation through the Spock character and through the backstory of Spock's character, it would be helpful to both. I thought it would be interesting to the fans to see the connection between the two stories. It just seemed that it made sense for me to make an appearance at that point." (Star Trek: The Next Generation 365, p. 230)
+Rick Berman and Michael Piller then brainstormed ideas to bring Spock into the show. According to Berman, Nimoy didn't like the first idea presented to him. It was during discussions with Nimoy that Berman and Piller came up with idea of Vulcan-Romulan reunification. Berman recalled, "I think the fix had to do with the idea that unification of Vulcan and Romulan societies was something that Spock realized was happening and had been happening for centuries, and that it had to be nurtured along. The idea of him staying behind to continue that process and that the Romulans were in fact – unbeknownst to themselves – going through the same evolutionary early metamorphosis that the Vulcans had those many centuries ago. It became more of a show that dealt with a peaceable as opposed to a warlike element, and Leonard felt strongly about that. We futzed it here and there based on Leonard's notes and, mostly, our own." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+Star Trek VI was inspired by the collapse of the Soviet Union. The "Unification" two-parter, too, drew on contemporary real-world events, namely German reunification. (Star Trek: The Next Generation - The Continuing Mission, p. 167)
+To Michael Piller, the title had further significance. He remarked, "We're really telling the story of the unification of The Original Series and Next Generation, symbolically closing the gap that had always been in the fans' minds, if no one else's, between the two shows." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 233) Rick Berman had similar thoughts. "It's a validation of our series from The Original Series. There has been so much talk about the two series, in a competitive way. This is a union, a joining of the two. And that's very positive for the fans." (Star Trek: The Next Generation 365, p. 230)
+Having now settled on a story, the producers determined that it was too expensive to produce as a single episode. They decided to break it into two parts, with Spock only appearing at the end of the first part. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 233)
+Piller hoped to write both parts, but this proved impracticable. Accordingly, he turned to Jeri Taylor. She remembered that "the challenge was to tap dance well enough to sustain interest, even though this highly anticipated character was not there... are we going to be able to keep the balls in the air enough to make that first episode work?" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 233)
+As a fan of The Original Series, Ronald D. Moore gave some pointers to Jeri Taylor, particularly in regards to the relationship between Sarek and Spock. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 233)
+Taylor was then approached by Pocket Books to write the novelization of Unification. As she hoped to become a novelist, Taylor readily agreed. However, she was only given 30 days to write the book, while also working on the teleplay. She recalled, "Yes, September 1991 was a month I'll never forget. I was writing Part One, I was writing the novel – it was like an endless finals week. You live on coffee, you're wired, you shut yourself off from family and friends: I had no other life but 'Unification'!" (Star Trek: The Next Generation Companion, 2nd ed., p. 183)
+
+
+=== Production ===
+
+Although not the first episode of Star Trek to air after the death of Gene Roddenberry ("The Game" aired four days after his death), this episode memorialized Roddenberry with a simple title card which read: "Gene Roddenberry: 1921-1991", accompanied by the opening notes to the theme of Star Trek.
+Due to Leonard Nimoy's schedule, principal filming of "Unification I" took place after "Unification II", although several scenes were filmed during the production of the second part. (Star Trek: The Next Generation Companion, 2nd ed., p. 185) Principal photography took place between Thursday 19 September 1991 and Thursday 26 September 1991 on Paramount Stage 8, 9, and 16. Previously filmed scenes include several cave scenes on Paramount Stage 16 on Wednesday 11 September 1991 and Friday 13 September 1991 and scenes on the Klingon Bird-of-Prey on Paramount Stage 5 on Monday 16 September 1991.
+On Wednesday 25 September 1991 a still photographer took pictures of the sickbay set, Beverly Crusher's office, and the engineering corridor.
+
+
+=== Cast and characters ===
+
+This episode marks the death of Ambassador Sarek (Mark Lenard). This was the first time that a recurring Star Trek: The Original Series character died (not counting Spock's death and subsequent resurrection in Star Trek II: The Wrath of Khan and Star Trek III: The Search for Spock respectively, or times when Kirk, Scotty, or other characters died but were brought back to life in the same episode).
+Lenard recalled, "They only sent me part of the script. I read it and thought, 'Well, I'm only in one scene, but it's a good scene – a bit like King Lear. So I did it." He only realized that his character had in fact died when first watching the episode at a convention. Lenard thought that the death was a bit "chintzy" and disrespectful of the character. However, James Doohan told him at the same convention that as the death occurred off-screen, there was always a possibility for it to be later reversed. (Star Trek: The Next Generation 365, p. 231)
+Fran Bennett was scheduled to reprise her part of Fleet Admiral Shanthi in the opening sequence of this episode and was according to the call sheet up to film her scenes on Monday 16 September 1991. For unknown reasons, Bennett was replaced by Karen Hensel as Admiral Brackett.
+
+
+=== Sets, props, and costumes ===
+The wall decoration in Proconsul Neral's office can be later seen in the barbershop aboard the Enterprise-D in the sixth season episode "Schisms", in the reception area at Arkaria Base in the episode "Starship Mine", and in the office of Minister Kray in the Star Trek: Voyager episode "Ex Post Facto".
+
+
+=== Continuity ===
+Explaining the strained relationship between Sarek and Spock to Commander Riker, Captain Picard says "sometimes, fathers and sons...", at which point Riker simply responds "Understood", a reference to his own difficult relationship with his father which was explored in "The Icarus Factor".
+At some point, Picard mentions that he has met Spock only once in the past. Indeed, in "Sarek" Picard mentioned that he had met Sarek during Sarek's son's wedding (the son presumably being Spock).
+While conversing with Picard, Sarek mentioned the many times that Spock would disobey him and travel to the mountains. This was shown in TAS: "Yesteryear".
+One of the shots showing the Enterprise-D passing through near wrecked ships at Surplus Depot Z15 is actually a recycled shot from "The Best of Both Worlds, Part II".
+In terms of airing order, "Unification I" is the first time any Star Trek episode (or movie) visited Romulus (discounting the holographic creation of the Valley of Chula visited by Romulan Admiral Alidar Jarok in "The Defector").
+
+
+=== Reception ===
+"Unification I" and "Unification II" were the highest rated episodes of TNG since "Encounter at Farpoint". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+Many of the production staff thought that "Unification I" turned out better than its conclusion.
+Rick Berman commented, "Surprisingly, I felt Part 1 worked out a little better than Part 2." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+Michael Piller remarked, "I was very pleased with Part One, oddly enough. I know a lot of people were very angry that they didn't get to see Spock until the last beat of the last scene, but I thought there were more interesting elements in Part One than there were in Part Two. I liked the stuff with Sarek, I thought it was very moving." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+While she found writing the teleplay a challenge, Jeri Taylor was pleased with how "Unification I" turned out. "I thought it was exciting, the mystery worked and it was a well-realized episode in its own right – almost to everyone's surprise, since it was felt this is the one we have to do to get to the good stuff. But it held its own in very equal terms with the second part." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 233)
+Ronald D. Moore also enjoyed the scenes with Sarek. "I was really happy that they did it and had the courage to kill the character and send him out that way." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+In contrast, Jonathan Frakes thought "Unification I" was a "cheat" on the audience. "You expected Spock to be in the first part and he doesn't show up until the end. It was deceptive, but it was nice to see some sense of continuity between the two universes. To me, the highlight of the two episodes was the scene where Picard was trying to sleep and Data stood by watching him. That was funny." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 18, pp. 44-47.
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Individual Achievement in Music Composition for a Series (Dramatic Underscore) (Dennis McCarthy).
+
+
+=== Video and DVD releases ===
+As a stand-alone UK VHS rental release, CIC Video, 1992
+Original UK VHS release (two-episode tapes, CIC Video): Volume 54, catalog number VHR 2638, 5 October 1992
+As part of the UK VHS collection Star Trek - Crossovers Set: 6 November 1995
+In feature-length form, as part of the UK VHS release Star Trek: The Next Generation - The Full Length TV Movies: Volume 4, catalog number VHR 4104, 27 February 1995
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.3, 5 August 2002
+As part of the TNG Season 5 DVD collection
+In feature-length form, as part of the Star Trek: The Next Generation - The Complete TV Movies collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Special guest star ===
+Leonard Nimoy as Spock
+
+
+=== Guest stars ===
+Joanna Miles as Perrin
+Stephen Root as K'Vada
+Graham Jarvis as Klim Dokachin
+Malachi Throne as Pardek
+Norman Large as Neral
+Daniel Roebuck as Romulan civilian
+Erick Avari as B'iJik
+Karen Hensel as Brackett
+And
+Mark Lenard as Sarek
+
+
+=== Co-stars ===
+Mimi Cozzens as Soup Woman
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Amigron as Romulan civilian
+Rachen Assapiomonwait as Nelson
+Aylward as Romulan civilian
+Carla Beachcomber as Romulan civilian
+Michael Braveheart as Martinez
+Bravo as Romulan civilian
+Errol Bryand as Romulan civilian
+Debbie David as Russell
+Tracee Lee Cocco as Jae
+Tony Cruz as Lopez
+Gerard David, Jr. as operations division ensign
+Joey Davis as command division officer
+Carmen Emeterio as Romulan civilian
+Linda Harcharic as Romulan civilian
+Christie Haydon as Romulan civilian
+Jacobson as Romulan civilian
+Kim as operations division officer
+Alex Landi as operations division officer
+Mark Lentry as
+Romulan civilian
+Science division lieutenant
+Manno as Romulan civilian
+Marco as Romulan civilian
+Justin McCarty as Romulan civilian
+Tim McCormack as Bennett (stock footage)
+Miller as Romulan civilian
+Jay Montalvo as operations division officer
+Michael Moorehead as
+Klingon officer
+Science division ensign
+Joycelyn Robinson as Gates
+Diane Todd as Romulan civilian
+Guy Vardaman as Klingon helmsman
+Unknown performers as
+Female operations division ensign (stock footage)
+Female science division officer
+Klingon officer (voice)
+Romulan civilians 8, 9, 10, 11, 12, 13, 14, 15, 16, and 17
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Eddie – stand-in for Stephen Root and Malachi Throne
+Joey Davis – stand-in for Joanna Miles
+Melba Gonzalez – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner, Mark Lenard, Erick Avari, Graham Jarvis, and Norman Large
+Lorine Mendell – stand-in for Gates McFadden and Joanna Miles
+Richard Sarstedt – stand-in for Jonathan Frakes and Daniel Roebuck
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – stand-in for Leonard Nimoy
+James Washington – stand-in for Michael Dorn
+Unknown performers as
+Stand-in for Karen Hensel
+Stand-in for Mimi Cozzens
+
+
+=== References ===
+2278; 2364; 2366; "a lot of ground"; "a man of the people"; abduction; adjutant; "all right"; appointment; advisor; alloy; ambassador; amusement; android; apology; Apollo-class (Vulcan starships); Arbiter of Succession; armament; arrival; As You Like It; "at least"; Barolian; "beats me"; bed; Beta Quadrant; body; border; bow; cafe; Caldorian eel; career; cargo; cargo area; cargo bay; ceremonial death chamber; city; collateral damage; combat vessel; computer; computer system; contraband; coordinates; corner; courage; course; crate; cross reference; curiosity; damage; day; death; debate; debris; decade; defection; defector; density; dentarium; destination; deuterium storage tank; decommissioning; dialogue; diplomatic delegation; directory; disappearance; district; doorway; Doraf I; dwelling; ear; emotion; emotional barrier; experience; explanation; eye; fact; family; father; favor; Federation; Federation-Cardassian War; Ferengi; Ferengi cargo ship; file; fleet admiral; floor; "for that matter"; foot; fragment; freighter; friend; gagh; generation; genius; "good night"; Gowron; gratitude; hail; hairpiece; Hanolin asteroid belt; heading; health; "hello"; helmsman; hill; history book; holding vessel; honor; hour; Human; hundred; husband; "I don't know"; "I see"; "I suppose so"; idea; identification; illness; image; impact; "in fact"; "in session"; "in the end"; "in the hands of"; inflection; information; intelligence report; intelligence scan; intelligence sweep; internal explosion; internal scan; jigsaw puzzle; job; jolan tru; junior adjutant; K'Tal; Khitomer; Khitomer Conference; kilometer; king; Klingons; Klingonese; Klingon Bird-of-Prey (K'Vada's Bird-of-Prey); Klingon Civil War; Klingon history; Klingon Empire; Klingon High Council; Klingon history; kph; Krocton Segment; leader; leadership; legal intercessor; "lend a hand"; life span; life support; locker; log; logic; long-range scanner; loyalty; Mahl'kom group; mass; meal; medical supplies; metal; metallurgical analysis; military ship; mind meld; mint; mint tea; minute; mission; mistake; molecular pattern trace; Mot; mountain; mystery; name; navigational deflector array; noise; NSP; number one; "of course"; office; "on board"; opposition; optimism; orbit; order; outer rim; outsider; pad; pain; paint; parameter; peace; percent; phaser; phaser array; phaser bank; picture; plan; pleasure craft; port; proconsul; prosthetic; public service; Qo'noS; Qualor II; Qualor II depot; Qualor II Depot Z15 Inventory Database; quartermaster; question; Rateg; record; red alert; reform; relationship; relative; rescue mission; revisionist history; river; Romulan; Romulan cuisine; Romulan disruptor rifle; Romulan Neutral Zone; Romulan Senate; Romulan Security (Romulan security forces); Romulan Senate; Romulan underground movement; Romulus; rumor; search; Section 18 - Gamma 12; Sector 12D4; secret; security; scheduling; senator; sensor; shelf; shield array; shipment; skin pigmentation (skin color); sleep; Smuggler's combat vessel; soldier; son; soup; space; sponsor; square kilometer; Starbase 234; starbase computer system A29; starboard; street; stubborn; subspace channel; subspace marker; surplus depot (supply yard, shipyard); Surplus Depot Z15; subspace; subspace message; surface; tailor; terminal; terraforming mission; "that's all"; thing; thought; "to that end"; T'Pau; trade negotiation; transponder; trip; Tripoli, USS; "very good"; "very well"; visit; Vulcan; Vulcan (planet); Vulcan National Merchant Fleet; Vulcan salute; warp speed; weapon systems; weapons array; week; whispering; wife; year; "yep"; Zakdorn
+
+
+==== Qualor II vessels ====
+Surplus Depot Z15 starships; Antares-class (unnamed); Alka-Celsior, USS; B-24-CLN; Challenger-class (USS Buran); Federation sentry pods; K't'inga-class (unnamed); Miranda-class (unnamed); Niagara-class (USS Princeton); Nebula-class (unnamed); Springfield-class (USS Chekov); Talarian freighter; Talarian warship
+
+
+==== Library computer references ====
+Starfleet Operations – Sectors 21166-23079: Ajax, USS; Alpha Laputa IV; Aries, USS; Berlin, USS; Beta Mahoga system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Epsilon Ashanti III; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Rigel-class; Romulan Neutral Zone; sector; Sector 21166; Sector 21502; Sector 21834; Sector 22036; Sector 22055; Sector 23079; Starbase 174; Starbase 414; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Yosemite-class; Zhukov, USS
+
+
+==== Deleted references ====
+disease (Bendii Syndrome); gift; madness
+
+
+=== External links ===
+"Unification" at Memory Beta, the wiki for licensed Star Trek works
+"Unification" at Wikipedia
+"Unification" at MissionLogPodcast.com
+"Unification Part I" script at Star Trek Minutiae
+"Unification I" at the Internet Movie Database

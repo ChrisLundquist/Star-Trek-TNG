@@ -1,0 +1,262 @@
+Professor Moriarty returns, only this time he gains control of the Enterprise in his quest to leave the holodeck.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Data and Geordi La Forge are enjoying a Sherlock Holmes mystery holodeck program. However, when Data tries to prove the guilt of the alleged murderer by throwing a matchbox at him which he catches with his right hand, Data is puzzled as the program should have rendered the character left handed, which would have conclusively proved Data's accusation. La Forge, agreeing this seems like a malfunction, freezes the program and calls for Reginald Barclay, asking him to come down and examine the program, as this certainly was not the first time something went wrong with it. After saving the program, Data and La Forge run into Barclay outside the holodeck. Barclay thinks it might have been a glitch in the matrix diodes and assures them he will solve the problem.
+While performing a diagnostic on all files concerning Sherlock Holmes program 3A via the holodeck arch, he discovers files stored in protected memory. When Barclay runs the files contained within the arch, Professor James Moriarty appears, standing in the center of the holodeck. Barclay engages him and, unprompted, throws his diagnostic device at him and establishes Moriarty is left handed, as he should be. Moriarty throws the tool to the floor and demands to see Captain Picard, surprising Barclay, who is unaware of the previous encounter with Moriarty four years prior. Barclay is shocked to hear that Moriarty really knows what he is, a holodeck character, and even more so when he learns that Moriarty experienced the passage of time. Denying Moriarty's claim that he is alive, Barclay tells him that he cannot leave the holodeck when he is asked if this is possible. Moriarty suspects that Picard has forgotten all about him since their first meeting, only agreeing to try to help him leave the holodeck in order to rescue his hostage. He demands to see Picard in the sitting room at 221B Baker Street.
+Barclay explains that he needs to store Moriarty in memory again until he has contacted Captain Picard. When Moriarty is gone, Barclay leaves the holodeck, but a brief moment later Moriarty reappears again with an amused smile on his face.
+
+
+=== Act One ===
+"Captain's log, stardate 46424.1. The Enterprise has arrived at the Detrian system to observe a unique celestial event: the collision of two planets."
+The USS Enterprise-D has come to the Detrian system to observe the collision of two gas giant planets, Detria II and Detria VI, which may cause the formation of a new star. La Forge is briefing his engineering staff along with Data, ordering that he wants triple redundancies placed on all sensor arrays, as they may never get another chance to view something like this again. Entering engineering, Barclay tells La Forge and Data that Moriarty has appeared and that he has demanded to speak to the captain.
+Later, Barclay takes the captain and Data to the holodeck, activating the sitting room at 221B Baker Street. They enter and run the Moriarty program. Picard greets Moriarty, and tells him how they have spent much time investigating how he became self-aware, and how he may manage to leave the holodeck. They turned over problem of how to allow Moriarty an independent existence to Starfleet's best scientific minds, but still are awaiting an answer. Picard is concerned that Moriarty experienced the passage of time. Moriarty gets angry that while Picard and the crew experience a real life outside the holodeck door, he is left as a low priority, confined to the holodeck. Picard opens the exit, and demonstrates by throwing a book out of the door that objects will disappear when they enter the real world, as they have no substance. Moriarty claims that, as a conscious being, his willpower will maintain him outside the holodeck, quoting Descartes' Latin phrase "Cogito ergo sum" ("I think therefore I am"). In front of the astounded crewmembers, he walks through the holodeck door and into a corridor with no apparent ill effects.
+
+
+=== Act Two ===
+
+Data calls for two security officers, causing Moriarty to remark that policemen are recognizable in any age. Everyone believes that this is impossible. Picard wishes for them to go to see Dr. Crusher. Her tricorder scan reveals that he is real, and La Forge detects no traces of loss of molecular cohesion. Crusher reports that Moriarty's DNA is a bit unusual, but all of his major systems are detected and he is functioning normally. Picard assures him that the crew will continue to investigate. Moriarty wishes to go "above deck," and is surprised to see the stars outside the Ten Forward window, exclaiming that they are adrift in the heavens. Picard explains to Moriarty that they are on a starship. Moriarty wishes to learn the ship's means of propulsion and how far they are from Earth. Picard offers to give him books, and asks that he remain aboard for a while. Moriarty does not care, and is excited to live his life. Picard reminds him that criminal behavior will not be tolerated in the 24th century any more than it would be in the 19th century, to which Moriarty replies that he was only a criminal because Sir Arthur Conan Doyle made it so. He promises that as a person, he is no criminal. Picard enumerates the opportunities beyond Moriarty's wildest dreams that await him in this century. He thanks Picard for his graciousness, and asks if they can bring out Countess Regina Barthalomew. Picard explains that they would have no idea how. Moriarty wishes to bring out the countess using a method similar to that which brought him out. He becomes angry, and begs the captain to give him his wish.
+
+In the observation lounge, the senior staff and Barclay are talking about whether they should comply with Moriarty's request. Counselor Troi understands Moriarty's frustration at being alone, without his love. Dr. Crusher thinks that they should at least fully analyze Moriarty before performing the procedure again, and Barclay agrees with this. Data remarks that they have no idea if Moriarty's ability to exist outside the holodeck is permanent, and advises not to recreate their actions until they fully understand what has happened. Picard agrees, and decides to hold off on the request. He asks for the investigation to continue, and goes to tell Moriarty of their decision.
+Picard tells Moriarty in his quarters that they have decided to postpone action. Moriarty says he is tired of waiting. In an attempt to get Moriarty to understand their caution, Picard questions him about his feelings for the countess, hoping their shared concern for her safety will make him less impatient. He remarks that he would love the countess even if he had not be designed to – he adores her. Picard tells him that they will act as soon as they learn enough to allow her to leave the holodeck safely. Picard is then called to the bridge by Commander Riker. On the bridge, Riker has the two planets put on screen. Picard asks Worf to launch four class-A probes towards the planets, but the computer does not respond. Command functions have been rerouted, and Moriarty reveals that he has transferred command controls and taken over the Enterprise.
+
+
+=== Act Three ===
+Worf brandishes a phaser from under his tactical console, but Moriarty warns him not to fire, as he is the only one who can release the command lockout. Picard explains the Enterprise is in grave danger. Moriarty tells him that he will relinquish control once the countess is in the real world. Picard orders Data to start working on a solution.
+
+In engineering, Data, Barclay, and La Forge are discussing the possibility of using the transporter. Barclay asks what would happen if they attempted to beam a holodeck object off the grid. La Forge explains that a holodeck object has no pattern to lock on to, making the attempt impossible. If the object could be locked on, the transporter might work. Barclay suggests that they use the pattern enhancers to create a way to lock on. As they are talking, Picard comes to inform them that Moriarty will not disrupt normal ship's functions as long as they work on the problem. Taking him aside, Picard asks La Forge how Moriarty gained control of the ship. Apparently Moriarty somehow managed to override the security lockouts. La Forge tells Picard that the man is brilliant in any century. Picard also asks La Forge to find a way to regain control of the ship.
+Barclay returns to the holodeck to set up the pattern enhancers. When he asks the computer to run Sherlock Holmes program 3A, he is slightly puzzled when the computer tells him that program is already active. He enters to find the countess there. He is initially cautious, but after the countess makes it clear that she understands that the pattern enhancers are part of the plan to take her and Moriarty into the real world, he relaxes a little. She talks about all her adventures in Africa, saying that she had a wonderful time.
+Moriarty returns, and explains that he has already attempted to make the countess self-conscious in a similar way to himself. The countess explains to Moriarty that they will be using the pattern enhancers to take a chair off the holodeck and into the real world. If the experiment succeeds, the countess will be next. Barclay asks Data to proceed with the transport. Data attempts to beam the chair off, but while the chair disappears from the holodeck, nothing appears on the transporter pad; it seems to have lost its molecular cohesion as soon as the transporter cycle is finished. Data explains that they may be able to learn something from this and checks the transporter logs to see the results. But strangely, while the log exists, it contains no information. Data remarks that it is as if the transport of the chair never occurred.
+
+Meanwhile, La Forge has asked Picard to come to engineering as he may have a way to regain control; he asks the captain to try his codes again. Picard inputs his command codes, which the computer verifies. As La Forge notices that the transfer seems to not have worked, Data arrives. He watches suspiciously as La Forge uses his PADD, and after gaining his attention, tosses a small tool which La Forge catches with his left hand.
+Addressing the captain, Data announces that he has determined how Moriarty managed to leave the holodeck – he never did. The entire Enterprise is actually a simulation created by Moriarty in order to fool Picard into releasing the Enterprise command codes to him.
+
+
+=== Act Four ===
+
+Data explains his Holmesian deduction of this fact to the captain. The fact that by beaming a hologram off the holodeck, they were attempting something that had never been done before, and since it was a holographic transporter, the computer could have no real data to create the transport logs. He also noticed that the holographic La Forge was working with his left hand, although the real La Forge is right handed – a similar problem to the fault that first caused Barclay to activate the Moriarty hologram.
+As further confirmation, Data throws his combadge at the warp core, causing the grid from the holodeck wall to show through briefly. Picard attempts to command the computer to stop the program, then calls Riker to ask him what is Picard's location on the ship. Riker says "engineering", causing Picard to suggest that Moriarty has their combadges tied in to his simulation.
+Data explains that the only real people in this simulation are himself, Picard and Barclay, the three who originally entered the holodeck to meet Moriarty. Now that he has Picard's command codes, Picard expects Moriarty to use them to attempt make demands on the real Riker to find a way to allow him to leave the holodeck. Picard begins to muse about a plan to give Moriarty what he wants.
+Aboard the real ship, Riker is indeed negotiating with Moriarty for the return of Captain Picard, Barclay, and Data. Moriarty, on the Enterprise viewscreen, appears to be in holographic crew quarters. He now has control of the ship, and Riker fears that they will not be able to move to a safe distance from the planetary collision. Moriarty demands that they must come up with a way for him to leave the holodeck, and explains the lines of research the crew on his holographic Enterprise were pursuing, telling the real crew that they must do better with their real transporters. La Forge explains that the fact that Moriarty's transporters were only holograms was probably not the only reason why their experiment didn't work. Moriarty then raises the warp core temperature to demonstrate his complete control of their ship. Riker orders La Forge to proceed with working on the problem.
+Back on the holographic Enterprise, Picard enters the holographic holodeck, returning to 221B Baker Street where Picard introduces himself to Countess Barthalomew. The Countess finds him charming, comparing him to a bewitching Viscount of her acquaintance. Picard explains to her a plan he says his crew have devised, to allow him to use transporters to make holograms real, by first decoupling the Heisenberg compensators and allowing them to rescramble randomly. He appeals to her to work on Moriarty to persuade him to do the right thing by releasing the computer to him before he agrees to use this technique. After telling Picard that sounds more like a threat than a compromise, she agrees to do what she can.
+Back on the real Enterprise, the collision is proceeding apace. Worf is working on manually disabling the force field Moriarty has used to prevent physical access to the holodeck.
+Meanwhile, in 221B Baker Street, Countess Barthalomew tells Moriarty of Picard's plan and tries to persuade him to accept Picard's proposition that they release the ship's computer. Moriarty dismisses this option and instead triumphantly calls for an arch, using this to contact Riker. He tells Riker he wants him to uncouple the Heisenberg compensators.
+
+
+=== Act Five ===
+Countess Barthalomew is putting a hat on while Moriarty explains to her how many other worlds there are to visit together. Riker communicates and tells them they are ready to transport. It appears to be successful, as Moriarty and the countess materialize on the transport pad. But Moriarty still refuses to give up control of the ship's computers until Riker agrees to give him one of the Enterprise shuttles. Riker has little choice but to agree.
+Riker walks into the shuttlebay, and tells Moriarty and the countess that they have programmed a shuttle to accept voice commands – they can control the ship by simply telling it where they want to go. Riker suggests they make Meles II their first stop, as it is the closest inhabited planet and its inhabitants are friendly.
+Moriarty says he's sorry he won't be able to say goodbye to the captain in person, as Picard is still trapped on the holodeck in Moriarty's program. They board the Sakharov and take off, admiring the beautiful sight of the heavens. Finally Moriarty orders the shuttle computer to interface with the Enterprise and uses his codes to release the Enterprise computer back to Riker's control.
+Back in the shuttlebay, Picard enters and orders the computer to store his program Picard Delta One and discontinue simulation. The "real" Riker and Worf disappear, and the shuttlebay becomes a blank holodeck. Picard has fooled Moriarty with his own "false reality" trick. Picard then "leaves" the "holodeck" meeting Data and Barclay "outside". Now that Moriarty has released his control over the computer, Picard can discontinue Moriarty's fake Enterprise program. Picard checks in with Riker, who says their systems came back on line a few minutes ago, allowing them to move the Enterprise to a safe distance from the collision. Picard opens the door, and they are at last back aboard the real Enterprise. Before he leaves, Barclay opens a control panel by the holodeck door and removes a yellow tech cube from the computer.
+
+Debriefing Riker, Picard explains that the Moriarty program is still running inside that cube, and that although it is not physically realized, the Moriarty program will continue, unaware of the deception. Barclay places the cube inside a portable unit which he says contains enough active memory to provide both of them with new experiences for a lifetime. Deanna Troi observes that, in a way, Picard has indeed given them exactly what they asked for.
+Picard suggests that their own reality might just be existing in a little device sitting on somebody's table for all they know, leaving a nervous Barclay to try a "computer end program" command. As nothing happens, he smiles, reassured, before leaving the observation lounge.
+From a safe distance, the Enterprise observes the collision of planets and the formation of a brand new star.
+
+
+== Memorable quotes ==
+"Damn you, Picard. He promised me something would be done. I should have realized he would have said anything to get me to release my hostage."
+"Hostage?"
+
+- Moriarty, upon being told by Barclay that he still cannot leave the holodeck after four years
+
+"Professor, it's good to see you again."
+"If you'd missed my company, I should think you'd have summoned me before now."
+
+- Picard and Moriarty meet again four years later
+
+"Cogito ergo sum... I think, therefore I am!"
+
+- Moriarty (reciting René Descartes' famous quote)
+
+"This contradicts everything we know about holodeck physics."
+"Then perhaps you don't know as much as you thought."
+
+- Data after Moriarty "leaves" the holodeck
+
+"It takes a trained eye to notice certain discrepancies. For example, whether someone is right, or left handed..."
+(tosses an object to the living brother)
+"Your brother was right handed. The alleged suicide note was written by a left handed individual, such as yourself."
+"Data, it's in his right hand."
+"There seems to be something wrong with the holodeck's spatial orientation program."
+"London's greatest detective!"
+
+- Data (as Sherlock Holmes) and La Forge (as Dr. Watson) on the holodeck
+
+"A holodeck character? A fictional man? Yes, yes, I know all about your marvelous inventions. I was created as a plaything so that your Commander Data could masquerade as Sherlock Holmes. But they made me too well, and I became more than a character in a story. I became self-aware. I am alive."
+
+- Moriarty, demonstrating a high degree of self-awareness
+
+"Policemen. I'd recognize them in any century!"
+
+- Moriarty, getting his first sight of Starfleet security
+
+"The program fashioned her for me to love. But I must admit I would have done so anyway. She is remarkable. My life has not been the same since I met her. I don't simply love her, Captain, I adore her!"
+
+- Moriarty, explaining what Countess Barthalomew means to him
+
+"I'm afraid I had no choice but to take control of your vessel."
+
+- Moriarty
+
+"Captain. I have determined how Moriarty was able to leave the holodeck. He never did. Neither did we. None of this is real. It is a simulation. We are still on the holodeck."
+
+- Data, solving the mystery
+
+"Release control of this ship!"
+"I'm afraid I can't do that."
+
+- Riker and Moriarty (using the same sentence HAL 9000 uses when in control of the USS Discovery in the movie 2001: Space Odyssey)
+
+"I will not release your vessel until I am looking at it from a shuttlecraft window."
+
+- Moriarty, demanding passage on a shuttle
+
+"As far as Moriarty and the countess know, they're halfway to Meles II by now. This enhancement module contains enough active memory to provide them with experiences for a lifetime."
+"They will live their lives and never know any difference."
+"In a sense, you did give Moriarty what he wanted."
+"In a sense, who knows? Our reality may be very much like theirs. All this might just be an elaborate simulation running inside a little device sitting on someone's table."
+(all leave, except Barclay, who apprehensively tests his environment...) 
+"Computer, end program." 
+(Nothing happens, and Barclay smiles)
+
+- Barclay, Picard, and Troi in the final scene
+
+
+== Background information ==
+
+
+=== Credits ===
+The episode's closing credits included the following two sentences:
+
+The Sherlock Holmes Characters were created by A. Conan Doyle. This use by arrangement with Dame Jean Conan Doyle.
+
+
+=== Production history ===
+Final draft script: 26 October 1992 [1]
+Premiere airdate: 25 January 1993
+First UK airdate: 27 September 1995
+
+
+=== Story and script ===
+
+This episode is a sequel to the second season episode "Elementary, Dear Data". Although the Sherlock Holmes setting had proven popular among the staff, further use of the character on The Next Generation was prevented by a protracted legal dispute between Paramount and the estate of Arthur Conan Doyle. "Ship In A Bottle" came about when Jeri Taylor decided to re-investigate the possibility, only to find that the whole situation was a misunderstanding. The Conan Doyle estate had been irritated at Paramount because of the film Young Sherlock Holmes. However, by the time this episode was conceived, they were willing to license the character for what Taylor described as a "very reasonable license fee". Actor Brent Spiner was particularly thrilled, as he had wanted to play Holmes again. (Star Trek: The Next Generation Companion, 2nd ed., p. 231; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+The premise for this episode derived from a story pitched by René Echevarria to Michael Piller back in the third season. "I pitched a story after I sold "The Offspring" about Riker and Picard going on a mission, and Riker beams him into the holodeck from starbase and it appears as though Riker is taking over the ship and leading it into enemy territory. In fact, what he's doing is setting up a scenario where Picard will be protected. It was a plan to discredit some bad guy and Michael remembered it and said he loved the holodeck gag. When we were all at Jeri's house one Sunday having a story session, somebody mentioned we could do Moriarty again. I told everybody there was a story Michael liked that we could use. In the first draft, we figured out a way to help him escape the holodeck by walking in a transporter beam and it breaks up and he dies – but during the break we came up with the notion of giving him what he wants and never letting him know he's been fooled. It was very sweet, having this 18th century [sic] genius thinking he'd outsmarted us and just smugly going on." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 268-269)
+Reginald Barclay was added to the story when it was initially felt that a character was needed who had not known about the first Moriarty encounter. Although this later was regarded as a moot point, Echevarria noted that no one but Barclay could have made the episode's final line work. (Star Trek: The Next Generation Companion, 2nd ed., p. 231)
+According to Ronald D. Moore, the various nested universes in the episode confused even the staff, who ended up drawing diagrams during break sessions to keep track of them. (Star Trek: The Next Generation Companion, 2nd ed., p. 231)
+
+
+=== Production ===
+For set decorator Jim Mees, the challenge in recreating the 221-B Baker Street study set was to be faithful to both the descriptions in the original stories as well as the scenes in "Elementary, Dear Data". One notable difference from the previous episode was the wallpaper, which had been discontinued in the preceding four years. (Star Trek: The Next Generation Companion, 2nd ed., p. 231)
+This episode has one of the longest teasers at around six and a half minutes.
+This episode features a very subtle sign that everything may not be as it seems in the scenes after Moriarty's first "departure" from the holodeck:  in a typical episode, an exterior shot of the principal ship or space station is a common bridge between scenes. In this episode, there is an abnormally long break between exterior shots of the Enterprise, with none appearing between the moment Picard, Data, and Barclay enter the holodeck, and the moment just before Moriarty contacts the bridge after seizing control of the ship, despite there being several scenes and even act breaks in between. This directorial style is common in instances when the principal events take place within a holographic or mental construct. It would later be seen in the Star Trek: Deep Space Nine episodes "Distant Voices" and "Inquisition", the Star Trek: Voyager episode "Projections", and the Star Trek: Enterprise finale "These Are The Voyages...".
+There are likely other hints in this episode. For example, Troi's uniform within the holodeck does not match her "real" costume from the last scene in the observation lounge.
+Picard's statement about them possibly being someone's simulation, could be seen as an in-joke, since the world of Star Trek is basically a simulation inside a device (television) on a table, as he says.
+
+
+=== Cast and characters ===
+Director Alexander Singer noted that the most difficult aspect of the show for him was casting the part of Regina Barthalomew. "Her casting was the most difficult because we needed someone who could pull off an English accent and had a regal appearance, but who was also very sexy in Victorian clothes. When I saw Stephanie [Beacham] I said that's it, end of story." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+This is the first TNG episode after the premiere of Star Trek: Deep Space Nine, three weeks after the departure of transporter chief Miles O'Brien.
+Although he does not mention Doctor Katherine Pulaski by name, Moriarty alludes to holding her hostage in "Elementary, Dear Data". This marks the final reference to the character.
+
+
+=== Continuity ===
+The concept of controlling the ship from the holodeck was first brought up in "The Nth Degree" and is revisited in "Emergence" (although Moriarty himself created a crude device for affecting the attitude control in his debut episode).
+This episode, and its predecessor, mark the basics for the beginning of sentient holographic characters, such as The Doctor from Voyager and Vic Fontaine from DS9.
+A few years later, a holographic character finally gains the ability to leave its zone of confinement: The Doctor's mobile emitter - a 29th century technology - allows this.
+
+
+=== Reception ===
+This episode was one of Brannon Braga's favorites. "My favorite kind of show, a twisty turny complex mystery. In this case I thought it worked pretty well and certainly the pairing of Moriarty and Barclay was inspired. This was such a good show, you had to do it." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 69, 7 June 1993
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker / William T. Riker (hologram)
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge / Geordi La Forge (hologram)
+Michael Dorn as Lieutenant Worf / Worf (hologram)
+Gates McFadden as Dr. Beverly Crusher / Beverly Crusher (hologram)
+Marina Sirtis as Counselor Deanna Troi / Deanna Troi (hologram)
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest star ===
+Daniel Davis as "Moriarty"
+
+
+=== Special guest star ===
+Stephanie Beacham as Regina Barthalomew
+And
+Dwight Schultz as "Barclay"
+
+
+=== Co-stars ===
+Clement von Franckenstein as Gentleman
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Joe Baumann as Garvey (hologram)
+Steven Boz as Human operations ensign
+Debbie David as Russell / Russell (hologram)
+Cullen Chambers as Human command officer
+John Copage as Human civilian
+Tony Cruz as Lopez
+Debra Dilley as Human operations ensign
+Hal Donahue as Human command lieutenant
+Gina Gallante as Human civilian
+Jack Gilroy as operations lieutenant j.g.
+Eben Ham as Human operations ensign
+Christie Haydon as Human command ensign
+Hunt as Human operations officer
+Michael Moorehead as Human civilian
+Victor Sein as Human command officer
+Talbot as Human Ten Forward waitress
+John Tampoya as Human operations ensign
+Oliver Theess as Human command officer
+Mikki Val as Human operations officer
+Christina Wegler Miles as Human command ensign
+Unknown actress as female civilian
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+19th century; 24th century; 2365; 221B Baker Street; ability; active memory; Africa; atmosphere; authorization code; Baker Street; beam; bewitch; bite; book; bottle; breeding; carpet; celestial event; central computer; cigar; class-A probe; clock; command code; command pathway; Conan Doyle, Arthur; consciousness; conventional matter; corset; countess; criminal behavior; detective; Detria II; Detria VI; Detrian system; diagnostic sequence report; disembodied; DNA; drawing room; Earth; Englishman; enhancement module; ethical implications; fictional character; freedom; gas giant; gravity well; handedness (left handed, right handed); handwriting; Heisenberg compensator; Holmes, Sherlock; holo-program; holodeck; holodeck character; holodeck matter; hostage; individual; Justman; Latin; London; "long shot"; match; matter-energy conversion; matrix diode; Meles II; Meles II inhabitants; molecule; moral implications; number one; Oglethorpe; painting; pattern enhancer; pattern lock; phase variance; phenomenon; photonic lifeform; Picard Delta One; pipe; planet; poison; probe; professor; protected memory; Pulaski, Katherine; real world; room; safari; Sakharov; self-aware; sensor array; Sherlock Holmes Program 3A; shoreline; shuttlebay doors; sitting room; space; spatial orientation system; star; Starfleet; starship; star system; strychnine; subroutine; suicide note; tech cube; temperature; theoretical scientist; transport log; transporter; transporter cycle; transporter device; transporter lock; transporter room 7; transporter system; tsetse fly; Type 6 shuttlecraft; Type 7 shuttlecraft; viewscreen; villain; viscount; voice command (aka voice authorization); voice control; warp core; Watson, John H.; weather
+
+
+=== Timeline ===
+Stardate 42286.3, 2365
+La Forge's misspoken command prompts the Enterprise-D computer to create a sentient Moriarty. (TNG: "Elementary, Dear Data")
+Stardate 46424.1, 2369
+Barclay reactivates Moriarty's hidden program shortly before the collision of the Detrian system planets.
+
+
+=== External links ===
+"Ship in a Bottle" at Memory Beta, the wiki for licensed Star Trek works
+"Ship in a Bottle" at Wikipedia
+"Ship in a Bottle" at MissionLogPodcast.com
+"Ship In A Bottle" script at Star Trek Minutiae
+"Ship In A Bottle" at the Internet Movie Database

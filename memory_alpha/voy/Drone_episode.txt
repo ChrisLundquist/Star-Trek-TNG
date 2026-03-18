@@ -1,0 +1,189 @@
+A transporter accident involving The Doctor's mobile emitter and Seven's nanoprobes results in the creation of a 29th century Borg.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Seven of Nine is practicing smiling in a mirror, when The Doctor enters the cargo bay. Seven objects, as he walked in without announcing himself. The Doctor, who apologizes, comes to her because they are about to start a mission together with B'Elanna Torres and Tom Paris to survey a proto-nebula, which will come into existence within a short period of time. While walking to the shuttlebay they talk about the upcoming mission.
+
+While en route to the nebula, they run into spatial turbulence and talk about the discomfort of Class 2 shuttles. Seven asks Paris why he does not design a new and larger shuttle if he is so discontent with these Class 2 types. When the proto-nebula appears, the shuttle is caught in the gravimetric shear of a plasma surge a few seconds later, which causes the shuttle to lose its propulsion.
+When USS Voyager receives their distress call, Captain Janeway orders transporter room 1 to beam the shuttle crew out via an emergency beam-out. Because the shuttle is still caught proto-nebula's shearline, Ensign Mulchaey has trouble establishing a good pattern lock, but is able to beam them out. Despite a small problem separating their patterns, he is able to re-materialize them safely. When they step off of the transporter platform, The Doctor's holomatrix begins to flicker; it seems his mobile emitter was damaged somehow. After Torres transfers his program to sickbay, she tells him that some emitter circuits were fused during transport. To see if she can repair the damage, she needs to perform a diagnostic on the mobile emitter. She and Mulchaey go to the science lab, where they started diagnostic routine alpha-three-six. Torres tells Mulchaey to check the results the next morning.
+
+After they leave the science lab, the mobile emitter releases assimilation tubules, attach to the LCARS computer console where it is lying, and begins assimilation.
+
+
+=== Act One ===
+The Doctor calls Lieutenant Torres at six o'clock the next morning. He wants to know when his mobile emitter will be repaired. When she walks into the sonic shower, he even appears on its display and an agitated Torres throws her towel over it and ignores The Doctor completely.
+At about the same time, Seven's regeneration cycle is aborted prematurely because she detects a Borg presence. She goes to the bridge and informs them of her concerns. Ensign Harry Kim tells Seven that sensor sweeps were performed the entire night and no Borg presence was detected. When she suggests that a Borg vessel might hide within the proto-nebula, Kim tells her that even a Borg cube would not survive the nebula. Chakotay tells Seven to let The Doctor check her proximity transceiver to make sure it is not malfunctioning. While The Doctor is performing his check, she tells him her proximity transceiver was activated again. This has to do with Ensign Mulchaey who, upon starting his duty shift by checking the diagnostics results of The Doctor's mobile emitter, is probed by extraction tubules for DNA.
+On the bridge, Harry Kim notices that power from the warp conduits is being re-routed to the science lab on deck eight and detects a force field – with a Borg signature. Chakotay immediately orders red alert and tells Seven that she is right: Borg have been detected on Voyager and Lieutenant Commander Tuvok is on his way to the science lab with a security team. When Seven and Tuvok's security team enter the science lab, they find Ensign Mulchaey unconscious but alive, and notice a Borg-like maturation chamber protected by a force field that Seven surmises will allow her passage. Seven investigates and finds it contains a drone in its fetal state – unusual, because the Borg do not procreate, they assimilate.
+
+
+=== Act Two ===
+
+When Captain Janeway is briefed by Seven, she is told that the drone is the result of a transporter accident that occurred when they were beamed from the shuttle. Her nanoprobes interacted with The Doctor's mobile emitter when their patterns were temporarily merged. Nanoprobes within the emitter assimilated the diagnostics console and used Mulchaey's DNA as a template to create the lifeform. Captain Janeway orders a level ten force field and twenty-four hour security around the science lab, yet will not terminate the drone fetus unless forced to do so.
+Seven and The Doctor, together with Tuvok and Torres, are scanning the drone from astrometrics. They find that since Mulchaey is Human, the drone is also Human, but twenty seven percent of the body is made of Borg implants. Its body armor is made of the mobile emitter's poly-deutonic alloy, while the emitter itself is part of the drone's central nervous system and cannot be removed without killing it. Because of the emitter's origin, it is, in essence, a 29th century Borg drone. As a precaution, Seven dampens the proximity transceiver to prevent the drone from contacting the Borg Collective. When Seven briefs Captain Janeway about the drone's capabilities (internal transporter nodes, among other things), Seven is asked to act as its teacher, to teach the drone how to act as an individual. Captain Janeway sees this as the only possibility to prevent the drone from joining the Borg collective. Killing the drone is her last option.
+When the drone awakens from its alcove, it asks Seven of Nine its designation. Although Seven tells him it is irrelevant, it keeps asking for it. Seven is forced to initiate a direct neural interface, because the drone does not seem to understand her verbal instructions. When she tries to disengage the neural link, however, the drone tries to assimilate the entirety of her knowledge and ignores or refuses her command to terminate the link. Only when Seven tells him he was hurting her does the drone disengage the neural link.
+
+
+=== Act Three ===
+
+For everyone's safety, Seven decides to use Borg data nodes to teach the drone about its environment. When Neelix brings the first data node, Seven shows the drone how to assimilate the collected data via his assimilation tubules. Upon completion of assimilation of its data, he identifies Neelix and Seven and is aware of the existence of Voyager, which is traveling through interstellar space. Seven explains to him that Voyager is not a Borg collective, but that everyone on board is a unique individual. When the drone requests more information, Seven tells him that he first must see The Doctor for a medical evaluation. Neelix escorts the drone to sickbay, during which the drone notices a slight fear of him among the crewmembers and asks Neelix about the Borg. Neelix evades his question and tells him instead that he should get a name, because every individual has a name.
+While being scanned by The Doctor, the drone asks how he came into existence. The Doctor tells him about the transporter accident. Although his existence is an accident, he is told that he is not unwelcome and after some time, he will make a fine addition to the crew. It is, after all, Voyager's primary mission to explore new forms of life.
+After his medical check, Seven familiarizes the drone with Voyager. When they visit engineering, the drone helps Torres by predicting the rate of expansion of the proto-nebula. When they visit Captain Janeway, he tells her his designation is One, that he assimilated forty-seven billion teraquads of information, and asks her if he is sufficient. When Janeway tells him he is, One asks to be excused, as Torres had asked him to help improve the efficiency of the Bussard collectors. Seven tells Captain Janeway that One had asked about the Borg and she was worried that if he gains more knowledge about them, he might seek the Borg Collective, which would pose a grave tactical risk. They decide, for now, not to tell him about the Borg.
+
+When One is escorted to his alcove by Seven of Nine, he again asks to be told about the Borg when he notices that the alcoves are not Starfleet technology. Seven refuses and tells him to step into his alcove. He pauses and complies, then interestingly thanks her. As he regenerates, a proximity transceiver on his neck transmits a signal to the Borg Collective. They receive it and pursue.
+
+
+=== Act Four ===
+The regeneration cycle is interrupted by Captain Janeway and a security team, who promptly inform Seven that One has sent the signal, despite their having deactivated it. It seems One's cranial implant automatically created a secondary proximity transceiver which transmitted the signal. Voyager's long range sensors already detected a transwarp conduit. When One makes clear that he wants to meet the Borg, Captain Janeway tells Seven that it is time to show One what and who the Borg are.
+In astrometrics, One watches and learns about the Borg. Seven tells him that individuals who are assimilated lose their individuality, that their minds are integrated into the hive mind, and their bodies are augmented with cybernetic implants. One tells them he desires to experience the hive mind, whereupon Captain Janeway tells him that if he does so, he will no longer be unique, his individuality will be destroyed. One wonders how the Borg can be so destructive, while Seven is not. Janeway explains to him that Seven has regained her individuality, but if the Borg had the chance, they would reintegrate her back into the hive mind. Janeway tells One that if the Borg assimilate him, they will become far more destructive. When One asks Seven if she would rejoin the Borg collective if she had the chance, she answers that Voyager is her collective. Their conversation is interrupted by Chakotay's call to man battle stations, as a Borg vessel is approaching.
+One and Seven are on their way to the bridge when he tells her about changes in his autonomic nervous system. Seven tells him that he is experiencing anxiety, an emotion, a state of apprehension caused by fear, and that the entire crew feels the same. Seven tells him that they will engage the Borg: although the Borg are powerful, they will resist them. When One tells her that resistance is futile, Seven tells him this is not always the case.
+
+
+=== Act Five ===
+
+When they enter the bridge, the Borg sphere begins scanning Voyager, as One analyses the Borg sphere in considerable detail. While Voyager hears the standard Borg warning over the communication channel they just opened, One and Seven hear the collective as billions of voices calling them in unison from inside their minds. The Borg sphere locks on a tractor beam. Seven tells him that if they do not resist that voice, Voyager and its crew will be destroyed. One interfaces directly with the tactical console. Although One's shield enhancements break Voyager free of the Borg tractor beam, his phaser enhancements are countered by the Borg. One tells Seven that he cannot enhance Voyager's systems any further, but that he can thwart them from inside the sphere, directly. Seven fears that they will assimilate him, but he assures her that they will fail. One declines the Voyager crew's offer to transport him before transporting himself inside the sphere.
+
+The Borg inform One they will "add your biological and technological distinctiveness" to their own. One replies that his technology is superior, and threatens to destroy their ship if they do not stop the attack on Voyager. The drones that try to get in his way are incapacitated by One's personal shield. One manages to interface with the collective, steering the ship into the proto-nebula. He does not respond to the collective's request to terminate his link. As the Borg sphere sinks deeper into the nebula, its hull collapses upon itself and implodes.
+
+After Captain Janeway orders Voyager to stand down red alert and deploy damage control teams, Harry Kim detects a life sign in the debris. It is One, alive after erecting a multi-spatial force field around his body. Captain Janeway orders Kim to beam One directly to sickbay.Upon entering sickbay, The Doctor informs Seven that he has already scanned One for injuries: his implants, though fused, will regenerate – but he requires immediate surgery to address cerebral trauma and internal bleeding. One tells Seven that he directly heard the Borg's objectives; they now know of his existence and wish to assimilate him. So long as he is alive, Seven and the crew of Voyager are in danger. One's force field repulses The Doctor's assistance, despite Seven's emotional pleas to comply with her wishes. One tells Seven that he is an accident, and that he should never have existed. After assuring her that she will adapt to his absence, One ceases to function, and dies.
+In the cargo bay, Seven deactivates One's alcove, and looks into the mirror…
+
+
+== Log entries ==
+"Captain's log, supplemental. This proto-nebula seems to have a mind of its own. It's still expanding, with no end in sight. We're holding at a safe distance to monitor its growth."
+"Daily log, Seven of Nine. I've activated the drone's linguistic database. It is now capable of assimilating information. A direct neural link is too dangerous, so I decided to use Borg data-nodes."
+
+
+== Memorable quotes ==
+"The Borg: party-poopers of the galaxy."
+
+- The Doctor
+
+"I'm a doctor, not a... peeping Tom."
+
+- The Doctor
+
+"Good morning." 
+"That remains to be seen."
+
+- Seven of Nine to Chakotay, after her proximity transceiver has been activated
+
+"It will become what we help it to become."
+"How Starfleet of you!"
+
+- Neelix and Torres
+
+"How many Borg hitchhikers are we gonna pick up on this trip? Maybe this is the Collective's new strategy. They don't assimilate anymore, they just show up and look helpless."
+
+- B´Elanna Torres
+
+"…That's called a joke."
+"Joke: a verbal comment or gesture designed to provoke laughter."
+"I see you've got your mother's sense of humor."
+
+- The Doctor and One
+"You must comply. Please. You are hurting me."
+"You will adapt."
+
+- Seven of Nine and One, as One refuses The Doctor to treat him, and dies
+
+
+== Background information ==
+
+
+=== Story and script ===
+Harry Doc Kloor's original pitch for this episode started with aliens pursuing Lieutenant Tom Paris, who successfully fled from them in the Delta Flyer, only to then crash land on the surface of an unknown planet. After struggling out of the Flyer, he realized that his arm was almost entirely ripped off. A friendly member of a technologically-advanced race inhabiting the planet reattached the limb using Borg ingenuity. The staff writer taking the pitch found it too gruesome, commenting, "Oh no, we can't do anything like that. The fans wouldn't want to see all that blood and gore." [1]
+The story pitch was consequently rethought by Harry Doc Kloor, who then submitted the new version to executive producer Brannon Braga. Kloor remembered, "One day I went into Brannon's office and said I've got a story you're going to buy. Seven of Nine's nanites infect the Doc's holo-emitter and create a 29th century Borg." [2] However, the Borg drone's nature was to undergo a significant change. Staff writer Joe Menosky recollected, "Harry Kloor pitched what we used to call 'Terminator Drone' […] It was going to be an unstoppable, killer drone. We didn't go that route. We decided to go softer, character-oriented." (Cinefantastique, Vol. 31, No. 11, p. 29) Through about seven more incarnations of the plot concept, Kloor and staff writer Bryan Fuller devised this approach, considering that The Doctor and Seven might become parents of a rapidly matured Borg, essentially changing the "killer" into a "child" who would learn life through the teachings of his "parents." Brannon Braga loved the modified concept. [3]
+Thinking of a conclusion for the episode proved difficult for Brannon Braga. He reflected, "I just didn't know how I should end the show for a long time. At the last minute I realized that it had to end with this drone dying, and what a wonderful moment it would be. Executive producer Rick Berman had the idea that he would sacrifice himself to do it." (Cinefantastique, Vol. 31, No. 11, p. 29)
+
+
+=== Cast and characters ===
+J. Paul Boehmer, who guest-starred as One, thought highly of this installment, describing it as a "very interesting episode." (Star Trek Monthly issue 46, p. 71)
+A regular cast member who was appreciative of J. Paul Boehmer's work here was Seven of Nine actress Jeri Ryan. She opined, "The actor who we got to play the drone was a wonderful actor." (Cinefantastique, Vol. 31, No. 11, p. 28)
+Jeri Ryan enjoyed this installment in general. The actress remarked, "That was one of my favorite episodes […] It was a real pleasure to work on." (Cinefantastique, Vol. 31, No. 11, p. 28)
+Although Seven of Nine's mother and father neither appear nor are referenced here, Jeri Ryan believed they are part of Seven's thought processes, in light of the loss of One. "She thinks back to her parents," Ryan supposed. (Cinefantastique, Vol. 31, No. 11, p. 28)
+Brannon Braga considered Jeri Ryan's performance as Seven of Nine here to be flawless. "Jeri Ryan was perfect," Braga enthused. (Cinefantastique, Vol. 31, No. 11, p. 29)
+
+
+=== Production ===
+The creation of One's physical appearance involved multiple processes. "I had to go through the whole prosthetic routine […] It was a four hour make-up session," recalled J. Paul Boehmer. "I had to get a body cast made […] I was in the body cast for two hours. It was also a really long process of getting in and out of the suit I was wearing […] The artists had four days to design and put together this costume." Boehmer didn't find these processes arduous, instead referring to the prosthetic routine as "totally cool." He continued, "The guys were great […] I was warned that [the costume] was going to be very claustrophobic and unbearable, but I loved it all. If I had to do it every week, I'm sure that it would lose its charm, but for the week that I did it, it was terrific fun […] What [the artists who designed and built the costume] came up with is nothing short of amazing. I was totally blown away by that." (Star Trek Monthly issue 46, p. 71)
+The small clips that One watches regarding the Borg Collective were clips from VOY: "Scorpion" and "Scorpion, Part II".
+The images that are displayed while the drone is assimilating information from Voyager's computer include two unnamed planets and schematics of the Phoenix warp ship, a Cardassian military freighter, a Galaxy-class starship, a DY-100-class sleeper ship, a K'Vort-class Klingon Bird-of-Prey, a D'Kora-class Marauder, a Romulan Bird-of-Prey, an Academy flight trainer, a Jem'Hadar warship, a Klingon D-7 battlecruiser, a long range shuttle, an orbital office complex, a Defiant-class escort, a D'deridex-class Warbird, a Sovereign-class starship, and a Negh'Var warship.
+
+
+=== Continuity ===
+This episode marks the first appearance of a Borg sphere in the series and the second overall after Star Trek: First Contact.
+One's body armor has a design unlike any other Borg body armor. Aside from its unusual-looking composition, it also has tubing at the ribs, legs, and shoulders that glows blue every two seconds. J. Paul Boehmer once commented that the reason he had to have a body cast made for One's costume was "because it's a totally brand new Borg." (Star Trek Monthly issue 46, p. 71)
+The fate of The Doctor's mobile emitter, which is confirmed to be "embedded in [One's] cerebral cortex", is not addressed on-screen. As it is present in subsequent episodes, it has presumably been removed from One's corpse and restored to normal operation.
+Torres mentions to The Doctor and Tuvok that the mobile emitter is "500 years more advanced than anything we've got", but later, The Doctor tells One that his mobile emitter is from four hundred years in the future. In fact, the mobile emitter could be from anywhere between 425 years to 525 years in the future, as the exact year of origin of the technology is never made clear in the episode "Future's End, Part II" in which the mobile emitter is introduced – only that it originates from the 29th century.
+When convincing One that he needs a name, Neelix says that the crew cannot call him the "drone" because it is "not very interesting." Ironically, this unused name is used for the title of this episode. The name "One" had already been given to a previous installment.
+While in the shuttle at the beginning of this episode, Seven of Nine suggests to Tom Paris that he "should design a new shuttle". This foreshadows the construction of the Delta Flyer in the next episode "Extreme Risk".
+Seven's direction to One that he "must face outward" in a Borg alcove seems contrary to other episode that have featured Borg alcoves, such as TNG: "The Best of Both Worlds", in which drones were seen facing both outward and inward in alcoves. It can be assumed that the Borg reviewed and updated their alcove posture policy in between that episode and "Scorpion, Part II", when Seven was disconnected from the Collective.
+
+
+=== Reception ===
+Ultimately, both Joe Menosky and Brannon Braga were extremely satisfied with this episode. Menosky noted, "I think the episode was very successful." (Cinefantastique, Vol. 31, No. 11, p. 29) Braga cited the outing as one of several fifth season standouts he believed were "really high-concept, well-produced, well-acted shows" that he thought were "about the best we've ever done on this series" (other such episodes being "Counterpoint", "Timeless", and "Dark Frontier"). (Star Trek: The Magazine Volume 1, Issue 1, p. 65) Also, Braga declared, "'Drone' is one of my favorites [....] It was a classic, great Star Trek episode, because only Seven of Nine could bring that tear to your eye. Because she didn't fully understand her own emotions, and was experiencing grief for the first time, you felt it as though for the first time." (Cinefantastique, Vol. 31, No. 11, p. 29) In addition, Braga remarked, "When Seven gets into the role of mentor the same way Janeway has been her mentor, and gets to experience the loss [of her child]… that's what makes the episode very successful." [4]
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 5.1, 1 March 1999
+As part of the VOY Season 5 DVD collection
+As part of the Star Trek: Fan Collective - Borg collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+J. Paul Boehmer as One
+Todd Babcock as Mulchaey
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Ashmore
+Tom Morga as Borg drone
+Pablo Soriano as operations ensign
+Chester E. Tripp III as Borg drone
+Stuart Wong as command officer
+Unknown actor as voice of the Borg
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+Stuart Wong – stand-in for Garrett Wang
+
+
+=== References ===
+29th century; ability; ablative armor; adjective; airponics bay; Alcove Beta; Alcove Gamma; all hands; analysis; artificial gravity plating; assimilation; astrometrics; astronomical survey; autonomic function; battle stations; "big chair"; biological system; Borg; Borg Collective; Borg cube; Borg long-range tactical vessel; Bussard collector; cargo bay; cerebral cortex; Class 2 claustrophobia; Class 2 shuttle (unnamed); collective mind; comparative humanoid anatomy; cranial implant; cubic kilometer per hour; data node; Delta Quadrant; diagnostic routine; diagnostic tool; DNA; duranium; dyne; emergency beam out; emitter circuit; encoding sequence; English; expression; extraction tubule; fail-safe; feedback pulse; force field; freedom; gagh; gold star; gravimetric shear; group shot; hitchhiker; hive mind; holo-imager; individuality; information; internal bleeding; internal transporter node; Intrepid-class decks; joie de vivre; joke; kilometer; Klingon; leader; life support system; linguistic database; logic; mass; maturation chamber; maturation cycle; medical analysis; medical scan; Milky Way Galaxy; mobile emitter; multi-dimensional adaptability; multi-spatial force field; multi-spectral algorithm; nanoprobe; neural interface; neural pathway; particle physics; party pooper; pattern buffers; Peeping Tom; phaser; pheromone; plasma; poly-deutonic alloy; proto-nebula; protostar; proximity transceiver; "pull the plug"; radiation; reactive armor; regeneration alcove; regeneration cycle; red alert; sense of humor; shearline; shield generator; shield modulation; ship of exploration; shoehorn; shore leave; sonic shower; spatial turbulence; starship operations; systems analysis; Talaxian; temperament; temperature; teradynes per second; teraquad; tissue sample; towel; tractor beam; transporter lock; transporter malfunction; Transporter Room 1; transwarp conduit; tricylic life support system; Unimatrix 325, Grid 006; volume; warp conduit; warp field theory
+
+
+==== Computer library images ====
+Academy flight trainer; Cardassian military freighter; D-7 battlecruiser; D'deridex-class; D'Kora-class: DY-100-class; Defiant-class; Galaxy-class; Jem'Hadar warship; K'Vort-class; long range shuttle; Negh'Var warship; orbital office complex; planet; Phoenix; Romulan Bird-of-Prey; Sovereign-class
+
+
+=== External links ===
+"Drone" at Memory Beta, the wiki for licensed Star Trek works
+"Drone" at Wikipedia
+"Drone" at the Internet Movie Database
+"Drone" at MissionLogPodcast.com

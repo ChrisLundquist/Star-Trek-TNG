@@ -1,0 +1,258 @@
+A transporter accident replaces the characters in Bashir's secret agent holosuite program with the physical forms of the station's senior staff.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+A glass screen shatters as a man with a patch over one eye is hurled backwards through it. On the other side of the screen, Doctor Bashir stands casually, dressed in a tuxedo, and walks back toward his female companion, Caprice. She smiles as she hands him a bottle of champagne, but she has a troubled look on her face.
+Bashir looks at the bottle and sees the reflection of the other man, who has gotten up and is attempting to sneak up on him. With nothing else to use for a weapon, Bashir turns around quickly and uncorks the bottle, using the cork as a projectile to render the other man unconscious. He turns to Caprice and the two embrace, but they are interrupted by clapping from elsewhere in the room.
+
+It is Elim Garak, who has broken into the holosuite because he is curious to know what Bashir is doing. Bashir immediately attempts to throw Garak out, even threatening to have Odo arrest him for trespassing, although Garak dodges the threats and makes observations about the simulation. Garak notes that Bashir has been visiting the holosuite repeatedly ever since he received his new holo-program and yet the doctor has not told anyone what the program is. Despite Bashir's protests, Garak uses his usual charm and tactfulness to convince the doctor to allow him to stay and observe. However, he notes that Bashir's companion has just left. The doctor is obviously not amused, but Garak assures him they will have a wonderful time together. Garak then tells Bashir, "After all, what could possibly go wrong?"
+
+
+=== Act One ===
+As Garak and Bashir enter the doctor's fictional apartment in Kowloon, part of Hong Kong, Garak takes in the decor of 1964 Earth before they are joined by Bashir's valet, Mona Luvsitt. She reveals that behind one of Bashir's walls is an assortment of firearms; between this and the lavish surroundings, Garak surmises that Bashir is playing some kind of rich playboy. On the contrary, Bashir says, he is a spy: a top-class secret agent whose clothing, equipment, lodgings, and adoring female companions are all provided to him by a grateful government. Garak remarks wryly that he (who really has been a spy) must have joined the wrong intelligence service.
+Meanwhile, Sisko, Kira, Worf, Dax, and Miles O'Brien return from a conference only to discover their runabout has been sabotaged. The USS Orinoco is about to explode, so Eddington beams them out. Unfortunately, the explosion comes during the transport, and as the crew materialize a bright flash forces station crew to avert their eyes. Only smoke remains, and Eddington is stunned.
+
+
+=== Act Two ===
+Eddington rushes down to the pit in Ops to evaluate the next move, and Odo arrives to understand what's going on. The primary energizing coils were overloaded, but the crew members' patterns are still stuck in the transporter buffer. Given the immense amount of space required to store neural information and the fact that the buffer will soon lose coherence and the signatures with it, Eddington orders the computer to wipe all memory necessary in order to save the patterns; consequently, all power on the station goes out while the crew members are somewhere on the station, but he and Odo have no idea exactly where they are.
+At the same time, in the holosuite (which is still active despite the power loss), Mona dresses Garak in appropriate attire for the 1960s. But shortly thereafter, the bar in Bashir's apartment turns itself 180 degrees to reveal a bed with a scantily-clad Major Kira on it. Bashir thinks Kira and Garak have conspired to ridicule him, but Garak is just as surprised as he is. Speaking with a thick Russian accent, Kira identifies herself as Colonel Anastasia Komananov, and soon Bashir and Garak realize the image of Komananov, a character from Bashir's holonovel, has been replaced with one of Kira. However, the computer claims the parameters for the character are normal and refuses to pause the program. Bashir contacts Ops to find out what has happened, but as Eddington explains about the transporter accident, Odo recognizes Kira's voice and realizes the images of the missing crew members must have been stored in the holosuite's memory. Odo and Eddington warn him not to stop the holo-program or call up the exit, as it might result in the loss of the images – and thus the crew.
+
+Komananov explains the mission she and Bashir are supposed to be working on; a number of unusual earthquakes have occurred of late, and the government has concluded that the quakes are artificial. When Garak begins to explain that it is not difficult to manufacture such a quake, Bashir silences him, given the period they are supposed to be in. The assignment is to find out who is causing the quakes, and the only clue is the recent kidnapping of someone named Professor Honey Bare, a leading seismologist. When Komananov shows Bashir a picture of the professor, it is in fact Dax. Bashir communicates to Garak that they need to ensure that Honey Bare stays alive as if she dies, the computer will remove her from the program and unintentionally erase Dax's pattern. Komananov is about to explain further when the door opens to reveal Mona, who collapses with a knife in her back. She is followed by O'Brien – who is now Falcon, the man with the patch whom Bashir knocked out previously – and two other armed men.
+
+
+=== Act Three ===
+Komananov asks Falcon for one last kiss with Bashir, and Falcon accepts. As they kiss, she tells Bashir to remove her earring; it's a bomb. He does so, and the bomb knocks out Falcon. Garak, Bashir and Komananov proceed to knock out Falcon's henchmen. Komananov nearly kills O'Brien, but Bashir stops her from doing so. This makes Komananov question his motives, as Falcon has been trying to kill Bashir for nine years. Bashir notices that Garak's mouth is bleeding after the fight, and they realize that the safety mechanisms on the holosuite have been disabled, and that in addition to keeping the five crewmembers' patterns alive in the story, Garak and Bashir must take care to protect their own lives as well. Komananov then proceeds with the mission. She reveals that Hippocrates Noah has been kidnapping the world's best minds for the past six months, and that he had met each one at a club in Paris. Komananov, Bashir and Garak set out to visit the club.
+Meanwhile, Odo and Eddington go to the holosuite with Quark and Rom to determine the nature of the crew's integration. Rom has made significant modifications, but Eddington is able to confirm the crew's physical patterns. However, their neural energy cannot be stored there. Quark supposes multiple other systems on the station have been used to do that, as it requires an immense amount of energy.
+In the Club, the trio first find Duchamps, who has a striking similarity to Worf. Bashir claims that he is one of the world's leading geologists, and inquires about Dr. Noah and the scientists. Duchamps says that he can arrange a meeting, but only for 5,000,000 francs. Bashir requests a game of cards to win the money from him. Meanwhile, Odo, in Ops reveals that a Cardassian separatist group is responsible for the destruction of the Orinoco. Eddington announces that the neural patterns of all five officers were stored in the rest of the computer memory. They decide to use the Defiant to reassemble the neural and physical patterns of the five victims, though Rom says he needs to modify the system to interface with the ship. Meanwhile, Bashir has won the money in a game of baccarat, and asks to meet with Dr. Noah. Duchamps knocks the trio out with a puff of toxic cigar smoke. When they awaken, a man is ready for them. He introduces himself as Hippocrates Noah, but looks exactly like Benjamin Sisko.
+
+
+=== Act Four ===
+Bashir then notices that the room they are in is atop Mt. Everest. Dr. Noah decides to test Bashir's geological knowledge by showing him one of his artifacts. When Bashir identifies the various stones, Noah then announces his plan, while also revealing a hidden control panel and Professor Bare, with Dax's appearance. He reveals he has placed massive underground lasers in strategic positions, and that he plans to activate them all at once, shrinking the earth, killing all of its inhabitants, and forcing the oceans to cover the entire globe, except the highest point on earth, his complex on Mt. Everest. He then announces that Bashir won't be joining him, and calls for Falcon, who has just been employed by him.
+On the Defiant, Rom has successfully managed to complete the modifications to allow the holosuite to interface with the Defiant transporters, but it will take at least another hour.
+Falcon straps Bashir and Garak to one of the giant lasers, but says that Komananov will be used as breeding stock for the second Human race. Dr. Noah activates the countdown sequence and leaves.
+
+
+=== Act Five ===
+Once he is gone, Garak almost ends the program, but Bashir stops him. Finally, Honey Bare shows up, and Bashir charms her into coming close enough to steal the key to their restraints, freeing himself and Garak.
+Bashir says they have to get back to the control room: according to the program's storyline, one of the two female leads – Anastasia/Kira or Honey/Jadzia – is supposed to end up with the hero, while the other one dies. They have to prevent that from happening to either of them. Garak objects, saying that the odds are against them and it is time to quit. Bashir is appalled, and a heated argument ensues: Garak says that if Bashir was a real spy, and not an overgrown child play-acting at one, he'd understand that there are times when it's better to save oneself than risk one's life against impossible odds. Garak starts to address the computer, but Bashir aims his backup gun at him, reminding him that if he calls for the exit, he may stop the program and kill Sisko and the others. Garak tells Bashir to face reality: he is not a hero, he only likes to pretend to be one, which is why he doesn't have the guts to pull the trigger. Garak starts to call for the exit again – and Bashir pulls the trigger.
+Garak goes down with a flesh wound in his neck. Taken aback, he says that Bashir came awfully close to killing him. Bashir coolly asks him, "what makes you think I wasn't trying?" Impressed, Garak voices no further objections as Bashir leads him back to the control room.
+Bashir and Garak hold Noah and his henchmen at gunpoint, until Duchamps arrives and disarms them. However, Julian receives a com signal from Eddington: he is going to try rematerializing the patterns in about two minutes. After hearing the signal, Noah decides to kill Bashir. However, Bashir pretends to surrender, believing that Noah has the right idea after all. Noah does not believe a word of it, but Bashir gives a lengthy speech, imitating the conversation that he and Garak had earlier. Noah is still not convinced, so Bashir then does the unthinkable – he activates Noah's machine, destroying all life on the (holographic) Earth. Noah is stunned and unsure what to do next – the program obviously didn't have a script that allowed his plan to actually succeed. Deciding, just to relieve his uncertainty, that he will kill Bashir anyway, he starts to aim his gun... when Rom activates the transporter and rematerializes Sisko, Kira, O'Brien, Worf and Dax. O'Brien is appalled at Rom's messy modifications to the Defiant, not knowing that they saved his life.
+Back in the holosuite, Garak congratulates Bashir on his ingenious "solution" – saving the day by destroying the world. The Cardassian has gained a new respect for his Human friend, and proposes that they meet again inside the program at Bashir's apartment in Hong Kong for their next lunch meeting.
+
+
+== Memorable quotes ==
+"A lot of kick for a '45 Dom."
+
+- Bashir, after he shoots Falcon with the cork from the champagne bottle
+
+"Thank you, Mr...Mr..."
+
+"Bashir. Julian Bashir."
+
+- Caprice and Bashir
+
+"If I were in your shoes, I'd grab a bottle of champagne and shoot me!"
+
+- Garak
+
+"We're going to have a wonderful time, Doctor; after all, what could possibly go wrong?"
+
+- Garak
+
+"I work for one of the nation-states of this era, Great Britain, which is battling various other nations in what is called the Cold War. This apartment, my clothes, weapons, even my valet were provided to me by my government." 
+"I think I joined the wrong intelligence service."
+
+-Bashir and Garak
+
+"Where's the core memory interface?"
+"Oh. It's right behind the spatula."
+"The spatula?"
+"It's made of a copper-ytterbium composite... the perfect plasma conductor!"
+
+- Michael Eddington and Rom, while inspecting Quark's jury-rigged holosuite computers
+
+"Another decorators nightmare, this era had a distinct lack of taste"
+
+- Garak, commenting on the décor in the villains lair
+
+"We are building a new future here, a new beginning for mankind. A new chapter in Human history will open... right here, on my island."
+"Island?"
+"Forgive me. Sometimes I do get ahead of myself. Allow me to explain."
+
+- Hippocrates Noah and Julian Bashir, on a slope of Mount Everest
+
+"Kiss the girl, get the key. They never taught me that in the Obsidian Order."
+
+- Garak
+
+"I am afraid I don't believe you'll pull that trigger."  
+"I wouldn't be so sure about that."  
+"It's time to face reality, Doctor. You're a man who dreams of being a hero because you know, deep down, that you're not. I'm no hero either, but I do know how to make a choice, and I'm choosing to save myself."
+
+- Garak and Bashir, as Bashir threatens to shoot Garak if he tries to exit the holosuite
+
+"You'll be fine. It's just a flesh wound."  
+"That was awfully close. What if you'd killed me?"  
+"What makes you think I wasn't trying?"  
+"Doctor, I do believe there's hope for you yet."  
+"I'm so relieved. Now, we have to get to the control room. Are you coming or not?"  
+"Well, who am I to question Julian Bashir, secret agent? Lead on."
+
+- Bashir and Garak, after Bashir shoots Garak
+
+"It's working just as you planned! You've done it, doctor."
+"Yes. But somehow, I didn't expect to win."
+
+- Falcon and Hippocrates Noah, after Bashir destroys the world
+
+"Interesting, you saved the day by destroying the world."
+"I bet they didn't teach you that in the Obsidian Order."
+
+- Garak and Bashir
+
+"There comes a time when a house has been so damaged by termites that you must not only kill the termites, but demolish the house and build again!"
+
+- Hippocrates Noah, explaining his reasons for destroying the world
+
+
+== Background information ==
+
+
+=== Story and script ===
+The producers were very wary of doing a "holodeck malfunction" story due to the number of times it had been done on The Next Generation, but writer Bob Gillan's pitch was so unique (using the transporter to 'store' the patterns of the crew in the holodeck matrix) that the producers decided it could make a good episode. (Star Trek: Deep Space Nine Companion, p. 294)
+The final draft script was submitted on 12 October 1995. [1](X)
+The episode's working title was "Untitled Holosuite". [2](X)
+
+
+=== Production ===
+
+Most Deep Space Nine episodes shot in seven days, with the occasional episode taking eight. "Our Man Bashir" took nine (with 23 October 1995 being the seventh day of shooting), and according to producer Steve Oster, it had the longest production of any single episode. The main reasons for this were elaborate stunts that took time to set up and reshoot after a take and a large number of complex sets, many of which presented their own unique problems. For example, when the crew arrived to begin shooting in Dr. Noah's lair, they immediately saw that the backdrop of the Himalayan Mountains had mountains with no snow on them, and as such, it had to be taken down and sent to the scenic crew to add snow, all of which, Oster points out, costs time and money. (Star Trek: Deep Space Nine Companion, p. 296)
+Winrich Kolbe commented: "A fifty thousand dollar set cost seventy-five thousand dollars because there was twenty-five thousand dollars worth of overtime and weekend work". (Cinefantastique, November 1996)
+Robert Blackman commented "The key costumer, Mary Ellen Bosché, and I had a great time, because of all the background, which unfortunately you don't get to see much of in the casino scene. We did a really amazing sort of Monte Carlo, International jet-setter, high roller deal, with lots of furs and fairly expensive rentals. In the shoot they looked pretty amazing, both men and women. African potentates and all manner of people. You can see some of them in the background if you look closely. They are sort of fuzzed out". (Outfitting Her Majesty's Secret Service, Star Trek: Deep Space Nine - The Official Poster Magazine, issue 9)
+Jay Chattaway composed the music for the episode. Chattaway commented: "I had to fight pretty hard to get to do that; normally holodeck-type shows you can't get too crazy on. Even "Fistful of Datas", the way I did those was I scored them in advance and brought in examples to a meeting and said this is what I'd like to do, this is how it would have to be done. And they said fine, you know, don't go crazy, keep it Star Trek, but put those elements in. The challenge on the James Bond thing was to do Bond and not infringe on the copyright. Once you pull something like that off and get good feedback about it they're a little bit less likely to want to put the clamps on". (The Music of Star Trek, p 165)
+Alexander Siddig and Nana Visitor had become romantically involved by the time this episode was filming.
+
+
+=== Reception ===
+Although Ronald D. Moore attempted to avoid directly referencing any of his primary influences, it seems that some names and situations skated a little too close for comfort. After this episode aired, the producers got an angry letter from MGM, the studio which holds the rights to the James Bond property. The DS9 Companion doesn't reveal the content of the letter other than to say, "apparently MGM did not find imitation to be the sincerest form of flattery." As such, in the fifth season episode "A Simple Investigation", which returns to Bashir's holonovel, the references to Bond are far more subtle. (Star Trek: Deep Space Nine Companion, p. 295)
+Alexander Siddig commented, I think 'Our Man Bashir' was probably one of the most important in terms of changing attitudes towards Bashir. I think that was probably one of the most-influential episodes. I don't know if it's one of the best, but it is certainly super-influential. I remember opinions began to change after that episode. So that would probably be an important one, historically." [3] Ron Moore concurred: "It was an important episode for Siddig's character. At the time, we were still trying to figure out how best to use Bashir and give him agency, because we cast such a talented and versatile actor to play this character. You want to service those talents and the character the best way you can. And I remember there was this sort of change in how Bashir was treated and perceived by the fans, at least in our experience, from that point on. And I think Siddig said as much in interviews at the time or whatever. It was really a key moment for the character, a fun turning point for him, that helped us as writers when it came to find more stories for him to do." [4]
+This is one of Nana Visitor's favorite Deep Space Nine episodes: "it was so much fun, that show was a joy to do. How many times, you know, is it a necessity to do a bad Russian accent? I was in heaven. It was ideal for me. And to come out of a wall in a round bed? It just doesn't get better than that." (Hidden File 03, DS9 Season 4 DVD special features)
+Andrew Robinson commented, "the James Bond spoof that we did, that was a lot of fun. It was hellacious to film, because I probably spent more hours in that makeup on that show than any other show. The show was a bear. They really were trying to make a James Bond movie, but it was an enormous amount of fun. And I thought that Winrich Kolbe, the director, did a wonderful job on it. Unfortunately, we ran afoul of the James Bond people, and we were going to do a lot of those, but that was the one and only". [5](X)
+Tor.com rated the episode as 9/10 [6] and Jammer rated it 3/4 stars. [7]
+
+
+=== James Bond homages ===
+Siddig commented: "It's 'The Spy Who Loved Me', 'From Russia with Love', 'Octopussy', and 'DS9' all rolled into one". [8]
+This episode is a homage to spy movies, particularly Ian Fleming's James Bond series. The title is a homage to the 1966 Daniel Mann film Our Man Flint, which itself is a parody of James Bond. It was Ronald D. Moore who decided to set the episode in a '60s spy thriller style setting. Other influences were the TV shows The Man from U.N.C.L.E. and The Wild Wild West, and the Matt Helm novels by Donald Hamilton. Moore commented: "It was a very ambitious episode, and the sets were amazing. Especially the evil villain's lair set. It was great to see the production value put into what was our version of, an homage to the classic volcanic lair-type sets that Ken Adams made back in the day. I mean, it was the closest thing you got to making a Bond movie... It was one of our more challenging shoots, too, if I recall. I had always loved the classic James Bond movies, I grew up with the Sean Connery films, so it was a great opportunity to combine a version of them with another thing I loved, which was Star Trek." [9]
+The line "Bashir. Julian Bashir." is a parody of "Bond. James Bond."
+The characters and situations of Bashir's holonovel are reminiscent of several Bond movies. In the holonovel, Hippocrates Noah plans to use lasers concentrated around Earth to cause a chain reaction that will flood the planet and allow him to start a new Human race on Mount Everest. Similarly, Moonraker features a billionaire who plans to poison Earth and start over in outer space, while The Spy Who Loved Me revolves around a plan to cause nuclear war and begin a new civilization under the sea. Dr. Noah himself evokes the theatrical version of Dr. Julius No, especially in terms of wardrobe (the Nehru jacket) and name – although the name is also a play on the Biblical Noah.
+Robert Hewitt Wolfe came up with the name of Anastasia Komananov, while Ira Steven Behr came up with Mona Luvsitt and Hippocrates Noah. (Star Trek: Deep Space Nine Companion, p. 295) Colonel Anastasia Komananov is a homage to the cliché of agents from opposing countries (most often Britain and the Soviet Union) falling in love with each other, usually found in spy films and parodies. Bond did this at least twice, with Tatiana Romanova in From Russia with Love and with Major Anya Amasova in The Spy Who Loved Me. Honey Bare, Colonel Anastasia Komananov and Mona Luvsitt are obvious references to Bond girls having names indicating sexual innuendo. This tradition dates back to Dr. No, which featured the name "Honey Ryder", played by Ursula Andress.
+Bashir uses a Walther PPK as his weapon, which is the signature weapon of James Bond. The episode features several period-correct (1964) firearms, including Bashir's blue-steel Walther PPK, which he brandishes but never fires, the henchmen's Walther P38s, which was a popular handgun in TV shows and movies of the period, and Falcon's actually quite historically accurate, Hi-Standard HDM(X) a .22 caliber automatic which was frequently equipped with an integral suppressor (though Falcon's is not) and used in assassinations. The least historically accurate is Dr. Noah's PPK, which is made from stainless steel, something not done before the 1980s.
+The character of Duchamps is a homage/parody of "Le Chiffre", the villain of the first Bond novel, Casino Royale. Both sport the same style of clothing, a French name, and a lust for playing cards. Inspiration might also have been drawn from "Emilio Largo", the antagonist of the film Thunderball, who also dressed in a white dinner jacket  and was second-in-command to the leader of a large criminal organization as well. Worf, as Duchamps, uses stun gas concealed in a cigar, a direct Bond homage to Anya Amasova in The Spy Who Loved Me, who disables Bond in exactly the same fashion, albeit with a cigarette, not a cigar.
+The opening champagne-gun scene (a story idea to use the champagne cork to knock out Falcon was Hans Beimler's) (Star Trek: Deep Space Nine Companion, p. 295) is a homage to a scene in Goldfinger just before the opening credits. In the movie, Bond enters the quarters of a beautiful woman who has just gotten out of a bath. Spotting an assassin in the iris of the woman, Bond throws the man into the tub and electrocutes him by knocking a heat lamp into it. Much like Bashir's witticism ("A lot of kick for a '45 Dom"), Bond says, "Shocking. Positively shocking." Besides this, Dom Pérignon is Bond's preferred champagne in many of the films.
+When Bashir describes his fall from the dirigible – "I had a parachute... and there was a submarine waiting for me" – this is more than likely a reference to The Spy Who Loved Me (in which Bond escapes to safety via parachute) and A View to a Kill (in which Bond finds a submarine waiting for him after a ski chase).
+This episode aired ten days after the release of GoldenEye, the first Bond film in six years, the first of the James Bond pictures to feature Pierce Brosnan and generally considered the picture that revived the then-dormant Bond franchise (which had gone quiet for a period thanks to legal issues between MGM and the Bond producers). In addition to being an interesting Bond homage in its own right, it was intended to capitalize on some of the Bond pre-release excitement.
+Bashir's game of baccarat, in which he wins the fee for a visit with Hippocrates Noah by assuming he can win Duchamps' money, is yet another Bond homage, for Bond frequently took similar risks and was fond of card games such as baccarat.
+At one point, Bashir warns Garak that the program is supposed to end with either Honey Bare or Anastasia Komananov dying and the other ending up with him. Yet another classic element of James Bond is that, although Bond usually has sex with several women over the course of a film, he often ends up with one of them in bed for the final scene (with the others either going back to their respective lives or dying).
+Another obvious homage to Bond is that Noah explains his plan in great detail shortly before he plans to kill Bashir – Bond villains have the tendency to do this. After Bashir floods the Earth intentionally ("You've destroyed ze vorld!" Anastasia exclaims), Noah observes that somehow he didn't expect to win.
+Noah tries to kill Bashir by tying Bashir and Garak to one of his lasers, which is set to flood the room with molten lava. This may have been a reference to Moonraker, for in that movie, the villain confines Bond and Holly Goodhead to an area below his rocket, intending to incinerate them when it launches. In any case, it is typical Bond style for the villain to pass up the chance for an "easy kill" and allow Bond a method of escape.
+Bashir escapes by convincing Honey Bare to switch sides by appealing to her femininity. Bond turning female accomplices to his side through aggressive sexual advances was a fairly common plot point in the films, most notably in Goldfinger. Even the later Bond films themselves would joke about this trope.
+At the end of the episode, Bashir tells Garak, "I think it's safe to say that Julian Bashir, secret agent, will return", which is a reference to the end credits of many Bond films which conclude with "James Bond will return..."
+Later episodes establish Bashir's friend Felix as the creator of his holographic programs, which may be a reference to Bond ally Felix Leiter, a CIA agent in the books and films.
+
+
+=== Continuity ===
+The fifth season episode "A Simple Investigation" indicated that Bashir continued to enjoy the Julian Bashir, Secret Agent series of holonovels. By the time of "Investigation", however, Bashir had involved other members of the senior staff in his fandom. In that episode, various members of the senior staff are shown to be volunteering to play various roles in one of Felix's follow-ups to the adventure seen in "Our Man Bashir". However, O'Brien is less than enthusiastic at having to play Falcon "again". Also, Bashir may have redesigned Komananov to actually look like Kira, as Vic mentions in "His Way" that he took Kira's image from Bashir's secret agent program.
+Komananov's confusion over Kira's name ("Who is this... Nerys Kira?") is one of the few instances in which the issue of Bajoran name order is addressed. Early on in the series, many fans were just as oblivious as Komananov to the fact that Bajoran surnames come first (it was first clarified in "Progress"), although it had been established in TNG: "Ensign Ro" prior to DS9's premiere. The name order is similar to Chinese and Hungarian names rendered in English, and thus although Kira's name is "Kira Nerys," "Kira" is the major's surname.
+Amid Rom's modifications to the holosuite systems, he mentions a spatula, and one of the pieces that can be clearly seen is a pot strainer, another kitchen utensil.
+The True Way is mentioned for the first time in this episode.
+47 appears (reversed) as Dr. Noah mentions he has 74 lasers deployed around the world.
+Cirroc Lofton (Jake Sisko) does not appear in this episode.
+This episode aired on the same day as VOY: "Resistance", which was also directed by Winrich Kolbe.
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Hairstyling for a Series (along with VOY: "Persistence of Vision") and Outstanding Music Composition for a Series (Jay Chattaway).
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 4.5, 13 May 1996
+As part of the DS9 Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Captain Sisko / Hippocrates Noah
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Michael Dorn as Lt. Commander Worf / Duchamps
+Terry Farrell as Lt. Commander Dax / Honey Bare
+Colm Meaney as Chief O'Brien / Falcon
+Armin Shimerman as Quark
+Alexander Siddig as Doctor Bashir
+Nana Visitor as Major Kira / Anastasia Komananov
+
+
+=== Guest stars ===
+Max Grodénchik as Rom
+Kenneth Marshall as Michael Eddington
+
+
+=== Special guest star ===
+Andrew Robinson as "Garak"
+
+
+=== Co-stars ===
+Melissa Young as Caprice
+Marci Brickhouse as Mona Luvsitt
+
+
+=== Uncredited co-stars ===
+Steve Carnahan as Club Ingenue maitre'd
+B.J. Davis as Falcon's henchman
+Pam DeMarche as Club Ingenue go-go dancer
+Kathleen Demor
+Steve Diamond as Bajoran command officer
+Judi Durand
+Suzanne Ircha as Club Ingenue go-go dancer
+Stuart Nixon
+Robin Ritter as sciences officer
+Steve Rizzo as Falcon's henchman
+Dan Rose as Bajoran ops officer
+Peter Singh as majordomo
+Mark Yerkes as Falcon
+Steve Yudson as Club Ingenue clientele
+Unknown performers as
+Club Ingenue croupier
+Two Club Ingenue servers
+Starfleet ops crewman
+
+
+=== Stunt doubles ===
+Dennis Madalone as stunt double for Colm Meaney
+Chester E. Tripp III as stunt double for Andrew Robinson
+Unknown stuntwoman as stunt double for Nana Visitor
+
+
+=== References ===
+20th century; 1945; 1955; 1964; anarchist; baccarat; baccarat player; balloon; biology; bomb; brandy; bruise; Cardassia; Cardassian; champagne; chemistry; Christmas; cigar; clipboard; club; Club Ingenue; colonel; command control system; computer; computer memory; copper; copper-ytterbium composite; core memory interface; decor; decorator; Defiant, USS; deflector; dilettante; dirigible; Dom Pérignon; earring; Earth; Earth Cold War; ego; era; eyepatch; Federation; flesh wound; franc; geologist; geology; glasses; Great Britain; handcuffs; heart; helicopter; High Standard HDM; holo-imaging array; holosuite; holosuite memory core; Hong Kong; Iceland; impulse engine; intelligence agent; jet; jet-setter; Julian Bashir, Secret Agent; KGB; kiss; Kowloon; lab coat; laser; magnetic interlock; mantle; martini; Mauser C96; Merriweather, Patrick; money; Mount Everest; Nambu pistol; nation-state; neural energy; New York City; nightmare; Obsidian Order; Orinoco, USS; parachute; Paris; pattern buffer; physics; plasma; plasma coil; plasma conductor; primary energizing coil; professionalism; quantum level; replicator; retreat (location); ruby; runabout; Russian; sapphire; secret agent; seismology; separatist; shoe gun; South America; spatula; Starfleet; Starfleet Command; submarine; suspenders; suspect; termite; Tibetan plateau; time period; topaz; tourist; tourmaline; transporter; transporter accident; transporter beam; transporter pattern; tricorder; True Way; visionary; Vladivostok; Walther P38; Walther PP; warp core; warp core breach; ytterbium
+
+
+==== Deleted scenes reference ====
+Tholian ambassador
+
+
+=== External links ===
+"Our Man Bashir" at Memory Beta, the wiki for licensed Star Trek works
+"Our Man Bashir" at Wikipedia
+"Our Man Bashir" at MissionLogPodcast.com
+"Our Man Bashir" at the Internet Movie Database
+"Our Man Bashir" script at Star Trek Minutiae

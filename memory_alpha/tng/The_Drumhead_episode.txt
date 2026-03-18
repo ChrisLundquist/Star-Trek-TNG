@@ -1,0 +1,276 @@
+An overzealous Starfleet admiral begins a witch-hunt aboard the Enterprise, determined to find a conspiracy, and eventually accuses Captain Picard of treason.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 44769.2. For some weeks we have had a Klingon exobiologist on board as part of a scientific exchange program. Unfortunately, we suspect that he was involved in a security breach and in the possible sabotage of our warp drive."
+On Stardate 44765.2, a dilithium chamber hatch explodes aboard the USS Enterprise-D and sabotage is suspected. The explosion coincides with reports that the Romulans have gained access to information about the Enterprise's dilithium articulation frame a week later, indicating that there is a spy on board. A quick investigation turns up one suspect – a Klingon exchange officer named J'Dan, but upon being interrogated by Riker and Troi, he strongly denies any involvement. As Worf escorts him to his quarters, J'Dan asks for aid as a fellow Klingon by asking Worf to escort him to a shuttlecraft to escape and, in return, would help to restore Worf's honor through powerful friends he has. Worf angrily rebuffs his request and tells him that he will find out the truth, and once the Klingon High Council learns of the incident, J'Dan will be put to a slow death as a traitor.
+
+
+=== Act One ===
+"Captain's log, supplemental. Retired Admiral Norah Satie, whose investigation exposed the alien conspiracy against Starfleet Command three years ago, is arriving to assist in our inquiry."
+Starfleet Command sends retired Admiral Norah Satie and her assistants – including Sabin Genestra, who is a Betazoid – to expedite the proceedings. Satie gets right to work, and Picard escorts her to engineering, where Geordi La Forge and Data relate their findings on the explosion. Data reports to Picard that it will take 49 hours to gain access to the warp core at the current rate of decreasing radiation levels beyond the isolation door. La Forge offers to play back the sensor log for the admiral. It initially appears to be sabotage, as all logs indicated normal operations 52 milliseconds before the incident, and the articulation frame was indeed the culprit. She sees there is something to investigate and wants a full briefing.
+Later, as Satie and Picard talk in his ready room, Worf arrives with his finding of J'Dan's hyposyringe in his room, modified to scan and resequence classified information into biological tags for transport on an injected body; J'Dan covers this by the fact that he has Ba'ltmasor Syndrome, which requires weekly injections and thus, would easily hide the transfer of information. With this evidence against him, J'Dan readily admits his crime, confessing that he believes the alliance with the Federation has made the Klingons weak and that the Romulans are stronger and would be better allies. Despite his confession, he adamantly maintains his innocence in the explosion. However, Satie is still unsatisfied, and Sabin says he believes J'Dan is now telling the truth; they are convinced that J'Dan could not have been working alone.
+
+
+=== Act Two ===
+In the admiral's quarters, Satie and Picard discuss the current situation with J'Dan and his possible sabotage. Satie admits that when Starfleet ordered her to the Enterprise to participate in the investigation, it was expressly stated that she and the captain were to be equals. She was initially reluctant, as her father, Judge Aaron Satie, had always advised her to avoid partnerships. Picard expresses his admiration for Judge Satie's decisions, as those judgments were required reading when he attended the Academy. Satie states she and Picard will be quite a team.
+
+In the observation lounge, Genestra and Worf look over the people J'Dan had contact with on the Enterprise, but the Klingon apparently did not make many friends on board, narrowing their search of possible collaborators. Genestra compliments Worf on his thorough investigation. However, Genestra tells him that he and Satie initially suspected he could have possibly been a security risk due to his father Mogh having been declared a traitor for betraying his people to the Romulans. Worf strongly declares that what his father did or did not do is no one's business but his own. Genestra assures Worf that he has the admiral and his complete confidence. Worf assuredly states, "If there is a conspiracy on board, I promise you I will find it." With that, he begins arranging interviews.
+Admiral Satie then begins an inquiry into all personnel and passengers on the Enterprise with whom J'Dan has come into contact with during his stay. When she questions young crewman and medical technician Simon Tarses, Sabin senses great fear and guilt from Tarses, as if some sort of lie is consuming him. He believes they've found J'Dan's co-conspirator.
+
+
+=== Act Three ===
+
+Picard refuses to restrict Tarses' movements based solely on Genestra's Betazoid intuition. Before a consensus can be reached, he and Satie are called to engineering by La Forge and Data; the radiation levels preventing them from entering the chamber – caused by the explosion – have now dropped low enough for them to enter safely, and their examination shows no foul play had been involved. The explosion was caused by simple neutron fatigue along an undetectable defect in a hatch cover that was installed during the ship's last refit at Earth Station McKinley, making it an accident that just happened to coincide with the theft of the chamber's plans rather than sabotage.
+But Satie and Genestra are unconvinced by this, still believing Tarses was a co-conspirator with J'Dan since they don't think J'Dan could have come aboard the Federation flagship and accomplished what he did without help from within. Another inquiry against Tarses is launched on Stardate 44780, this time open to the public, and he is barraged with numerous accusations to try and establish his guilt, including a lie that the explosion was caused by corrosive chemicals stored in sickbay, which he had access to, and the exposure of the lie Tarses himself tried to keep hidden: that he put false information about his parentage in his Academy admission form, stating that his paternal grandfather was Vulcan when, in fact, he was Romulan. Overwhelmed, Tarses invokes the Seventh Guarantee of the Constitution of the United Federation of Planets to decline to answer further questions to avoid self-incrimination, on the counsel of Commander Riker.
+
+
+=== Act Four ===
+Picard, seeing Worf instruct several security officers in an investigation into Tarses' background and associates, tells him he feels that Satie is engaging in a drumhead trial, a xenophobic witch-hunt. Though they already had a confessed spy, who will answer for his crime, Picard argues that just because Tarses refused to answer regarding his Romulan heritage, they could not just disregard the Seventh Guarantee, a fundamental principle of the Constitution, and infer his guilt. Worf remains unrelenting, refuting that they have to root out the Federation's enemies. Picard warns that "The road from legitimate suspicion to rampart paranoia can be shorter than we think."
+After talking with Tarses and establishing that his lying on his application was his only misdeed, Picard confronts Satie and demands that the hearings be put to rest, threatening to go over her head and complain directly to Starfleet Command if necessary. Satie rebuffs him and reveals she has been in full contact with Starfleet Command since the beginning of the investigation and they fully approve of her methods. In fact, Admiral Thomas Henry of Starfleet Security will be coming aboard to witness the next and all subsequent hearings until the conspiracy is solved. In other words, the interrogations will not be stopped; they will be expanded. As Satie turns to leave the ready room, Picard tells the admiral that what she is doing is unethical and immoral, and he will fight it. Satie tells the captain he should do what he must – and so will she.
+Later, Picard is on the bridge, distracted, when Data informs him that the warp engines have been restored and they are ready to begin restart sequences. Going over to sit in his chair, Riker asks Picard if he is all right. Picard tells his first officer that he is fine, just a little preoccupied at the moment. Unfortunately, because of his outspokenness against them, Picard receives a summons delivered by Nellen Tore, Satie's assistant, to appear tomorrow morning at 0900 hours before the committee for questioning.
+
+
+=== Act Five ===
+"Captain's log, supplemental. Admiral Thomas Henry, who has worked closely with Norah Satie in the past, has arrived to observe the hearings."
+At his interrogation, Picard makes an opening statement in an attempt to appeal to Satie's sense of reason and convince her to end the hearings, but he is met with a thorough and borderline irrelevant nitpicking of his competency and loyalty to Starfleet and the Federation. First, Satie brings up that Picard had violated the Prime Directive a total of nine times since he was given command of the Enterprise, to which Picard had stated he was already aware of, since his reports to Starfleet had documented the circumstances of each violation. Next, Sabin brings up the events of Stardate 44390.1: when Picard delivered a supposed Vulcan ambassador named T'Pel to the Romulan Neutral Zone, and it turned out that she was actually a Romulan spy who was being delivered back to the enemy. Satie highlights the fact that Picard had willingly let T'Pel go, despite knowing that she had classified information from the Federation.
+Worf, who up until this point had sided with Satie, realizes where the hearing is going and attempts to defend his captain, stating that the Enterprise was outnumbered by many Romulan warbirds, and Picard did the only thing he could do. Worf is rebuffed for how he had security do nothing during the spy's stay on the Enterprise and for accusations of his father's supposed betrayal to the Romulans, at which Picard calmly restrains Worf. Satie then questions Picard about his past experience as a Borg, along with his role in the massacre at Wolf 359. Picard finally responds to the accusations laid against him by quoting her father's famous words about the dangers of denying basic rights to one man in the name of protection.
+Enraged at this invocation of her father's name, Satie abruptly rises from her chair and interrupts Picard, accusing him of treason and conspiring with the Romulans. She calls men like him a threat to the entire Federation, whom it is her job to seek out and destroy, and warns him that she has "brought down bigger men than you!" At this point in her tirade, Admiral Henry, with a visible expression of disgust at Satie, gets up and wordlessly leaves the room, bringing an informal end to the interrogation. Embarrassed, Sabin declares a recess until the following day, and the room empties quickly, leaving Satie alone, shaken. By turning her father's words back on her, Picard has goaded her into revealing the depth of her fanaticism and paranoia in front of an audience, severely damaging her credibility, possibly permanently.
+
+Later on, in the ship's conference lounge, Picard is informed by Worf that Admiral Henry has officially called an end to the hearings and that Satie has departed the Enterprise. Though it is unlikely that she will ever be trusted with such authority again, Worf cannot help feeling guilty for having been deluded into aiding her cause without realizing what she was and what she stood for. Picard, however, sees it as a learning experience; such enemies who cloak their misdeeds with the pretense of serving a greater good are often very difficult to spot. Although it is very unlikely Satie will ever be trusted again, people like her are always waiting in the wings for the time to strike and spread fear and mistrust in the name of righteousness, and, as Picard tells Worf, continual vigilance against them is "the price that [they] must pay" to maintain their freedom.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701-D), 2367
+
+
+== Memorable quotes ==
+"The blood of all Klingons has become water! Ever since the Federation Alliance, we have turned into a nation of mewling babies! The Romulans are strong; they are worthy allies! They do not turn Klingons into weaklings like you!" (hints at Worf)
+
+- J'Dan, admitting his guilt of the information smuggling to the Romulans
+
+"Captain, I predict that officer will be extremely valuable in this investigation."
+
+- Norah Satie, to Picard about Worf
+
+"Admiral. I have to tell you; you must not expect me to permit any action against Mr. Tarses solely on the basis of Betazoid intuition."
+"Sabin has uncanny instincts. I've learned to trust them."
+"I'm not happy about this use of a Betazoid."
+"But you have a Betazoid counselor. Surely, you're aware of the advantages."
+"There is a difference between a counselor and an investigator."
+"Are you saying you never use your counselor during interrogations?"
+"Yes, I do… but I would not act solely on the basis of her instinct."
+"Nor do I."
+"But you're asking… you're asking me to restrict Mr. Tarses' movements solely on the basis on Sabin's feeling."
+"If Counselor Troi suggested to you that someone on the ship were dangerous, would you not act on that? Observe him? Curb his activity?"
+"Yes, I admit I probably would, and perhaps I should re-evaluate that behavior.
+
+- Picard and Norah Satie, on the ethics of Betazoid intuition
+
+"Mr. Tarses, didn't you deliberately and pre-meditatively lie when you filled out your personnel application and compounded that lie by repeating it to this committee?"
+"What?!"
+"Isn't it true that the paternal grandfather of whom you speak was not a Vulcan, but was in fact a Romulan? That it is Romulan blood you carry and a Romulan heritage that you honor?" (Riker whispers something in Simon's ear) "We're waiting, Mr. Tarses!"
+"On the advice of my counsel… I refuse to answer that question in… in that the answer might… might serve to incriminate me."
+
+- Sabin Genestra and Simon Tarses
+
+"But we know there is a traitor here. J'Dan has admitted his guilt."
+"That's true, and he will stand for his crime."
+"Tarses has all but done the same."
+"How?"
+"He refused to answer the question about his Romulan grandfather."
+"That is not a crime, Worf! Nor can we infer his guilt because he didn't respond."
+"Sir, if a man were not afraid of the truth, he would answer."
+"Oh, no. We cannot allow ourselves to think that. The Seventh Guarantee is one of the most important rights granted by the Federation. We cannot take a fundamental principle of the Constitution and turn it against a citizen!"
+
+- Worf and Picard, on Tarses' "guilt"
+
+"Sir, the Federation does have enemies! We must seek them out!"
+"Oh, yes. That's how it starts. But the road from legitimate suspicion to rampant paranoia is very much shorter than we think. Something is wrong here, Mr. Worf; I don't like what we have become!"
+
+- Worf and Picard
+
+"Captain, may I tell you how I've spent the last four years? From planet to starbase to planet. I have no home. I live on starships and shuttlecraft. I haven't seen a family member in years. I have no friends. But I have a purpose. My father taught me from the time I was a little girl still clutching a blanket that the United Federation of Planets is the most remarkable institution ever conceived. And it is my cause to make sure that this extraordinary union be preserved. I cannot imagine why you are trying to block this investigation. There have been others in the past who doubted me. They came to regret it."
+
+- Norah Satie, trying to explain to Picard her reasons for deepening her investigation
+
+"The hearings on Simon Tarses will stop. If necessary, I will go to Starfleet Command."
+"I have news for you, Captain. I've been in constant contact with Starfleet Command. The hearings are not going to stop. They're going to be expanded."
+"What are you saying?"
+"I'm going to get to the heart of this conspiracy if it means investigating every last person on this ship. And every hearing, from now on, will be held in the presence of Admiral Thomas Henry of Starfleet Security. I've requested he be brought here at once."
+"You never told me about this."
+"I report to Starfleet Command directly. I do not need your permission or your approval for my decisions."
+"Admiral, what you're doing here is unethical. It's immoral. I'll fight it."
+"Do what you must, Captain… and so will I."
+
+- Jean-Luc Picard and Norah Satie, on the ongoing paranoia-filled investigation
+
+"I'm deeply concerned about what is happening here. It began when we apprehended a spy, a man who admitted his guilt and who will answer for his crime, but the hunt didn't end there. Another man, Mr. Simon Tarses, was brought to trial, and it was a trial, no matter what others choose to call it. A trial based on insinuation and innuendo. Nothing substantive offered against Mr. Tarses, much less proven. Mr. Tarses' grandfather is Romulan… and for that reason, his career now stands in ruins. Have we become so… fearful, have we become so cowardly, that we must extinguish a man because he carries the blood of a current enemy? Admiral, let us not condemn Simon Tarses, or anyone else, because of their bloodlines, or investigate others for their innocent associations. I implore you, do not continue with this proceeding. End it now."
+
+- Picard, trying to appeal to Norah Satie's sense of morality
+
+"You know, there are some words I've known since I was a schoolboy: 'With the first link, the chain is forged. The first speech censured… the first thought forbidden… the first freedom denied – chains us all irrevocably.' Those words were uttered by Judge Aaron Satie, as wisdom… and warning. The first time any man's freedom is trodden on, we're all damaged. I fear that today–"
+"How dare you! You who consort with Romulans, invoke my father's name to support your traitorous arguments? It is an offense to everything I hold dear! And to hear those words used to subvert the United Federation of Planets! My father was a great man! His name stands for integrity and principle! You DIRTY his name when you speak it! He loved the Federation! But you, Captain, corrupt it! You undermine our very way of life! I will expose you for what you are! I've brought down bigger men than you, Picard!!"
+
+- Picard, quoting Judge Aaron Satie, and Admiral Satie, angrily ranting at him for it
+
+"We think we've come so far. Torture of heretics, burning of witches, it's all ancient history. And then, before you can blink an eye, suddenly, it threatens to start all over again."
+"I believed her. I-I helped her! I did not see what she was."
+"Mr. Worf, villains who twirl their mustaches are easy to spot. Those who clothe themselves in good deeds are well-camouflaged."
+"I think, after yesterday, people will not be so ready to trust her."
+"Maybe. But she or someone like her will always be with us, waiting for the right climate in which to flourish – spreading fear in the name of righteousness. Vigilance, Mr. Worf. That is the price we have to continually pay."
+
+- Picard and Worf, discussing both the investigations and the misguidedness of Admiral Satie
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 7 February 1991 [1]
+Filmed: 19 February 1991 – 27 February 1991
+Premiere airdate: 29 April 1991
+First UK airdate: 9 November 1994
+
+
+=== Story and script ===
+
+"The Drumhead" was conceived as a money-saving installment for the series. The studio suggested a clip show. Michael Piller and Rick Berman, however, both despised the idea, as neither wanted a repetition of the "Shades of Gray" approach. Piller commented on clip shows, "We think they're insulting to the audience. They tune in and then you create this false jeopardy and then flashback as their memory goes back to the wonderful time they had before they got trapped in the elevator and all that bullshit." They persuaded the studio to avoid a clip show while still producing an episode that was under budget – a bottle show. (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 219-220)
+Jeri Taylor wrote the script based on a story idea Ronald D. Moore had proposed called "It Can't Happen Here." Taylor's aim was to show that witch-hunts, along the lines of US Senator Joseph McCarthy's Communist hearings and the Salem witch trials, could happen even in the enlightened 24th century if individual liberties and freedoms were breached, even if only slightly, in the name of preserving the Federation. She remarked, "It's a very provocative story and one which is a little darker than some of the others." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 219-220)
+
+
+=== Production ===
+
+"The Drumhead" was filmed between Tuesday 19 February 1991 and Wednesday 27 February 1991 on Paramount Stage 8 and 9.
+The episode finished US$250,000 under budget. (Star Trek: The Next Generation Companion, 2nd ed., p. 163)
+According to director Jonathan Frakes, several shots from the episode were "stolen" from courtroom films including Judgment at Nuremberg, the 1961 Stanley Kramer film starring William Shatner, and The Caine Mutiny. (Departmental Briefing, Year Four: Production, TNG Season 4 DVD special features)
+Jonathan Frakes had previously appeared with Jean Simmons on North and South. He described being able to cast her in this episode as a dream come true. To Frakes' surprise, he learned that Simmons was a "monstrous Trekkie". (Star Trek: The Next Generation 365, p. 204)
+This was the final episode to have music composed by Ron Jones. Jones was fired shortly afterward for repeatedly arguing with Rick Berman and Peter Lauritson over what type of music was thought to be appropriate for the series. Berman subsequently asked Dennis McCarthy if he would be willing to act as the sole music composer for the series, but McCarthy turned the offer down, citing that the resulting workload (including his non-Trek projects) would be too much for him, and so Berman brought Jay Chattaway on-board as Jones' replacement. (Cinefantastique October 1993)
+A scene which was filmed on Friday 22 February 1991 was deleted from the final episode. According to the call sheet, the scene would be 12-14 in sickbay and feature Gates McFadden, Michael Dorn, Spencer Garrett, and regular background performers Michael Braveheart and Bowman.
+The release of this episode on Star Trek: The Next Generation (Blu-ray) features 2 seconds of standard definition footage upconverted to high definition.
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+The events of "Conspiracy", "Sins of The Father", "The Best of Both Worlds", "The Best of Both Worlds, Part II", "Family", and "Data's Day" are referenced in this episode. It reveals that thirty-nine Federation starships were annihilated, and eleven thousand personnel were lost at the Battle of Wolf 359.
+As "All Good Things..." later establishes, it was Norah Satie who initially "requested and required" Jean-Luc Picard to take command of the Enterprise when he first received that assignment. This fact is not mentioned in this episode.
+Neither the Excelsior-class starship nor the Oberth-class starship seen in this episode are named in either the episode or the script. The identification of the Oberth-class ship as the USS Cochrane is derived from the Star Trek: The Next Generation Companion, 2nd ed., p. 163.
+This episode shares a common theme, the danger of sacrificing freedom for security, with the Star Trek: Deep Space Nine two-parter "Homefront"/"Paradise Lost".
+This is the second appearance of the interrogation room set after "The Defector". It is a modification of the bridge of the original USS Enterprise as seen in the first three movies.
+A long time extra, Ensign Kellogg, played by Cameron, is finally named in this episode during Worf's briefing with his security officers.
+This is the only time in the run of the series that the inner isolation door in main engineering is seen; normally the outer door is seen after a warp core breach.
+This episode establishes the technology of genetically encoding secret information in order to be carried discreetly inside a carrier's body. A similar technology is seen to be used by the Suliban Cabal to Klaang in ENT: "Broken Bow".
+Crewman Tarses mentions that his tour of duty aboard the Enterprise started on Stardate 43587, which would place it between the events of "Deja Q" and "A Matter of Perspective".
+
+
+=== Reception ===
+In the Star Trek: The Next Generation Companion, 2nd ed., p. 163, Jeri Taylor names this episode's script as the one of which she was proudest.
+This is one of Michael Dorn's two favorite TNG episodes, the other being "The Offspring". [2]
+Jonathan Frakes has also named this episode as one of his favorites, in part for the chance to work with Jean Simmons. (Departmental Briefing, Year Four: Production, TNG Season 4 DVD special features.) He commented, "I've always thought she was arguably the classiest, most significant actor we had on the series. She was wonderful in the scenes with Patrick [Stewart]. And she was still so gorgeous." (Star Trek: The Next Generation 365, p. 204)
+In contrast, author Keith R.A. DeCandido is not fond of the episode. In an online review, he gave the episode a "warp factor" rating of 3 out of 10. He criticized the script for "stacking the deck" against the character of Satie and called the climax of the episode "awful". He stated, "[I]n the end, we get this strong-willed, powerful, respected woman who is bound and determined to save the Federation at all costs – that is, until Picard quotes her father, at which point she turns into a crazed, blubbering mess. And then, all of a sudden, it's over." Fellow author Christopher L. Bennett disagreed, remarking, "[T]his has always been an episode I've admired. It is a valuable message story, and a nice touch of imperfection in the often too-perfect Federation of TNG." He added, "It may seem heavy-handed, but that's because that's how it really works. What Senator McCarthy and HUAC did was so heavy-handed and irrationally excessive that nobody would believe it in a story if it hadn't really happened." [3]
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 17, pp. 17-20.
+
+
+=== Video and DVD releases ===
+Original UK VHIS release (two-episode tapes, CIC Video): Volume 48, June 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 4.7, 3 September 2001
+
+As part of the TNG Season 4 DVD collection
+As part of the TNG Season 4 Blu-ray collection
+As part of the Region 1 edition of the Star Trek: The Next Generation - Jean-Luc Picard Collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Bruce French as Sabin Genestra
+Spencer Garrett as Simon Tarses
+Henry Woronicz as J'Dan
+Earl Billings as Thomas Henry
+And
+Jean Simmons as Admiral Satie
+
+
+=== Co-star ===
+Ann Shea as Nellen
+
+
+=== Uncredited co-stars ===
+Arratia as Alfonse Pacelli
+Rachen Assapiomonwait as Nelson
+Joe Baumann as Garvey
+Karin Baxter as operations ensign
+Michael Braveheart as Martinez
+Debbie David as Russell
+Cameron as Kellogg
+Cooper as Reel
+Denise Deuschle as sciences officer
+Jeremy Doyle as operations ensign
+Elliot Durant III as operations ensign
+Michele Gerren as sciences officer
+D. Kai as sciences officer
+Kast as command officer
+Mark Lentry as civilian
+Marin as command officer
+Jeri McBride as sciences officer
+Tim McCormack as Bennett
+Michael Moorehead as sciences ensign
+Randy Pflug as Jones
+Keith Rayve as command ensign
+Richard Sarstedt as command ensign
+Noriko Suzuki as operations ensign
+Guy Vardaman as Darien Wallace
+Natalie Wood as Bailey
+Unknown performers as
+Civilian woman
+Female operations officer
+Female sciences officer
+Female transporter operator
+
+
+=== Stand-ins ===
+Brett — stand-in for LeVar Burton
+Nora Leonhardt — stand-in for Marina Sirtis
+Tim McCormack — stand-in for Brent Spiner and Bruce French
+Lorine Mendell — stand-in for Gates McFadden and Ann Shea
+Josephine Parra — stand-in for Jean Simmons
+Richard Sarstedt — stand-in for Jonathan Frakes and Earl Billings
+Dennis Tracy — stand-in for Patrick Stewart
+Guy Vardaman — stand-in for Henry Woronicz and Spencer Garrett
+James Washington — stand-in for Michael Dorn
+
+
+=== References ===
+19th century; 2362; 2363; 2364; accident; accusation; admiral; advice; alliance; ally; ambassador; amino acid sequence; "ancient history"; appeal; argument; article; assistant; associate; atomic cohesive structure; baby; background check; Ba'ltmasor Syndrome; Battle of Wolf 359; battlefield; beard; behavior; bench; Betazed; Betazoid; blast pattern; blood; bloodline; bloodstream; body; bomb; Borg; brevity; briefing; burning; career; case; censure; chain; chance; chapter; chief security officer (security officer); choice; citizen; classroom; Cochrane, USS; coincidence; collaborator; committee; communicator; computer; conclusion; confidence; confined to quarters; conspiracy; Constitution of the United Federation of Planets; conversation; corner; counsel; counsellor; crewman; crime; criminal; Cruces system; damage; death penalty; debate; debris; deception; Delb II; Delbian; deoxyribose suspension; destruction; device; Devoras; dilithium articulation frame; dilithium chamber; dilithium chamber hatch; dinner table; drum; drumhead trial; Earth Station McKinley; elm; emergency confinement field; encephalographic polygraph scan; enemy; engine room; enlisted personnel; evidence; Excelsior-class; exobiologist; experience; explosion; fear; Federation; feeling; file; flagship; fluid; "for the record"; fragment; freedom; friend; Galaxy class decks; glory; good deed; grandfather; guest; guilt; hatch; hatch casing; hatch cover; hatch mounting; head of security; hearing; heart; Henry's transport; here and now; heretic; heritage; home; honor; hour; Human; hundred; hunt; hypospray; hyposyringe; idea; identification; immorality; "inch by inch"; information; injection; innuendo (insinuation); innocence; inquiry (informal inquiry); institution; integrity; interrogation (questioning); interrogation room; interview; intuition (instinct); investigation; investigator; isolation door; isolinear chip (optical chip); J'Dan's powerful friends; job; judge; judgment; Klingon; Klingon-Federation Alliance; Klingon High Council; knowledge; lemon; liar; lie (lying); lieutenant; list; location; logic; loyalty; malfunction; Marcus; Mars Colony; mass spectrometer; matter-antimatter reaction assembly; medical technician; metal; microtomographic analysis; Midsummer Night's Dream, A; military officer; millisecond; mistake; Mogh; mustache; name; nation; neutron fatigue; night; number one; Oberth-class; "off the record"; Officer Exchange Program; online; opportunity; optical chip reader; order; "out of my element"; outpost; parade grounds; parameter; paranoia; parasitic being; partnership; paternal; permission; person; personnel application; petaQ; plan; planet; power; premeditation; price; Prime Directive; principle; problem; propulsion system file; protein; punishment; Qo'noS; question; radiation burn; radiation level; rank; reason; recess; referee; "refresh your memory"; relationship; relative (family member); report; residue; restart sequence; retirement; right; righteousness; roach; road; Romulan; Romulan Neutral Zone; rumor; sabotage; saboteur; Satie, Aaron; Satie's brothers; schematic; schematic drawing; scientific exchange program; security breach; security clearance; security risk; sensor log; Seventh Guarantee; shuttlecraft; sleep; social gathering; spectator; spectrometer; speculation; spy; statement; star; starbase; Starfleet; Starfleet Academy; Starfleet Command; Starfleet record; Starfleet Security; starship; stopwatch; sub-micron fracture; summary justice; surveillance; suspicion; suspension; tactic; Tarkanian; Tarkanian diplomat; Tarses' brother; Tarses' friends; Tarses' mother; Tarses' assignments; Tarses' outposts; Tarses' Romulan grandfather; tea; theory; thought; thousand; top secret; torture; T'Pel; training; training drill; training program; traitor; trial; tricorder; truth; turbolift; Uniform Code of Justice; union; victim of circumstance; villain; visual log; Vulcan; warp drive (warp engine); warrior; water; weakling; week; witch; word; year
+
+
+==== Unused production references ====
+Dagget
+
+
+=== External links ===
+"The Drumhead" at Memory Beta, the wiki for licensed Star Trek works
+"The Drumhead" at Wikipedia
+"The Drumhead"" at MissionLogPodcast.com
+"The Drumhead" script at Star Trek Minutiae
+"The Drumhead" at the Internet Movie Database

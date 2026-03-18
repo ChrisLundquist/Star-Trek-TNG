@@ -1,0 +1,234 @@
+Tuvok is plagued by the senselessness of a murder aboard Voyager.
+
+
+== Summary ==
+
+
+=== Teaser ===
+In Chez Sandríne, Tom Paris offers to make a pool game with Harry Kim "interesting" by betting one week's worth of replicator rations on the outcome of the game, but Ricky warns Kim that Paris is hustling him. Instead, Paris starts a lottery-style game with the patrons of Chez Sandríne, wherein the players bet replicator rations and the player who correctly guesses the radiogenic particle count at 1200 hours wins the entire pot – "minus a small handling fee for the bank, of course."
+In main engineering, Ensign Hogan has traced a problem with the warp drive to a malfunction in one of the EPS conduits. According to Crewman Suder, there had been nothing wrong with the conduit the day before. B'Elanna Torres goes to investigate.
+In the mess hall, Neelix tries to impress Tuvok with his knowledge of Vulcan holidays, much to Tuvok's dismay. Neelix declares that he will not rest until he sees Tuvok smile. Tuvok answers, "Then you will not rest." Just as Neelix suggests bringing back the ancient pagan festival of Rumarie, Torres urgently calls Tuvok to engineering.
+In engineering, Torres has found the body of Crewman Darwin in the damaged EPS conduit.
+
+
+=== Act One ===
+In sickbay, The Doctor tells Tuvok that if the EPS conduit hadn't failed, Darwin's body would have been vaporized. Instead, Darwin received third degree plasma burns to 98 percent of his body. Tuvok supposes that Darwin had entered the conduit to repair it, but The Doctor shows Tuvok a contusion on the base of Darwin's skull. Tuvok then supposes that Darwin fell and hit his head while working on the conduit, but The Doctor says that the coup-contrecoup pattern of breakage on the wound indicates a moving object striking a stationary head, not the reverse. He rules Darwin's death a homicide.
+In Janeway's ready room, Tuvok discusses Darwin's murder with Janeway and Commander Chakotay. Tuvok notes that Darwin had no enemies and that there is no obvious motive for the crime. As Janeway is reviewing Darwin's Starfleet record, Torres arrives with last night's engineering duty logs and reports that Suder was the only person in engineering when Darwin came on duty. Torres and Chakotay tell Janeway and Tuvok that while Suder was, like most Betazoids, normally quiet and unassuming, he seemed a little too eager to kill when he was in the Maquis during times of combat. Chakotay even goes as far to suggest that while many Maquis members joined to protect their homes and family, Suder seemed to be there so he could solely go into battle. Having once just survived a firefight together, Suder had turned to Chakotay, who could see in Suder's eyes that he fully intended to kill him, but then backed down. Tuvok feels that this information should have been included in Suder's crew evaluation, but Chakotay says that he isn't in the habit of including hunches in his reports, and that he didn't want to make life on USS Voyager more difficult for his Maquis crew than it was in the beginning.
+Tuvok calls Suder to his office for questioning. Suder claims that he was running a fuel consumption analysis for Torres at the time of the murder, and insists that he did not murder Crewman Darwin. Tuvok dismisses Suder, and The Doctor calls him to sickbay again.
+The Doctor shows Tuvok DNA retrieved from Darwin's head wound by nanites he designed to recognize unusual DNA patterns. The nanites found DNA that didn't belong to him, and therefore must belong to the murderer. He hands Tuvok a PADD with the murderer's identity.
+Tuvok shows Suder the DNA evidence and reminds him that under Starfleet Directive 101, he does not have to answer any questions and is allowed the benefit of counsel, but Suder doesn't see any point in continuing to lie, so he confesses to the crime and tells Tuvok where he hid the murder weapon, a two-kilogram coil spanner. He had intended for the EPS conduit to vaporize Darwin's body, but figures that he must have damaged it when he put the body in. Tuvok asks for the motive, and Suder responds, "No reason." Tuvok refuses to accept that answer, so Suder offers, "I didn't like the way he looked at me." Tuvok has Suder escorted from his quarters by a Voyager security officer while he contemplates the crewman's answer.
+
+
+=== Act Two ===
+In sickbay, The Doctor confirms that the coil spanner is indeed the murder weapon, but Tuvok cannot close the case until he understands the motivation for the crime. Tuvok asks if Suder could be psychotic. Kes reports that all of Suder's genetic markers are normal and that he has no tendency toward bipolar disorder, but that he has elevated norepinephrine levels, indicating aggressive or violent tendencies. The Doctor notes that these results are not significantly different from those of the other Maquis crewmen and reminds Tuvok that everyone, even Vulcans, have violent instincts and while most people can easily keep them under control, it seems that Suder cannot... indeed, he may be telling the truth that a simple look from Darwin was enough to cause Suder to lose what little control he has. Tuvok still isn't satisfied.
+Tuvok visits Suder in the brig with Ayala guarding him, and questions him again about his motive, and Suder gives him the same answer as before. Suder asks Tuvok what his punishment will be, and says that he knows what he would do in Janeway's position – "I guess I'm lucky. The Federation doesn't execute people."
+Tuvok leaves the brig, but returns shortly afterward and suggests a mind meld with Suder, believing it will give him the answer he seeks and will also give Suder some of his Vulcan control. Suder agrees, and Tuvok performs the meld.
+
+
+=== Act Three ===
+In Sandríne's, nobody has won Paris' "radiogenic sweepstakes". Kim is unamused, and notes that Paris is the only person who wins every day. As Kim and Paris leave the holodeck, Paris considers out loud what he will replicate for lunch, thinking of adding a raktajino with whipped cream to drink.
+Tuvok tells Janeway about his mind meld with Suder, and reports that Suder was being truthful – he has an incredibly violent nature, with no outlet to express it, and he simply lost control. Janeway and Tuvok discuss Suder's punishment. They agree that keeping him in the brig is not appropriate, nor is leaving him with someone in the Delta Quadrant. Tuvok suggests execution. Janeway will not consider that idea and instead decides to confine Suder to quarters permanently under maximum security. Tuvok objects to allowing Suder the comfort of his own quarters, but Janeway says that it's the best they can do and that Suder may end up being there for years, maybe decades depending on how long it takes them to get home. When Tuvok still presses the point, Janeway (disturbed that her friend would even suggest execution, let alone try to force the idea on her) asks if he is experiencing adverse effects from the meld, and Tuvok admits to being "disconcerted". Janeway tells him to take some time off, but Tuvok believes that he doesn't need it.
+In the mess hall, Neelix tries to get Tuvok to smile. Tuvok asks Neelix to leave him alone, but he persists, unusually violating Tuvok's personal space and laughing. Finally, Tuvok snaps and strangles Neelix to death. Then, he ends his holodeck program.
+
+
+=== Act Four ===
+In Sandríne's, Paris asks the computer to announce the winner of today's sweepstakes, but it doesn't respond. Chakotay calls off the game, confiscates the pot, and puts Paris on report. Paris talks back to him, earning him a "thanks a lot" from Kim.
+Tuvok visits Suder in the brig. Suder marvels at his new-found emotional control. Tuvok suggests various medical treatments to Suder, but Suder believes that he can learn to control himself with Tuvok's help. Suder guesses that having experienced his violent impulses must be difficult for Tuvok, and tells him how he sees violence as "attractive". He requests another mind meld, but Tuvok refuses. Suder muses that mind melding might be considered a form of violence, and that it might be fatal if the melder lost control.
+Tuvok locks himself in his quarters, deletes his security clearance, and tells the computer to inform Janeway that he is no longer fit for duty.
+
+
+=== Act Five ===
+Janeway lifts the security seal on Tuvok's quarters, and enters to find his furniture destroyed. Tuvok, lurking in the shadows, tells Janeway not to come any closer. Janeway convinces Tuvok to let her transport him to sickbay, but Tuvok requests sedation first, for the safety of the crew.
+The Doctor diagnoses Tuvok with a neurochemical imbalance in his mesiofrontal cortex, the psychosuppression center of his brain. The Doctor temporarily disables Tuvok's emotional control hoping to shock his emotional suppression systems into functioning again. Tuvok feels euphoric and wants to stay this way for a while, to "study primal Vulcan behavior", but The Doctor cannot allow that. Tuvok threatens The Doctor and tells Janeway that her refusal to execute Suder is a sign of weakness and that she disgusts him. He offers to execute Suder himself and tries to get Kes to release the force field around the surgical bay. The treatment ends and Tuvok loses consciousness. Janeway asks how many treatments will be necessary but The Doctor says that there is no way to know.
+Later, Tuvok regains consciousness and breaks out of sickbay, and returns to the brig to execute Suder. Suder asks Tuvok whether he is trying to serve justice or vengeance, and warns him that if he does not control the violence, it will control him, and there will no longer be any place for him in civilized life. Tuvok initiates a mind meld with Suder, but is unable to complete the execution. Suder then contacts the bridge to request help for Tuvok.
+
+"Captain's log, supplemental. Ensign Suder has been incarcerated in secured quarters, where he will likely spend the rest of our journey home. Lieutenant Tuvok remains under observation in sickbay."
+In sickbay, The Doctor tells Tuvok that his inability to kill Suder shows that his suppression systems are starting to work again, and he will make a full recovery. Tuvok apologizes to Janeway for insulting her, and tells her that he has the highest respect for her and considers her a friend. Janeway accepts his apology but orders him not to conduct any more mind melds without her permission.
+
+
+== Memorable quotes ==
+"All of us have violent instincts; we have evolved from predators... well, not me, of course. I've just been programmed by you predators."
+
+- The Doctor
+
+"In the Maquis, we didn't ask for résumés. We needed all the help we could get."
+
+- Torres, on why unstable Lon Suder was recruited into the Maquis
+
+"I will not rest until I see you smile."
+"Then you will not rest."
+
+- Neelix and Tuvok
+
+"DNA doesn't know how to lie, lieutenant."
+
+- The Doctor, showing Tuvok firm evidence that Suder murdered Darwin
+
+"Why did you kill him, Mr. Suder?"
+"No reason."
+
+- Tuvok, asking Lon Suder about his motive for killing Frank Darwin
+
+"Do you know what a mind meld is?"
+"It's that Vulcan thing where you grab someone's head."
+
+- Tuvok and Suder
+
+"You're right, [violence] is disturbing, never knowing when that impulse may come or whether or not you can control it when it does. You live on the edge of every moment, and yet, in its own way, violence is attractive, too. Maybe because it doesn't require logic. Perhaps that's why it's so liberating".
+
+- Suder, to Tuvok
+
+"You are not invulnerable, hologram. A few well chosen commands to the computer, and you will cease to exist."
+
+- Tuvok, to The Doctor
+
+"A perfectly good theory. Unfortunately, it is wrong."
+
+- The Doctor, to Tuvok
+
+"I remind you, I am trained in the martial arts of many Alpha Quadrant cultures. Sitting here attempting to meditate I have counted the number of ways I know of killing someone. Using just a finger, a hand, a foot. I had reached 94, when you entered."
+
+- Tuvok, to Captain Janeway
+
+"Now there's a tough job, filling out reports. But... somebody's gotta do it."
+
+- Paris, to Chakotay
+
+"Vulcan mind melds. Utter foolishness. Anybody with an ounce of sense wouldn't share his brain with someone else. Would you? I certainly wouldn't. And of course, when something goes wrong, and believe me it does more often than they'd like to admit, the first thing they call out is DOCTOR!"
+
+- The Doctor, to Captain Janeway
+
+"Understand one thing, Tuvok. I can promise you this will not silent your demons. If you can't control the violence, the violence controls you. Be prepared to yield your entire being to it, to sacrifice your place in civilized life for you will no longer be a part of it, and there's no return",
+
+- Suder, after Tuvok comes to "execute" him
+
+
+== Background information ==
+
+
+=== Story and script ===
+Believing that Tuvok encountering random violence would make for a good story, executive producer Michael Piller sought freelance writers to pitch such a plot. "I had been after freelancers for a year or so to give me a story about Tuvok and random violence," Piller recalled, "because I felt that the ultimate nightmare for Tuvok, for a Vulcan, would be to bring some logic to the kind of random violence that you see on Headline News. As a fairly intelligent Human being, I don't understand how it occurs and I can't explain it. Imagine what it must be for a Vulcan, who must explain it in order for it to exist within his own personal set of values." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Piller also observed, "There is no logic to this violence. When I watch television at night and hear about people who kill nuns and drop children off bridges, as a Human being I cannot understand that. It doesn't fit the logic of life as I know it. So imagine what it would be to a Vulcan." (Cinefantastique, Vol. 28, No. 4/5, p. 85) Regarding the concept of Tuvok confronting random violence, Piller concluded, "I knew there was a story there." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+This is the first Star Trek episode whose development involved Michael Sussman, who was a writing intern on the series at the time and went on to write or co-write ten subsequent episodes of Star Trek: Voyager and twenty-two of Enterprise. This is also the only episode of Voyager's second season that Sussman worked on.
+Before pitching a very similar story idea to how the episode ultimately turned out, Mike Sussman learned of Michael Piller's search for a writer to pitch the idea of Tuvok being confronted by random violence. Piller remembered, "One of the interns, Michael Sussman, somebody who I think has a great deal of promise, listened to me tell that to a freelancer one day, and the freelancer didn't get it, but Michael came in and pitched me a story. Even though it wasn't exactly what we wound up doing, it was close enough that we said, 'Let's pursue it.'" (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Regarding this situation, Sussman commented, "One of my duties as an intern was to read scripts that had been submitted by non-professionals, summarize them and then pitch them to Voyager's showrunner, Michael Piller. Every now and then they'd buy one of these scripts. But Michael didn't like any of the ones I'd read. Our meeting was almost over and he said, 'Is that all you got?' So, I pitched him something I'd been noodling, a story about Tuvok mind-melding with an alien serial killer. Michael stared at the ceiling as I pitched the idea, hands behind his head, then looked at me and said, 'I don't think I've heard an idea like that before,' and he bought it." [1] Sussman sold the story on the last day of a Voyager internship he went on. [2] Sussman's plot concept was entitled "Genocide" and proposed that the alien serial killer whom Tuvok encountered would be a racist alien; Tuvok's mind-melding with this xenophobic killer would give vent to the Vulcan's own repressed feelings regarding Humans. (Beyond the Final Frontier, p. 290)
+Despite Mike Sussman having pitched this episode's plot, Michael Piller subsequently chose to personally take up the challenge of crafting the idea into a script. "We felt that Mike didn't have the experience yet to write the script," Piller recalled, "and we were under a great time crunch. You have to understand that during this section of the season we were writing shows as quickly as we could to get them up on their feet, because we weren't sure what the next show was going to be." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Sussman offered, "Michael Piller [...] ended up having to, like, really radically change the story, because there just wasn't enough time [to give the script assignment to a newly arrived writer] [....] Since they'd already kinda given somebody else a shot at it [with another VOY episode], they couldn't afford, at the moment, to do that for me. So, Michael Piller just kinda took the basic idea I came in with." [3]
+Michael Piller conducted research for the script during the writing process. "I hired a consultant for 'Meld,'" he explained, "because I wanted to get to the roots of violence in psychology that I didn't understand. There are things that, as a writer, I'm coming at from the outside and I need somebody to help me get inside." (Cinefantastique, Vol. 28, No. 4/5, p. 76) Piller also said, "I hired a consultant, a psychiatrist with great credentials." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) In fact, the psychiatrist who Piller consulted was from the California Institute for the Mentally Insane. (Cinefantastique, Vol. 28, No. 4/5, p. 85) Remembering how this consultant assisted with the writing of the episode, Piller stated, "I showed him the story, the beat sheet [outlining the plot] and the script. We talked about language and exactly what we were dealing with in this story, and I began to understand the pull of violence, the seductiveness of violence." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) In addition, Piller recalled of their relationship, "He read the story and gave me some tips and we talked about language and about how to achieve what I wanted. He gave me some dark and sad stories. We spent hours on the telephone." (Cinefantastique, Vol. 28, No. 4/5, p. 85)
+Another source of inspiration was Tuvok actor Tim Russ, who was instrumental in changing the character of the episode's serial killer from a Human to a Betazoid. Russ recalled about the episode, "I knew it was coming up and [Piller] was open for input. One of the major changes we made was the character I meld with. Originally it was Human, but it made more sense to be an alien, because we already had him meld with Humans before and there is no problem with that. When you meld you exchange yourself and this depends on the species. The idea is that this is something Vulcans do in and among themselves, but is not designed for other species. You are really rolling the dice in the game when you do that, and that is what we wanted to explore. I think with a Human he would be able to control their emotions more so than an alien. Betazoids are powerful and emotional and passionate and those elements together in this individual who is dangerous and has a great deal of anger and hostility would make a better character to meld with." (Cinefantastique, Vol. 28, No. 4/5, pp. 85-86)
+A scene involving Chakotay "dressing down" Tuvok for not knowing about Paris' gambling operation was cut from the episode. (Star Trek: Voyager Companion, p. ?)
+Michael Piller initially struggled with deciding precisely how to end the episode, but the other co-creators of Star Trek: Voyager helped with the writing of the story's final act. "I had a very difficult time with act five, where Tuvok goes berserk and tries to get out of the force-field," Piller commented. "It was because by the time I got there, I couldn't remember what the hell I was writing about. It just seemed dark and grim and mean, and I couldn't figure out for what purpose. What's the point of all this? It was Rick [Berman] and Jeri [Taylor] who really steered me back by taking something that was already mentioned earlier in the script and saying, 'That's interesting, you should explore that more,' which was the capital punishment issue. By making capital punishment what is driving Tuvok to commit violence in the fifth act, it becomes a much more universal show, because everybody then has to say, 'Well, is it my violent instinct that is driving my need for capital punishment to punish the violent?' I think that really made the show work." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Piller also remarked, "I had a terrible problem with that show. I had written the fifth act one time through and released it and I said to Jeri and Rick, 'It's just dark and ugly and mean and I can't figure out what the point of all this is.' They were the ones that brought it back to a little thing in that scene between Janeway and Tuvok where they are talking about execution. That pointed me in that direction and that is what made the episode work. This violence in Tuvok should be not just about killing, but about justice and retribution. That's another way of looking at violence and to me that advice really rescued me from not knowing what the hell to do." (Cinefantastique, Vol. 28, No. 4/5, p. 86)
+Michael Piller believed that the mysteriousness of the Maquis was central to the episode's plot. "The whole story," Piller stated, "is based on the fact that nobody really knows about the backgrounds of these Maquis. Nobody knows where they came from, nobody asks for resumes. The murderer is a man who joined the Maquis because he really, really likes to kill. Finally he kills somebody aboard Voyager. If we had no Maquis on the ship you would never find a Human Starfleet officer – one who's gone through the complete Starfleet training – who would do that. It just doesn't happen." (A Vision of the Future - Star Trek: Voyager)
+Tuvok's exploration of violence was purposely left unresolved. Tim Russ commented, "We didn't get a chance to answer the questions in the episode which was [Tuvok's] original goal; why this occurs. Michael wanted it to be a random unexplainable element." (Cinefantastique, Vol. 28, No. 4/5, p. 86)
+The final draft of this episode's teleplay was submitted on 7 November 1995, although revisions were made to it up to and including the 17th of that month.
+In summation of the scripting process, Michael Piller noted, "It turned out to be a very interesting, disturbing experience." He also noted, "'Meld' was an important show for me." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) In addition, Piller cited this episode (along with "Lifesigns" and "Death Wish") as one of a few from Voyager's second season whose development involved a great deal of enjoyment. "Those shows were more fun to write for me than the big space battle," he said, "because I like character interaction. I like what the characters are doing to themselves and there are personal stakes involved and character conflicts involved." (Cinefantastique, Vol. 28, No. 4/5, p. 79)
+
+
+=== Cast and characters ===
+The producers decided to cast Brad Dourif in the role of Suder and the actor had a conversation with Neelix actor Ethan Phillips in which the offer was discussed. "My girl friend had known Ethan Phillips for years," Dourif explained. "We all had dinner one night and the idea of my doing Voyager came up. I said, 'I would love to do it. It sounds like fun.' And we did it." (The Official Star Trek: Voyager Magazine issue 9)
+Despite director Cliff Bole liking Brad Dourif as an actor, Bole also felt that Dourif was underused here. "I wish we had given him more to do," Bole admitted. "I don't think we showed enough duality in Suder as the maniac taking on the Vulcan's calm control. We should have played off that a little more, but there are only 44 minutes." (The Official Star Trek: Voyager Magazine issue 15)
+On the other hand, Mike Sussman was pleased with Brad Dourif's performance here, stating, "Brad Dourif did a great job as the Maquis serial killer." [4]
+Robert Picardo, performer of The Doctor, was also impressed by Brad Dourif's work herein. "He was very good in 'Meld'," Picardo enthused. (The Official Star Trek: Voyager Magazine issue 10)
+Michael Piller was pleased with the acting of both Brad Dourif and Tim Russ, referring to them as "two marvelous actors who brought an extraordinary energy and performance level to the show." (Cinefantastique, Vol. 28, No. 4/5, p. 85)
+In fact, the production staffers who were appreciative of Tim Russ' performance in this episode not only included Michael Piller but also Cliff Bole as well as supervising producer Brannon Braga. Concerning the installment, Piller remarked, "The thing that really made it work was Tim Russ's performance, which was just remarkable." Similarly, Braga commented, "I think Tim Russ made himself known as one of the best actors on the show. Tuvok really broke out in that episode." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Cliff Bole raved, "Tim kicked ass in that show." (The Official Star Trek: Voyager Magazine issue 15)
+Tim Russ' fellow performers also found this episode notable for the actor. Brad Dourif enthused, "I thought the work Tim did was beautiful, especially in the scene that he did with Captain Janeway where his ability to constrain his emotions was removed from him and he became violent." (The Official Star Trek: Voyager Magazine issue 9) In a comment for which Russ was grateful, Janeway actress Kate Mulgrew stated, "I think 'Meld' really gave [Tim Russ] a wonderful opportunity to shine and to explore more of Tuvok, and [he] really took advantage of it." Robert Picardo, the performer of The Doctor, related, "It [...] gave Tim that wonderful opportunity as an actor to really consider what it would be like to have uncontrollable violent impulses that put you at odds with the rest of Humanity." Chakotay actor Robert Beltran added, "Tim got to add to Vulcan folklore, as far as the whole mythology of Vulcans in Star Trek goes." (Starlog, issue #231, pp. 48-49)
+Indeed, Tim Russ regarded this episode as an opportunity to delve into the depths of Vulcan lore, especially the secretively volatile nature of Vulcans. (Cinefantastique, Vol. 28, No. 4/5, p. 86) Russ was also appreciative of how the episode shows the riskiness of the Vulcan mind meld, referring to it as "a good point for us to bring up." (Cinefantastique, Vol. 30, No. 9/10, p. 101) The actor was conscious of Tuvok's behavior in the lengthy sickbay scene being completely out of character for the Vulcan, a fact that Russ demonstrated in his portrayal of the scene. "The pacing was uncharacteristic, his hands were fidgeting all the time, he seems agitated, he's fighting to maintain the facade of control and not having an easy time of it," observed Russ. (Cinefantastique, Vol. 28, No. 4/5, p. 86)
+While working on this episode, Tim Russ consulted two friends who were doctors, in an effort to acquire an insight into the workings of the criminal mind. "I gained a great deal of information from them on serial killers and rapists, people who are angry, gang members," Russ said. (Cinefantastique, Vol. 28, No. 4/5, p. 86) Although he sought out these medical opinions regarding the criminal mindset, the fact that the episode was intended to be unresolved left Russ frustratedly puzzled about Suder's motivations for killing. "The hostility comes from one of several places," Russ reckoned. "He's pre-disposed to be unable to control it. That is based on what you get from your parents. Then factors of climate to cause this anger to be there in the first place. Most cases are a result of suppressed anger and hostility that was there as a result of childhood. We ruled out in the show psychosis and simple uncontrolled anger that can blow up at any point in time. I think that comes from something in the past and whatever that past could have been – home, environment, any number of things. I got some of the elements of his personality as a result of the meld, but, not coming from his background, just got a taste of what he's about. I wanted to explore the causes of these things more. If it was up to me I would have mentioned the background that he came from." (Cinefantastique, Vol. 28, No. 4/5, p. 86)
+Nevertheless, Tim Russ cited this as one of the most powerful episodes in the entirety of Star Trek: Voyager, saying, "'Meld' was a very violent show." (Voyager Time Capsule: Tuvok, VOY Season 2 DVD special features) He also listed this episode, midway through the fourth season, as one of five episodes that he characterized as "the defining moments for Tuvok". (The Official Star Trek: Voyager Magazine issue 17) Russ enthused, "It was a great kick for me as an actor, as Tuvok was able to be completely unlocked." This was despite the fact that Russ found the installment to be "tremendously exhausting." (Star Trek Monthly issue 41, p. 28) Russ also especially enjoyed his collaboration with Brad Dourif and once commented that, of all the guest stars he had worked with in the first five seasons of Voyager, his favorite was Dourif. (Delta Quadrant, p. 98)
+Brad Dourif was impressed not only by Russ' performance here but also by Kate Mulgrew's. Dourif stated, "Kate Mulgrew had [...] what I thought was just an exquisite moment. She did a transition that I thought was enormously complex and extremely fascinating. I was absolutely swept away by it. She was also fun to work with, and we had a really good time." (The Official Star Trek: Voyager Magazine issue 9)
+This episode was among Ethan Phillips' favorites (in common with "Heroes and Demons" and "Resolutions") from the first two seasons to watch. (Star Trek Monthly issue 21)
+The episode was also a highlight for Robert Picardo. As well as commenting that he believed the episode was a "wonderful opportunity" for Tim Russ, Picardo also enthused, "That's my favorite episode of the [second] year, 'Meld' [....] It was about an issue that had been examined a number of times, capital punishment. To me, though, there was something we learned from it that perhaps we hadn't seen dramatized on TV before." (Starlog, issue #231, p. 48)
+
+
+=== Production ===
+Cliff Bole directed this episode several weeks after having directed his first Voyager installment, "Cold Fire". Recalling how he captured Tim Russ' performance here, Bole stated, "We worked hard on it together, and then a couple times I just said, 'Go for it.' Those turned out to be the takes we kept." (The Official Star Trek: Voyager Magazine issue 15)
+This episode is a bottle show. (Cinefantastique, Vol. 28, No. 4/5, p. 96) Moments after citing this installment (in common with "Lifesigns") as one of a couple of "money savers," Michael Piller explained, "We saved huge amounts of money on those and it's because they were contained." (Cinefantastique, Vol. 28, No. 4/5, p. 79)
+
+
+=== Continuity ===
+This episode begins Tom Paris's insubordination mini-arc, with the radiogenic particle pot. This mini-arc culminates in "Investigations"
+At the end of the third season, Tim Russ cited this episode as one of four or five installments (in the first three seasons) in which Tuvok's "defenses have been breached" and "his control has been taken away or lost", other such episodes being "Cathexis" and "Flashback". (Cinefantastique, Vol. 29, No. 6/7, p. 100) Similarly, following the production of the fourth season, Russ observed that – in common with "Meld" – this installment "really pushed the envelope with how outside forces affect Tuvok's character and what happens." (Star Trek Monthly issue 41, p. 28)
+This episode also has some similarities to the fourth season installment "Random Thoughts". Tim Russ stated that both episodes "explored suppressed and deep, violent thoughts and the problems those things created for Tuvok." (The Official Star Trek: Voyager Magazine issue 17)
+In this episode, Tom Paris mentions raktajino, Klingon coffee, which is seen many times in Star Trek: Deep Space Nine. This marks the only reference to raktajino in Voyager.
+This episode marks the first appearance of Voyager's brig on the series.
+After first appearing in this episode, the character of Lon Suder reappears in the second season finale "Basics, Part I" and the third season premiere "Basics, Part II", thereafter being referenced in the fifth season episode "Counterpoint". Of an initial unawareness regarding the role of Suder, Brad Dourif related, "I had no idea Suder would be a recurring character." (The Official Star Trek: Voyager Magazine issue 9)
+Crewman Darwin's death in this episode brings the total number of confirmed crew deaths since the series premiere "Caretaker" to 5, the previous death having occurred in "Alliances". This leaves Voyager with a crew of 148, given Voyager's crew compliment of 152 established in "The 37's" (after the first of these deaths).
+
+
+=== Reception ===
+Ultimately, Michael Piller believed this episode had an obvious storyline but also a lot to say about violence. He remarked, "The interesting thing about the show was that the plot is entirely predictable. What makes it rise above is the ability to make that story talk about something, to talk about violence and to see the different facets of it." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Piller also speculated, "If you look at it from a distance you or anybody who has ever watched Star Trek could have told me what was going to happen as soon as the episode started and you knew where it was going. As soon as you knew he was going to have a mind-meld with a killer you knew what was going to happen, but the great thing about it is [the quality of performances from the two lead actors]. And within the context of the script you really got a chance to explore theme through the plot. The plot really didn't matter as much as the exploration of the theme." (Cinefantastique, Vol. 28, No. 4/5, p. 85) Additionally, Piller mused of the episode's themes, "To do the meld and ultimately never to understand, but to explore what violence is and how it manifests itself and begins to eat at us as a civilization so that we find ways of expressing violence, like capital punishment, and find ways of framing it in our own comfortable armchair way. That touches me." (Cinefantastique, Vol. 28, No. 4/5, p. 85) Michael Piller also implied that he thought this was an example of an episode that, despite saving some money, was also successful. (Cinefantastique', Vol. 28, No. 4/5, p. 79)
+Mike Sussman, too, ultimately held this episode generally in high regard. When asked about which of the Voyager episodes he was most proud of, he cited both this installment and "Author, Author", enthusing, "'Meld' turned out to be a pretty good episode." [5]
+Brannon Braga was delighted by the installment. He raved, "Superb. It doesn't get any better than this: melding with a psychopath, and the psychopath starts to take on the Vulcan tendencies and vice versa. An exploration of murderous tendencies and evil. Just absolutely fascinating." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages) Braga also felt that the issues explored in this episode were very contemporary. He opined, "The random violence, the causes of random violence in 'Meld', these are very Nineties issues. These aren't things that you would have seen in the original Star Trek, because they weren't issues then." (Star Trek Monthly issue 20) In fact, Brannon Braga enjoyed this episode to the point of citing it as his favorite from the second season of Voyager. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+Cliff Bole was also appreciative of this installment, remarking, "'Meld' is one of the best shows I've done for Voyager." (The Official Star Trek: Voyager Magazine issue 15)
+This episode achieved a Nielsen rating of 5.1 million homes, and an 8% share. [6](X)
+Cinefantastique rated this episode 4 out of 4 stars. (Cinefantastique, Vol. 28, No. 4/5, p. 92)
+Star Trek Magazine scored this episode 2 out of 5 stars, defined as "Impulse Power only". However, Stuart Clark, a reviewer for the magazine, additionally referred to the outing as "a much stronger episode" than the previous one, "Threshold". (Star Trek Monthly issue 17, pp. 58 & 59)
+The unauthorized reference book Delta Quadrant (p. 100) gives this installment a rating of 9 out of 10.
+When asked if there were any issues that he would have liked the writers to explore regarding Tuvok, Tim Russ stated, "I would have liked to have played him in a situation in which he would have had to resort to taking a Human approach to solve a particular problem once every other method of logic had been exhausted. His early exploration of violence in 'Meld' I felt was unfinished. He never found an answer to the question, 'Why?'" (Star Trek Monthly issue 94, p. 32)
+In a 2010 interview, Tim Russ admitted that he had included, in a performance reel he could show upon seeking acting work, the scene from this episode wherein Tuvok loses control of himself in sickbay. [7]
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 2.6, 8 July 1996
+As part of the VOY Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as Lieutenant B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Special guest star ===
+Brad Dourif as Lon Suder
+
+
+=== Guest stars ===
+Angela Dohrmann as Ricky
+Simon Billig as Hogan
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Johnetta Anderson as bar patron
+Debbie David as
+Frank Darwin
+Russell
+John Copage as sciences officer
+Damaris Cordelia as Foster
+James Delano as waiter
+Andrew English as operations officer
+Tarik Ergin as Ayala
+Heather Ferguson as command officer
+Sue Henley as Brooks
+Kerry Hoyt as Fitzpatrick
+Karl Laird as artist
+Bob Mascagno as accordion player
+Karole Nellis as poet
+Louis Ortiz as Culhane
+Shepard Ross as Murphy
+Simon Stotler as operations ensign
+John Tampoya as Kashimuro Nozawa
+
+
+=== References ===
+14th century; 2272; accusation; accuser; Alpha Quadrant; Betazoid; bipolar disorder; brig; Cardassian pinochle; CCF; combadge; confiscation; contusion; coordinates; coup-contrecoup pattern; crew evaluation; criminal record; cubic meter; Darwin's sisters; Darwin's training instructor; Delta Quadrant; density; Directive 101; DNA; emotion; emotional suppression ability; EPS conduit; epinephrine; euphoric; Federation; fuel consumption analysis; gambling; General Orders and Regulations; handling fee; heart; holodeck; impulse system control panel; Intrepid class decks; Jones; Kal Rekk; kilo; knowledge; Lewis; limbic system; logic; malcontent; Maquis; martial arts; mashed potatoes; medical tricorder; meditation; mercenary; mesiofrontal cortex; microscope; mind meld; mission; Mister Vulcan; morale officer; motive; murder; nanite; Neelix' mother; neural control; neurogenetic marker; neuropeptide; neurosynaptic therapy; norepinephrine; Officers candidate; outlaw; Pagan; Paris Radiogenic Sweepstakes; particle; per se; prime rib; psycho-suppression system (aka suppression system); radiogenic particle; radiogenic particle count; raktajino; replicator rations; resumé; Rillan grease; Rogers; Rumarie; Sandríne's; security clearance; security seal; self control; senior officer; smile; species; spinach; stakes; suicide; Talaxian; telepathic ability; training instructor; Val Jean; violence; Vulcan; whipped cream; Yorkshire pudding
+
+
+=== External links ===
+"Meld" at Memory Beta, the wiki for licensed Star Trek works
+"Meld" at Wikipedia
+"Meld" at MissionLogPodcast.com
+"Meld" at the Internet Movie Database

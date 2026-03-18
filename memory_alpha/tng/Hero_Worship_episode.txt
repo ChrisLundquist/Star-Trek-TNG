@@ -1,0 +1,252 @@
+Data helps the only survivor of a wrecked ship, a child, cope with the loss of his parents. Meanwhile, the crew investigates the cause of the wreck.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45397.3. Two days ago, Starbase 514 lost contact with the research vessel Vico, which was sent to explore the interior of a black cluster. We are en route to investigate."
+The USS Enterprise-D arrives at the designated coordinates of the black cluster, scanning for the Vico within the cluster. The vessel appears to be adrift and the sensors can detect no life signs. The Vico has experienced multiple hull breaches, but it is determined that it is barely safe enough for an away team to beam over. Riker, La Forge, and Data beam on board the vessel. While on board, they gain access to the ship's computer core and begin downloading the vessel's records and logs. While they are beginning this process, the away team finds a young boy caught under the wreckage of the damaged ship.
+
+
+=== Act One ===
+"Captain's log, supplemental. A young boy shielded from our initial sensor scans has been discovered pinned beneath a fallen beam. The degree of damage to the Vico is making our rescue attempt difficult."
+Because the area where the boy is trapped is protected by several layers of shielding and victurium, he cannot be beamed out from under the wreckage. Data says he can lift it away, but that may quicken the imminent hull breach, so he advises Riker and La Forge to beam back to the Enterprise ahead of him. When the boy wonders how Data can lift the heavy wreckage, Data tells him he is an android, not a normal man and explains that his strength is many times that of a Human. Working together, Data frees the boy and they run to an unshielded corridor, allowing them to be beamed away by Hutchinson moments before the hull collapses.
+The boy, Timothy, turns out to be the only survivor of the ship. He tells Data and Crusher that the ship was attacked by a boarding party wearing purple helmets and bearing phaser rifles. Timothy tells them that they were boarded by another vessel. La Forge reports that the away team found his mother's body underneath some wreckage in another part of the ship, while his father, the Vico's second officer, was likely blown out into space when the bridge was exposed to space. Seriously traumatized, Timothy initially only trusts Data. Counselor Troi advises Data that "his world is gone," and the crew must help him to make a new one.
+
+
+=== Act Two ===
+In engineering, La Forge and Data are examining the files transferred over from the Vico. It appears some EM pulse hit the ship and damaged its databanks, erasing 83% of its data, including sensor logs. They start a structural analysis while Data asks La Forge about whether he has experienced a traumatic event. La Forge recalls when he was five years old, he was caught in a fire before he received his first VISOR. It only took a couple of minutes for his father and mother to find and rescue him, but La Forge remembers that it was the longest few moments of his life. Data learns from La Forge that a support structure from parents is important for young children, something Timothy no longer has.
+Timothy has trouble blending in and appears to be suppressing his traumatic experience on board the Vico. While learning mythology in class, Timothy ignores the lesson and continues with a model of the Dokkaran Temple of Kural-Hanesh from their sculpture class. On the bridge, the crew learns that the vessel was attacked with disruptor-style weapons, and an attack style consistent with a cloaked vessel. They suspect the Romulans, Klingons, or Breen. However, La Forge reports that there is absolutely no evidence that the ship was boarded, so Timothy is not being truthful for some reason. Counselor Troi advises Data to spend time with him, given that the boy only seems to feel comfortable around Data.
+Data goes to Timothy's quarters and recognizes the model he's building. Timothy is happy about the model, but then dismayed when Data innocently critiques the structure. Data attempts to comfort him when he is called by La Forge to engineering and has to leave. Before leaving, Data decides to quickly build the model of the Temple with his super speed. Timothy is amazed by Data and asks how he does that. Data responds by saying that he is an android and was designed to exceed Human capacity, both mentally and physically. He further states that he does not possess the ability to experience emotions like Humans do. Timothy seems intrigued by the notion of not feeling happiness or sadness. He begins to emulate Data by repeating what he just said while looking into a mirror and mimicking his android head movements.
+
+
+=== Act Three ===
+In the observation lounge, the senior staff review new findings. The cluster has unpredictable gravitational regions, and Picard decides to traverse them to understand what happened to the Vico. Troi says she will meet with Timothy soon to attempt to get more information.
+Counselor Troi checks in on Timothy and takes him to Ten Forward. Timothy claims to be an android, employing many of Data's mannerisms. Timothy tells Troi that he has always been an android and feels no emotions, none at all.
+
+Speaking with Captain Picard in his ready room, Troi describes this phenomenal healing process, that Timothy has found a new way to suppress his trauma, and that this behavior will eventually drop off as Timothy grows stronger. Troi suggests Picard that this process should be encouraged. Picard, in turn, requests that Data help make Timothy the best android possible. Data then begins teaching him how to be an android. While Data fixes Timothy's hair to look like his own, Timothy, in trepidation, asks what was the scariest thing Data has ever faced, to which he replies that he does not possess the quality of fear. Timothy then asks Data what would do if he had a nightmare. Data explains that he does not have dreams, as he does not require sleep. Data realizes why Timothy was asking these questions. He asks Timothy if he had been having disturbing dreams lately. Timothy replies that he does not need sleep.
+Data then begins to accompany Timothy throughout the ship, such as when getting a check-up with Dr. Crusher, and painting with him. Data tells Timothy during their painting session that he can talk to him about anything he wants. When he falls asleep painting, Data lies Timothy down on his sofa.
+
+
+=== Act Four ===
+The Enterprise enters the cluster, and experiences gentle nudges as the gravitational fronts affect the ship. Worf sees a ship on his sensors, but it appears to be reflections of the ship itself.
+Meanwhile, Data and Troi observe Timothy having a laugh at school. Troi believes Data's work is not done, however, and encourages him to talk to Timothy about his desire to be Human. In Ten Forward, they share in some dessert, and Timothy finds that Data cannot enjoy food like he can.
+Picard orders Worf to perform various scans, but they get refracted by the waves. Picard performs an experiment by firing phasers into the cluster. They are refracted, even when fired at full intensity. Picard asks Data whether a disruptor-style weapon would also be ineffective, and Data says yes; likewise, a ship's cloaking device would be impossible to maintain. The evidence before them is clear: Vico could not have been attacked while inside the nebula.
+They call Counselor Troi to bring Timothy to the ready room. There they once again ask Timothy what happened to his ship. He insists that they were attacked. Data then tells Timothy "androids do not lie." Breaking down, Timothy tells them that it was him, that he "killed them all."
+
+
+=== Act Five ===
+Timothy explains that while the ship was being impacted, he lost his balance and his arm hit a computer panel in engineering, just before the ship was destroyed. Timothy believes he must have caused the ship's destruction, but they tell him that it was impossible for him to have done so just by hitting a computer panel, as there were safety protocols. While Picard, Data and Troi try to reassure the boy that he is not responsible, they are all left with wondering what really caused the Vico's destruction.
+The Enterprise then shakes, and Timothy says that this is how it started on the Vico as well. The wave front intensity increases and Commander Riker orders that Worf raise the shields to 75%. The ship is then shaken again harder than before. Picard comes out of his ready room and orders Ensign Felton to bring the Enterprise full about and engage at warp 2, but the ship's engines have been disabled by the cluster. They continue to increase shield strength. Timothy remembers hearing the same demand for increased shield strength aboard the Vico before it was destroyed. Developing a theory, Data leads Timothy to the science station at the aft section of the bridge and begins running a rapid analysis.
+Despite the increased shield strength, the Enterprise is hit even harder, and Picard orders warp power transferred to the shields, something which Timothy also remembers hearing. The transfer is made by La Forge, and an enormously powerful wave front is fifteen seconds from impact when Data tells the captain to drop the shields. Riker objects and states that such an action is suicide, but Data, deathly serious, repeats his recommendation. Picard orders the shields be lowered, and the wave front barely rocks the ship. Data then explains that their own shields caused the increases in the wave front. If they had maintained the shield strength with warp power, they would have been torn apart. Data says that this was also the cause of the Vico's destruction. Thanks to Timothy's memory and Data's own speedy analysis, the same disaster was averted on the Enterprise.
+Outside the schoolroom, Data and Troi talk about Timothy. Troi says he still has a lot of pain, but he is a boy once again. Data talks to Timothy. Timothy says he misses his parents but that he is all right. He also says that Data must have thought it was pretty silly when he was imitating him; but Data responds by saying that he has often heard that imitation is the highest form of flattery. Timothy asks if they can still do things together and Data says he would be happy to count Timothy among his friends. "That would be… acceptable", Timothy replies with his android persona.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+
+
+== Memorable quotes ==
+"I am designed to exceed Human capacity. That is correct."
+
+- Timothy, imitating Data
+
+"His world is gone, Data. We're gonna have to help him build a new one."
+
+- Troi, on the tragedy of Timothy losing both his parents on the Vico
+
+"Data, I would like you to make Timothy the best android he can possibly be."
+
+- Picard
+
+"Timothy, your head movements are counter-productive. Can you be still?"
+"But you do it."
+"The servo mechanisms in my neck are designed to approximate Human movements. I did not realize the effect was so distracting."
+
+- Data and Timothy
+
+"You sound like you don't want to be an android."
+"I am an android. That will never change."
+
+- Timothy and Data
+
+"I would gladly risk feeling bad at times, if it also meant that I could taste my dessert."
+
+- Data, discussing advantages of being Human
+
+"We were attacked! We were attacked!"
+
+- Timothy
+
+"Impact in fifteen seconds."
+"Sir, drop the shields."
+"That's suicide, Data!"
+"Captain. Drop the shields."
+
+- Worf, Data, and Riker
+
+"I have many Human friends. I would be pleased to count you among them."
+"That would be… acceptable."
+
+- Data and Timothy
+
+
+== Background information ==
+
+
+=== Story and script ===
+Michael Piller remembered, "Data has always been emulating Human behavior, and here a Human is emulating android behavior. One of the goals of the script was for Data to appreciate more of what he is and who he is, and that there's something to learn from and appreciate." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+The story of the fire in La Forge's childhood was originally conceived as a potential telepathic memory invasion for the following episode, "Violations". (Star Trek: The Next Generation Companion, 2nd ed., p. 188)
+
+
+=== Production ===
+
+"Hero Worship" was filmed between Thursday 17 October 1991 and Monday 28 October 1991 on Paramount Stage 8, 9, and 16.
+Merri D. Howard congratulated costumer Amanda Chamberlin on her birthday on the call sheet for Friday 18 October 1991.
+It was during the filming of this episode, on the sixth day of filming, that the cast and crew learned of the death of Gene Roddenberry. The news affected everyone deeply, especially Marina Sirtis, whose father had passed away exactly ten years before. (TNG Season 5 DVD special features)
+On Thursday 24 October 1991, Paramount Stage 10 was used as the classroom for the child actors. ("Hero Worship" call sheet)
+The call sheet for Friday 25 October 1991 featured a Daylight Saving Time ending reminder for cast and crew, declaring, "Turn clocks back Saturday night!"
+An additional day of filming the second unit scenes and inserts for this episode was Thursday 25 November 1991, when the required footage was shot on Paramount Stage 9.
+
+
+=== Cast and characters ===
+Michael Piller saw this episode as a good example of how the character of Deanna Troi was expanded in later seasons. He commented, "I think 'Hero Worship' and, as a whole, this has been a very good season for Deanna Troi. We have used her as a counselor as well as she has ever been used. She certainly had more time on screen and what I think has come out of it is proof that she is really a wonderful actress and has levels of credibility and truth on the screen. I'm a big fan of hers and she really rose to the challenge this year." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236) He also joked, "Jeri Taylor and I say that since we've been here the counseling scenes have become much more numerous and realistic. But that experience doesn't come from practicing – it comes from being a patron!" (Star Trek: The Next Generation Companion, 2nd ed., p. 188)
+In contrast, writer Joe Menosky commented, "It was a Troi-heavy episode, and I had a love/hate relationship with Troi. Loved the actress, but hated the character. I used to say that having a full-time therapist on board the Enterprise – in a command position no less – would date our series more than any other story element. And in retrospect, that was true." (Star Trek: The Next Generation 365, p. 238)
+Harley Venton appears as Ensign Hutchinson in this episode. He previously played another transporter chief, Collins, in "Ensign Ro".
+
+
+=== Sets and props ===
+The landscape scene Data paints in this episode was in fact one created by Dan Curry in central California. ("Memorable Missions" ("Hero Worship"), TNG Season 5 DVD special feature) Curry explained, "I thought it would be fun if Brent was painting one of my own works […] The art department made a print on canvas that looked slightly unfinished so Brent could dab paint on it." (Star Trek: The Next Generation 365, p. 239)
+
+
+=== Continuity ===
+The second mention of the Breen is in this episode. The first reference was in "The Loss".
+The song "Row, Row, Row Your Boat" was sung by James T. Kirk, Spock, and Leonard McCoy in Star Trek V: The Final Frontier.
+La Forge tells Data he was caught in a fire as a kid, before he got "the first VISOR", implying his current VISOR is not his first.
+The episode shares a title with one of Shari yn Yem's holographic simulations in LD: "I, Excretus", said to be based on experiences of  Starfleet crews (possibly this one, though it is never said).
+
+
+=== Reception ===
+Brannon Braga enjoyed the episode. He remarked, "I like 'Hero Worship' the best of all the kid shows because it's the most interesting. Good performances and an intriguing mystery, thinking that aliens had destroyed the ship. […] Picard's saying, 'Make him the best android he can be,' and the scene where Data confesses to wishing that he knew what the taste of malted was like, is very touching." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+Michael Piller opined, "I thought it was a great premise. It wasn't a memorable show, but I thought it was very entertaining." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 20, pp. 13-16.
+
+
+=== Production history ===
+12 August 1991 – First draft script
+5 September 1991 – Second draft script
+17 September 1991 – Third draft script
+27 September 1991 – Fourth draft script
+8 October 1991 – Final draft script
+17 October 1991 – Filming begins
+18 October 1991 – Costumer Amanda Chamberlin's birthday, commemorated by Merri D. Howard on this day's call sheet
+24 October 1991 – During production on this day, Paramount Stage 10 is used as schoolroom for the child actors
+25 October 1991 – This day's call sheet features a note reminding everyone, "Turn clocks back Saturday night!"
+28 October 1991 – Filming ends
+25 November 1991 – Second unit scenes and inserts are filmed on Paramount Stage 9
+27 January 1992 – Premiere airdate
+1 March 1995 – First UK airdate
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 56, catalog number VHR 2640, 16 November 1992
+As part of the US VHS collection Star Trek: The Next Generation - The Data Collection: 19 August 1997
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.4, 2 September 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Joshua Harris as Timothy
+Harley Venton as Hutchinson
+
+
+=== Co-stars ===
+Sheila Franklin as Ensign
+Steven Einspahr as Teacher
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Lena Banks as operations division ensign
+Joe Baumann as Garvey
+Cece Bell as command division officer
+Bowman as science division officer
+Michael Braveheart as Martinez
+Buchanan as school child
+Debbie David as Russell
+Tracee Lee Cocco as Jae
+Gerard David, Jr. as operations division ensign
+Elliot Durant III as operations division ensign
+Gina Gallante as science division officer
+Haeffmeier as school child
+Handy as school child
+Linda Harcharic as command division ensign
+Grace Harrell as operations division ensign
+Gary Hunter as science division officer
+D. Kai as sciences officer
+Kanter as school child
+Kanter as school child
+Kim as operations division officer
+Judy Lea as sciences officer
+Debbie Marsh as command division officer
+Lorine Mendell as dead Vico crewmember
+Jay Montalvo as operations division officer
+Michael Moorehead as science division ensign
+Randy Pflug as Jones
+Keith Rayve as civilian
+Rivera as school child
+Rose as dead Vico crewmember
+Victor Sein as
+Command division officer
+Dead Vico crewmember
+Talbot as Ten Forward waitress
+Mikki Val as operations division officer
+
+
+=== Stunt double ===
+Brian J. Williams as stunt double for Brent Spiner
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton
+Melba Gonzalez – stand-in for Marina Sirtis and Sheila Franklin
+S. Harrison – photo double for Michael Dorn
+Ron Large – photo double for Patrick Stewart
+Tim McCormack – stand-in for Brent Spiner and Harley Venton
+Lorine Mendell – stand-in for Gates McFadden
+Renee – stand-in for Joshua Harris
+Robin – stand-in for Sheila Franklin
+Richard Sarstedt – stand-in for Jonathan Frakes and Steven Einspahr
+Stephanie – stand-in for Joshua Harris
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – photo double for Brent Spiner
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+Nine billion years ago; 2340; 24-hour clock; ability; adrift; aesthetic analysis; alloy; amplitude; analysis; analysis subroutine; android; anticipation; arm; away team; beam; behavior;  black cluster; boarding party; body; bow; Breen; bulkhead; carbon dioxide; cloaking device; cloaking field; coincidence; computer banks; computer core; computer panel; confection; correlation; corridor; countdown; culture; damage; damage report; Dara; Dara's brother; day; deck; deflector shield; deflector shield generator; dessert; disruptor; distance; docking latch; Dokkaran; dream; EM pulse; Elamos the Magnificent; electrostatic differential; emergency bulkhead; emergency transport; emotion; emotional context; emotional trauma; enantiodromia; enemy; entry port; evidence; exchange protocol; experiment; explanation; fear; feedback loop; fictional ship;  file; fire; flattery; friend; fusion reactor; G unit; Galaxy-class decks; gravitational field distortion; gravitational force; gravitational wavefront; graviton wave; Great Kingdom; hair; hallway; harmonic amplification effect; hate; head; helm; helmet; hero worship; hour; hull; hull breach; Human; imitation; impact; impulse power; information; inner hull; input processing; kilometer; Klingon; La Forge, Edward M.; La Forge, Silva; land; laughter; life sign; log; lying; machine; magnetic residual analysis; matter stream; matter transfer pathway; Merchant of Venice, The; meter; Milky Way Galaxy; mind; model; mouth; mythology; navigation; neck; nightmare; number one; Oberth-class; Oberth-class decks; ODN junction; onboard control system; online; order of magnitude; outer hull; outpost; pain; painting; palate; parameter; pattern recognition; percent; phaser; phaser burn; phaser energy; phaser rifle; phenomenon; pleasure; polysaccharide; port; positron scan; positronic brain; pressure; pride; primary hull; probability; protostar; purple; quality; range; record; red alert; red ochre; reflection; research vessel (science vessel); Romulan; "Row, Row, Row Your Boat"; safety precaution; scanning beam; sculpture; search; second officer; secondary beam; secondary hull; section; Sector 97; sensor echo; sensor scan; sensor signal; sensor log; servo-mechanism; shearing plane; shield frequency; shield grid; shield modulator; shock; short range; sign; sleep; space; Starbase 514; starboard; strategy; strength; structural analysis; structural over-pressure; suicide; surface scan; survivor; systems engineer; Tagas; Tamarin frost; Temple of Kural-Hanesh; territory; thought; thousand; Timothy's father; Timothy's mother; torsional stress; transfer circuit; translink; transporter field trace; transporter lock; Transporter Room 1; transverse support; trauma; truth; user code clearance; vessel; Vico, SS; victurium; VISOR; visual range; warp drive; warp field; weapon; yawn
+
+
+=== External links ===
+"Hero Worship" at Memory Beta, the wiki for licensed Star Trek works
+"Hero Worship" at Wikipedia
+"Hero Worship"" at MissionLogPodcast.com
+"Hero Worship" script at Star Trek Minutiae
+"Hero Worship" at the Internet Movie Database

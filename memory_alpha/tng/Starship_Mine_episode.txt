@@ -1,0 +1,229 @@
+On an evacuated USS Enterprise-D, Picard plays a deadly game of cat-and-mouse with terrorists who want to steal explosive toxic waste from the warp core as a lethal beam sweeps the ship.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 46682.4. The Enterprise is docked at the Remmler Array where it will undergo a routine procedure to eliminate accumulated baryon particles. In preparation for the sweep, we are evacuating the ship."
+The USS Enterprise-D is at the Remmler Array where they are scheduled for a baryon sweep, a maintenance cycle that removes large amounts of radiation that builds up in the hulls of starships that travel for extended periods at warp. The sweep is lethal to any organic matter, so there is a flurry of activity as the entire ship is being evacuated prior to the sweep, and various last-minute problems (such as slow progress on Decks 7 and 8 and a lack of stasis units for Dr. Crusher's living tissue samples) are being quickly addressed. Captain Picard is less than enthusiastic over the visit, as he has to meet with Commander Calvin "Hutch" Hutchinson, a Starfleet officer known for his gift of gab. Coincidentally, Data is studying the concept of "small talk", and during their turbolift ride to the bridge, Data tries to break the silence this way; Picard recommends that Data study Hutchinson so as to learn from an expert on the subject.
+Arriving on the bridge, Picard is met by both La Forge and Worf, speaking simultaneously. Worf reports that Picard must give his authorization to disable command functions during the sweep. Then La Forge informs Picard that he needs to install additional field diverters to protect the primary systems on board, such as the computer core and the bridge. He needs the equipment because the amount of radiation in the hull is so high (due to five years of the Enterprise's high amount of warp use–double the average) that the baryon sweep may be more intense than normal. Picard agrees and instructs the ship's computer to shut down the primary systems in 30 minutes, allowing enough time for the diverters to be installed first. Worf then asks permission to be excused from Hutchinson's reception. When La Forge witnesses Picard agree to Worf's request, he attempts to do the same only to be denied because Picard can't excuse all of the senior staff, and Worf asked first and thus beat him to it. Picard then goes to his ready room to confirm the time of the sweep to Orton, the station administrator, and takes one last look around the bridge. He then sees a crew walking onto the bridge to install some equipment. Assuming that was the crew that La Forge ordered, he thinks nothing of it and transports to Hutchinson's reception at the Arkaria Base.
+
+
+=== Act One ===
+
+True to form, Hutchinson greets each member of the crew and talks about Arkarian horn fowl mating habits, weather conditions, and horseback riding with little interaction from them. Data, following Picard's advice, is studying Hutchinson from afar, mimicking his hand movements and facial expressions. Briefly practicing on Crusher and Riker, he appears to be overdoing it, but Riker is quite amused. Picard hears about the horseback riding from Hutchinson and sees a way to escape from the meeting – the damp weather and isolation on the trails sound perfect – and returns to the Enterprise to get his saddle.
+
+After retrieving his saddle, Picard walks to the transporter room with minutes before the sweep is to occur but stops when he notices an open ODN junction with a severed ODN line. He encounters Devor, who says he is performing last-minute maintenance to the systems before the baryon sweep begins. Picard agrees to let Devor get back to his work and starts to walk away. Devor attempts to attack Picard from behind with a laser welder, but Picard knocks him to the floor with his saddle and then disables him with a Vulcan nerve pinch. Picard then runs to the transporter room with 30 seconds to spare before the main computer shuts down the primary systems. Picard then sees several other people on the ship but successfully hides from them in order to escape. Meanwhile, the baryon sweep has begun, starting at the warp nacelles. He enters the transporter room and activates the transporter console for beam down, but he is too late, and it immediately shuts down once he stands on the transporter pad. He is now trapped on the Enterprise.
+
+
+=== Act Two ===
+Data is continuing his small talk on Orton, still with little success, while Hutchinson talks to Riker. After a little bit of maneuvering, he introduces Hutchinson to Data, who has been practicing Hutchinson's technique and is now ready to engage Hutchinson himself in conversation. They hit it off immediately.
+Picard drags Devor to sickbay, opening the deactivated doors with an emergency hand actuator, and asks him what he is doing on his ship, threatening him with a phaser and then the laser welder when Devor tells him that his phaser would not work from the intense plasma field the baryon sweep generates. Devor refuses to help him; after all, Picard won't kill him because he is a Starfleet officer. Picard instead knocks him out with a hypospray. Picard takes Devor's communicator to listen in on the intruders' communications. Picard walks through the Enterprise where he is captured by Kiros while he is trying to open an access hatch in a turbolift and is taken to main engineering.
+At Arkaria Base, Riker and Deanna Troi watch with fascination as Hutchinson and Data continue to talk: Hutchinson is a pro, but Data is a fast learner with inhuman patience. Just then, La Forge notices through his VISOR that there are unusual energy readings underneath a reception table and asks a member of the staff if he can take a look at it. The staff member tells him there's nothing to worry about, telling him it is likely a malfunctioning heating element. During this, Riker is wondering why the staff is trying to move La Forge away from the table. Orton then pulls out a disruptor and shoots La Forge, injuring him. An accomplice uses another disruptor to shoot Hutchinson. The Arkarians point their disruptors at Riker, Data, and Troi before they can react and demand they all stay where they are. The base has been overtaken in a surprise attack.
+
+
+=== Act Three ===
+On the Enterprise, Picard meets Kelsey and her crew, who are attempting to steal trilithium resin from the Enterprise's warp core. Picard tells her that he is Mot, the ship's barber and that he simply got lost on the ship trying to collect his saddle. Picard is held under guard by Satler, but eyes the field diverter with interest.
+Hutchinson was killed by the surprise attack in Arkaria Base, and La Forge is seriously injured. The rest are being held hostage but are trying to assess the situation with help from Troi's empathic abilities. The assailants have made no demands or claims, which indicates a strategic rather than psychological motive, and their anxiety indicates they're off schedule (probably because La Forge blew their cover). They're improvising, so if they plan well, they could seize the initiative. Data recommends modifying La Forge's VISOR to produce a hypersonic pulse, which would knock out everyone in the room near-instantly except himself. Riker agrees but cautions to proceed covertly.
+Kelsey and company still don't know that Picard has knocked out Devor and taken his laser welder. He uses this to make a move. Keeping the tool behind his back, he maneuvers it into an inlet underneath an engineering console and fires into it. This produces an overheat and activates the emergency coolant systems. Picard then uses the distraction to make an escape, knocking Satler to the floor from behind and then flees into the Jefferies tubes as the isolation door begins to close. Before he leaves, though, he fires on and shorts out Kelsey's field diverter: rendering engineering unsafe from the sweep. Satler follows him into the tubes, and Picard attempts to escape but finds the baryon sweep behind the door in front of him, closing in.
+
+
+=== Act Four ===
+Satler follows down the same corridor but only finds a closed door and Picard's jacket. By the time he realizes it's covering a hole in the floor that Picard had cut to escape, the baryon sweep passes the closed door. Satler is heard screaming as the baryon sweep consumes him; Picard pauses briefly at this, a look of regret on his face that the man's death was so painful. Picard prepares to make a stand, taking a crossbow from Worf's quarters and making some modified arrows. 
+The communicator then relays Kelsey's plans. With engineering now no longer safe, they improvise a device to move the trilithium resin to Ten Forward, the last place on the ship to be scanned by the baryon sweep. Picard jumps on the communicator and warns her not to move such an unstable substance, but she refuses, saying that if he hadn't disabled her field diverter, she wouldn't have to improvise. She also knows Picard is a Starfleet officer since he'd left his combadge behind in the tube. Picard responds by making it difficult to travel to Ten Forward: cutting the rungs in the Jefferies tubes and forcing Kelsey into a longer, more random, alternative route. She and Picard continue to verbally fence through the communicator, trying to intimidate each other.
+On the station, Crusher uses a request for water to relay to Troi that the hypersonic pulse is almost ready, but a bright light will appear from the VISOR when she finishes the configuration; she needs a distraction. Riker creates a diversion by starting a fistfight with Orton. Riker is knocked out, but it works. Crusher finishes the modification without further incident.
+Pomet is searching for Picard in a corridor when he's struck in the leg by an arrow and quickly passes out. The substance that had been applied to the tip turns out to be a tranquilizer which will keep him unconscious for a while. But as Picard attempts to extract the arrow, Kiros appears, laser welder drawn at him.
+
+
+=== Act Five ===
+Word of "Mot's" capture is relayed to Kelsey as Kiros leads Picard away. Meanwhile, Kelsey and Neil are making their way through the Jefferies tubes. But when Neil passes the trilithium to Kelsey and explains how to unload it without it exploding, she promptly points her welder at him. When she finally emerges in Deck 10 and rejoins Kiros, Kelsey claims Neil got caught by the baryon sweep. Kiros notes Picard shot Pomet. Picard says that he is still alive, but he will not be for much longer; they cannot go back for him, as the baryon sweep is entering his location and will kill him.
+Back on the planet, a signal indicating an incoming ship is approaching. Data and the others realize it's probably the terrorists' escape craft. Riker relays instructions to Data, the only one who will remain conscious after the pulse activates: stop that ship by any means. Crusher activates the hypersonic pulse, and it works as planned. Data soon proceeds unhindered to the control panel.
+As Kelsey, Kiros, and Picard approach Ten Forward, Picard decides to reveal his true identity, hoping to be taken as a hostage, but Kelsey reveals that the trilithium is her sole objective. She's not a terrorist, as Picard had suspected, but a merciless thief who will steal and sell to anyone willing to pay; her only motive is profit. She tells Picard that she would prefer it be thought of as commerce. As they enter Ten Forward, though, Picard has another trap ready. He steps over several strips along the floor, but Kiros steps on one. It promptly bursts into an intense flash, stunning her. Kelsey is knocked back as well, and she drops the trilithium. She and Picard fight even as the baryon sweep finally enters Ten Forward. Kelsey eventually fights her way free of Picard and grabs the trilithium container, but Picard makes a grab for it also. 
+
+Finally, Kelsey knocks Picard away and holds him at gunpoint, freeing her to be transported to her ship. But with the sweep approaching, Picard's main concern is shutting it off. After several attempts to contact the station and have the sweep terminated, it finally deactivates with mere meters to spare. Data then contacts Picard and asks about the ship that had transported someone off the Enterprise, to which Picard replies that they "won't get very far." He reveals that he removed the stabilizer during the scuffle and watches through the forward windows as Kelsey attempts to escape, only to have the resin destabilize and destroy her ship. The explosion rocks the Enterprise slightly.
+
+Picard is in sickbay, where Crusher is treating him for the injuries he incurred in the fight in Ten Forward with Kelsey. Picard is more concerned with getting back his saddle, which he left on Deck 7 after he attempted to transport off the Enterprise before the baryon sweep began. Riker and Troi enter, stating that they've had three security teams looking for it but couldn't find it, but fortunately Worf arrives with the saddle, which had been placed in a maintenance locker, and Picard says it came in handy, but he regrets not being able to use it on an actual horse. "Of course", Worf replies.
+
+
+== Memorable quotes ==
+"…It has been quite a day, has it not?"
+
+- Data attempting small talk with Picard
+
+"I am attempting to fill a silent moment with non-relevant conversation."
+"Small talk."
+
+- Data and Picard
+
+"Captain, request permission to be excused from Commander Hutchinson's reception."
+"Permission granted. I wish I could excuse myself as well."
+"Uh, Captain, permission to-;"
+"Mister La Forge, I cannot excuse my entire senior staff. Mister Worf beat you to it."
+
+- Worf, Picard and La Forge dreading the reception
+
+"You're Starfleet. You won't kill me."
+"You sure? (stuns Devor) It seems you're right."
+
+- Devor and Picard
+
+"They're still at it."
+"Non-stop. I have to admit that it has a sort of strange fascination – how long can two people talk about nothing?"
+
+- Troi and Riker about Data and Cmdr. Hutchinson's non-stop small talk
+
+"Who are you?"
+"My name is Mot. I'm uh, I… I'm the barber."
+
+- Kelsey and Picard, who assumes the identity of the Enterprise's Bolian barber
+
+"Satler, get down here and uh… keep an eye on our barber."
+
+- Kelsey asks Satler to watch Picard
+
+"You keep a saddle on board the Enterprise?"
+
+- La Forge, Worf, Troi, and Riker
+
+"Sir, an unidentified scout ship has just beamed someone off the Enterprise. Do you know anything about it?"
+(holds up the dynamic stabilizer) "I know they won't get very far…"
+
+- Data and Picard shortly before Kelsey's ship explodes
+
+"I only wish I had the opportunity to use it on a horse."
+"Of course."
+
+- Picard, lamenting on his unused saddle, and Worf responding. This might be a humorous reference to the lyrics of the theme song to the 1961 television show Mister Ed.
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft script: 4 January 1993
+Final draft script: 14 January 1993 [1]
+Premiere airdate: 29 March 1993
+First UK airdate: 8 November 1995
+
+
+=== Story and script ===
+At the 2011 Phoenix Comicon, Morgan Gendel recalled that his pitch for the episode was "Die Hard on the Enterprise." [2]
+However, in other interviews Gendel played down the connection. "I'm not going to talk about it as Die Hard. That's somebody else's work. It's an idea we've seen countless times: Under Siege, Passenger 57. What I liked was the element I had come up with of the captain going down with his ship, which was rejected as a notion in the 24th century. That was a strong line for me – a captain alone with his ship. My theory is that what Picard loved most was the Enterprise. I don't think the staff agreed with me. I think they thought it was too much of a 20th or 18th century concept, or Kirk." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+Gendel initially called the story "Revolution", after The Beatles' song of the same name. This was an in-joke, as he had previously named "The Inner Light" after the B-side to "Lady Madonna". In this case, the producers overrode his choice as it was too similar to the title of "Evolution". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 248)
+The episode received an uncredited rewrite by Ronald D. Moore. He remarked, "The hallmark of Michael's tenure on the show has been character, but once we did that, there's also room to do stuff that is just straight run and jump. I think there's a recognition that sometimes it's okay to do an action show and not to have to try and strain the force of a character piece on top of that. It was fun to do a straight action piece and to just do comedy on the planet. What you rapidly ran into were the money considerations, as is usual with everything else on the show, so I had to pare back the run and jump and then what we had to deal with is: is this too brutal and too much killing? I'm always the one who kills people in scripts left and right, and people are always asking me to pull it back – it's not Star Trek, and I'm always, 'Kill more, kill more!'" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+Director Cliff Bole recalled, "'Starship Mine' went through a major restructuring at the last minute. Michael Piller and Rick just didn't like the way it was going and they said page one rewrite. Pages were coming in about ten a day while I was shooting." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+
+
+=== Production ===
+For the reception scenes, Cliff Bole asked co-producer Wendy Neuss to provide background small talk for the regular characters. The additional dialogue was scripted by staff writers Brannon Braga and René Echevarria, and Neuss then organised a flowchart tracking where the cast were standing and what they would be saying when not on camera. The cast recorded the dialogue at a group looping session at Modern Sound. However, most of the additional dialogue was not incorporated into the final episode. (Star Trek: The Next Generation Companion, 2nd ed., p. 240)
+Bole recalled that the lighting for the episode was difficult. As the ship's systems were powered down, the standard time-saving pre-lighting could not be used. As such, he had to work with Jonathan West to create new lighting schemes for every set. West was pleased to have the opportunity to try lighting the sets in a different way, due to the fact that since joining the show earlier in the season, he had been restricted to using the lighting setups designed by previous director of photography Marvin V. Rush. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+Bole also thought the episode suffered somewhat when the length of shooting was reduced to seven days. "I had to cook. When you lose another twelve hours of production, it hurts creatively. The show still stands, but I could have added a lot more and so could the cameraman. At the end, the little thing he pulled out of the canister in Ten Forward, which was kind of like a grenade pin, you couldn't see. You didn't know what he had in his hands so we just didn't sell it. I should have done a little bit more." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+Budget considerations also affected the reception scenes, as extras were not available due to cost. Likewise, Michael Westmore recalled that the male "shoelace eye" terrorist (Pomet) was to have a fuller face treatment. (Star Trek: The Next Generation Companion, 2nd ed., pp. 240-241)
+After he is shot, Hutchinson is not seen or mentioned again. However, a following scene pans across a purple fabric that is covering a humanoid body, indicating he was killed. Some additional dialogue between Riker and Crusher that was present in the script but not the episode would have confirmed Hutchinson's death. [3]
+Patrick Stewart performed several of his own stunts for this episode. (Star Trek: The Next Generation Companion, 2nd ed., p. 240)
+The role of mercenary leader Kelsey (performed by Marie Marshall) was originally offered to Robin Curtis, though she had to turn it down for an offer she had accepted less than half an hour earlier. (Star Trek: The Magazine Volume 1, Issue 12, p. 54)
+
+
+=== Sets, props, and costumes ===
+The venerable Varon-T disruptor prop makes an appearance, as Kelsey's personal weapon.
+Among the recurring items in Worf's quarters are the Ligonian glavin which first appeared in "Code of Honor" and the Kahless and Morath statue.
+The reception area at Arkaria Base featured the bird sculpture first seen in the third season episode "The Bonding" and later in the seventh season episode "Preemptive Strike".
+The reception area also featured a wall decoration which can also be seen in Proconsul Neral's office in the fifth season episodes "Unification I" and "Unification II", in the barbershop aboard the Enterprise-D in the sixth season episode "Schisms", in the observation lounge in the seventh season episode "Parallels", in the office of Minister Kray in the Star Trek: Voyager first season episode "Ex Post Facto", in Neelix's quarters in the episode "Jetrel", and in Annorax's ready room aboard the Krenim weapon ship in the VOY fourth season episode "Year of Hell".
+Following the fifth season episode "The Game", this episode marks the second time a matte painting optical extension was used for a Jefferies tube.
+The crossbow seen in this episode was rented for five days from the Pony Express Sport Shop Inc. for US$ 125.00.
+Two of the terrorist jumpsuits from this episode were later re-used for the Serosians in the Star Trek: Voyager fourth season episode "Revulsion". The costume worn by Stuart Coleman was later sold off on the It's A Wrap! sale and auction on eBay. [4](X)
+
+
+=== Continuity ===
+Tim Russ, who plays terrorist Devor in this episode, is better known for playing Tuvok throughout the run of Star Trek: Voyager. It is interesting to note that in this episode, Russ (who goes on to play a Vulcan) is the recipient of an apparent Vulcan nerve pinch from Jean-Luc Picard. Additionally, an enemy race called the Devore appeared in VOY: "Counterpoint".
+According to the Star Trek: The Next Generation Companion, 2nd ed., p. 240, Picard's apparent nerve pinch was intended to be a simple carotid-artery block. This is also supported by the script. [5] Alternately, it is possible that Picard's mind meld with Sarek (in TNG: "Sarek") left him with the ability to perform that technique. Jonathan Archer also demonstrated a successful nerve pinch after receiving Surak's katra in ENT: "Kir'Shara". Leonard McCoy was unable to perform the neck pinch while carrying Spock's katra in Star Trek III: The Search for Spock nor was Spock able to teach it to James T. Kirk, despite his efforts in (TOS: "The Omega Glory").
+In this episode, the terrorists are attempting to steal trilithium resin which Picard explains is a toxic byproduct of the ship's engines. In Star Trek Generations, Worf explains to Riker that trilithium is a synthetic compound the Romulans had to create in a lab that was much more dangerous than a toxic compound – but capable of halting all nuclear fusion in a star, causing it to collapse under its own mass, generating a shock wave powerful enough to destroy everything in its system. Trilithium is also present in the bomb with which the Dominion attempt to destroy the Bajoran sun. (DS9: "By Inferno's Light").
+This episode includes the only mention of the Sheliak outside of the episode in which they appear (TNG: "The Ensigns of Command").
+
+
+=== Reception ===
+Patrick Stewart commented, "I enjoyed the episode enormously. It's now in my top half a dozen episodes. It was wonderful to be out of uniform for an entire episode and to be on the ship without any of the other boring crew members." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+Rick Berman stated, "This was a classic example of a bravura role for Picard. It had a real tone and style to the look of the show and I think Cliff Bole did a nice job directing it. I enjoyed seeing Patrick as an actor being able to get physical." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+In contrast, Michael Piller remarked, "It didn't feel like Star Trek to me. I liked the show and thought it was very effective and well directed by Cliff, but I was worried that it was very violent, which troubled me. Picard slugging it out with the two women wasn't silly, and Patrick did his usual fine job, but it was derivative." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+Morgan Gendel recalled, "First time I saw it, I wasn't sure how well it worked. But when I went back to watch it a second time, I really like it, and thought it was true to what I was trying to do." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 275)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 72, 18 October 1993.
+As part of the TNG Season 6 DVD collection.
+As part of the Region 2 release of the Star Trek: The Next Generation - Jean-Luc Picard Collection.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+David Spielberg as Calvin Hutchinson
+Marie Marshall as Kelsey
+Tim Russ as Devor
+Glenn Morshower as Orton
+Tom Nibley as Neil
+Tim deZarn as Satler
+Patricia Tallman as Kiros
+Arlee Reed as Arkarian waiter
+Alan Altshuld as Pomet
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Armstrong
+Tracee Lee Cocco as Jae
+Hal Donahue as command division officer
+Gina Gallante as science division ensign
+Grace Harrell as operations division officer
+Michael Moorehead as science division ensign
+Unknown performers as
+Command division lieutenant
+Two Starfleet officers (voice)
+
+
+=== Stunt doubles ===
+Maria Kelly as stunt double for Marie Marshall
+Irving Lewis as stunt double for Tim Russ
+John Nowak as stunt double for Patrick Stewart
+Mark Riccardi as stunt double for Jonathan Frakes
+J.P. Romano as stunt double for David Spielberg
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+2364; 2365; 2369; appellation; Arkaria; Arkaria Base; Arkarian horn fowl; Arkaria sector; Arkaria system; astrophysics lab; audio receptor; auto-shutdown sequence; barber; baryons; baryon sweep; beta shift; body temperature; Calvin; Cargo Bay 2; Celsius; commerce; Conklin; control rod; crossbow; cubic meter; cut; dynamic stabilizer; Edwell; egalitarianism; emergency hand actuator; emergency turbolift; engineering personnel; etymology; field diverter; Galaxy class decks; Gaspar VII; heating element; horse; hostage; hostage negotiation; Human; Hutchinson's parents; hypersonic pulse; hypospray; jaw; Jefferies tube; Kelsey's scout ship; kilometer; ladies' man; laser bonding; laser torch; lieutenant; lieutenant commander; Magellan, USS; magnetic pole; maintenance locker; mean temperature; medical storage unit; milligram; milligrams per minute; Mitchell; Mot; name; negotiation tactics; nesting ground; noble; ODN interface; ODN junction box; optical transducer; ornithology; pain receptor; Piano Concerto Number 17; poetry reading; political agenda; profit; promontory; Remmler Array; rider; Riskian cheese pastry; saddle; science personnel; scout ship; section chief; senior staff; Sheliak; shuttle drone; sickbay; stable; Starbase 97; Starfleet; Starfleet Medical; stasis unit; surname; talent show; terrorist; tissue sample (aka living tissue); trail; transport assembly; Transporter Room 3; trend; trilithium; trilithium resin; turbolift; Tyrellia; Tyrellian; Tyrellian crewmen; Tyrellian laser-art; VISOR; Vulcan nerve pinch; weather pattern
+
+
+=== External links ===
+"Starship Mine" at Memory Beta, the wiki for licensed Star Trek works
+"Starship Mine" at Wikipedia
+"Starship Mine" at MissionLogPodcast.com
+"Starship Mine" script at Star Trek Minutiae
+"Starship Mine" at the Internet Movie Database

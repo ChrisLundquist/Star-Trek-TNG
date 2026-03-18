@@ -1,0 +1,263 @@
+When Captain Benjamin Maxwell apparently goes rogue, the Enterprise is ordered to apprehend him before his actions result in another war between the Federation and the Cardassian Union.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 44429.6. We are on a mapping survey near the Cardassian sector. It has been nearly a year since a peace treaty ended the long conflict between the Federation and Cardassia."
+The USS Enterprise-D is conducting mapping surveys near the Cardassian border. Captain Picard is cautious. The Federation had been at war with Cardassia for some years and only recently has established a peace treaty between the two peoples in the past year. This particular sector is a second trip for Picard, as he once encountered the Cardassians in the sector when he was in command of the USS Stargazer. He tells the story to the bridge crew, recounting how he lowered his shields as a sign of good will, but the Cardassians took offense and attacked, taking out his weapons and damaging the impulse engines before he could regroup and run. Counselor Troi finds the story humorous, and expresses mock disbelief that Picard was capable of running away from a fight. Picard simply replies "Believe it." Lieutenant Worf says that the Cardassians have no sense of honor and should not be trusted. Troi replies that they are now allies and have to be trusted. Worf scoffs that trust is earned and not given. Even still, Picard does not want to stay too long near the border without letting the Cardassians know their intentions.
+Alone in their quarters, newly married Miles and Keiko O'Brien are having breakfast together. The chief doesn't seem to care much for Keiko's breakfast selections: kelp buds, plankton loaf, and sea berries, but she explains that she has this every morning and that it's very healthy. O'Brien diplomatically thanks her for introducing him to the food she's accustomed to and says that he'd love to make her food he's used to. He goes on to describe how his mother used to cook, using real, non-replicated food, as she believed that real food was more nutritious. This surprises Keiko, to which she incredulously asks if O'Brien's mother handled raw meat, touched it, and cut it. O'Brien says that he'll have to use the replicator to make something special for her, much to Keiko's delight. Their romantic moment is soon interrupted by a weapon impact, and the sounds of the red alert klaxon. O'Brien quickly gets up and reports to his station.
+Worf calls out that the Cardassian ship is beginning to fire again. The ship takes a hit off the shields and minor damage is sustained on the secondary hull before the shields went up. Chief Engineer Lieutenant Commander La Forge calls out that the starboard power coupling is down, as the ship is hit by an even heavier blast.
+The fish-like Cardassian ship lets loose another salvo at the Enterprise; Picard initiates a delta-sequence maneuver and orders the ship's phasers ready and limits the targets to engines and shields. After scoring multiple hits on his opponent, Picard successfully forces his attacker to stand down. The Cardassian ship's captain, Gul Macet, answers the hail, and informs Picard that the attack on the Enterprise was in retaliation – a Federation starship attacked and destroyed an unarmed science station in the Cuellar system. Picard doesn't understand this and asks for one hour to speak with his superiors at Starfleet. The alternative is for each ship to continue firing at each other, which Picard reminds Gul Macet that such a contest would certainly put him at a disadvantage. Macet grants the Starfleet captain his request – only one hour.
+
+
+=== Act One ===
+The report submitted to Starfleet is confirmed, and Admiral Haden reports it was the USS Phoenix, commanded by Captain Benjamin Maxwell. Picard knows of Maxwell and is confused as to why he would do something like this, since he is considered one of Starfleet's finest captains, and that he must have had a reason. Haden doesn't know, because the ship is running silent and not responding to their communiqués. The Cardassians have given Picard safe passage as long as they allow a delegation to come along with them. He is ordered to find the Phoenix, which was last seen in Sector 21505 and return her to Federation space. Haden reminds Picard that the Federation is not prepared for a new sustained conflict – after their losses to the Borg at Wolf 359 – and that the peace must be preserved at all costs.
+
+Picard explains that Macet and two of his aides will be transporting to the ship as guests. Worf and Commander Riker ask that they post guards at sensitive areas of the ship. Picard agrees but reminds Worf to instruct his men that the Cardassians are guests. He asks Data if anyone on the ship has served previously with Maxwell. After accessing the information. Data mentions Chief O'Brien, since he served on the USS Rutledge as tactical officer. Picard asks Riker and Troi to meet the guests and tell O'Brien that he will need to meet with him soon.
+The three Cardassians transport on board and Riker and Troi introduce themselves. Macet introduces his aides, Glinns Daro and Telle. Riker introduces O'Brien to them, and O'Brien replies with a simple brief nod. Riker escorts them to the conference room, and before leaving the transporter room, Troi looks at O'Brien, as she senses something about the Cardassians is making him uneasy.
+
+
+=== Act Two ===
+"Captain's Log, supplemental. We have entered Cardassian territory and are proceeding on our quest to locate the Phoenix."
+In the observation lounge with the senior staff and the Cardassians, La Forge explains that they can scan up to ten light years, which translates to one sector per day. They've scanned Sector 21505 and found no sign of the Phoenix. Gul Macet appears to be dissatisfied at the Enterprise's progress and expresses his doubt that the ship is still in the sector. Riker, echoing Macet's irritated tone, explains that they have no idea where the Phoenix is, but that its last known location is a good place to start looking. Macet then articulates his doubts that the Enterprise crew is seriously interested in locating the Phoenix, and the atmosphere in the room becomes more heated. However, Picard, demonstrating his diplomatic expertise, takes on a calm, genial tone and reassures Macet that he is hearing reports just as they come in – nothing edited or withheld. Gul Macet, unable to respond to Picard's reason with more anger, concedes the point and settles down. Riker looks at Picard with undisguised admiration for how skillfully he handled the Cardassians in that tense moment.
+Picard then turns the floor over to Chief O'Brien, who served with Maxwell. Picard understands that Maxwell lost his entire family in a Cardassian raid on Setlik III, and O'Brien explains the circumstances. He describes the sneak attack made by the Cardassian militia and that they wiped out nearly a hundred civilians. Macet quickly concludes that Maxwell is acting out of a desire for vengeance, but O'Brien counters that Maxwell would not do that. Once again, the atmosphere in the room becomes heated, and Picard intervenes. Just as the discussion begins again, Worf reports from the bridge that they have located the Phoenix. The conference scatters as Picard and his bridge crew escort Macet to the bridge, leaving the glinns and O'Brien to proceed to the turbolift by themselves.
+A discussion takes place on the turbolift between Daro and O'Brien, with whom O'Brien loses his cool when Daro asks if he would like to join them in Ten Forward. He responds that it is his business who he spends time with.
+Data reports that the Phoenix is indeed in Sector 21505. Picard orders helm officer Wallace to set a course there and has Worf send a subspace message to the Phoenix, instructing them to prepare for a rendezvous. Macet offers a suggestion to Picard: with precise coordinates and the ship's transponder codes, he can have one of his ships meet up with the Phoenix much quicker than Picard can. Picard refuses, indicating that if one of his ships retaliates, they could quickly lose control of the situation, and he prefers to make the initial contact himself.
+During the lull as the Enterprise is en route, O'Brien treats Keiko to a potato casserole. He then starts humming "The Minstrel Boy," a war song from his days on the Rutledge, a song he says that Maxwell liked. He recounts the story told by the song, leading him to speak about his own experiences in the war and how he noticed that even in the conference room, there are people there who still don't like the Cardassians. He doesn't understand that even though the war is over, why there is still hatred towards them. Keiko asks how he feels about the Cardassians, and he responds that he feels fine. Keiko isn't too sure, however.
+The Phoenix is in hot pursuit of a Cardassian supply ship; this surprises Macet, as he does not expect them to be able to read the transponder codes of the Cardassian ships. Picard tries to hail the Phoenix but to no avail, which annoys Macet. He points out that he has warships that can intercept the ship much faster than the Enterprise. With no choice, and ignoring objections from Worf, Picard orders Worf to relay the prefix codes of the Phoenix to the Cardassian ship despite Worf's strong objections, stating he cannot allow Maxwell to destroy the ship.
+
+
+=== Act Three ===
+
+The Cardassian warship is in weapons range of the Phoenix, and Picard orders an overlay of the weapon ranges of both ships. The Cardassian ship fires on the Phoenix, which scores a direct hit on the starboard forward and aft, doing damage to its shields and forcing the ship to move out of range and regroup. The Phoenix returns fire with its forward phasers and photon torpedoes, destroying the warship, all of which is watched by a stunned Macet. When Picard asks if the supply ship is armed, Macet numbly replies that its weapons are certainly not enough to combat a Nebula-class starship. Before he can react, the Phoenix fires on the supply ship, destroying it. Horrified, Macet reports that the warship had a crew of six hundred, and the supply ship carried fifty. Picard accelerates to warp 9, while Macet leaves the bridge, clearly upset at these losses.
+Picard speaks to O'Brien, who is working on the transporter, about the man he once served under. Picard wonders how Maxwell took it when his family was killed. O'Brien replies that he took it as well as anyone could and knows that Maxwell was broken up inside. He further describes Maxwell as a model Starfleet officer, not missing a moment's duty, and as a person who would not act based on vengeance, and that the Cardassians are up to something. He says that Picard should be investigating them and not Maxwell. Picard reveals what happened moments ago, which puzzles O'Brien, but he still defends Maxwell, saying he must have had good cause to do it. Picard points out that when someone has been angry for a long time, he gets used to it and gets comfortable with it – so much so that he becomes blind to his own actions.
+In Ten Forward, O'Brien joins Daro at the bar for a drink. He apologizes for his previous behavior while on the turbolift, which Daro accepts, and indicates that it's taking a toll on both sides. O'Brien then brings up the Setlik III massacre. He was sent there to reinforce the garrison there, and mostly everyone was dead. Daro tells O'Brien that they were told it was being used as a launch site for a massive strike against them. O'Brien was with a group of women and children when two Cardassian soldiers burst in. He stunned one and was jumped by the other. During the struggle, a woman tossed him a phaser, and he fired. The phaser was set to maximum, disintegrating the soldier. O'Brien had never killed anything before then, not even a mosquito. Finally, he gets up and says to Daro, "It's not you I hate, Cardassian; I hate what I became because of you."
+Macet's other aide, Telle, is forcibly escorted to the bridge by Worf, who reports that the Cardassian was found accessing a computer terminal on Deck 35 to study the ship's weapon systems. Telle denies any such intention for accessing the computers, claiming only to study the efficiency of the computer systems themselves, but Macet chastises him for accessing them in the first place. He confines Telle to his quarters for the remainder of the mission and asks to meet with Picard privately. They go into Picard's ready room, where Macet apologizes for Telle's actions and promises he will be disciplined. Picard takes it in stride and views the matter as closed, but Macet isn't so sure. Picard says that if there is to be a lasting peace, neither of them must allow any one man to undermine their efforts. Macet then proclaims himself as a man who does not crave or need war and states that he views Picard in a similar light. They then get good news from Data: they have found the Phoenix and will intercept it in twenty-two minutes.
+
+
+=== Act Four ===
+"Captain's log, Stardate 44431.7. We have established communication with Captain Maxwell, and he has agreed to come on board."
+
+Maxwell beams aboard and is greeted by Riker. Maxwell knows all about Riker's efforts against the Borg and says they all owe him one. He is surprised to see O'Brien who Maxwell had no idea was serving on the Enterprise and details his service on the Rutledge. O'Brien takes it in stride and says he learned his technique from him to which Maxwell laughs. He then asks to see the captain, as he has a lot to talk about. Maxwell gives O'Brien a wink before leaving.
+
+With introductions settled, Maxwell explains his motive to Picard: the Cardassians are rearming, and the science station he destroyed in the Cuellar sector was actually a military supply port. Picard asks for proof, but Maxwell can't provide it, for he has none. Maxwell indicates that a science station in the Cuellar sector served no purpose, but it's a good strategic location for a military supply base in three Federation-controlled sectors. They were running supply ships in and out, and he would not accept that they were used for scientific research. Picard asks why he did not contact Starfleet. Maxwell did not want to wait months while they sifted through the reports and says lives were at stake and that they had to act now. Picard asks why. Maxwell gets annoyed and pins Picard as a bureaucrat. Picard points out that he nearly plunged the Federation into another war, but Maxwell counters that he prevented a war or delayed it. Picard dismisses that and scores a low blow on Maxwell, linking his actions to the loss of his family, a claim Maxwell vehemently denies. Maxwell says that history will remember Picard as a fool, a claim Picard will accept. Maxwell points out that he will be vindicated once it is clear what the Cardassians have done, but Picard says whatever they've done or not done is irrelevant. This burns Maxwell to the core. He wants Picard to come with him to prove he's been telling the truth, but Picard orders him to return to his ship and set a course to Starbase 211 with the Enterprise. Both ships have been ordered by Starfleet to return to Federation space together. The alternative is to be thrown in the brig and his ship towed in disgrace. Faced with that reality, Maxwell reluctantly shows acceptance of the orders and returns to his ship.
+
+
+=== Act Five ===
+With the Phoenix in close formation with the Enterprise, Picard orders Worf to send a message to Admiral Haden with their expected time of arrival. Just then, the Phoenix alters course, which baffles the bridge crew. Maxwell has set an intercept course at warp 9 for a Cardassian ship 0.12 light years away, which Macet believes Maxwell will attack. Unable to overtake the Phoenix and separate the potential combatants, Picard orders Wallace to plot an intercept course and has Worf arm phasers. Riker reminds Picard that O'Brien was Maxwell's tactical officer, and Picard acknowledges this by ordering Chief O'Brien to the bridge.
+When they arrive, the Phoenix does not appear to be ready to battle the Cardassian ship, yet the sensors cannot ascertain the Cardassians' status as the ship is running a high-powered subspace field. Picard is faced with the decision of firing on a Federation starship and needs O'Brien's insight into how Maxwell thinks in a situation like this. Maxwell hails the Enterprise and demands that Picard board the Cardassians' ship, or he'll destroy it. Picard refuses and affirms his resolve to use whatever means necessary to prevent Maxwell from undertaking any further hostile action. With that, he closes the channel, and O'Brien warns that Maxwell will strike if his back is to the wall.  This is confirmed when Data discovers the Phoenix is transferring power to her shields and weapons, which are being armed and loaded. Picard initiates red alert and readies to attack the Phoenix but O'Brien offers to beam over to talk some sense into Maxwell. Riker cautions that the Phoenix's captain won't bring his shields down to transport, but O'Brien replies that he knows how the Phoenix shields work. He explains that as it uses a high-energy sensor system, which cycles every 5.5 minutes, with a window of a fiftieth of a second, he can get on board through that window. Picard accepts the opportunity to avoid spilling the blood of fellow Starfleet officers, and O'Brien prepares to board the ship.
+
+Maxwell gazes at the Enterprise through his window and is surprised to see O'Brien enter. He points a phaser at O'Brien, but the transporter chief isn't armed. Maxwell wants Picard to board the Cardassian vessel, but O'Brien knows he won't. Maxwell is in disbelief that a Federation starship would attack another to protect the enemy, and O'Brien warns that he will. Maxwell asks what happened to the war, to which O'Brien responds that there is no war. Maxwell says the Cardassians live to make war, and that neither of them are the same. They start reminiscing about Setlik III, and Maxwell asks who that fellow was that used to follow O'Brien around like a puppy. O'Brien replies that it was Will Kayden. When Maxwell doesn't respond, O'Brien elaborates with the officer's nickname, "Stompie." O'Brien confirms Maxwell's memory that they also lost Kayden at Setlik III. Maxwell then asks, "What was that song of his, the one he'd always sing, the one I liked?" O'Brien recollects for a moment, then begins singing, soon joined by Maxwell:
+
+Maxwell realizes that he will not be able to win this fight, which O'Brien quietly confirms.
+
+"Captain's log, supplemental. Captain Maxwell has turned his ship over to his first officer and transported aboard the Enterprise. I have confined him to quarters for the return voyage."
+Picard praises O'Brien for his accomplishment. Even though O'Brien knows Maxwell's action was wrong, he says he is still proud to have served with him. Macet considers that O'Brien's loyalties are misplaced, prompting Picard to claim the Cardassian has much to learn about Humans. Maxwell was twice decorated with the Federation's highest citation for courage and valor during war; that he could not adjust himself to peace makes him an object of pity, but he shall not be dismissed.
+Before Macet leaves the conference lounge, Picard tells him that Maxwell was right all along: the transports and the outpost clearly point to the Cardassians rearming in secret. Macet rejoins that, if Picard believed that, why didn't he board the transport? Picard says his mission was to protect the peace, and if he had boarded the transport, the Federation and the Cardassians would be arming for war at that very moment. But he tells the Cardassian gul to take one last message with him to his superiors:
+"We'll be watching."
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2367
+
+
+== Memorable quotes ==
+"The Cardassians have no honor. I do not trust them."
+
+- Worf
+
+"Let me talk to my superiors and find out what is behind this. Give me one hour. The alternative is for us to continue firing at one another and in such a contest you would be… at a disadvantage."
+"Very well… one… hour."
+
+- Picard and Gul Macet
+
+"I know all about you, Commander. Fine work you did with the Borg. We all owe you on that one."
+"Thank you, sir."
+
+- Maxwell greeting Riker
+
+"Smells musty in here… like a bureaucrat's office."
+
+- Maxwell, while in Picard's ready room
+
+"You're a fool, Picard. History will look at you and say: 'This man was a fool.' "
+"I'll accept the judgment of history."
+
+- Captain Maxwell and Captain Picard
+
+"Mr. Worf, report to my ready room. My guest is departing."
+
+- Picard, after his tense meeting with Benjamin Maxwell
+
+"I think, when one has been angry for a very long time, one gets used to it. And it becomes comfortable like…like old leather. And finally… it becomes so familiar that one can't remember feeling any other way."
+
+- Jean-Luc Picard
+
+"It's not you I hate, Cardassian. I hate what I became because of you."
+
+- Miles O'Brien
+
+"Sweetheart, I'm not a fish."
+
+- Miles O'Brien eating breakfast with Keiko
+
+"I'm not gonna win this one, am I, chief?"
+"No, sir."
+
+- Benjamin Maxwell and Miles O'Brien, after Maxwell decides to surrender
+
+"The loyalty that you would so quickly dismiss does not come easily to my people, Gul Macet. You have much to learn about us. Benjamin Maxwell earned the loyalty of those who served with him. You know, in war, he was twice honored with the Federation's highest citation for courage and valor. And if he could not find a role for himself in peace, we can pity him, but we shall not dismiss him."
+
+- Picard, to Macet
+
+"If there is to be a lasting peace between us, neither you nor I must allow any one man to undermine our efforts."
+
+- Picard, to Macet after his aide accesses a computer terminal
+
+"Take this message to your leaders, Gul Macet: 'We'll be watching'."
+
+- Picard, to Macet
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 23 October 1990 [1]
+Second unit insert shots filmed: 7 December 1990
+Premiere airdate: 28 January 1991
+First UK airdate: 7 September 1994
+
+
+=== Story and production ===
+Jeri Taylor noted, "It was sort of Heart of Darkness with the rogue captain out of control. It started with the idea that if you had been at war with a country and now you are not at war with them anymore, you can't just immediately become friends. If you're trained to look at people as the enemy, it's hard to now be their friends. While in the 24th century people have a much more expansive view of the galaxy and are able to do it a little better, we planted the idea that some people had just a little more residual problem with that sort of thing, and harbored some resentment. [It's] a very provocative kind of area to get into. The material was somewhat epic in nature, which is always fun to do, and yet at its core was this very personal story between him and Picard, where two strong and able people tee off against each other." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 214)
+The scene where O'Brien and Captain Benjamin Maxwell sing "The Minstrel Boy" was suggested by Michael Piller. (Star Trek: The Next Generation Companion, 2nd ed., p. 152) "The Minstrel Boy" was originally written in memory of those who died during the Irish Rebellion of 1798.
+For the production staff, the scene became one of the highlights of the episode. Rick Berman remarked, "That was a wonderful English [sic] hymn that was used in The Man Who Would Be King. I always loved it and we worked it in where O'Brien and Gunton's character sing it together." Likewise, Jeri Taylor commented, "There is the wonderful device of the song at the end of the episode, in which Colm Meaney really came into his own and did a wonderful job. When he and Maxwell sing that song at the end, I really just loved that moment." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 214)
+Director Chip Chalmers observed, "This episode aired during the Gulf War and was about Picard doing everything he could to prevent a war, happening during a time when the United States of America was doing everything it could to start a war. I thought it was a real interesting dichotomy of ideas." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 214)
+Second Unit insert shots for this episode were filmed on Friday, 7 December 1990 on Paramount Stage 9.
+The theme of a rogue warrior fighting war after peace is declared is an update from the 1979 film Apocalypse Now, which, in turn, was based on the 1889 Joseph Conrad novel Heart of Darkness.
+
+
+=== Deleted scenes ===
+Several scenes were filmed but later cut from the episode during editing. These scenes came to light in March 2013 when Canadian Star Trek collector Cyril "Patchou" Paciullo (owning several more Next Generation episodes workprints) uploaded the contents of an early work print VHS tape of the episode to the internet. [2]
+
+Act 1, Scene 15 – Picard attempts to calm the nerves of his senior staff before the Cardassians board the Enterprise.
+Act 2, Scene 16 – Riker discusses Maxwell's actions with Chief O'Brien.
+Act 2, Scene 26 – An extended version of the dinnertime discussion between O'Brien and Keiko.
+Act 4, Scene 41 – Maxwell marvels at the Enterprise bridge, and encounters Gul Macet before visiting Picard's ready room.
+Act 4, Scene 42 – An extended version of Picard's ready room meeting with Maxwell, where Picard infers that Maxwell has no documentation to back up his accusations against the Cardassians.
+Finally, in the last scene in which Picard warns Gul Macet, Picard is seen stating "Take this message to your leaders, Gul Macet. We know. We'll be watching. And we'll be ready." In the edited version, Picard ends the line with only "We'll be watching."
+Paciullo submitted his tapes to TrekCore, who in turn brought him into contact with CBS. This discovery was a timely one, as these scenes, found on the tape of the episode (labeled "Peter's Cut – 11/26/90", after Producer Peter Lauritson), could, cleaned-up (not remastered as magnetic tapes cannot be digitally scanned) in better resolution, still be incorporated as part of the bonus feature "Deleted Scenes" on disc six of the later that year released TNG Season 4 Blu-ray set. Incidentally, one of Paciullo's other tapes, that of season companion episode "Brothers", was likewise treated, unlike his other work print tapes of the second season episode "The Child", and the third season episodes "Evolution" and "The Bonding", which came to light too late for inclusion on their corresponding releases. [3] The tapes, nine in total, were acquired by Paciullo as Lot 77, estimated at US$200-$400, at the Propworx' The official STAR TREK prop and costume auction of 8 August 2010 for US$360 (including buyer's premium). [4]
+
+Scene numbers derived from script. [5]
+
+
+=== The Cardassians ===
+This episode marks the debut of the Cardassians. They went on to have a prominent role in Star Trek: Deep Space Nine, in which Colm Meaney and Marc Alaimo play Miles O'Brien and Dukat respectively.
+Director Chip Chalmers enjoyed dealing with the new race. "We introduced a new enemy that's finally able to speak on the level of Picard. They're not grunting, they're not giggling, they're not mutes or all-knowing entities. Here are the Cardassians who also graduated first in their class and they're able to carry on highly intelligent conversations with Picard, but they're sinister as hell." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 214)
+Michael Westmore created the reptilian makeup design of the Cardassians. He recalled, "I created a twin row of bony ridges, which started from the peak of the eyebrows and ran all the way back into the hairline. Then ridges went down the sides of the neck and flared out to the shoulder tips, giving the Cardassians a strange, menacing appearance, like a praying mantis, or a king cobra." (Star Trek: The Next Generation 365, p. 188) The spoon-like indentation was inspired by an abstract painting he had seen two years earlier of a wide-shouldered woman with what appeared to be a spoon in the center of her forehead. (Star Trek: The Next Generation Companion, 2nd ed., p. 153)
+The facial hair and headgear worn by Cardassians are unique to this episode and never shown again. Additionally, Cardassian energy weapons are pink here, but amber in all subsequent appearances.
+This episode marks the first appearance of kanar, a Cardassian alcoholic beverage, though the pronunciation (KAY-nar) differs from later appearances (kuh-NAR).
+This is also the first appearance of the Galor-class warship.
+
+
+=== Cast and characters ===
+This is the first TNG episode featuring Colm Meaney's character, Miles O'Brien, prominently in the story of the episode. Meaney was later a regular cast member on DS9. It is also the first episode to reference the Setlik III massacre, which would later be mentioned in numerous episodes of DS9.
+This is Alaimo's third appearance in TNG, each time as a different alien species. In his fourth and final TNG appearance in "Time's Arrow", he played a Human character, namely Frederick La Rouque, a 19th century professional gambler from New Orleans.
+Gates McFadden (Beverly Crusher) does not appear in this episode. Besides Season 2, in which she was not a regular cast member, this is McFadden's only non-appearance.
+Despite his significant role within the episode's events, the official episodic promo for this episode (available on the Blu-ray release) neither features nor mentions O'Brien, framing the episode's events entirely as a conflict between Maxwell and Picard.
+
+
+=== Continuity ===
+"The Minstrel Boy" was later used in one of O'Brien's final scenes in Star Trek, near the end of DS9: "What You Leave Behind".
+This episode reveals that the corridor located behind the port entrance in the observation lounge leads to a turbolift.
+This episode contains the first appearance of the Nebula-class starship. It is also the only appearance of a Nebula-class ship in this particular configuration.
+
+
+=== Reception ===
+Michael Piller was pleased with how this episode portrays the character of O'Brien, calling it "one of his best episodes." (Star Trek: Deep Space Nine Companion, p. 15)
+A mission report for this episode by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 16, pp. 6-9.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 43, 9 March 1992
+As part of the UK video collection Star Trek - Greatest Battles: 16 November 1998
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 4.4, 2 July 2001
+As part of the TNG Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Bob Gunton as Benjamin Maxwell
+Rosalind Chao as Keiko O'Brien
+Marc Alaimo as Macet
+Colm Meaney as Miles O'Brien
+Marco Rodriguez as Telle
+Time Winters as Daro
+John Hancock as Haden
+
+
+=== Uncredited co-stars ===
+Majel Barrett as Computer Voice
+Tracee Lee Cocco as Jae
+Denise Deuschle as sciences officer
+Michele Gerren as sciences officer
+Eben Ham as operations ensign
+Jeri McBride as sciences officer
+James McElroy as command officer
+Michael Moorehead as civilian
+Noriko Suzuki as operations ensign
+Talbot as Ten Forward waitress
+Guy Vardaman as Darien Wallace
+Unknown performers as
+Darien Wallace (voice)
+Ten Forward waiter #1
+Ten Forward waiter #2
+Three Cardassian officers
+
+
+=== Stand-ins ===
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Randy Pflug – stand-in for Colm Meaney
+Keith Rayve – photo double for Colm Meaney
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+2366; ability; acceleration; aft; aide; ale; ally; alternative; answer; apology; aroma; arrival; arsenal; attack; "back to the wall"; bard; Battle of Wolf 359; Blarney Stone; Borg; bravery; breakfast; "breathing room"; brig; bureaucrat; cabbage; caper; Cardassia; Cardassians; Cardassian militia; Cardassian sector; Cardassian space (Cardassian territory); Cardassian supply ship (supply ship); Cardassian warship #1; Cardassian warship #2; cargo ship; coded transponder frequency (aka transponder code, transponder frequency); casualty; chain; children; civilian; close formation; computer; computer station; contest; cooking; coordinates; corned beef; counselor; courage; Cuellar system; damage; damage report; day; death; defensive system; delegation; dignity; discussion (conversation); dish; diplomacy; disruptor; district; documentation; egg; emergency signal; emergency stations; enemy; engine; evasive maneuvers (aka evasive action); expedition; fact; Federation; Federation-Cardassian Armistice of 2367; Federation-Cardassian border; Federation-Cardassian War; Federation sectors threatened by Cuellar system science station; Federation space; file; first officer; fish; fool; Galaxy-class decks; Galor-class; geode; gesture; glinn; glory; guard; guest; gul; hail; harp; "hello"; history; home; honor; hour; hundred; idea; impulse engine; information; insight; initiative; Japanese cuisine; joke; judgment; kanar; Kayden, Will; kelp buds; Kelrabi system; kHz; kilometer; king; knowledge; lake; land; leader; leather; lie; light year; location; long range sensor; love; loyalty; mapping survey; marriage; massacre; master chef; master chief; Maxwell's family; meat; megawatt (MW); Midsummer Night's Dream, A; military supply port/military transport station; minstrel; "Minstrel Boy, The"; minute; mistake; month; mosquito; mountain; muffin; mutton shank; name; Nebula-class; number one; O'Brien's mother; oatmeal; observer; office; opinion; order; outpost; oxtail; patrol ship; pattern buffer; peace; peace treaty; phaser; phaser bank; Phoenix, USS; Phoenix first officer; photon torpedo; plankton loaf; potato; potato casserole; power; power coupling; power failure; prefix code; principle; priority one; prisoner; puppy; quest; question; radius; raid; rapid nadion effect; reason; red alert; rendezvous; replicator; report; research station (science station); revenge (retribution); role; room; ruse; Rutledge, USS; sabotage; safe passage; scalloped potatoes; scan cycle; scientific equipment; scientific research; scout ship; sea berry; search; secondary hull; sector; Sector 21503; Sector 21505; security detail; sensor; sensor system; Setlik III; Setlik III massacre; Setlik III settlement; sharing; shield generator; silent running; "silver tongue"; singing; skirmish; slavery; smile; sneak raid; song; soul; space station; speculation; speed; squad; Starbase 211; starboard; Stargazer, USS; street; structural integrity; subspace; subspace channel; subspace communiqué; subspace field; subspace frequency; subspace message; suggestion; superior; surprise attack; surrender; "sweetheart"; sword; tactical officer; target; terminal interface system; thought; thousand; torpedo bay; Trager; transporter; transporter chief; Transporter Room 3; transporting system; transport ship; truce; trust; turbolift; "under fire"; "under lock and key"; valor; vengeance (aka retaliate); visual range; war; warp speed; warrior; warship; watt; weapon; weapon range; weapon system; "within arm's reach"; year
+
+
+==== Other references ====
+Tactical situation monitor: Alfin-Bernado; Alpha Ataru; Alpha Carinae; Alpha Shiro; Altair III; Andor; Antares; Babel; Beta Reilley; Beta Simmons; Carson; Chess-Wilson; Delta Vega; Denkia; Denkir; Eminiar; Foster-D'Angelo; Gamma Hydra; Ganino; Genovese's Star; Iczerone Stimson; Janus VI; McKnight's Planet; Memory Delta; Memory Gamma; Murasaki 312; Omicron Ceti; Rigel; Sigma Nesterowitz; Stillwell; Theta Bowles; Theta Mees; Tsugh Khaidnn
+USS Phoenix dedication plaque: 40 Eridani A; 40 Eridani A Starfleet Construction Yards; Advanced Technologies Division; Berman, Rick; Chalmers, Chip; Chief of Staff; Curry, Dan; Dean, Doug; Exploratory Division; Fleet Administration; Fleet Ops; Fleet Yards Operations; James, Richard; Lauritson, Peter; Livingston, David; Mission Operations; Orbital Operations; Piller, Michael; Research and Development; Roddenberry, Gene; Rush, Marvin; Simmons, Adele; Sol Sector; Starfleet Academy; Stellar Imaging Division; Tactical Command; Taylor, Jeri; Yoyodyne Division
+
+
+==== Deleted references ====
+beef tongue; kidney pie; pot roast; shield modulation
+
+
+=== External links ===
+"The Wounded" at Memory Beta, the wiki for licensed Star Trek works
+"The Wounded" at Wikipedia
+"The Wounded" at MissionLogPodcast.com
+"The Wounded" script at Star Trek Minutiae
+"The Wounded" at the Internet Movie Database

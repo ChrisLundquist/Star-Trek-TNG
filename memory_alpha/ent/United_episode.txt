@@ -1,0 +1,257 @@
+Archer tries to unify the Andorians, Tellarites, Humans, and Vulcans in a plan to capture a marauder ship threatening to destabilize the region. (Part 2 of 3)
+
+
+== Summary ==
+
+
+=== Teaser ===
+Aboard the prototype Romulan drone ship, Commander Trip Tucker and Lieutenant Malcolm Reed struggle to regain their footing as the ship is violently shaken.
+On Romulus, the drone ship's pilot works on erratically maneuvering the vessel. When Nijil announces that Reed and Trip won't last long, Admiral Valdore informs him that the drone ship is approaching its next target; Nijil's attempts to eliminate Trip and Reed will have to wait. Ordering the pilot to stabilize the ship, in preparation for its imminent attack, Nijil reports that he is activating the vessel's multispectral emitters – its holographic "skin". Valdore orders him to use a particular holographic design to annihilate its target.
+On board the drone ship, Tucker asks Reed if he has recovered from the effects of the vessel's instability but the lieutenant answers that he is still dizzy. Tucker comments to Reed that he can feel the ship's warp drive being deactivated.
+
+Meanwhile, Nijil tells Valdore that the drone ship is aiming at its next target, a Rigelian scoutship. When he announces that the Rigellian crew are hailing the drone ship, Valdore orders Nijil to respond.
+On the bridge of the Romulan ship, Tucker hears the vessel fire at an unknown adversary. Reed advises him to prepare for the target to defend itself, moments before the drone ship comes under heavy fire.
+Nijil notifies Valdore that the Rigellian ship is causing damage to the drone ship, although Valdore instructs Nijil to allow the Rigellians sufficient time to transmit a distress call. Once Valdore realizes the distress call has been sent, he directs Nijil to destroy the Rigellian vessel.
+In the dark vacuum of space, the drone ship swoops down on its prey, disguised as Enterprise.
+
+
+=== Act One ===
+"Captain's starlog, supplemental. For now, the truce between the Andorians and Tellarites on Enterprise is holding. But Starfleet has informed me of a new diplomatic crisis."
+Gathered around the situation table on the bridge of Enterprise, Captain Archer tells Ensign Travis Mayweather and Commander T'Pol that the Rigellian vessel was a heavily-armed scoutship with a crew of seventeen, none of whom survived. Archer shows his officers a visual record which was sent by the Rigellian ship – it shows Enterprise, firing at the vessel. The Rigelian Trade Commission is demanding compensation from Starfleet and Archer's arrest to which the captain slams the monitor off. Archer encourages Mayweather and T'Pol to search for the Romulan drone ship. T'Pol tells him that she has discovered a method to detect the stealth vessel's warp signature, while Mayweather has designed a sensor grid which will extend Enterprise's range. Although the grid will require 128 vessels, it should prove to be an effective way to find the drone ship.
+In sickbay, Shran jokes that Phlox must be in love with Talas, as the doctor is treating her for more than a superficial wound, which he claimed was all she suffered. Although Talas was only grazed, the phase-pistol that Naarg shot her with was set to kill. Talas is outraged at the Tellarite, and is worried about the severity of her wound. Shran tries to reassure her that she will be well again and that they will soon be back on their homeworld, Andoria. When Talas asks, Shran promises not to let her die unavenged. Phlox enters and apologetically asks Shran to leave. Before he does so, however, Archer enters and offers him a proposal. Shran doesn't listen to the captain's suggestion but answers that he will take part if the plan includes killing Tellarites. As he leaves, Archer realizes that uniting the Andorians, Tellarites, Vulcans and Humans to provide the ships needed for the sensor grid will prove much more difficult than he thought.
+
+On Romulus, Senator Vrax complains to Valdore that the drone ship is damaged, defenseless and adrift in enemy space, following its battle with the Rigelian scoutship. Valdore reminds him that the Romulan vessel has automated repair systems, but Vrax fears the consequences of the vessel's potential discovery. Valdore replies that because the drone ships have no crew, the Romulans will never be blamed for their actions. Vrax's reply is that the prototype drone ship, is simply a modified Romulan warbird, a fact that the Vulcans would discover if they scanned the ship's propulsion matrix. He orders Valdore to have the drone ship return to Romulus, where he plans to tell the Romulan Senate that Valdore's test was a success. If the admiral doesn't carry out Vrax's orders, Valdore will be held responsible for the loss of the prototype drone ship. Uttering jolan tru, a Romulan farewell, Senator Vrax strides out of the command center with his Reman Commandos.
+Aboard Enterprise, T'Pol enters Captain Archer's ready room. Archer tells her that he was just contacted by Admiral Gardner, who told him that Starfleet is sending every available starship to Enterprise's location. Even at their maximum velocity, most of the ships will arrive in three weeks. When T'Pol asks about Columbia NX-02, Archer tells her that the vessel is undergoing repairs at Earth's orbital drydock facility. T'Pol reports that Minister T'Pau dispatched only 23 vessels, as the Vulcan High Command has recently experienced a period of political upheaval and many Vulcan ships are currently not fully manned. Archer sarcastically notes that T'Pau could not have picked a better time to clean house. T'Pol seems surprised when she notices Andorian and Tellarite fleet deployments on a monitor on the captain's desk but Archer explains that more ships will be necessary if the sensor grid is to be successful. T'Pol suggests that a command hierarchy be organized, due to the difficult relations between most of the members of the alliance. Archer comments that Humans are the only species that are allies of the Andorians and Tellarites and that Enterprise could relay all orders to the armada of vessels. T'Pol isn't convinced, however, due to the fact that Humans, Andorians, Vulcans and Tellarites have never cooperated on a mutual endeavor before. Archer believes that if action against the Romulans isn't taken now, they may later return in greater force.
+Aboard the drone ship, Lieutenant Reed and Commander Tucker are inspecting the systems on the bridge. Tucker tells Reed that he thinks he's found an environmental system, which he operates. Tucker hears a rush of air as oxygen is released into the room. Reed wonders if the ship could be deserted – perhaps it is a prototype, which would explain the design of its bridge. The vessel may have been an existing ship, modified with the latest technological advancements available to its designers. If Reed is correct, and the ship is run by computers, all that he and Tucker will have to do is to find a control which will deactivate the vessel's propulsion system. They set to work, searching for such a control.
+
+On Enterprise, Shran and Ambassador Gral argue. When it seems as though their quarreling is about to erupt into physical violence, Archer refuses to intervene. He asks them to put aside their differences and try to cooperate. To do otherwise would be to allow the Romulans what they want to achieve – the destabilizing of relations between political powers in the Alpha and Beta Quadrants.
+Aboard the drone ship, Reed senses that the vessel has resumed warp speed, a perception that is substantiated when Trip remarks that he detected a power spike from one of the conduits on the bridge. When Reed asks if the engineer believes warp is controlled from there, Tucker answers that all of the ship's controls should connect to the bridge, if it was originally built for a crew. Trip asks Reed to observe the bridge consoles, which the armory officer does. Working together, Reed and Tucker find the propulsion controls.
+On Romulus, Nijil tells Valdore that he isn't certain what Reed and Tucker are doing aboard the drone ship, as the vessel's visual surveillance system is off-line. He exclaims that the drone ship is no longer traveling at warp speed.
+Meanwhile, Reed hears the Romulan vessel drop out of warp as he stands on the deck of the bridge. Modestly, Tucker tells the lieutenant that he simply interrupted the power to the warp controls. He expects a backup system will come on-line soon. Reed draws his attention to a computer monitor which displays a map of their location. Together, they find their bearings. Reed believes that an area of the map could represent the power coupling for the entire warp control system but the area is separated from the bridge. Touching the section of the map that corresponds to the dividing wall, a door opens, leading to the area that Reed and Tucker want to reach.
+On Romulus, Nijil reports that one of the intruders has left the bridge of the drone ship and is in the service junction, having located the main coupling for the warp matrix. The Romulan scientist tells Valdore that they have what they need to kill him in the service junction.
+On board the drone ship, Tucker tells Reed to monitor a diagram as the engineer flips through some alien equipment as if they were circuit breakers. After Tucker calls that he's cut the first one, Reed comments that a section of the map dimmed.
+Meanwhile, Nijil reports to Valdore that the intruder they are monitoring is disabling the warp system and that the ship's automated self-repair systems will take more than a day to restore its warp capability, more time than Nijil and Valdore have. When the Romulan scientist announces that the vandalizing intruder is still in the service junction, Valdore orders Nijil to seal him in there.
+Tucker is about to look for a communications circuit when the door to the service junction closes. He contacts Reed using his communicator and asks if Reed touched anything that might explain why Tucker is locked on the other side of the door. Reed tells Tucker that he didn't and that the hatch controls on his side aren't responding. On both sides of the door, the officers try to force the hatch open but stop when they hear the transmitted voice of Admiral Valdore. The Romulan reveals that he is in command of the vessel. When reactor coolant begins to fill the service junction, Tucker lets Reed know, mentioning that the radiation level is at one hundred roentgens and increasing. Valdore warns Tucker that if he doesn't reestablish the drone ship's warp matrix, he will ultimately die within seven minutes.
+
+
+=== Act Two ===
+
+On Enterprise, Shran hands Captain Archer an Andorian PADD. It displays the communication codes that the Andorian fleet will use in the sensor grid. Archer informs him that the Tellarites have also agreed to participate and that they, too, will require the communication codes. Distracted by the pictures of craft named Enterprise on Archer's ready room wall, Shran asks the captain if he has served on all those ships. Archer explains that although he wasn't even born when some of them were on active duty, every craft on the wall was called Enterprise. He tells Shran that one of the vessels sailed Earth's oceans almost four hundred years ago. Shran reveals that the ship he recently captained, the Kumari, was named after the first ice-cutter to circle Andoria. He speculates that perhaps future ships will be named after his and Archer's ships, if they achieve something historic together. Seeing no reason why Andorians and Humans can't become allies, he shakes Archer's hand.
+On the drone ship, Tucker plans to deactivate the reactor which will stop the release of reactor coolant but Reed tells Tucker that he has thought of a better plan. The lieutenant tells Tucker to stand back from the door. Valdore tries to convince them that their attempts to save Commander Tucker are futile – he'll be dead in three minutes. Reed shoots the door but the phase-pistol has no effect. Tucker deactivates the reactor but the backup sequencer comes on-line. While reactor coolant continues to flow into the service junction, Valdore attempts to persuade Reed and Tucker to follow his instructions.
+On the bridge of Enterprise, T'Pol moves towards Archer in the situation room and reports that all 128 ships that are needed for the sensor grid have moved into position. Phlox contacts Archer and urgently asks him to come to sickbay.
+Later, Shran storms into sickbay, where he finds Archer and Phlox. The doctor apologizes to Shran and says he did everything that he could have. The Andorian is furious – his beloved, Talas, is dead. Archer convinces Shran that this is the wrong time for anger and, over her dead body, Shran breaks down and mourns Talas.
+
+Aboard the drone ship, Tucker notifies Reed that the radiation level is at 180 roentgens and continuing to increase and that his attempts to shut down the backup reactor sequencer have been unsuccessful. Reed tells Valdore that he will reestablish the warp matrix to save Commander Tucker but Tucker orders him not to, before passing out. Reed sets to work to try to save Tucker's life.
+On Enterprise, Ambassador Gral indicates that all the Tellarite ships have joined the sensor grid. All that will be required now is patience, which Archer and Naarg agree will be hard for the Tellarites. Shran interrupts proceedings outside the conference room when two MACOs stop him from entering. Archer orders them to let him in, once Shran convinces the captain and the MACOs that his intentions are peaceful. Inside, he talks about Talas and shows Naarg a leather pouch full of her blood. He explains that when a guardsman dies far from Andoria, his, or her, companions carry a part of him, or her, back to the ice of their homeworld. In a furious rage, he empties Talas' blue blood onto Naarg. Archer hauls him off the Tellarite, where Shran warns that if Naarg doesn't face him in combat, the Andorian Imperial Guard will withdraw its ships from the sensor grid.
+
+
+=== Act Three ===
+Tucker is still unconscious aboard the drone ship. Reed demands that Valdore stops the release of reactor coolant now that the lieutenant has reconnected the warp matrix. The Romulan opens the hatch to the service junction and Reed enters the area, as the hatch closes behind him. He reveals that he and Tucker are in a better location than on the bridge, where he has set a phase-pistol to overload.
+Meanwhile, Valdore instructs Nijil to take the drone ship back to Romulus at warp speed.
+Aboard the ship, Tucker senses that the vessel has resumed warp propulsion and reminds Reed that he disobeyed a direct order. Reed sarcastically retorts that he's sorry for saving Tucker's life and promises that he won't do it again. Grateful to still be alive, the engineer apologizes. Reed works on opening an access panel which leads away from the bridge and, aware that the Romulans may be monitoring his and Tucker's conversation, indicates his plan to Tucker. He and the engineer have only a minute before the phase-pistol explodes, so they work together to escape the service junction.
+When questioned about the access panel, Nijil responds that it opens onto a "superstructure" and leads away from any critical equipment. Valdore intends to deal with the Humans when the drone ship returns to Romulan space.
+On board the vessel, Reed and Tucker climb through the access panel. Tucker believes they are a safe distance away from the overloading phase-pistol, but Reed replies that he wired the weapon directly into the power conduit on the bridge. Valdore hears this and discovers Reed's plan, seconds before the phase-pistol explodes, disrupting the Romulans' control of the drone ship.
+On board Enterprise, Hoshi Sato and T'Pol tell Captain Archer about the Ushaan – a fight to the death using a weapon called a ushaan-tor, an ice-miner's tool. Citing the fact that Andorians play with the ushaan-tor as children, Hoshi is certain that Naarg wouldn't stand a chance using one against Shran. Archer tells Sato and T'Pol that Ambassador Gral is refusing to let Naarg fight, although T'Pol remarks that the Andorians will consider that a further insult.
+
+In his quarters, Shran sharpens the blade of his ushaan-tor. Archer enters and recalls that he and the Andorian spoke about an alliance between their species two hours ago. He finds it hard to believe that Shran would risk severing that alliance for his own personal vengeance. Shran explains that he has lost more than Talas; he has also lost his ship and most of his crew. Now, he fears that he would lose his crew's loyalty and the respect of the Imperial Guard if he doesn't confront the Tellarite delegation. In Shran's opinion, Archer should be supporting him – the Andorian commander represents the Humans at the Imperial Guard. Archer notifies him that, in accordance with the rules of the Ushaan, the captain will act as substitute for Naarg. Shran doesn't want to fight his friend but, after a long pause, he refuses to call off the match.
+Aboard the drone ship, Tucker is surprised at the extent of the damage which Reed caused with only one phase-pistol. They decide to head for the vessel's outer hull, where Commander Tucker may be able to link their communicators to the subspace transceivers on the hull, in order to contact Enterprise.
+In the Romulan Command Center, Nijil reports that they have restored contact with the drone ship and that the vessel's repair systems are starting to function again. Valdore asks to be notified when the ship has reestablished its self-destruct capability.
+Aboard Enterprise, T'Pol enters Archer's quarters with the belief that the captain will lose the fight against Shran. She states that the Andorian has much more combat experience and won't yield to the captain. Archer is the only one who can be killed in the fight, since Starfleet insists on locating and destroying the Romulan drone ship, which won't happen if an Andorian or a Tellarite is killed in the Ushaan. T'Pol reveals that she is worried about what might happen to Archer in the fight.
+On the bridge, Sato tells Mayweather that she is studying the Code of the Ushaan. T'Pol hopes that Sato will be able to uncover a loophole in the code – some way to forfeit the match without insulting the Andorians. Mayweather offers to help her with the research.
+
+In the briefing room, Sato and Mayweather discuss several possible loopholes, without success. Eventually, Mayweather suggests that perhaps they should be looking for a way for the captain to win, not a way out of the fight. Sato reminds him that the Andorians will withdraw their vessels if Shran dies. When Mayweather tells her that his father was challenged to a duel on Neubilia Prime for looking at the native tribal elders in the wrong way, Sato asks him how his father withdrew from the fight. Cued by Sato's question, he searches for the combat rules.
+Later, in launch bay two, Sato, Gral and Phlox advise Archer on how to fight Shran. T'Pol calls the two combatants to take their positions where they briefly talk, each one certain that the other will lose. Soon, they begin their duel and, midway through the fight, Archer claims that he is trying to help Shran impress the Andorian soldiers. Eventually, the captain grips around Shran's neck and asks him to yield. The Andorian refuses to give up, so Archer swings the blade of his ushaan-tor towards Shran.
+
+
+=== Act Four ===
+Later, Shran lies in sickbay with an amputated left antenna. He tells Archer that he deserved to be decapitated by the captain, and, walking unsteadily to a monitor, reacts to the severity of his injury. Phlox says Shran would compensate in a day or two. He states that Andorian antennae can take up to nine months to regrow untreated, although Phlox answers that with electrical stimulation and cranial massage therapy, Shran's antenna will be fully regenerated in around half that time. When Archer recalls being told that Andorian antennae aren't vital, Shran retorts that his loss was a humiliating experience. Archer points out that the Ushaan is called off when a combatant is defenceless (Shran losing his sense of balance as a result of losing his antenna fits the criterion). Shran acknowledges that the captain honored Andorian custom and complied with the Code of the Ushaan, and promises that the Andorians will continue to assist with the sensor grid.
+On the bridge, T'Pol reports that the drone ship's power signature has been detected by four of the allied vessels. Enterprise is too far from the suspected ship to scan for bio-signs, so Archer orders an intercept course. Although even at maximum warp, the starship will still take 47 minutes to intercept the craft. Archer orders Sato to inform the allied fleet of Enterprise's situation and anxiously settles into his chair.
+Meanwhile, the Romulans realize that Enterprise is closing on the drone ship. Valdore commands Nijil to activate the vessel's holographic skin.
+In space, the Romulan ship seems to be changing form, an illusion created by its multispectral emitters. On board, several lights fail, shortly before Tucker explains that all the ship's systems that were damaged in the explosion are restoring power, draining the vessel's other systems. Power hasn't been restored yet to the drone ship's warp matrix, although Tucker suggests that they hurry if they wish to contact their starship.
+As Enterprise nears its target, T'Pol announces that the starship is approaching visual range of the supposed drone ship. When Archer directs T'Pol to display the vessel on the main viewscreen, it appears that the craft is a Vulcan starship. Checking the vessel's power signature, T'Pol clarifies that the ship is not of Vulcan design. Archer gives the order to raise tactical alert, charge weapons and prepare to engage the enemy.
+
+In the Romulan Command Center, Nijil is annoyed that Enterprise will intercept the drone ship before the vessel restores its warp matrix. Senator Vrax enters with his Reman bodyguards, startling Valdore. When Vrax disapproves of the admiral's inability to stop intruders aboard the drone ship from boarding and disabling the vessel, Valdore realizes that the senator must have a spy in the command center. Vrax reveals that he has come to witness Enterprise's destruction.
+On the bridge of Enterprise, T'Pol identifies two Human bio-signs on board the Romulan vessel. However, the Starfleet ship will still need to narrow its proximity to the drone ship to engage a transporter lock on Tucker and Reed. Archer attempts to hail his officers and is relieved when they eventually answer.
+Soon, Enterprise and the drone ship engage in combat. The Romulan craft is causing severe damage to the Starfleet vessel when Enterprise finally manages to eliminate the drone ship's disguise.
+Aboard the Romulan craft, Reed wonders why the crew of Enterprise are firing at the drone ship when they know that he and Tucker are aboard, although Tucker assumes that they are only aiming at the drone ship's weapon systems. Contacting Enterprise, the engineer asks Archer if the starship is able to establish a transporter lock on his and Malcolm's positions. The captain replies negatively and instructs them to move closer to the drone ship's hull.
+Meanwhile, Nijil reports that the Romulan ship has lost its holographic ability and will reestablish its warp capacity in two minutes. He calls that more enemy vessels are nearing the drone ship and worries that the ship will lose its self-repair systems again. Vrax is certain, however, that the ship will escape the allied fleet.
+
+As Enterprise continues to fight the enemy vessel, Tucker shouts that he and Reed have reached the vessel's hull.
+T'Pol still fails to get a transporter lock on Tucker and Reed, as the Romulan ship's maneuvers are too erratic. The drone ship targets Enterprise's warp core so Archer orders T'Pol to take the weapons off-line and boost power to the hull plating. Telling Mayweather to turn the ship around, he contacts Tucker and Reed and demands that they leave the drone ship.
+Meanwhile, Vrax sees that the Starfleet vessel doesn't have weapons – a vulnerability which the Romulans can take advantage of.
+Tucker and Reed jump out of the drone ship and hurtle through open space at an incredible rate of acceleration.
+Just when T'Pol is about to engage a transporter lock on them, Enterprise is hit again, this time taking damage to its sensor assembly – she still can't get a lock.
+The Romulans discover six more enemy vessels heading toward the drone ship, which will be able to engage warp in twenty seconds.
+When Sato reports their arrival, Archer tells her to ask the allied vessels to hold their fire – he doesn't want his officers to be injured.
+Meanwhile, Tucker and Reed swim through space, watching as the allied ships approach and the drone ship, which has regained its warp capacity, darts past them.
+On Romulus, Vrax orders the pilot, wearing the synaptic interface helmet which covers most of his features, to withdraw the drone ship from the battle.
+
+In the vacuum of space, the six allied ships race after the Romulan craft. Alone, Reed pessimistically believes that he and Tucker are doomed to spend the rest of eternity spinning endlessly through space when, above their heads, the massive Enterprise appears and beams them aboard.
+Later, Tucker and Reed remove their environmental suits, which they have been wearing for three days. Tucker thanks Reed for saving his life aboard the drone ship but says that he is putting the lieutenant on report. Eventually though, Reed determines that Tucker is only joking.
+In the briefing room, Archer notifies T'Pol, Shran, and Gral that the drone ship escaped. He also tells them that the crew of an attacked Tellarite vessel was rescued by an Andorian warship. Shran and Gral agree that the drone ship is a menace to both their species and sit down to discuss a potential alliance between Andoria and Tellar.
+Meanwhile, Nijil states that the drone ship has returned to Romulan space. Valdore orders the pilot to be disconnected from the equipment that surrounds him. As Romulan officers remove the helmet from his head, they reveal that the pilot is a blind white-skinned Andorian.
+TO BE CONTINUED...
+
+
+== Memorable quotes ==
+"I think this Denobulan doctor is secretly in love with you. He wants to keep you to himself."
+
+- Shran, to Talas, as he visits her in sickbay
+
+"How many ships will it take to make this work?" 
+"Only 128."
+
+- Archer and T'Pol, while discussing Travis' plan to find Romulan drone ship.
+
+"That Tellarite pig."
+"Is there any other kind?"
+
+- Talas and Shran, after he tells her that the phase-pistol that injured her was set to kill
+
+"From what I've heard about these Romulans they mean business. If they're behind these attacks, we have to find some way to stop them, or next time, they might come back with a thousand of those ships."
+
+- Archer, apparently predicting the beginning of the Earth-Romulan War
+
+"I'd rather cohabit with Klingon targs than join forces with Tellarites!"
+"Your personal mating preference is no concern of mine!"
+
+- Shran and Gral
+
+"Why don't the two of you try behaving like Humans for a change?"
+"And you said you wouldn't be insulting!"
+
+- Archer and Gral
+
+"There, every Tellarite ship is connected to your sensor network despite the inefficient Andorian codes!"
+
+- Gral
+
+"We're not a patient people."
+"I've noticed."
+
+- Naarg and Archer
+
+"I just wanted you to know that too... BEFORE YOU DIE!!"
+
+- Shran, to Naarg as he pours Talas' blood into his hand
+
+"Unless this MURDERER... meets me in combat, your precious alliance... is FINISHED!!"
+
+- Shran, to Archer, after Talas dies from the wound inflicted by Naarg
+
+"I apologize for saving your life, commander. It won't happen again."
+
+- Reed, to Tucker
+
+"You did all this with one phase-pistol?"
+"You're good at building things. I'm good at blowing them up."
+
+- Tucker and Reed
+
+"Vulcans have a saying: 'One man can summon the future.' What happens if that man throws away his life before his time?"
+
+- T'Pol, to Archer
+
+"Things have a way of turning out differently than we expect."
+
+- Archer, to Shran
+
+"I'll take your blood to Andoria... to the Wall of Heroes."
+"Not today."
+
+- Shran and Archer
+
+"You should've cut off my head!"
+"I considered it, but I still need your help."
+
+- Shran and Archer
+
+"The Ushaan is settled when one combatant is rendered defenseless. Are we done?"
+"You respected Andorian tradition. It's settled!"
+
+- Archer and Shran
+
+"I believe we have more to discuss than trade disputes."
+"Why wait until we get to Babel?"
+
+- Gral and Archer
+
+
+== Background information ==
+
+This episode was the third to be written by Judith and Garfield Reeves-Stevens, having previously written "The Forge" and "Observer Effect", although this time, they shared their writers' credit with Manny Coto.
+This episode was the first to air following the announcement by UPN that Star Trek: Enterprise was due to be canceled after its fourth season.
+This is the last of 62 episodes, including fifteen from Enterprise, to be directed by David Livingston.
+This episode was nominated for an Emmy Award for Outstanding Prosthetic Makeup For A Series, Miniseries, Movie Or A Special.
+
+
+=== Continuity ===
+This episode establishes the first cooperative endeavor between Humans, Vulcans, Andorians, and Tellarites, the four species that eventually formed the United Federation of Planets in 2161. It also suggests for the first time why Earth – a relative newcomer to the galactic stage – became the de facto capital of the Federation: Humanity was the only species on relative friendly terms with the other three.
+In the original script, Senator Vrax's spy in the Romulan Command Center was Nijil and the episode ended with Vrax and Valdore plotting against Captain Archer.
+When Valdore made a reference to the Romulan drone ship, he called it the Raptor, although this name is not in any of the filmed episodes in which the ship appears.
+Following their appearance in Star Trek Nemesis, "United" featured the second appearance of the Remans in Star Trek.
+T'Pol calls Travis Mayweather "Travis" (instead of "Ensign Mayweather") for the first time.
+"United" was the first episode to feature the appearances of the founding members of the Federation – Humans, Vulcans, Andorians, and Tellarites – together since the Star Trek: The Original Series episodes "Journey to Babel" and "Whom Gods Destroy".
+The Tellarite cruiser is actually a reuse of the Arkonian military vessel from Season 2, which in turn were used in Season 3 as Xindi-Arboreal starship.
+The sensor grid which Archer devises is reminiscent of the tachyon detection grid used by Captain Picard and a fleet of Starfleet ships in the Star Trek: The Next Generation episode "Redemption II". In that episode, like Captain Archer in "United", Picard used the grid to locate Romulan vessels.
+A shot of the drone ship disguised as Enterprise would later be used again in the opening credits of "In A Mirror, Darkly".
+After Reed realizes that Tucker is only joking about placing him on report, Tucker laughs while remarking that Reed is "just such an easy target." This is reminiscent of a scene in "Shadows of P'Jem", where Archer remarks the same to Tucker.
+Archer and Shran discuss the namesakes of their vessels, and Shran muses that future ships might be named after their own Enterprise and Kumari. Of course, previous episodes had already well established the many USS Enterprises of the future, but it would take until PIC: "The Last Generation" to establish a 25th century USS Kumari, proving Shran right.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Scott Bakula as Jonathan Archer
+John Billingsley as Phlox
+Jolene Blalock as T'Pol
+Dominic Keating as Malcolm Reed
+Anthony Montgomery as Travis Mayweather
+Linda Park as Hoshi Sato
+Connor Trinneer as Charles "Trip" Tucker III
+
+
+=== Guest stars ===
+Jeffrey Combs as Thy'lek Shran
+Lee Arenberg as Gral
+Brian Thompson as Valdore
+Geno Silva as Vrax
+Kevin Brief as Naarg
+Molly Brink as Talas
+J. Michael Flynn as Nijil
+
+
+=== Co-star ===
+Scott Allen Rinker as Pilot
+
+
+=== Uncredited co-stars ===
+Evan English as Tanner
+Glen Hambly as Andorian Officer
+Seth Hendrix as MACO
+John Jurgens as Reman bodyguard
+Ricky Lomax as W. Woods
+Marti Matulis as Reman bodyguard
+Andrew MacBeth as E. Hamboyan
+Guy Richardson as Romulan officer
+Jan Shiva as Science division crewmember
+Pablo Soriano as unknown character
+Ator Tamras as A. Tamras
+David Venafro as Andorian officer
+Unknown actor as Romulan officer
+
+
+=== Stunt doubles ===
+Kim Robert Koscki as stunt double for Jeffrey Combs
+Gary Wayton as stunt double for Scott Bakula
+
+
+=== References ===
+ability; Alliance (2154); amendment; Andoria; Andorian; Andorian battle cruiser (unnamed); Andorian cruiser (unnamed); Andorian Imperial Guard; antenna; Babel; Babel Conference; Babel Crisis; career; childhood; circuit breaker; circumnavigate; Code of the Ushaan; Columbia; combatant; command hierarchy; console; cranial massage; crew stations; D'kyr-type (unnamed); distress call; dizziness; drydock; Earth; electrical stimulation; Enterprise (OV-101); Enterprise (frigate); Enterprise (CVN-65), USS; environmental system; ethics; evasive maneuvers; fleet triangulation plan; Gardner; honor code; ice; ice-cutter; Kumari; Kumari (ice-cutter); leader; loophole; maestro; Nobelia Prime; off switch; phase-pistol; phase-pulse infection; pig; propulsion matrix; prototype; radiation; reactor coolant; Remans; Rigelians; Rigelian scoutship (unnamed); Rigelian Trade Commission; Right of Substitution; robot ship; röntgen; Romulans; Romulan drone ship; Romulan Senate; Romulan space; Romulan warbird; self-destruct; self-repair; Spacecraft Operating & Management System; stellar coordinates; strangulation; Suurok-class (Suurok cruiser); systems monitor; tactical alert; Talas; Talas' family; targ; Tellarites; Tellarite cruiser (unnamed); T'Pau; trade dispute; tribal elder; underling; Ushaan; ushaan-tor; Vulcans; Vulcan High Command; Wall of Heroes; warp matrix; warp signature; will
+
+
+=== External links ===
+"United" at Memory Beta, the wiki for licensed Star Trek works
+"United" at Wikipedia
+"United" at the Internet Movie Database

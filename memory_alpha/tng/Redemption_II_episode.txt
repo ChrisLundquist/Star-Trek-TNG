@@ -1,0 +1,388 @@
+As the House of Duras is nearing victory over Worf and the forces of Gowron, Starfleet, led by Picard, works to expose Romulan interference in the Klingon Civil War. (Season premiere)
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Kurn's ship, the Hegh'ta, with Worf now aboard as tactical officer, is narrowly escaping destruction by two other Birds-of-Prey near a sun. Most of the bridge crew lie dead, and the Hegh'ta is losing shield strength fast. With no weapons left to fight, Kurn instead uses a clever technique of engaging warp drive near a star's surface, causing a large solar flare that destroys the two pursuers.
+
+"Captain's log, Stardate 45020.4. We have arrived at Starbase 234, where I have taken the opportunity to make a proposal to Fleet Admiral Shanthi."
+Meanwhile, Captain Picard meets with several senior Starfleet flag officers, including Fleet Admiral Shanthi, to discuss the Klingon civil war at Starbase 234. In the Enterprise-D's observation lounge, Picard briefs the admirals on three engagements occurring in the past two weeks that were won by ships loyal to the Duras family. Shanthi reminds Picard that none of those facts are the Federation's concern because the Klingon civil war is by definition an internal matter of the Empire. Picard says that would be true if the civil war were entirely internal, but if the Duras family is being aided by the Romulan Empire, then it very much becomes a concern for the Federation. Picard points out that the Romulans have been trying to destroy the Klingon-Federation Alliance for the last 20 years, and the Duras family has been secretly conspiring with them at the same time. Picard asks her if it seems strange that the Duras are able to overpower and outmatch Gowron's forces at almost every turn. Shanthi speculates that the Duras family may have better leadership, but Picard states it's also possible that they're getting help. Picard reminds the admiralty that the Romulans are willing to take huge risks to gain any advantage they can over the Federation, and now, with the future of the Klingon Empire in the balance, can the Federation seriously believe that the Romulans are content to just stand by and watch it unfold?
+
+Convinced of his argument, Shanthi asks Picard what he is proposing. The captain says that they must stop the flow of supplies and equipment from the Romulans to the Duras family. He proposes to the admiral that they send a fleet to the Klingon-Romulan border, engaging in no offensive action, but to create a blockade to intercept any Romulan supplies that attempt to cross the border. When Admiral Shanthi asks how they'll be able to overcome the problem of detecting ships equipped with cloaking devices, Picard answers that his chief engineer has developed a way that will counter their cloaking advantage: the tachyon detection grid. He explains to her that each ship will send out an active tachyon beam to each other; the theory is that any cloaked vessel that passes through it will be detected. Shanthi tells Picard that she'll have to clear it with the Federation Council first, but in the meantime, he is to go ahead and assemble his fleet. Commander Riker smiles at his captain but also wonders if Picard knows what he's doing – a feeling the captain shares himself.
+
+
+=== Act One ===
+"Captain's log, Stardate 45021.3. Convincing Starfleet Command to establish a blockade was relatively painless. Implementing that plan is proving more troublesome."
+
+The plan is approved easily enough but requires many vessels to cover the entire Romulan-Klingon border, which is proving most difficult. During a briefing in Picard's ready room, Riker explains to Picard that Starfleet is stretched pretty thin over the quadrant, with only 12 ships within a day's warp from their location. La Forge also points out that most of the ships in this area are either in drydock for repairs or have not been completed yet, but both don't even have full crews. Riker summarizes that they can spare seven to eight more starships. When asked if they can work the network with 20 ships, La Forge acknowledges that while the net can work with that many ships, the more ships that they have could cover a wider area. Satisfied, Picard rounds up 23 vessels in total, including the USS Endeavour, the USS Akagi, the USS Tian An Men, the USS Hermes, the USS Hood, the USS Excalibur, the USS Hornet, and the USS Sutherland. Picard adds that the Tian An Men, the Sutherland and the Hermes may not be completely ready as far as the yard superintendent is concerned, but they're going anyway. He first assigns Data to select a group of experienced Enterprise officers to augment the crew of those three ships. Then Picard assigns Riker and La Forge to the Excalibur as captain and first officer, as their crew was reassigned when the ship put in for repairs. Picard tells them that he wants the fleet ready by 0900 hours, and La Forge and Riker then depart. Data remains for a moment and asks Picard why he wasn't assigned a command. Picard tells him that he thought he would need Data still on the Enterprise. Data comments on how Picard has mentioned a lack of senior officers that are available for this assignment. At first, Data thinks that Picard may not consider it time for an android to command a starship, despite his 26 years of service in Starfleet, so as he plans on setting out ways to improve himself, Picard, chagrined at the exposure of his unconscious prejudice, interrupts him and tells him that the Sutherland is in need of a captain and he can't think of anyone better for the job. Data thanks Picard and departs the ready room.
+Meanwhile, Worf and Kurn are celebrating the war by drinking with a number of Klingons, many of whom support the House of Duras. Worf arrives, and Kurn introduces him to Captain Larg, who commanded the squadron that tried to destroy them the day before. Larg insults Worf by implying that Worf isn't worthy of wearing a Klingon uniform. Worf is incensed and tries to attack Larg, but Kurn restrains him, telling him that the capital city is neutral ground and that Larg's men are all around them, as are Kurn's. Kurn and Larg then both pick up a glass of bloodwine and tell each other to die well, then throw the glasses away, and then Larg leaves. Worf asks Kurn if he really is drinking with their enemies. Kurn asks him how many of these warriors are with them and how many with the Duras family. Kurn tells them when they meet in battle, they will fight to the death, but here in the capital city, they are all Klingons, all warriors. Worf starts to give Kurn a status report on the repair of the Hegh'ta's stabilizers, but Kurn asks him if only duty is in his heart, then tells him that they all have duties and responsibilities, but at the same time he reminds Worf that they are all Klingons, all warriors, fighting in a glorious war. Kurn asks Worf to contemplate the fact that they will fight battles soon that others can only dream of, and it is time to celebrate, for tomorrow they all may die. Kurn asks Worf to forget the status report and go with him and let them live the night together as if it were their last. Worf agrees and goes into the group of Klingons with Kurn. Over in a corner, Lursa and B'Etor notice this and note that Worf is trying to be more like Kurn, but that it's not working very well. B'Etor sees that Worf needs something to restore his confidence, and Lursa remarks that she is sure he will find their offer appealing. B'Etor tells her she will make sure he will.
+In drydock, the Sutherland is preparing to depart for the fleet. The ship's senior officer, Lieutenant Commander Christopher Hobson, is on the ship's bridge overseeing preparations for the ship to be ready for the fleet. Data enters the bridge and introduces himself to Hobson, as well as the bridge crew, and announces he is taking command of the vessel by order of Starfleet. Noting a lack of confidence, Hobson requests a transfer, stating his reasons, with the main one being his belief that he doesn't think an android would be a good captain. Data considers this for a brief moment and announces he understands Hobson's concerns but denies his transfer.
+
+Manning tactical, Chief O'Brien informs Picard that the last assigned ship in the fleet, the Endeavour has arrived and orders the fleet to get underway. The Enterprise heads towards the Klingon-Romulan border, with other Federation starships right behind.
+
+
+=== Act Two ===
+B'Etor shows impatience with Commander Sela, the Romulan commander who bears a strong resemblance to the late USS Enterprise-D security chief Natasha Yar. The convoy with supplies is late, but Sela gives them good news that Gowron's forces suffered another defeat in the Mempa system and will not trouble their forces there for some time. She assures her that the supplies will arrive. Lursa enters the room and informs Sela that a Federation fleet has left Starbase 234 on a course to Klingon territory, led by Picard. Toral becomes panic-stricken as he fears that the Federation might be preparing to help Gowron. Sela hushes him and orders her aide, General Movar, to return to Romulus and have all available ships report in two days to a set of coordinates she provides to him. Lursa believes Starfleet is bluffing, since twenty starships are not enough for an invasion, but Sela speculates that Picard has an ulterior motive for this armada.
+On Gowron's side, Gowron is given the news in the High Council chambers about the loss of a key sector. Furious, he says that they destroyed that supply base weeks ago. Kurn says that the Duras must be getting help, but another Klingon warrior, Kulge, steps in and declares non-confidence in his ability to lead and challenges him. Gowron rises and accepts the challenge, with Worf objecting, stating that the enemy is the Duras. Worf intervenes in the challenge by attempting to separate Gowron and Kulge, unwittingly allowing Gowron to run Kulge through with his d'k tahg ending the challenge, and then Gowron gleefully declares: "Now the war can continue!"
+Elsewhere, the Federation fleet arrives at the coordinates. Picard orders the fleet to maintain yellow alert until further notice. Conducting a long-range sensor sweep, O'Brien picks up unusual subspace anomalies on his sensors. Picard speculates that those anomalies could be cloaked Romulan ships and hails the Excalibur, and orders Riker to deploy the fleet and spread the net.
+On the Sutherland, Hobson informs Data they've reached the designated coordinates. Before the crew can play their role, the ship's starboard power coupling overloads, flooding Decks 10 through 12 with radiation. Data asks why the backups aren't functioning, and Hobson answers it's because there wasn't enough time to test all the backups before they left the yard. Hobson orders Crewman Terry to Engineering to work on a new coupling. He then takes the phasers and torpedoes offline but is countermanded by Data, who reminds him that he cannot suggest a course of action without consulting his commanding officer. Hobson replies that he is trying to save the lives of the people on those decks but knows Data is right and reactivates the weapons, only to have Data order them deactivated again and to begin repairs of the starboard power coupling.
+
+With the fleet in position, Picard asks La Forge how long it will take for the Romulans to detect the grid. Since their sensors are as good as theirs, not long. Picard orders the network to be energized.
+On board the Romulan ship, Sela and General Movar pick up the increase in tachyon emissions from the Federation ships and remind Sela that they will be detected, cloaked or not. Sela advises her aide to issue orders to penetrate the field. In the meantime, she decides that she would have to convince Picard to withdraw.
+O'Brien picks up activity and informs them that a Romulan Warbird is decloaking and asks to raise shields. Picard says no, and the Romulan ship hails the Enterprise, which Picard responds. As Sela's image appears, Picard starts and answers with one word. "Tasha?", with Deanna Troi looking on from aft of the bridge, as if she has just seen a ghost. Sela introduces herself and tells Picard that the woman he knew as Tasha Yar was her mother.
+
+
+=== Act Three ===
+Sela threatens Picard, telling him that deploying a fleet of this nature along their border is a clear act of aggression that will not be tolerated, and that he has 20 hours to take the fleet back to Federation space or risk a Romulan attack. In the conference lounge, Troi senses no deception and believes Sela's claim of being Tasha's daughter. Beverly Crusher, on the other hand, has no medical records of Yar ever being pregnant, not to mention that she was a child when Sela was born. Troi and Crusher both suspect she may be a clone or was surgically altered to look Romulan. Picard can see no ulterior motive by the Romulans for this and decides to maintain the blockade and leave the next move to the Romulans.
+As soon as Troi and Crusher leave, Guinan arrives and converses with Picard about Sela. She then asks him if he remembers what happened to the previous starship Enterprise. Picard recalls the USS Enterprise-C defending a Klingon outpost on Narendra III from the Romulans 23 years ago. He even acknowledges hearing stories about survivors being taken prisoner on Romulus but believes they're only rumors. Guinan confirms that there were survivors, and Tasha Yar was one of them. Furthermore, Guinan believes Picard may have been responsible for the birth of Sela in the first place. Just as with the Narendra III massacre, Picard insists that what Guinan is suggesting is totally impossible, but Guinan simultaneously acknowledges the impossibility of what happened and insists that it did in fact happen and that Picard can't dismiss this. As a result, Picard then decides to arrange a meeting with Commander Sela.
+Worf argues with Kurn, saying that Gowron should forbid any more challenges until the war is ended. Kurn states that it's the Klingon way and asks if Worf would challenge Gowron, which Worf flatly refuses. Kurn also tells him not to speak of it and reminds him that Worf convinced Kurn to follow Gowron and suggests that if it doesn't seem right, then he made the wrong choice to wear the uniform. Kurn stomps out of the room, while supporters of Duras capture Worf.
+
+
+=== Act Four ===
+Sela is brought aboard the Enterprise and meets with Picard in the conference lounge. She reminds him that time is short. Picard asks her to sit down, but she refuses. Picard explains that she's misinterpreted their presence here and Starfleet has no hostile intentions. Sela mockingly replies that she can tell her superiors that a fleet of twenty-three Federation ships is at their border for humanitarian reasons. Picard explains their presence is to prevent any external powers from interfering in Klingon affairs. Sela assures him they too have no intention to interfere but wonders if they can truly stop them from crossing into Klingon territory with their cloaking technology. Picard baits her to try to run the blockade, but Sela is aware of their tachyon grid. However, she knows he didn't bring her here to discuss their military situation and the true reason is to answer the one question on his mind: "How could Tasha Yar be [her] mother?"
+She explains that a Romulan general saw Tasha, who was about to be executed along with other survivors of the Enterprise-C, and became enamored with her. He offered Tasha an agreement: the others' lives would be spared if she would become his consort. A year later, Sela was born. Then, four years afterward, Tasha attempted to take Sela away from her home. As soon as Sela realized what was happening, she screamed for attention and foiled Tasha's plan. Sela couldn't accept what her mother tried to do after she was given a home and a child. As a result, Tasha was executed. Everything Human about Sela died that day with her mother -- now she's only Romulan. However, Picard doesn't believe her story, and it will not influence his judgment the next time they meet. Sela then warns him he has fourteen hours left to leave the border and returns to her ship.
+Meanwhile, Lursa and B'Etor offer Worf to join them so that together, they could rule the Klingon Empire, but he refuses, knowing the Duras family never cared about honor or loyalty, only power. A moment later, Sela appears on the viewscreen, demanding to know the strengths and capabilities the Federation fleet has. She then has one of her officers take Worf away for interrogation and promises B'Etor can have him afterward.
+Picard updates Gowron on the situation and informs him that they will be forced to withdraw from the border or fight the Romulan fleet in 13 hours – and have that long to expose their involvement. Picard proposes to Gowron that if he were to launch a full-scale attack on the forces of Duras, they would call for supplies, the Duras sisters would call for help, and the Romulans would have no choice but to cross the line to grant assistance, and they'll be waiting for them. Gowran adds that support will fall away from Lursa and B'Etor once the Romulan connection is revealed and will make preparations but closes the communique by telling Picard that Worf was captured by the Duras family and hopes "he dies well."
+Riker is brought on board from the Excalibur and Picard explains that when Gowron makes his attack, Starfleet will make their move: the Excalibur will fall back with engine problems while taking the Akagi and the Hornet to a position chosen by Picard. This will allow a small hole in the network, which would create a window of opportunity for Sela's forces to move in, considering they're aware of the net. Once they come across it, the Enterprise and the Tian An Men will swoop in and close the gap, exposing the Romulan connection. Riker smiles at the plan and returns to the Excalibur to execute it, wishing the captain good luck.
+In the meantime, Sela is informed that Gowron's loyalist forces have attacked three Duras-controlled sectors, and the sisters are nearing defeat. Annoyed, she asks if there's a way to circumvent Starfleet's detection grid, and Movar tells her that by flooding a point in the grid with a massive tachyon pulse, they could disrupt that portion of the grid. Just then, they see one of the starships leave the blockade line, thus creating a window to allow the ships to go through. Picard's window, to be exact, as Sela sees right through his strategy and doesn't take the bait. Instead, she directs the pulse at the weakest spot: the location of the Sutherland, which Sela says is commanded by the "android captain."
+
+
+=== Act Five ===
+The attack on Duras works, and the Romulans cross the line with fifteen cloaked ships. Picard signals the fleet to stand by, smiling triumphantly that his strategy worked. But that triumph is stopped by Sela as she initiates the pulse and disrupts the network. O'Brien points to the Sutherland and Picard informs Data about the situation. The resulting disruption makes the network ineffective in a radius of ten million kilometers around the Sutherland. Realizing that's where the Romulans will go, Picard orders the fleet to fall back and regroup at Gamma Eridon.
+Hobson receives the orders and Data signals the acknowledgment and orders the helmsman to engage at warp 9.3. While the ship is en route, Data heads to a nearby LCARS terminal and begins searching through the database. A curious Hobson sits beside him and asks questions. The resulting disruption may have caused the Romulan ships to be tagged with a residual tachyon signature – a theory that the Sutherland can't prove, according to Hobson. Data then orders all stop and returns to his command chair. Hobson protests, reminding him that the fleet was ordered to Gamma Eridon. Data explains to the commander that those signatures won't last long, and it will be too late once the fleet is deployed, and orders him to reconfigure the sensors to detect ionized particle traces, which Hobson says that the entire area's been flooded with tachyon particles, making it impossible to find whatever they're looking for. Data acknowledges the difficulty, and also adds an order to bring the phasers back online. That draws another protest by Hobson, indicating that doing so will flood three decks with radiation. Data says that when necessary, they will initiate radiation protocol. That's when Hobson angrily objects to the orders, saying that Data "doesn't give a damn about the lives he's throwing away". Data snaps back at Hobson, threatening to relieve him of duty if he doesn't carry out his orders. Hobson reluctantly agrees to carry them out.
+Back on the Enterprise, O'Brien informs Picard that the Sutherland has come to a complete stop, which seems to annoy Picard. He orders the chief to open a channel to the Sutherland.
+Hobson asks Data if he's going to answer the Enterprise, but Data ignores the hail, and instead orders a sensor sweep of the area and focuses on the tachyon signatures. This task seems pointless according to Hobson, who says it "could be anything", and that they have no way of knowing if the Romulans are out there. Determined, Data orders the photon torpedo warhead yields reconfigured to high energy burst level six. According to Hobson, this level won't do any damage, but Data orders him to do it. Once the torpedoes are ready, they receive a message from Picard, reminding him he was ordered to rendezvous with the fleet at Gamma Eridon. Data asks the captain to standby, and orders Hobson to fire. The commander ignores his orders, but Data sharply turns and demands Hobson to fire. Annoyed, the commander complies.
+
+The Sutherland fires three photon torpedoes and scores a hit on three cloaked Romulan Warbirds, causing them to reveal themselves before the Nebula-class starship. The connection is thus revealed; the Duras family will lose critical support, and the Federation will have cause to intervene directly, guaranteeing Gowron's victory. Defeated, Sela orders the fleet to return to Romulan territory. Distressed, Movar argues against this and asks what he is supposed to tell the Duras sisters. Sela curtly replies, "Tell them...they're on their own."
+Data looks over Hobson's console and finds the Romulans are changing course; heading back to Romulan space. Data orders a full report to the flagship and the phasers off-line for radiation cleanup of the three affected decks. With newfound respect for the android, Hobson complies with his orders and addresses him as "Captain" for the first time.
+The Duras' stronghold is under bombardment as an anxious Toral wonders what is keeping them. The Duras sisters barge in and admit defeat, saying the Romulans never came. The Romulan soldier brings in Worf, coughing and weakened from his interrogation. B'Etor spits in his face, and Lursa orders the Romulan to kill him. Unexpectedly, Worf attacks the guard, and the ensuing struggle allows B'Etor and Lursa to transport out before they are captured by Gowron's forces, leaving Toral stranded and at the mercy of Kurn, who is the first Klingon to break through the door, seeing both Worf and the unconscious Romulan lying beside him.
+
+"Captain's log, Stardate 45025.4. It is with a profound sense of relief that I have ordered the fleet back to Federation territory following the Romulan withdrawal and the news of Gowron's victory. We have arrived at the Klingon homeworld, where I will present the High Council with a full report on our encounter with the Romulans."
+While the Enterprise is en route to Qo'noS, after sending the rest of the fleet back to Federation space, Data presents himself for disciplinary action in Picard's ready room, stating that, while his actions ultimately won the day, he is still guilty of disobeying a direct order. However, Picard says that Starfleet is not interested in officers who blindly follow orders – such officers have caused too many tragedies in history. Data made a careful analysis of the situation in front of him, and acted on it; his actions were appropriate, and Picard has noted as much in Data's record. He also congratulates Data right before he leaves the room by saying, "Nicely done".
+In the High Council chamber, Picard presents a full report to the High Council about Starfleet's encounter with the Romulans. Gowron thanks him for his help, noting that it will be of great importance regarding Romulan supply ships and then asks him to stay and witness a rare event. Toral is brought into the chamber, and grants Worf the "honor" of killing him, in revenge for his family's crimes against the House of Mogh. But Worf stuns the chamber by refusing to kill a boy who, despite his other failings, is innocent of his father's crimes. Kurn asks him what is wrong, "it's the Klingon way!" Worf quietly replies, "I know, but it is not my way." Gowron says that Kurn may do it instead, and Kurn appears all too eager to, before Worf interjects that Gowron gave him Toral's life, and Worf has chosen to spare it. Stunned, Gowron accepts Worf's wishes, and Toral is allowed to go free. Worf then turns to Picard and asks to return to duty. Picard happily grants the request, and the two walk out of the Great Hall. The Klingons assembled in the Great Hall gather around Gowron and the Klingon chancellor puts his hand on Kurn's shoulder.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+Captain's personal log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"You always did have fools working for you, Larg. Now you don't have as many."
+"You are lucky, Kurn, but luck always runs out. Someday, I will stand over your broken corpse and drink to the victory of the Duras!"
+
+- Kurn and Captain Larg
+
+"We cannot win. We must withdraw!"
+"Keep your place!"
+
+- Worf and Kurn, while the Hegh'ta is under attack
+
+"Nicely done. I hope we know what we're doing."
+"So do I, Number One."
+
+- Riker and Picard, after Shanthi approves Picard's blockade plan
+
+"Good to drink with you, Kurn. May you die well."
+"Die well, Larg."
+
+- Kurn and Captain Larg
+
+"You and I will fight battles that others can only dream of. The time for glory is here. It is not a time to worry about stabilizers. It is a time to celebrate, for tomorrow, we all may die! Come! Let us, the sons of Mogh, live this night as if it were our last!"
+
+- Kurn, to Worf
+
+"I understand your concerns... request denied."
+
+- Data, refusing Christopher Hobson's request for transfer because of Data being an android
+
+"What is it you propose, Captain?"
+
+- Fleet Admiral Shanthi, to Captain Picard
+
+"Silence the child, or send him away!"
+
+- Sela, on Toral
+
+"Some would call it good leadership."
+"And some would say they must be getting help."
+
+- Fleet Admiral Shanthi and Captain Picard, on the Duras family's numerous victories in the Klingon civil war
+
+"Maybe they have better leaders! I say you have failed as our leader, Gowron!"
+
+- Kulge
+
+"The enemy is the Duras! We are at war!"
+(Worf enters the fight, Gowron stabs his opponent)
+"Now the war... can continue!"
+
+- Worf and Gowron
+
+"Everything in me that was Human died that day with my mother. All that's left now is Romulan. Never doubt that."
+(smiling) "Doubts? I'm full of them. But nothing you have told me today can convince me that what you are saying is true."
+
+- Sela and Picard
+
+"Worf has been captured by the Duras sisters. I hope he dies well."
+
+- Gowron, to Picard
+
+"Enough, Lursa. You have failed. I need to know the strength and capabilities of the Federation fleet. I don't have time for this!"
+
+- Sela, to Lursa
+
+"Worf is not like his brother."
+"No. He tries to be, but he's still unsure of himself."
+"Perhaps he needs something to help restore his confidence."
+"I think he'll find our offer appealing."
+"I'll make sure he does."
+
+- B'Etor and Lursa, sizing up Worf
+
+"You don't give a damn about the people whose lives you're throwing away; we're not just machines!"
+
+- Hobson, to Data
+
+"Mr. Hobson! You will carry out my orders or I will relieve you of duty!"
+"...Yes, sir."
+
+- Data, reprimanding Hobson for challenging his authority
+
+"Another message coming in; it's Captain Picard."
+(Picard over speakers) "Mr. Data, you were ordered to rendezvous with the fleet at Gamma Eridon. Acknowledge."
+"Stand by, Captain. Mr. Hobson, prepare to fire."
+"Didn't you hear?! Captain Picard wants us –"
+"Fire."
+(Hobson stares at Data. Data looks expectantly back at him)
+"Fire!"
+
+- Hobson, Picard, and Data
+
+"They're changing course, heading back to Romulan space."
+"Make a full report to the flagship. Take the main phasers off-line and begin radiation cleanup of the affected decks."
+"Yes, sir… Captain.
+
+- Hobson and Data
+
+"The claim, 'I was only following orders' has been used to justify too many tragedies in our history. Starfleet does not want officers who will blindly follow orders without analyzing the situation. Your actions were appropriate for the circumstances, and I have noted that in your record."
+(Data turns to leave)
+"And Mr. Data? Nicely done."
+
+- Captain Picard, to Data
+
+"The Duras family will one day rule the Empire!"
+"Perhaps... but not today."
+
+- Toral and Gowron
+
+"What's wrong? Kill him!"
+"No!"
+"But it is our way! It is the Klingon way!"
+"I know. But it is not my way."
+
+- Kurn and Worf, on the latter's refusal to kill Toral
+
+"This boy has done me no harm, and I will not kill him for the crimes of his family!"
+"Then it falls to Kurn!"
+"No! No, you gave me his life, and I have spared it."
+"As you wish."
+
+- Worf and Gowron
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 1 July 1991 [1]
+Filmed: 8 July 1991 – 17 July 1991
+Second-unit insert shots filmed: 26 August 1991
+Solar surface and visual effects shots filmed: 4 April 1991
+Premiere airdate: 23 September 1991
+First UK airdate: 21 December 1994
+
+
+=== Story and script ===
+The conclusion to the cliff-hanger created by "Redemption" was only written after the staff returned from hiatus. (Star Trek: The Next Generation Companion, 2nd ed., p. 175) Writer Ronald D. Moore recalled, "I had more fun writing Part II than I. We knew there were a lot of stories to tell but I didn't want to lose any of those threads, and the Data thing was the most fun of all of them. I wish there were a couple more minutes because you watch it and it blazes along, [but] it was a little constrictive. The parallels to the coup in the Soviet Union was very ironic. It was something that resonated around in my mind. Part II had a little more life than part I." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+Michael Piller remarked, "I've come to think of Part One as Shakespearean-style royal drama, I, Claudius-type intrigue at the highest levels. Here we add[ed] Data's command dilemma and the subplot of Sela that Denise Crosby had come to us with." (Star Trek: The Next Generation Companion, 2nd ed., p. 175)
+According to Crosby, "The part of Sela sort of came about from me sitting around in my house one day thinking about how much fun it was for me to go back and do "Yesterday's Enterprise", and it was so much fun that I thought what else can I do? I thought it was pretty well established that Lt. Yar and Lt. Castillo on "Yesterday's Enterprise" had something going so perhaps they had a child or Yar was pregnant when she went back into the past to fight her final battle. And I sort of thought it out and it seemed to really make sense, and there were no flaws." Additionally, Crosby stated, "So my original intention was that Lt. Yar would have a daughter that was raised by Romulans and would grow up to try to actually be a Romulan. So I brought this up and the producers really liked the idea and they sort of toyed with it for a while. A few months went by and I got a call and they said we like your idea but we just can't make sense of that Lt. Yar got pregnant by Castillo. We'll have it so that Yar was captured, they didn't all die in the battle, the ship was captured and she was taken by a Romulan general." (Trek: The Next Generation Crew Book)
+Moore noted some problems in incorporating the Sela plot into the show. "It was tough to write and I knew it would be confusing and that, in essence, is the difficulty with doing continuity on the show. It's fun and gives us the sense of being a real place, but you have to explain it to people who haven't seen all those other episodes. It was not an easy explanation – that all came from Denise. She came up with the concept, which I rolled my eyes at the first time I heard. But as we started to get into story on 'Redemption II,' I needed some sort of Romulan thing to actually happen this time since we kept saying they're doing this stuff. It just seemed natural. It fit and we did it." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+Christopher Hobson was named for a longtime friend of Ronald D. Moore, while the "Keith" and "Terry" aboard the USS Sutherland were named for Moore's brothers. (Star Trek: The Next Generation Companion, 2nd ed., p. 176)
+
+
+=== Production ===
+The solar surface, skirted by the three Birds-of-Prey, in the episode's teaser, was an effect created by Visual Effects Supervisor Dan Curry, using mundane means, "We had to do a scene where Worf's brother lures the bad guys to follow him, and he kicks off a wave of the surface of the sun. And, in the pre-digital age, we had to use kind of bizarre alchemy to produce images. I looked at still photographs of the surface of the sun, and for some reason it reminded me of dried oatmeal. So I sprinkled oatmeal on a light table and put an electric motor on it so it vibrated a little bit to create a sizzle and took that flat plane of sizzling oatmeal and wrapped that in an electronic device over an imaginary or virtual sphere. And by making a negative of it and tinting it orange it looked like the cells on the surface of the sun." (TNG Season 5 DVD-special features, "Departmental Briefing Year Five: Visual Effects")
+For director David Carson, one of the highlights of the show was creating the bar scene. He recalled, "Rick Berman encouraged me to invent new ways of behaving, which is why they banged their heads together as a game; or arm wrestling with pointed daggers attached to their wrists. It was totally Klingon and it's an interesting world to work in. When you have the good fortune to have an episode like 'Redemption,' you are able to make this wonderful contrast between the clean, optimistic world of the Enterprise, and the down and dirty world of the Klingons. That's just great for a story-teller." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+"Redemption II" was filmed between Monday 8 July 1991 and Wednesday 17 July 1991 on Paramount Stage 5, 8, 9, and 16. The scenes involving Gates McFadden and Whoopi Goldberg in the observation lounge were filmed later and were not part of the principal photography. 2nd Unit insert shots of the hand doubles were filmed on Monday 26 August 1991 on Paramount Stage 16. The visual effects unit at Image G filmed the solar surface and effects scenes on 4 April 1991. The detailed effects creation was described by Robert Legato in the TNG Season 5 DVD special feature "Departmental Briefing Year Five" ("Visual Effects").
+
+
+=== Continuity ===
+At the end of "Redemption", it was stated that Worf was to be tactical officer aboard Gowron's ship, but here he appears serving aboard Kurn's ship, the IKS Hegh'ta. Ronald D. Moore commented, "A lot of time had passed between the events in Part I and Part II, so we felt there was enough of a time cut there to justify Worf having switched assignments. What really happened was that we didn't even come up with the story for Part II until after hiatus... and we didn't have the idea for putting Kurn and Worf on the same ship until then." (AOL chat, 1997)
+Sela's origins, revealed here to Picard, arise from the events of "Yesterday's Enterprise".
+This is the only episode of the Sela arc where she is referred to by name.
+This episode, "Unification II", and "Unification III" are the only multi-part episodes that do not use the traditional "Part ..." suffix on their titles. In this case, the episode is known simply as "Redemption II" instead of "Redemption, Part II."
+Footage of the Klingon Bird-of-Prey flying towards the Sun is reused from Star Trek IV: The Voyage Home.
+Footage of the USS Excalibur along with the Enterprise-D was reused from "Yesterday's Enterprise".
+The Duras sisters are not seen again until the Star Trek: Deep Space Nine first season episode "Past Prologue".
+Tony Todd makes his next and final appearance as Kurn in the DS9 fourth season episode "Sons of Mogh".
+The Deep Space Nine fifth season opener "Apocalypse Rising" reveals that Martok fought on Gowron's side at the Battle of Mempa.
+In this episode, Kurn shoots down Worf's criticisms of Gowron by telling him to either challenge Gowron himself or keep quiet. Worf would indeed later challenge Gowron for leadership of the Klingon Empire, and kill him in honorable combat, in "Tacking Into the Wind" in DS9's final season.
+Toral is next seen in the Deep Space Nine fourth season episode "The Sword of Kahless" (played by Rick Pasqualone), where he tries to take over the Empire by attempting to steal the Sword of Kahless from Worf, Kor and Jadzia Dax.
+Having served as Captain Benjamin Maxwell's tactical officer aboard the USS Rutledge ("The Wounded"), Chief O'Brien appropriately fills the same role on the Enterprise during Worf's absence.
+This episode features eight characters who later appeared in Star Trek: Deep Space Nine: Picard, Worf, O'Brien, Gowron, Lursa, B'Etor, Kurn, and Toral, or nine if the computer voice is considered to be a character.
+Clifton Jones, who plays Keith Craig in this episode, previously played the Bortas helmsman in part 1. However, he received no credit for his role although like the previous one he had dialogue.
+
+
+=== Reception ===
+Rick Berman remarked, "It was a terrific episode. We've played out our Klingon political trilogy to a point where we can take a rest for a while. But I thought it was delightful and David [Carson] did a marvelous job." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+Regarding the introduction of Sela, Michael Piller commented, "Sela was not created to be a new regular character on the show. I would disagree that her [Denise Crosby's] return was botched. I found it quite effective, I found Sela's backstory to be quite emotionally touching. The only objection that I had to the show was that in the critical moment of the fifth act, exposure of the Romulan's charge, we missed one important shot that didn't sell the remarkable nature of what Data had accomplished. Otherwise, I rather liked the opening episode of the season." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+Actor Michael Dorn noted, "I thought it was a good opportunity for me. But they also packed a lot of things into one episode… a lot of things. It was too much. I thought the Data story should have been a whole episode; it was an interesting story in which he encounters prejudice and that's a really strong point that needed more time, but they chose not to. There was also the story of how I get back to the Enterprise and the whole thing about Denise Crosby. That's three big stories for one episode, but they're the people who write it and are in charge." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+Brent Spiner recalled, "Some fans wrote and said they thought Data was really emotional in 'Redemption'. I didn't think so at all. What I was playing was a character who was in a command situation for the first time and the only model he had was the man he served under, Captain Picard. So when he yelled, 'Do it!', it wasn't because he was emotional but because he thought it would engender a response because that's what Picard would have done." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 227)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 18, pp. 7-10.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 51, September 1992
+In feature-length form, as part of the UK VHS release Star Trek: The Next Generation - The Full Length TV Movies: Volume 3, catalog number VHR 4103, 6 February 1995
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.1, 24 June 2002
+As part of the TNG Season 5 DVD collection
+As part of the Star Trek: Fan Collective - Klingon collection
+In feature-length form, as part of the Star Trek: The Next Generation - The Complete TV Movies collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Denise Crosby as Sela
+Tony Todd as Kurn
+Barbara March as Lursa
+Gwynyth Walsh as B'Etor
+J.D. Cullum as Toral
+Robert O'Reilly as Gowron
+Michael G. Hagerty as Larg
+Fran Bennett as Shanthi
+Nicholas Kepros as Movar
+Colm Meaney as Miles O'Brien
+Timothy Carhart as Christopher Hobson
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-stars ===
+Jordan Lund as Kulge
+Stephen James Carver as Helmsman
+Majel Barrett as Computer Voice (credit only)
+
+
+=== Uncredited co-stars ===
+Acerno as Klingon warrior
+Majel Barrett as Narrator
+Karin Baxter as operations division ensign
+Beckett as
+Dead Klingon officer
+Klingon warrior
+Mike Bentley as Romulan officer
+Thomas J. Booth as Klingon warrior
+Chuck Borden as Klingon kidnapper
+Michael Braveheart as Klingon officer
+R. Bruce as Klingon warrior
+Cooper as Reel
+Nyra Crenshaw as operations division officer
+Tony Cruz as Terry
+Rieneke de Haan as Romulan officer
+Hal Donahue as Starfleet Rear Admiral
+Jeremy Doyle as operations ensign
+L. Ferarda as USS Sutherland technician
+Gina Gallante as USS Sutherland science division officer
+Keith Gearhart as science division officer
+Melba Gonzalez as USS Sutherland technician
+Clifton Jones as Craig
+Arvo Katajisto as Klingon warrior
+Mark Lentry as Klingon officer
+Tim McCormack as Bennett (stock footage)
+Wilfred Moore as Klingon warrior
+Michael Moorehead as Klingon warrior
+Tom Morga as Romulan guard
+S. Moriarty as
+Dead Klingon officer
+Klingon warrior
+Edward O'Mara as Romulan officer
+Rex Pierson as Klingon kidnapper
+Greg Poole as Klingon warrior
+Keith Rayve as
+Command division ensign
+Klingon warrior
+D. Schwartz as USS Sutherland technician
+Ben Slack as K'Tal
+R. Swain as USS Sutherland command division officer
+Watts as Klingon warrior
+Harry Young as Klingon warrior
+Unknown actress as Female operations division ensign (stock footage)
+
+
+=== Stunt double ===
+Rusty McClennon as stunt double for Michael Dorn
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton
+Cameron – stand-in for Gwynyth Walsh and photo double for Denise Crosby
+Candace Crump – stand-in for Whoopi Goldberg
+Wendy Davies – stand-in for Denise Crosby
+Elliot Durant III – stand-in for Nicholas Kepros
+Michael Echols – stand-in for Tony Todd
+Krista – stand-in for Gwynyth Walsh
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner, Colm Meaney, J.D. Cullum, Ben Slack, and Nicholas Kepros
+Lorine Mendell – stand-in for Gates McFadden and Barbara March
+Greg Poole – stand-in for Tony Todd
+Joycelyn Robinson – stand-in for Fran Bennett
+Richard Sarstedt – stand-in for Jonathan Frakes, Stephen James Carver, Michael G. Hagerty, Timothy Carhart, Robert O'Reilly, and photo double for Nicholas Kepros
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+2341; 2344; 2345; 2348; 2349; 2364; ability; aft; aggression; "all stop"; alternative; android; answer; appearance; "at face value"; attack; authority; auxiliary power; battle; Berellian; Beta Lankal; Beta Quadrant; betrayal; blockade; bluff; brother; "by the same token"; capital city; captain; choice; claim; cloaking device; clone; commanding officer; compound; confidence; consort; conspiring; convoy; coordinates; corona; corpse; counselor; course;crime; date; daughter; day; deadline; death; debate; deception; deck; disciplinary action; Duras family home; enemy; engineer; execution; experience; father figure; Federation; Federation Council; Federation territory; Ferengi; First City; first officer; fool; flagship; fleet; friend; Gamma Eridon; glory; Great Hall; guard; hail; harm; heart; home; honor; hour; House of Duras; hull; hull temperature; humanitarianism; hundred; impulse power; intention; interrogation; intuition; invasion fleet; judgment; Khitomer Massacre; kilometer; Klingon; Klingon Civil War; Klingon Empire; Klingonese; Klingon-Federation Alliance; Klingon High Council; Klingon history; Klingon nightclub; Klingon sectors; Klingon star; Klingon territory; Klingon uniform; Klingon way; leader; leadership; long range scan; luck; machine; maximum range; maximum warp; medical record; Mempa, Battle of; Mempa sector; Mempa system; million; mission; mistake; mixture; Mogh; mother; Narendra III, Battle of; Narendra III; night; number one; observation lounge; offer; offline; online; opportunity; orbit; order; overload; pack; percent; phaser; phaser control unit; photon torpedo; photon torpedo control unit; photosphere; plan; port; power coupling; pregnancy; pride; prisoner; proposal; Qo'noS; question; radiation; radiation leak; radiation protocol; radius; region; rendezvous; rendezvous point; repairs; report; retreat; reverse course; Right of Vengeance; risk; Romulan; Romulan-Klingon border; Romulan space (aka Romulan territory); Romulus; rumor; science section; second; sector; Sela's father; senior officer; sensor range; sensor schematic; sensor sweep; service record; shield; son; spacedock; squadron; stabilizer; Starbase 234; Starbase 234 planet; Starbase 234 system; starboard; Starfleet; Starfleet Command; strategy; story; subspace anomaly; subspace channel; subspace inertial displacement; superior; supply base; supply ship; survivor; surgically altered; tachyon (tachyon beam, tachyon emission); tachyon detection grid; tachyon detector; tachyon scan; tachyon signature; temperature; time; transfer; trap; treason; Treaty of Alliance; victory; Vor'cha-class; warhead; warp drive; warp engine; warrior; week; yard; yard superintendent; Yar, Natasha; yellow alert; yield
+
+
+==== Other references ====
+USS Sutherland dedication plaque: Advanced Technologies Division; Berman, Rick; Carson, David; Chief of Staff; Curry, Dan; Exploratory Division; Fleet Administration; Fleet Operations; Fleet Yards Operations; James, Richard; Lauritson, Peter; Livingston, David; Mission Operations; Moore, Ron; Orbital Operations; Piller, Michael; Research and Development; Roddenberry, Gene; Rush, Marvin; San Francisco Fleet Yards; Simmons, Adele; Sol Sector; Starfleet Academy; Starfleet Command; Stellar Imaging Division; Tactical Command; Yacobian, Brad; Yoyodyne Propulsion Systems
+Tachyon Detection Net locations: Epsilon Canaris; Gamma Hydra; Gamma Trianguli; Murasaki Quasar
+Spacecraft references: Ahwahnee, USS; Ajax, USS; Akagi, USS; Ambassador-class; Aries, USS; Bortas, IKS; Constellation-class; D'deridex-class (Romulan supply ships); Endeavour, USS; Enterprise-C, USS; Excalibur, USS; Goddard, USS; Hathaway, USS; Hegh'ta, IKS; Hermes, USS; Hood, USS; Hornet, USS; Klingon Bird-of-Prey (Duras loyal ships); McKinley-type dock; Merrimac, USS; Nebula-class; Picard's blockade fleet; Sela's warbird; Sutherland, USS; Thomas Paine, USS; Tian An Men, USS; Trieste, USS
+LCARS Database Search Mode 9567: Abrahamian Physics Review; Ares Flight Institute; Argus Array; Banzai Institute for Advanced Studies; Barredos Physics Review; Cochrane Institute; Cochrane Institute Journal; Daystrom Institute; Daystrom Institute Journal; Felker Institute; Felker Paradox; Fontana Institute; Fontana Institute Review; Garza Physics Digest; Grunsfeld Institute for Astrophysics; Havana Institute; Havana Institute Review; Hucklesby Institute; Hucklesby Institute Journal; Institute for Unauthorized Experiments; Journal of Banzai Institute for Advanced Studies; Journal of Daystrom Institute; Journal of Felker Institute; Journal of Scotti Technologies; Journal of Starfleet Technology; Journal of Subspace Technology; Journal of Tezber Institute; Journal of the Cochrane Institute; Journal of the Institute for Unauthorized Experiments; Journal of Zavolta Laboratories; Koothrappali Astrophysics Review; Lay Physics Review; Macalintal Physics Department; Mars; Miller Particle Journal; Paul Institute of Mars; Proceedings of Ares Flight Institute; Proceedings of Grunsfeld Institute for Astrophysics; Proceedings of Paul Institute of Mars; Proceedings of Stern Institute for Astrophysics; Proceedings of Weiss Institute for Theoretical Physics; Stern Institute for Astrophysics; Subspace Particle Journal; Subspace Physics Review; Subspace Physics Today; Tezber Institute; University of Alpha Centauri; Van Citters Physics Review; volume; Weiss Institute for Theoretical Physics; Yorkshire Institute; Yorkshire Institute Review; Zavolta Laboratories
+LCARS Database Search Mode: Daystrom Institute Proceedings; Journal of Subspace Research; Scientific Tasmanian
+Other: Abrahamian; Adams; Barredo; Bishop; Bormanis; Burnett; Dante; Grant; Hildebrandt; Holt; Lay; Meyer; Miller; Payne; Tezber; Weiss
+
+
+==== Unused production references ====
+audio pickup circuit; auxiliary back-up; computer; dilithium matrix
+
+
+=== External links ===
+"Redemption" at Memory Beta, the wiki for licensed Star Trek works
+"Redemption" at Wikipedia
+"Redemption" at MissionLogPodcast.com
+"Redemption II" script at Star Trek Minutiae
+"Redemption II" at the Internet Movie Database

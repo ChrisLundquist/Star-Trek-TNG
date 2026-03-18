@@ -1,0 +1,261 @@
+Voyager attempts to investigate an unknown energy force that has rendered Chakotay brain-dead, while an unknown entity keeps turning them back.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Captain Kathryn Janeway is taking part in a holonovel set in "ancient England" when she is called to the bridge by Harry Kim, who announces that the shuttle Chakotay and Tuvok are in has appeared on long range sensors but has not answered hails. The shuttle has taken damage with multiple hull fractures and life signs are faint; Janeway orders the two to be beamed to sickbay when they are within range.
+In sickbay, The Doctor says that both Chakotay and Tuvok have taken blows to the head by an energy discharge of some kind. Tuvok incurs a concussion which is treatable, but Chakotay had been drained of all bio-neural energy from the brain and is in some form of coma. Although The Doctor can keep the commander on life support, he declares that there is not much he can do because he is brain dead.
+
+
+=== Act One ===
+Tuvok explains what happened on the shuttle when they were attacked. After conducting a trade mission with the Ilidarians, they had an unexpected encounter with a dark matter nebula, where an unknown vessel attacked them. He says that he was barely able to set the shuttle on autopilot to return to Voyager. Janeway decides to return to the nebula to investigate and find the ship that attacked them.
+In sickbay, B'Elanna Torres uses a medicine wheel to aid Chakotay through a healing ritual he had previously taught her. Chakotay has always been a very spiritual man and she believes the wheel and its grander meaning might be Chakotay's only chance now. She explains that when a person is sleeping or on a vision quest, it is said that he is walking the wheel and the placement of each stone acts as a signpost to help point the way back home.
+Kes, having a strange feeling that someone else is in her quarters, goes to the mess hall to tell Neelix.
+Janeway notes the nebula is emitting intense electromagnetic radiation that is preventing the sensors from detecting anything. Attempting to change the sensors to utilize a multiphasic bandwidth to penetrate the radiation, she suddenly "loses" the nebula and discovers that Voyager has been put on a course away from it. They wonder who turned the ship around and find that the course change came from Tom Paris' station at the conn. Paris denies doing anything and faults the console. The captain orders Kim to transfer helm control to ops and resume their previous course while she orders Paris to helm control to see if there is something wrong with the ship's systems.
+After the ship shudders, however, Janeway discovers it has changed course once again, and orders Kim to get the ship back on course – but this time the helm doesn't respond because it has been locked out.
+
+
+=== Act Two ===
+Tuvok investigates the source of the lockout and finds it came from navigational control on Deck 12. Paris returns to report he checked every ODN junction in helm control and found no problem. Tuvok establishes helm control once again and resumes course. Janeway asks Torres if anyone is currently at the navigational controls. Torres says that she in fact saw Paris there only a few moments ago. Paris is surprised and once again denies having been there and everyone is dumbfounded at the fact that he was at the navigational controls in both instances when the ship changed course. However, Janeway gives him the benefit of the doubt, ordering him to report to sickbay to check his memory.
+The Doctor runs some scans on Paris and reports to Tuvok that nothing out of the ordinary has been found. Tuvok, however, reports that his scans of the navigational controls reveal traces of Tom Paris' DNA.
+As the ship continues on course to the nebula, Tuvok indicates that he believes he has found the ion trail of the ship that attacked the shuttle leading back into the nebula. Noting the highly erratic flight path, Janeway suggests that the planetoids the trail bends around could be generating gravitational effects that cause currents within the nebula. She hypothesizes the route the unknown vessel took may be the only safe way through the currents. Before Janeway can order the ship to follow the ion trail, however, there is a massive energy drain throughout the ship. The warp core begins to shut down, causing Voyager to drop to impulse power. After getting no response from engineering, the captain and Tuvok head down to investigate.
+Janeway finds Torres at the warp core controls, where Torres has initiated an emergency warp core shutdown leaving the ship unable to regain warp drive for at least two hours. Janeway explains to a baffled Torres that the engineer has just crashed the main computer, locked out the bridge, and stopped the ship cold, for which Torres has no explanation. She cannot recall having done any of that. Janeway finally realizes that there is something very odd going on here, as Torres – after Paris – is the second person not remembering having input commands into the ship.
+In sickbay, The Doctor shows the captain the results of his scans of Torres' and Paris' memory engrams. The results show a different memory pattern during the exact time Paris allegedly changed the ship's course and lost recollection, and again when he was tampering in navigational control. Further, the same disruption has been found in Torres when she shut down the warp core. The Doctor explains further that the signature is bio-neural and he believes it to be another brain wave that has been superimposed onto theirs, believing an unknown alien entity having temporarily taken control of their bodies.
+Janeway observes that the alien seems intent to prevent Voyager from getting to the nebula, and that it possesses the ability to take control of anyone at any time, except for The Doctor. She decides it would be best to transfer all command codes to The Doctor for fear of the alien taking over any of the senior staff using authorization code, "Janeway 841-Alpha-65".
+Later, Kes catches up with Tuvok in the corridor, and reports that she has been sensing some strange things on the ship. Tuvok offers to mind meld with Kes to see if they can find the entity with Kes' telepathic abilities. But the two get no further than the turbolift, where Kim and Lieutenant Durst discover them unconscious.
+
+
+=== Act Three ===
+In a darkened conference room, Tuvok explains that an energy discharge came out of the bulkhead and filled the turbolift, knocking them both unconscious, just as it had happened on the shuttle. Torres reports that they picked up no unusual readings from the internal sensors.
+Paris suggests the use of a magneton scanner in hopes that a more detailed scan may reveal the source of the discharge. Torres, however, proposes to use the magneton scanner on the entire ship all at once in order to detect the exact location of the entity. She asks Kim for his thoughts on the matter, when she notices that he is motionless and staring out into space. Nervous that he might be possessed by the alien, Tuvok pulls his phaser out, while Torres conducts a personal scan via tricorder. Kim finally snaps out of his thoughts, explaining that he was merely pondering about a possible way to solve this and that he is not possessed. Janeway, disturbed by what just happened and the increasing paranoia, orders preparations for the magneton scan.
+While scanning Kes, The Doctor finds himself in the company of Neelix. Neelix recounts the strange behavior of every crewman on board, noting that Ensign Parsons ordered his pejuta cold instead of hot. After a brief debate on who really is paranoid, The Doctor explains that Kes hasn't suffered any permanent neurological trauma and that he will notify Neelix when she is revived. After Neelix leaves, Tuvok enters to modify the sensor array in sickbay for the magneton scan. The Doctor tells Tuvok that Kes' injuries don't match Chakotay's, pointing out contusions on her neck and shoulder that are consistent with something similar to a physical struggle.
+Tuvok informs the Captain that the magneton scan will be ready in two hours, and that its use will cause dizziness and disorientation throughout the ship. He further reports that The Doctor has found evidence that Kes' injuries were a result of a physical assault. Janeway suggests that because Tuvok wasn't assaulted, it is possible he injured Kes while under the influence of the entity. She calls sickbay to notify The Doctor to conduct a scan on the security chief, only to get no response. Janeway tries to activate the EMH and finds it has been disabled, and that the initialization routine has been locked with an encryption.
+It is proposed that by deactivating The Doctor, the alien forced the command codes back to Janeway. The captain suggests that because it is too dangerous for one person to have the command codes, they will be grouped and divided between herself and Tuvok. The two go back to the bridge to explain the situation, when the entity takes over Janeway and attacks Tuvok. A fight ensues. Tuvok tries to use his phaser but it is kicked from his hand by Janeway. Paris stuns the captain, and the entity jumps over to Kim, who pulls out his phaser to shoot Tuvok, but Paris knocks the phaser away from Kim and manages to subdue him. The alien then jumps to Durst, who manages to get a miscalculated shot off at Tuvok before being pulled back by another crewman. Tuvok then stuns everyone on the bridge with his phaser set to full spread.
+
+
+=== Act Four ===
+In sickbay, Paris treats everyone's wounds with a hypospray while Kim tries to get The Doctor's program back on-line. Torres requests the captain's presence in engineering to explain that she found a discrepancy in the shuttle's internal sensor logs. After reviewing them, Torres explains that the logs weren't destroyed; rather, someone erased them then overloaded the sensor matrix to make it appear they had been damaged. Further, Torres says that she was able to reconstruct the events in the shuttle. She was able to confirm that they were at the dark matter nebula, and that there was an energy discharge that came from the nebula itself, but that there was no ship. Janeway wonders why Tuvok would lie about that. She orders Torres to transfer controls for the magneton scan to the bridge once the sensors are ready to initiate the burst.
+On the bridge, Janeway asks Tuvok to locate the ion trail once again. Paris enters the bridge and tells the captain he has been studying the data The Doctor had been working on to discover the cause of Kes' injuries and relays to her that they were actually caused by a Vulcan neck pinch. Janeway asks Tuvok to explain, and he says that he has no knowledge of the event and offers the entity as an explanation. But Janeway confronts him with the fact that the entity keeps attacking him, even on three different occasions. Tuvok blames Janeway's questions on paranoia, but she elaborates further that she is unable to pick up the ion trail he says he found. He directs the captain to search the alpha k band, where she finally finds the trail, but also notices the lack of any subspace distortions in the trail's wake, and notes that according to the readings it would have come from a ship without engines.
+Tuvok confronts the captain, suggesting that she is under the influence of the entity and that it is trying to prevent Voyager from entering the nebula. Relieving Janeway of command, he orders Kim to take the ship in, but Kim refuses. Tuvok then warns everyone that his phaser is set to wide beam dispersal and to kill, before taking command of the bridge and huddling everyone in a group where he can see them.
+
+
+=== Act Five ===
+Kim notices from a secondary console that the sensors are picking up highly coherent energy pulses with a biomatrix inside the nebula, suggestive of lifeforms, and that they are heading in Voyager's direction. Janeway asks Tuvok if the beings in the nebula are his people, assuming he is under the control of one of them, and Tuvok introduces them as the Komar and the nebula as their domain.
+
+Torres, in engineering, falls under the influence of the entity and ejects the warp core. She informs Janeway of what she has done, and Paris questions how it was possible of the alien to control Torres while it was controlling Tuvok at the same time. Kim suggests there may be two aliens on board. Then, Janeway realizes that Torres isn't authorized to eject the warp core on her own because that requires a command code authorization. She asks the computer who authorized the ejection of the warp core, to find it had been authorized by Commander Chakotay. The captain puts two and two together and realizes that the alien in Tuvok wants them in that nebula but that there is another presence that's been trying to keep them out and that it must be Chakotay who knows that they will be in danger if they go in there. She believes his neural energy has been displaced somehow and that as a result, he is able to move from person to person. Tuvok, upset at the turn of events, engages emergency thrusters. Janeway asks him whether the reason the Komar want Voyager is to extract everyone's neural energy. Tuvok explains that the collective neural energy of the crew would sustain his people for years to come. Janeway tells him that he doesn't have to do this and that maybe they can help them find another source of energy. But the ship keeps getting bombarded by the energy beams and, realizing that reasoning won't get them anywhere, Janeway uses this time to activate the magneton burst from the command console, disabling Tuvok and releasing the alien controlling him. Paris tries to steer the ship out of the nebula but can't be sure which direction they are really going because of the complex course Tuvok had been following. Kim goes to tactical to reconstruct Tuvok's navigational logs.
+
+The entity, now identified to be the displaced neural energy of Chakotay, inhabits Neelix in sickbay, who approaches the medicine wheel and rearranges the stones into a pattern that Paris is able to recognize as a map of the dark matter nebula, allowing them to chart a way out.
+"Captain's log. Stardate 48735.9. We have returned to the coordinates where we ejected the warp core and have successfully retrieved it. Now we are hoping the doctor will be able to successfully reintegrate Commander Chakotay's consciousness."
+After The Doctor successfully reintegrates Chakotay's consciousness, Janeway inquires as to what really happened in the shuttle. He explains he had the sensation of floating over his own body and thought he was dead. He couldn't speak or touch anything, but realized that if he could concentrate on someone in the same room with him, he could share their consciousness. He apologizes to Tuvok for having had to knock him around like that. Janeway welcomes him back but Chakotay says that he actually never felt like he had ever left.
+
+
+== Log entries ==
+"Captain's log, stardate 48734.2. Sometimes it's a good idea to get away from being a captain for a while. To that end, I've started participating in a new holonovel. The setting is ancient England."
+"Captain's log, supplemental. It appears that Mr. Tuvok and Kes were both hit by an unidentified energy discharge. Tuvok was not badly hurt, but Kes is in a coma."
+"Captain's log, stardate 48735.9. We have returned to the coordinates where we ejected the warp core and have successfully retrieved it. Now we're hoping The Doctor will be able to successfully reintegrate Commander Chakotay's consciousness."
+
+
+== Memorable quotes ==
+"You might have asked before adorning my sickbay with animal remains."
+
+- The Doctor
+
+"Find your way home, commander."
+
+- B'Elanna Torres, to the brain dead Chakotay
+
+"If you feel at any time, that any of us are under the influence of the alien, you can countermand our orders and take control of the ship. Do you feel up to it?"
+"Well of course, I make life and death decisions every day."
+"I feel better already."
+
+- Captain Janeway, informing The Doctor about transferring command codes to him, with a comment from Tom Paris
+
+"Mr. Neelix, just because a man changes his drink order, doesn't mean he's possessed by an alien."
+
+- The Doctor
+
+"Nevertheless, don't you think you should scan him or dissect him or something? Just to make sure."
+"I could examine every crewmember you've mentioned so far, every person on board for that matter and it wouldn't do any good. From what we can tell the alien can jump from person to person at will."
+"Sounds to me that you're defending Ensign Parsons."
+"I'm not defending him, I'm just pointing out that you're acting a little paranoid. In fact, one could say that you're acting a little too paranoid."
+
+- a paranoid Neelix encouraging The Doctor to investigate the crew
+
+"Captain I believe you are having a typically Human response to circumstances which are frightening and inexplicable; commonly known as paranoia."
+
+- Tuvok while possessed by the Komar
+
+"According to these readings, it's a ship without engines..."
+
+- Captain Janeway
+
+"How did you manage to reintegrate his consciousness?"
+"It involved three neural transceivers, two cortical stimulators, and fifty gigaquads of computer memory. I would be happy to take you through the process but it would take at least ten hours to explain it all to you. Needless to say it was a remarkable procedure. I would consider writing a paper about it, if there were a convenient forum in which to publish it."
+
+- B'Elanna Torres and The Doctor
+
+
+== Background information ==
+
+
+=== Title, story, and script ===
+This episode had the working title "Intruder Alert". [1] The term ultimately used as the episode's title, "cathexis," is a psychoanalytical term meaning "investment of mental or emotional energy in a person, object, or idea."
+The premise of this episode was thought up by Star Trek: Voyager Producer Brannon Braga and former Star Trek: The Next Generation writer/producer Joe Menosky (who was working in Paris, France during the first two seasons of Voyager but later regularly worked on the series, from its third season onward). Regarding how he and Menosky came up with the story idea, Braga explained, "When Joe and I get the chance, which isn't often, we chat on the phone about ideas, and we thought we had a pretty cool variation on the 'alien among us' idea. In this case, the alien among us is one of us [i.e., Chakotay], which I thought was kind of fetching, and so we worked up the story together. What was appealing to us was, at the end, you realize the 'alien' is actually the disembodied consciousness of one of our crew members. What you think is a nefarious presence, and the incidents which you think are due to the nefarious presence, turns out to be one of us trying to warn us away from real danger. That was a really interesting dynamic." (The Official Star Trek: Voyager Magazine issue 5, p. 49)
+The experience of scripting the episode was not particularly enjoyable for Brannon Braga. He recalled of the episode, "I thought it was going to be horrible. I didn't have a good time writing it." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144) He also admitted, "I struggled with that script [....] It was a complex story–as many of mine are–but I never quite had a handle on the logic of what was going on." (Cinefantastique, Vol. 27, No. 4/5, p. 63)
+In common with the earlier first season episode "Emanations", Brannon Braga and Executive Producer Michael Piller had creative differences over what direction the episode should take. (Star Trek Monthly issue 7, p. 9) Braga recalled, "Michael Piller wanted to make it a story about paranoia, which sounded good at the time, but it's hard to do a show about paranoia on a Starfleet vessel. People don't behave that way." (Cinefantastique, Vol. 27, No. 4/5, p. 63)
+According to Michael Piller, the episode was originally inspired by or, at least, had similarities with the Agatha Christie novel And Then There Were None, which has also been published and filmed under the title Ten Little Indians. Piller noted, "The idea of doing Ten Little Indians with the murderer changing places was a fascinating idea, but it got very complex and dry and was a hard premise to solve." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144)
+The plot of this episode facilitated the concept of dark matter. Science Consultant André Bormanis reflected, "We thought it might be interesting to introduce that idea on Voyager with a sort of a dark matter nebula or a 'black nebula,' as I believe we call it in the episode 'Cathexis.'" ("Real Science With André Bormanis", VOY Season 2 DVD special features)
+The first draft of this episode's script was issued on 7 February 1995, with revision pages thereafter submitted on 10 February (blue), 13 February (pink), and 14 February (yellow).
+Janeway's holonovel was originally scripted by Executive Producer Jeri Taylor, for the earlier first season episode "Eye of the Needle", and was planned to feature in multiple episodes after its initial appearance. In the first draft of "Eye of the Needle"'s teaser, the simulation was planned to be set in the Wild West, rather than a Gothic setting. Janeway was written as playing the part of a pioneer woman who was heading West in a covered wagon and had a husband and children. Her character would lead a rustic lifestyle that included such tasks as building a campfire. Taylor reckoned that the character's situation – finding herself far from home, often having to do things she was unprepared and untrained for, but traveling in a family setting – would provide a good metaphor for Janeway's predicament in the Delta Quadrant and an unusual way of both enhancing and developing the persona of the captain. Kate Mulgrew was dead set against the prospect of working with horses, however, and it was calculated that visualizing this Western scenario would be prohibitively costly. Jeri Taylor offered, "We realized that if we locked ourselves into this Western program for the holonovel, we probably would be saying over and over again, 'We can't afford that this week, we're going to have to do something else.' Because it means going on location, it means horses, it means wranglers, it means a lot of things that are complicated." It also meant that, due to the time of year, the production crew would likely have only short periods of light to film in. Concluded Taylor, "All in all it seemed not a prudent decision." (A Vision of the Future - Star Trek: Voyager, p. 11)
+The holonovel's final permutation in this episode seems to borrow elements from Charlotte Brontë's Jane Eyre, Daphne du Maurier's Rebecca,  and Henry James' The Turn of the Screw.
+Jeri Taylor intended for the holonovel to be set at some point between the 1840s and 1850s. (A Vision of the Future - Star Trek: Voyager, p. 18)
+The scripted version of the holonovel scene from this episode (as can be found in the shooting scripts for both "Eye of the Needle" and "Cathexis") characterized Mrs. Templeton as "a tall, austere woman in her 40s" and said of Lucille Davenport, "We get a sense of a faded grandeur, of a life that was once more opulent than it is now." The scene's scripted write-up also described Lord Burleigh by stating, "He is in his 40s, a handsome man who seems to bear the world on his shoulders. He is basically a good, decent person who bears a heavy secret; as a result he is somewhat remote."
+Although this episode's depiction of Janeway's holonovel is prefaced with an introductory log entry, no such log was in the shooting script of "Eye of the Needle", whose teaser instead started inside the holographic simulation. Furthermore, after Lord Burleigh warns Janeway that she should never go onto the fourth floor, the script of "Eye of the Needle" continued with Kim abruptly announcing his presence on the holodeck (with the words, "Excuse me, captain"), rather than contacting her from the Bridge. Kim's entrance puzzled Lord Burleigh, as to the newcomer's identity, and Janeway then ended the holoprogram, after which Kim reported the discovery of a wormhole to her. When the scene was still due to be included in "Eye of the Needle", there was some discussion about the transition between the simulated English drawing room and the holodeck interior, pertaining to both the filming of the effects sequence and whether the raindrops on Janeway's gown would remain, following the change of setting; Michael Piller clarified that the rain was to disappear along with the rest of the simulation. Despite the consideration of these minute details, this portion of the holonovel was never shown. (A Vision of the Future - Star Trek: Voyager, pp. 10, 12 & 20) The final-draft script of "Cathexis" notated the events much as they are shown in the episode, including both Janeway's initial log entry and Kim calling her from the bridge.
+This episode's narrative originally involved a plot point in which Tuvok was blinded by the phaser flash, disregarding the concept of the Vulcan inner eyelid, which had been established in TOS: "Operation -- Annihilate!" and was referenced years later in ENT: "The Forge". Tuvok actor Tim Russ and Director Kim Friedman were both concerned about this inconsistent plot point being included in the episode. Russ later reflected, "The whole bridge scene with the phaser battle and stuff was different originally. It didn't make any sense. It wasn't consistent with Vulcan attributes, and we had to change it. I said to Jeri [Taylor], 'You cannot execute this kind of thing in the story because it makes no sense. It's not consistent. It's a physical fact.' In the script, they had Tuvok blinded by the flash, but Vulcans have a secondary eyelid to protect them, and that's been established. Amazingly, the director brought those points up in a story meeting [....] We both were sort of in league for different reasons, but she brought it up in a story meeting, and they just basically dismissed her." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, pp. 144 & 145) Evidently, the producers later decided, however, to exclude the plot point from the episode.
+The episode's final draft script was submitted on 17 February 1995. [2]
+
+
+=== Cast and characters ===
+Chakotay actor Robert Beltran found that, although he enjoyed this episode, acting as if he were in a comatose state was a memorable part of appearing in the outing, which he described, while laughing, as "my big coma episode." He went on to say, "I just remember people rearranging rocks above my head as I was pretending to be in a coma. I liked the show, especially the little explanation at the end, when Chakotay explains to Janeway what he was going through. It was nice and simple, short and sweet, but full of interesting things about Chakotay." (The Official Star Trek: Voyager Magazine issue 7, pp. 16 & 17)
+
+
+=== Sets ===
+The set for the English Gothic drawing room in this episode was built on Paramount Stage 16 and had two windows, built into the same wall as each other. The set was under construction by 5 December 1994. (A Vision of the Future - Star Trek: Voyager, p. 19) Also by that point, the production crew had dubbed the set "the Jane Eyre set." (A Vision of the Future - Star Trek: Voyager, p. 10) The set was not yet completed by the next Monday: 12 December 1994. On that day, Production Designer Richard James was videoed being interviewed on the set, a wooden plank was hammered into one of the windows (as part of the window frame) and the border of one wall was being painted. ("A Day in the Life of Ethan Phillips", VOY Season 2 DVD special features) The set was expensive but was intended to be reused repeatedly, so that its cost could be amortized over the course of the series. (A Vision of the Future - Star Trek: Voyager, p. 12)
+
+
+=== Production ===
+
+↑ Although most of this episode was directed by Kim Friedman (the only director listed in the episode's credits), the Gothic holonovel scene was helmed by Winrich Kolbe – the director of "Eye of the Needle" – who directed the scene as part of that installment's production.
+On 5 December 1994, Winrich Kolbe surveyed the drawing room set, in preparation for the filming of the holonovel scene that was ultimately included in this episode. Later that day, the scene was discussed at a production meeting about "Eye of the Needle". Kolbe wondered how tea had been made in England, at the time of the holonovel's setting, initiating an unresolved discussion that included Jeri Taylor clarifying the time period in which the simulation is set. The group also contemplated what season the holonovel was set in and what trees were appropriate for outside the window that opens. Since Kolbe liked weeping willows and thought they looked "kind of romantic," they were selected. After a conversation about which of the two windows in the drawing-room set was to be used, Kolbe chose to use the one on the right, since using the left one would cause him difficulty with particular camera angles. Following considerable contemplation pertaining to the window and the specifics of the blustery weather outside it, Kolbe stressed that the important aspect of the scene was the reflection of the female portrait in the window, rather than the window itself. (A Vision of the Future - Star Trek: Voyager, pp. 18-20)
+Following the production meeting but on the same day, Rick Kolbe still had questions regarding the drawing-room scene, so he spoke to Jeri Taylor about the holonovel. In the art department, Producer Merri Howard wondered if clearances were needed, pertaining to the woman who is illustrated in the portrait. After Howard and Art Director Michael L. Mayer considered various alternatives, Mayer asked Scenic Artist Wendy Drapanas to obtain an 1800s-style portrait of a woman, add a bonnet of some form to her head and make some as-yet-undetermined alterations to her face, in order to make her unrecognizable. Although Mayer wanted Drapanas to carry out these instructions by the next afternoon, the fact that filming of the drawing-room scene was, the next morning, announced as being scheduled as late as Monday, 19 December 1994 allowed a relieved Drapanas much more time to finish the portrait. (A Vision of the Future - Star Trek: Voyager, pp. 34, 72 & 332)
+According to Tim Russ, the reason why Kim Friedman, in a story meeting, brought up the eventually-dropped plot point of Tuvok being blinded was that "she had problems with the scene because it didn't make any sense in terms of filming and blocking." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, pp. 144-145)
+Supervising Producer David Livingston had reservations about the use of Chakotay's medicine wheel in this episode. "I wanted to actually paint it onto the set," he remembered, "because it's what B'Elanna would have done. She doesn't care if she's defacing anything. She's going to come in and take care of her friend. They resisted it, and instead we had this piece of skin with a design on it hung in there. I think it would have been more fun if she had painted it onto the wall of the set regardless of the consequences." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144)
+According to the unauthorized reference book Delta Quadrant (p. 44), the shots of this episode that seem to be from disembodied perspectives utilized a fish-eye lens, typically used for similar sequences in TNG, and a less common disguising filter.
+
+
+=== Music ===
+Jay Chattaway composed the music for this episode and, of all the first season Voyager episodes he worked on, he cited this as having been his second favorite to write music for (with "Caretaker" being his first choice). Shortly after characterizing this installment as "the one the producers gravitated towards," he remarked, "The music had to sell the fact that there was this invisible entity. It was a real mystery that made it a fun episode." (The Official Star Trek: Voyager Magazine issue 4, p. 49)
+
+
+=== Reception ===
+Brannon Braga was ultimately very critical of this episode, feeling that the story had suffered as a result of his disagreement with Michael Piller. (Star Trek Monthly issue 7, p. 9) Braga stated, "In the end [...] it's really not about anything. Not my greatest shining moment. It's got tension and action at a point when we needed an infusion of that, but that's about it." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144) "I hear a lot of people liked it ... but I thought it was too confusing," Braga also said, before conceding, "I guess it does have a spooky quality to it." (Star Trek Monthly issue 7, p. 9) He was specifically disappointed with some of the performances in this episode, observing, "The actors felt the lack of impact in the script and were trying to bring something to it, God bless them, but some of it was over the top. The director should have pulled them in. It was a rather popular episode, but in the end I think it was much ado about nothing." (Cinefantastique, Vol. 27, No. 4/5, p. 63)
+Michael Piller found the episode's logic problematic. He admitted, "I was not comfortable with the logic of a lot of the things going on. And I thought that once the possessions became known, Janeway was acting like the alien through the whole thing. It just seemed like it was very eerie and moody, but there's not a lot of logic to the way people were acting in the show [....] It's one of my least favorite." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144)
+Jeri Taylor said the episode was "a show that sounded better in concept than it turned out to be." She continued, "Some people liked it, but I wasn't sure it was entirely successful. I thought it was a little confusing and so is the twist. It was talky and not as compelling as it should have been." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144)
+Alternately, Executive Story Editor Kenneth Biller thoroughly enjoyed the episode. He commented, "I love the twist. I think it represented an interesting game of cat and mouse during a period when we were stuck doing a whole bunch of bottle shows." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 144)
+This episode achieved a Nielsen rating of 6.4 million homes, and a 10% share. [3](X)
+Cinefantastique gave this installment 2 out of 4 stars. (Cinefantastique, Vol. 27, No. 4/5, p. 63)
+In their unofficial reference book Trek Navigator: The Ultimate Guide to the Entire Trek Saga (pp. 32 & 33), co-writer Mark A. Altman rates this episode 1 and a half out of 4 stars (defined as "poor") while fellow co-writer Edward Gross scores the installment 2 out of 4 stars (defined as "mediocre").
+The unauthorized reference book Delta Quadrant (p. 45) gives the episode a rating of 6 out of 10.
+In the lead-up to this episode's VHS release, Star Trek Magazine reviewer Stuart Clark wrote a positive assessment of the episode, remarking, "Some good writing keeps the twist at the end of this story a surprise until the very last, when all is revealed and, suddenly, everything slots into place. Tim Russ, who plays Tuvok, shows that he can be quite menacing in this episode and makes one wonder if he can be entirely trusted. The final denouement of the story underlines that the USS Voyager is indeed travelling through an uncharted region of space, quite unlike anything the USS Enterprise NCC-1701-D ever encountered." (Star Trek Monthly issue 8, p. 62) However, in Star Trek Magazine's retrospective "Ultimate Guide", the magazine gave this episode 2 out of 5 Starfleet-style arrowhead insignia. (Star Trek Magazine issue 164, p. 30)
+
+
+=== Continuity ===
+During this episode, Tuvok's rank switches from lieutenant commander to lieutenant and back again a number of times. By the end of the episode, he is wearing the rank of lieutenant. His rank remains that of lieutenant until the fourth season episode "Revulsion", in which he is officially promoted to the rank of lieutenant commander. There is no scripted reason why Tuvok's rank changes during this episode, and it may be that it was simply an error in costuming for him to have been wearing a lieutenant commander rank for the first half of the first season; he is referred to as "lieutenant" several times in earlier episodes, despite wearing lieutenant commander rank insignia.
+While no explanation is given, Lieutenant Paris' rank is also dropped from full lieutenant to lieutenant junior grade in this episode; he went on to carry the latter rank continuously until "Thirty Days", wherein he is demoted to ensign and spends time in the brig.
+Also, the rank of Lieutenant Torres is reduced from two silver bars on her Maquis pin to one silver and one black, although this is evident from the beginning of the episode.
+This episode marks the first performance of a Vulcan neck pinch on Star Trek: Voyager, although it is not seen on-screen and Tuvok is not in control of himself when he performs it.
+This episode is similar to TOS: "Spock's Brain" in that, in both episodes, a crew member's consciousness is displaced from his body.
+At the end of the third season, Tim Russ cited this episode as one of four or five installments (in the first three seasons) in which Tuvok's "defenses have been breached" and "his control has been taken away or lost," other such episodes being "Flashback" and "Meld". (Cinefantastique, Vol. 29, No. 6/7, p. 100)
+Janeway's holonovel later returns in both "Learning Curve" and "Persistence of Vision".
+Following the introduction of Lieutenant Durst in this episode, he is killed in the next installment, "Faces".
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 1.7, catalog number VHR 4007, 9 October 1995
+As part of the VOY Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as Lieutenant B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Guest stars ===
+Brian Markinson as Pete Durst
+Michael Cumpsty as Lord Burleigh
+Carolyn Seymour as Mrs. Templeton
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Kimberly Auslander as command ensign
+Jasmin Bischoff as operations officer
+Christine Delgado as Susan Nicoletti
+Kenneth David Ebling as command officer
+Tarik Ergin as Ayala
+Norman Gibbs as operations officer
+Ken Gruz as Kurt Bendera
+Sue Henley as Brooks
+Kerry Hoyt as Fitzpatrick
+Julie Jiang as operations lieutenant junior grade
+Jordan Monheim as sciences officer
+Louis Ortiz as Culhane
+Chad Patterson as sciences officer
+Beth Rogers as Jarvis
+Lydia Shiferaw as command officer
+Jennifer Somers as sciences officer
+Simon Stotler as operations ensign
+Piper Taylor as operations officer
+Julie Thornton as operations officer
+Rod Wallace as operations officer
+Jeff Witzke as operations officer
+Unknown actress as Bridget
+
+
+=== Stunt doubles ===
+Christine Anne Baur as stunt double for Kate Mulgrew
+Irving Lewis as stunt double for Tim Russ (unseen)
+
+
+=== Photo doubles ===
+Jerry Quinn – photo double for Robert Duncan McNeill and Michael Cumpsty
+Unknown performers as
+Photo double for Kate Mulgrew
+Photo double for Tim Russ
+Photo double for Robert Picardo
+Photo double for Roxann Biggs-Dawson
+
+
+=== Stand-ins ===
+Sue Henley – stand-in for Kate Mulgrew
+Husted – stand-in for Brian Markinson
+Cy Kennedy – stand-in for Robert Beltran
+Susan Lewis – stand-in for Roxann Biggs-Dawson
+Lemuel Perry – stand-in for Tim Russ
+Jerry Quinn – stand-in for Robert Duncan McNeill
+Richard Sarstedt – stand-in for Robert Picardo
+Jennifer Somers – stand-in for Jennifer Lien
+Simon Stotler – stand-in for Ethan Phillips and Brian Markinson
+John Tampoya – stand-in for Garrett Wang
+Unknown actor – stand-in for Michael Cumpsty
+Unknown actress – stand-in for Carolyn Seymour
+
+
+=== References ===
+ability; access hatch; accusation; alien entity; alpha k; attack; autopilot; axon; backup log; bio analysis; biomatrix; biomolecular scan; bio-neural energy; bio scan analysis; brain; brain dead; Brown; bruise; Burleigh, Beatrice; Burleigh, Henry; Burleigh's wife; cape; cardio-stimulator; centimeter; central computer core; Chakotay's tribe; coma; comb; command code; command code authorization; computer memory; concussion; condition four; condition red; contusion; cortical stimulator; Coyote Stone; damage; dark matter nebula (unnamed); dark matter nebula planetoids; data; Davenport, Lucille; dendrite; density; dilithium matrix; DNA; disembodied; dissection; dizziness; drawing room; Emergency Command Hologram (premise); Emergency Medical Holographic system (aka holographic doctor); emergency thruster; emotional condition; energy being; energy discharge; England; failsafe; Fifth Realm; flight path; forensic sweep; garlic soup; gigaquad; hail; Hargrove; heart; holocomic book; holodeck; holonovel; hostage; hour; house call; hull; hull fracture; Ilidarian; information; injury; Intrepid class decks; intruder alert; ion trail; Janeway Lambda One; Jefferies tube; Komar; lemon; lie; logic; lollipop; long range sensor; lord; magneton scan; magneton scanner; main computer; medical emergency; medicine wheel; memory engram; mind meld; Mountains of the Antelope Women; multiphasic scan; mutiny; Native American; navigational computer; navigational control; navigational log; neck; neural energy; neural transceiver; neurological damage; non-corporeal alien; nostalgia; organic being; painting; paper; paranoia; parity trace scan; Parsons, Michael; pejuta; person; phaser; planetoid; plasma relay; psycho-spiritual belief; roadblock; sculpture; senior officer; sensor log; sensor matrix; setting; shoulder; shuttlecraft log; Sixth Realm; Sora root; soul; star map; subspace distortion; suspect; synapse; talisman; telepathic ability; trade mission; trianic-based energy being; trapezius nerve; vehicle status; visual relay; Voyager shuttlecraft; void (psychology); Vulcan neck pinch; waiting room; warp core ejection; wound
+
+
+=== External links ===
+"Cathexis" at Memory Beta, the wiki for licensed Star Trek works
+"Cathexis" at Wikipedia
+"Cathexis" at MissionLogPodcast.com
+"Cathexis" at the Internet Movie Database

@@ -1,0 +1,336 @@
+With mounting losses in the Federation-Dominion war, and the specter of defeat, Captain Sisko enlists Garak's help to "persuade" the Romulans to join the Federation/Klingon alliance to win the war. However, Sisko soon learns that to save the Federation he may have to betray the values it stands for.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's Personal Log: Stardate 5-1-7... [unsure] 5-1-7... 4? Computer – what day is it?" "[COMPUTER VOICE] Stardate 51721.3." "It's only been two weeks... I need to talk about this. I have to justify what's happened... what I've done... at least to myself. I can't talk to anyone else... not even to Dax. Maybe if I just lay it all out in my log, it'll finally make sense... I can see where it all went wrong... where I went wrong... I suppose it started two weeks ago while I was posting the weekly casualty list in the wardroom... every Friday morning, for the past three months, I've posted the official list of Starfleet personnel killed, wounded or missing in the war. It's become something of a grim ritual around here. Not a week goes by that someone doesn't find the name of a loved one, a friend or an acquaintance on that damned list... I've grown to hate Fridays."
+On this Friday, Lieutenant Commander Jadzia Dax discovers that a longtime friend, Leslie Wong, was lost along with all hands on board the USS Cairo. Presumably, the Cairo was ambushed while patrolling the Romulan Neutral Zone by Dominion forces that passed through Romulan space – a common occurrence, because the Romulans have a non-aggression pact with the Dominion, and are willing to turn a blind eye to Dominion troops crossing their borders. Dr. Bashir argues that bringing the Romulans into the war would be advantageous to the Federation war effort; the combined might of the Federation, the Klingon Empire and the Romulan Star Empire would allow them to finally go on the offensive against the Dominion. Dax, however, replies that the Romulans are currently in a perfect position and have no reason to side with anyone.
+As Sisko's log continues...
+
+"That was the moment I made the decision. It was like I had stepped through a door and locked it behind me. I was going to bring the Romulans into the war."
+
+
+=== Act One ===
+Initially, Sisko's objective seems unattainable, as staying neutral is clearly in the Romulans' best interests. While Dax role-plays the Romulan Proconsul in a mock debate, Sisko determines how to get them into the war on the Federation's side. Dax argues that while the Romulans might distrust the Dominion, the Dominion has thus far honored its side of the nonaggression pact, and even if the Jem'Hadar keep intruding into Romulan space, they're doing so to attack the Federation, which the Romulans don't necessarily consider a bad thing. Sisko argues that the Founders will eventually consider the Romulan Star Empire a threat and that if the Romulans stand by and allow the Dominion to defeat the Federation and its allies, they will inevitably become its next conquest. Dax concludes by stating that in order to break their treaty and enter the war on the Federation's side, the Romulan Senate will need "solid proof" that the Dominion intends to betray them. Ending the debate with a joking comment that Dax would have made a good Romulan, Sisko agrees they need hard evidence of Dominion treachery but notes that any such evidence is likely to be held at Dominion Headquarters on Cardassia Prime.
+
+Sisko contacts Elim Garak because of his skills at retrieving highly classified and guarded information (namely, secret Dominion war plans that Sisko can employ in convincing the Romulan government). With apparent reluctance, Garak agrees – after noting that it would involve the expenditure of all his remaining resources on Cardassia Prime and may well turn out to be altogether a very messy and bloody business. Sisko, reminding him that the war already is a messy and bloody business, is prepared to do anything to accomplish his objective.
+As his log continue...
+
+"My father used to say that the road to Hell is paved with good intentions. I laid the first stone right there. I'd committed myself. I'd pay any price, go to any lengths, because my cause was righteous. My... intentions were good. In the beginning, that seemed like enough."
+
+
+=== Act Two ===
+"If there's one thing I've learned over the years, it's that bad news invariably comes in the middle of the night."
+That night, Sisko is awakened by Major Kira and learns that the Dominion has conquered Betazed in under 10 hours, thanks to the planet's antiquated defenses and the Tenth Fleet being caught out of position (the Dominion forces having attacked from the Kalandra sector, which Starfleet Intelligence had previously insisted was too far from Dominion supply lines to be a threat). Now the Dominion are in a prime strategic position to strike several key worlds (including Alpha Centauri, Andor, Tellar Prime, and Vulcan). This development makes Sisko even more determined, and three days later, he inquires of Garak concerning his progress. Garak has spoken with several Cardassian operatives willing to assist in the mission, but each and every one has swiftly been killed within a day of communicating with him. Garak bids the captain not to give up and (with an almost unnerving enthusiasm) proposes that, since it's now clear they'll never be able to get ahold of the evidence they need, they should go about personally manufacturing it.
+
+"Maybe I should have put a stop to it right there. Maybe I should have said, "Thank you very much for your input, Mister Garak, I will take your suggestion under advisement," and gone back to my office and forgotten the whole thing. But I didn't. Because in my heart, I knew what he was saying made sense."
+Garak proposes that Sisko invite Senator Vreenak, a high-ranking and well-respected member of the Romulan Senate, to Deep Space 9, since the senator will be passing by in a few days following a meeting with Weyoun on Soukara. Vreenak negotiated the Romulan nonaggression pact with the Dominion and is an outspoken supporter of it; he is also known for his low opinion of the Federation. If Sisko can persuade him to join the war, Garak insists, the rest of the Romulan Senate will follow. The two formulate a plan to show Vreenak a fabricated recording of a secret, high-level Dominion meeting, in which Dominion officials discuss their plan to conquer the Romulans. To ensure that Vreenak believes it, they will use a genuine Cardassian optolythic data rod, as well as a good cover story about how Starfleet obtained it. Sisko points out that he'll need approval from Starfleet to proceed with the plan, but Garak assures him that with the fall of Betazed, they should be more than willing to approve the plan, which ultimately, they do.
+The first thing that Sisko needs to do is to get Grathon Tolar, an expert in holographic forgery, released from a Klingon prison where he is awaiting execution. Sisko is able to influence Chancellor Gowron to pardon him, whereupon he explains to Tolar that the conditions of his parole are that he must create a special holographic program for him. Tolar, at first, assumes that he is to create a "special" program for Sisko's own use and suggests Orion slave girls, but Tolar soon realizes the hazardous nature of the assignment when he learns Garak is involved. He ultimately agrees, as the alternative is to be executed by the Klingons.
+As Sisko's log continues...
+
+"Why I didn't listen to the voice in the back of my mind telling me not to believe a word he said, I'll never know... But it didn't take long for me to come face-to-face with the fact that I'd made a mistake."
+While working in his office that evening, Sisko receives a communication from Odo, who informs the captain that Tolar has just tried to kill Quark.
+
+
+=== Act Three ===
+According to Odo, Tolar got drunk at Quark's and solicited a "dance" with M'Pella, one of the Dabo girls; when she refused and Tolar tried to force the issue, Quark attempted to intervene on her behalf, and Tolar stabbed him. Odo adds the only reason Tolar isn't in a holding cell is because he's claiming to be a friend of Sisko's; Sisko refutes the claim but admits Tolar is working for him on a matter related to Starfleet security, insisting he can't have any official record of Tolar's presence on the station. Surprised, Odo warns that if Quark decides to press charges, he will be legally required to arrest Tolar. Sisko speaks to Quark who (pleasantly surprised that Sisko is willing to offer him a bribe) agrees not to press charges in exchange for compensation for his lost profits (specifically five bars of gold-pressed latinum) and damaged clothes (both his and M'Pella's), and also that some merchandise of rather dubious legality be released from the security lot where it is currently impounded due to a "missing" import license. Sisko, between a rock and a hard place, approves all these requests, and a delighted Quark thanks the captain not only for so many profitable concessions, but because this blatant act of bribery has reaffirmed his faith in the 98th Rule of Acquisition: "Every man has his price."
+Sisko's log continues...
+
+"That was my first moment of real doubt, when I started to wonder if the whole thing was a mistake. So, I went back to my office. And there was a new casualty list waiting for me. People are dying out there every day! Entire worlds are struggling for their freedom! And here I am still worrying about the finer points of morality! No, I... I had to keep my eye on the ball! Winning the war, stopping the bloodshed, those were the priorities! So, I pushed on. And every time another doubt appeared before me; I just found another way to shove it aside."
+The next step in the plan is to obtain a genuine Cardassian data rod. After locking Tolar in his quarters with a credible threat that attempting escape may kill him, Garak intercepts Sisko on route to Ops and informs the captain that, by some "minor miracle," he has found a seller. Unfortunately, the price is quite high: two hundred liters of bio-mimetic gel, a dangerous and heavily controlled substance. Sisko at first rejects the price outright, but Garak insists his seller won't accept anything else and finding another rod will be quite impossible. Sisko then seemingly decides to drop the whole plan, but after a few seconds changes his mind and tells Garak that two hundred liters is far too high a price, as there is not enough gel in the Bajor sector to fulfill that request. Garak assures Sisko he should be able to haggle it down to something more reasonable.
+Later, Sisko tells Doctor Bashir in his office to prepare eighty-five liters of biomimetic gel. Bashir refuses, pointing out that they have no idea where it's going and that in the wrong hands, biomimetic gel could be used for exceedingly dangerous and immoral purposes, including the manufacture of biogenic weapons and organic explosives. Sisko gives Bashir short shrift and makes it a direct order. Bashir insists on seeing this order in writing; Sisko immediately hands him the order on a PADD. Angry and disgusted that his demand was anticipated, but with no other recourse, Bashir agrees to prepare the gel but informs Sisko that he intends to note the incident in his log and will be filing a grievance with Starfleet Medical. The unfazed Sisko simply orders that the gel be ready by the end of the day and dismisses him.
+
+Sisko, Garak, and Tolar obtain the rod and begin preparing a convincing recording in which Weyoun and Damar plan the invasion of Romulus, making sure to have the two squabble with each other over the incompetence of Damar's predecessor to appear as "real" as possible. The program is recorded onto the rod, and the forgery is complete. To ensure that Tolar isn't cheating them (though he has already encoded his forgery on the single-use data rod), Sisko detains Tolar; when Tolar protests, insisting he's fulfilled the terms of their agreement, Sisko snarls that his freedom is contingent on the forgery fooling its intended recipient, promising to hand him back to Gowron for execution if the forgery fails to pass inspection. Tolar, who frantically insists the forgery will be accepted, is further unnerved when Garak says he will stop by his quarters later ("to say hello").
+As Sisko's log continues...
+
+"Maybe I was under more pressure than I realized. Maybe it really was starting to get to me, but I was off the hook. Starfleet Command had given the plan their blessing and I thought that would make things easier. But I was the one who had to make it happen. I was the one who had to look Senator Vreenak in the eye and convince him that a lie... was the truth."
+
+Sisko at this point is getting nervous, as Senator Vreenak comes to the station in a cloaked Romulan shuttle (with no one other than Sisko and Garak aware that he's there). Before Sisko greets Vreenak, Garak tells him he plans to inspect the Senator's ship covertly (for anything "useful"), and leaves. Upon arrival in the shuttle bay, Vreenak smugly exchanges greetings with Sisko, taking great pleasure in egotistically dressing him down for how poorly the Federation Alliance is faring in its war with the Dominion so far.
+
+
+=== Act Four ===
+In the wardroom, Vreenak and Sisko discuss the fate of their respective worlds over a replicated bottle of kali-fal, at which point Sisko tells Vreenak that he has learned the Dominion is planning a surprise invasion of the Romulan Empire. Vreenak, naturally, demands proof, and Sisko presents his forgery. Vreenak asks to inspect the data rod and, in typical Romulan fashion, takes his time doing so, during which Sisko is understandably anxious.
+As his log continues...
+
+"So, all I could do was wait... and see how masterful Tolar's forgery really was. So, I waited... tried to catch up on my paperwork, but I found it very difficult to focus on criminal activity reports, cargo manifests... So, I went back to pacing, staring out of the window. I'm not an impatient man; I'm not one to agonize over decisions once they're made. I got that from my father. He always says, "Worry and doubt are the greatest enemies of a great chef. The soufflé will either rise or it won't – there's not a damn thing you can do about it, so you might as well just sit back and wait and see what happens." But this time the cost of failure was so high; I found it difficult to take his advice. If Vreenak discovered that the data rod was a forgery, if he realized that we were trying to trick them into the war it could push the Romulans even farther into the enemy camp. They could start to openly help the Dominion. If worse came to worst, they could actually join the war against us. I had the distinct feeling that victory or defeat would be decided in the next few minutes."
+Sisko attempts, in vain, to calm himself until he's summoned by Vreenak. When he enters the wardroom, Vreenak silently dismisses his guards before angrily telling Sisko that he knows the recording is a fake.
+
+
+=== Act Five ===
+"So it all blew up in my face. All the lies and compromises, the inner doubts and the rationalizations – all for nothing. Vreenak was furious. I can't say I blamed him; I'd have reacted the same way. After telling me in no uncertain terms that he would expose this "vile deception" to the entire Alpha Quadrant, he got back in his shuttle and headed home. There didn't seem to be anything more to do... so, I went back to work. Two days later, I got the news."
+Sisko, Dax, and Bashir are reviewing a new casualty list when Worf comes in and delivers a report from Starfleet Intelligence that Vreenak's shuttle has exploded, killing the senator. When he adds that the Tal Shiar believe the Dominion is responsible, Dax, recalling their previous conversation, gives Sisko a knowing smile. Worf also points out that this event unfolding as it has is a real game-changer: the death of Vreenak, who was on a diplomatic mission in Dominion space, could bring the Romulans into the war. Realizing what has really happened, an enraged Sisko excuses himself and heads straight for the Promenade, seething with fury. Storming into Garak's shop, Sisko greets the tailor with a backhand to the face, sending Garak sprawling. Sisko accuses him of killing Vreenak, which Garak immediately admits. Sisko accuses him of having planned to do so all along; believing the rod would never pass inspection, Garak only advocated bringing Vreenak to the station in order to plant a bomb on his shuttle.
+Garak counters that while he did indeed hope that the rod would pass Vreenak's inspection, he realized that it was extremely likely that Tolar wasn't capable of creating a forgery sufficient to make the deception work. Sisko angrily demands to know if Garak killed Tolar as well; Garak casually dismisses him as another "casualty of war."
+Outraged, Sisko punches Garak again, but Garak insists Vreenak and Tolar haven't died in vain, as the Romulans are sure to enter the war now. Sisko protests he cannot guarantee that, but Garak lays out his counterargument: the Tal Shiar will, in the course of their investigation, eventually find the data rod in the wreckage of Vreenak's shuttle. Their analysis will confirm it contains a recording of high-level Dominion officials plotting the invasion of Romulus, the damage the rod sustained from the explosion masking any imperfections in the forgery. Garak pointedly asks Sisko what conclusion he would draw in the Tal Shiar's position, given the apparent facts. Sisko reluctantly connects the dots; not knowing about Vreenak's stop at Deep Space Nine, the Romulans will assume Vreenak obtained the rod during his diplomatic mission on Soukara, and the Dominion assassinated him before he could return to Romulus and expose their treachery. Garak concurs, adding that the Dominion's protests of innocence will only further convince the Romulans of their guilt, because it's exactly what the Romulans would have done in their place.
+Garak reminds the captain that this is why Sisko came to him for help in the first place: because he knew that Garak was willing to do things that he couldn't, no matter how distasteful and illegal. The most important thing is that Sisko will achieve exactly what he intended, since in light of the damning "evidence" against the Dominion, the Romulans will surely enter the war now. Garak tells Sisko he can salve his conscience with the knowledge he's very likely just saved the entire Alpha Quadrant, having only had to sacrifice the lives of one criminal, an unsympathetic senator, and perhaps his self-respect in the process. Garak tells Sisko that as far as he's concerned, it's "a bargain."
+Sisko's log concludes...
+
+"At oh-eight-hundred hours, station time... the Romulan Empire formally declared war against the Dominion. They've already struck fifteen bases along the Cardassian border. So, this is a huge victory for the good guys! This may even be the turning point of the entire war! There's even a "Welcome to the Fight" party tonight in the wardroom!... So... I lied. I cheated. I bribed men to cover the crimes of other men. I am an accessory to murder. But the most damning thing of all... I think I can live with it... And if I had to do it all over again... I would. Garak was right about one thing – a guilty conscience is a small price to pay for the safety of the Alpha Quadrant. So, I will learn to live with it...Because I can live with it...I can live with it. Computer – erase that entire personal log."
+
+
+== Memorable quotes ==
+"That was the moment I made the decision. It was like I had stepped through a door and locked it behind me. I was going to bring the Romulans into the war."
+
+- Benjamin Sisko
+"Let's say I'm the Romulan Proconsul. From where I'm sitting, the Dominion isn't a threat to me. I have a non-aggression pact with them; they are my allies."
+"You're not going to put your faith in some piece of paper, are you?"
+"Not at all. I've been watching them very closely since the beginning of the war, and so far, they've kept their part of the bargain."
+"They're violating your territory almost every day. What kind of an ally is that?"
+"So, they're crossing my backyard to give the Federation a bloody nose; I can't say that makes me feel very sad."
+"You can't be naïve enough to think that the Dominion is going to stop with the Federation! When they're finished with us, they're coming after you!"
+"That's speculation."
+"The Founders see it as their sacred duty to bring order to the galaxy; their order. Do you think they'll sit idly by while you keep your chaotic empire right next to their perfect order? No! If you watch us go under, what you're really doing is signing your own death warrant!"
+"But before I plunge my people into a conflict that will kill millions of loyal Romulan citizens, I need something more concrete than the self-serving arguments of a Starfleet officer. I need proof of Dominion duplicity. Not more words. Proof."
+
+- Dax, providing a Romulan perspective, and Sisko debating how to convince the Romulans to enter the Dominion War
+
+"You would have made a decent Romulan."
+"I prefer the spots to the pointed ears."
+
+- Sisko and Dax
+
+"My father used to say that the road to Hell is paved with good intentions. I laid the first stone right there. I'd committed myself. I'd pay any price; go to any lengths because my cause was righteous. My... intentions were good. In the beginning, that seemed like enough."
+
+- Sisko
+
+"If you want to guarantee that we obtain evidence of a Dominion plot to attack the Romulans, I suggest that we manufacture that evidence ourselves."
+
+- Elim Garak
+
+"You do understand the terms of your parole?"
+"Oh, yes, I have to promise to stay away from the Klingon Empire. Ha ha! That'll be tough! Ha ha ha!"
+
+- Sisko and Grathon Tolar
+
+"What happened?"
+" As I understand it, Mr. Tolar over there came in about two hours ago and ordered a bottle of Whelan Bitters. Fifteen minutes later, he ordered a second bottle, then a third. Halfway through his fourth bottle, he decided to dance with M'Pella. She was otherwise engaged running the dabo wheel, declined his invitation. He decided to force the issue, a brief struggle ensued and Quark, in an uncharacteristic display of chivalry, attempted to intervene, so Tolar stabbed him. Normally, he'd be sitting in a holding cell, but he claims he's a friend of yours."
+"He's no friend of mine, but he is working for me. It's an extremely sensitive matter concerning Federation security. I can't have any record of him being on the station."
+"I see. I am certainly aware of the need for special security measures during wartime, but as a matter of law, if Quark chooses to press charges against Tolar, I have no choice but to make an arrest."
+
+- Sisko and Odo as the latter delivers an incident report when Tolar causes trouble in Quark's.
+
+"Do you intend to press charges?"
+"You bet I do!"
+"What would it take to... uh, convince you otherwise?"
+"Are you offering me a bribe...? I knew it! Captain, I've always liked you. I suspected that somewhere deep down in your heart of hearts there was a tiny bit of Ferengi just waiting to get out..."
+"What's your price?"
+"Well, let's start with repairing my clothes, and M'Pella's clothes..."
+"Alright."
+"I'm not finished! I think I should also be compensated for the loss of business I suffered today, which I calculate as no less than five bars of gold-pressed latinum."
+"Done."
+"I'm also having a problem with station security: they're holding some cargo containers I've been waiting on because of some missing import license or something."
+"I'll handle it. Anything else?"
+"No. I think we can call it a bribe. And thank you, Captain. Thank you for restoring my faith in the 98th Rule of Acquisition: "Every man has his price"."
+
+- Sisko and Quark, after "negotiating" an agreement for the latter not to press charges against Tolar.
+
+"They will ask how we got it."
+"We obtained it through various covert means. Oh, and at great cost to the Federation, like at least 10 good men gave up their lives to bring it across the line. That sort of thing."
+
+- Sisko and Garak
+
+"People are dying out there, every day! Entire worlds are struggling for their freedom! And here I am still worrying about the finer points of morality!"
+
+- Sisko
+
+"Who's watching Tolar?"
+"I've locked him in his quarters. I've also left him with the distinct impression that if he attempts to force the door open, it may explode."
+"I hope that's just an impression."
+"It's best not to dwell on such minutiae."
+
+- Sisko and Garak
+
+"I am making a new agreement. If that program passes inspection, you walk free. But if there is even the slightest flaw, then I will send you back to that Klingon prison and tell Gowron to take his time while he executes you!"
+
+- Sisko, threatening Tolar
+
+"Gul Dukat is a great man."
+"Gul Dukat is a preening egotist and a fool."
+
+- Bickering holographic recreations of Damar and Weyoun
+
+"So, you're the commander of Deep Space 9. And the Emissary to the Prophets. Decorated combat officer, widower, father, mentor... and oh yes, the man who started the war with the Dominion. Somehow, I thought you'd be taller."
+"Sorry to disappoint you."
+"To be honest, my opinion of Starfleet officers is so low, you'd have to work very hard indeed to disappoint me."
+
+- Senator Vreenak and Sisko
+
+"It's a FAAAAAKE!"
+
+- Vreenak
+
+"A Romulan shuttlecraft carrying a high-ranking senator has just been destroyed."
+"Which senator?!"
+"Senator Vreenak. He was returning to Romulus from a diplomatic mission to Soukara when his shuttle exploded. The Tal Shiar is investigating, but... preliminary reports point to sabotage – they believe the Dominion is responsible."
+(Almost smiling at the ramifications) "The Dominion assassinated a Romulan senator..."
+"...On a diplomatic mission..."
+"That changes everything – it could even bring the Romulans into the war..."
+(Knowing very well who the real saboteur was) "Excuse me..."
+
+- Worf, Sisko, Dax, and Bashir
+
+"You killed him!"
+"That's right!"
+"That's what you planned to do all along, isn't it? You knew the data rod wouldn't hold up to scrutiny; you just wanted to get [Vreenak] on the station so you could plant a bomb on his shuttle!"
+"It wasn't quite that simple! I did have hopes that the rod would somehow pass inspection, but I suspected that Tolar may not have been up to the task."
+"And what about Tolar? Did you kill him too?"
+"Think of them both as tragic victims of war."
+
+- Sisko and Garak, on the latter's murders of both Vreenak and Tolar
+
+"If you could allow your anger to subside for a moment, you'll see that they did not die in vain! The Romulans will enter the war!"
+"There's no guarantee of that!"
+"Oh, but I think that there is! You see, when the Tal Shiar finishes examining the wreckage of Vreenak's shuttle, they'll find the burnt remnants of a Cardassian optolythic data rod which somehow miraculously survived the explosion. After painstaking forensic examination, they'll discover that the rod contains a recording of a high-level Dominion meeting at which the invasion of Romulus was being planned."
+"And then they'll discover that it is a fraud!"
+"Oh, I don't think that they will! Because any imperfections in the forgery will appear to be a result of the explosion! So, with a seemingly legitimate rod in one hand, and a dead Senator in the other, I ask you, Captain—what conclusion would you draw?"
+"That Vreenak obtained the rod on Soukara, and that the Dominion killed him to prevent him from returning to Romulus with it."
+"Precisely! And the more the Dominion protests its innocence, the more the Romulans will believe they're guilty, because it is exactly what the Romulans would have done in their place!"
+
+- Garak and Sisko arguing over the conclusions the Tal Shiar will come to after Vreenak's assassination
+
+"That's why you came to me, isn't it, Captain? Because you knew I could do those things that you weren't capable of doing. Well, it worked. And you'll get what you wanted: a war between the Romulans and the Dominion. And if your conscience is bothering you, you should soothe it with the knowledge that you may have just saved the entire Alpha Quadrant, and all it cost was the life of one Romulan senator, one criminal... and the self-respect of one Starfleet officer. I don't know about you, but I'd call that a bargain."
+
+- Garak
+
+"This is a huge victory for the good guys!"
+
+- Sisko
+
+"So... I lied. I cheated. I bribed men to cover the crimes of other men. I am an accessory to murder. But the most damning thing of all... I think I can live with it. And if I had to do it all over again, I would. Garak was right about one thing, a guilty conscience is a small price to pay for the safety of the Alpha Quadrant. So, I will learn to live with it. Because I can live with it. I can live with it... Computer, erase that entire personal log."
+
+- Sisko
+
+
+== Background information ==
+
+
+=== Origins ===
+The working title of this episode was "Patriot". (Star Trek: Deep Space Nine Companion, p. 556)
+The earliest origins of this episode are to be found in a discussion amongst the writers about various pivotal moments in recent US history. One such moment was the 1964 Gulf of Tonkin incident, when a North Vietnamese gunboat allegedly attacked a US naval vessel, leading to an increased military presence in Vietnam itself, and effectively beginning the Vietnam War. Another defining moment under discussion was the 1974 Watergate scandal, which began with five men being arrested for breaking into the Watergate complex and ended with the resignation of President Richard Nixon, who was facing an impeachment in the House of Representatives and a conviction in the Senate due to the discovery of, amongst other things, illegal political espionage, improper tax audits, unauthorized wiretapping, and secret funding hidden in Mexico. Thinking about the sheer scale of these incidents and the massive repercussions felt for years afterward by people from all walks of life, the producers asked former staff-writer and producer Peter Allan Fields to compose a story based around a political controversy involving a secret that, if discovered, could have huge consequences throughout the quadrant. (Star Trek: Deep Space Nine Companion, pp. 556-557)
+Fields's original premise revolved around Jake "watergating" First Minister Shakaar. He discovers an undisclosed secret about Shakaar from his days in the Bajoran Resistance which, if it got out, would bring down the Shakaar government and throw Bajor into chaos. When Jake tells his father about the secret, Sisko tries to stop him from publishing it. However, when the staff-writers went to work on Fields's story, they couldn't make it work, and so they altered the basic premise to Jake discovering something about his own father. Ronald D. Moore compared this premise to the 1978 film All the President's Men. (AOL chat, 1998) This was the idea around which Michael Taylor composed his first draft of the script – the inherent conflict between Jake and Sisko. The story would begin when Jake tries to get an interview with Garak for the Federation News Service, but Garak is uninterested in being interviewed. Jake presses him, but Garak won't budge, and so Jake goes to his father to try to get him to put some pressure on Garak. However, Sisko tells him to stay away from Garak altogether. Intrigued, Jake begins to investigate, and he discovers that his father and Garak are involved in shady dealings and are trying to bring the Romulans into the Dominion War by lying to them about the Dominion's so-called plan to invade Romulan space. (Star Trek: Deep Space Nine Companion, pp. 556-557)
+Michael Taylor is credited for the teleplay of the episode, although much of his contribution did not make the final draft. Taylor did came up with the idea of the fake Dominion rod, basing the idea on the historical Zimmerman Note of 1917, in which Germany offered to help Mexico retake the southwest United States to keep America out of World War I. Instead, the American public became enraged by the implications of the telegram, facilitating America's entry into the war against Germany. For a time the note was thought to be faked in order to convince America to join the war against Germany. (The 7th Rule Podcast #148 )
+In the fake record, when holographic Weyoun pointed out that the Romulans would expect a Dominion attack the least under a non-aggression treaty, Operation Barbarossa comes to mind: Germany invaded the Soviet Union in World War II. The Soviet Union did not expect Germany to invade, as both countries held a non-aggression treaty, with a secret supplemental protocol about the division of Poland.
+By the final draft of the script, which was actually written by an uncredited Ronald D. Moore, Jake had been removed entirely. The reason for this was because the relationship between Jake and Sisko, as established in many episodes over the course of the five and a half years of the show, was simply too strong, their bond as father and son had become so pronounced that it was virtually impossible to conceive of anything destroying it, as Moore explains, "It was really no contest between Sisko and Jake, because as much as we want to, it's hard to get those two characters into conflict with each other. So it didn't really ring true. Jake was so young and Sisko was so experienced, you didn't really believe the central conflict of the show." (Star Trek: Deep Space Nine Companion, pp. 556-557)
+According to Moore, the title of the episode was a reference to the phrase "Have you ever danced with the devil in the pale moonlight?" from the 1989 film Batman. (AOL chat, 1998)
+Originally, the writers were going to have the Dominion invade Vulcan, not Betazed. The episode was structured so that at the moment Sisko begins to waver as to whether or not to carry his scheme through, a planet falls to the Dominion, serving to galvanize his resolve, but the writers didn't want to invent a new planet or name somewhere inconsequential, they wanted a planet that would carry weight for viewers, and they ultimately narrowed it down to Vulcan and Betazed. They initially decided on Vulcan, but they changed their minds when they came to the realization that "Vulcan just carried too much weight." (Star Trek: Deep Space Nine Companion, p. 557)
+
+
+=== Story and script ===
+The closing of this episode was based on a line of dialogue in the 1962 John Ford movie The Man Who Shot Liberty Valance, which is spoken by Tom Doniphon (John Wayne); "Cold-blooded murder, but I can live with it. Hallie's happy. She wanted you alive." (Star Trek: Deep Space Nine Companion, p. 558)
+The script contained several scenes which were either unfilmed or cut from the episode as aired. In one, a continuation of the scene in which Sisko threatens Tolar in the holosuite, Garak suggests that after all the intrigue and deception of the past week, Sisko enjoyed that "moment of pure brute force". In response, Sisko says, "Mr. Garak, why is it that no one has killed you yet?" and Garak responds, "My innate charm?" The two laugh, and in the following scene Sisko discusses his response in his log. In another scene, Dax comes to Sisko and suggests that they forge evidence to bring the Romulans into the war, unaware that Sisko is engaged in a project to do exactly that. (Star Trek: Deep Space Nine Companion - A Series Guide and Script Library)
+Moore wrote scenes to take place aboard Vreenak's ship but decided they were not needed: "There were some small scenes that were cut for time and budget that had more to do with the Romulan shuttle and its explosion. I think I'd written some scenes that were actually on the shuttle, and you saw more of how the plot played out. I think I realized in a conversation with Ira that actually, you didn't need it at all. And he was right".
+Sisko's line about having stepped through a door and locked it behind him, and Garak's line that attempting to force the door open may cause it to explode, serve as interesting allegories for their respective roles in the story itself. While it was Sisko who made the decision to initiate the plan to bring the Romulans into the war, it was Garak who applied the pressure that stopped Sisko from pulling out and ensured that the plan went through to its successful conclusion.
+
+
+=== Continuity ===
+One of the ships believed to have been destroyed by the Dominion in this episode is the USS Cairo which previously appeared as the ship of Captain Edward Jellico in TNG: "Chain Of Command, Part I" and TNG: "Chain Of Command, Part II". The wreckage is later found in 2384 in the Delta Quadrant by the Medusan Zero in Star Trek: Prodigy's "The Fast and the Curious".
+The Romulan nonaggression pact with the Dominion, signed in the fifth season finale "Call to Arms", is referred to numerous times in this episode.
+Vreenak is on his way back from Soukara when he diverts to Deep Space 9. Soukara is the planet visited by Jadzia Dax and Worf to rendezvous with the Cardassian double-agent Lasaran in "Change of Heart".
+This episode echoes season 5's "For the Uniform", where Sisko similarly disregards his own ethical belief system and Starfleet policy in order to catch Michael Eddington. Both episodes were written by Peter Allan Fields. This episode builds on the fifth season episodes "The Ship" and "Nor the Battle to the Strong" insofar as it deals with the notions that during wartime, real people lose their lives every day, and that war has very real consequences. These episodes attempted to convey a sense of the horrors of war and subvert the notion that war is all about exploding starships and nameless soldiers dying anonymously; that behind a list of names are real people with families and lives. This theme would be revisited once more in the seventh season episode "The Siege of AR-558", where Sisko would once again be troubled by his own reaction, as he is in this episode, to the casualty reports sent by Starfleet.
+Cited Rules of Acquisition: #98 ("Every man has his price").
+It is revealed in this episode that Betazed is relatively close to Vulcan, Andoria, Tellar Prime, and Alpha Centauri. Alpha Centauri is the closest star system to Earth, approximately 4.3 light years distant. It is established in the Star Trek: Enterprise episode "Home" that Vulcan is approximately 16 light years from Earth. The relative proximity of all these worlds is further established throughout Star Trek: Enterprise.
+Also in Enterprise, it is established that the aforementioned worlds (Vulcan, Andoria and Tellar) were, together with Earth, the core of the Coalition of Planets of the evolving Federation.
+This is the second episode in a row in which Weyoun (Jeffrey Combs) appears only as a holographic simulation.
+The Romulan shuttle is the first new Romulan ship seen since the Romulan scout ship in TNG: "The Defector".
+Exactly what fatal flaw Vreenak discovered in the forgery is never mentioned, but its subsequent success in fooling all the other Romulans suggests some physical flaw in the rod itself, rather than any error in the narrative of the forged record, was what clued him to its being a counterfeit. Garak does note to Sisko, however, that any discrepancies in both the rod and the program will be written off by the Romulans as being caused by damage from the explosion, thus whatever flaw Vreenak discovered is ultimately immaterial.
+
+
+=== Behind the scenes ===
+
+This episode is presented in flashback format, with Sisko narrating a log entry in his quarters in the 'present' time, and the bulk of the episode comprising scenes from that narration. Other episodes structured like this are the second season episodes "Necessary Evil" and "Whispers".
+Like the episode "Rules of Engagement", this episode comes close to breaking the fourth wall, with Sisko seemingly talking directly to-camera, and hence the audience. However, there is no direct acknowledgment of the audience in the episode itself, instead the viewer merely takes the perspective of the computer to which Sisko dictates his log.
+The idea for Sisko to slowly undress as the episode progresses was director Victor Lobl's, who saw it as serving a double function; on the one hand, Sisko loosening and removing his clothing was simply to convey the passage of time as he paced around the room, on the other it was a thematic metaphor for how, as Sisko narrates his log, he is literally baring his soul. (Star Trek: Deep Space Nine Companion, pp. 557-558)
+Filming began on 27 January 1998 (AOL chat, 1998).
+David Bell composed the score of the episode. Author Jeff Bond praised the music. (The Music of Star Trek, p 213)
+Grathon Tolar's outfit is a reuse of Richard Kiley's suit as Gideon Seyetik from DS9: "Second Sight". It was also previously reused as an outfit of Kellan's in VOY: "Dreadnought".
+Colm Meaney (Miles O'Brien) and Cirroc Lofton (Jake Sisko) do not appear in this episode.
+
+
+=== Reception ===
+"In the Pale Moonlight" has proven one of the most popular among fans. When the series ended in 1999, a poll run in Sci-Fi Entertainment had this episode as the highest rated show of the entire seven-year run, followed by "The Visitor" and "Far Beyond the Stars". Furthermore, this episode has an average rating of 4.8/5 on the official Star Trek website (as of October 14th, 2008), making it one of the highest rated episodes on the entire site.
+According to the Star Trek: Deep Space Nine Companion, p. 555, this episode is generally considered by both fans and staff as the darkest Star Trek episode ever made, and the one most antithetical to Gene Roddenberry's initial views of Starfleet, the Federation and 24th century Humanity.
+Ronald D. Moore commented, "Actually I think that is the one I am the most proud of, of the ones I worked on, even though I didn't take a credit on that one. I felt like that was the best, most interesting script that challenged the show in a real way, and challenged the characters as far as we'd ever challenged them." (Cinefantastique, Volume 29 Number 6/7)
+Andrew Robinson nominates this as one of his favorite episodes, after "The Wire", "Improbable Cause" and "The Die is Cast". According to Robinson, this episode is about Garak teaching Sisko that "You can't go to bed with the Devil without having sex." (Star Trek: Deep Space Nine Companion, p. 555)
+In a separate interview, Robinson made a similar point, stating that this episode demonstrated how Deep Space Nine explored more difficult issues than the other Star Trek series. He commented, "[B]asically it exposes the American innocence, that we want to do these things in the world, but we're not really willing to take the consequences of our actions, and sometimes we have to do very dirty things, and we have to hurt people, and we pretend that that doesn't exist, that Americans would never do that. We dealt with issues like that and I don't think... you know... the other shows really went as far as we did." [1]
+Of this episode, writer Michael Taylor says, "It showed how Deep Space Nine could really stretch the Star Trek formula. It pushes the boundaries in a realistic way, because the decisions Sisko makes are the kinds of decisions that have to be made in war. They're for the greater good." (Star Trek: Deep Space Nine Companion, p. 556)
+One TV Guide reviewer wrote, "An outstanding episode of the syndicated Star Trek: Deep Space Nine, 'In the Pale Moonlight', was structured as a long, labyrinthine entry in the captain's log, as a vexed Sisko (Avery Brooks) dictated his perceptions of and participation in recent momentous events in the Alpha Quadrant. The program's anguished, confessional mood, its Machiavellian plot, in which Sisko desperately attempts to manipulate the Romulans into breaking their non-aggression pact with the Dominion, and Avery's powerful, passionate performance (arguably his best in six years on the science-fiction series) combined to make this episode absolutely stellar." (Television Guide, Volume 46, 1998)
+Time wrote of the episode, ["In the Pale Moonlight"] was the best of the war episodes: The Federation is losing; friends are dying; the planet Betazed (home world of Enterprise's Counselor Deanna Troi) has fallen. Captain Sisko hatches a complicated plan to fabricate evidence showing that the Dominion wants to conquer the Romulans. His aim is to bring the Romulans into the war on the Federation's side. As Sisko gives up his principles slowly, one by one, in order to make his plan work, you expect Trek's simple moral verities to prevail. It is dumbfounding, and chilling, when they don't." [2]
+In Star Trek 101 (p. 125), Terry J. Erdmann and Paula M. Block list "In the Pale Moonlight" as being one of the "Ten Essential Episodes" from Star Trek: Deep Space Nine.
+Cinefantastique ranked "In the Pale Moonlight" as the eighth best episode of Star Trek: Deep Space Nine. (Cinefantastique, Vol. 32, No. 4/5, p. 100)
+Una McCormack commented, "I was completely addicted [to Deep Space Nine] when I watched 'In the Pale Moonlight' with my jaw hanging open at its brilliance." (Voyages of Imagination  (page number? • edit))
+According to the 1999 book, Science Fiction of the 20th Century by author Frank M. Robinson (p. 240), "..."In the Pale Moonlight"--was mentioned by TV Guide as one of the best dramatic shows of the season. In it, Captain Sisko is forced to betray his ideals to save the lives of millions on a planetary system at the cost of one petty criminal and one ambassador of dubious loyalty. On the surface, no contest but Brooks played the role with depth and feeling unusual in a science-fiction series."
+
+
+=== Remastered version ===
+Remastered scenes from the episode are featured in the documentary What We Left Behind.
+
+
+=== Apocrypha ===
+The novel Hollow Men is a follow-up to the events of this episode.
+In a Star Trek: New Frontier short story by Peter David, it is suggested that the Romulans uncovered Sisko's deception at an unknown point in the future, leading to open warfare between the United Federation of Planets and the Romulan Star Empire. (Tales of the Dominion War: "Stone Cold Truths")
+The battle to retake Betazed took place in the non-canon Star Trek: The Next Generation novel The Battle of Betazed.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 6.10, 5 October 1998
+As part of the DS9 Season 6 DVD collection
+As part of the Star Trek: Fan Collective - Captain's Log collection
+
+
+== Links and references ==
+
+
+=== Main cast ===
+Avery Brooks as Captain Benjamin Sisko
+Rene Auberjonois as Constable Odo
+Michael Dorn as Lieutenant Commander Worf
+Terry Farrell as Lieutenant Commander Jadzia Dax
+Armin Shimerman as Quark
+Alexander Siddig as Doctor Julian Bashir
+Nana Visitor as Major Kira Nerys
+
+
+=== Guest stars ===
+Andrew J. Robinson as "Garak"
+Jeffrey Combs as "Weyoun"
+Casey Biggs as Damar
+Howard Shangraw as Grathon Tolar
+And
+Stephen McHattie as "Vreenak"
+
+
+=== Co-star ===
+Judi Durand as Station Computer Voice
+
+
+=== Uncredited co-stars ===
+Cathy DeBuono as M'Pella
+Brian Demonbreun as Human sciences officer
+Kathleen Demor as Human operations officer
+Unknown performers as
+Cardassian legate hologram
+Reptilian alien
+Vreenak's guard 1
+Vreenak's guard 2
+
+
+=== Stunt double ===
+Chester E. Tripp III as stunt double for Andrew J. Robinson
+
+
+=== References ===
+2360; 2371; 23rd Jem'Hadar Division; 47; ability; accessory; advisor; Alpha Centauri; Alpha Quadrant; Andor; assassination; Bajoran sector; Betazed; biography; bio-mimetic gel; bloody nose; brazenly; breeding; bribery; Cairo, USS; Cardassian border; Cardassia Prime; Cardassians; cargo container; cargo manifest; classified information; cold warrior; colony (Betazoid colonies); combat officer; conscience; constable; criminal activity report; day; Dominion; Dominion War; Dukat; ears; Emissary of the Prophets; "eye on the ball"; Federation; Federation territory; Ferengi; field of expertise; flattery; forensic examination; forgery; Fourth Order; freedom; Friday; Gowron; Glintara sector; good men; guilt; heart; Hell; homeland; import license; informant; invasion force; Jem'Hadar; Kalandra sector; kali-fal; Klingon; Klingon Empire; landing bay; latinum; legion; lie; liter; M'Pella; mentor; Milky Way Galaxy; month; morality; murder; Neral; Obsidian Order; office; "Old Man"; operative; opinion; optolythic data rod; Orion slave girl; paperwork; planetary defense system; Praetor Colius Award; Promenade; Quark's; record-keeping; repartee; rib; rights; Romulans; Romulan ale; Romulan Neutral Zone; Romulan Senate; Romulan Senate Council; Romulan Star Empire; Romulus; secretary; self-respect; sinus; Sisko, Joseph; skipper; sophomore; soufflé; Soukara; Starfleet Academy; station time; suicide mission; Tal Shiar; Tatalia, Maria; Tatalia and Jadzia's mutual friend; Tellar; Tenth Fleet; Tora Ziyal;  Trill spots; vice-chairman; Vreenak's shuttle; Vulcan; War Plans Council; Whelan Bitters; widower; Wong, Leslie; wounded in action; writing
+Casualty report: Aguayo, Monico C.; Akagi, USS; Alfaro, Edith K.; Barnett, Richard B.; Bittle, Rick K.; Brand, Harry C.; Brand, Shirley H.; Braswell, Elizabeth S.; Clark, Margaret C.; Clement, USS; Cochrane, USS; Covington, Barbara P.; Danhauser, Curt F.; Derr, Laura E.; Duder, Dorothy R.; English, Russ A.; Erdmann, Terry P.; Exeter, USS; Flood, Ann T.; Fredrickson, John A.; Ginsburg, Alice K.; Ginsburt, Alice K.; Green, Mitchell B.; Hansen, Kurt S.; Hansen, Teri T.; Holst, Sandy A.; Jacobson, Phillip; Juday, Penny M.; Kenney, Grace K.; Kimya, Matata L.; Kobayashi, Alan; Kurts, Beverly C.; Laprade, Jay T.; Lawrence, Paul F.; Leprich, Kathy S.; LeVesconte, Faith; LeVesconte, Lester P.; Limli, Rose E.; Long, Mindy C.; Mahoney, Tom P.; McAllum, Marian A.; McCammon, Kathy; Monson, Jon S.; Nemzek, David P.; Nemzek, Donna W.; Nobel, USS; Oberman, Dorit J.; Oberscheven, Lori B.; Ohlson, Larry A.; Ohlson, Nancy B.; Repulse, USS; RN; Sarajevo, USS; Starbase 129; Starbase 153; Tecumseh, USS; Tripoli, USS; Victory, USS; Wong, Leslie; Wyoming, USS; Zapata, USS
+
+
+==== Unreferenced material ====
+authorization code; plebe; site-to-site transport
+
+
+=== External links ===
+"In the Pale Moonlight" at Memory Beta, the wiki for licensed Star Trek works
+"In the Pale Moonlight" at Wikipedia
+"In the Pale Moonlight" at MissionLogPodcast.com
+"In the Pale Moonlight" script at Star Trek Minutiae
+"In the Pale Moonlight" at the Internet Movie Database

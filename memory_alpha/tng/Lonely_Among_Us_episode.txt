@@ -1,0 +1,287 @@
+While transporting delegates, an alien life form wreaks havoc on the Enterprise computer – and begins to take over the minds of her crew.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise-D has begun orbiting the two major planets in the Beta Renner system, Antica and Selay. The two species of those worlds, the Anticans and the Selay, have both achieved space flight, and they have applied to become members of the United Federation of Planets. However, the two species are mortal enemies. The Enterprise has been ordered to transport both peoples to a neutral planet called Parliament, in the hopes of resolving their conflicts. On the Enterprise, Captain Jean-Luc Picard, Commander William T. Riker, and Lieutenant Natasha Yar stand in the transporter room wearing their dress uniforms awaiting the delegates.
+The delegates from Selay beam on board. Picard introduces himself to Ssestar, a male Selay. Riker is about to lead them to their accommodations, but Ssestar insists that the Selay's quarters be upwind from the Anticans and be as far away as possible. Riker attends to this and leads them to their quarters. After the delegation leaves the transporter room, Yar tells Picard that neither species seems like promising Federation candidates. Picard agrees and believes that Parliament's peacemakers may have difficulty satisfying the two species' needs. Later on, the Enterprise leaves orbit of Selay on course for Parliament. On the bridge, Lieutenant Commander Data notes that the sensors are picking up an unusual energy object ahead of the Enterprise. On the viewscreen, an enormous cloud is shown. Data notes that it is also traveling at warp speed. Picard, intrigued, orders Data to make a close sensor pass on the cloud, then jump back to warp speed so they are still on schedule for Parliament.
+
+In sensor maintenance, Lieutenants Geordi La Forge and Worf are running diagnostics on sensor assemblies. La Forge wonders why Worf is so interested in routine maintenance on sensors. Worf tells him it is simple, because Picard wants his junior officers to "learn, learn, learn." Yar signals sensor maintenance to see if there are any problems with systems, since they are making a close sensor pass. La Forge replies that all equipment is online and functioning perfectly. The Enterprise begins scanning the cloud. Worf, while working at a console, hears a strange noise. He goes over to investigate, but his body is struck by swirling blue energy. The energy discharges from Worf, and he falls to the floor, unconscious. La Forge rushes over to Worf's side and taps his combadge, signaling a medical emergency.
+
+
+=== Act One ===
+Dr. Beverly Crusher arrives in sensor maintenance with a medic. She is about to examine Worf, but he wakes, violently attacks the medic, and throws him away, knocking him off his feet. La Forge heaves himself down on top of Worf so Crusher can administer a sedative via her hypospray. Worf finally calms down and is taken to sickbay. In Picard's ready room, La Forge tells Picard that he could see a glow in sensor maintenance, and Worf jerked as though something had hit him. Picard asks La Forge if his VISOR could have malfunctioned, but La Forge doubts it.
+In the Antican's quarters, Yar and Riker are attending to the Antican's dietary requirements. Yar had misunderstood that the Anticans prefer their food live, not dead. Riker tells Badar N'D'D, the lead Antican delegate, that Humans no longer enslave animals for food purposes; rather, they consume meat that has been inorganically produced from the ship's replicators. Badar N'D'D finds this practice "sickening" and "barbaric."
+
+In sickbay, Crusher examines Worf. She uses a medical tool, but the same energy that entered Worf's body now enters Crusher's. Soon after, Counselor Deanna Troi enters sickbay to inquire about Worf's condition, but Crusher is now acting strangely, and Troi begins to notice. She asks if she is all right. Crusher responds, "Yes, perfectly. Both of us, quite normal now." Worf awakens on a bio-bed and inquires where he is. Troi responds that he is in sickbay and asks if he remembers what happened to him. Worf can only remember what happened prior to his accident and asks what he is doing in sickbay. Troi replies that Crusher will tell him all about it, but instead she promptly leaves sickbay.
+On the bridge, Picard and Data wish to examine the cloud further, since there are many unexplained mysteries surrounding it, but Picard tells Data that it will have to wait until the delegates are delivered to Parliament and orders helmsman La Forge to take the ship to warp eight. Crusher enters her quarters, where she finds her son, Wesley Crusher, working at a desktop monitor. Wesley tells Crusher that he is working on a project for his physical sciences class, where he is studying Dr. Channing's theory on dilithium crystals. Crusher asks Wesley to tell her about it, which strikes Wesley as odd, since his mother has never shown interest in warp theory before. Wesley explains that Channing believes that it may be possible to force dilithium into more useful crystals. Crusher asks if that would affect navigation. Wesley replies that this theory is related to engineering, not helm control. Crusher then remembers that the helm is located on the bridge. Wesley then notices that his mother is now acting strange and wonders if she is all right, but she abruptly leaves without answering.
+
+Crusher arrives on the bridge and walks over to the helm, manned by La Forge, while relief operations officer Bennett eyes her strangely. She replies that La Forge's station must be the helm. La Forge replies that it is, unless there have been some changes that he is unaware of. Picard walks over to Crusher and asks about Worf's condition. Crusher does not give Picard a lot of information, and Picard presses her to give him an accurate diagnosis, since it involves a bridge officer. Crusher replies that she will have to run medical cross-checks in the ship's computer. She uses science station II next to Data. Data looks at her console and wonders what helm control has to do with medical cross-references. Crusher remains silent. Then, the blue energy that was inside Crusher enters the computer. Crusher is disoriented and leaves the bridge.
+Suddenly, Data cannot get any of the science stations to work. From engineering, assistant chief engineer Lieutenant Singh reports that there is a failure with the warp drive circuits. Various other stations on the ship report failures as well. Picard, seeing that the Enterprise is not even a year out of spacedock, asks Data what the chances are of the ship having all these failures. Data responds that it is a virtual impossibility.
+
+
+=== Act Two ===
+In the conference lounge, Picard, Riker, Data, and Singh, along with other department heads discuss the various problems currently occurring on board the Enterprise and the solutions to them. Singh believes that an electronic short made its way into several systems is to blame, but Singh concedes that that should not be possible, as the affected systems do not interact with each other. Singh replies that chief engineer Argyle and all engineering staff are just as puzzled as they are. Picard wants an explanation for the system failures by the time the ship reaches Parliament. Singh doubts he can find the solution before the Enterprise reaches the planet.
+
+In the Antican's quarters, Riker and Yar confront and confiscate weapons from Anticans seen out of sight, near the Selay delegation's quarters. Riker tells Badar N'D'D that all weapons, no matter what their basic function, will be taken away and that violence will not be tolerated on the Enterprise. On the bridge, conn officer Worf announces that warp drive is failing yet again and the Enterprise drops out of warp. Picard asks Data to send a message to Parliament, informing them that they will be delayed. However, Data cannot send a message as communication systems are down.
+In Picard's ready room, Data replies that if the Enterprise had all these system failures, the ship would have never left spacedock. Therefore, Riker and Data believe the Enterprise has a saboteur on board. Riker believes the Ferengi may have bribed the alien delegation to sabotage the Enterprise, as Ferengi have had contact with both the Selay and the Anticans. Picard asks if they have any more suspects, to which Riker tells Picard that he is beginning to sound like a private eye. Data wonders as to the meaning of the term "private eye". Picard tells him that it is a person who solves crimes, like the immortal Sherlock Holmes, which piques Data's interest.
+In engineering, Wesley Crusher and Singh are trying to come up with solutions to the system failures. Singh tells Crusher that he will relieve him and that it is time for him to commence work on his studies. Crusher reluctantly leaves and tells Singh on his way out that he does not learn nearly this much while in school.
+
+In the Crusher's quarters, Wesley finds his mother, Beverly, sitting down off-duty reading from a PADD. Wesley complains that he has learned more about starship operations than any of the senior staff care to admit, like Channing's theory on dilithium crystals he told Beverly about earlier, to which she has no memory of. Wesley replied that he told her about it just that morning, but she cannot remember.
+Singh, in engineering, works at a console. He touches a button, then the same energy that enveloped Worf and Crusher strikes his body, quite violently. It blasts Singh backwards and he falls unconscious, right next to the ship's warp core. Worf, coming down a lift, sees Singh. He rushes over to him and checks his pulse. Worf taps his combadge to inform Picard that Singh is dead.
+
+
+=== Act Three ===
+Picard has ordered an investigation into the death of Singh. In engineering, it is discovered by La Forge, Wesley, and Worf that the warp drive has been miraculously restored and the Enterprise can jump back into warp at any time. Wesley wonders how Singh could have repaired the computer before he was killed, as the problem was inside of the warp engine. The Enterprise goes to warp six, on course for Parliament. Yar again questions the Antican delegates about where they were during the time when Singh was killed. Badar N'D'D replies that they were eating for hours because the animal they were eating was a large one. In sickbay, Crusher and Troi have called Worf to discuss his memory blockage, as well as Dr. Crusher's. Troi announces that she would like to try hypnosis, as it may restore their memories as to what happened to them.
+
+In the conference lounge, Data, adopting the mannerisms of Sherlock Holmes, discusses the possible involvement of the Selay and the Anticans in the ship's systems failures and the death of Singh. Data, smoking a pipe, tells Riker and Yar that the two species were too involved in their own affairs to have disabled the ship and murdered Singh. The two species would rather kill each other than the crew. Back in sickbay, Troi has begun hypnosis of Dr. Crusher, while Worf watches. Troi asks Crusher to remember what happened up to the point she had memory loss. She recalls walking up to scan Worf, but then, there was someone else, another presence in the room. Troi then snaps Crusher out of the hypnosis and replies that her responses were identical to Worf's.
+Troi reports her findings to Picard and believes that something invaded their bodies, as it is the only reasonable conclusion. Data replies that, although improbable, it is possible. On the bridge, Wesley Crusher is talking to La Forge. He tells him that the warp computer in engineering could not possibly have fixed itself. Suddenly, the warp engines are failing again, and the Enterprise drops to impulse. Picard walks out of his ready room to the bridge, where he monitors the situation from the helm console. Then, the blue energy emanates from the console and enters Picard's body, and he is now beginning to act strangely.
+
+
+=== Act Four ===
+
+Picard, inhabited by the non-corporeal lifeform, restores warp power back to the Enterprise and orders La Forge to double back on their course and head back to the strange energy cloud. The entire senior staff is completely puzzled by this change of orders, since the ship is behind schedule for Parliament. Picard assures them that he wants to take another look at the cloud, since they only obtained minimal information on it.
+
+In a corridor, Miles O'Brien is following Badar N'D'D, who is demanding to see Picard to know why the Enterprise has changed course. O'Brien orders him to return to his quarters, but Ssestar comes out of his quarters and a confrontation ensues. The senior officers gather together and discuss Picard's strange orders. Troi senses that Picard is deliberately concealing something from her and that he has become dangerous. If Picard is dangerous, they argue, he should be relieved of command, which Dr. Crusher could do, falling under her responsibilities as chief medical officer. Crusher and Riker arrive in Picard's ready room to order a medical scan on Picard. He refuses and believes they are hallucinating and working too much. He instead orders that all senior staff be examined.
+Later, Dr. Crusher comes into the ready room with the test results. She hands it to Picard, who then casually tosses it aside. She asks if she is talking to the real Picard. The lifeform within Picard tells her that Picard is there, along with more and that very soon, the both of them will be home.
+
+
+=== Act Five ===
+The Enterprise arrives at the cloud, again. Picard walks out of his ready room and examines the cloud from the viewscreen. The lifeform tells the crew that when the Enterprise passed the cloud before it accidentally took a lifeform with it. The lifeform within Picard recalls the horror of being taken from the cloud, then going from body to body, and accidentally causing the death of Singh. Troi asks Picard if he exists in combination with the entity in his body.
+
+The entity reveals that both it and Picard have the same desires, for exploration and dreams beyond Human expectations, since the lifeform is essentially an energy pattern, free of matter, Picard could literally go anywhere in his energy state. The lifeform plans to beam itself and Picard to the energy cloud. The crew pleads with Picard to reconsider, and Dr. Crusher declares that she is relieving Picard of command. However, the lifeform inside Picard has full control and overwhelms the bridge crew when it fires blue beams at them all over the bridge. Riker yells for security to restrain the Captain, but the entity is far too powerful. It leaves the bridge unopposed and travels to the transporter room, with the transporter chief incapacitated. The entity activates the transporter controls and beams away.
+After searching for over an hour, the Enterprise still cannot find Picard's energy pattern. Riker, seeing no other option, orders La Forge to set course for Parliament. But, Troi senses Picard. He does not belong with the rest of the lifeforms in the cloud and needs help. Riker tells La Forge to move the Enterprise into the cloud, so they can find Picard's energy signal. At first, there is no sign of Picard anywhere in the cloud, but on La Forge's helm console, the circuits re-arrange to form a "P". Data surmises that Picard has found his way into the ship's systems. Data asks Troi and Riker to accompany him to the transporter room.
+
+Since Picard's physical pattern is stored in the transporter system, Data attempts to recombine his energy pattern, as he hopes that Picard has worked his way into the transporter. Data energizes and Picard materializes on the transporter pad. Picard has a vague memory of what happened to him, much like Worf and Crusher. Riker tells Picard that he should head down to sickbay, as Dr. Crusher believes Picard is very tired. Yar enters, with news that one of the Selay delegates is missing and the Anticans have asked the chef to broil reptile. Picard turns to Riker and tells him to take charge of the situation, as he believes he needs a rest. The Enterprise continues on course for Parliament.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2364
+First officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"It's elementary, my dear Riker... sir."
+
+- Data, one of the rare instances when Data uses a contraction
+
+"I still don't remember having one."
+
+- Worf, responding to Dr. Crusher's statement that she wants to discuss his memory blockout
+
+"Sorry, wrong species."
+
+- Ssestar
+
+"Data... let's proceed without the pipe."
+
+- Picard
+
+"Violence will not be tolerated on the Enterprise."
+
+- Riker, to Badar N'D'D
+
+"Return to your quarters, delegates!"
+
+- O'Brien, as the Selay and Antican representatives begin fighting in a corridor
+
+"So, Worf, why the interest in this? It's just routine maintenance on sensor assemblies."
+"Simple, Geordi. Our captain wants his junior officers to learn, learn, learn."
+"Not just his junior ones!"
+
+- Geordi La Forge and Worf
+
+"Why the drop to impulse power, lieutenant?"
+"The helm is suddenly malfunctioning, sir."
+"Malfunctioning? You're wrong. Look again."
+
+- Picard, while under the influence of the Beta Renner cloud and Geordi La Forge
+
+"I must ask where you were during this vessel's Earth hours of 1800 last night and 0700 this morning."
+"Eating."
+"Sir, I'm talking about hours here..."
+"It was a large meal... and an interesting animal."
+
+- Lt. Yar and Badar N'D'D
+
+"Captain Picard, you are now relieved of duty! I judge you to be disabled and mentally incapacitated!"
+
+- Dr. Beverly Crusher
+
+"It's blinding me!"
+
+- Troi, on the electrical field incapacitating the bridge crew
+
+"Security! Red alert! Restrain the captain!"
+
+- William Riker, scrambling to act when the Picard alien attacks the bridge crew
+
+"The problem is, is that one of the cooks has just been asked to broil reptile for the Anticans, and it looks like the Selay delegate."
+
+- Lt. Yar
+
+
+== Background information ==
+
+
+=== Production history ===
+
+Original story outline: 26 May 1987 (Creating the Next Generation)
+Final draft script: 13 August 1987
+First revised final draft script: 18 August 1987
+Second revised final draft script: 21 August 1987 [1]
+Filmed: 26 August 1987 – 3 September 1987
+Score recorded at Paramount Stage M: 15 October 1987 (Star Trek: The Next Generation - The Ron Jones Project liner notes [2])
+Premiere airdate: 2 November 1987
+UK premiere (BBC2): 24 October 1990
+
+
+=== Story and script ===
+Michael Halperin's original story was broadly similar to the finished episode, but had a different subplot involving the dilithium on the ship breaking down. D.C. Fontana replaced this subplot with the crew ferrying diplomats, inspired by the Star Trek: The Original Series episode "Journey to Babel", which she had also written. (Star Trek: The Next Generation Companion, 2nd ed., p. 39)
+In Halperin's story, Picard used the slingshot effect to return the Beta Renner cloud to its home. (Star Trek: The Next Generation Companion, 2nd ed., p. 39)
+
+
+=== Production ===
+
+This episode was the first bottle show done on TNG. [3](X)
+Both the Anticans and the Selay were designed in concept drawings by illustrator Andrew Probert, even though Michael Westmore was the series' regular make-up supervisor. Both of these designs broke Gene Roddenberry's "rule of thumb," as the makeup for both species involved full head masks. (Star Trek: The Magazine Volume 2, Issue 12, p. 26) Westmore and his team created the lightweight Antican masks themselves, but the Selay masks were outsourced and ended up being very heavy and rigid. Westmore then recast two of the "snakeheads" in lighter foam rubber, but the background actors were forced to wear the original heavy versions. (Star Trek: The Next Generation 365, p. 037)
+The Beta Renner cloud was created with a cloud tank, a large water tank used for creating various atmospheric effects. (Star Trek: The Next Generation 365, p. 037)
+Kavi Raz was not available for the reshooting of a scene in which Singh is seen in the background. The production staff solved this by simply putting a wig on a chair as a "photo double". (Star Trek: The Next Generation Companion, 2nd ed., p. 39)
+Kavi Raz performed his own stunt for the fall to his death according to an interview with Trek Untold. [4]
+
+
+=== Cast and characters ===
+This is the second appearance of Colm Meaney on Star Trek: The Next Generation, and his first wearing his familiar operations division gold uniform color. This character was not named as O'Brien until TNG: "Unnatural Selection" in the second season, however.
+Marc Alaimo makes his first Star Trek appearance as Badar N'D'D. He went on to play Tebok in "The Neutral Zone", Macet in "The Wounded", and Frederick La Rouque in "Time's Arrow" before taking on the recurring role of Dukat in Star Trek: Deep Space Nine. Alaimo went uncredited for the Antican commenting that the reason was "I wasn't sure how it was going to turn out so I asked them not to put my name on it. But it turned out to be fun". ("Marc Alaimo: The Unlikely Sex Symbol", Star Trek: Communicator issue 111)
+Stunt actor John Meier can be seen. He previously doubled for William Shatner in Star Trek III: The Search for Spock and Star Trek IV: The Voyage Home.
+This episode marks the first appearance of James McElroy as one of the Selay delegates. He auditioned for this part and shot it in two days being the scenes in the transporter room the first scenes to be shot. His makeup was applied by Michael Westmore and he had a makeup call of about 4:30 am. (James McElroy) He later appeared as a recurring background actor during the first four seasons of The Next Generation and in the fourth season of Star Trek: Enterprise.
+
+
+=== Music ===
+The episode's score, composed and conducted by Ron Jones, was recorded on 15 October 1987 at Paramount Stage M. (Star Trek: The Next Generation - The Ron Jones Project liner notes [5]) The complete episode score, totaling 22 minutes and 35 seconds, appears on Disc One of the Star Trek: The Next Generation - The Ron Jones Project collection.
+
+
+=== Sets and props ===
+The prop used (or one similar) for the Antican hunting device was later used as a coil spanner in VOY: "Meld".
+A model of an original USS Enterprise shuttlecraft is visible when the bridge crew plans their mutiny. Also glimpsed very briefly, behind Beverly Crusher, there is a silver model of a Constitution II-class starship. This starship is seen more prominently in TNG: "The Battle".
+Among the costumes and props from this episode which were sold off on the It's A Wrap! sale and auction on eBay, was the Selay costume of John Durbin. [6](X)
+
+
+=== Continuity ===
+
+This is the first appearance of Data as Sherlock Holmes after Picard mentioned detective stories.
+The regular 24th century PADDs, designed by Rick Sternbach, first appeared in this episode.
+This is the first appearance of the TNG-era dress uniforms used up until the end of Star Trek: Voyager.
+This is the only episode of Star Trek: The Next Generation to have Tasha Yar in a dress uniform.
+This is the first TNG episode where a crewman dies on board the Enterprise-D.
+This is the first episode of Star Trek to be directed by Cliff Bole. Bole would go on to direct a further 24 episodes of The Next Generation including "The Best of Both Worlds", as well as seven episodes of Star Trek: Deep Space Nine and ten episodes of Star Trek: Voyager.
+
+
+=== Remastered version ===
+In the original episode, Picard's "P" signal appears only on La Forge's helm control screen. In the remastered edition included in the TNG Season 1 Blu-ray set, the "P" signal also appears to Worf on the Propulsion Systems station at the rear of the bridge.
+
+
+=== Reception ===
+Director Cliff Bole remembered this episode: "They got a lot of calls for that. They just wanted to do some kind of shocker. You've never seen anything like it since. I don't recall that being one of my better shows, but I worked as hard on that episode as on anything else. The subject matter affects the end product. There are some better written shows, obviously." ("Cliff Bole – Of Redemption & Unification", The Official Star Trek: The Next Generation Magazine issue 17, p. 28)
+According to Bole the show received negative letters after the episode, criticizing the portrayal of what was seen to be cannibalism by the Anticans. (Star Trek: The Next Generation Companion, 2nd ed., p. 39)
+Michael Okuda and Rick Sternbach both criticized the episode's use of the transporter to restore Picard, arguing that it was an inappropriate use of the technology so early in the series' run. They subsequently rationalized the use here as being due to the unique electromagnetic influences of the Beta Renner cloud. (Star Trek: The Next Generation Companion, 2nd ed., p. 39)
+A mission report by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 3, pp. 44-47.
+
+
+=== Video and DVD releases ===
+
+Original UK VHS release (two-episode tapes, CIC Video): Volume 4, catalog number VHR 2395, 6 August 1990
+The video sleeve image (taken from this episode, and seen at right) features an oddity – the picture is of rehearsal footage, and features LeVar Burton sans VISOR.
+US LaserDisc (Pioneer): catalog number LV40270-107, 4 April 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 1.3, catalog number VHR 4644, 1 June 1998
+As part of the TNG Season 1 DVD collection
+As part of the TNG Season 1 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Captain Jean-Luc Picard
+Jonathan Frakes as Commander William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Denise Crosby as Lt. Tasha Yar
+Michael Dorn as Lt. Worf
+Gates McFadden as Doctor Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest star ===
+John Durbin as Ssestar
+
+
+=== Guest stars ===
+Colm Meaney as First Security Guard
+Kavi Raz as Lt. Singh
+
+
+=== Uncredited co-stars ===
+Marc Alaimo as Badar N'D'D
+Marti Avila as Female security officer
+James G. Becker as Youngblood
+Darrell Burris as operations division officer
+Steve Casavant as Antican diplomat
+Dexter Clay as operations division officer
+Jeffrey Deacon as command division officer
+Susan Duchow as operations division officer
+Shana Ann Golden as off duty command division officer
+Nora Leonhardt as science division ensign
+Tim McCormack as Bennett
+James McElroy as Selay delegate
+John Meier as science division officer
+Lorine Mendell as Diana Giddings
+Unknown performers as
+Female conn officer
+Female science division crewmember
+Science division officer
+Two civilians
+Three Selay delegates
+Transporter chief (voice)
+Two civilians
+Two command division crewmembers
+Two operations division crewmembers
+
+
+=== Stunt doubles ===
+Al Simon as stunt double for Michael Dorn
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Susan Duchow – stand-in for Denise Crosby
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+2363; abrasion; acting ensign; active array status; adventure; adversary; animal; announcement; Antica; Antican; Antican hunting tool; antimatter; assistant chief engineer; axiom; beaucoup; behavior; Beta Renner cloud; Beta Renner entity; Beta Renner system; Betazed; blood; bribe; bridge; bridge officer; broil; candidate; captain's log; case; chance; Channing; chief delegate; choice; class; Class F shuttlecraft; claw; CMO; colleague; command officer; commissioned officer; complement; computer intelligence; conclusion; conference planet; confiscation; Constellation-class; Constitution II-class; consulting detective; contact; control network; cook (unnamed); coordinates; credo; crew locator; crime; custom; damage; danger; death; deck; delegate; delegation quarters; department head; desktop monitor; diagnosis; diagnostic hat; diet; dilithium crystal; dream; dress uniform; duality; Earth history; Earth hour; eating; economic system; Emergency Manual Override station; enemy; energy; energy circuit; energy form; energy pattern; engineering; engineering deck; engineering staff; entity; evidence; experience; explanation; exploration; failure; family member; Federation; feedback; feeling; Ferengi; food supply; foot; " game; garrote; God concept; guest quarters; hallucination; hate; heading (course); helm control; hide and seek; history; Holmes, Sherlock; home; homeworld; hospital bed; hostility; hour; Human; hypnosis; hypnosis device; hypospray; impulse power; "in your corner"; information; inquiry; interest; interlink; investigation; junior officer; kilometer; Klingon; knowledge; library computer; lie; lifeform; lifeform reading; literature; Livingston; loitering; magnifying glass; major lifeform; malfunction; matter; matter-energy conversion; meal; meat; medical emergency; medical exam; medical log; medical supply; medical tricorder; memory; memory circuit; memory loss; message; meter; mind; mission; model; morning; murder; mutiny; mystery; nature; navigation; NCC-7100; night; number one; object; observation lounge; occupation; "office; offline; online; "orbit; order; painting; panel; Parliament; passion; passive array status; pattern; peace conference; peacemaker; perimeter; person; physical pattern; physical sciences class; pipe; planet; politics; private eye (private consulting investigator); problem; propulsion system; psychiatric exam; puddle; question; quote; ready room; reason; reasoning; record; red alert; relay; reptile; resignation; result; Richard III; saboteur; schedule; school; science station 2; scientific discovery; scientific tests; search; second; second-in-command; Sector 500; security alert; security guard; security team two; Selay; Selay; senior officer; sensation; sensor; sensor assembly; sensor circuit; sensor console; sensor control; sensor maintenance; sensor pass; sensor subsystem; sentient being (aka intelligent being); shape; sickbay; slavery; smoking; solution; spacedock; spaceflight; speculation; species; specimen; stardate; Starfleet; Starfleet regulations; state of the art; statue; story; subspace radio; suite assignment; suspect; taste; thing; thinking; thousand; time; transporter; transporter chief; transporter console; transporter pattern; transporter room 6; transporter relay; treatment; truth; turbolift; unnamed plants; upwind; velocity; viewscreen; violence; VISOR device; warp capacity; warp drive; warp drive circuitry; warp engine; warp engine command; warp engine computer net; warp engine computer tie; warp factor; warp power; warp speed; warp theory; "what the devil"; "what the hell"; wish; wound
+
+
+==== Dedication plaque references ====
+USS Enterprise dedication plaque: Chief of Staff; Design Engineer; Federation Space Systems; Mars; A.G. Probert; Roddenberry, Gene; Utopia Planitia Fleet Yards
+
+
+=== External links ===
+"Lonely Among Us" at Memory Beta, the wiki for licensed Star Trek works
+"Lonely Among Us" at Wikipedia
+"Lonely Among Us" at the Internet Movie Database
+"Lonely Among Us" at MissionLogPodcast.com
+"Lonely Among Us" script at Star Trek Minutiae

@@ -1,0 +1,418 @@
+The Enterprise discovers a ship that crashed on a Dyson sphere more than seventy-five years prior with a single survivor suspended in the transporter buffer: Captain Montgomery Scott.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise-D picks up a distress call from the USS Jenolan, a transport vessel that has been missing for seventy-five years. As the Enterprise drops out of warp and initiates a Code 1-Alpha-Zero response to the signal, the starship is rocked violently by a massive gravitational field. Although initial scans do not find the source of the field, they trace the field to its center and discover a massive spherical structure, two hundred million kilometers in diameter (about 2/3 of the Earth's orbital diameter around the Sun). The sphere's dimensions are consistent with those of the (until then) theoretical structure known as a Dyson sphere. Captain Picard is not surprised that Commander Riker has never heard of the old postulation of 20th century physicist Freeman Dyson, explaining that a hollow sphere built around a star could harness all of its radiant energy and provide a population living on the interior surface of the sphere, like any habitable planet, with a nearly inexhaustible source of power. The sphere's size creates massive gravimetric interference that interferes with sensors, preventing the Enterprise from locating it before the ship had dropped out of warp.
+
+The Enterprise locates the Jenolan, having crashed on the surface of the sphere. Surprisingly, several small power readings are still emanating from the crashed ship, and life support systems are still operating, on minimal levels. Riker, Lieutenant Commander La Forge, and Lieutenant Worf beam aboard the Jenolan and find that, although some of the ship's systems are still functioning, there are no apparent signs of life. However, La Forge discovers that the transporters have been reconfigured in a strange manner – power has been drawn from the auxiliary systems (they were a regenerative power source), and pattern buffers are locked to cycle in a Level 4 diagnostic mode. Riker works out that by leaving the transporter in the diagnostic mode, it rerouted the matter array through the pattern buffer. Furthermore, La Forge finds a pattern is still in the buffer, and, amazingly, it has suffered almost no degradation, less than 0.003%. Riker wonders if someone could survive in the transporter buffer for seventy-five years, and La Forge finds out by rematerializing the stored pattern. Captain Montgomery "Scotty" Scott materializes on the transporter pad, his left arm in a makeshift sling of torn uniform cloth.
+
+
+=== Act One ===
+
+After Scott thanks La Forge and Riker for rematerializing him, he runs over to the transporter console and attempts to retrieve a second pattern, that of Ensign Matt Franklin, but unfortunately, unlike the phase inducer that kept Scott's pattern intact, the phase inducer responsible for doing the same for Franklin's pattern has failed – although Scott has La Forge boost the gain on the matter stream, the pattern has degraded by 53% – too much for him to be rematerialized when the transporters cannot compensate. Riker offers his condolences and introduces La Forge and himself to Scott. When Riker explains that they came from the starship Enterprise, Scott reacts understandably, believing he was saved by a crew led by Jim Kirk in the decommissioned USS Enterprise-A, and asks how long he was in the pattern buffers. Worf interrupts the conversation to inform him that life support has been restored and the oxygen levels will return to normal shortly. Riker introduces the security officer to Scott, who is surprised to learn that there is a Klingon officer serving in Starfleet and realizes that he has been in the buffer for an extremely long time.
+
+After transporting back to the Enterprise, Riker begins suggesting going to sickbay, but Scott is distracted by immediately noticing that the transporter's resonator array has changed. Amused, Riker notes to La Forge that Scott will likely have many engineering questions, who assures him that he'll escort Scott. Stepping over to the system access panels, Scott asks what's been done to the duotronic enhancers, to which La Forge removes a panel and shows him the much more efficient isolinear chips that replaced them about forty years earlier; Scott is about to reach inside when La Forge warns that he was going to touch an EPS power tap.
+As they exit for sickbay, Scott elaborates on what he told them on the Jenolan: they were on their way to the Norpin colony when there was an overload in a plasma transfer conduit, causing warp engine failure. The captain brought the ship out of warp, and they accidentally discovered the Dyson sphere through its gravimetric interference, much like what the Enterprise experienced. He marvels at the thought of the engineering skills just to design it. On La Forge asking about their first approach of the sphere, Scott continues that the standard survey of the surface had begun, and the first orbital scan was just being completed when the aft power coil suddenly exploded. Caught in the sphere's gravity well, the Jenolan fell toward the sphere and crashed on the surface; he and Franklin were the only survivors. When asked what inspired him to use the transporters to place himself and Franklin in such a state, Scott explains that there were too few supplies to survive long enough to be rescued, and so they had to think of something. La Forge tells Scott that he found his inventive use of the transporter to be "absolutely brilliant", but Scott acts modestly, noting that he thinks it was only fifty percent brilliant due to the fact that it didn't save Franklin. La Forge continues that he believes that Scott will enjoy the 24th century and all the advances they've made, while Scott confesses to being a bit overwhelmed with the impressive Enterprise-D as they step into a turbolift; La Forge tells him to just wait until he sees the holodeck.
+In sickbay, Scott is diagnosed by Dr. Crusher with only minor injuries: his arm only has a hairline fracture of the humerus and will just ache for a couple of days. Picard enters sickbay and welcomes Scott aboard. He is surprised that Scott was on board the Jenolan, as the engineer wasn't listed in the crew manifest. However, Scott explains that he was traveling aboard the Jenolan as a passenger to the Norpin colony on Norpin V to enjoy his then-recent retirement from Starfleet. When La Forge is left with orders to study the Dyson sphere, Scott is eager to help, but Dr. Crusher advises him to rest; he acquiesces but appears to feel out of place with no work to do.
+Scott is then escorted to his quarters by Ensign Kane, where he is awe-struck at the luxury that he is entitled to compared with starships of his time period, even for an admiral. Scott, with much enthusiasm, reminisces to Kane about his years in Starfleet, starting with explaining the mission with the Elas Dohlman and his troubles during shore leave on Argelius II, but Kane has very little interest in Scott's nostalgia and politely tells him he has to return to duty, leaving Scott alone, feeling much less enthusiastic and somewhat pensive about his new life in the 24th century.
+
+
+=== Act Two ===
+
+As La Forge and his team are working on their spectrographic analysis of the sphere, Scott interrupts, having received his issued combadge, insisting on offering La Forge his assistance. Lieutenant Bartel tries to inform him that engineering is restricted to authorized personnel only, but La Forge allows him to stay. La Forge skeptically accepts Scott's offer for help and the team begin their duties. Meanwhile, on the bridge, Data reports to Captain Picard that the sphere was built around a G-type star and that its interior surface provides an environment much like that of an M-Class planet, but there are no apparent signs of inhabitants. Picard orders four probes to be launched to speed up the scans of the sphere. Back in engineering, Scott finds further advances and changes in technology that in his era were dangerous. He recalls when he had to create an entire new start-up sequence to cold start the engines when his Enterprise was spiraling down to Psi 2000. La Forge is quietly becoming irritated until Scott offers advice on how to deal with Starfleet captains. When La Forge finally voices his frustration and tells Scott that he has a lot of work to do and that he is in the way, the older engineer berates his younger counterpart and leaves engineering in a disgruntled state.
+
+Later, Scott arrives in Ten Forward, walks over to the lounge's bar and orders a drink of Scotch whisky, neat. He is repulsed when he tastes the drink, disputing with the confused young waiter that it's actually Scotch. Sitting nearby at the bar (likely to study social interactions), Data approaches and explains to Scott about the invention of synthehol to replace alcohol in the majority of traditional spirits. Data offers Scott an alcoholic drink from Guinan's personal supply, stepping behind the bar and pulling out a bottle with a neon green liquid inside. After being asked by Scott what it is, Data attempts a rudimentary examination by sight and smell, but cannot describe it any more precisely than, "it is green." The engineer's reaction to this drink is much more pleasant and Data shortly tops up his glass.
+
+
+=== Act Three ===
+
+In a slightly drunken state, with the bottle of green spirits and the glass in his hands, Scott arrives outside one of the holodecks, having also been informed about them by Data, and requests a simulation of the bridge of his ship. The computer states that his request is insufficient, so Scott says in annoyance that he wants to see the bridge of the Enterprise. The computer states that there have been five Federation starships with that name and asks Scott to specify by registry number. Scott then states slowly and clearly, "NCC-1701. No bloody A, B, C, or D." The computer accepts his instructions and creates an authentic replica of the bridge. In an instant, Scott feels like he's come home.
+The sounds of old-style duotronic instruments fill the air as Scott fondly remembers his time aboard his former ship. As he muses around, he can see the Enterprise is in orbit of the planet Gideon on the viewscreen, as if no time has passed, and raises a toast to his absent comrades. He sits down at his old engineering station and gives a deep, dejected sigh just as Captain Picard walks in after coming off duty and excuses himself for interrupting, as he wanted to see how Scott was doing. Scott perks up and welcomes him into the simulation, offering Picard a drink, which he happily accepts. Just as Scott is about to warn Picard that it's not synthehol, Picard downs a glassful, which he identifies as Aldebaran whiskey, and explains that he was the one who gave it to Guinan. Picard recognizes the bridge as that of a Constitution-class starship and explains that there's one like it in the Fleet Museum but notes that the simulation is that of Scott's Enterprise. Scott clarifies that he served on two, but this is the first one and the first ship he ever served on as chief engineer. Scott mentions that he served on eleven ships of varying class, but that this Enterprise is the only one he misses or thinks about.
+Picard then recalls his first command on the USS Stargazer while taking a seat at Pavel Chekov's old navigation console. Picard describes the Stargazer as overworked, underpowered, and always on the verge of flying apart at the seams. Picard says that while his Enterprise is far superior, there are days when he'd give almost anything to command the Stargazer again. Scott compares their feelings to the first time a man falls in love and says that he never loves a woman quite the same way again. They then share a toast to the original Enterprise and to the Stargazer, with Scott calling them "old girlfriends we'll never meet again." Picard then asks Scott what he thinks of the Enterprise-D. Scott calls her a beauty with a good crew but, when knowingly prompted by Picard, laments that when he was on his Enterprise, he could tell the speed of the ship just by the feel of the deck plates. He then begins to feel gloomy and opines that he is in the way and obsolete in the 24th century.
+
+When Picard offers to let Scott peruse the updated technical manuals, Scott refuses with a chuckle, saying that he's not eighteen anymore and can't start out again like a raw cadet. He says there is a time when a man knows it's time to quit and time to stop living in the past: the Enterprise was his home and where he had a purpose, but he bitterly acknowledges that what they're in isn't real and it comes down to now being an old man, hiding in a "computer-generated fantasy." He then shuts off the bridge simulation and leaves the holodeck feeling dejected but determined to start acting his age. Picard can only look on sadly as the legendary engineer exits, clearly feeling for the man.
+The following day, Picard asks La Forge in his ready room about recovering the logs of the Jenolan for their orbital survey scan, but the engineer says that all efforts so far have yielded very little, as the ship's computer core was heavily damaged when it crashed. Picard suggests having Scott assist in trying to recover the ship's logs; La Forge agrees that Scott would be of great help as he knows the Jenolan's systems better than anybody on the Enterprise and says that he'll send Lt. Bartel with Scott over to the Jenolan. At this point, the captain gets up from his desk and asks that La Forge personally accompany Scott back to the Jenolan instead, hoping to make the old officer feel useful again. Picard makes it clear that this is a request, not an order, and will understand if he declines. While La Forge understands the captain's motive, he's not thrilled with the prospect but also clearly feels he can't turn the captain down.
+As La Forge leaves the bridge to prepare, Data discovers a communications array in close proximity to the Enterprise's current location, and the crew sets a course for it. Later, La Forge paces as he waits in the transporter room for Scott, who is late. He finally arrives with a bit of a hangover but states that he'll manage when La Forge asks if he's okay. They immediately transport over to the Jenolan.
+As the Enterprise arrives at the array, the crew discovers a large hatch in the Dyson sphere, which they presume is a front door. As they open hailing frequencies, the hatch opens and a series of powerful tractor beams pull the Enterprise inside the sphere, easily overpowering it.
+
+
+=== Act Four ===
+
+Due to the fact that the resonance frequency of the tractor beams used to pull the Enterprise inside is incompatible with the starship's power systems, the relays for the warp and impulse drive overload and are rendered inoperable. The Enterprise has now lost primary and auxiliary systems and the ship is soon released from the tractor beams. However, because the Enterprise is still moving under the inertia of being towed in, it is heading directly for the star at the center of the sphere.
+Back on board the Jenolan, Scott is having trouble with recovering the ship's log, calling the vessel "garbage." La Forge realizes that Scott is referring to both himself and the ship and tries to console him by saying that the basics of technology haven't changed a great deal in seventy-five years, the transporters of the Jenolan are still virtually identical to those of the Enterprise, subspace radio and sensors still operate on the same basic principles and that impulse engine design has changed very little in two centuries – long before Scott's time. La Forge adds that the Jenolan would probably still be in service had the vessel's structural damage not been so extensive. Scott is dismissive and retorts that nobody would want something as old as the Jenolan (and again hints at himself as well) but La Forge disagrees, saying that if the ship were in service, it could still "run circles around the Enterprise at impulse speeds – just because something's old, doesn't mean you throw it away." Scott feels much more welcome, and a bond begins to form between him and La Forge. With a renewed sense of purpose, Scott asks about the possibility of getting a device from his day called a dynamic mode converter that might help to recover the Jenolan's log entries. La Forge admits he hasn't seen anything like that in a long time but has something similar in mind that may do the job. When his call from his combadge to the Enterprise goes unanswered, Scott wonders if interference is blocking his call but La Forge determines that the Enterprise is gone.
+Back on board the Enterprise, the ship is three minutes from being destroyed by the star. However, Commander Riker has managed to restore 30% power to the maneuvering thrusters, although they will still not be enough to save the ship from destruction. It is not until power is diverted from the auxiliary relay systems to the thrusters that Ensign Rager manages to turn the ship to achieve a stable orbit in the photosphere of the star. Picard demands to know how and why the Enterprise was towed in and orders Data to conduct a scan of the sphere's interior for lifeforms. When La Forge and Scott fail to locate the Enterprise, they realize that the starship must be inside the sphere. Although it seems impossible to repair the Jenolan's flight capability, the two engineers still try restoring power to the ship's engines.
+On board the Enterprise, Data reports to Picard that the sphere is abandoned, and the star is highly unstable, expelling matter and severe bursts of radiation. This explains why the inhabitants of the sphere must have abandoned it. The android postulates that the Enterprise may have unintentionally triggered an automated series of piloting beams which would guide a starship inside the sphere – this would explain why the Enterprise was pulled inside without anyone occupying the sphere. When the star emits a solar flare, the Enterprise raises her shields accordingly but Worf reports that the vessel's shields are only operating at 23%. To worsen matters, the solar flares are becoming larger and within three hours, the Enterprise's shields will no longer be enough to protect the starship from harm.
+
+
+=== Act Five ===
+
+La Forge and Scott work on repairing the Jenolan's engines by jury rigging the ship's supply of deuterium – La Forge initially insists that Scott's suggestion to send it through the auxiliary tank can't be done, but when he cites impulse engine specifications, Scott laughs, claims authorship of the regulation in question, and assures him that, while he knew the tank could handle the pressure, on paper a good engineer should be more cautious than in the field. La Forge is left impressed when power is restored shortly thereafter. When Scott offers La Forge the captain's chair, La Forge is surprised, as Scott is the senior officer on duty. However, Scott tells La Forge that, while he holds the rank of captain, all he ever wanted to be was an engineer. La Forge smiles at him and accepts command while Scott moves to the engineering console. Meanwhile, the Enterprise is heavily damaged by the star's solar flares, but Riker reports that partial impulse power has been restored. Picard asks Worf if the ship's phasers could be used to cut their way out through the shell of the sphere, but the sphere is composed of carbon-neutronium and their weapons would be completely ineffective.
+As the Jenolan slowly orbits the sphere, La Forge and Scott trace the impulse ion trail from the Enterprise to the hatch that the starship was pulled into. The ion trail's momentum distribution around the hatch suggests that the Enterprise's impulse engines were at full reverse and that the starship was dragged into the sphere unwillingly. Scott recalls that near the end of their orbital scan, the Jenolan found hundreds of the arrays and, following standard procedure, opened hailing frequencies. Noting that the procedure hasn't changed, La Forge realizes that the hatches are access terminals (and not communications arrays), which are triggered by certain subspace frequencies, such as Starfleet's hailing frequencies. The tractor beams must have locked on to the Jenolan, severely damaging it and ultimately causing the crash, and this time have pulled the Enterprise inside.
+Congratulated by Scott on his reasoning, La Forge ponders on how they can open the hatch for the Enterprise to escape without getting the Jenolan pulled in as well. Scott suggests that all they really need to do is get their foot in the door: position the Jenolan 500,000 kilometers away from the hatch, then open hailing frequencies so that the hatch will open but the tractor beams will miss the ship. As the hatch begins to close, the Jenolan would enter a gap between the doors and use the vessel's shields to hold the doors open for the Enterprise to exit the sphere. La Forge protests that the idea is crazy and suicidal, but Scott pleads to him that the theory will work, as he has spent his entire life figuring out crazy ways to do things. La Forge makes the decision to go ahead with Scott's plan.
+
+The engineers get back to the hatch at full impulse and wedge the Jenolan lengthwise between the doors; the shields hold, and La Forge opens a communications channel to the Enterprise. The starship receives the hail and at once sets a course for the hatch. The Jenolan suffers heavy damage while the craft is wedged in the hatch, and while Scott keeps the ship and shields together, he eventually tells La Forge that he's done all he can. The ship's plasma intercooler is gone, and the engines are beginning to overheat. As helm control has been lost, La Forge tells Picard that the Enterprise will have to destroy the ship to escape. When the Enterprise is in transporter range of the Jenolan, Picard gives the order to beam La Forge and Scott back on board (with the Jenolan's shields still raised) once they're in range and, after a moment's pause, fire the photon torpedoes, destroying the old vessel. The doors continue to close, but the Enterprise manages to exit the sphere. As La Forge and Scott walk off the transporter pad, Scott is cheerfully relieved to be returned to safety, to which La Forge chuckles.
+
+"Captain's log, Stardate 46125.3. Starfleet has dispatched two science vessels to study the Dyson sphere while we proceed to Starbase 55."
+
+Later, La Forge tells Scott about the Enterprise's encounter with a newborn lifeform on Stardate 44614.6. On La Forge's explanation of what they did to detach the infant, Scott immediately catches on that the solution was to 'sour the milk' (TNG: "Galaxy's Child"). It is obvious that a strong bond has formed between the two engineers. Scott was expecting La Forge to take him for a drink in Ten Forward, but La Forge had different intentions. As they walk through the doors to one of the Enterprise's shuttlebays, the senior staff is revealed, standing in front of a shuttlecraft, the Goddard. Picard offers Scott the craft on "an extended loan" basis in thanks for sacrificing the Jenolan to save the Enterprise. Scott says that he won't be going to the Norpin colony as he had first planned, realizing now that he himself can still be useful in this century. The senior staff bids Scott farewell: all shake hands, save Worf.
+Scott reveals his approval of the Enterprise-D, the crew, and the starship's engineer. He tells La Forge that over the years, he has found that a starship is only as good as the engineer who takes care of her. From what he can see, he believes the Enterprise is in good hands. After shaking La Forge's hand, he begins to depart the Enterprise in his new shuttlecraft. "You take care of yourself out there," La Forge tells Scott. "Aye," Scott says before disembarking.
+
+
+== Memorable quotes ==
+"Well, thank you lads."
+
+- Scott, to La Forge and Riker after being released from a transporter buffer after 75 years
+
+"The Enterprise?! I shoulda known – I'll bet Jim Kirk himself hauled the old gal outta mothballs to come lookin' for me!"
+
+- Scott, after his rescuers identify themselves
+
+"You know, I think you're going to enjoy the 24th century, Mr. Scott. We've made some pretty incredible advances these last eighty years."
+
+- La Forge, to Scott
+
+"How are you feeling?"
+"I don't know. How am I feeling?"
+"Other than a few bumps and bruises, I'd say you feel fine for a man of 147."
+"And I don't feel a day over a hundred and twenty."
+
+- Picard, Scott, and Dr. Crusher
+
+"Well, I'll say this about your Enterprise… the doctors are a fair sight prettier."
+
+- Scott, referring to Dr. Crusher
+
+"Good lord man, where have you put me?"
+"These are standard guest quarters, sir, I can try and find something bigger if you want."
+"Bigger? In my day, even an admiral would notta had such quarters aboard a starship!"
+
+- Scott, marveling at the size of his quarters, with Ensign Kane misinterpreting his exclamation
+
+"Starship captains are like children. They want everything right now and they want it their way. The secret is to give them what they need, not what they want."
+
+- Scott, offering La Forge advice on handling Starfleet captains
+
+"I told the captain I would have this diagnostic done in an hour."
+"And how long will it really take you?"
+"An hour!"
+"Oh, you didn't tell him how long it would really take, did you?"
+"Of course I did."
+"Oh, laddie, you have a lot to learn if you want people to think of you as a miracle worker."
+
+- La Forge and Scott, revealing the secret to his reputation
+
+"I was drivin' starships while your great-grandfather was still in diapers! I think you'd be a little grateful for some help! I'll leave ya to work, Mr. La Forge."
+
+- Scott, to La Forge, after being told that he is in the way
+
+"Laddie, I was drinking scotch a hundred years before you were born. And I can tell you that whatever this is, it is definitely not scotch."
+
+- Scott, after drinking synthehol
+
+"You're not quite, uh… Human, are you"
+"No, sir. I am an android. Lieutenant Commander Data."
+
+- Scott and Data
+
+"Synthetic scotch, synthetic commanders…"
+
+- Scott, aloud to himself on synthehol and Data
+
+"It is… it is… it is green."
+
+- Data, attempting to analyze Aldebaran whiskey
+This was nearly the same line as Scott's description of a similar beverage to the Kelvan Tomar in "By Any Other Name"
+
+"Please enter program."
+"The android at the bar said ya' could show me ma' old ship. Lemme see it."
+"Insufficient data. Please specify parameters."
+"The Enterprise! Show me the bridge of the Enterprise, ya' chatterin' piece of…"
+"There have been five Federation ships with that name. Please specify by registry number."
+"NCC-1701. No bloody A, B, C, or D."
+"Program complete. Enter when ready."
+
+- The Computer and Scott, about the first starship Enterprise on the holodeck
+
+"… Here's to ya', lads…"
+
+- Scott, on the holodeck recreation of the empty bridge of the Enterprise (NCC-1701), raising a toast to his long-gone crewmates
+
+"Would you have a drink with me, Captain?"
+"Thank you!"
+"I don't know what it is, exactly, but I would be real careful, it's real…" (Picard downs it in one gulp before he can heed this warning)
+"Aldeberan whiskey… (noting the surprise on Scott's face) … who do you think gave it to Guinan?"
+
+- Scott and Picard
+
+"Ah, it's like the first time you fall in love. You never love a woman quite like that again. To the Enterprise and the Stargazer – old girlfriends we'll never meet again."
+
+- Scott, discussing with Picard the ships on which they first served as chief engineer and captain, respectively
+
+"When I was here, I could tell ya the speed that we were travelin' by the feel of the deck plates."
+
+- Scott, talking about his Enterprise (NCC-1701), compared to the Enterprise-D
+
+"There comes a time when a man finds he can't fall in love again. He knows it's time to stop. I don't belong on your ship. I belong on this one. This was my home. This was where I had a purpose…"
+
+- Scott, to Picard on the recreated NCC-1701 bridge
+
+"Computer, shut this bloody thing off!"
+
+- Scott, asking the computer to end the holodeck program
+
+"Mr. La Forge, I understand that before the Jenolan crashed, it had conducted an extensive survey of the Dyson sphere. Have we been able to access any of those records?"
+"We did try to download their memory core, but it was pretty heavily damaged in the crash. We actually haven't been able to get much out of it."
+"Perhaps Captain Scott could be of use in accessing that material."
+"It's possible. He does know those systems better than any of us. I'll have Lieutenant Bartel beam down with him."
+"Mr. La Forge… I would like you to accompany Captain Scott."
+"Me, sir?"
+"Yes. Look, this is not an order. It's a request, and it's one which you must feel perfectly free to decline. You see, one of the most important things in a person's life is to feel useful. Now, Mr. Scott is a Starfleet officer, and I would like him to feel useful again."
+"I'll go with him, sir."
+"Thank you."
+
+- Picard and La Forge
+
+"Bunch of old, useless garbage…"
+
+- Scott, referring not only to the Jenolan's systems but to himself as well
+
+"Just 'cause something's old doesn't mean you throw it away."
+
+- La Forge, on how both the Jenolan and Scott are still good in their own way
+
+"The tank can't handle that much pressure."
+"Where'd you get that idea?"
+"What do you mean, where did I get that idea? It's in the impulse engine specifications."
+"Regulations 42/15: 'Pressure Variances in IRC Tank Storage'?"
+"Yeah."
+"Forget it. I wrote it… A good engineer is always a wee bit conservative, at least on paper. Just bypass the secondary cutoff valve and boost the flow. It'll work."
+
+- La Forge and Scott
+
+"Take the bridge, Commander."
+"Oh no… you're the senior officer here."
+"Oh, I may be captain by rank… but I never wanted to be anything else but an engineer."
+
+- Scott and La Forge
+
+"Geordi, I have spent my whole life trying to figure out crazy ways of doing things."
+
+- Scott, to La Forge
+
+"See now that wasn't so bad, was it?"
+
+- Scott, to La Forge
+
+"A good crew… and a fine ship – a credit to her name. But I've always found that a ship is… only as good as the engineer who takes care of her – and from what I can see, the Enterprise is in good hands."
+
+- Scott's parting words to La Forge
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft script: 13 July 1992
+Final draft script: 4 August 1992 [1]
+Premiere airdate: 12 October 1992
+First UK airdate: 2 August 1995
+
+
+=== Story ===
+The transporter loop premise of the episode originated from a story pitch that freelance writer Michael Rupert had submitted earlier, and which already suggested a character from eighty years before suspended in a transporter loop. The story was rejected, but as episode writer Ronald D. Moore recalled, when it was realized that the "transporter loop" concept might be useful, "The story didn't work and we didn't really like it, but the notion of someone staying alive in the transporter was a neat gimmick so we bought the premise from him." It was colleague Michael Piller who came up with the suggestion of using the "gimmick' in conjunction with a Star Trek: The Original Series character. "Michael said, "That's a neat gag. I wonder if we could use this to bring back an original series character?" Everybody started to prick their ears and we started going through who it could be.", Moore continued. (Cinefantastique, Vol. 24, issue 3/4, p. 22)
+The writers considered other characters from The Original Series, including Kirk, before selecting Montgomery Scott for this episode. As writer Moore claimed in the Star Trek: The Next Generation Companion, 3rd ed., p. 219, "McCoy is old, Spock's playing James Bond on Romulus – and we couldn't do Kirk; it would raise too many other things. Nothing against the other characters, but Scotty seemed like the one with the most fun quotient." In regard to the other Original Series characters, Moore has added, "It seemed like Scotty was the best choice. We'd seen Spock and then you look around and realize Scotty was the character that you could have the most fun with because you knew a lot about him. Sulu, Chekov and Uhura are fine characters, but they don't have a lot of the qualities Scotty did: the obsession with engines, the drinking. We knew we could do a relationship between him and Geordi. He was sort of ready-made to do this kind of a show." (Cinefantastique, Vol. 24, issue 3/4, p. 22)
+Following the previous season's two-part episode "Unification", which featured Spock, this episode marked the definitive end of the producers hitherto policy of shying away from any allusions to the original series. As Moore explained, "I think in the earlier seasons we felt this show had to go and prove itself. We made the decision very early on that we weren't going to pick up any old plot lines and we weren't going to talk about those guys and we weren't going to have their sons and daughters on the show. This was going to stand on its own. And that philosophy drove the show for quite a while." This was emphasized in the internal studio document, Star Trek: The Next Generation Writers'/Directors' Guide, otherwise known as the "Writer's Bible", where it was specifically stated that "We are not buying stories about the original STAR TREK characters: Kirk, Spock, McCoy, Uhura, Chekov, Scotty and Sulu. Or their descendants; As much as we love our original cast (they are our children, after all), we want our audience's attention centered now on our new characters." (3rd ed. August 1989, p. 34) Moore continued, ""Sarek" [note: in which Sarek whispering "Spock" once, was as far as the writers dared to go] was the first time we felt comfortable enough to sort of start to acknowledge it history a little bit more and then after "Unification", I think they sort of felt "Well okay, that wasn't so bad, we can do this without really destroying who we are and we can do shows that make references to the old series without destroying our own." So when "Relics" came around to do, here wasn't a big cry and debate about it." How sensitive this matter still was at the time, was evidenced by Co-Producer Michael Piller, who added, "One of the great things about "Relics" is that it wasn't a Scotty show. It was a concept about an engineer or a captain being caught in a transporter beam that we came upon. I thought we were going to have problems with Mr. Berman who generally doesn't like to do that gag but oddly enough he was in a good mood that day. Rick has opened up his mind in a lot of ways. When I came onboard you could not mention the old STAR TREK in an episode. You couldn't make a reference to a character without making major problems. When we brought Sarek onto the show it was like, "My god, we had to march across the street and pay homage." But now because we are firmly established I think everybody feels a lot more comfortable that we have proven ourselves. We don't owe anything to the old STAR TREK, except like the guys who went to the moon, the Mercury guys had to go up there first. And we respect them for that, but we're not depending on them anymore, so we don't have to bend over backwards not to mention them." (Cinefantastique, Vol. 24, issue 3/4, p. 22)
+Originally, it was Brannon Braga who was slated to write the episode, but he, wanting to write the upcoming episode "A Fistful of Datas", also conceded, "I knew I couldn't possibly write it. I didn't even know who Scotty was. This was a Ron [Moore] show." Moore, an avid Original Series fan, subsequently took over, "I asked to do it and they let me write the story. Rick [Berman] said he would approach Jimmy about it and see if he was interested. He gave him a call and it became a go. And then I broke the story and everyone was really happy with it and we just went ahead and did it.", to which Braga added, "Ron really brought that show to life and he was the only guy who could do it justice." (Cinefantastique, Vol. 24, issue 3/4, p. 22)
+Much of the drama in the episode stemmed from the initial friction between Scott and La Forge, which writer Moore had purposely inserted to underscore the differences between the two characters. Moore explained, "Scotty never wanted to be anything else but an engineer. He was happiest in the engine room. The ship was a living being to him. She was a lady and there was a whole different philosophy. And with Geordi, although he loves his job and was having a good time at it, it's not the same thing. Geordi used to be on the bridge. I'm sure he wants to command his own ship some day [note: and in an alternate reality he did, as captain of the USS Challenger in Star Trek: Voyager's fifth season episode "Timeless"], like probably most engineers in the fleet do. Scotty was a little different and he had a different relationship." Science consultant for the episode and another Original Series fan, Naren Shankar chimed in, and added, "Scotty and Geordi are probably the two most different people you could ever imagine. Ron felt very strongly about that. He correctly pointed out that Geordi had not been an engineer his entire life, it's sort of like he ended up that way. He was a bridge officer first season and Ron's point, which is arguable, is that Geordi doesn't think of himself as an engineer. Geordi is the kind of guy who when he wants to relax might go to the beach or play some classical guitar music or hang out. Scotty is the kind of guy who will go into his room and read technical manuals. Scotty is an engineer through and through and he likes to break rules and do things in an unorthodox manner. He likes to tinker and Geordi is not that way, so I think it's reasonable that they clashed initially." (Cinefantastique, Vol. 24, issue 3/4, pp. 24-25) Moore's and Shankar's notions were ultimately carried over onto the screen in Scott's lines in the scene where he relinquishes command of the Jenolan to La Forge, even though he outranked him.
+Scott's remark about declining to read technical manuals is an oblique nod to The Trouble with Tribbles (episode), in which (after fighting with Klingons) he is confined to his quarters and spends his time reading technical manuals.
+
+
+=== Production ===
+
+The Dyson sphere was named after scientist Freeman Dyson, who envisioned a real-world postulate in 1959, although the actual sphere that Dyson theorized was not a solid object like the one visualized in the episode. Dyson, who himself never took his idea too seriously, said in a later interview that, while the science behind it was "nonsense", as TV viewer he enjoyed the episode. [2](X)
+The concept of the Dyson sphere as a B-story premise had actually already been circulating among the writing staff for years, but until then the opportunity to use it had never arisen. "It was something that we were trying to put in for a long time and it became a standing joke", noted Moore. Once "Relics" came up the opportunity finally afforded itself and Naren Shankar went to work to flesh out the concept. "I originally thought the interesting thing would be to make it a partially complete Dyson's Sphere. It ended up being a completed Dyson's Sphere that was uninhabited. When Ron had written about the Dyson's Sphere in the teaser, he wrote "tech" and I gave him the numbers for the size of it. He was shocked that it was so big. It was like the equivalent of four million earths. It's huge. If you build something the size of the sun's [sic] orbit, you're talking about a sphere with a diameter of two hundred million miles." (Cinefantastique, Vol. 24, issue 3/4, p. 27)
+For the Star Trek episode, both exterior as well as interior maquettes were built at Gregory Jein, Inc., while the initial full-sized exterior view and interior long views were executed as matte paintings by Eric Chauvin (Star Trek: The Next Generation Companion, 3rd ed., p. 220), even though the episode's Visual Effects Supervisor David Stipes had originally a CGI approach sequence in mind, that never came to fruition as CGI at that point in time was still too cost prohibitive. (Star Trek: The Next Generation 365, p. 275) For further information on the maquettes, see: Dyson Sphere maquettes.
+Prior to writing this episode, Ron Moore attended the Holodiction Star Trek Convention in Sydney, Australia. He and his party were taken to a nightspot where Ron's dancing caused him to be labeled "a rager" (Aussie slang at the time for a party animal). They were later taken to the famous Jenolan Caves, which impressed Ron greatly. On returning, he wrote this episode, which contained an "Ensign Rager" (Captain Picard pronounced it "ray-guh"), and the USS Jenolen (sic), a Sydney-class transport. (Astrex newsletter)
+
+The studio model of the USS Jenolan was originally designed and built by Bill George and John Goodson at ILM for use as the SD-103-type shuttle in Star Trek VI: The Undiscovered Country, and was, refurbished at Gregory Jein, Inc., subsequently reused for this episode to become the downed vessel. (Star Trek VI: The Undiscovered Country (Special Edition), text commentary; TNG Season 6 DVD-special feature, "Departmental Briefing Year Six – Production") As it later turned out, Jein or one of his modelers had erroneously mislabeled the model as the USS Jenolin, but fortunately the misspelled name has never been clearly discernible on screen, until 2014, when the episode was remastered. (Star Trek: The Next Generation - The Continuing Mission, p. 171) For further information on the studio model, see: SD-103 model.
+The visual and sound effects of the USS Jenolan's transporter were directly taken from those of the Enterprise's transporter from The Original Series. It was because of the intimate knowledge the episode's Visual Effects Producer Dan Curry, also an Original Series fan, had of The Original Series, that the effect visuals were included, as he recalled, "We used the original Star Trek transporter sparkle. I used to work at Cinema Research [note: one of the Original Series visual effects companies], and I remembered that in the bowels of their stock footage storage room was an old box labeled "Star Trek Transporter Sparkle". We blew the cobwebs off, dug through, pulled out the strip of film, and discovered it was in perfect condition." (The Next Generation 365, p. 274) The accompanying sound effect, the original transporter whine, was located by Co-Producer Wendy Neuss, yet another fan, in the studio's own archive. (Star Trek: The Next Generation Companion, 3rd ed., p. 219)
+"Relics" was filmed in early August 1992. La Forge actor LeVar Burton and James Doohan were interviewed on set and parts of this interview can be seen in "Mission Overview Year Six – A Visit from Scotty", a special feature on the TNG Season 6 DVD.
+
+Director Alexander Singer had some trepidation about the initial antagonistic La Forge-Scott relationship and at first didn't agree with Moore's assessment who stated that he "(…) always had an understanding that it wasn't going to destroy Geordi's character. In a sense Geordi was right. Who is this guy to be hanging around my engine room and giving me a hard time? I knew as long as he played him straight and eventually made him sort of see Scotty's point of view and understand and be a little sympathetic, I knew it was going to work." Singer on the other hand, was afraid that La Forge's early attitude would backfire among audiences that were naturally sympathetic towards Scott, but while working with Burton came around to Moore's thinking, "I had not worked with LeVar [Burton, who plays Geordi] so what I did was meet with him to talk to him about it. I don't think he's done that before. I figured it's a new guy and I'd talk to him but I think he was a little annoyed because in effect I wanted to be reassured that he understood that balance. LeVar's feeling was of course I understand it, if I don't understand this, I don't understand anything. It turned out that LeVar is like the cast in general, some of the best actors I've ever worked with anywhere and in the scenes it was possible to fine-tune the performance. Sometimes the guys hit the right level immediately, just instantly. Sometimes we had to work for it. The combination of hostility turning into affection was very moving to me." (Cinefantastique, Vol. 24, issue 3/4, p. 24)
+Singer also had some trepidation about Scott actor James Doohan's ability to pull off the episode at first, "The next intangible was that I had never worked with Doohan. I felt that potentially the show was a kind of classic and I understood exactly what I had in my hands. I did not know physically what shape Doohan was in. There was a lot of dialogue and I don't think he ever did a show in the old STAR TREK where he had this much drama and this many notes to hit. I had seen the STAR TREK movies and I think that's still true. I don't think he ever was in the center, he was peripheral and in this episode he was the center. By the time we came to the scene on the old STAR TREK deck, he was not only the center but he had to support a very powerful dramatic scene. It's a scene that in reading it, I choked up [note: Singer too, was a life-long Original Series fan]. Part of me is very hardheaded and realistic and the part of me is very romantic and very sensitive and I was deeply moved by that story." Doohan, however, more than allayed Singer's reservations, especially when the two men met at a private pre-production meeting, "I wanted to meet him first so we didn't meet [for the first time] on the set. He came in graciously and we talked. His delight in doing the show and his manner reassured me enormously. I think that he wanted me to be comfortable and he wanted me to have a sense that he could indeed carry this load and he convinced me. And subsequently I think there was only one day, one scene where he had a very technical page of technobabble, and he was utterly exhausted at the end of a very long day, that we had any problems whatsoever. For the rest of it he was delight to work with, and he got all the jokes, so to speak." (Cinefantastique, Vol. 24, issue 3/4, p. 24) If there had been any lingering doubt about Doohan's capabilities, that was definitively dispelled when filming the bridge scene indeed moved both Singer and his visiting, down-to-earth wife to tears, as he has admitted. (Star Trek: The Next Generation Companion, 3rd ed., pp. 219-220)
+As originally scripted, Scott was to have interacted on the recreated bridge with his old shipmates, via clips from The Original Series. This was cut for budgetary reasons. (The novelization of Relics, chapter eight, does show Scott interacting with the rest of his shipmates in a new setting and even Picard participates for a while when he comes to visit Scott.) The producers ultimately did get to combine Original Series footage with "present-day" action, in Star Trek: Deep Space Nine's homage episode "Trials and Tribble-ations", which featured both Scott (in archive footage) and Worf.
+This is the first episode of Star Trek to be directed by Alexander Singer. For Singer, an ardent science fiction fan, this was a particularly satisfying experience, as he had already wanted to work on The Original Series in the 1960s, "I was across the lot for a few years doing Mission: Impossible [like Star Trek, a Desilu production], and I wanted to work with Star Trek. I met Gene Roddenberry and, for one reason or another, it hadn't worked out. So the aspect of the Scotty character and his resurrection had a kind of multiple resonance. Having Jimmy Doohan there, I felt I was in the middle of some kind of mythic experience myself." (The Next Generation 365, p. 273) However, he found his first Star Trek commission a daunting one, "I was very concerned about the special effects and how they would fit into a television schedule. I had never done that many special effects in a whole show riddled with these things so that was my central concern." (Cinefantastique, Vol. 24, issue 3/4, p. 23) Singer was to continue to direct a host of additional episodes for the television franchise, not only for The Next Generation, but for the spin-off productions Star Trek: Deep Space Nine and Star Trek: Voyager as well.
+The episode as finished was a source of immense pride and emotions for those production staffers, especially The Original Series fans, who had worked on it. Stated writer Moore, "I think it's the most enjoyment I've had in writing an episode. It's the best I've done in a personal sense. It meant the most to me out of a lot of things I've written because it resonates with my interest in STAR TREK from way back. I'm not sure if in the cold light of day it's the most brilliant thing I've ever written, but it had a lot of meaning for me." Even those production staffers who did not work on the episode, such as Story Editor Rene Echevarria, were moved, "All I can say was, as a fan, I didn't even read it, I just watched it. It was delightful, and the scene on the bridge was just wonderful. It just brought a tear to the eye and in the Ten Forward scene, "it is green" was a wonderful reference. The Dyson's Sphere I thought looked terrific, and the escape from it was a nice Millennium Falcon moment which was actually deftly done." (Cinefantastique, Vol. 24, issue 3/4, p. 27)
+
+
+==== Bridge set ====
+Considerable effort was put in the recreating the bridge of the original Enterprise for Scott's scenes on the holodeck by the production staff. For a detailed treatise on the recreation of the original bridge, please refer to: Constitution-class sets: "Relics"
+
+
+==== Deleted scene ====
+
+It does appear a tad incongruous that, as she never interacted with him anywhere during the final episode, Troi would kiss Scott goodbye. A scene with Troi talking to Scott in his quarters was shot but deleted from the final episode. Troi actress Marina Sirtis recalled a bit ruefully, "That was purely a matter of how long the episode was. That happens a lot. What didn't make sense was why I was kissing at the end if she never met him. It's because the scene was cut." (Cinefantastique, Vol. 24, issue 3/4, p. 27) Moore additionally explained, "It basically has Troi coming to counsel Scotty, and at first, he's very friendly to her, but then realizes she's a therapist and gets pissed that Geordi thinks he's crazy. It was this scene that sent him to Ten Forward to get a drink." (AOL chat, 1998) The scene did appear in the novelization (pp. 106-109) of the episode.
+Cut for running time reasons, the deleted scene was originally slated to be Act Two, Scene 20, of the script. For writer Moore it was hard to let the scene go, "I hated to lose all that, but the show was eight minutes long and something had to go. It would have been nice to explain why she comes up and kissed him at the end!" (Star Trek Monthly issue 29) Elaborating on the content of the scene Moore has additionally stated, "He didn't understand what she was there to do. She says. "Hi, I'm the ship's counselor." He says, "Oh yeah, what can I do for you?" She says, "Well, I want to see how you're doing." He says, "Fine, the replicator is working." He thinks she's a waiter or maid or something and then finds out she's a psychologist and freaks out because he thinks Geordi sent her there. There was also a little bit more character stuff from Scotty about feeling out of place. He used to have a function on a ship like this and now he doesn't. That was a difficult thing for someone like him." Yet, despite his personal feelings, Moore went on by admitting, "But I don't think we missed it in the final cut, the story still works without it." (Cinefantastique, Vol. 24, issue 3/4, p.27)
+Moore also intended to use the cut scene for dealing with the earlier The Next Generation appearances of Leonard McCoy and Spock, which was ultimately circumvented in the episode as aired, thereby leaving Scott, canonically at least, unaware that they were still alive. As Moore explained, "There was a line between Troi and Scotty that got cut. She said, "Would you like to know what happened to all your friends and family?" And he said, "No, I'm not ready to hear that." That was the closest allusion we were going to make. It would clutter it up by bringing up Bones and say Mr. Spock is now James Bond, underground on Romulus. You would have to talk about everybody else and we didn't want to say what happened to everybody because we didn't want to lock ourselves in." (Cinefantastique, Vol. 24, issue 3/4, pp. 30, 35) These lines too, were incorporated in the novelization (p. 108).
+Having become somewhat of a discussion piece in Star Trek lore in the intermediate years, the scene was ultimately uncovered in 2014 from the CBS Studios Inc. archives for The Next Generation remastered project, while the release of the 2014 TNG Season 6 Blu-ray collection was being prepared. [3] While remastered footage from deleted scenes were on occasion reinserted in earlier episodes for inclusion as "Extended Versions" on earlier Blu-ray releases, in this case the scene was merely included as one of the "Deleted Scenes" special feature.
+
+
+=== Continuity ===
+Scott's belief that the Enterprise was "hauled outta mothballs" is referring to the Enterprise-A, which was decommissioned in 2293 in Star Trek VI: The Undiscovered Country, one year before his trip on the Jenolan. This was the closest that any official Star Trek production came to establishing a canon fate for the Enterprise-A until its reappearance in the Star Trek: Picard episode "The Bounty" at the Athan Prime Fleet Museum.
+"Relics" makes many references to TOS, including the episodes "Elaan of Troyius", "Wolf in the Fold", and "The Naked Time", representing each of the three seasons of The Original Series, as well as Star Trek III: The Search for Spock (Kirk pulled the Enterprise out of the "mothballs" of decommissioning), Star Trek IV: The Voyage Home, Star Trek V: The Final Frontier and Star Trek VI: The Undiscovered Country (since Scotty tells Picard he served on two different Enterprises). In return, at the end of the episode, La Forge tells Scott about the events of "Galaxy's Child", which occurred two seasons before.
+Scott scolds La Forge for being honest with the captain and telling him exactly what to expect instead of making him expect less and then offering more. Indeed, in Star Trek III: The Search for Spock he hints to Kirk that he might overstate some problems to make a better name of himself after he solves them. This behavior in general was later addressed in the Star Trek: Lower Decks episode "Temporal Edict" where it was given the name "buffer time".
+Referencing the events of "The Naked Time", Scott tells La Forge "I had to come up with a whole engine startup routine." However, in that episode, it was Spock who devised the formula for a cold-engine startup, not Scott. This could be attributed to either misremembering the events due to age or time in the transporter, revising history, or Scott's contribution occurring off-screen in the TOS episode.
+Data's line about the Aldebaran whiskey – "It is green" – is a reference to TOS: "By Any Other Name", in which Scott had a similar line describing an alcoholic beverage while getting the Kelvan Tomar drunk. (Star Trek Encyclopedia, 2nd ed., p. 6)
+There is an inconsistency between this episode and scenes in Star Trek Generations which were written and filmed after it but set before it. In Generations, Captain James T. Kirk was presumed dead on the USS Enterprise-B's maiden voyage. This takes place before Scott boarded the Jenolan to go to the Norpin colony. However, when Scott is beamed back on board the Jenolan in "Relics" he says "The Enterprise… I shoulda known. And I'll bet it was Jim Kirk himself who hauled the old girl out of mothballs to come looking for me", suggesting that Kirk was still alive when Scott was en route to the Norpin colony.
+Episode writer and Generations co-writer Ronald D. Moore stated that he included Scott in Generations out of affection for the character, in full knowledge of and despite the inconsistency. (AOL chat, 1997)
+StarTrek.com attributes the conflicting line of dialogue in "Relics" to the character being momentarily disoriented after having been stuck inside the transporter system of the Jenolan for three quarters of a century. [4](X)
+In the novel Star Trek Generations, Guinan tells a distraught Chekov that Kirk is, in fact, alive within the Nexus ribbon.
+In William Shatner's novel The Return, a comment is made that Scott, along with a few others, had held the belief that Kirk had somehow survived the events aboard the Enterprise-B.
+La Forge and Scott are beamed off of the USS Jenolan before it is destroyed, despite the fact that they did not drop the ship's shields to allow transport beforehand. According to Moore, "It's just a straight, flat-out mistake! I didn't think about it, I didn't catch it, the producers didn't catch it, the technical consultants didn't catch it – it was just one of those things and a single line of dialogue could've explained it away. (Star Trek: The Next Generation Companion, 2nd ed., p. 219)
+La Forge states that USS Jenolan needs to be destroyed in order for Enterprise to escape from the hatch but in the depiction there is lot of space both above and below Jenolan for Enterprise to exit the sphere.
+This is the second episode in which the Enterprise-D crew discover a 23rd century Starfleet ship and captain, initially unaware of the passage of time. The first was Captain Morgan Bateson, along with the crew of the USS Bozeman, in "Cause And Effect".
+This episode shows Troi wearing a new hairstyle. This style is a low ponytail, with curls framing her face. This style is kept for several episodes before the style changes again in "The Quality of Life".
+Writer Ron Moore was allowed to indulge his fondness of the Original Series even further, when he was given the task of co-writing the script for the later Deep Space Nine cross-over episode "Trials and Tribble-ations", the events of which largely take place during those of the original episode "The Trouble with Tribbles". He wrote the script together with fellow fan René Echevarria, who now, having missed out on "Relics", was given the opportunity to work on Original Series characters and events.
+Following the highly rated appearance of Doohan as Scott in "Relics", it was later reported that he had been urging Paramount to add him to the cast of Star Trek: Deep Space Nine. (Trek: Deep Space Nine: The Unauthorized Story, p. 15)
+The Enterprise bridge displayed on the holodeck defaults to the bridge from the era of Star Trek: The Original Series; however, Star Trek has actually shown no less than six iterations of the original Enterprise bridge. These are the bridge shown in TOS: "The Cage", a slightly changed bridge in TOS: "Where No Man Has Gone Before", the bridge seen throughout the Original Series, a completely redesigned bridge in Star Trek: The Motion Picture as well as yet a different bridge seen in Star Trek II: The Wrath of Khan and Star Trek III: The Search for Spock, and a retconned bridge design shown in Star Trek: Discovery, Star Trek: Short Treks and Star Trek: Strange New Worlds. Producers and writers later stated that the holodeck program may have simply defaulted to the Original Series bridge since the program selected the bridge design during the most famous years of the Enterprise's service.
+Scott is regularly referred to as a captain; this is the only instance of him being referred to by rank in dialog following his promotion to captain in Star Trek III: The Search for Spock.
+
+
+=== Cast and characters ===
+James Doohan is the fourth and final actor from The Original Series to reprise his role in Star Trek: The Next Generation. DeForest Kelley appeared in "Encounter at Farpoint", Mark Lenard appeared in "Sarek" and "Unification I", and Leonard Nimoy appeared in "Unification I" and "Unification II". During the first season of The Next Generation, Doohan had strong words about the series, believing it to be rehashing a number of episodes the classic series had done. It was not until his family made him sit down and watch The Next Generation did he finally appreciate the new series.
+
+
+=== Reception ===
+Rick Berman referred to this outing as a "fun" episode with a "very imaginative" story. (Cinefantastique, Vol. 23, No. 6, p. 18)
+A novelization of the episode, by Michael Jan Friedman, was published by Pocket Books.
+This episode was featured in the Star Trek: The Next Generation Viewers Choice Marathon, where it was ranked the fifth favorite episode based on voting from fans.
+The book Star Trek 101 (p. 74), by Terry J. Erdmann and Paula M. Block, lists this episode as one of the "Ten Essential Episodes" from Star Trek: The Next Generation.
+
+
+=== Apocrypha ===
+The "Relics" storyline has been followed up in three separate comic book stories:
+
+"Out of Time", in which Scott helps Morgan Bateson cope with being lost and out of time,
+"Old Debts", in which Scott encounters Koloth before the events of DS9: "Blood Oath", and
+"The Wake", in which Scott (and Spock) visit with McCoy on his deathbed.
+The novel Engines of Destiny is a partial sequel to this episode; Engines opens looking at Scott's initial emotional state after Kirk's 'death' and his meeting with Matt Franklin (indirectly prompted by Guinan). The main plot focuses on Scott's attempt to use an old Klingon ship to attempt a slingshot maneuver to go back in time to the Enterprise-B's maiden voyage to save Kirk, believing that he can beam Kirk out in the moment after Kirk reconfigured the Enterprise-B's deflectors but before the Nexus struck the ship without changing history. However, this unwittingly changes history to create a timeline where the Borg have assimilated Earth and are conquering the Alpha Quadrant – implied to the reader to be the result of the Borg's use of time travel in Star Trek: First Contact being successful in the absence of Picard – requiring Kirk and Scott to work with the Enterprise-D (which followed Scott during the slingshot maneuver) and the alternate version of Sarek to send Kirk back to the Nexus and restore history.
+
+
+=== Home media format releases ===
+UK VHS release (two-episodes tape, CIC Video): Volume 65, 26 April 1993
+UK VHS release (two-episodes tape, CIC Video): Star Trek - Crossovers Set, catalog number VHR 4223, 6 November 1995
+US VHS release (two-episodes tape, Columbia House): Volume 64 of Star Trek: The Next Generation - The Collector's Edition, catalog number 13036, 1995
+US VHS release (single episode tape, Paramount Home Video): Volume 130, catalog number 40270-230, 3 March 1998
+Japan LaserDisc release (two-episodes disc): Star Trek: The Next Generation - Log 11 collection, Part 1, catalog number PILF-2435(02), 21 December 1997
+US LaserDisc release (two-episodes disc): Volume 64, catalog number LV40270-227, 31 March 1998
+US/UK DVD release (four-episodes disc): TNG Season 6 DVD collection, 2 December 2002
+US DVD release (four-episodes disc): The Best of Star Trek: The Next Generation, Volume 2 collection 17 November 2009
+US/UK Bluray release (five-episodes disc): TNG Season 6 Blu-ray collection, 24 June 2014
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Lanei Chapman as Sariel Rager
+Erick Weiss as Kane
+And
+
+
+=== Special guest star ===
+James Doohan as Scotty
+
+
+=== Co-stars ===
+Stacie Foster as Bartel
+Ernie Mirich as Waiter
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Joe Baumann as Garvey
+Michael Braveheart as Martinez
+Debbie David as Russell
+Cullen Chambers as civilian
+Tracee Lee Cocco as Jae
+John Copage as civilian
+Tony Cruz as Lopez
+Debra Dilley as operations ensign
+Hal Donahue as command lieutenant
+Gunnel Eriksson as sciences officer
+Jack Gilroy as operations lieutenant j.g.
+Grace Harrell as operations officer
+Melanie Hathorn as civilian
+Christie Haydon as command ensign
+Randy James as Jones
+Mark Lentry as sciences lieutenant
+Debbie Marsh as civilian
+Michael Moorehead as sciences ensign
+Keith Rayve as civilian
+S. Reed as Burton
+Victor Sein as command officer
+Noriko Suzuki as operations ensign
+Talbot as Ten Forward waitress
+John Tampoya as operations ensign
+Curt Truman as command officer
+Mikki Val as operations officer
+Guy Vardaman as Darien Wallace
+Christina Wegler Miles as command ensign
+Anne Woodberry as operations officer
+Unknown actor as transporter chief (voice)
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Joycelyn Robinson – stand-in for Lanei Chapman
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+20th century; 2169; 2222; 2241; 2294; 2329; 24th century; access terminal; Admiral; alcohol; Aldebaran whiskey; antenna array; Argelius; articulation frame; auxiliary tank; "back full"; background radiation; "bloody"; bon voyage; Brahms, Leah; cadet; Captain; career; centimeter; chief engineer; class 4 probe; class B solar flare; class M; Code 1-Alpha-Zero; color; combadge; communications device; computer terminal; conduit interface; conservative; Constitution-class; containment field; cryo-pump; cut-off valve; deck plate; deuterium; diagnostic cycle; diaper; dilithium; Dohlman; duotronic enhancers; dynamic mode converter; Dyson, Freeman; Dyson sphere; Dyson sphere star; Earth; Elaan; Elas; emitter array; engineer; engineering; Enterprise, USS; Enterprise-A, USS; Enterprise-B, USS; Enterprise-C, USS; Enterprise bridge holoprogram, USS; EPS power tap; "excuse me"; extended loan; Federation; Federation science vessel (science vessel); Fleet Museum; flight path; food replicator; Franklin, Matt; frequency; G-type star; gigawatt; girlfriend; Goddard; gravimetric fluctuation; gravitational field; gravity well; Guinan; gymnasium; hairline fracture; helm control; hemisphere; Heisenberg compensator; holodeck; hotel room; hour; humerus; impulse engine; impulse engine relay; impulse engine specifications; impulse speed; IRC tank; isolinear chip; Jenolan, USS; Junior; jury rig; Kirk, Jim; La Forge's great-grandfather; level 4 diagnostic; life support; main drive assembly; matter array; matter stream; memory core; Midsummer Night's Dream, A; miracle worker; mothballs; multiphase autocontainment field; navigational charts; neutronium; New Jersey, USS; Norpin colony; Norpin V; number one; orbit; oxygen; paper; pattern buffer; pattern degradation; personification; phase inducer; phase lock; phase 7 survey; phaser; photosphere; physicist; plasma intercooler; power converter; Pressure Variances in IRC Tank Storage; Psi 2000; rematerialization subroutine; resonator array; Scotch whisky; Scott's past ships; senior officer; stellar body; senior officer; sensor analysis; shock; short range scan; sickbay; signal degradation; sling; Sol; solar flare; spectrographic analysis; square kilometer; stale; standard survey; star; Starbase 55; Stargazer, USS; subspace radio; surface area; synchronous orbit; synthehol (aka "synthetic scotch"); synthetic; "synthetic commander"; technical schematics; Ten Forward; toast; tractor beam; transport ship; transporter; Transporter Room 3; transporter suspension; unnamed sector; warp engine relay; warp field; "wee"
+
+
+==== Display graphic references ====
+annular confinement beam; antimatter injector; biofilter assembly; diagnostic mode; Heisenberg compensator; imaging scanner; inducer module; level 4 diagnostic; matter/antimatter reaction chamber; matter injector; pattern buffer; phase transition coils; primary energizing coils; Sydney-class; transport
+
+
+==== Meta references ====
+47
+
+
+=== Further reading ===
+"The Making of "Relics"", Mark A. Altman, Cinefantastique, Vol 24 #3/4, 1993, pp. 22-27
+Star Trek - Where No One Has Gone Before, 1994, pp. 144-145
+"Relics", Star Trek: The Next Generation Companion, 3rd ed., pp. 218-220
+"Relics", Star Trek: The Next Generation 365, 2010, pp. 273-275
+
+
+=== External links ===
+"Relics" script at Star Trek Minutiae
+"Relics" at Memory Beta, the wiki for licensed Star Trek works
+"Relics" at Wikipedia
+"Relics" at MissionLogPodcast.com
+"Relics" script at Star Trek Minutiae
+"Relics" at the Internet Movie Database

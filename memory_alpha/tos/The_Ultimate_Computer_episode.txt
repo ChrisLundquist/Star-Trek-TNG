@@ -1,0 +1,272 @@
+The Enterprise is used to test the new M-5 computer.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise is summoned to a space station by a certain Commodore Enwright without explanation. Another commodore, Robert "Bob" Wesley, commanding the USS Lexington, explains in the Enterprise's transporter room that the Enterprise will be a test vessel for a revolutionary tactical computer called the M-5 multitronic unit, designed by the brilliant Dr. Richard Daystrom. The M-5 will handle all ship functions, including responding to a simulated attack led by Wesley, during the test with a crew of only twenty, much to Captain Kirk's chagrin.
+
+
+=== Act One ===
+"Captain's log, stardate 4729.4. The M-5 computer has been installed on board ship, and we have left the space station for test maneuvers."
+Dr. Richard Daystrom, who designed the duotronic computers used on the Enterprise, arrives on board to install his new M-5 multitronic unit, which is capable of running a starship with only minimal personnel. Kirk, Spock, and Dr. McCoy meet him in engineering, where he is finishing up the installation. Daystrom explains that the first four units were not entirely successful, but also that this one has the capability to control the ship. Responding to Kirk's skepticism, he challenges Kirk on enjoying the prestige of the captaincy.
+Spock stays with Daystrom, while Kirk and McCoy leave. Kirk wrestles with his own unease about the advance in technology and his own possible obsolescence.
+
+The Enterprise, under M-5 control, approaches the planet Alpha Carinae II, achieves standard orbit, and makes its recommendations for the landing party. As the first example of the difference between the M-5's decisions and those of a Human, Kirk's recommendation is at odds with the M-5's call, which includes the same astrobiologist, Phillips, a different geologist (Chief Rawlins instead of Ensign Carstairs), and excludes both Kirk and McCoy from the landing party, calling them "non-essential personnel."
+While this is going on, Montgomery Scott observes that power on decks 4 and 5 has been cut, along with environmental controls for each deck. He traces the source of the power shutdowns to be the M-5 itself.
+
+
+=== Act Two ===
+In engineering, Dr. Daystrom examines the situation, but explains that the M-5 simply turned off the power to those decks since they were unoccupied crew quarters and there was no one there who needed it. Spock also observes that the M-5 is drawing more power than it had drawn before, to which Daystrom simply responds that the M-5 requires more power. Kirk again challenges Daystrom that the M-5 can only process information given to it; it cannot make value judgements. Daystrom dismisses this and describes the M-5 as "a whole new approach" to logic systems.
+The arrival of an unidentified vessel cuts off the conversation and brings Kirk and Spock to the bridge. Dr. McCoy is already there, since sickbay was also shut down by the M-5. The Enterprise is approached by two ships, the Lexington and USS Excalibur. They engage in an unscheduled war games drill, and the M-5 responds swiftly to simulated attacks, hitting back the "enemy" ships and maneuvering more quickly than it would have were a Human in command. Kirk tries to be gracious towards the computer's ability, telling Spock that such applications might be practical, but Spock tells Kirk that although true, such a thing as a computer running a starship would be undesirable. He goes on to explain that a key attribute of Human command is loyalty, loyalty to one man, and that this should never change. Captain Kirk, whose ego has been somewhat beaten up by all that has been going on recently, appreciates the comment. Meanwhile, the M-5 is seen to be drawing increasing amounts of power. Wesley communicates back, awarding the test to the M-5 and jokingly calling Kirk a "Dunsel."
+Dismayed by this, Kirk goes to his quarters to contemplate the increasingly successful M-5. McCoy arrives with a Finagle's Folly. McCoy tells Kirk that Daystrom may be attempting to recapture the "past glory" of winning the Nobel Prize and Zee-Magnees Prize at an early age. Kirk states that Albert Einstein, Kazanga, and Sitar did not produce "assembly line" genius innovations and that Daystrom is seeking to contribute another technological advancement to society. McCoy responds that Daystrom's obession with Multitronics can be seen with his rejection of the M-1 through M-4 multitronic units. The M-5 represents Daystrom's need to prove his superiority to himself. Their conversation is cut off, as the Enterprise's sensors detect a slow-moving ship. It is the automated ore freighter Woden, and not a drill this time. M-5 abruptly changes the Enterprise's course to intercept the ship, speeding up to warp 3. It then engages the ship with photon torpedoes, destroying it, even though it presented absolutely no threat to the Enterprise, and then resumes its previous course. Captain Kirk tries to disengage the M-5 in the process, but neither he, Sulu, nor Scott are able to regain manual control of the ship. Dr. Daystrom still tries to make excuses and explanations for this, but there is clearly something very wrong. Kirk, Spock, and Scott go to engineering and Kirk tries to approach the M-5 to shut it off, only to be knocked back by a force field, learning that the M-5 unit will protect itself as well.
+
+
+=== Act Three ===
+"Captain's log, stardate 4731.3. The M-5 multitronic unit has taken over total control of the Enterprise."
+Kirk is infuriated now. He demands Daystrom shut off the unit, but Daystrom insists that he be allowed to first correct. Kirk has Scott attempt again to cut its power, but when Ensign Harper, working with a trident scanner, moves in to cut the power, the M-5 makes a direct connection to the warp engines using a power beam of its own devising. As it does so, Harper is caught in the beam and vaporized. Shocked and enraged, Kirk berates Daystrom for being unable and unwilling to deactivate the M-5. Daystrom continues to excuse the M-5's behavior, insisting that Harper "...simply got in the way", and that his death was not a deliberate act. Kirk snaps back at Daystrom, "How long will it be before all of us simply 'get in the way?'"
+In the briefing room, the senior staff collaborate on a plan to gain back control by focusing on a certain relay unit between the M-5 and the bridge. McCoy goes to Daystrom to convince him to shut off the M-5. Daystrom, on the other hand, defends the M-5, saying that it is learning, and further, that the advance the M-5 represents would liberate man from hazardous duties, saving life. McCoy notes later to Kirk that Daystrom reacts toward the computer as a father would to his child. Even if the child went anti-social and killed a person, then the father would still protect the child.
+Kirk and Daystrom observe Spock and Scott attempt to gain control, but Sulu and Chekov report it is unsuccessful. They realize that M-5 had rerouted the controls while leaving the relay they were working on live as a decoy. Spock notes the illogical behavior of the M-5 unit. Daystrom explains that he impressed Human "engrams" onto the circuits. "The relays are not unlike the synapses in the brain," Daystrom explains to Captain Kirk. "M-5 thinks, captain."
+Uhura reports the four Federation ships as part of the scheduled war exercise, but now Kirk fears the M-5 will not treat it as a drill.
+
+
+=== Act Four ===
+
+As the war games exercise begins, M-5 has prevented all communication. The Lexington, Excalibur, USS Hood, and USS Potemkin are approaching. Daystrom assures that the M-5 will treat it as a drill, but then the M-5 attacks the Lexington and Excalibur with all weapons at full power, crippling the Excalibur and killing its entire crew in the process. Despite knowing that the M-5 would have full tactical and functional control of the Enterprise, Commodore Wesley blames Kirk for the attack. When Wesley cannot raise the Enterprise by radio, he requests approval from Starfleet Command to destroy her.
+Now that the M-5 has committed murder, Kirk confronts Daystrom, convincing him that the M-5 is doing more than originally designed. He demands that Daystrom attempt to reason with the M-5, and Daystrom admits it was his own engrams that he imprinted on the machine. However, he goes mad in the effort, realizing his reputation is at stake. In his delirium, Daystrom violently lashes out at Kirk, but is subdued by a Vulcan nerve pinch from Spock.
+
+McCoy hauls Daystrom off to sickbay, and Spock notes the self-preservation that the M-5 is displaying is probably a consequence of Daystrom's engram imprint.
+Hearing that Starfleet has agreed that Wesley can destroy the Enterprise, Kirk himself speaks to the computer, trying to make it recognize its responsibility in the deaths of hundreds of people as there are no more life readings on the Excalibur, and reminding it of the penalty for murder. Feeling Daystrom's regret over the deaths, the M-5's computerized voice is tinged with sadness as it announces, "This unit must die." It then shuts down, dropping the deflector shields and leaving itself open to attack to atone for its crime. Spock and Scott then disconnect the computer from ship's control. With communications not quite restored, Kirk orders that the shields be kept down, gambling that Wesley will be both compassionate and cautious, and break off the battle. Sure enough, Wesley does so, much to the crew's relief.
+Dr. Daystrom, meanwhile, is cared for in sickbay under sedation and heavy restraint to await transfer to a total rehabilitation facility, under McCoy's recommendation. Kirk orders that Sulu plot a return course to Starbase 6. Sulu does so, and the Enterprise heads off through space.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701), 2268
+
+
+== Memorable quotes ==
+"There are certain things men must do to remain men."
+
+- Kirk, to Daystrom, after the M-5 is installed on the Enterprise
+
+"Did you see the love light in Spock's eyes? The right computer finally came along."
+
+- McCoy, to Kirk, after they walk away from Spock and Daystrom
+
+"Only a fool would stand in the way of progress."
+
+- Kirk, on being replaced by the M-5
+
+"We're all sorry for the other guy when he loses his job to a machine. When it comes to your job, that's different. And it always will be different."
+
+- McCoy, on technological progress
+
+"Computers make excellent and efficient servants, but I have no wish to serve under them. Captain, the starship also runs on loyalty to one man. And nothing can replace it, or him."
+
+- Spock, to Kirk, after the war games exercise
+
+"Our compliments to the M-5 unit, and regards to Captain Dunsel. Wesley out."
+
+- Wesley, comparing Kirk's role to a part which serves no useful purpose
+
+"To Captain Dunsel."
+"To James T. Kirk, captain of the Enterprise."
+
+- Kirk and McCoy, toasting in Kirk's quarters
+
+"All I ask is a tall ship, and a star to steer her by."
+
+- Kirk, quoting the poem "Sea-Fever" by John Masefield
+
+"Fantastic machine, the M-5. No 'off' switch."
+
+- McCoy, as the Enterprise chases the Woden
+
+"Come along, Dr. Daystrom. M-5 is out of a job."
+
+- Kirk, to Dr. Daystrom
+
+"You are great... I am great!"
+
+- Dr. Daystrom, speaking to the M-5 computer
+
+"I would say, Captain, that M-5 is not only capable of taking care of this ship, it is also capable of taking care of itself."
+"You mean it's not going to let any of us turn it off?"
+
+- Spock and Kirk, expressing logic and horror respectively on M-5's self defense
+
+"Please, Spock, do me a favor and don't say it's fascinating."
+"No. But it is... interesting."
+
+- McCoy and Spock, on the M-5's increasing control of the Enterprise
+
+"You don't shut a child off when it makes a mistake. M-5 is growing, learning."
+"Learning to kill."
+"To defend itself. It's quite a different thing."
+
+- Daystrom and McCoy, on the growing threat of the M-5
+
+"Men no longer need die in space or on some alien world! Men can live and go on to achieve greater things than fact-finding and dying for galactic space, which is neither ours to give or to take!"
+
+- Daystrom, defending the need for the M-5
+
+"Genius doesn't work on an assembly line basis."
+
+- Kirk. to McCoy, on Daystrom
+
+"You can't simply say, 'Today I will be brilliant!'"
+
+- Kirk, on Daystrom's ingenuity
+
+"It appears, Captain, we've been doing what used to be called pursuing a wild goose."
+
+- Spock, after M-5 outsmarts an attempted manual override
+
+"Commodore Wesley is a dedicated commander. I should regret serving aboard the instrument of his death."
+
+- Spock, after Wesley receives orders from Starfleet to destroy the Enterprise
+"The instrument of his death WON'T be the Enterprise, if I can help it!"
+
+- Kirk, in response to Spock
+
+"Murder is contrary to the laws of man and God."
+
+- M-5, on why it cannot commit murder
+
+"Compassion. That's the one thing no machine ever had. Maybe it's the one thing that keeps men ahead of them."
+
+- McCoy, on why Wesley did not attack the Enterprise
+
+"I simply maintain that computers are more efficient than Human beings, not better."
+"But which do you prefer to have around, Mr. Spock?"
+"...I believe I have already answered that question, doctor."
+
+- Spock and McCoy, reflecting on the M-5 computer's erratic behavior
+
+"It would be most interesting to impress your memory engrams on a computer, Doctor. The resulting torrential flood of illogic would be most entertaining."
+
+- Spock's last jab at McCoy, on comparing Humans and machines
+
+
+== Background information ==
+
+
+=== Production timeline ===
+
+"Spec" teleplay by Laurence N. Wolfe: 13 October 1967
+Revised first draft teleplay: 9 November 1967
+First draft teleplay by D.C. Fontana: 1 December 1967, 2 December 1967, 3 December 1967, 4 December 1967
+Revised first draft: 5 December 1967
+Second revised first draft: 6 December 1967
+Additional page revisions by John Meredyth Lucas: 11 December 1967, 13 December 1967
+Filmed: 7 December 1967 – 14 December 1967
+Day 1 – 7 December 1967, Thursday – Desilu Stage 9: Int. Bridge
+Day 2 – 8 December 1967, Friday – Desilu Stage 9: Int. Bridge
+Day 3 – 11 December 1967, Monday – Desilu Stage 9: Int. Bridge
+Day 4 – 12 December 1967, Tuesday – Desilu Stage 9: Int. Bridge, Transporter room, Briefing room
+Day 5 – 13 December 1967, Wednesday – Desilu Stage 9: Int. Sickbay, Corridors, Turbolift, Jefferies tube
+Day 6 – 14 December 1967, Thursday – Desilu Stage 9: Int. Engineering
+
+Original airdate: 8 March 1968
+Rerun airdate: 28 June 1968
+First UK airdate (on BBC1): 7 October 1970
+Remastered airdate: 9 February 2008
+
+
+=== Story and production ===
+The mathematician Laurence N. Wolfe wrote the original story for this episode, which was based on his fascination with computers. However, it emphasized the M-5 unit and its creator, Dr. Daystrom, and barely featured the Enterprise crew. It was heavily rewritten by D.C. Fontana, who focused the storyline around Kirk's fear of being replaced by a machine. [1]
+This episode was a social commentary on the American job losses caused by increased mechanization during the 1960s. (Star Trek Compendium, p. 99)
+Producer John Meredyth Lucas bought Wolfe's unsolicited teleplay because it could be made fast and cheap, using only the existing Enterprise sets, and decided to direct the episode himself. (These Are the Voyages: TOS Season Two)
+The evocative music by George Duning, composed for "Metamorphosis", was re-used when Kirk romanticizes about sailing on a tall ship.
+
+
+=== Cast and characters ===
+Barry Russo, who played Commodore Wesley in this episode, had previously portrayed Commander Giotto in "The Devil in the Dark".
+Sean Morgan, who portrayed the redshirt Harper in this episode, had also played Brenner in "Balance of Terror" and O'Neil in "The Return of the Archons" and "The Tholian Web".
+James Doohan provided the voices of both the M-5 computer and the unseen Commodore Enwright.
+Fifteen of the twenty crew members who stay aboard the Enterprise during the M-5 exercise include Kirk, Spock, McCoy, Scott, Sulu, Chekov, Uhura, Harper, Phillips, Rawlins, Carstairs, Brent, Hadley, and Leslie (the two security guards who escort Daystrom from the bridge), and an unnamed nurse who appeared by Daystrom's bedside in sickbay.
+
+
+=== Sets and props ===
+Commodore Wesley's high-backed command chair is the same one used as the ISS Enterprise's command chair in "Mirror, Mirror".
+The scanning device which Daystrom used to analyze the M-5 had previously appeared in "A Private Little War", "Return to Tomorrow", and "Journey to Babel", and would later be used by Spock to track down Gary Seven in "Assignment: Earth". It is one of three similar scanner props used throughout the series, the other two being McCoy's medical scanner along with one first used by Joe Tormolen on the surface of Psi 2000 in "The Naked Time".
+A close-up of the three scanning heads on the trident scanner in this episode reveal them to be re-used tips from the disruptor weapons from "A Taste of Armageddon".
+This is the only episode in which Spock's library computer spits out a tape – in this case, M-5's readout of Alpha Carinae II and landing party recommendations.
+
+
+=== Continuity ===
+This is the second time Kirk tells McCoy he would like to be on a long sea voyage. The first time happened in "Balance of Terror".
+Kirk recites the poem "Sea-Fever". He recites it again in Star Trek V: The Final Frontier. Quark paraphrases it in "Little Green Men" and it appears on the USS Defiant's dedication plaque.
+Spock mentions that there is nothing in 23rd century computer technology to replace a starship's medical officer. By the 24th century, Federation starships are equipped with Emergency Medical Hologram (EMH) technology, though that is designed as a supplement, not a full replacement. Nevertheless, The Doctor is able to function in place of a medical staff on USS Voyager.
+Spock describes M-5's diversionary tactics as "pursuing a wild goose." In "The Gamesters of Triskelion", after McCoy calls Spock's search for Kirk, Uhura, and Chekov a "wild goose chase," Spock retorts that he was not chasing "some wild aquatic fowl." In The Next Generation, Data uses a similar phrase, "chasing an untamed ornithoid without cause." (TNG: "Data's Day")
+In "The Menagerie, Part I" and "The Menagerie, Part II", General Order 7 was the only exception of Starfleet General Orders to include the death penalty. M-5 states that the penalty for murder is also death. However, its remark that murder was "contrary to the laws of man and God" suggests that it might be referring to its – and perhaps Daystrom's – interpretation of what the punishment for murder should be, rather than Federation law.
+This is the fourth time Kirk "talks a computer to death". He used this skill in "The Changeling", "The Return of the Archons", and "I, Mudd".
+Alpha Carinae, whose second planet was scheduled for exploration by the scientific survey party, is better known as Canopus.
+
+
+=== Remastered information ===
+The remastered version replaced the stock footage used in this episode. The space station, now named Starbase 6, used images of Deep Space Station K-7 from "The Trouble with Tribbles" in the original broadcast. In the remastered version, it was remodeled to look like Starbase 47, as seen in the Star Trek: Vanguard series of novels. The Woden, which used footage of the SS Botany Bay from "Space Seed", was redesigned as an Antares-type vessel. The crippled USS Excalibur, which reused footage of the USS Constellation from "The Doomsday Machine", and the space battle were redesigned with new computer-generated images.
+
+
+=== Video and DVD releases ===
+Original US Betamax release: 1986
+UK VHS release (two-episode tapes, CIC Video): Volume 28, catalog number VHR 2380, 6 August 1990
+US VHS release: 15 April 1994
+UK re-release (three-episode tapes, CIC Video): Volume 2.8, 21 July 1997
+Original US DVD release (single-disc): Volume 27, 10 July 2001
+As part of the TOS Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+William Shatner as Capt. Kirk
+
+
+=== Also starring ===
+Leonard Nimoy as Mr. Spock
+DeForest Kelley as Dr. McCoy
+
+
+=== Guest stars ===
+William Marshall as Daystrom
+James Doohan as Scott
+George Takei as Sulu
+Nichelle Nichols as Uhura
+
+
+=== Featuring ===
+Walter Koenig as Chekov
+Sean Morgan as Harper
+Barry Russo as Wesley
+
+
+=== Uncredited co-stars ===
+William Blackburn as Hadley
+Frank da Vinci as Brent
+James Doohan as
+Enwright (voice)
+M-5 multitronic unit (voice)
+Roger Holloway as Roger Lemli
+Eddie Paskey as Leslie
+Unknown actors as
+Lexington science officer
+Lexington operations lieutenant
+Lexington command lieutenant
+Unknown actresses as
+Lexington command lieutenant
+Lexington sciences crew woman
+
+
+=== References ===
+20th century; 2219; 2243; A-7 computer expert; accident; achievement; alien world; Alpha Carinae II; Alpha Carinae II native; analysis; answer; Antares-type; antisocial; area; argument; article; assembly line; astrobiologist; atmosphere; "at odds with the ship"; atonement; attack force (aka battle force); audio signal; automatic distress; automatic helm navigation circuit relay; automation; auto relay; awareness; back; bearing; "behind my back"; biographical tape; "Bones"; bow; boy wonder; brain; career; Carstairs; casualty; categorization; chance; chicken soup; chief geologist; child; choice; chronological age; circuits; circuit disrupter; class M; clearance; colleague; commander; compassion; compliments; comptronic; computer; computer circuit; computer complex; computer control panel; computer evolution; computer programming; computer science; Constitution-class decks; contact; control mechanism; conversation; course; damage; damage report; danger; day; Daystrom's colleagues; death; death penalty; death warrant; debate; deflector screen; deflector shield; demonstration; device; dinosaur; distance; doctor; drill; dunsel; duotronics; Earth; eating; efficiency; Einstein, Albert; engineering station; engram; environmental control; estimated time of arrival (ETA); estimate; evaluation; Excalibur, USS; Excalibur first officer; experience; explanation; eye; fact; father; Federation; Federation government; Finagle's Folly; fire control; flood; fool; force field; fox; freedom; freighter; frequency; G95 system; gadget; general quarters; general survey party (aka survey party); genius; geologist; geology survey; glory; goose; guilt; guilty; H279 element; Harris; Hood, USS; hour; Human (aka Humanity); Human body; hunt; idea; identification; impression; impulse engine; information; insanity; instantaneous relay; instruction; intership communications; intuition; island; job (aka occupation); Kazanga; kilometer; knowledge; landing party; land mass; law; lead ship; learning; lecture; Lexington, USS; light; lifeform; life support; line; living quarters; location; logic; loyalty; M-1 multitronic unit; M-4 multitronic unit; M-5 drill; M-5 multitronic unit; machine; main power plant (aka main power bank); malfunction; manual override; matter-antimatter reserve; mechanization; memory banks; Merchant Marine; message; midshipman; million; mind; mining company; minute; mirror image; mission; mistake; multitronics; murder; murder charge; navigator; nervous breakdown; nitrogen; Nobel Prize; non-essential personnel; off switch; order; ore; ore freighter (aka ore ship); Orion; oxygen; parallel course; patient; performance; permission; personality; personification; phaser; phaser power; phaser range; Phillips; Phillips' survey planets; photon torpedo; poem; port; Potemkin, USS; potential; power; power level; prescription; prestige; primary system; priority message; programming; progress; psychological profile; quantity; question; Rawlins; readout; red alert; regret; rehabilitation center; relay; rendezvous point; research; resignation; risk; robot; robot ship; Sakar; science officer; sea; "Sea-Fever"; security holding area; sedation; seminar; senior medical officer; sensor; servant; shakedown; ship; sickbay system; sin; Sitar; size; skeleton crew; solution; sound; space station; space (aka galactic space); space technology;speed; standard orbit; star; Starbase 6; Starfleet Academy; Starfleet Command; Starfleet Registry; starship surgeon; stern; suicide; surface; surprise attack; switch; synapse; tall ship; tampering; term; theory; thing; thousand; toast; tour of duty; toy; transporter room; trap; understatement; value judgment; visual contact; visual range; Vulcan (planet); Vulcan neck pinch; war games problem; warp drive; warp engine; water; weapon; "what the devil"; "who the blazes"; "wide berth"; wind; "with their eyes closed"; Woden; year; Zee-Magnees Prize
+
+
+=== External links ===
+"The Ultimate Computer" at Memory Beta, the wiki for licensed Star Trek works
+"The Ultimate Computer" at Wikipedia
+"The Ultimate Computer" at MissionLogPodcast.com
+"The Ultimate Computer" at the Internet Movie Database

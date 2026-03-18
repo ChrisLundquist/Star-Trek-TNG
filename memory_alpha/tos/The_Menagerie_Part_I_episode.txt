@@ -1,0 +1,307 @@
+Spock fakes a message from the Enterprise's former commander, Christopher Pike, steals the vessel, and sets it on a locked course for the forbidden planet Talos IV.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The USS Enterprise arrives at Starbase 11 after a subspace message asks it to divert there. When Captain Kirk, Spock, and Dr. McCoy beam down, they are puzzled when Crewman Piper, assistant to the base's commander, Commodore José Mendez, tells Kirk the base sent no such message.
+Kirk insists that Spock received the urgent request from the former commander of the Enterprise, Fleet Captain Pike. Mendez is surprised that Kirk does not know the news about Captain Pike and leads them to the medical section, explaining that, during an inspection tour of a cadet vessel, one of the baffle plates ruptured. Pike removed the cadets who were still alive, severely exposing himself to delta rays.
+Now confined to a wheelchair, Pike is disfigured and cannot speak, though his mind is unimpaired. His sole means of communication is an amber light on the front of his chair, which illuminates with an accompanying beep: once for "Yes", twice for "No." Spock requests a moment alone with his former commanding officer, and says cryptically to him, "You know why I have come... I know it is treachery and it is mutiny, but I must do this." Pike can do nothing but repeatedly beep "No."
+
+
+=== Act One ===
+In Mendez's office, Kirk continues to defend Spock's claim that the starbase summoned the Enterprise. Mendez shows Kirk the record tapes, which show no such transmissions, and emphasizes that the paralyzed Pike could not have made the call – which was heard only by Spock. Kirk says that if Spock wanted to see Pike, Kirk would have granted him shore leave; moreover, there is no trouble in that sector of space that would have induced aliens to divert the starship as a ruse. Mendez calls the computer center, where Chief Humbolt confirms he has checked and rechecked the data tapes, and the starbase could have sent no message without his knowledge. Humbolt leaves the lab and Spock slips in and begins operating a computer to create a voice transmission to the Enterprise.
+Mendez's aide, Miss Piper, enters his office with a report that again denies summoning the starship. She mentions Spock's years of service under Pike, and indications of Spock's extreme loyalty to Pike. Kirk defends Spock, telling Piper that a Vulcan is incapable of disloyalty. But Piper and Mendez insist that Pike, under constant observation, could not have even asked for that message to be sent.
+On board the Enterprise, Lieutenant Uhura receives a message from starbase operations with new orders – secret, scrambled, and to be fed directly into the ship's computers. Lieutenant Hansen orders Uhura to request confirmation.
+Back on the starbase, as Uhura calls for confirmation, Humbolt walks in on Spock and notices Spock's alterations to the computer. Humbolt tries to wrestle and punch Spock away from the computer terminal, but Spock nerve-pinches Humbolt into unconsciousness. Uhura then tries to call Kirk, but Spock has now prepared a tape of Kirk's voice, confirming the new orders and directing any questions to Spock. Spock then activates an intercom and tells Hansen the ship's computers will handle the helm, and forbids Hansen from discussing the orders with ship or starbase personnel.
+Later, Kirk and McCoy watch Pike on a monitor, still blinking "no" to an unknown question. Kirk and McCoy discuss Pike's condition, the frustrating limitations on the art of medicine, the futility of solving the mystery through Pike, and the unimaginable possibility that Spock is lying, despite the fact that Vulcans are capable of exaggerating.
+McCoy then receives a message from Starbase Transporter Control, claiming a medical emergency aboard the Enterprise but providing no details. McCoy grudgingly returns to the ship.
+Mendez shows Kirk a report on the planet Talos IV marked top secret, "for eyes of Starfleet Command only."  The report is the basis of the well-known General Order 7: "No vessel under any condition, emergency or otherwise, is to visit Talos IV," the only capital offense left on the books, for reasons known only to top fleet command. But the report does mention that the Enterprise was the only Starfleet vessel to have visited Talos IV – while commanded by Captain Christopher Pike with a half-Vulcan science officer named Spock.
+While discussing the situation, Miss Piper notices that Captain Pike has disappeared from his room on a monitor. Mendez contacts Starbase Operations and is told that the Enterprise is leaving orbit and refuses to acknowledge their signal.
+
+
+=== Act Two ===
+The Enterprise departs from Starbase 11, completely under computer control. Uhura receives a communication signal but Spock tells her not to reply. He announces to the crew that Captain Kirk has been given medical rest leave and that he is assuming command. McCoy hears this upon entering the bridge and asks who made the diagnosis and who called a medical emergency. Spock takes McCoy to a guest quarters, containing Captain Pike, and plays a tape with the voice of Kirk, telling McCoy not to disturb Pike with questions but to follow Spock's instructions to the letter and to take care of him. During the recording, Pike again blinks "no" continually. When Spock returns to the bridge, Hansen tells him that a shuttlecraft is approaching, but Spock says they will not make contact.
+Aboard the shuttlecraft Picasso, Kirk and Mendez try to raise the ship and Kirk gets angry when the Enterprise doesn't respond, as the shuttle has already traveled too far to return to Starbase 11. The shuttle's fuel runs out and it continues coasting forward. Kirk and Mendez contemplate the consequences for Spock and his inexplicable actions.
+Aboard the Enterprise, Spock directs the library computer to execute pre-loaded instructions. The ship reverses engine power and comes to a full stop. Spock summons an armed security team to the bridge, orders the transporter room to beam Captain Kirk aboard, and places Lieutenant Hansen in command. Spock presents himself to McCoy (as the senior officer present) for arrest on a charge of mutiny – the orders for Spock to take command of the Enterprise were false. The security team arrives and McCoy reluctantly confines Spock to quarters.
+Kirk and Mendez beam aboard, and Hansen transfers command of the Enterprise to Kirk and explains the situation. The engines restart, but the computer retains control and defies Kirk's direct order to disengage. The computer controls are tied in to the ship's life support systems and cannot be disengaged until the ship reaches Talos IV.
+
+
+=== Act Three ===
+As the Enterprise continues toward Talos IV, arrangements are made for a preliminary hearing. But Spock waives his right to the hearing and requests an immediate general court martial. Kirk denies his request because, of the three required command-grade officers, there are only Kirk and Mendez on board. But Spock points out that Captain Pike is still on the active duty list. Mendez confirms this:
+"We didn't have the heart to retire him, Jim. He's got you; whatever he's up to, he's planned it well."
+The court martial convenes, with Mendez presiding. He reminds Spock that, if the Enterprise enters the Talos star group, a further charge involving the death penalty will be held against him, a fact of which Spock confirms he is aware. Mendez asks Spock what purpose it serves to go to Talos, and with Captain Pike, given the severity of the penalty. Spock asks if Mendez's comments are part of the record. Mendez says they are, and Spock then says he can only explain with the use of the viewscreen in the briefing room. Mendez's query has opened the door for any evidence Spock wishes to present, which Kirk believes is what Spock had in mind. Scott activates the viewscreen.
+On the screen, the panel views the voyage of the Enterprise to Talos IV under the command of Pike, thirteen years prior. (TOS: "The Cage")
+The astonishing video record is much more detailed than were log entries in those days. Questioned by Kirk, Pike signals "yes," that it is he in the video, but "no," that such records were not made during the voyage. Spock will not explain how the video was produced, but reminds Mendez that viewing the video is necessary to answer the question Mendez asked him. Mendez says the court isn't obliged to view evidence without knowing the source, but Kirk insists on seeing more of it.
+Later, Mendez interrupts the presentation again to remind Spock they are in a court of space law and not a theater. Spock asks Pike if they are witnessing the actual events of thirteen years previous. Pike beeps "yes."  Spock then offers to release control of the ship if, after watching the complete transmission, the court still wishes to turn back. Mendez calls the situation ridiculous and says it has gone far enough. Kirk votes instead to continue and hear the full story. Mendez votes not to continue and declares a deadlock, but Kirk points out that there is still one member of the trial board to hear from. With that, Mendez asks Pike if the trial should continue. Pike beeps "yes."
+
+
+=== Act Four ===
+
+On the viewscreen, the visit of Captain Pike and the Enterprise to Talos IV continues. Uhura interrupts the trial with a message from Starfleet informing Commodore Mendez that Starfleet's subspace monitors show the Enterprise has been receiving transmissions from Talos IV in violation of Starfleet general orders. Spock confirms that the video presentation is coming from Talos IV. Starfleet relieves Kirk of command, and orders Mendez to assume command of the Enterprise, disabling it if necessary to prevent further contact.
+Mendez tells Spock that his contact with Talos IV has invited the death penalty: Spock has not only doomed himself but ended Captain Kirk's career as well. Spock protests that Kirk knew nothing about what was happening, but Mendez reminds Spock that a captain is responsible for everything that happens aboard his ship. Mendez then orders Spock to release the ship to manual control, and Spock respectfully declines. Mendez declares the court in recess. As everyone leaves, Kirk confronts Spock, asking him if he has lost his mind. Spock pleads with Kirk that, for his career and Captain Pike's life, he must see the rest of the transmission. Kirk orders the security guard to lock Spock up, and remains in the briefing room alone to contemplate the situation.
+
+TO BE CONTINUED...
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701), 2267
+
+
+== Memorable quotes ==
+"A Vulcan can no sooner be disloyal than he can exist without breathing."
+
+- Kirk, on Spock
+
+"We've learned to tie into every Human organ in the body except one. The brain. And the brain is what life is all about. Now, that man can think anything we can, and love, hope, dream as much as we can. But he can't reach out and no one can reach in!"
+
+- McCoy, on Pike's paralysis
+
+"...To question Spock of all people! Me, yes. I could run off half-cocked given a good reason, so could you! But not Spock. It's impossible!"
+
+- McCoy, considering and dismissing the possibility of rogue action by Spock
+
+"Probably somebody discovered a hangnail."
+
+- McCoy, trying to explain the unexplained emergency order for him to beam aboard the Enterprise
+
+"Rank hath its privileges."
+
+- Mendez, on why he joined Kirk in the shuttlecraft
+
+"Spock would have some logical reason for going there."
+"Maybe. Maybe he's just gone mad."
+
+- Kirk and Mendez, speculating on why Spock would hijack the Enterprise and take it to Talos IV
+
+"I vote we continue."
+"And I vote we do not! Deadlocked!"
+"Not deadlocked, Commodore. There's still one member of the trial board we haven't heard from."
+"Very well. Captain Pike, it's up to you. Do we continue under these conditions?"
+(Pike's wheelchair beeps once)
+"Yes."
+
+- Kirk and Mendez voting whether to continue watching the depiction of the Enterprise's mission to Talos IV
+
+"Receiving transmissions from Talos IV? Then the images we've been seeing..."
+"...are coming from Talos IV, sir."
+
+- Kirk and Spock, realizing the source of the video records that comprise Spock's evidence
+
+"Don't stop me. Don't let him stop me. It's your career and Captain Pike's life. You must see the rest of the transmission."
+"Lock him up."
+
+- Spock and Kirk, after Mendez declares a court recess
+
+For memorable quotes from "The Cage", click here.
+
+
+== Background information ==
+
+
+=== Production timeline ===
+First draft teleplay "From the First Day to the Last" by John D.F. Black: 12 August 1966
+First draft teleplay "The Menagerie" by Gene Roddenberry: 21 September 1966
+Second draft teleplay: 3 October 1966
+Final draft teleplay: 7 October 1966
+Revised final draft teleplay by Gene L. Coon: 10 October 1966
+Additional revisions: 13 October 1966, 14 October 1966, 17 October 1966
+Filmed: 11 October 1966 – 18 October 1966
+Day 1 – 11 October 1966, Tuesday (Half Day) – Desilu Stage 9: Int. Bridge, Transporter room, Mendez's office
+Day 2 – 12 October 1966, Wednesday – Desilu Stage 9: Int. Mendez's office, Spock's quarters; Desilu Stage 10: Int. Shuttlecraft
+Day 3 – 13 October 1966, Thursday – Desilu Stage 10: Int. Hospital room corridor, Pike's hospital room, Ext. Starbase 11 Mall; Desilu Stage 9: Computer center (redress of Engineering), Briefing room (Hearing room)
+Day 4 – 14 October 1966, Friday – Desilu Stage 9: Int. Briefing room (Courtroom)
+Day 5 – 17 October 1966, Monday – Desilu Stage 9: Int. Briefing room (Courtroom)
+Day 6 – 18 October 1966, Tuesday – Desilu Stage 9: Int. Briefing room (Courtroom)
+Original airdate: 17 November 1966
+Rerun airdate: 18 May 1967
+First UK airdate: 23 August 1969
+Hugo Award: 1967
+A limited-time-only theatrical presentation of the remastered episode, along with "The Menagerie, Part II", was released on 13 November 2007 and 15 November 2007. It included a message from Gene "Rod" Roddenberry Jr., a twenty-minute "making of" documentary about the restoration process, and a trailer for Season Two of the remastered series. [1]
+Remastered airdate: 25 November 2006
+
+
+=== Story and production ===
+Robert H. Justman convinced Roddenberry to write a two-part episode utilizing the first pilot because they ran out of scripts in the middle of the first season, and had to shut down production otherwise. Roddenberry called it "the envelope" and wrote the episode in three or four days. [2] Robert Butler claimed it was Roddenberry's entrepreneurial talent which managed to find a way using the failed pilot as a money saving device for the show. [3]
+The original "envelope" script, entitled "From the First Day to the Last" was written by John D.F. Black; however Roddenberry was very unsatisfied with it, and rewrote it completely, finally taking sole writing credit. The insulted Black filed a Writers' Guild grievance over payment and screen credit, but his claims were denied. (Inside Star Trek: The Real Story, p. 251)
+Robert Butler, who directed "The Cage", was approached by Roddenberry to direct the "envelope" parts of the episode, but he refused because he disliked the series. After Marc Daniels was assigned to direct the new footage, it was decided that he and Butler would share credit for the two episodes, Daniels for the first part and Butler for the second. [4]
+Daniels finished the episode in five and a half days instead of the usual six, which compensated for running half a day late with "Court Martial", which he directed back-to-back with "The Menagerie". (These Are the Voyages: TOS Season One (page number? • edit))
+According to James Doohan, Roddenberry originally wanted to sell the failed pilot as a theatrical film. However, it needed to be expanded with additional material to reach the feature length. Roddenberry planned to film the crash of the SS Columbia on Talos IV, because it didn't require Jeffrey Hunter, who was neither available or affordable to reprise his role as Captain Pike. However, plans for the feature release were soon abandoned. [5] Roddenberry's plans for a feature release are verified by Herb Solow and Robert H. Justman in Inside Star Trek: The Real Story (p. 251).
+The Star Trek Compendium (pp. 164-165) compared Spock's risking his career and life to return Pike to Talos IV for a chance at a better life to what Kirk would later do for Spock in Star Trek III: The Search for Spock.
+
+
+=== Sets, props, and costumes ===
+A matte painting was created for the Starbase 11 exterior. Large cranes representing construction can be seen in the background. The wall used in this scene was recycled for "A Taste of Armageddon", "Wolf in the Fold", "Plato's Stepchildren", and "Wink of an Eye". The round dais in front of the wall was later used by Tharn and his council in "Mirror, Mirror".
+The Starbase Operations set is a redress of the engineering room set. An opaque blue wall has been placed behind the grid to hide the forced perspective set. The panel in this room from which Spock issues orders to the Enterprise is a re-use of the neural neutralizer control panel from "Dagger of the Mind". The computer banks in the room will later be seen in "A Taste of Armageddon" and aboard the shuttlecraft in "The Immunity Syndrome".
+The structures seen outside Mendez's windows are cut-outs of buildings. In the first scene in Mendez's office, behind Kirk is a clear view of a corner of the set behind one of the pieces.
+Commodore Mendez's desk features one of the goose-neck video screens seen on the early Enterprise bridge in "The Cage".
+This is the final appearance of the tan phaser/communicator belts.
+Sean Kenney's make-up as the injured Captain Pike took five hours to apply. Also, his hair had to be dyed white, which then turned out to be too bright for the cameras, and had to be softened with powder. [6]
+A shot which shows crewmembers listening to the intercom in a corridor is reused from "The Corbomite Maneuver". It can also be seen in "Balance of Terror" and "Assignment: Earth".
+
+
+=== Reception ===
+
+This episode won the 1967 Hugo Award for "Best Dramatic Presentation". Combined with "Part II," it's the first of four Star Trek episodes to win the award. The others are "The City on the Edge of Forever", "The Inner Light", and "All Good Things...".
+"The Menagerie, Part I" and "The Menagerie, Part II" constitute the only two-parter in the run of the original Star Trek.
+Gene Roddenberry picked the whole two-parter as one of his ten favorite episodes for the franchise's 25th anniversary. (TV Guide August 31, 1991 (page number? • edit))
+Chris Pike's wheelchair has become ensconced in popular culture, and has been seen in Futurama and South Park.
+The scene depicting Kirk, Spock, and Pike was used as the inspiration for a Hallmark ornament released in 2009.
+
+
+=== Preview ===
+The preview contains a Captain's Log recorded solely for the preview: "Captain's log, stardate 1512.2. Why does Spock want to take us to that one forbidden world in all the galaxy? His former captain, mutilated by a recent space disaster – unable to speak or move."
+In the original broadcast, Leonard Nimoy opens the trailer by saying "You'll learn next week..."  In syndication, this line was shortened to "You'll learn next–" with the last word edited out. This change was presumably made when it was realized that Star Trek might not be transmitted weekly overseas.
+The first part of the preview's Captain's log is recycled from the preview for "The Corbomite Maneuver", including the use of the same stardate.
+
+
+=== Remastered information ===
+"The Menagerie, Part I" was the twelfth remastered episode of the Original Series to air. It premiered in syndication the weekend of 25 November 2006 and took about two months of work by the CBS Digital team. [7] The remastered version of this episode featured new footage of the shuttlecraft (here called the Picasso, SB11-1201/1), replacing the stock footage produced for "The Galileo Seven". A new digital matte painting of Starbase 11 was created as well, for establishing shots as well as for views outside windows. Live actors, namely several production staff members in Starfleet uniforms, were also digitally inserted into the base, giving it a far more active appearance.
+
+
+=== Video and DVD releases ===
+In 1980, Paramount Home Video released this episode as the first of five volumes of classic series episodes on VHS as Television Classics on VHS and Betamax videocassette. This version however, is slightly edited to present the episode in one part, rather than two parts. The credits at the end of the episode and the closing credits are removed from Part I and the opening teaser recounting the events from Part I and the regular opening sequence are removed, instead doing a quick fade-out and cut into the first act of Part II. Note: This may be the same cut of the two episodes made by Paramount in 1975 that was used as part of Paramount's syndicated feature film package. The syndicated version also included specially-filmed segments with Leonard Nimoy giving some insights into the original filming of the episode, but these segments were left off the home video release. YouTube user "Rob O'Hara" posted these clips of Leonard Nimoy's segments to the video service on March 4, 2024. [8] All home video versions in the US since the Laserdisc version in 1984 present the episode in its proper two-part version.
+US CED VideoDisc release: 22 March 1981. The 1981 RCA CED Videodisc version presents the episode in the same version as above; however, the fade-out marks the end of side 1, with side 2 fading in into the first act of Part II.
+US LaserDisc release: 1 October 1984 (ASIN B001BFX97Y)
+Original US Betamax release: 1985
+UK VHS release (two-episode tapes, CIC Video): Volume 9, catalog number VHR 2274, release date unknown
+Japan LaserDisc release: 10 November 1992
+US VHS release: 15 April 1994 (ASIN B000AMHQO6, ASIN B000JFFIY4)
+
+UK re-release (three-episode tapes, CIC Video): Volume 1.6, 7 October 1996
+Original US DVD release (single-disc): Volume 8, 22 February 2000 (ISBN 6305744890)
+As part of the TOS Season 1 DVD collection
+As part of the TOS Season 1 HD DVD collection
+As part of the TOS Season 1 Blu-ray collection
+
+
+=== Apocrypha ===
+The first winner of the Strange New Worlds contest, "A Private Anecdote", depicted Pike reminiscing during his convalescence at Starbase 11.
+The novel Burning Dreams establishes the subspace message summoning Enterprise to Starbase 11 was not a fabrication by Spock, but instead an illusion by the Talosians making Spock think he actually did receive a message, and then the Talosians spoke telepathically to Spock, making him aware of Pike's condition and asking him to bring Pike to Talos IV. The novel also establishes that at the end of the teaser, when Spock tells Pike, "I have no choice," their conversation continued with Spock telling Pike that the Talosians were aware of his condition and wanted to give him a chance for a better life than what he had and that Spock actually asked Pike for permission to try to help him.
+Pike's accident is depicted in "Through the Valley of Shadows", the twelfth episode of season 2 of Star Trek: Discovery.
+
+
+== Links and references ==
+
+
+=== Starring ===
+William Shatner as James T. Kirk
+
+
+=== Also starring ===
+Leonard Nimoy as "Mr. Spock"
+
+
+=== Special guest star ===
+Jeffrey Hunter as Christopher Pike (archived footage)
+
+
+=== Guest star ===
+Susan Oliver as Vina (archived footage)
+
+
+=== Also starring ===
+Malachi Throne as José I. Mendez
+M. Leigh Hudec as Number One (archived footage)
+Peter Duryea as José Tyler (archived footage)
+John Hoyt as Phil Boyce (archived footage)
+Adam Roarke as Garison (archived footage)
+DeForest Kelley as "Dr. McCoy"
+James Doohan as "Scott"
+Nichelle Nichols as "Uhura"
+
+
+=== Featuring ===
+Sean Kenney as Christopher Pike
+Hagan Beggs as Hansen
+And
+Julie Parrish as "Miss Piper"
+
+
+=== Uncredited co-stars ===
+Majel Barrett as Computer Voice
+William Blackburn as
+Hadley
+Starbase 11 orderly
+Tom Curtis as Starbase 11 starbase operations (com voice)
+Frank da Vinci as
+Vinci (aka "Second Guard")
+Starbase 11 patient
+Brett Dunham as "Security Chief Pitcairn"
+Bennie Goldberg as Enterprise transporter technician
+Tom Lupo as Enterprise security guard
+Eddie Paskey as
+Leslie
+Starbase 11 assistant
+Jan Reddin as Enterprise court recorder
+George Sawaya as Humbolt
+Unknown performers as
+Bobby
+Enterprise command crew woman
+Enterprise lieutenant
+Enterprise navigator
+Starbase 11 computer technician
+Starbase 11 doctor
+Starbase 11 officer on mall
+Starbase 11 secretary
+
+
+=== Uncredited co-stars appearing in the original Star Trek episode ===
+Sandra Gimpel as Third Talosian
+Clegg Hoyt as Pitcairn  (aka "Transporter Chief")
+Anthony Jochim as Columbia survivor #3
+Robert C. Johnson as voice of Pitcairn
+Jon Lormer as Theodore Haskins
+Edward Madden as Fisher (aka "Geologist")
+Leonard Mudie as Columbia survivor #2
+Serena Sande as Second Talosian
+Georgia Schmidt as First Talosian
+Meg Wyllie as The Keeper
+Unknown performers as
+Columbia survivors #4 and #5
+Enterprise bridge crewman #1
+Enterprise bridge crewman #2
+Enterprise bridge crewwoman
+Transporter technician
+
+
+=== Remastered extras ===
+Officers on Starbase mall
+Richard Barnett
+Jimmy Berndt
+Toni Pace Carstensen
+Denise Okuda as Starfleet operations officer
+Michael Okuda as Starfleet sciences officer
+Dave Rossi as Starfleet command officer
+Cliff Welsh
+Niel Wray as Starfleet sciences officer
+Starbase office workers
+James Holt
+Nicki Kreitzman
+David LaFountaine as Federation administrator
+Wendy Ruiz
+Cliff Welsh
+
+
+=== References ===
+2236; 2254; 2265; 3XY phagrin level; abduction; Able-7-Baker; active duty list; address; American Continent Institute; answer; armor; arrest; atmosphere; baffle plate; bargain; bartender; battery; body; "Bones"; brain; brain wave; breathing; bridle; business; button; cadet vessel; call letters; canyon; career; chance; charge; chief; choice; Class F shuttlecraft; class M; collision course; colony; Columbia, SS; coma; commanding officer; computer center; computer control; computer expert; commodore; computer expert; Comsol, Robert L.; confined to quarters; contact; counsel; court of space law; course (heading); customer; day; deadlock; death penalty; deck; delta rays; distress signal; doctor; door; dream; duranium; duty; Earth; emergency; emergency frequency; encampment; engage; evasive maneuvers; event; evidence; fact; first officer; fleet captain; forced landing; fortress; friend; fuel; g; general court martial; General Order 7; geological lab report; guilt; hail; half-Vulcan; hangar deck; hangnail; health; heart; Johansson, Helen; helm; hope; horse; hour; hull (shell); Human; ice; image; imagination; information; injury; inspection tour; instruction; intensive care area; ion engine; intercraft; Class J starship; J-class trainee cadets; judgment; landing party; library computer; lie; life support system; logic; love; loyalty; Lucas; lunch; M-11; martini; Mary Lou; mass computer; maximum warp; medical emergency; medical rest leave; medical report; medical section; medicine; metal; meteorite beam; mile; Milky Way Galaxy; mind; mission; Mojave; monitor screen; month; mutiny; navigator; nitrogen; orbit; order; organ; Orion; Orion colony; oxygen; park; patrol; permission; photographic record; Picasso; picnic; place; planet; plea; preliminary hearing; preliminary lab survey; printout; prisoner; proof; pulp; quarters; radio beam; radio silence; radio wave; record tape; region; Regulus; retirement; reverse power; RHIP; Rigel VII; right to counsel; rights; risk; scanner; science officer; scientific party; scientist; scouting party; sector patrolled by USS Enterprise; security clearance; security team; senior officer; sensor; shore leave; shuttlecraft; ship's captain; signal; slave; Sol system; solar system; space law; space sector; specimen; spectrography; speed; speed of light; Starbase 11; Starbase Command; Starbase Operations; Starfleet Command; Starfleet General Orders; story; subspace chatter; subspace message; subspace monitor; surface; survey expedition; survey vessel; survivor; sword; Talos IV; Talos IV; Talos star group; Talos system; Talos system's stars; Talosians; Tango; tape; theater; theft; thing; third quadrant; thought; time barrier; time warp; tractor beam; trader; transmission; transporter control; trap; treachery; trial; trial board; treachery; Vega colony; Vernal Galaxy; visit; voice command; vote; Vulcan; Vulcan nerve pinch; warrior; water; week; "what the devil"; wheelchair; word; year
+
+
+==== S/COMS references ====
+astronomical unit; Talos I; Talos II; Talos III; Talos V; Talos V moon
+
+
+==== Unreferenced materials ====
+devil; ice cream; metal cube file opener; parasites; pie; praying; Scottish; skeleton crew; Sulu; surgeons; surgery
+
+
+==== Retconned references ====
+Shuttlecraft One
+
+
+=== External links ===
+"The Menagerie, Parts I and II" at Memory Beta, the wiki for licensed Star Trek works
+"The Menagerie, Parts I and II" at Wikipedia
+"The Menagerie, Parts I and II" at MissionLogPodcast.com
+"The Menagerie, Part I" at the Internet Movie Database

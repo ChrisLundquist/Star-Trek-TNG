@@ -1,0 +1,286 @@
+Picard must undergo a serious medical procedure while the Enterprise-D deals with a Pakled ship, which lures the Enterprise away in hopes of stealing its technology.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 42779.1. We're en route to the Epsilon IX sector for astronomical survey of a new pulsar cluster. In the meantime, Ensign Crusher will be diverting to Starbase 515 for Starfleet exams.
+
+Captain Picard is having a discussion with his chief medical officer Doctor Pulaski in her office about Picard's artificial heart, which needs to be replaced on Starbase 515. This procedure should have been performed earlier, but Picard has ignored it for far too long. When Doctor Pulaski proposes performing the procedure on board the Enterprise herself along with her medical staff, Picard refuses, being concerned with his image, and reluctantly agrees to make the trip to Starbase 515.
+Wesley Crusher is also going to Starbase 515 to take Starfleet exams, which Data found quite elementary. Crusher is surprised when Picard tells him that he will be traveling with him and asks Geordi La Forge and Sonya Gomez what he should talk about while traveling with Picard. Commander Riker is wondering why Picard is taking this trip, since he knows that Picard was looking forward to seeing the Epsilon pulsar cluster, when the Enterprise receives a distress call from the Rhomboid Dronegar Sector 006.
+
+
+=== Act One ===
+
+Wesley tries to make conversation with Captain Picard in the shuttle Einstein when Picard confides that this trip was not his idea and that he hates the prospect of a cardiac replacement. Wesley, not knowing that the captain had a cardiac implant, asks him why it needs to be replaced. Picard tells him simply that his heart was injured, and his replacement has become faulty. Wesley wonders why anyone would use a faulty replacement. Picard, clearly uncomfortable in continuing the conversation, asks Wesley to simply focus on piloting the shuttle.
+
+The distress call received by the Enterprise was sent by the starship Mondor, which is manned by the Pakleds. When Riker asks what is wrong, the only answer he gets from Grebnedlog is that their ship is broken and that they need help. When he asks what the nature of their mission is, he gets the answer that they "look for things that make them go". When he asks more questions, he just gets the same answers. Data has scanned their ship so the crew can determine what is wrong. Riker decides to send chief engineer La Forge to repair the Pakled ship. Worf strongly protests against sending the chief engineer but, since Riker thinks that the Pakleds pose no danger because of their speech impediment and their appearance, he only sends La Forge. Later on, Counselor Troi proves him wrong and tells him that La Forge is in grave danger.
+
+
+=== Act Two ===
+La Forge repairs the Pakled guidance system but then there is a main power failure. Meanwhile the Pakleds keep asking if he "can make it go". With La Forge forced to stay longer on the Mondor, Riker gets irritated because it seems that the Pakleds need more than minor repairs. When he offers to tow them to the nearest starbase with a tractor beam, the Pakleds say that La Forge can make them go. As the Enterprise tries to beam La Forge back, the Pakleds stun him. A quick scan tells Riker that they cannot beam La Forge out and that all systems on the Mondor are working perfectly. Their shields seem to be more advanced than the current state of Pakled technology.
+Aboard the shuttle, Picard mentions that the cardiac replacement procedure has only a two percent mortality rate. Wesley reassures him that those are very good odds. Picard remarks that that is not what he is actually worried about. He is unnerved at his innards possibly becoming Starfleet gossip. Wesley then asks why Picard did not simply have Dr. Pulaski perform the procedure and Picard sternly responds that he had personal reasons for not doing so and tells the ensign that they should leave it at that.
+
+
+=== Act Three ===
+Over a coffee and a sandwich in the aft section of the Einstein, Picard and Wesley engage in some small talk on kids, women, discipline, and why Picard never married. Picard also tells Wesley how he came to have the cardiac implant. He says that when he was at the Bonestell Recreation Facility at Starbase Earhart with some friends, he picked a fight with three Nausicaans. With one Nausicaan down in a joint lock, Picard was impaled from the back by a Nausicaan stake. The only reason he survived is because a medical facility was nearby.
+"Captain's personal log, Stardate 42779.5. We have arrived at Starbase 515. I'm still quite uneasy, despite assurances that this medical procedure poses little risk."
+They eventually arrive at Starbase 515, where Wesley escorts Picard to the medical facility. It turns out that Doctor Pulaski asked Wesley to make sure that Picard made it inside, which prompts Picard to say, "that woman". Wesley then tells Picard that he enjoyed their trip together, and Picard says he did, too.
+
+On the Enterprise, Riker is considering their options when Data tells him that the malfunctions on the Pakled ship were programmed. Riker's demands to return La Forge are refused and the Pakleds stun him again. For Riker to get La Forge back he has to give them all the information from the Enterprise computer. Of course, this is not an option, since it would violate Starfleet security.
+
+
+=== Act Four ===
+While lying on the operating table, the surgeon tells Picard not to worry because they have done this operation a hundred times. After the anesthesiologist administers anesthesia, the surgeon begins the operation, a secondary cardiac procedure with mid-line entry to excise the early model unit. He anticipates no problems and expects the operation team to be home in time for dinner.
+
+Riker plans to mislead the Pakleds so that he can get La Forge back. They try to lead the Pakleds to believe that he is a phaser and photon technology expert. By mentioning specific words during their conversation with the Pakled ship they try to tell La Forge what they are planning to do. Grebnedlog and Reginod tell La Forge that he must make them strong, meaning he has to fix the weaponry of the Mondor so they can attack the Enterprise. Fortunately, La Forge understands what Riker wants and he changes the Pakleds' weapons configuration, so they don't work properly. When the Enterprise detects that the Pakled weapons are on-line, they contact the Mondor and demand that La Forge be returned, or they will be destroyed. The Pakleds respond that "they are strong now" and that they "want respect".
+During Picard's operation there were complications, which the surgeon was not qualified to resolve. A biomolecular specialist knows someone who is.
+
+
+=== Act Five ===
+
+During this ruse, Lieutenant Worf receives a message that Captain Picard is close to death and the Enterprise needs to go to Starbase 515 as soon as possible. Riker starts a countdown of the time the Pakleds have to return La Forge. When the Pakleds try to fire at the Enterprise, nothing happens, and La Forge tells them that the Enterprise disarmed the Mondor by using a crimson force field; the reality is a cleverly-coordinated ruse comprised of La Forge disabling the torpedoes as the Enterprise vents hydrogen through their Bussard collectors. The Pakleds, convinced that they are "not strong", drop their shields and Riker has La Forge beamed back to the Enterprise, directly to the bridge. La Forge remarks that blowing hydrogen exhaust through the bussard collectors sure put on a nice light show. Riker responds that it was merely harmless but effective in getting the Pakleds to stand down and give La Forge enough time to disable their weapons.
+
+When Picard awakens from his anesthesia, he sees Doctor Pulaski standing over him, the surgeon they called in who was qualified to perform the operation. She tells him that she saved his life. Picard is less than thrilled and is more concerned that the entire Enterprise now knows of his condition. However, Pulaski assures the captain that he is still viewed as invincible to the crew. Picard thanks her for her discretion in revealing to the crew the condition which could have led to his death.
+When Picard returns to the Enterprise bridge to the applause of some of the bridge officers (which he does not appreciate), he is pleased to report that Wesley Crusher's test results permit him to continue to study on board the Enterprise and that any rumors of his brush with death are greatly exaggerated. With Riker assuring Picard that he has made himself clear on that matter, the Enterprise once more sets course for the Epsilon sector.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2365
+
+
+== Memorable quotes ==
+"This just came in for you from Starfleet."
+"Testing parameters?"
+"Do not be apprehensive Wes, I found the academy examinations quite elementary."
+"You would."
+"Your earlier test results were good enough to get you academy credit for your work here, I don't think you have anything to worry about."
+"Those academy cadets can be extremely competitive."
+"But you have the practical experience, Wes!" 
+"Commander Riker is correct. While the information imparted to cadets at the academy is unquestionably vital for prospective Starfleet officers, it nonetheless requires a significant period of supplementary systems training and situational disciplines." 
+"Didn't I just say that?" 
+"Yes sir, but not as perspicuously."
+
+- Riker reassuring Wesley that he'll do fine on his tests, with a little help from Data.
+
+"It's not the exams I'm worried about. It's Captain Picard."
+"Why? He's not taking the exams."
+
+- Wesley Crusher and Sonya Gomez
+
+"This is Commander William Riker of the USS Enterprise."
+"Uh-ha"
+"We received a mayday message from your ship."
+"Uh-ha"
+"What is the nature of your problem?"
+"We are far from home."
+"Aren't we all. What was the reason for your distress signal?"
+"We are Pakleds. Our ship is the Mondor. It is broken."
+"What brings you so far from home?"
+"We look for things."
+"What sort of things?"
+"Things we need."
+"Can you be more specific?"
+"Things to make us go. We need help."
+
+- Riker and Grebnedlog
+
+"Ah, Captain Picard. Nice day for a little trip."
+
+- La Forge, to which Picard responds with silence
+
+"Let me guess, their rubber band broke, right?"
+
+- La Forge, after hearing that the Pakleds' ship is "broken"
+
+"Open your mind to the past. Art, history, philosophy. And all this may mean something…"
+
+- Picard, giving Wesley Crusher advice
+
+"We are smart. You think we're stupid, but we're smart."
+
+- Grebnedlog
+
+"Our computer banks are non-negotiable."
+"We want them."
+"Believe me, they're nothing if not persistent."
+"We want to be nothing if not persistent."
+"Nobody ever said they were great conversationalists."
+
+- Riker, Grebnedlog, and La Forge
+
+"Wishing for a thing does not make it so."
+
+- Picard, to Wesley
+
+"Would you care for coffee, Ensign?"
+"No, thank you, sir."
+"How about a sandwich?"
+"No, I don't think so, sir."
+"Oh, c'mon. It's been hours. You must be hungry."
+"Thank you, sir."
+
+- Picard and Wesley, enjoying sandwiches and coffee for lunch
+
+"I stood toe-to-toe with the worst of the three and I told him what I thought of him, his pals, his planet and I possibly made some passing reference to his questionable parentage."
+
+- Picard, describing the confrontation with the Naussicans
+
+"I had this one Naussican down in this somewhat devious joint-lock, when, unbeknownst to me, one of his chums drew his weapon and impaled me through the back. Curious sensation, actually… not much pain. Shock, certainly, at the sight of serrated metal sticking through my chest. A certain giddy warmth… in fact, I do actually remember that I laughed out loud. Well, it pierced my heart, of course. In fact, if we'd not been so close to a medical facility, I would surely have died."
+"Really… then what happened?"
+"Nothing."
+
+- Picard, describing how he lost his original heart, and a spellbound Wesley
+
+"Any classified weapons knowledge you share with your captors will be considered treason."
+"But I may have no choice."
+"You will die without honor."
+"Thanks a lot, Worf."
+"You will never attain the 24th level of awareness."
+"24, huh? That's… uh… That's quite a challenge."
+"Indeed. 24 is the gateway to heroic salvation."
+
+- Worf and La Forge, attempting to deceive the Pakleds
+
+"You're now armed to the teeth."
+"Teeth are for chewing."
+
+- La Forge and Grebnedlog
+
+"What the hell are you doing here?"
+"Saving your life."
+"Oh, come on. This is a routine procedure: quite commonplace."
+"True, but you are not a commonplace man."
+
+- Picard and Pulaski
+
+
+== Background information ==
+
+
+=== Title ===
+This is one of twenty-four Star Trek episodes with titles derived from Biblical references.
+
+
+=== Production history ===
+Third revised final draft script: 8 March 1989 [1]
+Premiere airdate: 15 May 1989
+First UK airdate: 21 August 1991
+
+
+=== Story and production ===
+According to director Les Landau: "I dealt with a race of what appeared to be ugly and slow people. They have a need for things, which can be a reflection of our society. That's what Star Trek tries to do, take an almost unbelievable situation in an unbelievable time and somehow make all of us realize that's what's happening today, and what we can do to make the planet and the universe a better place. I think that is the essence of Star Trek and the tradition Roddenberry is trying to carry on." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+The producers were originally intending to use the captain's yacht in this episode, but budget constraints forced the use of a shuttlecraft instead. (Star Trek: The Next Generation Companion, 3rd ed., p.87)
+Stock footage of the Sakharov from "Unnatural Selection" and "Q Who" is used for the appearance of Shuttle 2. This is evident when the shuttlecraft is about to leave; Wesley refers to it as Shuttlecraft 02, but when the shuttlecraft is seen leaving it shows the designation of 01. This was corrected on the Blu-ray Edition.
+One of the props used inside the Pakled ship is an AN/PRT-5 ELT (emergency locator transmitter) from a NAVY Lockheed P-3 Orion.
+Another prop used inside the Pakled ship is a CANK-23429 remote control unit for World War II military field radios.
+The Custodian console from "When The Bough Breaks" and a bridge console from the Erstwhile are seen on the Mondor bridge.
+The surface of the Starbase 515 planet is the reused matte painting of Angel I from "Angel One".
+The opening stardate for this episode was different from the script. In the script, the date was 42723.8. [2]
+
+
+=== Continuity ===
+The Star Trek: The Next Generation Companion, 3rd ed., p.86, notes that Riker's "crimson force field" trick is similar to James T. Kirk's "corbomite" bluff in TOS: "The Corbomite Maneuver" and "The Deadly Years".
+The late Christopher Collins' next Star Trek role is as Durg in the Star Trek: Deep Space Nine episode "The Passenger".
+Picard's statement at the end of the episode, "Any rumors of my brush with death are greatly exaggerated" pays homage to Samuel Clemens' famous response to his prematurely-published obituary, "Reports of my death have been greatly exaggerated." He modifies the statement in Star Trek: First Contact when referring to the Borg after being separated from his senior staff during the Borg incursion. More than three years after the events of this episode, Picard meets Clemens in San Francisco in 1893, as shown in "Time's Arrow, Part II".
+The events of the sixth season episode, "Tapestry", are based on the events in Picard's youth he relates to Wesley in this episode.
+It is mentioned in this episode that Picard laughed when he was stabbed in the heart. In "Tapestry", it is revealed that this was a result of Q's interference, making the entirety of Picard's life up to that point a time loop.
+During the scene aboard the shuttle when Wesley and Picard are chatting while the shuttle's autopilot is on, there is an odd exchange of conversation. As Picard begins talking about his fight with the Nausicaans, Wesley asks, "Was this before the Klingons joined the Federation?" to which Picard answers "That's right." This overlooked yet puzzling dialogue has yet to be explained, though Wesley could have been referring to the Klingon-Federation alliance. [3]
+Wesley's Starfleet exams, which he takes in this episode, are most likely the repeat tests of the exams he failed in "Coming of Age" of which Picard said "and when you take your exams next year, and you will."  However, his exams were not shown on screen this time.
+If the shuttle is incapable of warp speed and it is going to take six hours to get to Starbase 515, it makes no sense to send that slow a vehicle on a trip that long when the Enterprise could whisk Picard and Crusher there in no time.
+This is the second and final appearance of Sonya Gomez on Star Trek: The Next Generation, who was initially intended to be a comedic recurring character but dropped after this episode. She would return 32 years later in the Star Trek: Lower Decks Season 2 finale "First First Contact" where she is now captain of the USS Archimedes.
+It is uncharacteristic of Riker to ignore the advice of both Worf and Troi and not beam out Geordi immediately.
+Worf reports that the Pakled ship is only capable of "sub-light" speeds. The crew of the Enterprise make no suggestion that they have encountered the Pakleds before, indicating this episode is potentially a violation of the Prime Directive.
+
+
+=== Reception ===
+Maurice Hurley remarked; "Very strange but nice. That was very different. It gave Geordi a nice turn, and the more you use LeVar, the happier the show will be, because LeVar is wonderful to work with." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+This episode inspired writers Dennis Russell Bailey, David Bischoff, and Lisa Putman White to write the third season episode "Tin Man". According to Bailey:
+"The point at which we became serious about trying to write a script for the show was about five minutes after watching 'Samaritan Snare,' which in my personal opinion was the most abysmal piece of Star Trek ever filmed. My objections to it were that it always resorted to idiot plotting to make the story work, and that offended me a great deal worse than some of the awful shows which were done on the original series. I thought the way in which it was plotted and the way it was dealt with was an insult to the intelligence of the people who watched the show and the actors and characters in the show. None of the plot could have happened if all of the characters hadn't suddenly became morons that week."
+"Someone must have been aware of how hokey it was, because they wrote obvious questions into the script which they chose not to answer. For instance, before Geordi beams over, Worf says explicitly to Riker, 'Do we have to send them our chief engineer because they have a little problem?' and it's never answered. If you don't want to answer it, don't bring it up. Another thing that is stupid is Deanna Troi comes on the bridge and says to Riker, 'I don't sense fear or confusion. Geordi is in danger. Bring him back,' and no one even responds to that. They simply act as if it wasn't said. On the trip over to the starbase, where Picard and Wesley have this long heart to heart talk, Wesley says why would anyone use a defective heart transplant. That's a minor point. A major piece of stupidity is they send him to a medical facility where it turned out that no one was qualified to handle the operation if it went at all wrong. I can't believe they expect viewers to be so stupid as to not ask about that. The fact that the routine was repeatedly said, throughout the show, to be an absolutely routine procedure and when it went wrong, it went wrong for no reason that was mentioned, except that it had to go wrong to have the climax. Then it turns out they have to call the Enterprise to bring Pulaski over to do the operation because she's more qualified and the people there weren't." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 9, pp. 19-22.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 22, catalog number VHR 2505, 7 October 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 2.6, catalog number VHR 4742, 21 June 1999
+As part of the TNG Season 2 DVD collection
+As part of the TNG Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Michael Dorn as Lt. Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Special appearance by ===
+Diana Muldaur as Doctor Pulaski
+
+
+=== Guest stars ===
+Christopher Collins as Grebnedlog
+Leslie Morris as Reginod
+Daniel Benzali as surgeon
+Lycia Naff as Sonya Gomez
+Tzi Ma as biomolecular specialist
+
+
+=== Uncredited co-stars ===
+Bill Ames as a Pakled officer
+Majel Barrett as USS Enterprise-D computer voice
+Robert J. Feldman as a Pakled officer
+Charles Geschwind as Starbase 515 anesthesiologist
+Victor A. Haddox as a Pakled officer
+Tim McCormack as Bennett
+T.J. McGee as a Starbase 515 assistant surgeon
+Unknown performers as
+Female conn ensign
+Pakled officer
+Starbase 515 medic
+Starbase 515 nurse 1 and 2
+Starbase 515 Starfleet officer 1, 2 and 3
+Starbase 515 technician 1 and 2
+Transporter officer (voice)
+
+
+=== Stunt double ===
+Unknown stunt performer as stunt double for LeVar Burton
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+22nd century; 2327; ability; academic credit; alien; analysis anesthesiologist; antimatter charge; archaeology; armament; "armed to the teeth"; art; asteroid; astronomical survey; autopilot; awareness; back; base; Betazoid; biomolecular physiologist; Bonestell Recreation Facility; book; "brush with death"; Bussard collector; cadet; capillary; captor; cardiac implant; cardiac replacement (aka cardiac replacement procedure); "carry on"; chance; charade; chest; chewing; chief medical officer; choice; "chum": coffee; comm system; companion; complication; computer; computer banks; confrontation; countdown; course; crimson force field; culture; curiosity; danger; death; deception; departure; dinner; distance; distress signal; echo; ego; Einstein; engineer; engineering; Epsilon IX sector (aka Epsilon sector); Epsilon Pulsar Cluster; ETA; evolution; exam; fact; failure; Far Space Starbase Earhart; father; Federation; fiction; first officer; flattery; forced spectrum communication; French language; frequency; friend; galactic outpost; gateway; "good Lord"; gossip; gratification; greed; green; guidance system; hailing frequency; heading; heart; hero; heterocyclic declination; history; "hold fast"; home; honor; hostage; hour; hydrogen; hydrogen collector; idea; image; impatience; impression; impulse speed; information; instinct; intellectual capacity; intelligence; intention; interference pattern; James, William; Jarada; joint lock; journey; Klingon; Klingon Empire; knowledge; language skills; lesson; literature; main power failure; malfunction; marriage; mayday; medical facility; medical procedure; medical staff; Memoirs of Frederick Perthes, or, Literary, religious, and political life in Germany, from 1789 to 1843; metabilation occlusions; metal; mission; Mondor; Mondor-type; mortality rate; myocardial enzyme balance; name; napkin; Nausicaa; Nausicaan; neural caliper; number one; obligation; odds; officer; "on leave"; "open your mind to"; operation; opinion; "out of his league"; pain; Pakleds; parentage; parthenogenetic implant; past; patient; percent; perceptive ability; Perthes, Clement Theodore; phaser; philosophy; photon torpedo; physical condition; power generator; problem; pulsar; pulsar cluster; repairs; replicator; reserve power; respect; result; Rhomboid Dronegar Sector 006 (aka Rhomboid Dronegar 006/Rhomboid Dronegar sector); "riffraff"; risk; Romulans; rubber band; rumor; ruse; sacrifice; salvation; sandwich; scanner; science officer; second; security clearance; security team; semantics; sensation; sensor; separator; serration; shock; shuttlebay two; space travel; species; Starbase 515; Starbase 515 planet; Starfleet; Starfleet Academy; starship; status; sterile field; strength; subject; sub-light; surgical gloves; takeoff; target path; technical specifications; teeth; thing; thoracic polychromatics; throwback; tissue mitigator; "toe-to-toe"; tractor beam; transporter beam; transporter room; treason; trip; truth; Type 7 shuttlecraft; Valedictorian; Van Doren; venturi chamber; verification; viewer; visual contact; warmth; warp coil; warp speed; weapon; weapons specialist; weapons systems analysis; "whoa"; "wide berth"; work
+
+
+==== Other references ====
+Starbase 515 Biomedical and Health Care Services Directory: Andor Environment Ward; Biomedical Imaging Services; Conference Room 4; Conference Room 5; DGA; Exobiology Research Division; Faul, Brian; Freedle, Sam; Kei/Yuri Therapy Unit; Landau, Les; Luhrsen, Scott; MD; McCullough, Robert; Metoyer, Robert; Simmons, Adele; Surgical Suite 3; Surgical Suite 4; Surgical Suite 5; Surgical Suite 6; Vulcan Physiology Unit; Zero Gravity Therapy Ward
+Patient ID = Picard, Jean-Luc: ATP; neural activity; pulse; respiration
+
+
+=== External links ===
+"Samaritan Snare" at Memory Beta, the wiki for licensed Star Trek works
+"Samaritan Snare" at Wikipedia
+"Samaritan Snare" at MissionLogPodcast.com
+"Samaritan Snare" script at Star Trek Minutiae
+"Samaritan Snare" at the Internet Movie Database

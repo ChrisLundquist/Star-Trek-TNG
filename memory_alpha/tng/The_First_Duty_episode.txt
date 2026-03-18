@@ -1,0 +1,291 @@
+Following an accident during an Academy training exercise that leads to the death of one of his friends, Wesley Crusher must decide whether loyalty or truth is the first duty.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45703.9. We are en route to Earth, where it will be my pleasant duty to deliver this year's commencement address at Starfleet Academy. I'm also looking forward to seeing Wesley Crusher again. His flight team will perform a demonstration near Saturn that will be transmitted to the graduation ceremonies."
+
+The USS Enterprise-D is en route to Earth, where Captain Picard will give this year's Starfleet Academy commencement speech. While seated in his command chair, Picard asks Lieutenant Worf to inform the Academy they'll arrive at Earth in ten hours and sixteen minutes and to send his regards to Academy superintendent Admiral Brand. When asked by Counselor Troi if the captain knows Brand, Picard tells her he has met the admiral a few times before, calling her a formidable woman. Commander Riker says that hearing of Brand reminds him of his superintendent, a Vulcan. Before reaching Earth, Worf reports that they are receiving a message from Admiral Brand herself. Picard asks Worf to put the transmission on the viewscreen, but Worf notes that Brand is requesting a private channel. In Picard's ready room, Brand announces that there has been an accident involving Cadet Crusher.
+
+
+=== Act One ===
+
+Picard brings the news to Dr. Crusher: her son's flight team, Nova Squadron, has suffered a catastrophic collision while practicing on the Academy flight range near Saturn. They were flying in a close formation, and all five ships were destroyed. Four of the cadets managed to transport out, but one didn't make it, and Wesley was seriously injured. While she is worried, Picard assures her that he will be fine, and their thoughts turn to Wesley's lost friend, Joshua Albert.
+Upon arrival at Earth, Admiral Brand briefs the Nova Squadron parents and Picard about the upcoming inquiry into the accident. They managed to recover one of the ships' flight recorders, but it was badly damaged, and they're attempting to restore the data, but it'll take some time. Joshua's father, a lieutenant commander in Starfleet, is consulted and requests that commencement ceremonies go forward despite plans to cancel them due to the tragedy. After all, there are still duties to perform, and life must go on.
+Picard and Dr. Crusher go to Wesley's quarters, where he is using a resistance device to strengthen his broken arm. Picard attempts to talk to Wesley about what happened during the accident, but he refuses, saying that he has gone over it too many times over the past two days and does not want to discuss it any further. Their reunion is interrupted by the leader of Nova Squadron, Cadet Nicholas Locarno, who says that he was there to check on Wesley. Locarno tells them that he feels horrible that he has lost a member of his team. Picard replies that unfortunately for a commanding officer, it never gets easier. Wesley then asks Picard and his mother to leave, saying that he has to talk to Locarno privately about some things. After Picard and Crusher leave, Locarno tells Wesley not to worry about the inquiry and everything will be fine, as long as the team sticks together.
+
+
+=== Act Two ===
+
+Picard walks through the quad of Starfleet Academy and finds Boothby, the Academy groundskeeper. He catches up with him and reminisces about his days in the Academy. He regrets not telling Boothby at that time how much he appreciated his help for a mistake he made that jeopardized his Academy career. Had it not been for Boothby's advice to make the right decision, Picard might never have graduated. Boothby tells Picard that he knew the right thing to do; he just pushed him in the right direction. Meanwhile, Locarno gives a pep talk to his team before entering the room for the board of inquiry investigating the accident.
+To open the deposition, Locarno gives a description of the maneuver they performed. He explains that, while approaching Saturn, the group turned toward Titan and moved into a diamond slot formation. They turned again in preparation for a Yeager loop. Soon after, Albert's ship, in the starboard position, collided with Cadet Jean Hajar in the center, and eventually all five ships were destroyed just after the crew was transported out and beamed to the emergency evac station on Mimas. Admiral Brand asks the team navigator, Hajar, if they had changed their flight plan after filing it with Starfleet. When the navigator gives a cryptic response of "we were still within flight safety parameters," Admiral Brand becomes angry, stating that Hajar did not answer her question. She then says yes, they did change their flight plan en route. Captain Satelk, a Vulcan, then asks Cadet Sito Jaxa, who was flying in the rear of the formation and thus had the best vantage point of the crash, if she saw either the collision itself or any indication beforehand that Albert was having problems piloting his craft. She says that she didn't see him because she was flying on sensors alone, which was extremely unusual for the maneuvers listed in the team's testimony. After being continually probed by Admiral Brand and Captain Satelk, not believing the answers they received, Locarno helps out Hajar and Sito by blaming the accident on Cadet Albert, claiming that he'd been having trouble with his flying recently. Locarno says that Albert crashed into Hajar when he panicked while performing the Yeager loop maneuver near Titan.
+
+Admiral Brand says that she is very disturbed over what has happened. She says that Nova Squadron has displayed a large degree of misjudgment, and she is dismayed that the team did not release the information on Albert's insecurity about flying before the accident, nor did they immediately come forward with the information immediately afterwards. Admiral Brand then says that the first data from Wesley's flight recorder would be available that evening. Pending the results, the board of inquiry will be in recess and will reconvene at 1300 hours tomorrow. Cadet Albert's father is visibly dismayed over what the team has said about his son. Locarno tells Wesley that there's nothing to worry about and to trust him.
+
+
+=== Act Three ===
+Picard asks Chief Engineer La Forge and Data in engineering aboard the Enterprise to conduct their own independent investigation into the crash. La Forge is unsure what they will find outside of the Academy investigation, as they have the most sophisticated accident reconstruction simulation equipment available. Picard agrees but notes that Wesley is one of their own, and they must assist in the investigation.
+Meanwhile, back on Earth, the flight team meets together to get their stories straight on the next round of questioning in the board of inquiry. Wesley and the rest of the team are angry that they lied to the board of inquiry and horrified that Locarno has jumped to explicitly blaming Albert, but Locarno insists that it is now time for them to save their own skins. The team start trying to convince themselves that Albert did have some kind of trouble. Locarno then starts to brief Wesley on his flight recorder data that was badly damaged during the accident and only covers the time before the crash. Wesley doesn't believe he can lie to the board, but Sito tells him that he isn't lying but simply not volunteering any additional information. With Locarno's emphasis on Wesley's knowledge that a team must support each other when their lives are in each other's hands, he silently agrees.
+Wesley goes to practice his deposition, where he meets Joshua's father. He brings Wesley his sweater from Joshua's quarters. Wesley identifies it as a memento from a ski trip to Calgary they took last month, as Joshua had forgotten his. They reminisce on Joshua, talking about his problems in mathematics and how he never gave up on anything. Joshua had a lot of respect for Wesley. Joshua's father admits that he knows that it was his son's fault and apologizes for letting the team down.
+The next day, Wesley begins his deposition, following along with the video account of the crash from his flight recorder. After his flight recorder shorts out, he gives a narrative of his version of the events. When Admiral Brand asks if he has anything to add, he says no. Captain Satelk suspiciously asks Wesley to describe a Yeager loop. The captain then asks Wesley if Nova Squadron had ever gone out of formation after completing the Yeager loop. Wesley says no. Admiral Brand asks if he is absolutely sure about that. Wesley says he is. Captain Satelk then confronts Wesley with an image taken from a navigational control satellite that was in orbit of Saturn during a standard sensor sweep at the time. When zoomed in and enhanced, it shows their squadron's ships in a very different formation while they were in the satellite's field of view, approximately seven seconds before the accident. When Admiral Brand asks what Wesley's explanation is for this, he has none.
+
+
+=== Act Four ===
+Beverly comforts Wesley in his quarters and assures him that the Enterprise is going to get to the bottom of what has happened. She thinks it is strange that the satellite view makes it look like he is lying when she fully knows he is not. As a result, Beverly and the other parents got together and decided that they want Admiral Brand to delay the inquiry. Wesley is shocked and tells his mother to stay out of the inquiry and not to protect him. This leaves Beverly worried that Wesley is indeed covering something up.
+Picard has another talk with Boothby on the Academy grounds, asking him to tell him more about Nova Squadron. Boothby says that after Nova Squadron won the Rigel Cup, the other students treated them like they were gods, and that was a difficult thing to live up to. Boothby also says that Nova Squadron would do anything for the team leader, Locarno, even if it meant "going right over a cliff." Picard returns to the Enterprise and asks if La Forge and Data have come up with anything in their investigation. They say no, stating that there are too many variables to determine exactly what happened; however, one item of note was that Wesley's plasma interlock was open when it is supposed to be closed during flight. It is extremely dangerous, as the interlock may ignite the drive plasma. Given this information and the imagery shown from the satellite, Picard instantly realizes what Nova Squadron was trying to do that caused the accident.
+
+
+=== Act Five ===
+
+Picard invites Wesley to his ready room on the Enterprise, where he asks him to watch an animation simulation on his display and identify what it is. Wesley identifies it as a Kolvoord Starburst, an extremely impressive but dangerous maneuver where five ships fly within ten meters of each other and ignite their plasma, creating a starburst pattern. Picard reminds Wesley that the maneuver was banned at the Academy a hundred years earlier following a training accident where all five cadets who attempted it were killed. Picard believes that Locarno wanted to end his Academy days in a blaze of glory and convinced the team to perform the maneuver for the commencement demonstration. If it worked, Nova Squadron would thrill the assembled guests, and Locarno would graduate as a living legend. But it didn't work, and Joshua Albert paid the price. He asks Wesley if he is correct. Wesley chooses not to answer. Angered by this response, Picard tells Wesley that he has already answered the question at the board of inquiry – and it was a lie. Wesley says that he did tell the truth, as the accident did occur after the loop. However, Picard tells Wesley that he neglected to mention that following the loop, the team attempted a maneuver that was the direct cause of the crash. So he only told the truth up to a point, which, in Picard's opinion, is still a lie. Picard then reminds Wesley of how he knew every control on his chair when his mother brought him to the bridge on the day he first boarded the ship at Farpoint Station and that he chose to make him an acting ensign due to his belief that Wesley had the potential to be an outstanding Starfleet officer, a belief Picard had never questioned until now. He then tells Wesley that the first duty of every officer is to the truth, that it's one of the guiding principles upon which Starfleet was founded, and if Wesley can't find it within himself to stand up and tell the truth, then he doesn't deserve to wear the uniform. Picard then gives Wesley an ultimatum – either he comes forward and tells Admiral Brand what really happened, or he will. Wesley attempts to reason with Picard, but Picard abruptly cuts him off, angrily dismissing him.
+Back on Earth, Wesley calls Locarno to his quarters, where Wesley tells Locarno everything that transpired on the Enterprise. Locarno is not worried, saying that Picard has no hard evidence to prove what happened and that it will be okay – they simply have to dispute Picard's account. Wesley says he can't call Picard a liar and, not wanting to continue lying, decides to tell Admiral Brand what really happened. Locarno becomes angry because Wesley has made the decision alone to turn the team in. Wesley says that as Starfleet cadets, they have a duty to the truth. But Locarno tells Wesley about his duty to his friends and reminds him that he got into Nova Squadron because Locarno gave him a chance when there were upperclassmen waiting for their chance due to Wesley's time on the Enterprise. Wesley then tries to convince him that the whole team should come forward together and tell the truth, but Locarno says he and the others don't want to turn themselves in because they aren't bothered by it as Wesley is. As an alternate plan to coming forward, Locarno tells Wesley to resign his Academy commission to save the team. After all, Locarno would do it without hesitation if he were in Wesley's position.
+
+At the board of inquiry, Admiral Brand tells Nova Squadron that the disputing testimony of the satellite and their accounts are troubling; either the satellite has recorded inaccurate data, or the cadets have lied to the inquiry. It is clear that Brand believes there is a cover-up going on between the four, but as there is no hard evidence either way, she is left with no choice but to close the inquiry. Admiral Brand issues her judgment – she revokes Nova Squadron's flight privileges and issues a formal reprimand to each of the cadets' permanent records. She then closes the investigation with the ringing of a bell.
+Wesley then stands up and tells the admiral he has something to add. The admiral lets Wesley proceed, and he admits that the crash happened because the team attempted a Kolvoord Starburst despite knowing it was dangerous and prohibited. But they wanted to do something spectacular for the commencement demonstration, thinking they could do anything, but they were wrong, and Albert died because they pressured him into trying to perform a maneuver that he admitted he wasn't ready for. Admiral Brand asks if Locarno has anything to say. He answers no.
+The inquiry has concluded, and Wesley is sitting glumly on the grounds of the Academy. Picard arrives and informs Wesley that Locarno has been expelled. Wesley thinks they all should have been expelled, and Picard tells him they very nearly were, but they were saved when Locarno took full responsibility for the incident and the cover-up, all to keep everyone else in Starfleet. Wesley comments that Locarno protected the team, just as he said he would. Picard then informs Wesley of additional consequences Admiral Brand handed down; in addition to the reprimand, she has cancelled Wesley's academic credits for the previous year, so he will not advance with his class. Picard then says that there will be difficult times ahead for Wesley and that it will not be easy for him to remain on campus with everyone knowing what he did. Still, Wesley thanks Picard for his help. Picard says that Wesley knew the right thing to do; he just pushed him in the right direction (just like Boothby did for him). The two then bid a farewell to each other.
+
+
+== Memorable quotes ==
+"Do you know Admiral Brand?"
+"We've met a few times. She's a formidable woman."
+"Sounds like my superintendent. When I was at the Academy, we had a Vulcan superintendent who had memorized the personnel files of every single cadet. He knew everything about them. It was like having your parents around all the time."
+"My superintendent was a Betazoid, a full telepath. When he sent for you to his office, he didn't have to ask what you'd done."
+"You got called into the superintendent's office? That's a story I'd like to hear."
+
+- Troi, Picard and Riker
+
+"Look, don't worry about it, Wes. Everything's gonna be all right. As long as we stick together."
+
+- Nicholas Locarno, before the hearing
+
+"Wes, I know you want to protect Josh's memory. We all do. But we have to look out for ourselves now. What do you expect us to do, walk in there and tell them everything that happened?"
+"We might as well turn in our uniforms and start packing our bags."
+"Are we ready for that? We'll take this one step at a time. This is the preliminary report from your flight recorder. It was damaged so badly in the crash, that the lab could only retrieve a third of the total telemetry on the recorder. And all of it is before the collision. There's no problem here."
+"I don't know if I can do this, Nick."
+"You don't have to lie; just don't volunteer any new information."
+"The first night I met you, Wes, I knew I wanted you on this squad. You, more than any of the rest would understand what it means to be able to count on someone, 'cause you've been out there, putting yourself on the line. You know you've got to be able to count on the people on your team, because your life is in their hands, and their lives are in yours. We made a promise to each other right in the beginning, that we'd stick together. We were Nova Squadron. Nobody else could say that. And even after we graduated, we'd try to get posted to the same duty. We were going to be a team for a long time. Josh can't be a part of those plans anymore, but I think he would still want us to be a team. What do you think?"
+
+- Nicholas Locarno, Jean Hajar, Wesley Crusher and Sito Jaxa
+
+"Can you tell me what this maneuver is?"
+"It's a Kolvoord Starburst, sir."
+"Five ships crossing within ten meters of each other and igniting their plasma trails. It's one of the most spectacular… and difficult demonstrations in precision flying. And it hasn't been performed at the Academy for over a hundred years. Do you know why?"
+"It was banned by the Academy following a training accident, sir."
+"An accident in which all five cadets lost their lives."
+
+- Captain Jean-Luc Picard and Cadet Wesley Crusher – Listen to this quote file info
+
+"I said the accident occurred after the loop. It did."
+"What you neglected to mention was that following the loop, your team attempted a maneuver that was the direct cause of the crash. And you told the truth, up to a point. But a lie of omission is still a lie."
+
+- Cadet Wesley Crusher and Captain Jean-Luc Picard – Listen to this quote file info
+
+"Do you remember the first day you came aboard this ship? Your mother brought you on the bridge."
+"Yes, sir."
+"You even sat in my chair. I was annoyed. A presumptuous child playing on my ship? But I never forgot how you already knew every control, every display. You behaved as though you belonged on the bridge. And then, later, when I decided to make you an acting ensign, I was convinced that you could be an outstanding officer. And I never questioned that conviction… until now."
+
+- Captain Jean-Luc Picard and Cadet Wesley Crusher – Listen to this quote file info
+
+"The first duty of every Starfleet officer is to the truth, whether it's scientific truth, or historical truth, or personal truth! It is the guiding principle on which Starfleet is based, and if you can't find it within yourself to stand up and tell the truth about what happened, you don't deserve to wear that uniform. I'm going to make this simple for you, Mr. Crusher; either you come forward and tell Admiral Brand what really took place, or I will."
+"Captain—"
+"Dismissed!"
+
+- Picard and Cadet Wesley Crusher – Listen to this quote file info
+
+"He got to you, didn't he? Picard told you some big story about duty and honor. Well, that must've been a pretty good speech to make you turn your back on your friends."
+"We're Starfleet cadets. We have a duty to the truth."
+"What about your duty to your friends? I got you on this team. I gave you a chance when there were upperclassmen waiting in line. I said: 'He won't let us down. He was on the Enterprise. He knows what it's like to trust somebody with his life.' Well, I guess I was wrong."
+
+- Locarno and Wesley – Listen to this quote file info
+
+"You made a mistake. There isn't a man among us who hasn't been young enough to make one."
+
+- Boothby, to Picard
+
+"Yesterday I testified that the crash occurred following a Yeager loop. That is not entirely true. We performed the loop, and, afterwards, broke formation and attempted a Kolvoord starburst. We knew it was prohibited and we knew it was dangerous, but we wanted to do something spectacular for the commencement demonstration. We pushed Josh into it, and he wasn't ready. We thought we could do it. We thought we could do anything. We were wrong, and Josh died."
+
+- Cadet Wesley Crusher – Listen to this quote file info
+
+"I feel awful. I've let down everyone. My mother, my friends, you."
+"You should feel bad. And you will pay for what you've done. Admiral Brand has decided that in addition to a formal reprimand, your academic credits for the past year will be canceled and you will not advance with your class."
+"I understand."
+"It's not going to be easy, staying here on campus, everyone knowing what you did. You have difficult times ahead."
+"Yes, sir. Thank you, Captain."
+"You knew what you had to do. I just made sure that you listened to yourself. Goodbye, Cadet."
+"Goodbye, Captain."
+
+- Wesley Crusher and Jean-Luc Picard, bidding each other farewell at Starfleet Academy when the investigation is concluded – Listen to this quote file info
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 22 January 1992 [1]
+Filmed: 24 January 1992 – 3 February 1992
+Second unit inserts filmed: 6 March 1992
+Premiere airdate: 30 March 1992
+First UK airdate: 26 April 1995
+
+
+=== Story and script ===
+The story for this episode was conceived by Ronald D. Moore during the writing staff's Mexican retreat in the Fall of 1991. (Star Trek: The Next Generation Companion, 2nd ed., p. 197)
+Moore developed the idea with his friend Naren Shankar, who had completed a Writer's Guild internship with the show the previous season. Shankar recalled, "Ron had been in ROTC in college and we were both into military history. We wanted to do a show set at Starfleet Academy and pick up where Wesley was with his life. Our focus was on the notion of choosing between your friends and your duty." (Star Trek: The Next Generation 365, p. 252)
+Rick Berman was initially skeptical of the idea. Michael Piller recalled, "When we pitched it to Rick, he said, it's not a Star Trek. Star Trek is about going off into space and exploring new planets. It's not about going back to Earth. He's right, of course, and no one's going to argue that he's not, but I looked at him and said 'Look, to me we have the opportunity to do something special. We have the chance to explore an issue that is extra meaningful to a lot of young people. If you're involved in drugs or teenage misbehavior or crime, and you may know that it's the wrong thing and you have the choice of being loyal to your friends or doing what is honest – that is a great issue for us to explore." Berman agreed on the condition that a maximum of three sets were used. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 242)
+According to Berman, in early stages of the story, Wesley's crime was more heinous, and the cover-up was much more obvious. He stated, "I found that unacceptable. Wesley is Wesley. He is one of our characters and heroes and he's capable of lapses in judgement, capable of making decisions on an emotional basis as opposed to thinking them out, but not capable of some of the more severe things that were suggested. And not capable of overt cover-up, lying to Starfleet Academy officials. So we basically tempered it down, still keeping it believable and the crime that was serious and would result in a punishment." (Captains' Logs: The Unauthorized Complete Trek Voyages', p. 243)
+A dispute arose between Moore, Shankar and Piller regarding the ending. (Star Trek: The Next Generation 365, p. 252) Piller recalled, "I thought [Wesley] should choose the truth, and Ron thought he couldn't go back on his friends. Ultimately I gave the order to go with the truth – that's what I'd want my kids to do – but I think it shows how much we can get into these characters when we find ourselves debating the points they're arguing." (Star Trek: The Next Generation Companion, 2nd ed., p. 197) Piller later called it "one of the most rewarding arguments in the history of the production of this show." (Star Trek: The Next Generation - The Continuing Mission, pp. 158-159)
+Moore later elaborated that, had they prevailed, the story would have been structured very differently, such that Wesley's actions would still be the "correct" moral choice. He noted,
+"In the aired version of events, Wesley steps forward even though the court of inquiry is about to let them all off the hook. In so doing, Wes commits an act of moral courage by standing up for the truth and being punished when to remain silent would've allowed him to go scot free. Now, let's assume the circumstances had been constructed so that the Nova Squadron was going to be kicked out of the Academy by the court if they kept silent about what really happened. Say that the team had made a decision not to finger the one among them who came up with the idea on the "we all hang together" philosophy. In that scenario, Wesley coming forward to tell the truth is suddenly an act of moral cowardice because it appears that he's only trying to save his own skin at the expense of one of his teammates.
+"If that had been the story (which is more or less what Naren and I were advocating) then Picard's impassioned speech to Wesley about the morality of coming forward to tell the truth is suddenly a scene where the Captain tries to convince a young man not to throw away his own career in order to protect one of his friends. In the end, Locarno (the true culprit) comes forward on his own in order to save the rest of the team. As you can see, it's a very different kind of tale even though the essential "plot" is relatively unchanged.
+" […] Both stories are valid and interesting, but I preferred the story about a young man willing to stand with his friends rather than a morality tale about telling the truth. Don't get me wrong – I like "The First Duty," and I think it works pretty well just as it is, I just wanted to tell a different story." (AOL chat, 1997)
+According to Piller, Picard's unnamed indiscretion was added to the script relatively late in the process. "We had to have scenes with Boothby and Picard and we had scenes where they talked about the case, they talked about things, but the scenes weren't clicking and they were the weakest parts of the show. We started talking about maybe he helped Picard out with a problem and maybe he got into trouble, and we tried to figure out what it was. Rick said it doesn't matter what Picard's trouble was. We keep that part of our character a mystery, which we like to do every once in a while. That was a great decision and what it did for us was put in perspective in a life cycle sort of way that if you make a mistake when you're young and it's found out, you have to pay a price for it. It doesn't mean your life is ruined. It means you can still become Jean-Luc Picard." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 243)
+Shankar noted that the character Nicolas Locarno was not part of the first draft of the script. Instead of Locarno, Ed Lauter's character Lieutenant Commander Albert was an integral part of the story, as a tough, career-minded officer. (The Official Star Trek: The Next Generation Magazine issue 21, p. 15)
+According to Jack Treviño, about a year before the episode aired, he submitted his first script through the open script policy, called "The Truth". It had Wesley Crusher going to Starfleet Academy almost killing another cadet due to arrogance. It was rejected and Treviño later commented upon the similarities to this story. [2]
+
+
+=== Production ===
+
+"The First Duty" was filmed between Friday 24 January 1992 and Monday 3 February 1992 on Paramount Stage 8, 9, and 16. On Monday 27 January 1992 the production filmed the Starfleet Academy outdoor scenes on location at the Tillman Water Reclamation Plant. Second unit inserts were filmed on Friday 6 March 1992 on Paramount Stage 8 and 16.
+On Friday 24 January 1992 Make-A-Wish Foundation child Karo Coy-Smith visited the sets at 11:00 am and on Monday 27 January 1992 the ice hockey team the New York Rangers had a set visit between 11:30 am and 12:15 pm although main filming took place on location. (Call sheets)
+The Academy flag seen in the exterior matte paintings flies at half-staff, a touch added by Dan Curry. (Star Trek: The Next Generation Companion, 2nd ed., p. 197) This episode also featured one of the last oil painted matte painting by Curry himself. ("Memorable Mission Year Five" ("Hero Worship"), TNG Season 5 DVD special feature)
+
+
+=== Cast and characters ===
+Robert Duncan McNeill later played Tom Paris on Star Trek: Voyager and the Star Trek: Lower Decks Season 2 episode "We'll Always Have Tom Paris", before returning to his original role in the final two episodes of Lower Decks Season 4, "The Inner Fight" and "Old Friends, New Planets". See also: Nicholas Locarno for more information on the connection between the two characters.
+Shannon Fill reprised her role as Sito Jaxa in the seventh season episode "Lower Decks", as well as LD: "Old Friends, New Planets", in a flashback taking place just prior to the events of this episode.
+This is the first time we actually see Boothby, played by Ray Walston. He replies in response to Picard's comment "I thought you were a mean-spirited, vicious, old man.", "I was, and by the way, I was about the same age that you are now", which makes Boothby around 104 years old in this episode. He reprised the role in two episodes of Star Trek: Voyager, "In the Flesh" and "The Fight" (although on both these occasions it is not the real Boothby, but a member of Species 8472 disguised as him and a hologram/hallucination respectively).
+Walston was best known for his role as the titular character in My Favorite Martian. According to the Star Trek: The Next Generation Companion, 2nd ed., p. 197), "throughout his days of shooting, the cast and crew approached him with the old character's schtick of head antenna and finger-wiggling 'levitation'."
+The producers hoped for Ashley Judd to reprise her role as Ensign Robin Lefler for this episode. The Star Trek: The Next Generation Companion, 2nd ed., p. 181 notes that this "didn't work out".
+
+
+=== Continuity ===
+Although mentioned since Star Trek: The Original Series, this is the first appearance of Starfleet Academy.
+Ronald D. Moore also wrote the Star Trek: Deep Space Nine episode "Valiant" that focused on another group of Starfleet cadets, Red Squad.
+Picard references his meeting with Wesley sitting in his chair in "Encounter at Farpoint" and making him an acting ensign later in "Where No One Has Gone Before".
+The Ligonians from "Code of Honor" are mentioned for the last time.
+The events depicted in this episode eventually led to those of two seventh season episodes: "Lower Decks" and "Journey's End".
+The uniforms worn by the cadet crew resemble the "DS9/VOY-style" uniforms though without the purple-gray undershirt.
+
+
+=== Sets and props ===
+Wesley has a model of the USS Enterprise in his quarters. This is actually a pewter and gold replica of the ship that the Franklin Mint issued in the late 1980s.
+Wesley's quarters at the Academy have a hinged door with a mechanical doorknob or doorbell, rather than the automatic sliding doors seen in most Starfleet facilities.
+
+
+=== Reception ===
+Entertainment Weekly ranked this episode #9 on their list of "The Top 10 Episodes" to celebrate the 20th anniversary of Star Trek: The Next Generation. [3]
+The writing staff was pleased with the added depth this episode gave to the character of Wesley.
+Jeri Taylor remarked, "I felt this episode humanized Wesley in a way that he never has been and maybe now would allow fans to actually like him. He wore this awful mantle of the genius child who always saved the ship and in that sense seemed remote from a real person. He was the perfect Wesley, and that was hard with people to identify with. He made a mistake, a bad mistake, he's flawed. People are and I think in enriching him as a character, it gives him texture, maturity. It gives him something he now has to work through. That makes you a finer person in the end instead of just being a plastic perfect teenager." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 242)
+Ron Moore agreed, noting, "We took that character in a really interesting direction and I think it helps him grow as a character a lot and makes him more accessible and Human. I'm just really happy with what the episode became. It's probably my favorite episode of the year. It had a lot of meaty stuff; the Picard/Wesley scene is powerful. When he looks up from behind the desk and gets up, you think he's going to slug him. Picard just had a real heartfelt anger in his face." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 242)
+Director Paul Lynch credited the performance of Wil Wheaton, noting "It's nice to see because he was a good young kid actor when we first started Next Generation, and now he's matured into a good first-rate actor. It's nice to see the difference over the years." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 243)
+Rick Berman opined, "I think the direction by Paul Lynch was excellent and the casting was great. Getting Ray Walston to play Boothby was fortuitous and the casting of the three other Starfleet kids was successful. It was not a typical episode, it was not science fiction in nature, it was earthbound and it was a very dramatic character piece and courtroom drama. As filmmaking and one hour dramatic television, I thought it was riveting. It was a terrific episode and by dealing with some of the hi-tech abilities to detect what they were doing, we got elements of science-fiction in there as well." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 243)
+Michael Piller noted that "the Air Force is showing this episode today to say "Look! That's what it's all about."" ("Departmental Briefing Year Five" ("The First Duty"), TNG Season 5 DVD special feature) The episode was aired to cadets as part of an introduction to the honor code. (Star Trek: The Next Generation - The Continuing Mission, p. 159)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 21, pp. 10-12.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 60, 15 February 1993
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.7, 2 December 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Ray Walston as Boothby
+Robert Duncan McNeill as Nicholas Locarno
+Ed Lauter as Albert
+Richard Fancy as Satelk
+
+
+=== Special guest star ===
+Jacqueline Brookes as "Admiral Brand"
+
+
+=== And guest starring ===
+Wil Wheaton as "Wesley Crusher"
+
+
+=== Co-stars ===
+Walker Brandt as Hajar
+Shannon Fill as Sito
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Louise Bale as Peliar Zel Starfleet cadet
+Belscher as Starfleet cadet
+Brian Bennett as Starfleet cadet
+Cigi Britton as
+Human Starfleet cadet
+Peliar Zel Starfleet cadet
+R. Bruce as parent
+Debbie David as Russell
+Tracee Lee Cocco as Jae
+Cohen as Starfleet cadet
+Dixon as Starfleet cadet
+M. Dysart as Starfleet Academy teacher
+Hal Donahue as Starfleet Academy teacher
+J. Elliot as parent
+Star Halm as Starfleet Academy teacher
+K. Holland as Starfleet cadet
+Hwang as Starfleet cadet
+L. Jeffreys as Starfleet Academy teacher
+Kamilyn Kaneko as Starfleet cadet
+Jacquelyn Masche as parent
+R. McDowell as Starfleet cadet
+Mitchell as Starfleet cadet
+Michael Moorehead as sciences ensign
+Raber as Starfleet cadet
+Richard Rothenberg as Starfleet cadet
+J. Stanfill as Starfleet cadet
+John Tampoya as operations ensign
+R. Torre as parent
+D. Turner as Starfleet cadet
+A. Valdez as Vulcan Starfleet cadet
+V. Valles as Starfleet Academy teacher
+Dena Weyman as parent
+Christina Wegler Miles as command ensign
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton
+Patty Davis – stand-in for Jacqueline Brookes
+Melba Gonzalez – stand-in for Marina Sirtis
+Eben Ham – stand-in for Ed Lauter
+Jackie – stand-in for Walker Brandt
+Ron Large – photo double for Patrick Stewart
+Tim McCormack – stand-in for Brent Spiner, Wil Wheaton, Ray Walston, and Richard Fancy
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes, Robert Duncan McNeill, and Richard Rothenberg
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – stand-in for Wil Wheaton
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+2260s; 2324; 2327; 2368; 47 references; academic credit; Academy Flight Range; Academy Range Officer; Academy trainer craft; acceleration; acting ensign; Albert, Joshua; Albert's tutor; Albert's mother; allergy; apogee; Apollo spacecraft; Bajoran; best friend; Betazoid; bicaridine; board of inquiry; cadet; caduceus; calculus; Calgary; campus; career; Championship Finals; Class of '27; coach; cockpit; command level officer; commencement address; Constitution-class; conviction; coolant interlock; coolant tank; cover-up; cranky; Crusher family; data recorder; degree; deposition; diamond slot formation; dinner party; Earth; emergency transporter; emergency evac station; engine coolant; expulsion; flag of the Federation; flight helmet; flight plan; flight recorder; flight team; formal reprimand; fracture; Golden Gate Bridge; groundskeeper; graduation ceremony; herbicide; holodeck; Immelmann turn; infirmary; Kolvoord Starburst; kph; landing strut; leader; lie; Ligonian; Ligonian wrestler; maintenance bay; mathematics; memorial service; meter; metorapan; Midsummer Night's Dream, A; Mimas; Minsk; navigational control satellite (NavCon satellite); Nova Squadron; orbit; Parrises squares; Pelian; personnel file; Picard's Academy superintendent; plasma; plasma exhaust; power flow; pittosporum; proximity alarm; range officer; reconstructive analysis lab; regeneration series; Rigel Cup; Riker's Academy superintendent;  running; rybotherapy; San Francisco; Saturn (moons); Saturn NavCon file 6-379; second-degree burn; sensors; sensor range; skiing; rot; squadron; starboard; starburst victims; Starfleet; Starfleet Academy; Starfleet Academy Database; Starfleet Academy personnel; statistical mechanics; superintendent; surrogate father; sweater; team navigator; time index; Titan; truth; Unnamed Academy trainer craft; Vulcan; west garden; wrestling; Yeager loop
+
+
+=== External links ===
+"The First Duty" at Memory Beta, the wiki for licensed Star Trek works
+"The First Duty" at Wikipedia
+"The First Duty" at MissionLogPodcast.com
+"The First Duty" script at Star Trek Minutiae
+"The First Duty" at the Internet Movie Database

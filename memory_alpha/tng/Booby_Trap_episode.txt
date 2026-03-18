@@ -1,0 +1,259 @@
+While investigating a 1,000-year-old alien derelict, the Enterprise gets caught in the same energy trap which doomed that vessel a millennium ago.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Geordi La Forge enjoys a holodeck date with Christy Henshaw, but he gets rejected by her just after he calls up a holographic gypsy violin player to play Johannes Brahms - Hungarian Dance No. 5. Christy tells La Forge that, while she thinks he is a great person, she doesn't like him in that way. La Forge, dejected, yells at the violin player to knock it off. Meanwhile, Data and Wesley Crusher play three-dimensional chess in Ten Forward and remark on the asteroid remains at Orelious IX, visible from the lounge's large viewports. They discuss that neither side expected this site to be the final battle in their conflict; the destruction is impressive considering the primitive weapons used in the time period. Wesley sees La Forge enter Ten Forward and he realizes that his date didn't go so well since it ended earlier than expected. Just then, Commander Riker calls Data to the bridge.
+The USS Enterprise-D picks up a distress signal from the asteroid field and sets a course to approach. Captain Picard believes it to be an ancient interplanetary code, which Data confirms it is. Riker dismisses it as it is not possible there are survivors after all this time. When they arrive, they discover a ship in the field, which Lieutenant Worf immediately identifies it as a Promellian battle cruiser with a hint of delight. An awestruck Picard identifies the ship's fusion engines are still intact. Data says there are no life signs aboard the ship and the captain says there shouldn't be: it's a ship which belongs in a museum. He explains that they are 'a little late' and that the signal for help from the cruiser was probably sent over a thousand years ago.
+
+
+=== Act One ===
+
+Picard and Riker argue about the risks of the captain leading the away team to the ancient cruiser, an idea Riker is clearly not thrilled with, in a corridor as they head for a transporter room. Riker proposes that he and Worf conduct a security sweep first, but citing 'captain's prerogative', Picard wants to be among those doing the initial exploration of the ship. They've already gone over every conceivable risk, but Riker contends that the risks of being in a ship "that old and fragile" are inconceivable. However, Picard likens the ship in space to a ship in a bottle, explaining at Riker's uncomprehending look that he used to build model airships and starships inside bottles as a child. He probably had a Promellian battle cruiser in his collection as well and now has his chance to "climb inside the bottle" and explore the ship within.
+In the transporter room, Chief O'Brien has the coordinates laid in for the battle cruiser's main bridge. Data assures Riker that there is an adequate amount of oxygen aboard the cruiser, and Picard tells his first officer that the ship is exactly as the Promellians left it, in the bottle. This elicits confused stares from Worf and Data, prompting the disappointed Picard to ask if any of the others built ships in bottles as boys. "I did not play with toys," Worf says. "I was never a boy," Data remarks. "I did, sir," Chief O'Brien pipes up. Picard thanks the chief and has him beam the away team over. Riker gives O'Brien a look after his comment, but O'Brien confirms that he truly did play with ships in bottles, and they were great fun. Suddenly, the Enterprise experiences a power loss. O'Brien surmises that the transporter's secondary power bus may need adjusting. Riker tells O'Brien to keep him informed.
+Picard, Data, and Worf explore the ship's dark, dingy bridge and discover that the crew of the cruiser died at their posts, to Worf's admiration, and their bodies have been preserved. Picard comments that he would expect a bridge layout of the era to be clumsy and awkward, but the cruiser is anything but: it is a model of simplicity. Elegant and functional, it worked and was clearly designed to be used for generations.
+La Forge sits in Ten Forward at the bar and asks Guinan for romantic advice. La Forge frustratedly tells Guinan that he can perform complicated engineering procedures such as field stripping a fusion reactor or realigning a power transfer tunnel, but he cannot make things work with a woman like Christy. La Forge asks what Guinan looks for in a man, and she says, "his head." La Forge mistakes this for one's mind, but she really means someone's head. She tells La Forge that she was once taken care of by a bald man when she was hurting and therefore looks for that. La Forge says that's what he wants too, to take care of someone.
+On the bridge, Wesley reports that the main power returner is acting strangely, giving fluctuating waveguide readings, and Riker has him run a maintenance sweep. The away team, meanwhile, repowers the cruiser's bridge with the power pack they brought, and Worf takes tricorder images of the tactical display. Pinpointing the station that the distress signal was activated from, they turn it off. Nearby, Data finds a memory coil seated in its recording device. While he comments that it's crude in comparison to isolinear optical chips, Picard points out that the cruiser was built when Humans were perfecting the mechanical clock and using steel crossbows in battle. Data reseats and plays it, using his tricorder to compensate for the age of its components to amplify the image. Galek Sar, the Captain of the Cleponji, takes full responsibility for what happened to his ship and its crew and says that the crew behaved courageously. The recording ends, and as they've seen what there is to see, the away team returns.
+
+Picard is on a high after the thrilling historical exploration, which Riker and Counselor Deanna Troi note with smiles. After ordering Data to contact the Astral V Annex so the Cleponji can be scheduled to be retrieved for posterity, the Enterprise tries to leave, but a Menthar booby trap begins to drain the power reserves of the Enterprise, which is unable to move, and creates a deadly radiation that bombards the Enterprise's shields. The ship's power gradually increases while Ensign Crusher tries to reverse course and leave at warp, with the ship still stuck. Picard upgrades their status from yellow alert to red alert. La Forge says that everything is running as it should, but he suggests that they slow down the engines as to not burn out the reaction chamber, and they're taken down to idle. Picard wonders if they've been caught in the same situation that killed the Cleponji's crew.
+
+
+=== Act Two ===
+The Enterprise has three hours until energy reserves run out. In the observation lounge, Worf says the radiation strength is inhibiting the sensors, so they can't find the source. La Forge does not yet have an explanation for the energy loss. While there are many records of Menthar battle strategy, Data doesn't know of any mentioning their situation. Riker suggests leading another away team to the ship to check their records; the Promellians knew the Menthars and may have known the cause. As Worf states that the impact of dropping the shields long enough for a transport would be negligible, Picard assigns Data to go with Riker and leaves La Forge to research their energy conservation.
+
+Afterwards, Dr. Crusher recommends cutting life support to non-operational areas and grouping the families and crew to the odd number decks. She also wants to set up an assembly area to treat radiation symptoms, but the crew will only be treatable for 30 minutes after the shields fall; beyond that, the exposure will be lethal. Data and Riker find more memory coils on the cruiser in an open locker and bring them back to the Enterprise for analysis.
+La Forge then checks with the computer on how to get out of the rut they've gotten themselves into. He finds Dr. Leah Brahms, the engineer who designed and built the warp engines of the Enterprise, in the database and recreates the conditions in which he can work with her in order to find more energy for the ship. He tries to come up with a solution using the help of a holodeck recreation of Drafting Room 5 at the Utopia Planitia Fleet Yards and accidentally ends up having the computer recreate a holodeck image of Dr. Brahms as well.
+
+
+=== Act Three ===
+
+Dr. Brahms continues with her analysis, triggering an idea by La Forge. He happily reports a solution to the captain to get more energy to maintain the shields. Continuing on, La Forge pauses to search for Dr. Brahms' personality profile from the collective databases and has the computer add that personality to the recreated facsimile. The result is a tough-as-nails, highly intelligent but argumentative personality which La Forge finds progressively more attractive; she "comes to life" when he asks her to show him which chambers to use for supplementing energy to the life support and ship's systems.
+On the bridge at Science I, Data tries to use the information gathered from the memory coils to come up with a way to combat the problem. They discover that the asteroids have been booby-trapped with aceton assimilators, and that it is impossible to destroy the asteroids while they absorb the energy of the fired phasers.
+
+Commander La Forge and Dr. Brahms, now on a first-name basis, argue on how to make sure they can maintain the ship's life support and not lose additional power. Picard summons La Forge, who is so caught up with his discussion with Brahms that he says to her, "Don't go away," before coming to his senses and has the computer save the program and exits the holodeck.
+Riker wants to fire on the asteroids, but La Forge says that the shields might not hold. Picard sends La Forge back to engineering and has Worf fire phasers at the asteroids anyway. As soon as that happens, the radiation increases, the energy reserves are being lost, and the programs running unnecessary energy are terminated, including the holodeck program La Forge is running, just as he is about to make progress with how to run the ship out of the trap.
+
+
+=== Act Four ===
+Picard and the rest of the senior officers discuss in the observation lounge how they can get out of the trap and how long they have until fatal exposure, which Dr. Crusher estimates to be about 26 minutes from the time the shields fail. La Forge has Picard reinstate the holodeck power so he can run simulations in order to find the solution. He gives him one hour to run the program.
+
+An hour later, Picard comes to the holodeck and finds Brahms and La Forge, to which he is confused. La Forge explains that in order to understand the ship's power, he needed to understand what the ship was made for when it was built. Picard asks for a solution and La Forge states that full control would need to be turned over to the ship's computer since the key to get moving lies in exploiting the very small delay between action and the booby trap's reaction. Human beings, and even androids such as Data, would not be quick enough to outrun the trapped asteroid field.
+Picard discusses with Riker in his ready room the suggestion that La Forge has given. Riker doesn't believe it's a good idea because computers can take orders, but he is convinced that they can't creatively give them. Picard comments that Riker missed out on not playing with model ships: each one was a source of imaginary voyages as the model's captain or pilot, and treasures of adventure. Riker can't help but smile as Picard ponders on manning Earth's earliest spacecraft, or flying an airplane with just a single propeller to keep it airborne, "can you imagine that?" Now though the machines are flying them, Picard notes.
+La Forge continues to run simulations of the computer through Brahms taking control through the mine field of radiation. He gets at least one successful run, but with the exact starting criteria also gets a failure. At that moment, the deflector shields fail, starting a 26-minute countdown until fatal exposure.
+
+
+=== Act Five ===
+
+Brahms still says that they must give control over to the ship and La Forge pleads for two more minutes with the captain to figure out a solution. When Picard signs off, La Forge then realizes that there is another way: approach the problem from the complete opposite direction and starts running new simulations.
+It turns out the Human brain will provide a solution. La Forge explains on the bridge that all of their solutions have been focused on overpowering the trap, which is exactly what the trap's designers have intended. So instead, La Forge proposes that they under-power the trap; one burst from the impulse engines to accelerate the ship out of inertia, then they shut down all the ship's systems, including the main computer, except minimal life support and two thrusters to maneuver out of the asteroid field. Riker remarks that Picard's earlier analogy of a plane with only one propeller has become all too apt. Picard wants to know the risk factor; La Forge states that while the numbers say that either solution has an equal chance of success or failure, the computer has no compensation for the Human factor: intuition, experience... "and the wish to stay alive," Picard quips.
+La Forge offers to take the conn since he's been the one running through the simulations, but the captain declines, stating this is his responsibility. In order to eliminate the time-differential between order and action, Captain Picard relieves Wesley of the helm to maneuver the ship himself, while Riker warns the crew to brace themselves for the impulse burst, as the inertial dampers are on manual. Riker also disables the radiation exposure warning from the computer as it will only be a distraction.
+
+Picard and Data work together, with information provided to Picard as necessary from the bridge crew and begin to steer the Enterprise clear of the field. However, after getting around a large asteroid, Data finds that the variable gravity from the asteroids has sapped the Enterprise's inertia by 8%; he calculates that they no longer have the momentum to escape the trap. Picard, unflappable, thanks him and plots a new course to take the Enterprise directly towards a large asteroid - the gravitational pull increases the ship's momentum, allowing Picard, at the right moment, to fire the starboard-aft thruster and slingshot the Enterprise around the mass and move the ship clear of the field, much to Data's amazement. Picard returns the conn to Wesley, and then orders Riker to make sure that booby trap does not bother anyone again. Riker in turn orders Worf to destroy the Cleponji and the aceton assimilators with photon torpedoes to prevent it from luring any more victims.
+Back in the holodeck, La Forge says to Leah that he thinks technology improves people's lives, including his, and even his eyesight, lets species travel through the galaxy but sometimes, technology needs to be turned off. As he says his goodbyes to Leah, she reminds him that the ship is her and that she would never be far from him.
+They kiss, and La Forge ends the holodeck program.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+Captain's log, Cleponji
+
+
+== Memorable quotes ==
+"Uh oh..."
+"I beg your pardon, Wesley."
+"Geordi had that big date with Christy tonight. He spent days putting together the perfect program. Looked like it ended kind of early."
+(brief glance at La Forge's depressed mood)
+"Uh oh..."
+
+- Wesley and Data, assessing La Forge's date
+
+"Tell me something, Guinan. You're a woman, right?"
+"Yes, I can tell you I'm a woman."
+
+- La Forge and Guinan
+
+"That ship belongs in a museum. I'm afraid we're a little late; that call for help was probably initiated over a thousand years ago."
+
+- Picard, upon viewing the Cleponji
+
+"Oh, knock it off!"
+
+- Geordi La Forge, to the holographic violin player at his date with Christy Henshaw
+
+"It is exactly as they left it, Number One, in the bottle."
+(confused looks from Data and Worf)
+"The ship in the bot- Oh, good Lord. Didn't anybody here build ships in bottles when they were boys?!"
+"I did not play with toys."
+"I was never a boy."
+(Picard sighs)
+"I did, sir."
+"(brief pause) Thank you, Mister O'Brien. Proceed."
+(Riker gives O'Brien "the look" after the transport.)
+"I did. I really did. Ships in bottles, great fun."
+
+- Picard, Worf, Data, and O'Brien
+
+"Admirable. They died at their posts."
+
+- Worf, seeing the long dead crew of the Cleponji
+
+"There were ghosts on board that old ship. One of them actually spoke to us."
+"A friendly one, I hope."
+
+- Picard, after listening to Galek Sar's message and Riker
+
+"I'm attracted to bald men."
+
+- Guinan
+
+"Is it possible... that we've fallen into the same snare that killed them? A thousand-year-old booby-trap?"
+
+- Picard
+
+"I'm not used to people questioning my judgment."
+"And I'm not used to dying!"
+
+- Leah Brahms and La Forge
+
+"If we resist, we die. If we don't resist, we die."
+
+- Riker
+
+"You have used the asteroid's gravitational pull as a slingshot. Excellent!"
+
+- Data to Picard
+
+"I'm with you every day, Geordi. Every time you look at this engine, you're looking at me. Every time you touch it, it's me."
+
+- Leah Brahms (holographic)
+
+
+== Background information ==
+
+
+=== Production history ===
+Revised final draft script: 31 August 1989 [1]
+Premiere airdate: 30 October 1989
+Mentioned approvingly in a one-page memo from Michael Piller to TNG writing staff: 11 December 1989
+First UK airdate: 20 November 1991
+
+
+=== Story and production ===
+Initially, Picard was to have been involved with the simulated Leah Brahms. Michael Piller recalled, "It just said to me, 'Picard should be on the bridge, not chatting with some woman.' I said to myself, 'It should be Geordi, because Geordi is in love with the ship and this is a story about a guy in love with his '57 Chevy.' That played into Geordi's character, who's always been a fumbling guy around women, but if he could just marry his car, he'd live happily ever after. He gets to create the personification of the woman who created the engine he loves. It's sort of a relationship between he and his Pontiac." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 188)
+In an early draft of the episode, Brahms was named "Navid Daystrom" and was intended to be a descendant of Doctor Richard Daystrom from TOS: "The Ultimate Computer". Unfortunately, the casting department did not realize that this would require a Black actress to play the part until after Susan Gibney had been hired. At the suggestion of script coordinator Eric Stillwell, the character was renamed, but the Daystrom tie-in was kept by adding a line that she had graduated from the Daystrom Institute. (Star Trek Encyclopedia, 1st ed., p. 35)
+Originally, the holodeck set was to have been a mockup of a warp engine, but time constraints forced the more limited set shown. (Star Trek: The Next Generation Companion, 2nd ed., p. 106)
+The piece of music performed in La Forge's holodeck program is Johannes Brahms' Hungarian Dance No. 5. Though the subtitles on Netflix erroneously say it's Franz Liszt's Hungarian Rhapsody.
+This episode marked the first appearance of the final version of the Starfleet uniforms used in the series. The seams running down the sides of the chest were removed, the shoulder pads were made smaller, and an elastic waistband was added to the bottom of the uniform top. Only Captain Picard is wearing the updated uniform in this episode.
+A blooper exists from this episode. When the away team prepares to leave the Enterprise and Picard is asking if anyone ever built model ships when they were boys, Michael Dorn, as Worf, accidentally says, "I did not play with boys," to the immediate hilarity of everyone on the set. [2]
+This was the first episode directed by Gabrielle Beaumont and the first Star Trek episode directed by a woman.
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+In this episode, Guinan tells Geordi La Forge that she's always been attracted to bald men, because a bald man was once very kind to her. In "Time's Arrow, Part II", Captain Picard (on an away mission to the past), meets Guinan and takes care of her when she gets hurt.
+Some of the graphics seen in Drafting Room 5 include a topographic map of Mintaka III from "Who Watches The Watchers" and a graphic from Doctor Paul Manheim's lab on Vandor IV in "We'll Always Have Paris".
+Dr. Brahms visits the Enterprise in person, in the fourth season episode "Galaxy's Child", where La Forge quickly learns that her real-life personality is far more reserved than her holodeck-based avatar.
+In the series finale of TNG, "All Good Things...", Picard makes reference to O'Brien's hobby of building model starship engines (though "Booby Trap" refers to "ships in bottles", not "model starship engines" per se). Without revealing he was from the future, Picard says he read the notation in O'Brien's Starfleet file.
+Also, in "All Good Things...", Picard asks Geordi, "How's Leah?" To which Geordi replies, "Busy as ever. She's just been made Director of the Daystrom Institute" which could indicate that, at least in another timeline, Geordi and the real Dr. Brahms marry.
+Drafting Room 5 features models of a Constitution-class, a refit Constitution II-class and a Galaxy-class starships. A D7-class starship is also featured.
+This episode is the second of only three occasions Picard is at the helm of the Enterprise during the series. The other times were in "11001001" and "Conundrum".
+According to the later episode "New Ground", Alexander Rozhenko (Worf's son) gives his birthdate as "Stardate 43205", which is around the time that this episode takes place.
+
+
+=== Reception ===
+Peter Allan Fields commented, "To do a character story and blend it with science-fiction is that pinnacle we reach for and the one that comes to mind which I thought was marvelous was 'Booby Trap'. You couldn't have seen it on Thirtysomething. As science-fiction it worked and it was full of character, full of Humanity and full of life." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 188)
+Michael Piller commented about writing the character of O'Brien a small part in this episode, "It worked out great." (Star Trek: Deep Space Nine Companion, p. 15)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 11, pp. 24-29.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 27, 21 October 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.2, 3 April 2000
+As part of the TNG Season 3 DVD collection
+As part of the TNG Season 3 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest stars ===
+Susan Gibney as Leah Brahms
+Colm Meaney as Miles O'Brien
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-stars ===
+Albert Hall as Galek Sar
+Julie Warner as Christy
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as USS Enterprise-D computer voice
+Karin Baxter as operations division ensign
+James G. Becker as Youngblood
+Casey Kono as civilian
+Guy Vardaman as Darien Wallace
+Natalie Wood as Bailey
+Unknown performers as
+Bridge science crew member
+Conn ensign
+Female ops ensign
+Holographic beach musician
+Two civilian women in Ten Forward
+Two Ten Forward waiters
+
+
+=== Stand-ins ===
+James G. Becker - stand-in for Jonathan Frakes
+Dexter Clay - stand-in for Michael Dorn
+Jeffrey Deacon - stand-in for Patrick Stewart
+Nora Leonhardt - stand-in for Marina Sirtis
+Tim McCormack - stand-in for Brent Spiner
+Lorine Mendell - stand-in for Gates McFadden
+Guy Vardaman - stand-in for Wil Wheaton/ hand double for Patrick Stewart
+
+
+=== References ===
+14th century; ability; acceleration; aceton assimilators; adventure; aft thruster; airship; airplane; "all hands"; "all smiles"; analysis; answer; area; assembly area; asteroid; Astral V Annex; author; away team; baldness; "barrel out of"; battle; battle cruiser; beach; blanket; Bonaparte, Napoléon; booby trap; bottle; breeze; calculation; captain's log; captain's prerogative; caucus; century; chance; Chaya VII; chief engineer; circuit path; Cleponji; Cleponji crew; climbing; clue; Coco-no-no; computer; conflict; Constitution-class; Constitution II-class; coordinates; course; cross section; crossbow; D7-class; data; date; day; Daystrom Institute; death; debris; debris field; deck; design specification; Design Team 7; designer; destruction; device; dignitary; dilithium crystal; dilithium crystal chamber; discussion; distress signal; Drafting Room 5; Earth; "eat (something) for breakfast"; enemy; energy; energy conservation; energy reserve; engineer; engineering; era; evacuation; "even money"; experience; explanation; exposure; facet; facsimile; family; fate; Federation; Ferengi; Ferengi cargo ship; file; fungilli; fusion reactor; Galaxy-class; Galaxy Class Starship Development Project; generation; ghost; graduate; gravity; gypsy; hand; head; heading; heading: history book; holodeck three; holographic program; holographic simulation; hour; Human; Hungarian Dances; hyronalin; image; image processor; impact; impulse engine; impulse power; inertia; inertial damper; information; information storage device; input; "inside and out"; "inside story"; interplanetary code; intermix ratio; intuition; isolinear optical chip; Italian food; job; judgment; junior member; Kavis Teke elusive maneuver; kiss; "knock it off"; lab; Lang Cycle fusion engines; life sign; life support; light year; "like a bat out of hell": locker; machine; magnetic plasma; main bridge; main power returner; main viewer; maintenance sweep; margin of error; Mars Station; Mars; mass; matter-antimatter mixture ratio; matter-antimatter path; matter-antimatter energy supply; mechanical clock; memory coil; Menthars; menu; message; meters per second; microsecond; Milky Way Galaxy; mind; minute; mister; model ship; momentum; Moonlight on the Beach; museum; mutual extinction; "my God"; navigation processor; number; Number one; object; online; optimist; order; Orelious IX; outpost; output; override; oxygen; Passive Lure stratagem; percent; personal log; personality; personality profile; personal log; phaser; photon torpedo; playback unit; port; power; power level; power loss; power output; power pack; power transfer tunnel; problem; Promellians; Promellian battle cruiser; propeller; propulsion; propulsion design model; propulsion expert; prototype schematic; radiation; radiation field; radiation level; radiation poisoning; reactant; reactants per unit time; reaction chamber; reaction sequence; readout; record; red alert; relic; repairs; research; response time; reverse course; risk factor; ruins; second; secondary power bus; security; security sweep; sensor; Seran T-1; shield; ship in a bottle; signal; sky; space; spacecraft; speed; standard procedure; starbase; starboard; static model; steel; subspace; subspace design log; subspace field; subspace field processor; suggestion; survivor; symptom; system L-452; System L-575; tactical display; technology; Theoretical Propulsion Group; Theoretical Propulsion log; thousand; three-dimensional chess; thruster; time period; toy; treasure; tricorder; tritium; "up and running"; Utopia Planitia Fleet Yards; variable; vector processor; velocity; violin; vision; visual record; warp drive; warp drive coil; warp energy; warp engine; warp field generator; warp power; waveguide; weapon; "whoa"; wreckage; "wrote the book on"; yellow alert
+
+
+==== Other References ====
+Engineering Systems Database: antimatter; antimatter containment pod; antimatter injector; antimatter purge vent; artificial gravity; Bryce, P.; Bussard collector; Construction Logs - Field Stress Compensators; cryogenic fluid; deuterium; Emergency Field Quench Procedures; Emergency Plasma Vent Procedures; engineering manual author; Engineering Systems Database; field coil; Field Maintenance Power Requirements; field stress compensator; flow sensor; Gravimetric Power Limits (Theoretical); high energy plasma; magnetic containment field; Operating Protocol - Flow Sensors; Operating Protocol - Primary Field Coils; Operating Protocol - Secondary Field Coils; Operating Protocol - Subspace Field Generators; Operating Protocol - Subspace Harmonic Monitors; Plan Transitional Field Stress Factors; plasma; plasma injector; plasma injection throttle subsystem; Probert, A.; Scott, M.; Secondary Harmonic Safety Requirements; Subspace Design Logs - Theoretical Propulsion; subspace field generator; subspace harmonic; subspace harmonic monitor; subspace warp field; Synthetic Grav Field Interaction Considerations; teratogenic coolant; Teratogenic Coolant Safety Protocol; tritium
+Biographical Data File - Dr. Leah Brahms: 2305; 2307; 2336; Alpha Centauri; Alpha Delphi IX; Bachelor of Science; Beaumont, Susan Brahms; Brahms, Theodore; Damascus City; Daystrom Institute of Technology; Design Consultant; Design Engineer; Design Team 7; dilithium crystal servo subsystem; Doctor of Theoretical Physics; Feynman Chair; Higher Order Warp Field Propulsion Applications; junior engineer; Latin language; Master of Cybernetics; Optical Technologies; Professor of Theoretical Physics; plasma resonance sampling device; Quayle Canals Northeast; research assistant; Scientific Tasmanian; September; Starfleet Design Consultant; Subspace Processing Modes in Warp Propulsion Applications; Subspace Physics; thesis; University of Alpha Centauri; University of Tomobiki; Utopia Planitia Gardens: Yamato, USS
+Other: asteroid field; antimatter injection subsystem; antimatter stream coil; deuterium injector; deuterium stream coil
+
+
+==== Unused production references ====
+positron duct; Smithsonian Air and Space Museum
+
+
+=== External links ===
+"Booby Trap" at Memory Beta, the wiki for licensed Star Trek works
+"Booby Trap" at Wikipedia
+"Booby Trap" at MissionLogPodcast.com
+"Booby Trap" script at Star Trek Minutiae
+"Booby Trap" at the Internet Movie Database

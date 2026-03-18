@@ -1,0 +1,288 @@
+After a Cardassian man arrives on the station suffering from an illness that he could only have contracted at a Bajoran labor camp during the Occupation, Major Kira leads an investigation to determine whether he is actually a notorious war criminal.
+
+
+== Summary ==
+
+
+=== Teaser ===
+It is a typical day in Ops as Major Kira and Lieutenant Dax exchange childhood stories. A Kobheerian freighter, the Rak-Miunis, arrives with a passenger who requires medical assistance for a condition known as Kalla-Nohra Syndrome. Doctor Bashir is unfamiliar with the disease, but Kira recognizes it immediately. The disease originated from a mining accident at the Gallitep labor camp, which Kira helped liberate during the Occupation, so she goes to greet the new arrival in the infirmary, believing him to be a Bajoran.
+When Kira reaches the infirmary, she finds Bashir's patient is not a Bajoran, but a Cardassian. She immediately calls for security.
+
+
+=== Act One ===
+The Cardassian man runs past Kira and onto the Promenade only to be stopped by Constable Odo and two deputies. Kira and Bashir follow shortly, and Bashir is obviously clueless. Kira informs Odo that the Cardassian is a war criminal and Odo escorts the man to the security office.
+In Odo's office, Kira admits to Commander Benjamin Sisko and Odo that the Bajoran Provisional Government has not listed the Cardassian, Aamin Marritza, for any war crimes. However, she is certain that there is no way to contract Kalla-Nohra Syndrome except for the mining accident at Gallitep. As she describes the horrifically brutal conditions at the camp, her voice cracks with emotion. Sisko decides to talk to Marritza alone.
+In the brig, when Sisko asks Marritza about his illness, Marritza claims he has Pottrik Syndrome, a similar condition to Kalla-Nohra, and that his medication is the same as that which is used to treat Kalla-Nohra Syndrome. Further, he denies ever being at a labor camp, as he is a file clerk who resides on Kora II. A Bajoran prisoner in another holding cell wakes as the Cardassian speaks and yells for Odo, refusing to be held in the same room as Marritza.
+Back in Sisko's office, Bashir confirms that a bio-probe proved Marritza's condition is Kalla-Nohra, not Pottrik Syndrome. His conversation with Sisko is interrupted as Kira contacts Sisko to inform him that he has an incoming transmission from the Bajoran Minister of State. Bashir exits and Sisko puts Minister Kaval on his desktop monitor's viewscreen. Kaval has contacted Sisko to congratulate and thank him for detaining Marritza. However, Sisko reminds Kaval that the Cardassian has done nothing wrong, and he therefore has no reason to detain the man much longer. The minister assertively assures Sisko that the man will pay if he was indeed at Gallitep and reminds Sisko that Deep Space 9 is a Bajoran station.
+
+
+=== Act Two ===
+Finding Kira sitting at a table in the Replimat, Sisko joins her to inform her that Odo, as Chief of Security, will take over the Marritza investigation. He acknowledges that Minister Kaval put Kira in charge, but he does not feel Kira can be entirely objective in the investigation. While Kira acknowledges that she is not objective, she promises as his first officer to handle the case fairly, as she owes it to the victims of Gallitep. Sisko reluctantly agrees and informs Odo of the change via his combadge.
+Odo is releasing an intoxicated Bajoran as Kira enters the security office. The man, Kainon, tells Odo he wants to know when the Cardassian will be hanged. Once Kainon is gone, Odo informs Kira that he has done a background check and confirmed what little they know about Marritza so far.
+As Kira enters the holding cell area, Marritza finishes a bowl of sem'hal stew, which he says could use some yamok sauce. Kira commences interrogating Marritza about his claim of having "missed [the] honor" of being at Gallitep, confronting him with the results of the bioscan that proved him to have been there. Promising to "make [his] lies more opaque," Marritza confesses to having served at the camp as a file clerk, without any connection to the atrocities that had taken place there under Gul Darhe'el – even as he minimizes them, turning Kira's interrogation into a debate over the deaths being the result of fights between the workers and industrial accidents (Marritza's story) and systematic abuse and brutality (Kira's).
+Marritza tells Kira that it was Gul Darhe'el himself who began circulating rumors of large-scale massacres at Gallitep, based on the logic that the rumors on their own would be just as effective as having actually killed millions of Bajorans in achieving the Cardassians' main goal: "To keep you Bajorans thinking of yourselves as victims. To keep you afraid... and helpless."
+Having revealed his relatively innocuous identity and the truth of his presence on Gallitep, he challenges Kira to release him, accusing her of being more interested in vengeance than justice.
+
+
+=== Act Three ===
+Having learned of the detention of Aamin Marritza as a Cardassian national, Gul Dukat hails Commander Sisko via subspace, demanding Marritza's release and noting that his detention breached a Federation promise to allow free and safe passage through the station and its jurisdiction. Sisko stalls for time, telling Dukat that while he would like nothing better than to release Marritza, there were still some inconsistencies in his story that needed to be cleared up. Dukat gives Sisko a thinly veiled warning about allowing Bajoran thirst for violence to create tension between the Federation and the Cardassians. He closes the channel with the warning that the Cardassians will hold Sisko responsible should "those Bajoran hatemongers get their hands on" Marritza.
+
+Meanwhile, Kira is on the Promenade, gazing out of the window. When Dax asks her what she's looking for, Kira replies, "Answers." She confides in Dax that even if Marritza is just a file clerk, she still wants to see him punished, and that in some way she wants him to be more than just a file clerk—to actually be something worse. As far as Kira is concerned, Marritza is guilty by virtue of simply having been on Gallitep, and his trial and punishment would bring some "satisfaction" or closure to the Bajorans. However, Dax believes that Kira is "trying too hard to believe" what she's saying and that she already knows that punishing Marritza without reason would not serve any purpose because Kira already knows that simple vengeance is not enough. Dax walks away to leave Kira to her thoughts.
+Having consulted the Bajoran Central Archives, Commander Sisko informs his senior staff that Marritza's claims are accurate: there was a filing clerk on Gallitep by the name of Aamin Marritza. A further claim, that Marritza had been teaching filing at a Cardassian military academy on Kora II, is also verified. The Archives has also sent the only known photograph of Marritza from his days at Gallitep, a very blurred image with him in the background on one side. Dax carries out an image enhancement routine, which cleans up the image enough to show that the man in the brig claiming to be Aamin Marritza and the man in the picture identified as Aamin Marritza are not the same man. Examining the images of the two other Cardassians in the shot standing in profile relative to the camera, Sisko has an idea: he asks Dax to enhance one of them. The imaging program extrapolates the profile into an impression of the full face, which does match the man in the holding cell. Dax checks the photo's legend, which presents the senior staff with the revelation that the man in the photo thus identified – and thus, the man in their custody – is in fact Gul Darhe'el.
+Kira immediately confronts Darhe'el with this knowledge. He accepts his fate, noting that the Bajorans "can only execute me once," and proceeds to taunt Kira with his "accomplishments." Rejecting the notion of a war crimes tribunal on the grounds that there had been no war – the Bajorans having surrendered so quickly – he claims that he did everything he did to wipe out "Bajoran scum" because it needed to be done, he disavows any guilt on the part of his soldiers for having carried out the atrocities in question, and he derides the efforts of the Bajoran resistance to liberate their homeworld, dismissing Kira's cell in particular as a mere annoyance. Kira coldly challenges him to include his revelations in his testimony to the tribunal, knowing full well that they will sentence him to death, and he replies:
+
+"Let them. Don't you see? It doesn't change anything! Kill me. Torture me... it doesn't matter. You've already lost, Major. You can never undo what I've accomplished. The dead will still be dead!"
+
+
+=== Act Four ===
+Shaken and angry, Kira is given a glass of Maraltian Seev-ale by Odo, who suggests that she go and lie down after the shock of the revelations she has just been forced to hear. She refuses to do so: that would be what Darhe'el would want, to send a Bajoran scurrying off to hide in a corner. She goes on to tell Odo what Darhe'el said about the Shakaar cell, leading Odo to counsel her to not reveal that kind of personal information – but Kira hadn't revealed her membership of Shakaar to Darhe'el during the interrogation.
+This sets Odo thinking: as important as Darhe'el was in the Cardassian occupational leadership, he wouldn't necessarily have known that Kira was a member of the Shakaar cell. Had he been in charge of putting down the resistance, then he probably would have known, but he was in charge of a labor camp. Realizing that something doesn't fit, Kira goes back to interrogate Darhe'el again, while Odo tells the computer to review all off-station requests for information about Major Kira within the previous eight months.
+Back in the holding area, Kira demands to know how Darhe'el knew of her membership in Shakaar. Darhe'el reminds her of his earlier remarks concerning Marritza's filing system and how efficient it was, claiming to remember her name from an action report, having previously forgotten about it until he was reminded of it on his arrival at the station. He then challenges Kira to answer some questions of his own – unless Kira is afraid to do so.
+Meanwhile, outside the security office, a group of Bajorans has gathered. Wearing the "dust-wraps" around their faces that prevented Bajoran laborers from being suffocated in the mines, they are survivors of Gallitep and Gul Darhe'el's brutality, holding a vigil.
+Passing them (and Quark) on the way, Odo goes to the infirmary to consult with Bashir: three months previously, there was a request for information on Major Kira from Kora II by Aamin Marritza. Odo asks Bashir to look into Marritza's medical records. At this point, Dax informs Odo from Ops that Gul Dukat is responding to his subspace hail and his request for access to the Cardassian government's files on Gul Darhe'el. After reminiscing for a moment, Dukat denies Odo access to the files but notes that they would only tell Odo what Dukat himself is telling him: Gul Darhe'el is dead, that he is buried underneath one of Cardassia's largest military monuments, and that Dukat himself attended his funeral.
+Odo tells Dukat that the man in his custody has admitted to being Darhe'el, shocking and enraging Dukat. He accuses Odo of a plot to discredit the Cardassians, and Odo suggests that access to Darhe'el's files would prove Dukat's case. Dukat relents and gives Odo limited access to the files.
+In the brig, the prisoner whom Kira still believes to be Darhe'el asks her how many Cardassians she killed. Kira claims not to have kept count, but the prisoner suggests that she did and that she also targeted Cardassian civilians on Bajor, noting that "one of the most effective terrorist weapons was random violence." Kira admits to regretting some of the things she did during the Occupation but insists that she had no choice: Bajor was fighting for its survival. The prisoner claims that the Cardassians were doing the same: they had an empire to manage and protect and had urgent need of Bajoran resources. He finishes on the note "What you call genocide, I called a day's work!" At this point, Odo arrives and asks to speak to Kira outside. He tells her that, based on the research he and Dr. Bashir have carried out, the man in the cell apparently wanted to be caught.
+
+
+=== Act Five ===
+In the commander's office, Kira, Odo, and Sisko assemble the evidence at hand. Odo shows Sisko a death certificate for Darhe'el included among the files that Dukat gave Odo access to, which lists him as having died six years previously from a massive coleibric hemorrhage. Kira denounces the certificate as a fake, a Cardassian ruse to trick station authorities into releasing him. Odo presents further evidence supplied by Dukat showing that, on the day of the accident at Gallitep when all known cases of Kalla-Nohra Syndrome were contracted, Darhe'el was back on Cardassia being awarded the Proficient Service Medallion, and thus never actually contracted the condition suffered by the man in the cell. Odo also notes that, during the prisoner's last two weeks on Kora II, he resigned his post at the military academy, put his affairs in order – even providing handsomely for his housekeeper – and booked passage on a ship specifically scheduled to stop at Deep Space 9, returning him to Bajoran jurisdiction – an unusual choice of travel plan for a Cardassian war criminal.
+Kira will only concede the interesting questions that the evidence raises but insists that the prisoner will stand trial on Bajor. Sisko points out that the decision has still to be made, and Kira challenges him to speak to the prisoner for himself. At this point Dr. Bashir enters with additional medical evidence: aside from his receiving treatment for Kalla-Nohra, the prisoner's medical history is consistent with his relatively advanced years, with one exception. Five years previously, he began taking large doses of a dermatiraelian plastiscine: a dermal regenerative agent used to maintain skin resilience after large-scale cosmetic surgery. Kira realizes that the man in the cell has been surgically altered to resemble Darhe'el.
+Kira returns to the brig to confront the prisoner. She asks how he is feeling and offers Dr. Bashir's assistance if he needs it. She asks the prisoner how he came to contract Kalla-Nohra Syndrome when his own progress reports showed him to be on Cardassia at the time receiving the Proficient Service Medallion. The prisoner denounces the reports as inaccurate, but Kira asks him why he is taking a dermal regenerative and even begins to fill out the gaps. Increasingly frantic in his Darhe'el role, he demands that Kira leave and yells for security to escort her out.
+When Kira demands to know why he's pretending to be Darhe'el, the prisoner begins detailing how he ordered his guards to slaughter the laborers on Gallitep while "the useless office clerks were busy packing their precious files," and this prompts Kira to ask why, if that was his opinion of them, he took Marritza's name. The prisoner continues to ignore Kira's questions, proceeding to rant and rave over Bajor and the Bajorans. As she listens to him, Kira's demeanor changes, and she tells him straight: he is Marritza.
+
+"That's not true! I'm alive! I will always be alive! It's Marritza who's dead! (laughing) Marritza, who was good for nothing but cowering under his bunk and weeping like a woman! Who would, every night, cover his ears because he couldn't bear to hear the screaming for mercy of the Bajorans! He would only..."
+With that, Aamin Marritza breaks down and sinks onto his bunk, weeping uncontrollably.
+
+"Covered my ears every night, but... I couldn't bear to hear those horrible screams. You have no idea what it's like to be a coward... To see these horrors... And do nothing. Marritza's dead. He deserves to be dead."
+Now sympathetic, Kira moves to release him: "You didn't commit those crimes, and you couldn't stop them; you were only one man." But Marritza begs her not to reveal his identity, insisting that he go to trial as Darhe'el so that he can be "punished" – that all of his people must be punished for what they did to the Bajorans. When she asks him why he's doing this, Marritza replies:
+
+"For Cardassia. Cardassia will only survive if it stands before Bajor and admits the truth. My trial will force Cardassia to admit its guilt... And we're guilty, all of us... My death is necessary."
+Kira, now emotional herself, replies, "What you're asking for is another murder... Enough good people have already died... I won't help kill another."
+
+A little later, Kira and Odo walk Marritza along the Promenade to a ship that will take him back home to Kora II. Marritza says there is nothing for him to go back to, but Kira promises that the authorities will help him get back on his feet. Marritza is bitter at Kira: as Gul Darhe'el, his trial might have helped bring about a new Cardassia; as a lowly filing clerk, he can do nothing. Kira reassures him by saying that if Cardassia is to change, it will need the help of men of honor like Marritza.
+Suddenly, Kainon reappears from out of the crowd and stabs Marritza in the back, wounding him fatally. Odo apprehends him before Marritza even hits the floor, and a distraught Kira demands of Kainon:
+
+"Why? He wasn't Darhe'el! WHY?" Kainon replies that, "He's a Cardassian. That's reason enough." Marritza is already dead as Kira replies, as much to herself as to anyone else, "No... It's not."
+
+
+== Memorable quotes ==
+"Kill me! Torture me! It doesn't matter! You've already lost, Major! You can never undo what I've accomplished. The dead will still be dead!"
+
+- Marritza/Darhe'el, taunting Kira
+
+"Commander, if you'd been there twelve years ago when we liberated that camp... if you'd seen the things I saw... all those Bajoran bodies, starved, brutalized. You know what Cardassian policy was? Oh, I'm not even talking about the murder; murder was just the end of the fun for them. First came the humiliation! Mothers raped in front of their children, husbands beaten until their wives couldn't recognize them, old people buried alive because they couldn't work anymore!"
+
+- Kira, to Sisko and Odo
+
+"If your lies are going to be this transparent, it's going to be a very short interrogation."
+"Well, in that case, I'll try to make my lies more opaque."
+
+- Kira and Marritza/Darhe'el
+
+"What was your rank at Gallitep, what were your duties?"
+"You don't want to know."
+"Just answer the question."
+"You'll be disappointed..."
+"I'll risk it."
+"I had the distinction of serving in the exalted position of filing clerk."
+"Filing clerk?" 
+"I told you you'd be disappointed. Actually, I would have preferred to avoid military service altogether, but I had the good fortune to be posted to the records office at Gallitep, and I turned out to be an exemplary file clerk. In fourteen units of service, I never misplaced or lost a record. I received numerous commendations. Gul Darhe'el himself called my computer filing system 'a masterpiece of meticulous exactitude.' Well, there you are. My secret's out, my crimes laid bare... I await execution."
+
+- Kira and Marritza/Darhe'el
+
+"You saw what we wanted you to see. Who do you think started the rumors about brutality at Gallitep? It was Gul Darhe'el himself. Now there was a leader. A brilliant, extraordinary man. He knew that to rule by fear was to rule completely. Why bother with actual mass murder, when the mere reports of such incidents achieved the same effect?"
+
+- Marritza/Darhe'el
+
+"This Bajoran obsession with alleged Cardassian improprieties during the occupation is really quite distasteful."
+"I suppose if you're Bajoran, so was the Occupation."
+
+- Dukat and Sisko
+
+"What did you do? Did you kill the real Marritza so you could take his place? Well, you'll pay for that death, and all the others you're responsible for."
+(chuckles) "Oh, I don't think I could pay for all of them, Major; there were so many. And you can only execute me once."
+
+- Kira and Marritza/Darhe'el
+
+"War crimes? How can there be any war crimes when there hasn't been a war? Oh, I can understand your wish that there had been a war. Your need to indulge in some pathetic fantasy about brave Bajoran soldiers marching to honorable defeat. But in fact, Major, you and I know there was no war. No glory. Bajor didn't resist. It surrendered."
+"The Bajorans were a peaceful people before you came; we offered no threat to you. We could never understand why you had to be so brutal."
+
+- Kira and Marritza/Darhe'el
+
+"What lies? You mean my failure to divulge my true identity? Believe me, Major, I yearned to tell you. But I knew how much more satisfaction you would have if you found out for yourself, and that was my only deception. Marritza was a magnificent file clerk. And I, Gul Darhe'el? I hope you'll not think it immodest of me to say so, but I was a magnificent leader. Oh, you never saw Gallitep at its height. For a labor camp, it was the very model of order and efficiency. And why? For that, you have to look to the top. To me! My word, my every glance, was law. And my verdict was always the same: Guilty."
+"You're insane!"
+"Oh, no, no, Major... you can't dismiss me that easily. I did what had to be done. My men understood that, and that's why they loved me. I would order them to go out and kill Bajoran scum, and they'd do it; they'd murder them! They'd come back covered in blood, but they felt clean! Now why did they feel that way, Major? Because they were clean!"
+
+- Marritza/Darhe'el and Kira
+
+"I do miss working with you, Odo. I miss our games of Kalevian Montar."
+"As I recall, Gul Dukat, we played one game, and you cheated."
+(laughs) "The same old Odo. Like a blunt instrument."
+
+- Dukat and Odo
+
+"Nothing justifies genocide!"
+"What you call genocide, I call a day's work."
+
+- Kira and Marritza/Darhe'el Listen file info
+
+"You're Marritza, aren't you?"
+"You mistake me for that bug? That whimpering nothing? Oh, you stupid Bajoran girl. Don't you know who I am? I'm your nemesis. I'm your nightmare. I'm the Butcher of Gallitep."
+"The Butcher of Gallitep died six years ago. You're Aamin Marritza, his filing clerk."
+"That's not true. I am alive. I will always be alive! It's Marritza who is dead. Marritza, who was good for nothing but cowering under his bunk and weeping like a woman. Who, every night, covered his ears because he couldn't bear to hear the screaming... for mercy... of the Bajorans..."
+
+-Kira and Marritza/Darhe'el
+
+"Covered my ears every night, but... I couldn't bear to hear those horrible screams. You have no idea what it's like to be a coward... To see these horrors... And do nothing. Marritza's dead. He deserves to be dead."
+
+- Marritza/Darhe'el, to Kira
+
+"What are you doing"
+"I'm letting you go."
+"Security? Get in here."
+"You didn't commit those crimes and you couldn't stop them; you were only one man."
+"No, don't you see? I have to be punished. We all have to be punished. Major, you have to go out and tell them I'm Gul Darhe'el. It's the only way."
+"Why are you doing this?"
+"For Cardassia. Cardassia will only survive if it stands before Bajor and admits the truth. My trial will force Cardassia to admit its guilt... And we're guilty, all of us... My death is necessary."
+"What you're asking for is another murder... Enough good people have already died... I won't help kill another."
+
+- Marritza/Darhe'el and Kira
+
+"Why? He wasn't Darhe'el! WHY?"
+"He's a Cardassian! That's reason enough."
+"No!... It's not."
+
+- Kira and Kainon, after Kainon kills Marritza
+
+
+== Background information ==
+
+
+=== Story and script ===
+
+A working title of this episode was "The Higher Law". (Star Trek: Deep Space Nine Companion - A Series Guide and Script Library)
+The original pitch for this episode, by Lisa Rich and Jeanne Carrigan-Fauci, was based upon the simple conflict inherent in the idea of someone having to defend their worst enemy. Carrigan-Fauci later explained, "The basic premise was 'What would happen if you had to defend your worst enemy? What would you do if you had to be responsible for his life?' There's so much inherent conflict in that concept. And, of course, it was only natural to use Kira and a Cardassian in that situation and to have them both learn something about each other." (Star Trek: Deep Space Nine Companion, p. ?) Michael Piller recalled, "'Duet' was pitched to us by two of our interns, who wanted to do something about a war criminal. In the context it was pitched, it didn't turn me on. The idea of a war criminal found aboard DS9 seemed to me to be an interesting concept, but at first it seemed to me to be a Judgment at Nuremberg court show." Since the first season of DS9 had already included court episode "Dax", the show's writing staff didn't want to do another so soon. (The Fifty-Year Mission: The Next 25 Years, p. 461)
+The plot of this episode was inspired by Robert Shaw's 1967 stage play The Man in the Glass Booth, which tells of a Jewish man accused of being a Nazi war criminal. In fact, Leonard Nimoy had starred in a production of the play years earlier. That play, in turn, is based on actual events that took place after World War II, such as the Nuremberg Trials and the hunt for top-ranking Nazi officials who escaped Germany and made up new identities for themselves, such as Adolf Eichmann. Noted Michael Piller, "Ira Behr gave us the twist that gave it The Man in the Glass Booth kind of feeling, where the guy isn't who he says he is but is doing it for more noble reasons." (The Fifty-Year Mission: The Next 25 Years, p. 461)
+The intent of this episode was to establish the Cardassian Occupation of Bajor as a metaphor for British, Japanese, and German imperialism circa World War II. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+This episode was written to be a bottle show to balance out more expensive episodes in DS9's first season, such as the premiere "Emissary" and "The Storyteller". (Star Trek: Deep Space Nine Companion, p. ?) "'Duet' was conceived as a direct result of that very consideration [...] On the next-to-last show of the season," remembered Peter Allan Fields, "they said, 'Pete, can you do us a favor? Can you please write a show that costs nothing?' I said, 'Of course, be glad to,' and then you leave the office because you've said yes to your boss and you die a thousand deaths." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 33)
+This is one of only a few DS9 episodes without a subplot. (The A-story/B-story formula had been used quite extensively in the series up to this point and was used many more times throughout the later seasons.)
+
+
+=== Cast and characters ===
+This episode reunited Quark actor Armin Shimerman and "Duet" guest actor Harris Yulin. Years prior to the making of this installment, they had been acquaintances and had worked on Broadway theater together. (The Fifty-Year Mission: The Next 25 Years, p. 461)
+Cirroc Lofton (Jake Sisko) does not appear in this episode.
+
+
+=== Music ===
+The episode's score, composed by Dennis McCarthy, was recorded on 2 June 1993 at Paramount Stage M. (Star Trek: Deep Space Nine Collection liner notes) A cue from the score – totaling three minutes, thirty-two seconds – appears on Disc One of the Star Trek: Deep Space Nine Collection.
+
+
+=== Continuity ===
+Ira Steven Behr has cited this episode as the first example of the so-called "long Cardassian monologue": "Cardassians love to speak. Garak loves to speak. Enabran Tain loves to speak. Dukat loves to speak – very slowly – and certainly Marritza loves to speak." (Star Trek: Deep Space Nine Companion, p. ?)
+This episode introduces the character of Neela, who went on to play a crucial role in the following episode, "In the Hands of the Prophets", although she was supposed to be introduced in "The Forsaken". The producers' intention was for the audience to assume she was simply a new recurring character, thus creating an unexpected twist when she turns out to be an assassin, and they felt that seeing her twice before the final episode would accomplish this goal. However, the actress cast as Anara for "The Forsaken" "didn't work out," and she was written out of that episode. She was never supposed to be in "Dramatis Personae", so in the end, she only appeared in one episode prior to being made into a villain. (Star Trek: Deep Space Nine Companion, p. ?)
+This episode marks the first mention of the Shakaar resistance cell.
+Though it is not mentioned in dialogue, the script for this episode stated that Kira was drinking a raktajino when Benjamin Sisko confronted her at the Replimat. (Star Trek: Deep Space Nine Companion - A Series Guide and Script Library)
+
+
+=== Reception ===
+Both Armin Shimerman (Quark) and Nana Visitor (Kira Nerys) count this episode among their favorites.
+Shimerman noted that the episode comes together with "the writing and the directing and the acting all coalescing perfectly." (Star Trek: Deep Space Nine Companion, p. ?) Elsewhere, he commented, "It's a fascinating episode dealing with Bajor and nationalism and with Cardassian war crimes. I love these kinds of scripts, because they deal with social issues placed in the context of space." (The Fifty-Year Mission: The Next 25 Years, p. 461)
+Visitor agreed, "The action comes out of big issues on this show. There's action and intrigue, but the writing really lets us deal with issues we're not embarrassed to commit ourselves to as actors and people. On a sitcom, very often it's 'Should I let Johnny stay out after midnight or not?' It's an important issue, but not quite so much as Holocaust victims and facing evil in one person and how you deal with that, which is one thing I had to deal with in 'Duet'. It was kind of harrowing to have to deal with that subject matter every day, but the harder it is, the more rewarding it is." Visitor further commented, "'Duet' was a wonderful episode," and was of the opinion that this episode's making was a case where, due to limitations, the people involved in it had needed to start being more creative. "I think everyone had done that and amped up the creativity just a little bit," she said. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, pp. 33 & 56)
+Fans of this episode include Terry J. Erdmann, Dave Rossi, and Ira Steven Behr, the latter of whom said of it, in 1999, "I thought that show was gangbusters. It was very powerful, and it still works today. It's a wonderful episode." (Crew Dossier: Kira Nerys, DS9 Season 1 DVD, Special Features) In Captains' Logs Supplemental, Behr elaborated, "I'm very, very proud of this show. Not in the sense it's a show for all Humanity, but that it was a fun show to work on. You had a character who was larger than life and reveling in his evilness. It was just a blast. It was a lot of fun to write, but it was the end of the season, and we were all very tired, so neither Peter nor I were very happy doing it. We work very well together, and the show could have, literally, been another half hour if they would have let us. It was just mind games on top of mind games, and we could have done that forever."
+Michael Piller remarked about this episode, "The writing is really quite powerful." He also described the installment as "very thought provoking" (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 55) and that: "Premises that explore the some nature of the Human condition are the best shows. 'Duet', which I find was probably the best show of the first season, was two characters in a room - very simple and very elegant. It's one of my favorite lines of shows". (The Making of Star Trek: Deep Space Nine, p. 279)
+From a production viewpoint, Director of Photography Marvin Rush opined that Director Jim Conway "came in and did a great job. He was real professional and had a difficult episode, because it didn't have a lot of action or movement. It's a small story." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 56)
+A special screening of this episode was held at the Museum of Television and Radio Broadcasting in Los Angeles, as part of its annual celebration of television considered high quality. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 58)
+In Star Trek 101 (p. 124), Terry J. Erdmann and Paula M. Block list "Duet" as one of the "Ten Essential Episodes" from Star Trek: Deep Space Nine.
+Cinefantastique ranked "Duet" as the best episode of Star Trek: Deep Space Nine. (Cinefantastique, Vol. 32, No. 4/5, p. 96)
+In their book The Fifty-Year Mission: The Next 25 Years (p. 461), authors Mark A. Altman and Edward Gross remarked that this episode is "generally considered the standout show of the first season" and that the war criminal role was "played magnificently" by Harris Yulin.
+Mary Taylor wrote, "Duet" from DS9's second season [sic], continued the commentary on racism begun thirty years before [by Star Trek: The Original Series]. The lesson of 'Duet'... was that each individual should be judged on his own merits and not because he is a member of a hated race." (Adventures in Time and Space)
+In The New Trek Programme Guide, the authors comment that "Duet" was "the pinnacle of the season, a tightly plotted and allusive tale that could be 'about' the Simon Wiesenthal Centre, the modern Nazi's re-writing of World War Two or even Bosnia. Although the juxtaposition with the previous episode is less than ideal, with Kira seeming to go behind Sisko's back to get what she wants, the strength of the script and the performances more than make up for this. Harris Yulin excels as the coward who personalized the guilt of an entire race. This powerful and absorbing drama is also very Roddenberryesque: Kira realises, just before the clever twist ending, that his being a Cardassian is not reason enough to want to kill him." (The New Trek Programme Guide, pp. 316 – 317)
+
+
+=== Remastered version ===
+Remastered footage from the episode is featured in the ending credits of the documentary What We Left Behind.
+
+
+=== Controversy ===
+In April 2022, the episode found itself in the middle of a latter-day, yet short-lived, controversy between fans and former production staff on the one hand and the Star Trek franchise on the other. The conglomerate was in the middle of the process of pulling all Star Trek productions from all third-party platforms in favor of their very own streaming service Paramount+ for exclusive digital viewing. However, when Deep Space 9 was pulled from streaming service Netflix and moved over to Paramount+, it was soon discovered that "Duet" was the only episode missing from the catalog. Considered one of the very best early episodes, fans and former production staff alike demanded an explanation from the franchise which a Paramount+ spokesperson explained as being a "streaming rights issue."  Pressure from fans continued, and the episode was restored – seemingly without "streaming rights issue" – to the catalog after former showrunner Ira Steven Behr weighed in personally on 15 April. [1] The controversy had lasted for less than a week, but no explanation has ever been forthcoming for what the real reasons were for the episode's initial omission from the streamer's catalog.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 10, 10 January 1994
+As part of the DS9 Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Marc Alaimo as Dukat
+Robin Christopher as Neela
+Norman Large as a Viterian
+Tony Rizzoli as Kainon
+Ted Sorel as Kaval
+
+
+=== Special guest star ===
+Harris Yulin as "Marritza"
+
+
+=== Uncredited co-stars ===
+Scott Barry as a Bajoran officer
+Robert Coffee as a Bajoran officer
+Frank Collison as Dolak (display graphic)
+Jeannie Dreams as a Human operations division ensign
+Judi Durand as Deep Space 9 computer voice
+Kevin Grevioux as a Human security officer
+Jeffrey Hayenga as Orta (display graphic)
+Norman Large as Neral (display graphic)
+Chad McCord as operations ensign
+April Rossi as a Ktarian space hooker (display graphic)
+Mark Allen Shepherd as
+Human DS9 resident
+Morn
+Michael Wajacs as Bajoran civilian
+Michael Zurich as a Bajoran security deputy
+Unknown performers as
+Aamin Marritza (2357, display)
+Bajoran DS9 male nurse
+Five Bajoran Gallitep laborers (display graphic)
+Five Bajoran Gallitep survivors
+Buck-toothed alien
+Buck-toothed alien criminal (display graphic)
+Cardassian Gallitep officer (display graphic)
+Ferengi criminal (display graphic, unconfirmed)
+Female Starfleet officer
+Klingon criminal (display graphic)
+Rotciv member
+Plix Tixiplik (display graphic)
+
+
+=== References ===
+2355; 2357; 2363; 2364; ailment; amusement; assassination; background check; Bajor; Bajoran; Bajoran Archives; Bajoran Militia casualties; Bajoran Provisional Government; Bajoran Resistance; bio-probe; bruise; bug; butcher; Cardassia; Cardassian; Cardassian Empire; Cardassian Military Academy; Cardassian records office; Certificate of Death; chain; champion; channel; charge; chief of security; children; coleibric hemorrhage; constable; cosmetic surgery; creature; criminal; Daedalus-class; dagger; day; death; deflector shield; dermal regenerative agent; dermatiraelian plastiscine; desktop monitor; diagnostic; dinner; docking port; drunk; ear; egotist; execution; Federation; file clerk (filing clerk); filing; first officer; forgery; freighter; freighter captain; funeral; Gallitep labor camp; genocide; gul; hanging; holding cell; housekeeper; husband; image enhancement sequence; "in charge"; infirmary; jail; Kalevian montar; Kalla-Nohra Syndrome; Kobheerian; Kobheerian freighter; Kora II; labor camp; laborer; leader; lie; map; Maraltian Seev-ale; mass murderer; masterpiece; medical care; medical emergency; medical history; military leader; medical record; military service; mining; minister; Minister of State; minute; Miranda-class; mirror; month; monument; morning; mother; murder; night; nightmare; Occupation of Bajor; office clerk; personal vendetta; plot; Pottrik Syndrome; Proficient Service Medallion; progress report; Rak-Miunis; raktajino; rape; replicator; Replimat; report; rock; scum; second; sector 22757; security office; sem'hal stew; sensor array; Shakaar resistance cell; signal enhancement module; spoon; subspace com net; subspace link; subspace transmission; surrender; table; termination report; terrorist; torture; traveler; trial; tribunal; unit; unnamed medical device; vanity; vendetta; wanted list; wanted poster; war; weep; wife; window; worker; yamok sauce; year
+
+
+==== Other references ====
+Sector 22757 chart references: Alpha Brown; Alpha Peets;  Alpha Piller; Alpha Wright; Bajoran Wormhole;  Baxter's Planet; Beta Ahern; Beta Delgado; Beta Jacobson; Beta Matlovsky; Beta McIlvain;  Cazanjian's Star; Crowley's Star;  Della Santini; Drexler's Star; Fosters Folly;  Gamma Monak;  Gene's World; Glavinworld; Hawkins' Planet; Longo World; Martin's Planet; Molly's Star; Pflug's Star; Theta Berman; West's World;  Van Over's Planet; Zimmerman's Star
+
+
+=== External links ===
+"Duet" at Memory Beta, the wiki for licensed Star Trek works
+"Duet" at Wikipedia
+"Duet" at MissionLogPodcast.com
+"Duet" script at Star Trek Minutiae
+"Duet" at the Internet Movie Database

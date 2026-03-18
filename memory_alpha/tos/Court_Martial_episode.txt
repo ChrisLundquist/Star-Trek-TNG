@@ -1,0 +1,291 @@
+Kirk is accused of criminal negligence causing the death of one of his subordinates, Lt. Commander Benjamin Finney, and is put on trial for his murder.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+"Captain's log, stardate 2947.3. We have been through a severe ion storm. One crewman is dead. The ship's damage is considerable. I have ordered a nonscheduled layover on Starbase 11 for repairs. A full report of damages was made to the commanding officer of Starbase 11, Commodore Stone."
+On the surface-based facility of Starbase 11, Commodore Stone is advising Maintenance Section 18 to reschedule their repairs to the USS Intrepid to give the USS Enterprise priority one. Captain Kirk is reading – for the third time – a copy of his sworn deposition on the events that led to the death of his Records Officer, Benjamin Finney. While waiting for Spock to arrive with an excerpt of the computer log, Kirk explains that he waited until the last possible moment but, with the ship on red alert, the ion storm got worse. Kirk had to eject the ion pod containing Finney, to his death.
+Spock finally beams down ten minutes late with the computer records, which Stone takes; shortly afterward, Jame Finney enters and names Kirk as "the man who killed my father." She shrieks at him and breaks down into tears. Stone asks Spock to escort the girl out of the room, but then accuses Kirk of committing willful perjury – the computer records show that Kirk ejected the pod before placing the ship on red alert. Stone orders Kirk to remain on Starbase 11 for an official inquiry to determine whether a general court martial is in order.
+
+
+=== Act One ===
+"Captain's log, stardate 2948.5. Starship Enterprise remains in orbit around Starbase 11. Full repair is in progress. I have been ordered to stand by on Starbase 11 until the inquiry into the death of Lieutenant Commander Finney can be conducted. I am confident of the outcome."
+Captain Kirk and Doctor McCoy walk into the M-11 Starbase Club on Starbase 11, and meet up with several members of Kirk's graduating class from the Academy, including Corrigan, Teller, Timothy, and Mike. Several claim to be concerned about how long they are staying, but Kirk realizes that all of them have already made up their minds that he was indeed responsible for Finney's death.
+As Kirk leaves, Areel Shaw enters, just missing him. Dr. McCoy introduces himself, and they find they are both mutual friends of Kirk, McCoy saying of himself, "In these trying times, one of the few." He notes that soon, Kirk will need all the friends he can get.
+In Commodore Stone's office, Stone begins the inquiry. Kirk starts by describing his relationship with Finney, including the fact that he taught at Starfleet Academy when Kirk was a midshipman, and that his daughter was named after him.
+But a number of years later, while they both served together on the USS Republic, Kirk says that Finney had left a circuit open to the atomic matter piles that should have been closed. In another five minutes, the Republic could have self-destructed with all hands. Kirk had closed the switch and logged the incident; Finney had had a letter of formal reprimand written into his record, and was sent to the bottom of the promotion list. Kirk says that Finney believed that Kirk's action delayed Finney's assignment to a starship and ultimately to command.
+They turn to the ion storm. Kirk says he chose Finney to occupy the ion pod solely because the duty roster said it was Finney's turn. Finney entered the pod just before the Enterprise reached the leading edge of the storm. Kirk signaled yellow alert. Due to "pressure, variant stress, force seven, the works," Kirk signaled red alert. This alerted Finney to exit the pod, and Kirk said he delayed even longer before finally ejecting the pod. Stone reminds Kirk that the logs show he ejected the pod before signaling red alert. Kirk cannot explain that, but says it is next to impossible that the computer is wrong.
+Commodore Stone stops the recording, and suggests that perhaps stress and time as commanding officer of the Enterprise have worn Kirk down. Stone offers Kirk a report that will lead to a ground assignment if Kirk does admit responsibility. Stone says it would smear Starfleet if a starship captain were to be court-martialed. However, Kirk is insulted by the idea of covering up the incident, and responds, "So that's the way we do it now – sweep this whole thing under the rug, and me along with it! Not on your life. I intend to fight!" This decision angers Stone, who says in retort, "Then you draw a general court!" Kirk replies, "Draw it? I demand it! And right now, Commodore Stone; right now!"
+
+
+=== Act Two ===
+"Captain's log, stardate 2948.9. The officers who will comprise my court martial board are proceeding to Starbase 11. Meanwhile, repairs on the Enterprise are almost complete."
+
+Kirk meets with his old friend, Areel Shaw, whom he has not seen in "four years, seven months, and an odd number of days," Shaw states. She warns him that he appears to be taking the case very lightly, which he attributes to "the confidence of an innocent man". She says that the prosecution will argue "Kirk vs. the computer," on which basis he would most certainly lose.
+He asks her to be his attorney, but she protests to being too busy with another case. She recommends Samuel T. Cogley. He asks her how she knows so much about what the prosecution is going to do. She reveals that she, a lieutenant in Starfleet's Legal Division, is the prosecuting officer... and that she will have to do her very best to have him broken out of the service in disgrace. She leaves the bar, abruptly.
+In Kirk's temporary quarters on Starbase 11, a man has set up shop with hundreds of bound books, which he argues are "where the law is," along with the intent of its writers, not in a computer, which he has but never uses. Kirk declares with amusement that the man is either an "obsessive crackpot" or Samuel T. Cogley, Attorney-at-Law. Cogley says Kirk is right on both counts and agrees to take the captain's case. Cogley does not inspire much confidence from Kirk, however convinced he is that Shaw might have meant well.
+
+Captain Kirk's court martial begins, with Commodore Stone presiding and with Starfleet Command representative Lindstrom, and starship Captains Krasnovsky and Chandra. Kirk does not object to the personnel, and consents to both the services of Shaw as prosecutor and Stone as President Judge of the court. After the computer lists the charges and specifications that have been formally preferred against him, Kirk formally pleads not guilty.
+
+Lieutenant Shaw calls Spock to the stand. After the computer reads off his service file, Shaw asks Commander Spock how much he knows about computers. Spock says, "I know all about them." Shaw asks Spock if he knows of any malfunction that caused an inaccuracy in the Enterprise computer, and Spock says he does not. "But the computer is inaccurate, nevertheless," he adds. Shaw clarifies that the computer reports that Kirk was reacting to an extreme emergency that did not then exist. Spock says that is impossible based on his knowledge of Kirk, which he insists is not speculation. Spock says that Kirk's characteristics are as predictable as gravity, and do not include panic or malice. Shaw finishes by getting Spock to admit that this is all his opinion. Cogley chooses not to cross-examine him.
+Lieutenant Shaw then calls the personnel officer of the Enterprise (whose name is not given) to the stand. She confirms that when Kirk was an ensign on the Republic with Finney, Kirk's log entry cost Finney a promotion. Cogley has no questions for this witness, either.
+Lieutenant Shaw then calls ship's surgeon Dr. Leonard McCoy to the stand. She claims that he is an expert in space psychology and the mental effects of long-term space travel; as he considers himself no such expert, he concedes in his response, "I know something about it." She then asks McCoy if it was possible that, if Finney hated Kirk, Kirk reciprocated by hating Finney. McCoy is adamant that Kirk is not that kind of a man, but Shaw forces McCoy to admit that it is possible. Again, Cogley does not cross-examine.
+Commodore Stone questions Cogley's failure to cross-examine any of the prosecution witnesses, but Cogley calls their testimony "preliminary business" and calls Kirk himself to the stand. The computer begins to list Kirk's service record and awards. Shaw tries to halt this, conceding Kirk's "inestimable record," but Cogley insists that the wheels of progress not run over his client, though he relents once a few more honors are recited.
+Cogley asks Kirk if there was indeed a red alert before the pod was jettisoned, despite what the computers said. Kirk states that there was, and that he would do it again, because his actions were absolutely necessary for the safety of his ship.
+
+In cross-examination, Shaw plays the video playback from the bridge of the Enterprise on stardate 2945.7. The footage played on the courtroom's video screen shows Finney being posted to the pod, and the Enterprise going to yellow alert after encountering the ion storm. Shaw then magnifies a panel on the right side of Kirk's command chair. The video playback shows that Kirk did in fact launch the pod before signaling red alert. A shocked and horrified Kirk insists, his voice a bare whisper as he does, "But that's not the way it happened."
+
+
+=== Act Three ===
+"Captain's log, stardate 2949.9. The evidence presented by the visual playback to my general court-martial was damning. I suspect even my attorney has begun to doubt me."
+Back in Kirk's quarters on the starbase, where Kirk is again in standard uniform, Cogley suggests that maybe Kirk did have a lapse in memory, and that they can still change their plea. Kirk allows himself a moment of self-doubt, but concludes, "No! I know what I did!"
+Spock contacts Kirk from the Enterprise, saying that he ran a megalite survey on the computer. Kirk guesses the results: Nothing. Kirk thanks Spock but has no further orders for him, only speculation that Spock will be able to defeat his next commanding officer at chess, and closes the channel. Spock repeats that word thoughtfully and leaves the bridge.
+But just then Jame Finney enters, asking Cogley to make Kirk change his plea and take a ground assignment. Though Cogley calls Jame's change of heart unusual, Jame says she has been reading through old letters to her and her mother, in which Benjamin Finney talked about how close he was to Kirk. Kirk leaves to resume his dress uniform, while Cogley formulates an idea.
+Back on the Enterprise, Spock is playing a game of three-dimensional chess with the computer in the briefing room. Dr. McCoy walks in and, irritated, calls Spock cold-blooded for playing chess while their captain's career is hanging in the balance. After thanking McCoy for the compliment, Spock adds that he has just won four games in a row against the computer. That announcement catches Dr. McCoy short and retorts that is impossible: Spock had programmed the computer himself, he himself states the best he should have been able to attain was a draw. McCoy is astounded. The two men immediately prepare to beam down to Starbase 11 with the new information that the program bank shows evidence of being tampered.
+
+The court martial is back in session, and both the prosecution and defense both rest their cases. Just then, Spock and McCoy enter and whisper to Cogley and Kirk. Cogley now tells the court that he has new evidence that he cannot tell the court but must show it. Shaw objects that Cogley had rested his case and is now attempting "theatrics." Roused to anger against machines, Cogley enumerates, with passion, a long list of historical precepts which maintain that an accused man has the right to confront the witnesses against him. In this case, the most damning witness is the computer of the Enterprise. Cogley moves, and indeed demands, both in his rage and "in the name of a Humanity fading in the shadow of the machine," that the court reconvene aboard the Enterprise, lest it elevate the computer above Humanity.
+
+
+=== Act Four ===
+"Captain's log, stardate 2950.1. After due consideration, the general court-martial has reconvened on board the Enterprise."
+In the briefing room, Spock testifies that he has now won five games of chess against the computer, to which he gave a knowledge of the game equal to his own and which, assuming that he commits no mistakes, should have led to a best result of successive stalemates, as the computer ordinarily cannot make a mistake. Spock concludes that someone, either accidentally or deliberately, adjusted its programming and therefore its memory banks. The only people who could have done it are Kirk, Spock himself, and the records officer, who, at the time, was Lieutenant Commander Finney.
+Cogley turns to Kirk to describe the search for Finney after the storm. Kirk says it was a phase one search, a painstaking effort to find a crewman who may be unable to respond. Cogley notes that it presupposes that the crewman wishes to be found. After all, he explains, when searching for someone it is natural to assume that the someone wants to be found, and is not hiding. Kirk admits, much to Shaw's shock and horror, when Cogley asks him, that it is possible that, on a ship of this size, a man could evade such a search. Cogley declares, "Gentlemen, I submit to you that Lieutenant Commander Ben Finney is not dead!"
+The court, reconvening aboard the Main Bridge, demands an explanation, and Cogley defers to Kirk to conduct an experiment. Kirk orders all but the command crew and the court to beam off the Enterprise to the surface, including Cogley, who says he has an errand of vital importance to the business of this court.
+
+The crew leaves, the impulse engines are shut down, and the ship orbits Starbase 11 by momentum, though Kirk assures the court they will be finished long before the Enterprise's orbit starts to decay. Spock uses the ship's auditory sensors to amplify the heartbeats of all aboard, and McCoy uses a white-sound device to mask the heartbeats of all aboard the bridge. After masking the crewman in the transporter room, a single heartbeat is still heard, coming from the B-Deck, in or near engineering. Kirk orders that area sealed and goes down with a phaser to find Finney. The Enterprise's orbit begins to decay.
+
+In main engineering, Kirk encounters a crazed Ben Finney, who explains in a rant that makes it evident that he is now suffering delusions of persecution, that the Enterprise should have been his, but that Kirk and Starfleet had conspired to rob him of his own command. He aims a phaser at Kirk, but says that Kirk's death would mean too little to the captain, losing his ship would be far worse. Finney has also tapped out the primary energy circuits and intends to destroy the ship.
+
+Kirk tries to reason with Finney, but they begin fighting in main engineering. Spock tells members of the court that time is running out to beam back to the planet, but Stone regards Finney as a witness that the court should finish hearing.
+However, Sam Cogley's errand on the planet was to bring Jame aboard. Kirk asks Ben Finney whether he also intends to kill his daughter, and gets the upper hand. Beaten and sobbing, Finney tells Kirk where he tampered with the controls. Kirk begins attempting repairs in a Jefferies tube, and succeeds.
+On the bridge, Lieutenant Uhura takes the navigation console as power returns. Lieutenant Hansen is able to have the Enterprise's orbit stabilized and Stone rules that the court is dismissed--without findings, as they are not necessary. To this ruling, Shaw has absolutely no objections.
+As the Enterprise prepares to depart, Shaw delivers a gift from Cogley to Kirk on the bridge: a book. Cogley himself is busy, now representing Finney in his own trial. Peering around the bridge, she innocently asks if her, a lieutenant, kissing a starship captain on the bridge of his ship would cause a complete breakdown of discipline. Kirk grants it and delivers a passionate kiss on the bridge, noting that nothing happens and discipline continues. Kirk wishes Shaw better luck next time, but Shaw counters that she had pretty good luck in losing the current case. Kirk returns to his chair with Spock and McCoy flanking him. "She's a very good lawyer," Kirk says. "Obviously," Spock replies. "Indeed she is," McCoy adds. The Enterprise departs from Starbase 11 and resumes its mission.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701), 2266
+
+
+== Memorable quotes ==
+"Consider yourself confined to the base. An official inquiry will determine whether a general court martial is in order!"
+
+- Stone, to Kirk
+
+"All of my old friends look like doctors. All of his look like you."
+
+- McCoy, to Shaw
+
+"So that's the way we do it now – sweep this whole thing under the rug and me along with it! Not on your life. I intend to fight."
+"Then you draw a general court!"
+"Draw it? I demand it! And right now, Commodore Stone, right now!"
+
+- Kirk and Stone, after Stone labels Kirk an "evident perjurer"
+
+"Areel. Doctor McCoy said you were here. I should have felt it in the air, like static electricity."
+"Flattery will get you everywhere."
+
+- Kirk and Areel Shaw, reunited after "...four years, seven months and an odd number of days..."
+
+"This is where the law is. Not in that homogenized, pasteurized, synthesized – do you want to know the law? The ancient concepts in their own language? Learn the intent of the men who wrote them, from the Moses to the Tribunal of Alpha III? Books."
+"You have to be either an obsessive crackpot who's escaped from his keeper or Samuel T. Cogley, attorney at law."
+"You're right on both counts!"
+
+- Kirk and Cogley, meeting for the first time
+
+"Human beings have characteristics, just as inanimate objects do. It is impossible for Captain Kirk to act out of panic or malice. It is not his nature."
+
+- Spock, during his testimony
+
+"Mr. Spock, you're the most cold-blooded man I've ever known."
+"Why, thank you, Doctor."
+
+- McCoy and Spock, with McCoy unaware that Spock is testing the ship's computer in a chess match (and Spock going out of his way to preserve the misconception)
+
+"I speak of rights. A machine has none. A man must!"
+
+- Cogley, to the court martial panel
+
+"Officers and gentlemen, captains all! Except for Finney and his one mistake. A long time ago... but they don't forget!"
+
+- Finney, as he confronts Kirk
+
+"She's a very good lawyer."
+
+- Kirk to Spock and McCoy, after kissing Shaw
+
+
+== Background information ==
+
+
+=== Production timeline ===
+Story outline "Court Martial on Starbase 811" by Don M. Mankiewicz: 3 May 1966
+Revised outline: 26 June 1966
+First draft teleplay by Mankiewicz: 15 July 1966
+Revised first draft teleplay: early-August 1966
+Second draft teleplay: 6 September 1966
+First draft teleplay "Court Martial" by Steven W. Carabatsos: 19 September 1966
+Revised draft teleplay by Carabatsos: 21 September 1966, at this point, titled "Court-martial on Starbase Eleven,"
+Staff rewrite: 23 September 1966
+Final draft teleplay by Gene L. Coon: 26 September 1966
+Additional revisions: 27 September 1966, 29 September 1966, 3 October 1966
+Filmed: 3 October 1966 – 11 October 1966
+Day 1 – 3 October 1966, Monday – Desilu Stage 9: Int. Stone's office, Briefing room
+Day 2 – 4 October 1966, Tuesday – Desilu Stage 9: Int. Kirk's guest quarters, Engineering
+Day 3 – 5 October 1966, Wednesday – Desilu Stage 9: Int. Engineering, Corridors, Jefferies tube, Bridge
+Day 4 – 6 October 1966, Thursday – Desilu Stage 9: Int. Bridge
+Day 5 – 7 October 1966, Friday – Desilu Stage 10: Int. Officers' lounge, Courtroom
+Day 6 – 10 October 1966, Monday – Desilu Stage 10: Int. Courtroom
+Day 7 – 11 October 1966, Tuesday (Half Day) – Desilu Stage 10: Int. Courtroom
+Original airdate: 2 February 1967
+First UK airdate (on BBC1): 6 April 1970
+Remastered airdate: 10 May 2008
+
+
+=== Script ===
+Producer Gene L. Coon contacted writer Don M. Mankiewicz with a proposal to write a compelling dramatic story which could be filmed using a single and easily constructed set. (For the final episode, of course, four new sets were constructed: Commodore Stone's office, Kirk's quarters on the starbase, the starbase bar, and the courtroom itself). Mankiewicz came up with the idea of a courtroom drama, and wrote "Court-martial on Starbase Eleven". The script needed to be heavily re-written, but Mankiewicz was not available further, so story editor Steven W. Carabatsos got the job. It was Carabatsos who shortened the title to "Court Martial." [1]
+The actors who portray the members of Kirk's court martial are seen in the bar before Stone even considers convening a court-martial. This incongruity is the result of the shifting of scenes from their order in the script. [2] This was done during editing, to quicken up the pace of Act One, as it was considered too slow and uneventful in its original format. (These Are the Voyages: TOS Season One, 1st ed. p. 331)
+In the shooting script, there was a scene (filmed but cut) where Jame Finney comes into the engineering room at the end of Kirk and Finney's fight. The appearance of his daughter and his wish to save her are why Finney tells Kirk where he sabotaged the Enterprise. The cut necessitated Kirk's voice-over log entry wherein he relates that a beaten and sobbing Finney tells him about the sabotage. [3]
+The changes made in the script make it less apparent as to why Jame Finney's attitude toward Kirk changes back to one of respect so quickly. In the script, she has been reading her father's old letters, and his attitude in them makes her believe that he might pull a stunt like this to get back at Kirk. (In James Blish's prose conversion of the installment, Cogley explains, "A man suffering delusions of persecution wants to set down his complaints." This explanation was not included in the final version's dialogue.)
+The script of this episode described the climactic scene in which Kirk, in a Jefferies tube, frantically tries to fix sabotage to the Enterprise's energy circuits in a note stating, "Desired is same exciting effect obtained in 'The Naked Time' with Scotty in tube."
+Several musical scores are reused in this episode, including some cues from "The Naked Time" by Alexander Courage, romantic themes by Joseph Mullendore from "The Conscience of the King", used for Kirk and Areel Shaw, and music from "The Enemy Within" by Sol Kaplan, accompanying the fight between Kirk and Finney. (citation needed • edit)
+
+
+=== Cast and characters ===
+James Doohan (Scott) and George Takei (Sulu) do not appear in this episode. Sulu was scripted to feature in this installment, although, ultimately, his role in the episode was mostly given to Lieutenant Hansen instead (with a couple of Sulu's scripted lines spoken by Uhura in the final edit of the episode).
+Elisha Cook, Jr. had great difficulty remembering his lines. The speech of his character, Sam Cogley, was pieced together with editing. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 37)
+Krasnovsky is the only member of the trial board to speak other than Commodore Stone. His single line is "And when the orbit begins to decay?"
+This is the third and final time Uhura takes over the navigation station. She had previously handled navigation in "The Naked Time", which was also recycled in "The Man Trap", and "Balance of Terror".
+Percy Rodriguez appearing as a Black flag officer in charge of white subordinates was considered groundbreaking for the time. When the episode was produced in 1967, the United States Navy had only a single Black officer with the rank of Captain, and no Black flag officers (this would occur in 1971). However, unlike other racial statement episodes (such as TOS: "Plato's Stepchildren"), Stone's character was relatively unnoticed by southern broadcasting stations and there was no effort to censor or ban the episode. (US Navy , "Biography of Samuel L. Gravely Jr", 2004)
+
+
+=== Costumes ===
+Starfleet dress uniforms debut in this episode.
+The barkeeper wears the same costume later worn by the barkeeper on Deep Space Station K-7 in "The Trouble with Tribbles".
+Areel Shaw sports the only female dress uniform ever shown in the series. It has gold braid on the cuffs as well as a Starfleet breast patch, which the male uniforms do not. The hemline is also somewhat lower than the usual female duty uniforms.
+
+
+=== Props and sets ===
+The two-person transporter alcove seen in Stone's office is later seen on Deep Space Station K-7 in "The Trouble with Tribbles".
+The plants in Stone's office contain pieces of those seen in "The Conscience of the King" and was later used for the spores in "This Side of Paradise".
+The back of the bar contained recycled pieces from the interior of Balok's ship. (citation needed • edit)
+The starbase courtroom contained the large reflective Starfleet Command insignia used here, later appears on the wall behind all of the admirals appearing on the ship's viewscreen in future episodes.
+The abstract wall decoration in Kirk's starbase quarters is composed primarily of brightly painted blocks of wood. (citation needed • edit)
+The same bell with which Stone brings the court to order was used in TNG: "The First Duty". (Star Trek: The Next Generation Companion, 3rd ed., p. 197)
+The arm rest/sensor on the courtroom witness chair later shows up in the Enterprise briefing room in "Wolf in the Fold".
+The door through which Spock and McCoy enter the courtroom is one of the few hinged doors seen in the original series.
+
+
+=== Effects ===
+Stock footage from "The Naked Time" is used on the viewscreen shots as the Enterprise re-establishes its orbit around Starbase 11.
+In its original format, "Court Martial" was the last episode in which the sound of the ship's engines could be heard during fly-bys. The sound would be added to subsequent episodes in the DVD releases.
+A close-up shot of Spock on the bridge (when the Enterprise regains its orbital position) is recycled from "The Naked Time". "The Enemy Within" and "The City on the Edge of Forever" also used the same shot.
+
+
+=== Continuity ===
+This is the first episode in which the names "Starfleet" and "Starfleet Command" were used.
+Commodore Stone is the highest-ranking officer portrayed by a Black actor to appear in the original series. He also commanded a starship at one time.
+
+We get a look, for the only time in the series, at a series of registration numbers on the chart in Stone's office. Greg Jein associated them with ten names previously used in production memos which will later be assumed to be Constitution-class starships, despite the numbers ranging lower than the USS Constitution. (The Case of Jonathan Doe Starship) The wall chart disappears in a later scene in Stone's office. At the time of this episode, the USS Intrepid, the all-Vulcan starship, is being repaired at Starbase 11. It is later destroyed by the space amoeba in "The Immunity Syndrome". Another ship on the list is NCC-1864, later established in Star Trek II: The Wrath of Khan as the USS Reliant.
+
+The name of the starbase's officers' lounge, M-11 Starbase Club, appeared on a nameplate on the bar counter. Though not referenced on screen, M-11 was indicated in the script to be the name of the starbase's planet.
+A character named Nensi Chandra sat in judgment of James T. Kirk in another timeline, serving on the Starfleet Academy board trying that Kirk for his actions regarding the Kobayashi Maru scenario in Star Trek. That board also included Lt. Alice Rawlings, named for the actress who played Jame Finney.
+
+
+=== Video and DVD releases ===
+Original US Betamax release: 1985
+UK VHS release (two-episode tapes, CIC Video): Volume 8, catalog number VHR 2258, release date unknown
+US VHS release: 15 April 1994
+UK re-release (three-episode tapes, CIC Video): Volume 1.5, 9 September 1996
+Original US DVD release (single-disc): Volume 7, 22 February 2000
+As part of the TOS Season 1 DVD collection
+As part of the TOS Season 1 HD DVD collection
+As part of the TOS Season 1 Blu-ray collection
+
+
+=== Remastered information ===
+When the episode was remastered for the TOS Season 1 HD DVD, an opening shot of the Enterprise clearly reveals the hole where the ion pod used to be.
+
+
+== Links and references ==
+
+
+=== Starring ===
+William Shatner as Capt. Kirk
+
+
+=== Also starring ===
+Leonard Nimoy as Mr. Spock
+
+
+=== Co-starring ===
+Percy Rodriguez as Portmaster Stone
+Elisha Cook as Cogley
+Joan Marshall as Areel Shaw
+
+
+=== Featuring ===
+DeForest Kelley as Dr. McCoy
+Nichelle Nichols as Uhura
+Richard Webb as Finney
+Hagan Beggs as Helmsman
+Winston DeLugo as Timothy
+And
+Alice Rawlings as Jame Finney
+
+
+=== With ===
+Nancy Wong as Personnel Officer
+Bart Conrad as Krasnovsky
+William Meader as Board Officer
+Reginald Lal Singh as Board Officer
+
+
+=== Uncredited Co-stars ===
+Majel Barrett as Computer Voice
+William Blackburn as Hadley
+Tom Curtis as Mike
+Frank da Vinci as Brent
+Ron Kinwald as Starbase 11 bar patron
+Denise Okuda as Enterprise operations crewmember (remastered)
+Unknown performers as
+Corrigan
+Teller
+Enterprise crewman
+Enterprise security guard
+Enterprise security lieutenant
+Enterprise sciences crewman
+Starbase 11 bar patrons 1, 2, 3, 4, 5, 6, 7, and 9
+Starbase 11 bartender
+Starbase 11 clerk
+Starbase 11 waitress
+
+
+=== Stunt Doubles ===
+Chuck Clow as stunt double for William Shatner
+Troy Melton as stunt double for Richard Webb
+
+
+=== References ===
+2250s; 2254; 2262; ability; accusation; accused; accuser; adjournment; advice; affection; Agena target vehicle; alert status; Alpha III; answer; appetizer; atomic matter pile; attorney; attorney at law; auditory sensor; Axanar; Axanar Peace Mission; B deck; bench; Bible; bishop; "Bones"; book; booster; briefing room; career; case; chance; characteristic; charge; checkmate; chess; choice; circuit; client; clerk; Code of Hammurabi; Code of Justinian; cold-blooded; command crew; commanding officer; computer; computer log; computer log extract; computer transcript; concept; conclusion; confidence; conspiracy; Constitution-class decks; Constitution of the United States; counsel (counsel for the defense; counsel for the prosecution); course; court; court martial board; courtroom; crackpot; cross-examination; culpable negligence; damage; danger; day; death; decapitation; defendant; defense; deposition; discipline; disciplinary action; doctor; document; duty roster; effect; engine crew; error; evidence; experience; experiment; fact; failure; faking death; Finney's mother; "fire away"; first edition; first officer; flattery;  force seven; framing; friend; friendship; Fundamental Declarations of the Martian colonies; Gemini 8; general court martial; graduating class; ground assignment; guilt; hammer; Hammurabi; hatred; heartbeat; here and now; Human (Humanity, Human being); Human characteristic; Human rights; impulse engine; inanimate object; information system; "in session"; instruction; instructor; Intrepid, USS; intuition; ion plate; ion pod; ion storm; jettison button; job; Jones; Judge Advocate's Office; Justinian; king; kiss; language; law; lawyer; layover; legal decision; letter; library; logic; M-11; M-11 Starbase Club; M-11 sun; machine; Magna Carta; magnification; Maintenance Section Eighteen; malfunction; malice; Martian colonies; megalite survey (aka mechanical survey); memory bank; mental collapse; meteorology; midshipman; million; mind; minute; mistake; month; Moses; motion; murderer; mystic; name; namesake; nature; neck; objection; obsession; odd number; official inquiry (inquiry); office; officer of the court; opinion; opportunity; orbit; panel; panic; pasteurization; pattern; pawn; perjury; person; personnel officer; phase 1 search; Picasso; place; planet; playback; plea; portmaster; positive gravity; power; precedent; prejudice; President of the Court; pressure; primary energy circuit; program bank; programming; promotion list; proof; prosecution; psychology; records officer; red alert; relationship; reprimand; Republic, USS; rights; risk; rook; rug; rumor; scandal; science officer; search; second; Section 18Y; Section 23D; serial number; service record; Setar; ship's surgeon; sitting; skewer; Smith; sobbing; sound; space; Space Command Representative; space regulations; speculation; stalemate; stand; star; Starbase 11; Starfleet Academy; Starfleet Command; statement; static electricity; Statutes of Alpha III; subject; "sweep it under the rug"; "talk shop"; testimony; Titan II; thing; thousand; three-dimensional chess; trade; training; trial; Tribunal of Alpha III; verdict; Vulcanians; Vulcanian expedition; weatherscan; wheel; white-sound device; witness; year; yellow alert; Yorkshire
+
+
+==== Awards and decorations ====
+Award of Valor; commendation; decoration; Grankite Order of Tactics, class of excellence; Karagite Order of Heroism; Legion of Honor; Medal of Honor; Palm Leaf of Axanar Peace Mission; Prentares Ribbon of Commendation, classes first and second; Silver Palm with Cluster; Starfleet Citation for Conspicuous Gallantry; Starfleet Surgeons; Vulcanian Scientific Legion of Honor;
+
+
+==== Starship repair references ====
+Excalibur, USS; Exeter, USS; Hood, USS; Lexington, USS; NCC-1685; NCC-1697; NCC-1700; NCC-1718; NCC-1831
+
+
+==== Unreferenced materials ====
+chief judge; coffee; conference room; delusions; delusions of persecution; double red alert; evolution; gavel; Holmes; Indian; luck; neck; quadrants; Rand, Janice; stun; Vulcan language; weapons room
+
+
+=== External links ===
+"Court Martial" at Memory Beta, the wiki for licensed Star Trek works
+"Court Martial" at Wikipedia
+"Court Martial" at MissionLogPodcast.com
+"Court Martial" at the Internet Movie Database

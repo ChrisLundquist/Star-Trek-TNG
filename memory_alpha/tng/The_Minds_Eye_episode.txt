@@ -1,0 +1,328 @@
+En route to Risa, Geordi La Forge is taken prisoner on a Romulan ship and mentally conditioned to assassinate a Klingon governor in order to implicate the Federation as enemies of the Empire and unbalance relations between the two governments.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Personal log, Chief Engineer Geordi La Forge, Stardate 44885.5. I am en route to the planet Risa to attend an artificial intelligence seminar. Captain Picard has ordered me to arrive a few days early to have some fun and relax. I intend to follow his orders to the very best of my ability."
+
+While on his three-hour journey to the planet Risa in the shuttlepod Onizuka to attend a cybernetics symposium and enjoy some shore leave, Lieutenant Commander Geordi La Forge is answering trivia questions posed by the shuttlepod's computer to pass the time. While in the middle of answering questions on field patterns associated with warp modulation, the shuttlecraft is captured by a Romulan warbird and La Forge is beamed off.
+
+
+=== Act One ===
+"Captain's log, Stardate 44891.6. The Enterprise has been ordered to accompany a special emissary from the Klingon High Council to the Kriosian system, where one of their colonies is fighting for independence."
+The USS Enterprise-D escorts Klingon Ambassador Kell to the Kriosian system, where a Klingon colony is fighting for its independence. Vagh, the governor of Krios, has accused the Federation of providing aid and weapons to the Kriosian rebels. Kell has been sent to examine the governor's evidence, and Kell personally requested Captain Picard's help, as his name is respected among the High Council. The captain assures the ambassador that the Federation would never interfere with the internal affairs of the Klingon Empire, which Kell hopes he is correct about, as it would strike at the very basis of their two peoples' relations. Picard assigns Lieutenant Worf to assist in the investigation, but Kell requests another security officer due to Worf's discommendation, but Picard rebuffs his requests, citing that as Chief of Security and his Tactical Officer, this matter clearly falls under Worf's jurisdiction.
+Aboard the warbird, La Forge is subjected to intense mental conditioning. While an impostor is sent to Risa in his place, La Forge is fed several horrific images directly into his visual cortex via his VISOR implants. Taibak, the Romulan officer controlling the conditioning, explains to his mysterious commander, whose face is hidden in the darkness, that La Forge's pre-existing implants will make their tampering untraceable. He also says they will have La Forge perform several test acts both on the warbird and the Enterprise to make sure the programming is working. Taibak notices that La Forge's heart rate has slowed, indicating that he has become accustomed to the horrors he is viewing. Taibak notes that they will simply have to change horrors. La Forge begins to squirm, then screams as the images become too much to bear.
+Both Kell and Worf are examining a pair of attacks that occurred on neutral freighters, one Ferengi and the other Cardassian. Both attacks occurred near the Ikalian asteroid belt, a likely area where the rebel fighters are hiding. Kell speculates that the actinides within the asteroids are shielding the rebels from their sensors. Worf points out that while the freighters are easy targets for the rebels, they would be foolish to challenge a Federation starship. Kell retorts that they wouldn't, since they are supplying the rebels with weapons, but Worf quickly rejects that, suggesting he is challenging Picard's word with him due to the fact he has no honor and is viewed as disloyal. Kell quickly withdraws his statement and tells Worf that many on the High Council would personally thank him for killing Duras, as many stated that he would have headed the council, a prospect they were not looking forward to. Worf points out his actions were not of a political nature but a personal one; Kell said that while Humans care for motives, what matters is that he acted as a true Klingon that day.
+In a holographic simulation, La Forge is told by Taibak to kill Chief Miles O'Brien. La Forge hesitates at first but eventually kills the holographic image of O'Brien and sits down with two other simulated crewmen for a drink. Unimpressed, Taibak says another round of conditioning will be required.
+
+
+=== Act Two ===
+"Captain's log, Stardate 44896.9. We are orbiting Krios, awaiting our first meeting with the Klingon Governor. Commander La Forge has rejoined the Enterprise from Risa."
+When La Forge returns, he has no memory of the Romulan abduction. After his return, however, Data notices that the ship's sensors are detecting sporadic E-band emissions. Data tries to pinpoint the source of the emissions and also works with La Forge to analyze the weapons seized from the Klingon rebels.
+On Krios, Picard steadfastly defies Governor Vagh's accusations, but he and Riker acknowledge that they made no efforts to restrict their medical supplies, unlike their weapons; then Vagh produces a phaser rifle taken from a rebel stronghold that appears to be Federation-issue. When asked where he got it, he says it was from the rebels, and he has many more like it. Unconvinced, Picard would like to study the rifle further and reminds Vagh that the Federation has no interest in supplying arms to the rebels and that a third party must somehow be involved. The governor points out that this colony is the only one on the border of Federation space and accuses Starfleet of wanting Krios to achieve independence to reduce their vulnerability to an attack. When Picard questions whether Vagh is speaking to them as an ally or not, they both exchange insults with one another, forcing Kell to intervene.
+
+In Ten Forward, La Forge orders a glass of Red Torian and proceeds to drink it but receives a signal through his VISOR that is Romulan in origin. Carrying his drink, he slowly approaches O'Brien, who is sitting down at a table working on a PADD, and "accidentally" spills the contents on the chief. La Forge immediately apologizes for how clumsy he was; O'Brien says nothing of it and decides to change into a drier uniform, while La Forge simply shakes his head.
+
+
+=== Act Three ===
+Through a careful examination of the captured phaser rifle in engineering, La Forge and Data detect subtle differences between it and a standard Federation-issued weapon. The main difference was the efficiency of the phaser's discharge crystal, which was well above Starfleet specifications. Upon further inspection, they determine that the weapon had been charged with a power source calibrated in the terahertz range, which concludes that the phaser rifle is not Starfleet issue. Data comments that 327 known species use that range, and it will take several hours to determine an exact match. La Forge says they can narrow down their search just by asking themselves a common sense question: who stands to benefit from driving a wedge between the Federation and the Klingons?
+In Governor Vagh's office, La Forge presents the rifle as a Romulan decoy; physically, it is a perfect replica, but since they had to charge it with their own power sources, the energy signature is identical to that of a Romulan disruptor rifle. Governor Vagh remains skeptical, since Krios holds no strategic interest for the Romulans, but Picard points out that they certainly have an interest in sowing distrust between the Federation and the Klingons as their alliance is the only thing that has kept the Romulans in check. Vagh still wants his own people to verify the findings. While in the office, La Forge's VISOR receives another distinctive E-band transmission.
+On the bridge, Commander Riker and Data detect the new E-band emission, although this one is much larger than the first indicating that it could not have originated in the same location. Riker observes that if it has changed intensity, then it cannot possibly be a protostar, which they had previously thought to be a possibility. He then asks Data if there are any known instances of the Romulans using E-band for communications. Data is not aware of any. They decide to try to track the signal by reconfiguring the primary sensor array to narrow its focus to E-band emissions to possibly calculate a directional vector should there be any further emissions.
+Acting under mind control again, La Forge configures the transporter using a new batch of isolinear chips and reroutes power through the auxiliary replicator systems. Next, he reroutes the transporter mode to the planetary sensor array. With the modifications complete, he then beams a crate of weapons from the Enterprise to the surface, and erases all records of the modifications. The situation escalates when the weapons crate is intercepted by the Klingons. Furiously, Vagh contacts Picard and tells him to maintain his orbit until further notice. To back up the threat, a Vor'cha-class attack cruiser and two Birds-of-Prey decloak and assume flanking positions around the Enterprise.
+
+
+=== Act Four ===
+With the situation escalating, Kell warns Picard that Vagh is fully prepared to open fire on the Enterprise, but that he convinced him not to do so without first consulting the High Council, which gives him a few hours.
+An investigation ensues, and Data and La Forge determine that an unauthorized transport was sent from Cargo Bay 4 at 1123 hours, but the memory chips in the computer were erased to hide the offender's identity, and the power was routed through the replicator pathways to attempt to conceal its origin. The only ones who could be able to perform this feat were La Forge, O'Brien, Data, and Lt. Costa. Worf sounds off protocol, asking each of them where they were at the time. O'Brien was with Keiko in the arboretum, Data was at the ops station on the bridge, La Forge was in his quarters alone, and Costa was on duty in engineering with over twenty witnesses. Worf becomes frustrated as someone is not who he or she appears to be.
+Debriefing Picard and Ambassador Kell on their investigations, another E-band emission occurs, which Data explains to both Picard and Kell on the tracking. As the commander leaves, Kell tells Picard that Vagh isn't known for his patience and time is running out. Picard asks the ambassador to tell the governor that they're doing everything possible and adds a warning that, if necessary, he is prepared to fight in defense of his ship. Realizing that a fight is on the horizon between the Enterprise and the three Klingon ships, Kell quickly offers to beam down to Krios to force Vagh to come aboard the Enterprise to personally witness the ongoing investigation in an attempt to convince him of the Federation's innocence.
+Before leaving, Kell is enjoying a traditional Klingon feast in his quarters when La Forge visits him. It is revealed that Kell is conspiring with the Romulans and that Kell has been implanting commands within La Forge's mind, including the command to transport the weapons to the Klingon rebels. Kell personally instructs La Forge to murder Governor Vagh when he arrives on the Enterprise from Krios in front of many witnesses and claim that he acted on behalf of Starfleet in support of the colony's independence. La Forge tells Kell simply that he understands and leaves.
+
+
+=== Act Five ===
+That night, La Forge has a fitful night's sleep and wakes up with a start. He communicates with Chief O'Brien but then instantly forgets why. La Forge then visits Dr. Crusher in sickbay, explaining that he has not been able to sleep since his visit to Risa. She examines him and detects a slight abnormality in his visual cortex and recommends a complete examination at Starbase 36 when they visit there next month. In the meantime, she hands him a PADD with a somnetic inducer that will help him sleep.
+Ensign Jae beams Vagh and Kell onto the Enterprise. Vagh says he has only come because of Kell's insistence that he review the Federation investigation in person. Kell suggests they begin in Cargo Bay 4. Picard agrees.
+Kell's E-band emissions continue to occur which causes Riker to nearly lose his patience. Data narrows down the pattern as one similar to a Human brainwave frequency and could be picked up by a receiver designed to convert and deliver signals directly into the Human brain. Data realizes that La Forge's VISOR is designed to do exactly that and investigates further.
+La Forge, meanwhile, picks up a hand phaser and adjusts the setting from stun to kill. He slips it in his pocket and leaves his quarters.
+Data goes the shuttlebay and begins to investigate La Forge's shuttle and realizes the craft was subject to a tractor beam due to the submicron deformations to the shuttle's nose and aft thrusters.
+La Forge arrives in Cargo Bay 4 and starts reaching for his phaser, but O'Brien stops him and asks him to take a look at the pattern buffers as he's not sure the control systems are reliable.
+Data scans the memory chips of the shuttle and discovers anomalous variations in the molecular structure, consistent with replication. When he compares them with Romulan replications patterns, the computer identifies them as identical. Data realizes that La Forge is compromised.
+Finishing his conversation with O'Brien, La Forge resumes his task to kill Governor Vagh, ignoring repeated hails from Data. When Data asks where La Forge is and the computer reports he is in Cargo Bay 4, he orders Worf to take La Forge into custody immediately.
+Seeing La Forge slowly approaching Picard and Vagh in the cargo bay, Worf jumps down, an action taken as threatening by Vagh's bodyguards. They seize him, and Worf struggles to get free, while the commotion draws everyone's attention away from La Forge. Worf shouts a warning, Picard spins around and pulls up on La Forge's hand just as he fires his phaser at Vagh. The phaser fires into the air. Picard disarms La Forge, and Vagh's bodyguards release Worf, allowing him to escort an unresisting La Forge out of the cargo bay.
+
+Vagh accuses the Federation of a murder plot. Picard is temporarily at a loss, at which point, to Picard's profound relief,  Data arrives and reveals that La Forge has been acting under Romulan control, explaining the E-band transmissions that have preceded each suspicious act aboard the Enterprise, which were transmitted directly to La Forge's brain through his VISOR. Kell, anxious to divert suspicion away from himself, asks whether a cloaked Romulan ship could be the source of the signals. But Data says no; the signals would have to have been transmitted in close proximity to La Forge by a Romulan agent. As to who that agent is, Data reveals that only two people were close to La Forge at all three times when a signal was recorded: Picard and Kell.
+All eyes (including Vagh's) instantly turn to Kell, as Data continues ominously that the Romulan agent must be hiding an E-band transmitter on his person. He suggests both Picard and Kell consent to a search. While Picard silently implies he would not object, Kell blusters that, as an emissary of the Klingon High Council, he will not consent to be body-searched by the Federation. Now with Kell's guilt made clear with his defensiveness, Vagh agrees – and has his bodyguards place the ambassador under arrest, saying they will take him back to the planet and search him there. Kell formally requests asylum aboard the Enterprise. Picard coolly rejoins that he will be happy to grant Kell asylum – after he is absolved of any crime. Vagh signals the planet, and the Klingons are beamed away.
+La Forge later undergoes counseling with ship's counselor Deanna Troi, as he tries to come to terms with the fact his memories of the trip to Risa are false. Troi promises to work with him to restore his memory, and she begins by asking La Forge what happened after he saw the Romulan ship – and he is left thrown when he suddenly remembers it appearing, as the full horror of the violation against him begins to sink in.
+
+
+=== Log entries ===
+Personal log, Geordi La Forge
+Captain's log, USS Enterprise (NCC-1701-D), 2367
+
+
+== Memorable quotes ==
+"List the resonances of the sub-quantum states associated with transitional relativity..."
+"That's easy!"
+"... in alphabetical order."
+
+- The shuttlecraft computer and La Forge, while playing word games to pass the time
+
+"Sequence 0-1-0. Maximum power to the shields. Kill the music."
+
+- La Forge, upon seeing the Romulan Warbird
+
+"You are preparing to grant them independence?"
+"Well, perhaps. Conquer them again later, if we wish."
+
+- Captain Picard and Ambassador Kell
+
+"Your modesty is very Human, Captain. I will excuse it."
+
+- Ambassador Kell
+
+"Welcome, Mr. La Forge. We've waited a long time to meet you."
+"I can tell you've gone to a lot of trouble!"
+
+- Taibak and La Forge (strapped to a chair)
+
+"Ugh, why are you doing this?"
+"I am sorry, Commander. It is a necessary step. I apologize for any discomfort."
+
+- La Forge, while Taibak subjects him to horrific imagery
+
+"Will there be any physical evidence of what you are going to do to him?"
+"None, Commander. That is why we chose La Forge. The utilization of his preexisting neural implants makes our work impossible to detect."
+
+- Sela and Taibak, as they begin to brainwash La Forge
+
+"Who is that man sitting over there?"
+"That's Chief O'Brien."
+"How long has he served with you?"
+"Almost four years."
+"I want you to kill him."
+"OK."
+
+- Taibak and a brainwashed Geordi La Forge
+
+"Good, Mr. La Forge, very good. Why don't you enjoy a drink with your friends?"
+
+- Taibak, after La Forge kills a simulation of O'Brien
+
+"Governor, you speak as if we were enemies, not allies."
+"And you speak the lies of a taHqeq!"
+"Vagh ghay'cha' baQa'!"
+"Gentlemen!"
+"You swear well, Picard. You must have Klingon blood in your veins."
+
+- Picard, Governor Vagh, and Kell
+
+"One could speculate that the E-band was being used as some form of covert communication."
+"We need more than speculation, Mr. Data. We need to know who, what, where, when, and why. Or we may be going to war."
+
+- Data and Riker - Listen to this quote file info
+
+"Data to Lieutenant Worf. Priority one."
+"Go ahead."
+"Take Commander La Forge into custody immediately."
+"Sir?'"
+"That is an order."
+
+- Data and Worf
+
+"I saw no evidence of Romulans! We just witnessed him acting very much alone!"
+"No, sir. You did not."
+
+- Kell and Data
+
+"I have surmised that Commander La Forge was conditioned by Romulans. A process referred to historically – and somewhat inaccurately – as 'brainwashing'."
+
+- Data
+
+"But to what end? Why would the Romulans want to kill me?"
+"The Romulans have always wanted to destroy the alliance between the Federation and the Klingons. If Mr. La Forge killed you, Governor, I think you would agree, they might have succeeded."
+
+- Vagh and Picard
+
+"Captain, I believe it to be in all best interests if I remain on board. I formally request asylum."
+"I will gladly grant you asylum... when you have been absolved of this crime."
+
+- Kell and Picard
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 18 March 1991 [1]
+Filmed: 20 March 1991 – 28 March 1991
+Additional scene filmed: 9 April 1991
+Second unit and insert shots filmed: 18 April 1991
+Premiere airdate: 27 May 1991
+First UK airdate: 30 November 1994
+
+
+=== Title ===
+This is one of twenty-two Star Trek TV and film productions with titles derived from Shakespearean works.
+
+It is derived from Hamlet Act I, Scene I: "A mote it is to trouble the mind's eye."
+
+
+=== Story and script ===
+"The Mind's Eye" was inspired by the classic film The Manchurian Candidate. (Star Trek: The Next Generation Companion, 2nd ed., p. 166; Star Trek: The Next Generation 365, p. 209)
+
+
+=== Production ===
+First time director David Livingston, a fan of The Manchurian Candidate and its director John Frankenheimer, unsuccessfully attempted to get an actor from the film to appear as an extra on this episode. Instead, Livingston introduced an homage shot in the scene where a brain-washed La Forge kills a holodeck version of O'Brien. (Star Trek: The Next Generation Companion, 2nd ed., p. 166; Trek: The Unauthorized Behind-The-Scenes Story of The Next Generation) He also filmed the corridor scene with La Forge with wide angles and 17 mm lenses. ("Departmental Briefing Year Four – Production", TNG Season 4 DVD special feature)
+Livingston recalled, "I couldn't ask for a better episode to do as my first directorial assignment, since it didn't have scenes with eleven people in the observation lounge talking for ten minutes. Every scene had something going on, some action. They were all short scenes and I could do some weird stuff and was thrilled." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 221)
+"The Mind's Eye" was filmed between Wednesday 20 March 1991 and Thursday 28 March 1991 on Paramount Stage 8, 9, and 16. An additional scene between LeVar Burton and Gates McFadden in sickbay was filmed on Tuesday 9 April 1991 on Paramount Stage 9. Second unit and insert shots were filmed on Thursday 18 April 1991 on Paramount Stage 8 and 9.
+The final call sheet of the episode informed the cast and crew about company holiday on Friday 29 March 1991.
+
+
+=== Cast and characters ===
+Larry Dobkin, who plays Klingon Ambassador Kell, directed the Star Trek: The Original Series first season episode "Charlie X".
+This is the first appearance of Sela, although her identity is obscured. She was portrayed in this episode by Debra Dilley, a photo double. Denise Crosby provided the voice and went uncredited.
+John Fleck appeared as another Romulan, Koval, in the Star Trek: Deep Space Nine episode "Inter Arma Enim Silent Leges". In addition, Fleck later appeared as Silik in Star Trek: Enterprise.
+This is the first episode of The Next Generation in which Majel Barrett received credit for voicing the computer.
+Stunt doubles John Nowak and Eric Chambers filmed a fight sequence between Captain Picard and La Forge on Tuesday 26 March 1991. This scene was not part of the aired episode.
+According to the call sheet for Wednesday 27 March 1991, Majel Barrett had a photo shooting for Star Trek on Paramount Stage 8.
+
+
+=== Continuity ===
+Although remaining unseen here, Kriosians appear in the fifth season episode "The Perfect Mate" and the Star Trek: Enterprise second season episode "Precious Cargo".
+Krios in this episode looks different from Krios as seen in "The Perfect Mate". Here, Krios is blue; in the latter episode it is green.
+The map of the region surrounding Krios that Worf and Kell look at in the tactical lab was later slightly modified and re-used as a map of the Typhon Expanse.
+The matte painting used for the surface of Krios is a re-use of the painting originally created for "Angel One". The painting was extensively "Klingonified" for this appearance.
+Ambassador Kell wears the same sash that the Klingon Ambassador wore in Star Trek IV: The Voyage Home and Star Trek VI: The Undiscovered Country.
+The Romulan and Klingon transporter effects of the 24th century are seen for the first time in this episode.
+This is the second appearance of the tactical laboratory after "The Emissary", though it looks completely different here.
+The footage of the three Klingon warships was re-used footage from the Season 4 episode "Reunion".
+The large shuttlebay set doubles as Shuttlebay 2 and Cargo Bay 4 in this episode, both filmed on Paramount Stage 9.
+The master systems display in main engineering is seen in several close-ups. All inside gags (the hamster wheel, the duck, Nomad, a Porsche 911) were removed, however.
+This episode marks the first appearance of the 24th century Type 3 phaser rifle.
+
+
+=== Reception ===
+A mission report for this episode, by John Sayers, was published in The Official Star Trek: The Next Generation Magazine issue 17, pp. 43–46.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 49, 8 June 1992
+As part of the UK VHS collection Star Trek: The Next Generation - 10th Anniversary Collector's Edition, under the "La Forge" section, 29 September 1997
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 4.8, 1 October 2001
+As part of the TNG Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Larry Dobkin as Kell
+John Fleck as Taibak
+Colm Meaney as Miles O'Brien / Miles O'Brien (hologram)
+Edward Wiley as Vagh
+
+
+=== Co-star ===
+Majel Barrett as the Computer Voice
+
+
+=== Uncredited co-stars ===
+
+Aikins as La Forge's double
+Anthony as a Ten Forward waiter
+Rachen Assapiomonwait as Nelson
+Joe Baumann as Garvey
+Karin Baxter as an operations division ensign
+Thomas J. Booth as a civilian
+Chuck Borden as a Klingon guard
+Brand as a Klingon guard
+Debbie David as Russell
+Cameron as Kellogg
+Max Cervantes as an operations division officer
+Tracee Lee Cocco as Jae
+Denise Crosby as Sela (voice)
+B.J. Davis as a Klingon guard
+Denise Deuschle as a sciences division officer
+Debra Dilley as Sela (photo double)
+Jeremy Doyle as operations ensign
+Elliot Durant III as an operations division ensign
+Keith Gearhart as a science sdivision officer
+Michele Gerren as a civilian
+Grace Harrell as a Ten Forward waitress
+Hunt as an operations division officer
+Gary Hunter as a Romulan guard
+Kim as an operations division officer
+Mark Kosakura as an operations division ensign
+Mark Lentry as a sciences division lieutenant
+Marin as a command division officer
+Debbie Marsh as a command division officer
+Lorine Mendell as Diana Giddings
+Michael Moorehead as a sciences division ensign
+Teri Noel as an operations division officer
+Randy Pflug as Jones / Jones (hologram)
+Keith Rayve as a command division ensign
+Denise Lynne Roberts as Patti
+Robinson as a Klingon guard
+Bill E. Rogers as an operations division officer
+Richard Sarstedt as a command division ensign
+Georgina Shore as Van Mayter
+Leatrim Stang as a Romulan guard
+Noriko Suzuki as an operations division ensign
+Guy Vardaman as Darien Wallace
+Natalie Wood as Bailey
+Unknown performers as
+Civilian woman
+Female operations officer
+Technician hologram
+Ten Forward waiter
+
+
+=== Stunt double ===
+Pat McGroarty as stunt double for Colm Meaney
+
+
+=== Stand-ins ===
+Brett – stand-in for LeVar Burton
+Jeremy Doyle – stand-in for Larry Dobkin
+Nora Leonhardt – stand-in for Marina Sirtis
+Lou – stand-in for Colm Meaney
+Tim McCormack – stand-in for Brent Spiner and Edward Wiley
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes, John Fleck, Larry Dobkin, and Edward Wiley
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – hand double for Brent Spiner
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+2363; ability; abduction; absolution; accomplice; accusation; actinide; aft nacelle associative; aft thruster; aiding; alibi; alloy; alphabetical order; ambassador; amusement; analysis; Andorians; Andorian waiter; answer; apology; arboretum; arrival; artificial intelligence; assassination; assumption; asteroid; asymmetry; attack; authorization code (priority clearance); auxiliary power distribution system; auxiliary replicator system; backstroke; beam control assembly; beam width intensity control; bed; bird; blip; blood; blood vessel; brain; brain wave pattern; brainwashing; blood vessel; blue; body; Cardassian freighter; cargo bay 4; cargo transporter; chief of security (chief security officer); chess tournament; chocolate; choice; climate; colony; comfort; common sense; computer; computer search; conduit; control system; coordinates; Costa; custody; cryptographic format; D'deridex-class; day; delta-compressed wavelength spectrum; diagnostic; dinner; directory; discharge crystal; discommendation; disruptor; DNA sample; Duras, son of Ja'rod; E-band; E-band parametric signal analysis; E-band transmitter; Earth; Egg, The; efficiency; EM emission; emissary; emission aperture; emission beam pattern; enemy; energy; energy cell; energy flow; evasive maneuvers; evidence; Federation; Federation-Klingon Alliance; Federation-Klingon border; Federation space; feeling; Ferengi freighter; friend; forced pulse; forensic team; freighter; fun; galvanic skin response; governor; glass; green; hail; heartbeat; heart rate; holoprogram; honor; hour; Human; humor; hundred; "idea; Ikalian asteroid belt; image; impurity; independence; insomnia; insurrection; intercooler flux; internal affairs; investigation; invitation; irregular heartbeat; isolinear chip; isolinear storage assembly; joke; Jonek; jurisdiction; Kanarian; Klingons; Klingon Bird-of-Prey (Vagh's Birds-of-Prey); Klingon Empire; Klingon food; Klingon High Council; Klingon-Romulan border; Klingonese; Krios; Krios capital city; Kriosians; Kriosian system/Krios system; Latin music; level 1 diagnostic; level 4 series; level 5 diagnostic; level of difficulty; lie; life support; lifeform; meadow; medical supplies; medical tricorder; meeting; megajoules per second; megawatt; memory; memory chip; mission log; modesty; molecular structure; month; motive; murder; music; name; navigational system; neural frequency; neural implant; night; nose section; O'Brien, Keiko; onboard system; Onizuka; operator; orbit; order; parameter; patience; pattern buffer; perpetrator; phase transition coil; phaser rifle; phaser type-1; phaser type-3; phenomenon; percent; planetary sensor array; plasma; plot; ploy; point of origin; political asylum; power; power drain; power flow; power surge; power system; prefire chamber; primary plasma system; primary sensor array; priority one; problem; protocol; protocol 364-B; protostar; Qo'noS; question; rapid nadion pulse; rebel; rebellion; record; recreation; Red Torian; replication pattern; replicator waveguide; report; reputation; residual pattern; resonance; resource; respect; Risa; Risa Control; Romulans; Romulan disruptor rifle; Romulan language; safety interlock; search pattern; second; secondary system; sector; sector containing Kriosian system; Sector 21166; Sector 22079; security chief; security officer; Sela's warbird; seminar; sensor; sequence 010; simulation; sitting; skill; sky; sleep; Spanish guitar; special emissary; speculation; spring; spy; somnetic inducer; spring; Starbase 36; Starfleet; stimulus; stress; stronghold; structural integrity; sub-microscopic deformation; subatomic structure; subquantum state; surface; swimming; Symphony Number Six; tactical laboratory; tactical officer; technician; Teldarian cruiser; terahertz; thruster; tolerance; tourist; tractor beam; transfer point; transitional relativity; transport sensors; transporter; transporter beam; transporter container; transporter log; transporter mode; transporter room 7; transporter technician; transporter unit; Treaty of Alliance; tree; trick; tricorder; vacation; VISOR; visual cortex; Vor'cha-class (unnamed); vein; vulnerability; waiter; walking; war zone; warbird, Romulan; warp modulation; water; waveform; weapon; weather; "whoa"; witness
+
+
+==== Library computer references ====
+Federation Star Chart ("The Explored Galaxy"): Aldebaran; Alfa 177; Alpha Carinae; Alpha Centauri; Alpha Majoris; Altair VI; Andor; Ariannus; Arret; Babel; Benecia; Berengaria VII; Beta Aurigae; Beta Geminorum; Beta Lyrae; Beta Niobe; Beta Portolan; Camus II; Canopus III; Capella; Daran V; Delta Vega; Deneb; Eminiar; Fabrini; First Federation; Gamma Canaris N; Gamma Trianguli; Holberg 917G; Ingraham B; Janus VI; Kling; Kzin; Lactra VII; Makus III; Marcos XII; Manark IV; Memory Alpha; Mudd; Omega IV; Omega Cygni; Organia; Orion; Pallas 14; Phylos; Pollux IV; Psi 2000; Pyris VII; Regulus; Remus; Rigel; Romulan Neutral Zone; Romulus; Sarpeid; Sirius; Talos; Tau Ceti; Theta III; Tholian Assembly; Vulcan
+
+
+==== Deleted references ====
+forward saucer associative
+
+
+=== External links ===
+"The Mind's Eye" at Memory Beta, the wiki for licensed Star Trek works
+"The Mind's Eye" at Wikipedia
+"The Mind's Eye" at MissionLogPodcast.com
+"The Mind's Eye" script at Star Trek Minutiae
+"The Mind's Eye" at the Internet Movie Database

@@ -1,0 +1,267 @@
+Several crew members suffer violent hallucinations and comas as alien researchers visit the ship.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+"Captain's log, Stardate 45429.3. While on a mapping survey, we are conveying a delegation of Ullians to Kaldra IV. These telepathic historians conduct their research by retrieving long-forgotten memories."
+Three Ullians, Inad, Tarmin, and Tarmin's son Jev, have come on board the USS Enterprise-D. Interviewing Keiko O'Brien in Ten Forward, Tarmin probes her memory of a cup, which she knows is important but whose context she cannot recollect. With his help, Keiko remembers bit by bit that it was used by her obachan to wash brushes used in Japanese calligraphy. She thanks the Ullians for the retrieval of the pleasant memory. Tarmin attempts to persuade Dr. Crusher to undergo the probe but is reminded by Jev that they are not to probe people without permission.
+
+
+=== Act One ===
+Data and Geordi La Forge discuss the nature of memory while walking together in a corridor. Data is puzzled over the importance of the Ullians' ability to retrieve memory, as he believes that if an event is important, it should not be forgotten. La Forge tells him that it is not that simple for Humans, as they cannot recall certain memories in an instant. As an example, he tells Data that he cannot even remember what he did on his last birthday. Data notes that perhaps Humans choose to only remember their good memories and disregard the bad ones. La Forge responds that it does not work that way, as bad memories usually are the most intense of all. Upon exiting the turbolift they are in, Data remarks that there seems to be no predictable pattern to Human memory.
+Later, at a dinner for the Ullians with the senior staff, Tarmin describes the Ullians' project to build an archive of memories from many worlds, calling his group "archaeologists of the mind." However, he is stymied by the staff's refusal to undergo the procedure. He embarrasses his son with an anecdote of quickly retrieving a memory that Jev could not. Piqued, Jev leaves the dinner. Counselor Troi follows him and sympathizes with him about having an overbearing parent. She then returns to her quarters. But while getting ready for bed, she has flashes of memory about a romantic encounter she had with Commander Riker. She gets a hot chocolate from her replicator to try to calm down. The memory turns unpleasant, however, when he begins to force himself on her – and then turns into Jev, who also appears elsewhere in the room. She then falls into a coma.
+
+
+=== Act Two ===
+
+"Captain's log, Stardate 45430.9. Counselor Troi has fallen into a deep coma. After a thorough examination, Dr. Crusher has been unable to find signs of illness or infection."
+In sickbay, Dr. Crusher and Dr. Martin are examining Troi and bringing Riker and Picard up to date on her condition. They cannot identify the cause of the coma, standard revival techniques have failed, and Dr. Crusher does not want to attempt anything else without identifying the cause. Picard asks who the last person was to speak to Troi before she fell into her coma. Riker tells him she left the dinner with one of the Ullians and he will go and talk to him. Before he leaves, Picard also asks Riker if he would request that the Ullians consent to an examination.
+Riker goes to speak with Jev in Ten Forward, who reacts with a certain hostility to the questions Riker poses regarding his whereabouts and the speculations about an Ullian cause for the coma. But he agrees to an examination.
+
+Riker goes to sickbay to see Troi and speaks with her, hoping she can hear him despite the coma. He remembers that she did the same for him when he was in bad shape. He is exhausted and emotional; Dr. Crusher tells him it's late and to get some sleep. Back in his quarters, he, like Deanna, experiences flashes of memory. He is in main engineering during a containment breach; he must order the closure of the emergency door, trapping Ensign Keller inside. A colleague of hers angrily accuses him of killing her; this officer turns into Jev. When Picard tries to contact Riker, he does not respond; Worf goes to investigate, he enters Riker's quarters and finds him unconscious, lying face down on his table.
+
+
+=== Act Three ===
+"Medical log, Stardate 45431.7. Commander Riker is the second officer who has fallen into an unexplained coma. I have examined the Ullians and ruled out the possibility that they are carrying a harmful organism."
+Crusher has found an electropathic residue in the thalamus – the memory center – of both Troi and Riker. This suggests Iresine syndrome, but that condition is ruled out because the two patients are not showing decreased histamine levels. Worf suggests quarantining the Ullians, but Picard says no.
+When spoken to by Picard, Tarmin reacts with shock to the notion that the Ullians could cause the comas. Inad, however, agrees to such monitoring for the next morning. In the meantime, Dr. Crusher and Dr. Martin scan Keiko, who does not show any unusual signs, not even the electropathic residue that the others present; and La Forge searches for agents that can cause electropathic residue, finding nothing aboard the Enterprise.
+
+Crusher continues to research Iresine syndrome in her office; but as she works, she experiences the same memory flashes. In her case, she sees a younger Picard accompanying her in a morgue at Starbase 32 to see the body of her husband Jack. Picard turns into Jev, as does Jack – horrifyingly opening his eyes. In fear, she turns to Picard, who is also Jev; and lets out a frantic scream.
+
+
+=== Act Four ===
+When La Forge and Data come to deliver La Forge's report to Crusher, they find her in a coma. La Forge rushes to check on her while Data signals a medical emergency to her office.
+As La Forge and Data report the incident to Captain Picard in his ready room, he orders Data to investigate the other planets that the Ullians have visited for unexplained comas. He also decides to restrict the Ullians to their quarters, though La Forge questions the effectiveness of this measure on telepaths. They are interrupted by the news that Troi has awakened. In sickbay, she reports that she cannot remember the circumstances of falling into the coma.
+The Ullians react with irritation to being asked to stay in their quarters; even Inad reacts, asking for permission to help clear their name by conducting a memory search on Troi. Picard, despite his concern for exposing Troi to telepathy so soon after her ordeal, agrees but will discuss the request with Troi first.
+Data and La Forge have not found any unexplained comas in their search; the Epsilon Nel system has yet to report. However, La Forge suggests seeking cases of Iresine syndrome, thinking that it might have been misdiagnosed. Indeed, two cases of Iresine syndrome turn up on Hurada III while the Ullians were present.
+Troi agrees to the memory search, which Jev conducts. She revisits the memory that provoked her coma – but this time, Jev is replaced in her memory by Tarmin.
+
+
+=== Act Five ===
+"Captain's log, Stardate 45433.2. We have set a course for Starbase 440, where the Ullians will disembark and return home."
+Jev apologizes to Picard for Tarmin's behavior and offers the full support of the Ullian legal system. Although Picard says the Federation has no law against telepathic memory invasion, the Ullians do, and the penalty is severe, even though the practice has been unheard of for centuries. Picard notes that Tarmin is strenuously maintaining his innocence.
+Meanwhile, Data and La Forge receive a transmission from the Nel system, reporting unexplained comas. Tarmin is cleared when they discover that he was on the Ullian homeworld at the time, between Stardates 45321 and 45323.
+
+Jev goes to visit Troi in her quarters to apologize. As he does so, however, he begins to make alarming remarks about her beauty. Abruptly, she starts to have the flashes of her previous memory. She realizes it was actually him in the memory, not Tarmin, and fights back physically. He throws her across the room, but Worf, Data, Kellogg, and another security officer burst in and overpower him. Data tells Troi they have discovered that Jev, not Tarmin, was the only Ullian present at all the incidents of coma.
+
+"Captain's log, Stardate 45435.8. Dr. Crusher and Commander Riker have regained consciousness while we were en route to the Ullian homeworld. A slow process of their recovery has begun."
+The situation resolved, Tarmin promises the assistance of Ullian physicians but warns that no incidences of this form of rape have occurred in over three hundred years, and these physicians might be somewhat out of practice. Tarmin himself is badly shaken by the thought that any Ullian, much less his own son, could have committed acts that have not been known since a dark time in Ullian history was resolved. Picard notes that, although Earth experienced such times and is now peaceful, it is important for both Humans and Ullians to recognize that the seed of violence remains within all of them. To forget that is to risk allowing such a seed to grow and consume them, as it did Jev.
+
+
+== Memorable quotes ==
+"How about you, Commander? Got any memories you feel like digging up?"
+"None that I'd care to share with an audience."
+
+- La Forge and Riker
+
+"What is the last thing you do remember?"
+"My hair. I was brushing my hair."
+
+- Picard and Deanna Troi
+
+"Klingons do not allow themselves to be... probed."
+
+- Worf
+
+"I miss you. Please don't stay away too long."
+
+- Riker to a comatose Troi
+
+"I'm not implying that you did anything intentional. I'm just trying to get to the bottom of the mystery."
+"We have nothing to hide. If you wish to spend time examining us..."
+"Fine. Thank you."
+
+- Riker and Jev, while Troi is in a coma in sickbay
+
+"It's not easy having an overbearing parent, believe me, I know how you feel."
+
+- Deanna Troi, to Jev
+
+"I've learned to remind myself that my mother and I are two separate individuals."
+"Mm-hmm. And have you enjoyed much success with this approach, Counselor?"
+"No. But I do keep reminding myself."
+
+- Deanna Troi and Jev
+
+"I've heard doctors say that even when someone's in a coma, they may be able to hear when people talk to them... that it might help stimulate the brain and speed the healing. In fact, I think you did that for me once, when I was in pretty bad shape."
+
+- Will Riker, making a reference to "Shades of Gray"
+
+"Why do you have to be so nice? So... so lovely."
+
+- Jev, as he prepares to telepathically rape Troi
+
+"It's been three centuries since we treated anyone for this... this form of rape. But there are medical records from that era. It was a time of great violence for my people, a time we thought we had put far behind us. That this could happen now... It's unimaginable."
+"Earth was once a violent planet, too. At times, the chaos threatened the very fabric of life, but, like you, we evolved; we found better ways to handle our conflicts. But I think no one can deny that the seed of violence remains within each of us. We must recognize that. Because that violence is capable of consuming each of us, as it consumed your son."
+
+- Tarmin and Captain Picard, last conversation of the episode
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 25 October 1991 [1]
+Filmed: 28 October 1991 – 6 November 1991
+Second unit inserts shots filmed: 25 November 1991
+Several reshoots filmed: 27 November 1991
+Premiere airdate: 3 February 1992
+First UK airdate: 8 March 1995
+
+
+=== Story and script ===
+"Violations" went through many versions, which each approached the issue of rape from a different angle. Jeri Taylor recalled that the story "was very dear to my heart, because it was a rape story and we felt we wanted to avoid the classic rape story, which is someone gets raped and then we do the emotional aftermath. That's a story that's been told and told and told and told. We felt we had nothing fresh to offer." It was Jeri Taylor and intern Pamela Gray who decided on the science fiction twist of mental assault. (Star Trek: The Next Generation Companion, 2nd ed., p. 189; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+Taylor commented that the concept "was an immediately attractive idea: the idea of rape being a mental thing as opposed to a physical thing. Even though it's mental, not physical the violation is no less profound." (Star Trek: The Next Generation 365, p. 240)
+The writing staff created memory flashbacks for every major character before Troi, Riker, and Crusher were chosen. One involved Ro's actions on Garon II. Another, involving La Forge's traumatic childhood experience of a fire, was used by Joe Menosky in "Hero Worship". (Star Trek: The Next Generation Companion, 2nd ed., p. 189) Ronald D. Moore recalled, "[I]t became an issue of what are those little dream sequences going to be and how are we going to present the antagonist and the victims, and what are they saying about the characters and what are going to be the things that are intimate and personal to them? [...] We just wanted them to all look a little different." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+
+
+=== Production ===
+
+This episode was filmed between Monday 28 October 1991 and Wednesday 6 November 1991 on Paramount Stage 8, 9, and 16. Second unit inserts shots were filmed on Monday 25 November 1991 on Paramount Stage 8, and several reshoots were filmed on Wednesday 27 November 1991 on Paramount Stage 9.
+Director Robert Wiemer was given permission from Rick Berman to use a number of different camera techniques to give the flashbacks a very different feel. While Berman was not usually a great believer in such techniques, he felt the nature of the story meant it was appropriate here. The scenes in "reality" were shot in a conservative manner to heighten the contrast. (Star Trek: The Next Generation Companion, 2nd ed., p. 189; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237) Special cameras were used: Panastar high speed cameras with a low angle-wide angle prism and 14910 mm lens and another one with a 100 mm macro lens. ("Violations" call sheet) For Beverly Crusher's flashback, actors Patrick Stewart and Gates McFadden sat on a camera dolly, creating a surreal floating effect. (Star Trek: The Next Generation Companion, 2nd ed., p. 189)
+This is the first episode to be produced following creator and executive producer Gene Roddenberry's death. The call sheet for Thursday 31 October 1991 features a note that, on Friday 1 November 1991, the production would shut down at 1:00 pm and that the Gene Roddenberry Memorial Service would be held at 2:00 pm.
+On Wednesday 30 October 1991, investors had a walk-through Paramount Stage 8 at 7:00 pm. ("Violations" call sheet)
+While she wore wigs during all of Season 5, Gates McFadden's real, longer hair was used during the flashback scene with Crusher and Picard at the morgue. (citation needed • edit)
+
+
+=== Sets and props ===
+
+During Riker's rape, his replicator computer graphic is a 23rd century version (apparently used during production of Star Trek VI: The Undiscovered Country). The replicator display in Troi's quarters also features this apparent error. This graphic error had also been seen earlier in the season, on the replicator in Berlinghoff Rasmussen's quarters in "A Matter Of Time".
+The executive dining room is a re-dress of the observation lounge set and was also built on Paramount Stage 8. According to the turbolift sign, it is located on Deck 3. ("Violations" call sheet)
+The wall decoration seen in the executive dining room was previously used for Proconsul Neral's office in the episodes "Unification I" and "Unification II".
+
+
+=== Cast and characters ===
+This is the only episode of either The Next Generation or Deep Space Nine in which Rosalind Chao appears as Keiko O'Brien without Colm Meaney.
+This is the second of three appearances of Doug Wert as Jack R. Crusher. He first appeared in "Family", and later reprised the role in "Journey's End".
+
+
+=== Continuity ===
+In Star Trek: The Next Generation 365 (p. 240), authors Paula M. Block and Terry J. Erdmann note that "mind rape" previously appeared in the Star Trek: The Original Series episode "Mirror, Mirror" (where the mirror universe Spock forced a mind meld on Leonard McCoy to obtain information) and in Star Trek VI: The Undiscovered Country (where prime Spock did the same to Valeris). They acknowledged that the latter was done in circumstances of extreme urgency. (Star Trek: The Next Generation 365, p. 240)
+The concept of telepathic rape was explored again in Star Trek Nemesis, with Counselor Troi once again the target. In the film, she refers to the experience as a "violation", like the title of this episode. The idea was also explored in a later Star Trek series - but earlier in the overall franchise chronology: In the Enterprise first-season episode "Fusion", a Vulcan named Tolaris introduces T'Pol to mind-melding but does not stop when she asks him to. This mental-rape arc culminates in the second-season episode "Stigma".
+While Riker keeps a comatose Troi company, he mentions that she had done this for him before, referring to the events of the second season episode "Shades of Gray".
+During Jev's final attack on Counselor Troi, Deanna employs a two-handed ear slap, similar to 23rd century hand to hand Starfleet training, commonly referred to as Kirk Fu. The most obvious example of this move is seen in the TOS episode "Arena".
+
+
+=== Reception ===
+Brannon Braga remarked, "[I]t's a great science-fiction show and I'm a big fan of surreal imagery [...] We had a good story – mind rape, mental violation of memories – and it becomes an oblique science-fiction metaphor for a compelling issue of today. Beautifully directed; stylistically, the most daring show we've done." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+Rick Berman commented, "I thought it worked out quite nicely and Bob Weimer did a lovely job. It was his ability to get quite abstract in filmic techniques [...] I think we had a wonderful episode with some great acting. It was very mystical and very interesting." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+Jonathan Frakes criticized the choice of flashback for his character. He remarked, "[W]here did Riker rushing people out of engineering come from? That's a no-brainer. Riker would just say, 'That's the way it is. People die, shit happens.' His worst fear is not rushing people out of engineering. That didn't come out of character." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+However, Michael Piller explained, "You have to make sure you don't misinterpret what this guy was doing. He was basically going into your memories and playing in them for his own amusement, pleasure and fulfillment. He was not going in and exploring any character's greatest fear. He might go in and feel that today he wants to see Troi's sexual secrets and tomorrow he may want to see Riker's unhappiest memory and see him suffer. I don't think it's something Riker carries with him as a burden for the rest of this life. It's a memory that's part of his life, just like Tasha's first death would be for him." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 236-237)
+Jeri Taylor saw this episode as opening up new concepts for the series. She noted, "We had been doing so many political shows that the success of this one reminded us that maybe we could do more with the mental side of [science fiction], exploring the bizarre possibilities of psychological dramas." (Star Trek: The Next Generation Companion, 2nd ed., p. 189) Elsewhere, she stated, "It was spooky, weird, alien, unusual. It worked so well we said maybe we need more of that and maybe the science fiction aspect of Star Trek is not getting all the play that it needs. Sometimes we get political, we get emotional, but are we really going with the weirdness of the Roddenberry universe?" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 236)
+Taylor remembered that after the episode aired, the staff received fan letters disappointed that the Riker-Troi romance was not revisited in the following episodes. She believed this was a misunderstanding, as the flashback was intended as simply that, not a hint for the future. (Star Trek: The Next Generation Companion, 2nd ed., p. 189-190)
+A mission report for this episode, by John Sayers, was published in The Official Star Trek: The Next Generation Magazine issue 20, pp. 26-28.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 56, 16 November 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.4, 2 September 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Rosalind Chao as Keiko O'Brien
+Ben Lemon as Jev
+David Sage as Tarmin
+Rick Fitts as Martin
+Eve Brenner as Inad
+
+
+=== Co-stars ===
+Doug Wert as Jack R. Crusher
+Craig Benton as Crewman Davis
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Michael Braveheart as Martinez
+Debbie David as Russell
+Camara as operations division officer
+Cameron as Kellogg
+Victoria Cameron as waitress
+Bo Ching as Keiko's grandmother
+Dawn Cleveland as Keiko Ishikawa (child)
+Tracee Lee Cocco as Jae
+John Copage as science division officer
+Tony Cruz as Lopez
+Gina Gallante as science division officer
+Grace Harrell as operations division officer
+Melanie Hathorn as sciences officer
+Hunt as operations division officer
+Joly as command division ensign
+Arvo Katajisto as Torigan
+Kim as operations division officer
+Alex Landi as operations division officer
+Mark Lentry as civilian
+Jay Montalvo as operations division officer
+Ivonne Perez as civilian
+Randy Pflug as Jones
+Greg Poole as command division officer
+Keith Rayve as command division ensign
+Bill E. Rogers as operations division officer
+Talbot as Ten Forward waitress
+John Tampoya as command division ensign
+Mikki Val as operations division officer
+Xavet as waiter
+Unknown actor as Ten Forward waiter
+
+
+=== Stunt double ===
+Tom Morga as stunt double for Ben Lemon
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Melba Gonzalez – stand-in for Marina Sirtis
+Joe – stand-in for Jonathan Frakes
+Tim McCormack – stand-in for Brent Spiner, David Sage, Craig Benton, and Ben Lemon
+Lorine Mendell – stand-in for Gates McFadden
+Nancy Muñoz – stand-in for Eve Brenner
+Richard Sarstedt – stand-in for Jonathan Frakes and Doug Wert
+Sissy Sessions – stand-in for Rosalind Chao
+Dennis Tracy – stand-in for Patrick Stewart and David Sage
+Guy Vardaman – stand-in for Ben Lemon
+James Washington – stand-in for Michael Dorn and Rick Fitts
+
+
+=== References ===
+21st century; 23rd century; 2343; accusation; alien; amusement; antimatter injection breach; archaeologist; As You Like It; assault; audience; authority; bed; Betazoid; bilenium; binary system; binary star system; biofilter; birthday; brain; brain scan; byproduct; calligraphy; century; cerebral cortex; chat; chemical substance; childhood; chrysimite; Circassian cat; cleaning; coma; computer; confined to quarters; consciousness; CPK levels; crime; cup; dardilion; day; delegation; diagnosis; diencephalon; dinner; dizziness; doctor; Earth; electropathic activity; electropathic pattern; electropathic residue; emergency medical team; empath; Epsilon Nel system; era; evidence; experience; face; fear; ferrazene; force field; framing; friend Genton; Genton contingent; Gentonian trade wars; guard; hair; hairbrush; headache; healing; health; hearing; hippocampus; histamine; histamine count; hot chocolate; hour; Human; humming; humor; Hurada III; hylanatine; illness; imzadi; individual; infection; infestation; ink brush; innocence; Iresine Syndrome; isolation door; Japanese; Japanese brush writing; Jefferies tube; Kaldra IV; Keller; kiss; Klingons; library; liquid; listening; manzene; mapping survey; medical condition; medical database four-delta-one; medical facility; medical log; medical personnel; medical record; Melina II; Melina II Planetary Medical Database; memory; memory circuit; memory probe; mind; mission log; molecular structure; morgue; mystery; Nel III; neurological disorder; neurological scan; neurotransmitter; nightmare; nilizene; obachan; off-white; office; oral historian; order; organism; parasite; permission; personnel review; pet; physical examination; planets surveyed by Ullians; poker; prisoner; project; prosecution; punishment; question; race; radiation level; rape; recollection; recuperation; report; result; resurrection; RNA sequence; room; second; sector containing binary star system; sense of humor; sign (indication); sleep; sound; spoon; Starbase 32; Starbase 440; Stargazer, USS; star system; star systems visited by Ullians; storehouse; story; strain; symptom; table; tarrisite; tea; telepath; telepathic historian; telepathic memory invasion; telepathic memory retrieval; thalamus; thinking; tone of voice; training; transporter log; transporter room 3; Troi, Lwaxana; turbolift; Ullians; Ullian homeworld; Ullian physicians; unconsciousness; understanding; victim; violence; virus; vital signs; voice; water; week; year
+
+
+==== Other references ====
+Epsilon Nel System Data Translink (Remastered): Alpha Municipality; Epsilon Municipality; Farrell Hospital; Goodhartz Medical Facility; Grant Municipality; Lauritson, Peter; Neuss, Wendy; Ryan Center
+Epsilon Nel System Data Translink (Retconned): Gray Municipality; Taylor Hospital; Wiemer Medical Facility
+Melina II Planetary Medical Database: FASFS; Gray Municipality; Hutzel, Gary; MD; Legato, Rob; Melina II Planetary Medical Database; Takemura, David; Taylor Hospital; Thorne, Rich; VES; Wiemer Medical Facility
+Starbase 32 – Starfleet Operational Support Services – Maxia Sector: Arce, Dolores; Arnold, Richard; Balder, Richard; Berman, Rick: Blackman, Bob; Braga, Brannon; Brownfield, Dick; Charnock, Jr., Ed; Chess, Joe; Chronister, Richard; Conley, Tom; Curry, Daniel; D'Angelo, Dick; Dean, Doug; Fatjo, Lolita; Fitzgerald, Kim; Fukai, Arlene; Gluckstern, Cheryl; Genovese, Cosmo; Howard, Merri; Jacobson, Phillip; James, Richard; Johnson, Ralph; Julian, Heidi; Kunz, Carol; Lauritson, Peter; Legato, Rob; Livingston, David; Longo, Joe; Magdaleno, Jim; Martinez, Terri; Maxia sector; McKnight, Scott; Mees, James; Menosky, Joe; Moore, Ronald D.; Moore, Tom; Neskoromny, Andrew; Nesterowicz, John; Neuss, Wendy; Nielsen, Louise; Over, Ernie; Overdiek, Diane; Peets, Bill; Piller, Michael; Purser, Tom; Ramirez, Maricella; Roddenberry, Gene; Rosenfeld, Wendy; Rossi, David; Rowe, Rick; Rush, Marvin; Russo, Charlie; Sepulveda, Fernando; Shimizu, Suzi; Simmons, Adele; Sims, Alan; Smothers, Waverly; Smutko, Alex; Sordal, Bob; Speckman, Gary; Starbase 32; Starbase 32 personnel; Starfleet Operational Support Services; Stradling, Michael; Stuart, Jr., George; Sternbach, Rick; Stillwell, Eric; Stuart, Jr., George; Taylor, Jeri; Thomas, Cari; Thoms, Bill; Thorpe, Jim; Wiltz, Murphy; Wright, Edmond; Wright, Herb; Yacobian, Brad
+
+
+==== Unused production references ====
+Sector 22139
+
+
+=== External links ===
+"Violations" at Memory Beta, the wiki for licensed Star Trek works
+"Violations" at Wikipedia
+"Violations" at MissionLogPodcast.com
+"Violations" script at Star Trek Minutiae
+"Violations" at the Internet Movie Database

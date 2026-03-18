@@ -1,0 +1,253 @@
+An alien computer program wreaks havoc with the station's systems during a visit from Lwaxana Troi and other ambassadors.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Station log, stardate 46925.1. We have been honored with a visit by a delegation of Federation ambassadors on a fact-finding mission to the wormhole. Fortunately, I have just the officer to take them off my hands."
+Dr. Bashir sits in Quark's with a trio of ambassadors: Lojal, a Vulcan, Vadosia, a Bolian, and Taxco, an Arbazan. The ambassadors pester him in every way imaginable; he cannot please them no matter how hard he tries. Their conversation is interrupted as the fourth ambassador, Lwaxana Troi, cries out from the dabo table. Her latinum hair brooch has been stolen. Quark claims his establishment is not responsible for lost or stolen items, but the Betazoid seizes his lobe and demands that everyone in the room be strip-searched until her brooch is found. Fortunately, chief of security Odo arrives and, after a few brief questions, glances around the bar and apprehends a Dopterian pick-pocket who has it. Amazed, Lwaxana asks him how he solved the mystery, and he explains that, since she couldn't sense any guilt in the room, the thief had to be someone immune to telepathy, such as a Ferengi like Quark. However, as Odo doesn't believe Quark would stoop down to petty theft, he instead focused on a member of the Ferengi species's distant relatives, the Dopterians. As Odo leaves, Lwaxana commands Bashir to tell her everything he knows about the station's security chief, and it becomes apparent that he has caught the ambassador's eye.
+
+
+=== Act One ===
+In Ops, Chief O'Brien struggles to force the Cardassian computer system to work, as it has a tendency to argue with his suggestions, gives him its opinion, and even on occasions overrules his requests. With the help of Anara, he tries to operate it manually, but continues to have trouble. The problem is so bad, he explains to Commander Sisko, that he is seriously considering completely overhauling and replacing the computer, a procedure that would take around two to three years to complete. Sisko employs his dry humor, but O'Brien is clearly too frustrated to take it well. Sisko makes clear he trusts him to do what is best.
+Just then, Bashir and the other three ambassadors arrive in the turbolift, having insisted on seeing Ops. Commander Sisko is forced to make conversation, but saved when a mysterious probe comes through the wormhole. The ambassadors interject a bit during the analysis, as Lojal assumes Dax is only a young woman without the necessary experience and Vadosia seems intent on being involved in what may be first contact with a new species. However, Bashir and Sisko are able to stand them down. Sisko assures them there will be a briefing later.
+Meanwhile, Lwaxana finds Odo in the security office and flirts heavily with him. She is fascinated by the idea of "being" with a shapeshifter. However, the constable is visibly disquieted by her advances and pretends to hear a com signal and leaves in a hurry.
+
+
+=== Act Two ===
+O'Brien and Dax interface with the probe, and the chief finds that the station's computer is cooperating surprisingly well. However, the probe's computer system is unlike anything they've ever seen before. After a while, Anara finds the probe is made out of a type of corundium alloy when suddenly the computer says it's completed an analysis much earlier than expected. O'Brien and Dax come over to see that the probe is just a powerful computer – no communications or science modules, or hint of its origin or mission.
+Meanwhile, Odo passes by the group on his way to Sisko's office and complains to the commander about Lwaxana's advances (like a Wanoni tracehound), but Sisko is unable to help him. He suggests he handle the matter "delicately." As he leaves, Lwaxana manages to catch up with Odo despite his attempts to avoid her, saying she's reserved a holosuite with Quark for a picnic. Saying he's not available and tries to re-enter the turbolift, she follows him headed for one of the upper pylons. Intent on having a picnic with him, she says she will send for her picnic basket. He finally goes on a rant about how different he is, but she ignores it. Before they reach their destination, however, the turbolift stops abruptly as the station's systems begin acting up. Dax attempts to beam them out with the Ops transporter, but something causes it to malfunction. Lwaxana happily says "alone at last."
+
+
+=== Act Three ===
+
+Odo cannot shapeshift out due to exposed electric circuits running through the turbolift's positioning mechanisms, so he is forced to put up with Lwaxana while the chief attempts to remedy whatever is going wrong. Odo tells Mrs. Troi that he would prefer to pass the time quietly, however naturally Lwaxana isn't happy with that (while also noting she tends to be attracted to quiet men) and starts telling Odo about the time she was held captive on a Ferengi ship along with her daughter. Odo begins to seriously consider risking the exposed circuit…
+In Ops, Bashir begs Commander Sisko to relieve him of his escort duties. Sisko refuses, telling the young officer that he himself had to do the same and in fact Curzon took a perverse pleasure in giving him the unwelcome duty of escorting important guests… until the day Ben punched one of them for trying to force a young ensign into his quarters. Sisko ends the discussion by warning Bashir not to hit any of them, since he won't be as forgiving as Curzon. Chief O'Brien then tells Sisko that he's having a problem with the computer… or rather, he isn't. As strange as he admits that it sounds, O'Brien claims the computer seems nicer somehow, ever since he downloaded the information from the probe. Additionally, every time he leaves Ops, a new problem comes up – as if the computer wants to keep him busy.
+
+
+=== Act Four ===
+"Station log, supplemental. Odo and Ambassador Troi remain trapped in turbolift four. As of yet, we have been unable to ascertain what is causing the station's computer to malfunction."
+Sisko meets with Dax and Kira in Ops and they attempt to come up with an explanation for what is happening. Dax hypothesizes that the information in the probe might be a type of sentient non-biological lifeform. O'Brien suggests it's not malevolent, as it's not doing damage, so he suggests uploading the probe's files back to the probe. However, Sisko and Kira realize that it may be time for Odo to regenerate, meaning he will revert to his liquid state unless they can get him out of the turbolift. When O'Brien attempts to re-download the information into the probe, the lights go dim and the station shuts down.
+In the turbolift, Lwaxana finishes talking about her life and asks Odo if he wants to talk about himself for a while. Although it takes a while for him to open up, Odo starts to tell her about how he began his life being studied by a Bajoran scientist as he learned to become self-sufficient. He then begins to tell the Betazoid that, after that, he tried to fit in by entertaining people at parties, which is why he hates parties so much. Lwaxana tells him that, if he goes to one of hers, she promises everyone will be there to entertain him. Odo finds that, despite his initial reluctance, he is starting to appreciate Mrs. Troi's company. However Odo is also starting to feel pain, as he tries to hold off his need to regenerate.
+Meanwhile, O'Brien has come up with a plan to distract the lifeform that has taken over the station; as he slowly tries to cut it off from the station's systems, Sisko, Dax and Anara give the computer increasingly complex commands. The plan seems to be working, but something goes wrong and the system overloads. A fire erupts in one of the corridors, where Bashir is escorting the ambassadors to their quarters. They are trapped.
+
+
+=== Act Five ===
+Breaking through the doors sealing Bashir and the ambassadors in the corridor will take longer than expected, so Sisko and Kira work on it. In Ops, O'Brien comes up with a plan. Thinking of the lifeform as a puppy, he realizes it thrives on attention and begins to "build a doghouse," although Dax has no idea what he is talking about.
+As Odo begins to lose his ability to hold his shape, Lwaxana can see that his is in pain, yet he turns his back toward her and refuses to show his weakness. He tells her that he's not ashamed, it's just a part of himself that he'd rather keep private and no-one (other than the Bajoran scientist) has ever seen him like this. Just then Lwaxana holds forward her hair, revealing it to be a wig. Odo turns around to see Lwaxana with her real black hair tightly pinned up, telling him that no-one has ever seen her like this. Odo assures her that she looks fine, but Lwaxana tells him she looks 'ordinary', something she's never cared to be and she herself changes who she is. Odo tells Lwaxana that she isn't at all like he expected, and Lwaxana gratefully accepts the compliment and kindly offers to take care of him. Finally trusting Lwaxana, Odo transforms into his liquid state and houses himself in a fold in her dress.
+Kira and the others continue to try to get into the corridor while O'Brien prepares to set his plan into action. He sets up a special program through which all station commands can be performed, transferring the "puppy" into the doghouse. Satisfied to be at the center of the action, the lifeform returns the station to normal.
+As a result, Sisko and a team finally manage to enter the corridor where Bashir and the ambassadors were trapped, and the fire suppression systems begin to work. After being briefly thought dead, Bashir and the ambassadors emerge from a conduit, dirty and disheveled but completely uninjured. The ambassadors' opinions of Bashir have considerably changed, having been quite humbled by the experience and impressed at how he handled it, and intend to put him in for a commendation. Meanwhile, Odo and Lwaxana finally emerge from the turbolift, shape and wig restored. Odo thanks Lwaxana for her company, telling her that can't have been what she intended for their picnic. Lwaxana assures Odo that all that really matters on a picnic is the company, and promises him they will meet again.
+Sisko asks O'Brien how he resolved the situation, and he explains he isolated it into a subprogram (but not sent back to the probe). Surprised he suggests keeping it around, O'Brien assures him it won't bother them and he'll give it attention. Sisko tells him to "keep it off the furniture."
+
+
+=== Log entries ===
+Station log, Deep Space 9, 2369
+
+
+== Memorable quotes ==
+"You are dealing with a daughter of the Fifth House, holder of the Sacred Chalice of Rixx, heir to the Holy Rings of Betazed!"
+"Ah! My ear, please!"
+"Yes, and I know where it hurts the most, you little troll!  Now I want this room sealed, and I want everyone in it strip-searched until you find my brooch!"
+
+- Lwaxana and Quark
+
+"What seems to be the problem?"
+"Well, my brooch has been stolen. It's been in my family for 36 generations, it's absolutely priceless and I want it back!"
+"You're certain you were wearing it today?"
+"Yes, of course I'm certain. I never use this hair without it."
+
+- Odo and Lwaxana
+
+"Obviously, the young woman doesn't have the necessary experience, I'm…"
+"The young woman over there has over three hundred years' experience, Ambassador."
+
+- Lojan and Bashir, about Dax
+
+"Is Odo your first or last name?"
+"Yes."
+
+- Lwaxana and Odo
+
+"You are the thin, beige line between order and chaos."
+
+- Lwaxana, to Odo
+
+"I understand you're a shapeshifter."
+"That's correct."
+"I've never been with a shapeshifter."
+"…Been with?"
+
+- Lwaxana and Odo
+
+"All the men I've known have needed to be shaped and molded and manipulated, and finally I've met a man who knows how to do it himself."
+
+- Lwaxana
+
+"Procreation does not require changing how you smell, or writing bad poetry, or sacrificing various plants to serve as tokens of affection."
+
+- Odo to Sisko, in his office, baffled by humanoid mating rituals
+
+"Constable, you can handle thieves and killers, but not one Betazoid woman?"
+"I understand thieves and killers. I don't understand… her!"
+
+- Sisko and Odo
+
+"I've always wanted to see an upper pylon."
+
+- Lwaxana, pursuing Odo
+
+"I don't eat! This is not a real mouth. It is an approximation of one. I do not have an esophagus, or a stomach, or a digestive system. I am not like you. Every sixteen hours, I turn into a liquid!"
+"I can swim."
+
+- Odo and Lwaxana
+
+"Great. Everything's in working order, except nothing's working."
+
+- Kira
+
+"All of us have had these assignments, Doctor."
+"Have you, sir?"
+"As a matter of fact, Curzon Dax used to take perverse pleasure in assigning me to take care of VIP guests."
+"Ah, so now you take the same perverse pleasure in doing it to me."
+"Exactly!"
+
+- Sisko and Bashir
+
+"Nothing makes them happy! They are dedicated to being unhappy and to spreading that unhappiness wherever they go! They are the ambassadors of unhappy!"
+
+- Bashir, on the Federation delegation
+
+"I guess you could say I was the life of the party."
+"I don't think I understand."
+"My way of trying to fit in. I found I could be entertaining. 'Odo, be a chair.' I'm a chair. 'Odo, be a razorcat.' I'm a razorcat. Life of the party… I hate parties."
+"Maybe you've just been to the wrong ones. Come to one of mine, I'll make sure that all the guests are there to entertain you."
+
+- Odo and Lwaxana
+
+"No one's ever seen me like this."
+"Why? It looks fine."
+"It looks ordinary. I've never cared to be ordinary. So you see, Odo, even we non-shapeshifters have to change who we are once in a while."
+"You are not at all what I expected."
+"No one's ever paid me a greater compliment."
+
+- Lwaxana and Odo, when she shows him her wig as he begins to melt
+
+"I know that wasn't exactly what you had in mind for your picnic."
+"When it comes to picnics, the only thing that really matters is the company."
+
+- Odo and Lwaxana
+
+"Keep it off the furniture."
+
+- Commander Sisko, speaking of the lifeform after O'Brien gave it a "doghouse" to play in.
+
+
+== Background information ==
+
+
+=== Story and script ===
+The earliest working title for the episode was "Ghost in the Machine". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 54) A later working title was "Only the Lonely", named after a song by Roy Orbison. (Star Trek: Deep Space Nine Companion, p. 58) The episode's first draft script, dated 23 February 1993, had that working title.
+The first draft of this episode was deemed not entirely successful; in Michael Piller's words, it "didn't quite work." Piller subsequently took on the job of rewriting the script, initially turning in the rewritten first act. Meanwhile, the Writers Guild of America had yet to finalize the episode's writing credits. (The Official Star Trek: Deep Space Nine Magazine issue 3, p. 13) Piller commented: "We were looking for A/B/C stories that gave us the opportunity to do lots of little stories in that same 'life on the space station' vein. We were also looking for bottle shows to save money. This does fit into the category of the season, where it was time to start paying the piper. I figured putting two people in an elevator has got to save money somewhere". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 54))
+As noted by Piller, "The Forsaken" was written as a "bottle show", to save money at the end of the first season. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 54)
+Writer Jim Trombetta said of the psychological implications of what Odo goes through in this episode, "It goes back to the Renaissance and the characters referred to as 'gentlemen'. They had to be hard warriors with a hard shape, like armor. There's an anxiety if men become soft. They become helpless, babylike. Men don't like that. So here that caption works very vividly. Odo's a constable and a very tough guy, but he has to undergo that process and allow someone else to help him. He has no choice." (Star Trek: Deep Space Nine Companion, p. 59)
+
+
+=== Cast and characters ===
+This episode was one of actor Rene Auberjonois' favorites, as he felt it was extremely important in the early development of Odo. "It helped to establish Odo and give him more dimension than he'd had up to that point," said Auberjonois. (Star Trek: Deep Space Nine Companion, p. 58) As a result, he remarked that this installment "developed the character wonderfully." (Cinefantastique, Vol. 24, No. 3/4, p. 95)
+Majel Barrett Roddenberry (Lwaxana Troi) makes her first of three appearances on DS9 in this episode. Her next appearance is in TNG: "Dark Page", and she again appears in DS9: "Fascination" and "The Muse". Armin Shimerman commented: " It was great working with Majel Barrett. I looked forward to doing that. She was sweet, she was kind and she was funny. She was so at home on these sets. It really looked like someone coming home to roost. The crew adores her, and she was so considerate. Considering her position in the cosmology of Star Trek, she was a very, very considerate person". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 54))
+Jack Shearer (Vadosia) made his first Star Trek appearance here.
+Cirroc Lofton (Jake Sisko) does not appear in this episode.
+
+
+=== Visual effects ===
+The scene in which Odo transforms into his liquid state and slinks into Lwaxana Troi's lap tasked Visual Effects Supervisor Gary Hutzel with depicting Odo in his natural liquid state. Hutzel had his staff of four CGI artists "program several thousand 3D spherical shapes and combine their surfaces mathematically," Hutzel explained, "so we had a kind of bubbling, moving essence inside of the glob that poured into Majel Barrett's lap." It was the first of many episodes to depict a Changeling in his or her natural liquid form. (Star Trek - Where No One Has Gone Before, paperback ed., pp. 164 & 165)
+
+
+=== Continuity ===
+The stardate of this episode actually places "The Forsaken" after "Dramatis Personae", the episode that follows it.
+The events to which Lwaxana refers, involving the Ferengi DaiMon Tog who held her and her daughter Deanna Troi captive, took place in TNG: "Ménage à Troi"."
+A running gag concerning Lwaxana Troi's love interests recurs here. In one scene, Odo is anxiously looking around as he exits a turbolift, fearing running into her (which he does). Jean-Luc Picard acts similarly on the Enterprise when she is on board the ship in TNG: "Half a Life".
+We learn here that Odo's hairstyle was modeled after that of Doctor Mora Pol, although Mora is not mentioned by name. Most other Changelings that appear in future episodes (starting with "The Search, Part I") also wear the same hairstyle. As the Female Changeling states when she first appears, their appearance is based on Odo himself, so their hairstyles were indirectly based on Doctor Mora Pol's hairstyle as a result.
+The computer entity ("Pup") is never mentioned again on screen (however it is mentioned in the 1995 DS9 novel Valhalla), and was presumably destroyed after the activation of Program Sisko 197 by then Major Kira in the fifth season episode "Call to Arms".
+In an apparent continuity error, Odo contacts Ops and explains that he and Lwaxana are stuck in turbolift seven, however SIsko's station log later states that they're stuck in turbolift four.
+
+
+=== Reception ===
+Michael Piller commented, "The idea of having an enemy go into the computer is certainly not a new one, but I think we found a different spin on it and we got some very interesting comedy from Sid and his tour of ambassadors. The ensemble seemed to be working much better for me by this time, and I think that stuff in the elevator will be talked about forever. It's a wonderful performance by Rene, and Majel was at her warmest and most wonderful as Mrs. Troi. She goes from being the woman you can't imagine being stuck in an elevator with to the best companion you could possibly ever have." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 54)
+Rene Auberjonois observed that this episode succeeded at giving the audience insight into Odo's personality. "Through his relationship with Lwaxana, the audience was introduced to an aspect of him that made him endearing, and they really connected with him," the actor stated. (Star Trek: Deep Space Nine Companion, p. 58)
+Rick Berman commented: "I think here's another example of bringing a character from Next Generation that is delightful. Rene remains one of my favourite actors of all time, and he does a wonderful job here. It's remarkably poignant". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 54))
+In her book Star Trek - Where No One Has Gone Before (paperback ed., p. 161), J.M. Dillard cited, in this episode, the conversation Sisko and Bashir have in the commander's office, regarding Bashir's assignment of showing a group of obnoxious ambassadors around the station, as a prime example of Star Trek's commitment to multiculturalism, Dillard stating, "Nowhere is this more evident [in DS9]." She also referred to the discussion as "a simple, amusing conversation" and proceeded to comment, "There's nothing unusual about this conversation – it's the kind that goes on every day in offices all over the world. The difference is that when a black man is talking to a Middle Eastern man in a typical television drama, they are almost certain to be talking about drugs, crime, terrorism, or violence – and are most likely to be presented as uneducated, heavily accented, immoral, or antisocial – but never on Star Trek."
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 9, 10 January 1994
+As part of the DS9 Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Majel Barrett as Lwaxana Troi
+Constance Towers as Taxco
+Michael Ensign as Lojal
+Jack Shearer as Vadosia
+Benita Andre as Anara
+
+
+=== Uncredited co-stars ===
+Ivor Bartels as a Human security officer
+Patti Begley as Bajoran officer
+Robert Coffee as a Bajoran officer
+Frank Collison as Dolak (display graphic)
+Jeannie Dreams as a Human operations division ensign
+Judi Durand as Cardassian Computer Voice
+Robert Ford as operations officer
+Jeffrey Hayenga as Orta (display graphic)
+Randy James as Jones
+Norman Large as Neral (display graphic)
+Mark Lentry as a command division lieutenant
+Chad McCord as operations ensign
+April Rossi as a Ktarian space hooker (display graphic)
+Mark Allen Shepherd as
+Human DS9 resident
+Morn
+Michael Wajacs as Bajoran civilian
+Michael Zurich as a Bajoran security deputy
+Unknown performers as
+Green-skinned alien with beaked face
+Buck-toothed alien criminal (display graphic)
+Dabo girl
+Dopterian thief
+Ferengi criminal (display graphic, unconfirmed)
+Human operations ensign
+Klingon criminal (display graphic)
+Pelian
+Plix Tixiplik (display graphic)
+
+
+=== References ===
+13th century; 2366; adaptive interface link; alloy; ambassador; Andevian II; Arbazan; baby; backup system; Bajor; Bajoran earring; Bajoran master data bank; Bajoran Research Center; Bajoran serena; Bajoran wormhole; bed; beige; beneficiary; Betazed; Betazoid; biological organism; bipolar torch; "bloody"; Bolian; brooch; carbon reaction chamber; Cardassian; Cardassian operational guidelines; career; chair; chief of operations; child; circuit; combadge; com line; command pathway; communications system; computer; computer array; computer virus; concert; conduit; constable; control network; control relay; Corado I transmitter array; core memory; corundium; crew level; DaiMon; daughter; dawn; Dax, Curzon; day; Deep Space 9 levels; deuterium; dice; digestive system; docking port; docking ring; doghouse; doorstep; Dopterian; earring; electromotive coil, emergency crew; emulator module; engineer; engineering; ensign; Enterprise-D, USS; entity; EPS power flow; esophagus; exposed multi-phasing alternating current; fact-finding mission; Federation; Federation-Cardassian border; Ferengi; Ferengi cargo ship; Ferengi sex program (sex); Fifth House of Betazed; fire; fire extinguisher; fire suppression systems (aka fire suppression); first contact; first contact procedure; first year officer; fourth moon of Andevian II; furniture; fusion powerplant; Galaxy-class; gargoyle; generation; guest quarters; habitat ring; hair; hairstyle; hardware; heart; heroism; high-resolution scan; historical database; holoprogram; holosuite; Holy Rings of Betazed; hour; humanoid; humble; isolinear rod; killer; Krayton; KSC; laboratory; latinum; laser-induced fusion; level 1 diagnostic; liaison officer; lifeform; load detection; long range sensor; lyrical; madame; "made love"; manual fire gear; mating ritual; mechanical life; memory node; meter; minute; mirror; moon; Mora Pol; mother ship; mouth; necklace; Nehru colony; New France colony; non-biological lifeform (non-biological); non-shape-shifter; oo-mox; ops; Ops O2 sensor; oxygen; pail; petty theft; phaser; picnic; picnic basket; plant; plasma; plasma burn; plasma surge; poetry; positioning mechanism; probe; procreation; Promenade; "Pup"; puppy; pylon; Quark's; razorcat; reaction chamber; recalibration sweep; regenerative cycle; replicator; root canal; runabout; Sacred Chalice of Rixx; scanner; scientist; science module; second; security chief; security office; security sweep; sensor; sentient; sexually repressed; shape-shift; shape-shifter; shield generator subsystem; shorthand; sir; soul; Starfleet; Starfleet captain; Starfleet Command; starship; station log; stomach; straw; stray; strip search; subprocessor module; subprocessor pattern; subprogram; subspace emitter; subspace link; subspace link-up; swimming; syntax; tech manual; temperature; thief; Tog; tongue; toranium; transporter; transporter pad; Troi, Deanna; troll; turbolift; turbolift power net; viewscreen; VIP; volt; Vulcan; waltz; Wanoni tracehound; wanted poster; wig; woodpole; wormhole; wrestling; year; young female ensign
+
+
+=== External links ===
+"The Forsaken" at Memory Beta, the wiki for licensed Star Trek works
+"The Forsaken" at Wikipedia
+"The Forsaken" at MissionLogPodcast.com
+"The Forsaken" script at Star Trek Minutiae
+"The Forsaken" at the Internet Movie Database

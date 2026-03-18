@@ -1,0 +1,35 @@
+The Borg Collective, also known as the Borg Hive or the Great Borg Empire, was the term used to define the collective intelligence comprising all members linked together into a hive mind via subspace transceivers and calling themselves the Borg. It was the de facto governing power, as the term was considered by individuals, over all Borg civilization in the Delta Quadrant.
+
+
+== Society and government ==
+The Borg Collective made decisions as a single entity, but was ultimately governed by the will of the Borg Queen, herself the only Borg individual with complete autonomy. (Star Trek: First Contact, VOY: "Dark Frontier", "Unimatrix Zero", "Endgame", PIC: "Võx")
+The voice of the collective had a multi-track resonant quality, the sound of the trillions of drones that comprised it speaking as one. (VOY: "Scorpion", et al.)
+The collective form of organization allowed for tremendous efficiency in action and deliberation. With each drone functioning separately according to its instructions, it could at any time be processing information, performing physical actions, or focusing its energy toward other collective goals. The vast resources thus presented to the collective organization allowed for simultaneous execution of a nearly infinite number of tasks as well as nearly limitless calculations. This in turn allowed the Borg to consider multiple courses of action before committing to any one course. The best example of this was the Borg ability to "adapt" nearly instantaneously to any type of attack or threat. By focusing its resources on the threat at hand all possible outcomes and responses could be explored within an extremely short period of time. The result was that the Borg were able to bring a tremendous amount of force, or computational power, to bear on any single problem and overwhelm any opposition by sheer volume of numbers. The collective state of organization also greatly decreased the chance of error that exists with the decision making of individuals or the conflicts of opinion that are a factor in hierarchical organizations. (TNG: "Q Who")
+One consequence of the collective state, noted by Jean-Luc Picard who had more dealings with the Borg than anyone in the Federation except Kathryn Janeway, was that the Borg were utterly without mercy or compassion. In this totalitarian existence, only the needs of the collective as a whole are considered, and in this utilitarian calculation the needs of the unrivaled number of Borg would nearly always override any other considerations. (VOY: "Scorpion")
+
+
+== Collective organization ==
+The Collective was subdivided organizationally. The Borg Queen acted as a central processor or nexus for the Collective; information or instructions disseminated throughout the Collective flowed toward the subdivisions. The "unimatrix" was the highest level of collective organization; the Queen herself resided within Unimatrix 01. Unimatrices could be broken into several "trimatrices". Drones within an unimatrix or trimatrix were designated in groups known as "adjuncts", with the individual drone's identification serving to designate their position within the adjunct. (VOY: "Dark Frontier", "Unimatrix Zero", "Endgame")
+
+
+== Linking to the Collective ==
+A drone's link to the Collective could be severed many ways, including, but not limited to, the following:
+
+Intentional termination by the Borg Queen (VOY: "Dark Frontier", "Unimatrix Zero")
+Disruptive natural phenomenon (electrical storm) (VOY: "Unity")
+Physical/traumatic damage (TNG: "I Borg")
+Security force field, dampening field (TNG: "The Best of Both Worlds, Part II", "I Borg"; VOY: "Scorpion, Part II")
+In Denobulan physiology, high doses of omicron particles (ENT: "Regeneration")
+Submatrix collapse (PIC: "Maps and Legends")
+A drone disconnected from the collective was known as an xB. (PIC: "Maps and Legends")
+The Borg Queen could also re-establish a drone's connection to the rest of the Collective at will. (VOY: "Unity") However, if a link was severed to the Collective, drones also had "secondary objectives" listed to their command structure to command the drones' actions for quite a long time. (VOY: "Survival Instinct")
+The Borg Collective could also be cracked and invaded via subspace by using an existing drone's connection as a conduit for uploading benign and potentially destructive data as well as transmitting a command to the local vinculum. Such data could also be configured into and tagged with a level of priority as to be a paradoxical process-consuming puzzle to be solved. (TNG: "The Best of Both Worlds, Part II", "I Borg")
+The collective link not only allowed the Borg to share thoughts and communicate but also provided neurogenic healing powers across the Collective. According to Riley Frazier, this was akin to a neurogenic transfusion across subspace, only with the ability to have thousands of simultaneous donors. (VOY: "Unity")
+Species from other hive minds were known to be able to link with and experience the Borg Collective, such as the Medusan Zero. However, they were overwhelmed by the experience and nearly assimilated. (PRO: "Let Sleeping Borg Lie")
+In 2401, in cooperation with a rogue group of Changelings who were used to infiltrate Starfleet, a Borg faction inserted a new set of genetic information into transporter systems to alter the neural DNA of transporter users whose prefrontal cortex was not fully developed — as in Humans under age 25. These alterations were activated on April 16, 2401 when Võx connected to the Borg Collective, putting Starfleet under the control of the Collective. (PIC: "Vox")
+
+
+== Minor collectives ==
+Subsidiary or ad hoc collectives between several individual drones could also be established with and without need for a vinculum or other repeater-type device so long as the drones' subspace transceivers were strong enough to reach the other drones or substitute vinculum. (VOY: "Unity", "Survival Instinct"; TNG: "Descent", "Descent, Part II")
+
+After Q sent Jean-Luc Picard, Cristóbal Rios, Raffaela Musiker, Seven of Nine, Elnor and Agnes Jurati to an alternate 2401, and their subsequent journey to 2024, Jurati was assimilated by the Borg Queen of the alternate timeline. The Agnes Jurati-Borg Queen hybrid would then take the displaced CSS La Sirena to the Delta Quadrant, and for the next four centuries would create a collective without forced assimilation, ultimately resulting in a truce with the Federation. (PIC: "Farewell") Following the Borg takeover of Starfleet and the Queen's subsequent final destruction, this left Jurati's Borg faction as the last remaining full collective. (PIC: "The Last Generation")

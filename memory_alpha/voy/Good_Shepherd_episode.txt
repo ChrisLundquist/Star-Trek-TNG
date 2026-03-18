@@ -1,0 +1,204 @@
+When three crewmen are shown to be hampering efficiency, Captain Janeway decides to give them some special attention by taking them on an away mission.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Captain Janeway looks out her ready room window into space as her door chirps. Chakotay enters and informs her that Seven of Nine wants to present her ship-wide efficiency report to the senior staff. Janeway says to put her on the schedule. Chakotay also reminds her that they'll be passing through a class-T cluster in the next couple of days, not important enough to alter course, but Janeway thinks it is at least important enough to send out the Delta Flyer and to get a full range of scans. Chakotay nods, and leaves.
+On the bridge, Chakotay relays the captain's orders. He tells Tom Paris to prepare the Delta Flyer for the mission, and Harry Kim to do a level 3 analysis of the cluster. Kim contacts Seven, asking her to increase metagenic resolution in the long-range sensors.
+In astrometrics, Seven and Crewman Tal Celes, a young Bajoran woman, are working on the sensors. Seven types some data into a PADD and hands it to Tal, telling her to take it to Lieutenant Torres. Tal exits, and walks down the corridors to a turbolift. "Deck 11", Tal tells the computer as the turbolift begins whirring.
+The turbolift doors into engineering open, and Tal exits. She hands the PADD to Torres, who opines that they're going to need to transfer another five terawatts to the sensor array. Torres then hands another PADD to an engineering crewman, who goes into the same turbolift, "Deck 15", the bottom deck of the ship.
+
+On Deck 15, a section characterized by cramped, dimly lit corridors, where even the doors are thinner, the crewman exits, and nods hello to another officer on his way down the hall. He enters a small plasma relay room and interrupts Crewman Mortimer Harren's attempt to disprove Schlezholt's Theory of Multiple Big Bangs. Harren tells him to hold on, that he's standing in the way of cosmological history. The crewman sarcastically replies, "The cosmos is sixteen billion years old, it can wait another few minutes." He hands Harren the power transfer requisition, who just types in a quick couple commands into a panel, and he leaves. Harren looks out of a small porthole, which is on the ventral section of the ship.
+
+
+=== Act One ===
+"Captain's log, stardate 53753.2. Long-range scans of the T cluster have indicated a number of tantalizing anomalies. The away team should have a field day. Who knows, I may even join them myself."
+
+In Tal Celes' quarters, her roommate is sleeping and she's contacting her friend William "Billy" Telfer via combadge. She tries waking him up, and he finally answers. He tells her it is late and to go to sleep. She is under her covers with PADDs and an SIMs beacon, working on a level 3 sensor analysis. Telfer breaks down, and asks what the problem is. She says she's having trouble interpreting the subspace infrared from the cluster. Telfer says that it is too complicated to explain over the com, and to either meet in the mess hall or do it tomorrow. Tal replies she doesn't want to get dressed, and that she has to have it in tomorrow. "Your only options", he says sleepy-eyed.
+The next morning in the briefing room, Seven is explaining a ship-wide efficiency analysis. Operations receives a 76 out of 100; Seven says that the officers left on the night watch rarely have anything to do once the course is set in. Torres complains about her grade and her "failure to utilize expertise". Seven explains Crewman Harren's background and that Torres has assigned him to the plasma relay room on deck 15, a fairly lowly task. Torres complains that she's tried to give him more to do but when she does, he doesn't do it. So she's left him alone down there, like he wants to be. Security receives a near-perfect grade; however, Seven believes the phaser rifles could use reorganization, making them more accessible in an emergency. The Doctor then complains how Billy ruined his score by visiting sickbay once a week, and always complaining of one illness or another, but one is never found. The Doctor explains that Telfer is a hypochondriac, saying that he's afraid of medication and that he's also afraid of counselling. Harry Kim brings up Seven's score, which she reluctantly explains. The problem is Tal Celes, a sensor analyst, whose work must always be double-checked for errors. Seven thinks maybe reassigning her to engineering would help improve her work. Captain Janeway, thinking of a plan, dismisses the room. Chakotay stays behind and asks what she's planning.
+"They've never been on an away mission" Janeway comments, and Chakotay explains (although they get off the ship whenever there's general leave) that Harren never volunteers, Tefler always gets himself excused for medical reasons and Tal can never meet the minimum proficiency requirements. He reminds her that there's always a few officers who aren't suited to life on a starship and maybe they should be relieved of duty to pursue their own interests. Janeway doesn't want to "just deactivate them", like Borg drones, so she decides to put them on the Delta Flyer mission.
+
+In the mess hall, Telfer explains to Tal the aspects of the subspace infrared algorithm, to better analyze the data. He suggests breaking them down to four small algorithms, when Captain Janeway walks in and overhears their conversation. Celes asks what the sequence is, and Captain Janeway comes in and states "Zero-G Is Fun". They both jump to attention, but Janeway puts them At Ease and explains. "Zeta particle derivation. Gamma wave frequency. Ion distribution. Flow rate of positrons." Captain Janeway sits down, handing each of them a PADD, and tells them that the briefing will be in astrometrics that afternoon. As the captain walks away, the two officers stare at the PADDs in awe.
+Janeway enters a turbolift, and heads for Deck 15. She exits the lift and can't seem to find her way around. She starts walking down a corridor when a crewman notices her, and shouts "Captain on the deck!", and the near-by officers stand at attention. Janeway replies "at ease", and asks where junction room 16 is. Crewman Mitchell points her in the right direction, and she takes a moment to ask him how he's been. He replies "Never better ma'am, yourself?" She smiles, and heads for the plasma relay room, "Not bad, not bad at all." As she heads down the corridor, at the first junction she takes a wrong turn, and Mitchell points her in the right direction again.
+She enters, looks around, and finds Harren in an obscure corner. He turns, surprised to see her, and asks if she's lost. She smirks and says "I was, for a minute." She hands him the PADD on the mission, and he says there must be a mistake. She assures him that there's no mistake, but he insists that he wants to stay there. She tells him that Ensign Culhane will cover for him and orders him to report to astrometrics for the briefing. He tells her as she's about to leave that he's about to disprove Shlezholt's Theory, but she reminds him that Wang's Second Postulate "has more lives than a cat", which is what's been giving him problems and she leaves.
+
+
+=== Act Two ===
+In astrometrics, Janeway explains the details of the mission with a diagram of the cluster on the screen. Tal is assigned to run an ongoing sensor analysis to provide information for the rest of the crew. Harren is going to monitor subspace particle decay for anything new that they can learn on star formation, and Crewman Telfer will look for signs of life, even if it is unlikely in the environment. Telfer asks if they'll land on any planets, if they find any. Harren says that any planets in the cluster would be gas giants, and Captain Janeway reassures him that the Delta Flyer is fully equipped for medical emergencies. The Captain reminds them to be in shuttlebay 1 at 0600 hours and dismisses them. Seven reminds the Captain that she'll have to constantly monitor Tal's work for errors and that the mission could be better served with a more experienced crew. Janeway tells her that the mission isn't only to explore the T-cluster, but also to "rescue" the three crewmen. She tells Seven the story of the Good Shepherd, that if even one sheep of the flock went astray, the shepherd would leave the safety of the flock and retrieve it.
+
+In the mess hall, Neelix sits down with Torres and Paris, who are watching Crewman Harren drinking coffee and working on a PADD alone in the corner. Paris feels sorry for him, rotting away on deck 15, and jokes that "it's a shame he doesn't have a superior officer who cares". Torres says it's not her job to keep everyone happy. Neelix doesn't think they've even said two words to him, but Paris replies that he's said two words exactly: "Excuse me", during a Borg attack. Since they were at red alert, he considered it quite courteous. Torres suggests he go over there and offer encouragement, so he does. Paris asks Harren what he's doing and he shows him a PADD (Com Analysis 007-31) with an exceptionally complex equation on it. Harren can see that he doesn't understand, and jokingly asks what he finds most interesting about it. Paris simply replies "your creative use of the minus sign". Paris returns to the table, having failed in his attempt to befriend Harren.
+Tal is sleeping in her quarters when Telfer contacts her on her com badge. She knows what he's going to say, and says "You're not sick..." He claims that he is, as he scans himself with a medical tricorder. She decides to ignore him and goes back to sleep.
+Telfer goes to sickbay in robe and slippers and The Doctor scans him, showing that he has a minor 0.2° fever. Telfer claims he may have a multiphasic prion. The Doctor reassures him several times that he does not have a prion. The Doctor tells him he won't give him a medical excuse to avoid going on the away mission and that he'll be having so much fun exploring that he won't have time for his hypochondria.
+
+Several hours later, the Delta Flyer drops out of warp and retracts its warp nacelles. Captain Janeway, at the helm, drops to one-quarter impulse and has Celes start the sensor sweeps. The ship shudders and Harren confirms that it wasn't the engines that caused it. Tal scans for any problems but doesn't find anything more than simple background noise. Janeway goes to check her work and agrees. Telfer asks over the comm if anyone wants lunch and Tal offers to go back to help him with it. Captain Janeway asks "Mortimer" if he'd like anything but he just turns and coldly says "Even my mother didn't call me that..." Janeway says she'll have the pasta soup, under Neelix-651. Tal eagerly agrees and says she'll have the same thing and goes to the aft compartment.
+Tal relays the order and Telfer replicates two servings of the pasta soup. Tal sits down, depressed, and says that the Captain is checking every single thing she does. Telfer tries to reassure her it's just standard procedure. Tal wishes that she could go back to Voyager and Telfer wishes the same thing. They joke that they could always take the escape pods.
+Back in the forward section of the Delta Flyer, Janeway is trying to start a conversation with Harren, referring to the fact that he grew up on Vico V. But Harren coldly asks if she really believes the environment a child is raised in is more important than genetically-driven behavior patterns and accuses her of filling her attempt at conversation with unspoken assumptions that he doesn't agree with. Janeway tries to change the subject, by jokingly asking how his 13th chromosome is and missing a couple base pairs in gene 178. Harren also decides to change the subject and explains how he only signed on to Voyager because the Orion Institute of Cosmology required a single year of hands-on experience, and how he'd be there right now had Voyager not become stranded in the Delta Quadrant.
+
+Janeway says that space exploration is unpredictable, but Harren just says that that's exactly why he doesn't like space exploration. He goes on about not liking space travel, as Janeway just rolls her eyes and wonders if this was such a good idea after all. Harren decides to join the other "misfits" for lunch and heads to the aft compartment. Just after he leaves, the Captain picks up an unknown spatial fluctuation. Then the ship is violently rocked, as a piece of the outer hull is mysteriously sheared off. Janeway orders red alert and tries to contact the aft section, but there's no response.
+
+
+=== Act Three ===
+The Delta Flyer is adrift and main propulsion is offline. The three crew personnel hurry into the bridge section returning to their consoles. Janeway brings emergency power online, as Harren reports that 90% of the antimatter has been drained and one-eighth impulse is the best the engines can do, which means that it could be 10 years before they would reach the rendezvous point. Janeway transmits an emergency distress call and has Tal check sensors. Harren theorizes it was a dark matter proto-comet. Janeway read a paper on it once and Harren says that he's the one who wrote it. He believed a tertiary product of stellar consolidation would condense into a comet-like assemblage of dark matter that would be attracted to antimatter and neutralize it on contact. He believes that the warp core should be ejected but Janeway believes it's the best way of getting main propulsion online. Tal suggests bringing the hull plate that was pulled off aboard and scanning it for dark matter residue.
+In the aft compartment, Janeway is scanning the hull plate that was beamed aboard. She hands the tricorder to Tal and has her download it into the computer. Tal feels guilty for not realizing the spatial fluctuations from earlier could be a problem. Janeway reassures her that she doesn't have to doubt herself all the time but she assures her that she does, because she makes mistakes all the time. On Voyager, Seven of Nine doesn't let her do anything too critical, but out here, she could get everyone killed. Tal explains how she got through Starfleet Academy, feeling that the conflict on Bajor worked in her favor and that the Federation was so eager to get Bajorans in Starfleet. Janeway says she brought her aboard because she showed signs of unconventional thinking, such as not everyone would have thought to bring the hull plate aboard. Tal says that the computer analysis is like a monster to her and that it chases her in her nightmares. Janeway says that maybe they can find her another post on Voyager but she says the only post she'd be good at would be a waitress in the mess hall. Tal doesn't believe she's really a part of Voyager's crew, she just lives there.
+In the bridge section, Harren is repairing an EPS relay, as Telfer is distracted by scanning himself with a medical tricorder. Harren orders him to cut the plasma flow but Telfer's still distracted. The EPS relay starts venting gas, as Telfer finally hits the console. Harren gets up, angry that he could have been killed. Telfer claims to be sick but again it is written off as hypochondria. Harren would prefer to be on deck 15, where he's his own number one priority. Telfer asks if he ever gets lonely down there but Harren prefers to be in the company of his own thoughts. Telfer asks him to spend some time with him and Tal when they get back, as he might like it, but Harren simply says that he doesn't like proving his hypotheses.
+
+"Captain's Log, Delta Flyer, Stardate 53764.3. We've been running on minimal power for six hours. Still no response to our distress call, and no answers from the computer on what hit us. For now, it looks like we're on our own."
+
+Janeway briefs the crew on the results of scanning the hull fragment. They found some displaced positrons that could indicate a dark matter impact but could have been caused by something else. This is reason enough for Harren, who again suggests dumping the remaining antimatter. Janeway says it isn't proof enough for her and activates a panel, which shows a star chart. There is a class T gas giant within range, surrounded by radiogenic rings which could in theory re-initiate the warp core, so they set a course. They go back to their stations, and Tal picks up another spatial fluctuation. Janeway decides to hail it but there's no response. Harren still wants to eject the core but Janeway decides to fire a photon torpedo, since the antimatter in it would draw the anomaly if that's what it is. Just as the spatial disruptions are leaving sensor range, a loud murmuring sound fills the Delta Flyer. They all scan around with tricorders and converge on Crewman Telfer. He then disappears in an alien transporter beam. Tal scans the area and Janeway concludes he's not anywhere. Scans of space and subspace come up with nothing, but he rematerializes as suddenly as he disappeared. "Inside... me..." he says, as a creature can be seen moving around under his skin and a cut on the back of his neck.
+
+
+=== Act Four ===
+They take him to the biobed in the aft section, and try to transport the creature out of him. Transporters aren't picking it up, nor are the tricorders. Janeway suggests it could be some kind of "dark matter lifeform". Harren concludes that it is impossible, as molecules that complex would collapse under their own weight. Telfer says that he was transported to a dark place where he couldn't see anything. He tried to talk, but there was no air. Tal offers reassurance saying that if they wanted to kill him they'd have done it already. Janeway activates a force field around the biobed and leaves Tal to monitor Telfer. Janeway and Harren go to the bridge section.
+
+Harren says they never should have left Voyager, but Janeway jokes that Voyager's no safe haven, either. They've been up against the Borg, the Vidiians, Species 8472, and more. Janeway asks if he ever wishes to be a part of the friendships he sees on Voyager. He awkwardly responds "You don't know me at all" and goes back to working at his console. The Delta Flyer receives a transmission on a Starfleet frequency. It is their distress call, but modified on the same dispersal pattern as the anomalies. They play the message, which is a distorted version of the distress call. Harren thinks that they're taunting them but Janeway thinks that they're trying to communicate. Just as they are going to modulate the universal translator, Telfer walks through the doors. "He walked right through the force field..." Tal says, as the alien now controls Telfer's motor functions. Janeway grabs a phaser and stuns Telfer but he just falls over onto the console. The alien rips through the skin on Telfer's neck and jumps onto a console. It taps into the environmental systems, as sparks and minor explosions fill the cockpit. Harren grabs a phaser, and Janeway orders him to hold his fire. Harren fires at the alien anyway and vaporizes it. Janeway knocks the phaser out of his hand and yells at him, saying now they've lost their chance for first contact. The Flyer shakes as another section of hull is ripped off. Janeway takes the Flyer into the rings of the gas giant where they can only survive a few minutes – just long enough to restart the warp core.
+
+
+=== Act Five ===
+The Delta Flyer enters the radiogenic ring, and begins transporting radiogenic particles directly into the reaction chamber. Janeway goes back to check on Telfer, who is actually feeling better than usual. He explains that his hypochondria was like an internal red alert, which always told him he was sick or dying. Janeway relates that as a child, she was afraid of the ocean – she liked to swim in shallow areas but not the ocean where you didn't know what was beneath you. During her first year at the Academy, she went through zero-G training in the Coral Sea and overcame her fear. Tal says that the aliens are in pursuit, despite the creatures not being detectable by sensors. They'll intercept in half the time needed to start the warp core. Janeway orders the others to the escape pods with intentions to ignite the ring and escape at full impulse. Tal says that she wants to stay and that on Voyager not much of what they do matters but here it is important. Telfer also decides to remain. 
+Harren decides to leave alone and enters escape pod one. Just as they are about to fire, the escape pod changes heading and heads for the dark matter lifeforms. The Flyer crew try to beam him aboard but they are out of transporter range. They come very close to hitting the dark matter aliens but beam the escape pod aboard and head out of the rings. They fire aft phasers at a radiogenic rock in the ring and it explodes, causing a chain reaction in the ring. A shock wave approaches the Delta Flyer from behind and Tal counts down to impact. The shock wave hits several seconds after Tal predicted.
+In Voyager's sickbay, Chakotay says that they found the Delta Flyer adrift over a gas giant, but everyone is all right. Janeway asks, but they didn't find any signs of dark matter lifeforms or another ship. He asks her what happened and she says, continuing the metaphor from before, "The good shepherd went after some lost sheep... and ran into a wolf." Chakotay asks if she found them, and Janeway smiles, lying on the biobed, "I think she did."
+
+
+== Memorable quotes ==
+"What does our Borg Queen want now?"
+
+- B'Elanna Torres, as Tal Celes delivers a PADD with instructions from Seven of Nine
+
+"Uh, to the left, ma'am."
+
+- Crewman Mitchell, giving Captain Janeway directions on deck 15
+
+"Very interesting."
+"What do you find most interesting about it?"
+"Your creative use of the minus sign."
+
+- Tom Paris and Mortimer Harren
+
+"That's not possible."
+
+- Mortimer Harren, after William Telfer disappears in an alien transporter beam
+
+"I can't get a lock, it's like something's there, but it's... not there."
+"Oh, it's there."
+"Unfortunately I have to agree."
+
+- Tal Celes, Crewman Telfer, and Captain Janeway, on the lifeform inside Telfer
+
+"Contact in 4... 3... 2... 1... more or less."
+
+- Tal Celes, counting down to the impact of a shock wave
+
+"Mortimer?"
+"Even my mother didn't call me that."
+
+- Janeway and Mortimer Harren
+
+"So pay attention to what we're doing here. You can check yourself into Sickbay when we get back."
+"And you can go back to Deck 15."
+"That's right, where I don't have to rely on you or your intellectually deficient friend!"
+"At least I have a friend."
+
+- Harren and Telfer
+
+"What the hell is wrong with you?!"
+
+- Janeway to Harren
+
+
+== Background information ==
+
+
+=== Production ===
+This is one of twenty-four Star Trek episodes with titles derived from Biblical references.
+The episode title is taken from the Bible's Gospel of John, chapter 10, verses 11-15 ("11 I am the good shepherd: the good shepherd giveth his life for the sheep./But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep./The hireling fleeth, because he is an hireling, and careth not for the sheep.'/I am the good shepherd, and know my sheep, and am known of mine./As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.") [1] However, the reference to going after the one stray sheep is found in Luke 15:4-7 [2] and Matthew 18:12-13 [3].
+
+
+=== Cast and characters ===
+Much like TNG: "Lower Decks", almost none of the featured characters make another appearance during the course of the series. Tal Celes (Zoe McLellan) is the only character to later re-appear, in the episode "The Haunting of Deck Twelve".
+
+
+=== Continuity ===
+This episodes introduces a third Bajoran crewmember on Voyager (Tal Celes), following Gerron from "Learning Curve" and Tabor from "Nothing Human".
+This episode can be compared to TNG: "Lower Decks" and the first-season episode "Learning Curve", in that they feature low-ranking crew with less focus on the main characters. Interestingly, the latter episode centered on several ex-Maquis crew who were performing below standards whereas this episode focuses on underperforming Starfleet personnel instead.
+In the teaser, when the camera zooms from space to the captain's ready room, several figures can be seen in the Officer's Mess. There are two in red-shouldered Starfleet uniforms, one in a yellow-shouldered uniform, one in what appears to be Seven's blue jumpsuit, and at least two others in identifiable costumes.
+The window Crewman Harren looks out of in the first scene is not on the miniature or CGI models of Voyager, and was added specifically for this episode. In later shots of Voyager's underside, the window is not there.
+The equations shown when Tom Paris checks the PADD which Crewman Harren had been working on are adapted from Fundamentals of Astrodynamics, a 1971 book developed by the U.S. Air Force Academy. Several symbols have been added or changed. They can be found in the Example Problem in section 1.11.
+During a brief cut inside Crewman Harren's escape pod, he manipulates an LCARS terminal that looks like a conventional LCD computer monitor (instead of the back-lit overlays used for most LCARS set pieces). A black mouse cursor can be seen moving around the screen.
+Despite Seven's earlier assertion that "Religious metaphors are irrelevant." (following The Doctor's quoting the phrase "The devil finds work for idle hands."), Janeway later tells her the tale of the good shepherd regardless.
+Celes is refered to simply as "Celes" by both Janeway and Telfer. According to the Bajoran naming convention established in "Ensign Ro", this would be her given name, while Tal is her family name.
+Paris tells Torres that he invited Harren "to watch our television set" in a reference to what Torres had replicated for him in "Memorial".
+Janeway tells Harren that "we've been chased across the Quadrant by far worse than whatever's out there", listing the Vidiians, Species 8472, and the Borg as examples. Voyager had first encountered the former species in the first-season episode "Phage" and the latter two in "Scorpion".
+Paris claims to have "collided [with Harren] in the corridor during a Borg attack". However, in all previous conflicts with the Borg, Paris has been at the helm.
+A photon torpedo is used in this episode, one having previously been used in "Child's Play". This brings the total number of torpedoes confirmed to have been used by Voyager over the course of the series to 63, a total which exceeds the irreplaceable complement of 38 that had been established by Chakotay in the first-season episode "The Cloud".
+
+
+=== Reception ===
+Kate Mulgrew identified "Good Shephard" as one of her favorite VOY Season 6 episodes in an interview with Star Trek: The Magazine Volume 1, Issue 18, p. 16. "I loved that show, you could put a big asterisk on that one; that was my favorite... 'Good Shephard' was really Janeway at her best." Identifying Janeway's commitment to the ship and her crew as one of her highlight traits, Mulgrew continued: "She just tries. She keeps trying. She never gives up her heart in any situation, and she is always prepared to go down first."
+Mulgrew also expressed her love for scenes with Zoe McLellan's character Tal Celes, showing Janeway's compassionate side in a way not always possible with Star Trek's other captains. "I want to move people always, because I'm an actress, so that's always my essential compulsion; but beyond that I think they've really let Janeway do it more than any of the other captains. I think they've learned to trust that I can get away with it, and that I will still maintain absolute command." (Star Trek: The Magazine Volume 1, Issue 18, pp. 16, 18)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, Paramount Home Entertainment): Volume 6.10, 6 November 2000
+As part of the VOY Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+Jay Underwood as Mortimer Harren
+Michael Reisz as William Telfer
+Kimble Jemison as an Engineer
+And
+Zoe McLellan as Tal Celes
+
+
+=== Co-stars ===
+Tom Morello as Junction Operator
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Carter Edwards as Voyager command officer
+Tarik Ergin as Ayala
+Eric Hunter as Voyager command officer
+Tina Kotrich as Voyager operations officer
+Louis Ortiz as Culhane
+Erin Price as Renlay Sharr
+Joan Valentine as Voyager operations officer
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+
+
+=== References ===
+ability; algorithm; all-nighter; alloy; Alpha Quadrant; analysis; antimatter; astronomical survey mission; away mission; away team; Bajoran; base pair; biosignature; body temperature; Borg; Borg Queen; career; carrier wave; Celes' instructors; childhood; chromosome; class L; class T cluster; class T planet; colleague; continuous scan; conversation; Coral Sea; corridor; cosmologist; courage; Culhane; data; Delta Flyer; Delta Flyer escape pod; Delta Quadrant; dark matter; dark matter proto-comet; dark matter lifeform; environment; EPS relay; evening; Federation; "field day"; food poisoning; gas giant; Good Shepherd; Harren's mother; head; head cold; helm; hour; hull plate; hypochondria; impulse; insect; kilometer; level three sensor analysis; "long shot"; mechanic; medical tricorder; minus sign; mitochondrial prion; motor neuron; multiphasic prion; multivariate analysis; nightmare; nucleic acid; ocean (open water); Orion I; Orion Institute of Cosmology; paper; pasta soup; phaser; phenomenon; photon torpedo; plasma relay; plasma residue; pond; pool; positron; protostar; quantum signature; question; radiogenic particle; reaction chamber; red alert; reprieve; safe haven; Schlezholt's Theory of Multiple Big Bangs; sheep; shepherd; ship-wide efficiency analysis; spatial continuum; spatial fluctuation; star formation; Starfleet Academy; subspace echo; subspace frequency; subspace infrared algorithm; subspace particle decay; swimming; sympathy vote; television set; terawatt; tetrovaline; theoretical cosmology; transporter lock; tricorder; vacuum exposure; Vico V; Wang's Second Postulate; warp; warp core; wolf; zeta particle derivation
+
+
+==== Other references ====
+Harren's theorem: cosine; œ; omega constant; sigma; square root
+
+
+=== External links ===
+"Good Shepherd" at Memory Beta, the wiki for licensed Star Trek works
+"Good Shepherd" at Wikipedia
+"Good Shepherd" at the Internet Movie Database

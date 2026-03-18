@@ -1,0 +1,263 @@
+A time traveler claiming to be from the 26th century arrives to witness an attempt to save a doomed planet.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45349.1. The Enterprise is on its way to Penthara IV where a Type C asteroid has struck an unpopulated continent. The resulting dust cloud could very well create a phenomenon not unlike the nuclear winters of 21st century Earth. Commander La Forge has begun work on a plan that would counteract the devastation."
+The USS Enterprise is trying to fix extreme weather problems resulting from an asteroid collision on the planet Penthara IV, a colony with a population of some twenty million persons. On their way to Penthara IV, Worf notices a space-time distortion, followed by the appearance of a small vessel. Captain Picard tries to hail the ship, to which the occupant replies that Picard should move over. Picard takes a stand saying that the Enterprise will not go anywhere until the man explains himself. But the problem is clarified as soon as Picard takes a step away from the position on the bridge where he was standing: the man immediately beams onto the same location. He introduces himself as Berlinghoff Rasmussen, a historian from the future (specifically, the 26th century), specializing in 24th century interstellar issues. He tells Picard he has come back almost three hundred years to find them.
+
+
+=== Act One ===
+Rasmussen tries to convince the crew that he is actually from the future. In order to prove it, the crew tries asking him questions that only a man from the future would know the answers to. Doctor Crusher wants to know if they cured the Telurian plague by Rasmussen's time, but Picard says they shouldn't ask questions like that, despite the temptation. After the meeting is over, Counselor Troi says Rasmussen is holding something back but she's unsure that it has to do with his wanting to keep information from his century from the crew of the Enterprise. Picard, having examined Rasmussen's credentials, finds him to be a legitimate historian and tells his crew they will afford him every courtesy.
+
+Rasmussen tries to study Data in a turbolift while he escorts him to his newly assigned quarters. Once there, Data tries to ask Rasmussen whether or not he lives to see the 26th century, but Rasmussen avoids his questions and tells him that it would be better if Data kept those assumptions to himself. Data complies, apologizes, and leaves Rasmussen alone. After Data leaves, Rasmussen looks around his quarters with a gleeful expression on his face.
+
+
+=== Act Two ===
+"Captain's log, Stardate 45350.3. We have arrived at Penthara IV and can see for ourselves the atmospheric devastation caused by the asteroid's impact."
+The Enterprise arrives at Penthara IV. Meanwhile, in Ten Forward, Riker, Worf, and Crusher are talking about Rasmussen's presence while sitting at a table. His presence on board is quite disruptive since he refuses to reveal anything he knows about the future, but he nevertheless drops many hints that something important is about to happen. Rasmussen arrives in Ten Forward and Dr. Crusher invites him to the group's table. He asks them to each take a questionnaire. Then they talk about how they view the world and what they each think the most important inventions/advancements in the past 200 years were. Crusher says the way surgery was changed, Riker says warp coils, and Worf says phasers. Rasmussen says that it's typical that they would provide such different answers since Beverly is a doctor, Riker is a commander and an explorer in Starfleet, and Worf is from a warrior background, which he finds "delightfully primitive."
+Later, Rasmussen visits Geordi La Forge and Data in Engineering. La Forge conjectures that Rasmussen is there to witness the mission at Penthara IV after he comments on how little is known of Data's part in the mission in the 26th century. La Forge figures out the parameters of how much CO2 to inject into the air at Penthara IV and tells Picard he is ready to transport to the planet's surface. When La Forge leaves, Rasmussen steals a PADD left on the master systems display table. Before going to the bridge to witness the event, he rhetorically tells Data "who said these moments were any less exciting when you know the outcome, hmm?" Data, puzzled, tells him he knows of no one who said that.
+La Forge and Data with Dr. Moseley are coordinating the start of the procedure and monitoring. After several phaser drills, CO2 emissions finally start and monitoring stations see the temperature holding and even increasing. Rasmussen continues to make small comments about Picard's crew, and it's to the point of annoyance.
+
+
+=== Act Three ===
+Troi and Crusher are in sickbay discussing if Rasmussen is really just after historical facts or more. Troi cannot be certain, feeling that he is trying to confuse or misdirect the crew. Just then, Rasmussen comes into sickbay and Troi tries to excuse herself, but he manages to talk about how she doesn't trust him, but she does finally leave. Rasmussen makes a pass at Crusher by telling her she has been the only person to make him think about not returning to where he is from. Crusher deters him by saying she could very well be his great-great-great-great-grandmother. Rasmussen leaves sickbay with a neural stimulator he claims he would like to examine.
+Meanwhile, the initial attempt to release carbon dioxide from inside the planet into the atmosphere was briefly successful, but unanticipated volcanic activity released more particulates into the atmosphere, making the problem worse.
+Rasmussen goes to Data's quarters and finds him listening to 4 pieces of music loudly and Rasmussen is confused as to how he can listen to all that simultaneously. Data replies that he is capable of distinguishing over 150 simultaneous compositions from each other. Just then, La Forge sends a transmission to Data from the surface of the planet, and while they are discussing if Data made any errors, Rasmussen pockets a tricorder from Data's room. Data then notifies Picard in his ready room that they have already done everything they can, and if they try again and err, they will completely burn off the planet's atmosphere.
+
+
+=== Act Four ===
+"Captain's log, supplemental. While Doctor Moseley takes La Forge's plan to the leaders of the colony. I find myself weighing the potential consequences of a more philosophical issue."
+On the planet, Doctor Moseley and La Forge are trying to work out new parameters to stop the planet from freezing over or burning up the atmosphere. Rasmussen is called by Picard into his ready room because he faces a dilemma of how to help the Pentharians. The Enterprise can initiate a chain reaction in the atmosphere that should fix the problem, but if calculations are ever so slightly off, life on the planet will be wiped out. Picard forcefully asks for Rasmussen's help: can he tell what happened to Penthara IV? While Picard concedes that there might be some sort of Temporal Prime Directive in the future that precludes Rasmussen from aiding him, he argues that this is certainly a situation where the directive could be violated. Picard also theorizes that since Rasmussen's past is Picard's own future, choosing to try is the right thing to do. Rasmussen refuses to help and Picard ultimately chooses not to play it safe and decides to try and save the planet.
+
+
+=== Act Five ===
+"Captain's log, Stardate 45351.9. Doctor Moseley has met with the colony leaders who all agree they are willing to take the risk."
+The Enterprise prepares to discharge an immense amount of energy from the deflector dish using an auto-phaser interlock. La Forge and Data's plan is that the phaser energy will ionize the particles in Penthara IV's atmosphere, eliminating the electrostatic energy and returning the planet's ecosystem back to normal. The plan is set in motion, and everything goes well, with the Enterprise sending the resulting energy that shoots out from the planet into open space. Doctor Moseley and La Forge report that the particulate levels are where they are supposed to be and that Penthara's sun is shining through.
+Meanwhile, a number of small objects have been found missing and Picard suspects Rasmussen. He nods to Worf right after Rasmussen makes a hasty departure from the bridge after Penthara IV has been saved, telling them he needs to start packing. Later, Rasmussen is confronted by Picard, Riker, Crusher, Worf, Data, and Garvey in one of the Enterprise's shuttlebays shortly before he heads back into the future. Rasmussen asks to let Data inspect his time-pod for the missing items, Picard reasoning that Data is the only person who can be definitely trusted not to divulge about anything he witnessed inside the pod. Once inside, Rasmussen attempts to abduct Data and reveals that he is indeed from 200 years outside the Enterprise's timeframe, but in the opposite direction – he is actually from New Jersey on Earth in the 22nd century. He stole the time-pod from the original time traveler from the future, and he plans to return to his own time with the high-tech objects he has stolen, now including Data, and "invent" them once a year.
+However, Rasmussen's plan is foiled, as the stolen phaser he planned to use to knock out Data has been deactivated remotely via a signal they transmitted into the pod when the door was open. Inside, Data postulates that the handprint lock will probably work whether Rasmussen is "conscious or not." They step back out into the shuttlebay where Data reveals Rasmussen's intentions, and Worf goes inside to retrieve the stolen items. Once he returns, Riker orders that Worf take Rasmussen to the brig and they will drop him off at Starbase 214. As Rasmussen desperately insists that he must return to his own time, the pod vanishes, leaving him stranded in the future. As Worf leads Rasmussen away, Picard welcomes him to the 24th century, saying that there are "many legitimate historians that would be interested in talking to a Human from your era."
+
+
+== Memorable quotes ==
+"They want you to move over, sir."
+"Reply that the Enterprise isn't going anywhere, Lieutenant."
+"Not the Enterprise... you."
+
+- Worf and Picard
+
+"Five... six... seven meters! Ha, I was right!"
+
+- Berlinghoff Rasmussen, on the length of Picard's ready room
+
+"If I hand my assignment in on time, can I get a glimpse into next week's poker game?"
+
+- La Forge, to Rasmussen after he tells the crew he will be giving them questionnaires to fill out
+
+"Everyone dies, Captain! It's just a question of when!"
+
+- Berlinghoff Rasmussen
+
+"Every choice we make allows us to manipulate the future. Do I ask Adrienne or Suzanne to the spring dance? Do I take my holiday on Corsica or Risa? A person's life, their future, hinges on each of a thousand choices. Living is making choices! Now you ask me to believe that if I make a choice other than the one that appears in your history books, then your past will be irrevocably altered. Well, you know, Professor, perhaps I don't give a damn about your past, because your past is my future. And as far as I'm concerned, it hasn't been written yet!"
+
+- Picard, to Rasmussen about making choices for the future
+
+"You know, Homer was blind. Milton, Bach, Monet, Wonder."
+
+- Rasmussen, listing off notable blind people to La Forge
+
+"Who said these moments were any less exciting when you know the outcome, hmm?"
+"I know of no one who said that, Professor."
+
+- Rasmussen and Data
+
+"I hate questionnaires."
+
+- Worf
+
+"You don't like me very much, do you?"
+"I don't dislike you, Professor."
+
+- Rasmussen and Troi
+
+"We came here to help these people."
+"And look what we've done."
+
+- Riker and Picard, when Penthara IV begins experiencing earthquakes and volcanic eruptions caused by the Enterprise
+
+"To try or not to try. To take a risk or play it safe. Your arguments have reminded me how precious the right to choose is. And because I've never been one to play it safe, I choose to try."
+
+- Jean-Luc Picard
+
+"I assume your handprint will open this door whether you are conscious or not."
+
+- Data, in a subtle threat to subdue Rasmussen after his phaser fails to fire
+
+"I'm sure there are more than a few legitimate historians at Starfleet who would be eager to meet a Human from your era. Oh, Professor! Welcome to the 24th century."
+
+- Jean-Luc Picard, to Rasmussen
+
+"Yes, Professor, I know. What if one of those lives I save down there is a child who grows up to be the next Adolf Hitler or Khan Singh? Every first year philosophy student has been asked that question since the earliest wormholes were discovered..."
+
+- Jean-Luc Picard
+
+
+== Background information ==
+
+
+=== Story and script ===
+Rick Berman commented, "I am fascinated by all the episodes that have dealt with the implausibility of time travel. I have always had in my head the idea of an episode that had someone who was capable of time travel and professes he is from the future, and we find out he is actually from the past. It's part of that Mark Twain feeling of what Leonardo da Vinci could have done with a calculator or Alexander the Great with a shotgun." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 234) Berman found writing this episode was profoundly enjoyable. (Cinefantastique, Vol. 23, No. 6, p. 18)
+The character of Berlingoff Rasmussen was originally written to be portrayed by Star Trek fan Robin Williams, however, he backed out from the role. According to Berman, "I developed the show with Robin Williams in mind. He had said he wanted to do a show and when it got finished his wife was 8 1/2 months pregnant and they were about to go and he had just finished Hook and was starting something else and couldn't do it." (Great Birds of the Galaxy: Gene Roddenberry and the Creators of Trek, p. 143) Other sources claim that Williams opted out in order to play Peter Pan in the movie Hook. (Star Trek: The Next Generation Companion, 2nd ed., p. 186) According to IMDb, Hook finished filming on 1 August 1991, which supports Berman's account, as this episode only started production in late-September. [1]
+Regarding the episode's tech subplot, Rick Berman recalled, "To sit with the scene guys and research and develop it and to try and come up with something that would work, you get lost in the technical elements of it. You need other people to come and hit you over the head and pull it back. Sometimes we succeed with that and sometimes we don't." Michael Piller agreed, "Rick and I and the staff worked long and hard with him on the script and he had a lot of challenges to overcome." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 234)
+
+
+=== Production ===
+
+The time-pod was a reuse of the shuttle Nenebek exterior set from "Final Mission". The exterior of the time-pod was later reused as the Toron-class Klingon shuttle in "Gambit, Part II". (Star Trek: The Next Generation 365, p. 232)
+"A Matter of Time" was filmed between Friday 27 September 1991 and Monday 7 October 1991 on Paramount Stage 8, 9, and 16. Second unit inserts for this episode were filmed on Tuesday 29 October 1991 on Paramount Stage 9.
+According to the call sheet for Friday 4 October 1991, a promo for the International Space University was filmed on the bridge set on Paramount Stage 8 at 9:30 am and was hosted by Marina Sirtis. [2]
+Several costumes and props from this episode were sold off on the It's A Wrap! sale and auction on eBay, including a scientist costume. [3](X)
+
+
+=== Continuity ===
+Rasmussen's utterance of "Data, at Penthara IV!" during act two is very reminiscent of an earlier Season 5 episode, "Darmok", utilizing a similar syntax structure to the Tamarian language.
+This is the first of five appearances of conn officer Ensign Felton.
+Two of the pieces of classical music simultaneously listened to by Data in this episode were heard again in later Star Trek episodes: the Third Brandenburg Concerto was later played by Captain Picard on his Ressikan flute, and "La donna è mobile" was regularly sung by The Doctor.
+When Rasmussen becomes trapped in 2368, Picard tells him, "Welcome to the 24th century," which he also told Clare Raymond when she awoke and saw Worf (and promptly fainted) in 2364, in "The Neutral Zone".
+Among the items that Rasmussen tried to steal are a VISOR, a tricorder, a PADD, several isolinear chips, a d'k tahg, a type 2 phaser, and several small devices.
+Picard makes a reference to Khan Noonien Singh from TOS: "Space Seed" and Star Trek II: The Wrath of Khan.
+In the Star Trek: Deep Space Nine fourth season episode "Bar Association", Odo cites the case of Rasmussen as an example of a security breach aboard the Enterprise to Worf.
+Rasmussen's question to Riker concerning what he thought was innovative about the USS Enterprise-B is the first canonical reference to that starship.
+The specifics of what happens to the pod after its return to the 22nd century, such as its location or whether it was found, are not detailed in the episode.
+
+
+=== Reception ===
+Michael Piller remarked, "It was a delightful change of pace and tone from the grimness and darkness of the Spock episode. It was just at the right time [...] That fourth act where Picard and Ramussen have a one scene act is wonderful and I enjoyed that a lot." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 234)
+Director Paul Lynch stated, "It was more of a comedy than a drama. Matt Frewer was wonderful as a space con man [...] He got the reputation of being large for his comedy roles, but he was a consummate actor and he found the level of comedy and realism of the character which is what makes him such a good character. He was never schticky." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 234-235) In 2012, however, Lynch stated that he felt "A Matter of Time" was his least favorite Star Trek: The Next Generation episode out of the five he had directed. [4]
+A mission report for this episode, by John Sayers, was published in The Official Star Trek: The Next Generation Magazine issue 18, pp. 57-60.
+
+
+=== Awards ===
+This episode won an Emmy Award for Outstanding Individual Achievement in Special Visual Effects, sharing it in a tie with TNG: "Conundrum".
+
+
+=== Apocrypha ===
+Miles O'Brien mentions the events of this episode in the novel Inferno, after the universe is destroyed in 2400 as a result of the Bajoran wormhole meeting and consuming a red wormhole created by the Pah-wraiths. In the novel, O'Brien cites his encounter with 26th century technology as a means of proving to his current "crew" – consisting of Quark, Rom, Odo, and Garak – that it is possible for them to change history so that timelines where the universe didn't end in 2400 come into existence.
+
+
+=== Production history ===
+29 June 1990 – Second draft script
+7 September 1990 – Third draft script
+8 October 1990 – Fourth draft script
+19 October 1990 – Fifth draft script
+20 September 1991 – Final draft script
+27 September 1991 – Filming starts
+7 October 1991 – Production wraps
+29 October 1991 – In post-production, second unit inserts are filmed on Paramount Stage 9
+18 November 1991 – Premiere airdate
+15 February 1995 – First UK airdate
+
+
+=== Video, DVD, and Blu-ray releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 55, 16 November 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.3, 5 August 2002
+As part of the TNG Season 5 DVD collection
+As part of the TNG Season 5 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Stefan Gierasch as Moseley
+And
+Matt Frewer as Berlinghoff Rasmussen
+
+
+=== Co-stars ===
+Sheila Franklin as Ensign
+Shay Garner as Scientist
+
+
+=== Uncredited co-stars ===
+Arratia as Alfonse Pacelli
+Rachen Assapiomonwait as Nelson
+Joe Baumann as Garvey
+Bennett as scientist
+Michael Braveheart as Martinez
+Debbie David as Russell
+Camara as operations division officer
+Cameron as Kellogg
+Cullen Chambers as command division officer
+Tracee Lee Cocco as Jae
+John Copage as science division officer
+Tony Cruz as Lopez
+Denise Deuschle as science division officer
+Michael Echols as civilian
+Lanier Edwards as command division lieutenant
+Factor as scientist
+Falerne as scientist
+Gina Gallante as science division officer
+Grace Harrell as operations division officer
+Melanie Hathorn as sciences officer
+Reuel Kim as boy in sickbay
+Judy Lea as sciences officer
+Mark Lentry as civilian
+Marco as scientist
+Jay Montalvo as operations division officer
+Michael Moorehead as science division ensign
+Keith Rayve as command division ensign
+Rose as scientist
+Victor Sein as command division officer
+Sigal as scientist
+R. Swain as command division officer
+Curt Truman as command division officer
+Unknown performers as
+Command officer
+Ten Forward waiter
+Ten Forward waitress
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton
+Melba Gonzalez – stand-in for Marina Sirtis
+Joly – stand-in for Sheila Franklin
+Tim McCormack – stand-in for Brent Spiner and Matt Frewer
+Lorine Mendell – stand-in for Gates McFadden and Shay Garner
+Mick – stand-in for Matt Frewer
+Keith Rayve – photo double for Matt Frewer
+Richard Sarstedt – stand-in for Jonathan Frakes and Matt Frewer
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – stand-in for Matt Frewer
+James Washington – stand-in for Michael Dorn
+Unknown actor – stand-in for Stefan Gierasch
+
+
+=== References ===
+20th century; 21st century; 22nd century; 23rd century; 24th century; 26th century; 26th century time traveler; 24-hour clock; "a great deal"; "a lot"; "a shame"; Adrienne; advice; aesthetics; alien; "all right"; altitude; amount; analogy; android; Annotated Shakespeare, The; apple; argument; assignment; assumption; "as a matter of fact"; "as soon as possible"; asteroid; "at least"; "at the same time"; "at your convenience"; atmosphere; atmospheric sensor; automobile; auto-phaser interlock; auto timer; Bach, Johann Sebastian; Beethoven, Ludwig van; belief; berylite scan; best friend; bioscan; "birds of a feather"; breathing; "buck up"; Caesar, Julius; calculation; carbon dioxide (CO2); Celsius; child; choice; class; cloud; colleague; colonist; coincidence; cold; colony; composition (music); computer; con artist; concentration; conjecture; continent; conversation (chat); coordinates; Corsica; course; courtesy; credential; curiosity; crystal; cubic meters per second; d'k tahg; data; day; decade; deflector dish (main deflector dish); deflector beam; deflector shield; degree; density; desk; detention cell; dilemma; dimensions; discovery; door; drilling; drilling pattern; drilling phaser; drilling site (bore site); dust; dust cloud; Earth; earthquake; ecosystem; efficiency; electrostatic energy (electrostatic conditions); elevation; empath; Enterprise-B, USS; Enterprise-C, USS; epicenter; EPS tap; equator; era; error; event; "excuse me"; exothermal inversion; explorer; explosive; eye; fate; fly; flattery; "fly on the wall"; friend; future; gas; "give me a minute"; "go on"; "God knows"; "good luck"; grandchild; great-great-great-great-grandmother; greenhouse effect; Gutenberg Bible; hail; handprint; heat; historian; history; history book; history lesson; Hitler, Adolf; Homer; hour; hull; Human; hundred; hunter; hypothesis; hypothetical; "I beg your pardon"; "I don't know"; ice; idea; impostor; intention; inventor; "in god's name" "in order"; "in order to"; "in search of"; "in your possession"; incentive; information; Jupiter symphony; "just wait"; kilometer; "kind of"; Klingon; "La donna è mobile"; leader; length; lifesign; lightning rod; Lincoln, Abraham; Livingston; location; "look who's here"; mantle; margin of error; medical scan; meter; Milky Way Galaxy; million; Milton, John; mission; mistake; Model A; Model T; modesty; molto vivace; Monet, Claude; motion; Mozart, Wolfgang Amadeus; Much Ado About Nothing; museum; music; name; natural evolution; neural stimulator; New Jersey; New Seattle; "no problem"; "not at all"; number one; nuclear winter; O'Brien, Miles; object; odds; "of course"; office; "on my account"; "on purpose"; "on record"; "on the contrary"; online; "out of our league"; PADD; "paid a call"; parameter; passion; past; Penthara IV; Penthara IV city; Penthara IV sector; Penthara IV sun; Pentharan; percent; permission; person; phaser; phaser discharge (phaser blast); phaser drill; phenomenon; philosophy; Physiology of Taste, The; picture; pink; place; plan; plasma; "play it safe"; plasticized tritanium mesh; poker; poker game; predestination paradox; pressure; Prime Directive; problem; production model; professor; prosthesis; prototype; quadrant; quarantine field; question; questionnaire; "quite a bit"; Rasmussen's colleague; Rasmussen's vessel; Redstone missile; Richter scale; right; "right away"; Rigoletto; Risa; river; room; schematic; science lab; second; sector; sensor; shield inverter; shock front; "shot to hell"; shuttlebay; soldier; Singh, Khan Noonien; solution; Soong, Noonien; space; space-time distortion; spark; spheral forecast; spring dance; standing; Starbase 214; Starfleet; student; "stumbling block"; stun setting; subspace channel; sunlight; surface; surgical gloves; surgical mask; Suzanne; Symphony Number Nine; synchronous orbit; table; "take a risk"; Telurian plague; temperature; temporal logic; temporal distortion; temporal logic; Temporal Prime Directive (allusion to); temperature; terawatt; theater; theft; thermal monitoring station; thermal simulation; theory; thing; Third Brandenburg Concerto; thought; thousand; threat; "tickled pink"; time; time frame; time-pod; time travel; tool; topic; tricorder; trinket; tropics; turbolift; type C asteroid; upper atmosphere; variance; Verdi, Giuseppe; VISOR; violence; volcano; volume; warp coil; warp drive; warrior; week; wind; wormhole; Wonder, Stevie; year; "you know"; "you see"
+
+
+=== See also ===
+Time travel episodes
+
+
+=== External links ===
+"A Matter of Time" at Memory Beta, the wiki for licensed Star Trek works
+"A Matter of Time" at Wikipedia
+"A Matter of Time" at MissionLogPodcast.com
+"A Matter Of Time" script at Star Trek Minutiae
+"A Matter Of Time" at the Internet Movie Database

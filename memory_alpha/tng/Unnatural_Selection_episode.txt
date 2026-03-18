@@ -1,0 +1,252 @@
+The Enterprise investigates the deaths of the crew of the USS Lantree, who all died of old age.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's Log, Stardate 42494.8. The Enterprise is bound for Star Station India to rendezvous with a Starfleet Medical courier. We've been told only that our presence is imperative. Hopefully, the mission will give me further opportunities to assess the performance of our new chief medical officer."
+En route to the station, Captain Jean-Luc Picard asks Counselor Deanna Troi to come to his ready room about his new chief medical officer, Katherine Pulaski. He has concerns about her dedication interfering with her objectivity. She senses his concerns, but believes she is a good choice for chief medical officer, telling Picard that she believes this because she has spent more time with Pulaski and gotten to know her.
+Data then receives a distress signal from the Federation supply ship USS Lantree. All they say is that they are dying, unable to give any more details. The voice on the other end of the comm is weak, and then falls silent.
+
+
+=== Act One ===
+
+When the Enterprise arrives and hails the ship, there is no answer. Data reads no life signs, but all systems seem functional. At Commander William T. Riker's suggestion, the Enterprise establishes a remote link with the Lantree's computer. Picard quickly goes to his ready room to provide access codes to authorize the link. When they turn on the bridge monitor, the entire crew is dead. Dr. Pulaski's scans find they died of natural causes through aging.
+In the conference lounge, everything is laid out on the table. They download and play back Captain Telaka's last entry:
+
+"Captain's Log, Stardate 42493.1. There are only six of us left. We've set course for the nearest Federation outpost but I'm afraid it's too late. All attempts to analyze what is happening have failed. In the last few hours I've watched friends grow old and die. And I'm seeing it happen to me. Captain L.I. Telaka, USS Lantree."
+
+Riker says that Captain Telaka was his age. The Doctor's search of medical records indicate nothing happened, except that the first officer was treated for the Thelusian flu at Darwin Genetic Research Station on the planet Gagarin IV. She has the ship quarantined with quarantine transmitters activated and they head for Gagarin IV.
+
+
+=== Act Two ===
+Once in orbit, they hail the station. Doctor Kingsley answers, and explains they have declared a medical emergency. Their staff is suffering from the same phenomenon as the Lantree. She is convinced they were infected by the crew of the Lantree. She wants Enterprise to help them evacuate their genetically-engineered children to protect them. Doctor Pulaski says there must be a full quarantine on the station, and that includes them. But Doctor Kingsley pleads that the children have no symptoms. The captain interrupts and says there is very little they can do, they will discuss it.
+In the conference lounge, Doctor Pulaski says that the children should be evacuated after a full examination in a force field. Picard decides that they must err on the side of caution, and denies her permission for the examination. If they are carriers, the ship could quickly become infected. The doctor instead suggests she beam up a child encased in styrolite, in suspended animation, so she can scan for disease without it being able to spread. She doesn't know what to scan for, and the only way to determine the cause is to collect some data.
+
+Chief Engineer Geordi La Forge sets up the force field, and the twelve-year-old child David is beamed aboard by Chief O'Brien. However, what materializes is a male whose apparent age is closer to twenty. Worf is about to call it a trick, but Picard stops him from doing anything rash. Since the styrolite is intact, he orders the force field down, and lets the doctor scan him. Counselor Troi immediately detects a strong presence, even in stasis. She believes he is telepathic, a surprise to everyone. Pulaski, looking over the boy, remarks with wonder that he may be the next step in Human evolution. "At least, Dr. Kingsley's vision of it," Picard replies.
+
+
+=== Act Three ===
+After scanning with everything they've got, the doctor concludes ecstatically that he is in better health than the crew. In fact, his immune system is so advanced, it may not be possible for him to contract disease. She wants to release him to do further tests. Picard won't allow that. Despite her passionate opinion and interrupting the captain a few times, the risk is too great. She tries to think of everything, suggesting force fields and separate environmental systems, but the captain knows they can fail, and to him, that is not acceptable. The best he can give her is an open door: if she can find a way which is more accident-proof, bring it to him, and he'll allow it. Picard then informs Pulaski that he is not one to discourage input but asks her to let him finish his sentences once in a while.
+
+When Pulaski talks to La Forge in engineering, he suggests the only independent environment is a shuttlecraft. When she takes La Forge's suggestion to Picard, he doesn't like it, since she would still be at risk. But as Pulaski is about to argue, he actually approves her request, much to her surprise. She takes Data to pilot the Sakharov, and has the boy beamed aboard. She removes the styrolite and immediately he comes to life. She is surprised when he suddenly reaches out to her telepathically. For eighteen minutes, she examines him, and when Data confirms that everything seems to be fine with her, she suddenly gets an arthritic cramp, the first stage of the disease.
+
+
+=== Act Four ===
+Still startled, in pain and very agitated, she tells them to immediately return the boy to Darwin station, and says there is nothing they can do for her. She will not make herself an exception to the quarantine. Since she is now suffering from the same disease as the Darwin staff, she decides to head to the station.
+When the rest of the senior staff meets in the conference lounge, they don't see what they can do for her. The children are carriers, and they can't screen out the disease through the biofilter because the boy was beamed twice already and he still had it. However, Transporter Chief O'Brien gets an idea: they can use the transporter trace, a previous pattern when she didn't have the disease, to control the way she is reconstituted. Unfortunately, no one remembers her ever using the transporters; she possesses transporter phobia. Picard asks for the captain of her last assignment, the USS Repulse, to be contacted via a captain's priority subspace message.
+
+Aboard the station, the puzzled Kingsley still cannot believe it is the children who transmit the disease. She shows Data and Pulaski several telekinetic children, their finest achievement. These children, she proudly argues, are perfect in every way. In fact, their immune system is aggressive, creating an antibody to destroy the virus in midair by altering its genetic code. It even works at a distance. That's when the light bulb goes on in Pulaski's mind; remembering that the Lantree's first officer was suffering from Thelusian flu when he visited the station, she tells Data to run a genetic analysis on the interaction between the flu virus and the antigen. Kingsley remarks that such an analysis could take months; Pulaski informs her that Data has a way with computers.
+Back aboard the Enterprise, Captain Taggert said they erased her pattern after she transferred, not that she used the transporter much, preferring to take shuttles. Taggert says he would have given Pulaski a shuttle if it kept her on the Repulse; however, the moment she saw there was an opening aboard the Enterprise, she jumped at it, because she greatly admired Picard, which he finds extraordinary.
+Data's analysis is conclusive, and unfortunate. As he explains to the astonished Kingsley and Pulaski, the antibody the children's immune system created to counteract the Thelusian flu does more than simply attack the virus; it actually interacts with normal Human DNA to change sequences which affect the aging process. The children thus are, in fact, more than simply carriers of that disease; they're the cause. Since DNA is self-replicating, the effects are irreversible, and as evidenced by how rapidly the crew of the Lantree were wiped out, any infected person is capable of infecting others.
+Pulaski sadly and silently accepts her fate, while Kingsley tries to maintain her own composure, but in vain as she breaks down in tears nonetheless: her experiment, of which she was so proud, has both succeeded beyond her wildest dreams and proven to be a miserable failure. Her children are so "advanced" that they can never be allowed any contact with the rest of Humanity, as they have already proven lethal to herself, Pulaski, the science team, and the crew of the Lantree.
+
+
+=== Act Five ===
+
+Looking tired and at least twenty years older, Pulaski explains the situation to Picard through the viewscreen. She is in obvious pain, but trying her best to look strong. He wishes to beam her aboard in suspended animation and keep her until they can repair this damage, but she is adamant against it. She does not want them to leap before they looked like she did. Instead, she reads a log entry over the com:
+
+"Chief Medical Officer's log. This will be my final report to the Enterprise. Just as changes in evolution are known to be caused by changes in the environment, we now know the process also works in reverse. An attempt to control Human evolution has resulted in a new species that's lethal to its predecessors. The children will be condemned to live out their lives in isolation. The quarantine of the Darwin Station must be maintained forever."
+
+Data beams back aboard after a farewell to the now-white-haired Pulaski, who appears to have aged to approximately one hundred years old by this time, like the equally deteriorated Kingsley. Both women seem to have accepted their terrible fate with more calm by now, but both still look very depressed. However, after Data is screened for organics and beamed aboard, Picard asks him about another idea. Since the genetic changes are the cause, they could take a sample of her genetic code and have the transporter reverse the transposition. Chief O'Brien says it will work, but it would be risky, since they will lose her pattern if the procedure fails.
+It takes some doing to get a DNA sample; Pulaski's records have not arrived at the Enterprise from Starfleet Command yet. Riker and Data search her quarters and finally find a hair follicle on her hairbrush. Picard calls Pulaski. The bridge crew and Picard are shocked by the image of her severe deterioration, as she now looks much older than one hundred years.
+
+The captain explains the possible solution to the terminal doctor. Pulaski, now totally exhausted, out of time and options, is willing to give it a try. Troi is very shaken and sad, seeing and possibly feeling Pulaski's terror, despair and unbearable suffering. O'Brien warns Picard that the trip is one-way only; if the procedure fails, then Pulaski cannot be beamed back to Darwin Station. Picard takes the transporter controls and assumes full responsibility for the attempt so that O'Brien will not be to blame should something go wrong, to O'Brien's gratitude. After a tense several seconds of controlling the transporter during beam-in, the doctor, restored to her proper age, appears. Picard admits to her had the procedure not worked he would have had to beam her pattern into space. Pulaski does not mind this, since she always assumes the worst whenever she uses it anyway.
+
+"Chief Medical Officer's log, supplemental. The adults of Darwin Station have been restored to normal health using our transporter. They will remain on Gagarin IV and continue their research in hopes of one day rejoining their children. Scientists believe no experiment is a failure; that even a mistake advances the evolution of understanding. But all achievement has a price. For one brief glimpse at the mysterious blueprint of Human evolution, the men and women of the USS Lantree paid with their lives. Their sacrifice is thus noted in this scientist's log."
+
+The Enterprise returns to the USS Lantree and, after paying final respects, consigns the ship to oblivion and USS Lantree is scuttled by destroying it with a single photon torpedo. Then Riker orders course set for Star Station India.
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701-D), 2365
+Captain's log, USS Lantree (NCC-1837)
+Chief medical officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"Extreme caution. The USS Lantree is a quarantined vessel by order of Starfleet Command. Do not board."
+
+- Automated quarantine message from the USS Lantree
+
+"Looks like they had a battle with time…"
+"…and lost."
+
+- Riker and Worf, about the Lantree crew
+
+"Doctor, God knows I'm not one to discourage input, but I would appreciate it if you'd let me finish my sentences once in a while."
+
+- Picard, to Pulaski, shortly before leaving the room
+
+"What is your condition, doctor?"
+"Not exactly up to factory specs."
+
+- Data, after Pulaski is infected
+
+"Commander, I want an analysis of the interaction between the Thelusian flu and the children."
+"On a molecular genetic level?"
+"We don't have time for that! Genetic analysis could take months!"
+"Not necessarily. Commander Data has a way with computers."
+
+- Dr. Katherine Pulaski, Data, and Dr. Sara Kingsley, upon learning the children may be carriers of the disease.
+
+"Chief Medical Officer's Log, this will be my final report to the Enterprise. Just as changes in evolution are known to be caused by changes in the environment, we now know the process also works in reverse. An attempt to control Human evolution has resulted in a new species, which is lethal to its predecessors. The children will be condemned to live out their lives in isolation. The quarantine of the Darwin Station must be maintained forever."
+
+- Pulaski
+
+"Apparently, she's been an admirer of yours for some time."
+"Extraordinary."
+
+- Taggert, explaining to Picard Pulaski's respect for him, surprising the Enterprise captain
+
+"What if we used a sample of her DNA, say, from a blood test taken before she was exposed to the disease. Could that be used to filter out the genetic changes?"
+"Well, I'd have to get into the biofilter bus and patch in a molecular matrix reader. That's no problem. But the wave form modulator will be overloaded without the regeneration limiter in the first stage circuit."
+"Interesting. However, theoretically–"
+"Data."
+
+- Picard, O'Brien, and Data, discussing a method of using the transporter to treat Pulaski
+
+"If this hadn't worked, it would have been necessary to beam your energy into empty space…"
+"… and spread my atoms across the galaxy!"
+"Yes, I'm sorry, it..."
+"No, no, don't be sorry. Every time I get into the damn thing I'm convinced that's what's going to happen."
+
+- Picard and Pulaski, after the transporter saves her life
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 10 November 1988 [1]
+Premiere airdate: 30 January 1989
+First UK airdate: 15 May 1991
+
+
+=== Story and production ===
+
+In an earlier draft of the script, the episode had extensive scenes set aboard the Lantree, as opposed to the finished episode where only the ship's bridge (a redress of the battle bridge set) is seen on the viewscreen. The Lantree was also destroyed in the middle of the story, rather than at the end. [2]
+Another change from earlier drafts of the script was the total deletion of a character named Rina, whose great beauty caused her fellow crewmembers to suffer a number of comic mishaps, and also had a romantic subplot with La Forge. In place of Rina, O'Brien was written into the episode to assist La Forge. [3]
+Actresses Patricia Smith and Diana Muldaur had worked together on Planet Earth, a movie created by Gene Roddenberry as a TV pilot.
+In the final draft script, Kingsley's name was established as "Sara Mandel." She was called "Sara Kingsley" in the Star Trek Encyclopedia, 2nd ed., p. 240 and Star Trek: The Next Generation Companion, 2nd ed., p. 73.
+In an earlier concept of the story, a strikingly beautiful and fully recovered Dr. Mandel would be seen on the viewscreen of the Enterprise during the last minutes, thanking the crew for saving the lives of everyone on the station. To save time and money (with a younger actress) this idea of a scene was discarded and the audience never gets to see Kingsley in her true, young and healthy form.
+According to the Star Trek: The Next Generation Companion, 2nd ed., p. 74, the Darwin children were originally to have appeared nude, but the use of transparent furniture nixed that idea.
+According to director Paul Lynch, Muldaur had some difficulty remembering her lines in this episode. The producers solved this problem by putting her lines on cue cards. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 176)
+Makeup designer Michael Westmore noted that the old-age makeup in this episode was much easier than that for "Too Short A Season", where he had not been satisfied with the look of Clayton Rohner (Mark Jameson). This was in part due to experience from the previous episode, and in part because of Muldaur's more mature features. He commented, "We were able to make intermediate changes by using highlight, shadow, and a little stretch rubber. With Rohner, it was impossible to make those changes without using appliances. Overall, I was very happy with the end result." (Star Trek: The Next Generation 365, p. 083)
+The later introduction of the concept of a ban on genetic experiments in Humans during the production of DS9 creates a problem in retrospect for this episode, even though no such ban existed from the writers' perspective when this was produced, which explains why no one on the Enterprise was shocked by the nature of the research, with Picard making no arrests.
+
+
+=== Sets and props ===
+The door to shuttlebay 3, seen in extreme closeup as the door opens, is labeled as "Holographic Environment Simulator 2" (i.e. Holodeck 2). Presumably, this was not expected to be legible even in extreme closeup when the episode first aired in SD, and was not corrected in the remastered version.
+
+The sickbay set was modified for this episode and the waiting area was blocked by a wall with a large control panel. There is also equipment in the far corner of the room. In the script, this scene takes place in the "sickbay science lab". This appears to be a very mild redress to represent a different room.
+
+
+=== Continuity ===
+The genetic engineering of advanced children apparently ignores the fact that such engineering is banned and outlawed in the Federation. This is stated in at least five different Star Trek series (ENT: "The Augments", DS9: "Doctor Bashir, I Presume", TNG: "A Matter Of Time"; SNW: "Ghosts of Illyria"; PRO: "Mindwalk"), albeit all of them were produced after this episode creating continuity issues.
+The Star Trek: The Next Generation Companion, 2nd ed., p. 74 notes that this episode is similar to TOS: "The Deadly Years", which also featured crewmembers suffering premature aging. In both episodes, one character (McCoy and Pulaski) very close to death decides to risk all with an untested cure which could prove fatal. The method is a success, and all the remaining afflicted persons are cured off-screen.
+The episode is also similar to TAS: "The Lorelei Signal" in that the transporter is used to reverse the effects of premature aging.
+The matte painting of the research station is used again (slightly modified) for Arkaria Base on Arkaria in "Starship Mine" and an Ohniaka III Research Station on Ohniaka III in "Descent".
+This episode marks the first time that Miles O'Brien is referred to as the transporter chief, and the first time he is referred to by his last name. Remembered Colm Meaney, "A script arrived and suddenly he had a name." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 335) This was also the first episode where Meaney was credited as a guest star and not in the closing credits although he got credited in the end credits in the next episode.
+This is the first episode in which Dr. Pulaski's loathing of the transporter is mentioned, giving her a key commonality with previous Enterprise doctor Leonard McCoy.
+This is the first appearance of the Miranda-class starship in TNG. For this episode, the ship's model was slightly altered, losing the roll bar and torpedo pod that the class had in Star Trek II: The Wrath of Khan and Star Trek IV: The Voyage Home.
+
+
+=== Reception ===
+Colm Meaney remarked, "I liked the episode a lot. I thought it was really good. It held your interest, it was a marvelous sort of detective story in a way, while at the same time it was making a statement about the dangers of these wonderful scientific developments that can be used for great benefit. It also said something deeper about the dangers of them, and in a sense it begged the question should we really be trying this?" (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 175-176)
+A mission report for this episode by Robert Greenberger was published in The Official Star Trek: The Next Generation Magazine issue 7, pp. 39-42.
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Achievement in Hairstyling for a Series.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 17, catalog number VHR 2470, 1 July 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 2.3, catalog number VHR 4739, 3 May 1999
+As part of the TNG Season 2 DVD collection
+As part of the TNG Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Michael Dorn as Lt. Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Special appearance by ===
+Diana Muldaur as Doctor Pulaski
+
+
+=== Guest stars ===
+Patricia Smith as Kingsley
+Colm Meaney as Miles O'Brien
+
+
+=== Co-stars ===
+J. Patrick McNamara as Capt. Taggert
+Scott Trost as Ensign
+
+
+=== Uncredited co-stars ===
+Majel Barrett as USS Enterprise-D computer voice
+George Baxter as David
+James G. Becker as Youngblood
+Michael Braveheart as Martinez
+Robert Bray as Darwin scientist
+Cibby Danyla as science division officer
+Larry Guthrie as Darwin scientist
+Nora Leonhardt as command division officer
+Scott Leva as command division officer
+Tim McCormack as Bennett
+Lorine Mendell as Diana Giddings
+Ronnie Merritt as Darwin scientist
+Lydia Nielsen as Darwin scientist
+Unknown performers as
+Captain L. Isao Telaka
+L. Isao Telaka (voice)
+Male Quarantine Voice
+Command division officer
+Female Darwin scientists
+Female medical assistant
+Operations division officer
+Ops officer
+Six Darwin children
+Lantree bridge officers 1, 2, and 3
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+2330; 2335; 2353; 2365; achievement; adenine; adult; Advanced Genetics; advice; age; aging process; air; "all right"; alternative; android; answer; antibody; apprehension; area; argument; arrival; arthritic inflammation; assignment; "as soon as possible"; "at least"; atom; attack; author; auxiliary space vessel; "backward and forward"; battle damage; bearing; bedside manner; biofilter; biofilter bus; birthday; blood test; blueprint; body structure; "by way of"; carrier; case; cell; chief medical officer; chromosome; chromosome address sequence; Class 3 defensive; Class 6 Federation supply ship; colleague; "come in"; complement; computer; contact; coordinates; course; crew; crisis; cytosine; danger; Darwin Genetic Research Station; data; day; degree; delta-T; Denkir IV; disease; distance; distress signal; DNA; DNA sample; download; duty cycle; effect; emergency; energy; engine; environment; evacuation; evidence; evolution; experiment; exposure; factory specs; fail-safe; failure; Federation; fingernail; "first hand"; force field; "for God's sake"; "for the record"; frequency; French language; friend; Gamma 7 outpost; Gamma 7 sector; Gagarin IV; genetic analysis; genetic code; genetic engineering; genetic research facility; genetics; geriatric phenomena; "go ahead"; "good luck"; grade; green light; guanine; hailing frequency; hair; hairbrush; hair follicle; hailing frequency; health; heart; hour; Human; Human equation; illness; immune system; immunity; impulse speed; infection; interlock; isolation; isolation lab; judgment; kilometer; laboratory; Lantree, USS; Lantree first officer; launch sequence; life sign; lifeform; "Linear Models of Viral Propagation"; liver; log; log entry; lungs; machine; manufacturer; marker beacon; masterpiece; medical courier; medical emergency; medical examination; medical research; medical scan; medical test; message; meter; microscope; microsecond; Milky Way Galaxy; milli-parsecs; mind; minute; mission; mistake; molecule; molecular matrix reader; molecular transposition; month; musculature; "my God"; nature; NCC-7100; neighborhood; "no doubt"; number one; "of course"; officer; old age; "once in a while"; opinion; opportunity; pain; panel; parallel course; parsec; passion; pathology; pattern; performance; personality; photon torpedo; physician; port of call; price; priority channel; problem; prognosis; Pulaski, Kate; quarantine; quarantine transmitter; quarters; quote; reason; record; regeneration limiter; rendezvous; report; Repulse, USS; research; result; rhinovirus; risk; rulebook; sacrifice; Sakharov; scientist; security access code; security override; sentence; service record; shuttlecraft; Shuttlebay 3; side effect; signal; "sit down"; solution; space; species; specification; speed; standard orbit; "stand by"; Starfleet Academy; Starfleet Command; Starfleet Headquarters; Starfleet Medical; Starfleet regulations; Star Station India; Star Station India sector; stasis; stasus; stubborn; styrolite; subspace; subspace frequency; supply ship; suspended animation; suspicion; symptom; telekinesis; telepathic; Thelusian flu; theory; thing; thought; threat; three-dimensional chess; thymine; time; tissue sample; tour of duty; training; transfer; transmission; transport sequence; transporter; transporter control; transporter trace; transporter log; transporter pattern (aka trace pattern); trick; truth; Type 7 shuttlecraft; understanding; viewscreen; virus; voice; volunteering; waveform modulator; week; work; year
+
+
+==== Unused production references ====
+Astarte; Gagarin system; Propulsion Theory; Rina; Tsiolkovski
+
+
+=== External links ===
+"Unnatural Selection" at Memory Beta, the wiki for licensed Star Trek works
+"Unnatural Selection" at Wikipedia
+"Unnatural Selection" at MissionLogPodcast.com
+"Unnatural Selection" script at Star Trek Minutiae
+"Unnatural Selection" at the Internet Movie Database

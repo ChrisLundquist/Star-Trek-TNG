@@ -1,0 +1,390 @@
+The Borg begin an invasion of Federation space much sooner than was expected. With the Enterprise unable to affect them, the Borg capture Captain Picard and turn him into one of their own. (Season finale)
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+"Captain's log, Stardate 43989.1. The Enterprise has arrived at Jouret IV in response to a distress signal from one of the Federation's outermost colonies."
+Commander Riker, Data, Worf, and Geordi La Forge file into a transporter room. Worf notifies Riker that there has been no contact from the surface of Jouret IV for over twelve hours, nor are there any signs of life on the surface. Immediately after the away team is beamed down by Transporter Chief Miles O'Brien, the team finds not only that the entire colony of New Providence has been completely destroyed but also that the colony's former town center is now nothing more than a giant crater.
+
+
+=== Act One ===
+"Captain's log, Stardate 43992.6. Admiral Hanson and Lieutenant Commander Shelby of Starfleet Tactical have arrived to review the disappearance of New Providence colony. No sign remains of the nine hundred inhabitants."
+As the USS Enterprise travels alongside an Excelsior-class starship, Hanson and Shelby inform Captain Picard and Riker – in Picard's ready room – that Starfleet is currently unprepared for a potential Borg incursion, despite having known for over a year that they are coming. The officers discuss whether the colony was destroyed by the Borg and refer to the Enterprise's first contact with them, at System J-25 a year previously. Hanson asserts that Shelby – an expert on the Borg – will lead the investigation. She is eager to view the colony site, but the next away mission there will not be until dawn.
+
+Before taking Shelby to her quarters, Riker invites Hanson to the Enterprise's upcoming poker night, but the admiral instead recommends Shelby as a rumored poker player, as he and Picard have much to discuss. Alone with Picard, Hanson details his approval of Shelby. He tries to encourage the captain to accept her as his first officer and convince Riker to assume captaincy of the USS Melbourne, a command offer that Picard was heretofore unaware of and follows two previous proposals – the USS Drake and the USS Aries – that Riker has declined. Hanson suggests that Picard should kick Riker in the rear end for his own good and notes that his staying on the Enterprise is hurting his career.
+Entering her quarters with Riker, Shelby reveals she has an uncertain theory about how to search for the Borg, extrapolating a "Borg footprint" from their previous encounter with the Enterprise. Unusual magnetic resonance traces were left on the damaged sections of the Enterprise's hull that were tested. Shelby then selects away team members for the forthcoming mission, and Riker interjects that not only has he already assigned the crew members she asked for to the away team, but that he will be joining the team himself. Shelby lets Riker know that she wants his job but then apologetically claims she was unaware that he has no intention of leaving the Enterprise. Riker responds that she will be the first to know if he does decide to leave. On his way out of the quarters, Riker tells Shelby the details of that night's poker game.
+Later, Wesley Crusher, Deanna Troi, Data, and Geordi La Forge are in attendance at the game, which results in Riker fooling Wesley – inexperienced at poker – into suspecting that Riker has an impressive hand. However, Shelby suspects Riker is bluffing and calls him on it, winning the game, to Riker's chagrin.
+The next morning, Riker learns from O'Brien that she and Data beamed down to the colony an hour beforehand. On the planet's surface, he authoritatively draws her away.
+Data is confused by Shelby's statement that the "early bird gets the worm" and confers with La Forge, saying she made a mistake because there are no "avifaunal or vermicular lifeforms" found on Jouret IV. La Forge tells Data that's not what she meant, but she did make an error.
+Shelby privately tells Riker that her expediency was due to an approaching storm front that could have potentially affected their readings and because Data was available to beam down right away. Riker reminds her of regulations, of which she takes note. Shelby reports that the area's soil contains their Borg footprint, confirming that the colony's decimation was due to the Borg.
+
+
+=== Act Two ===
+"Captain's log, Stardate 43993.5. With confirmation of the Borg's presence in Federation space, Admiral Hanson has returned to Starbase 324 to discuss strategy with Starfleet Command. Lieutenant Commander Shelby remains on board to continue tactical preparations."
+
+With the Enterprise now in a solitary orbit, Riker notifies Picard of the efforts being made to ready the ship and Starfleet for the impending Borg invasion. When Picard asks for his assessment of Shelby, Riker admits that she knows her stuff but has not earned his full confidence, noting her initiative and taking risks. Humorously, Picard indirectly likens those qualities to a younger Riker. The captain then questions why Riker is still on the Enterprise, since he's been offered command of the Melbourne, noting it as a fine ship. Although Riker answers that he has decided not to pursue that commission, Picard lengthily urges him to reconsider, noting that he is ready to take command and that the Enterprise will be just fine without him.
+
+Later in Ten Forward, Riker discusses his uncertainty while seated with Counselor Troi at a table, noting that he has pushed himself hard and sacrificed much (implying with a gesture that he means even having ended their romance) to get where he is, had always said he wanted his own command, and yet he's now hesitating. As he considers reasons why he is still aboard the ship, Troi doubts each one. He agrees with Picard that there is a similarity between Shelby and his younger self and wonders why he seems to have lost attributes that he liked about himself but that she now possesses – such as impatience, ambition, and risk-taking. Troi reassures him that, on the contrary, he has matured and thereby gained more than he realizes. He is much more comfortable with himself, though Riker wonders if he's too comfortable. She's not sure what he means by that, but she does know that he's happier than he's ever been. Giving him pause for thought, she asks him what he really wants.
+In engineering, Shelby and a team that includes Data, Geordi La Forge, and Wesley Crusher deduce that a Borg cube's systems are likely interconnected, like the Borg themselves. The team debates their own ship's available technologies, but La Forge and Crusher confess to being overly tired. Riker decides to call it a night, and they'll reconvene tomorrow at 0500 hours. Despite Shelby wanting to continue working with Data, who does not require rest, Riker insists otherwise due to the team's exhaustion and that he doesn't want the crew fighting the Borg at the same time they're fighting their own fatigue. Shelby insists that she can keep on working by herself, but Riker dismisses her.
+The next day, most of the ship's senior officers are in the observation lounge while Admiral Hanson remotely notifies them that the USS Lalo recently reported (via a distress call) contact with an alien, "cube-shaped" vessel but subsequently went missing. On Picard's direction, the Enterprise starts to head there at maximum warp. Meanwhile, Hansen informs Picard that every available starship is en route to assist the Enterprise but is still six days away from its destination. Picard vows that the Enterprise will try to keep the Borg occupied, and Hanson then ends his message. While some of the senior officers exit to man their battle stations, Picard questions La Forge about the Enterprise's state of combat readiness, but the engineer relates that the situation seems grim. He does tell Picard that they will retune the phasers to a higher EM base emitting frequency to try to disrupt the Borg's subspace field. La Forge notes that it is a shot in the dark when asked by Picard of the plan's effectiveness, but La Forge tells the captain it is the best they can do.
+
+With the Enterprise continuing at warp, the bridge officers later detect the invading Borg cube, which moves to intercept the Starfleet vessel. Picard instructs Worf that Hanson is to be contacted with news that the engagement has begun.
+
+
+=== Act Three ===
+
+Picard is personally hailed by the Borg. Data is unsure if the cube is the same ship the Enterprise encountered at J-25 but says their dimensions match exactly. The Borg demand that Picard surrender to them, influencing the bridge officers to realize that the Borg's priorities have changed from an interest exclusively in technology. Picard defiantly refuses and continues to threaten the Borg to withdraw. A skirmish ensues, in which the cube makes an eventually successful attempt to trap the Enterprise in a tractor beam. Whereas the Enterprise's weapons do no damage to the cube, the Borg's use of a cutting beam on the secondary hull forces La Forge to evacuate engineering. Shelby tells Data to target the cube with random phaser frequencies, which sever the tractor allowing the Enterprise to get away. On a course set by Picard, the ship speedily departs, pursued by the cube moments later. La Forge arrives on the bridge, while Data reports that eleven crewmembers were killed when the Borg attacked, along with eight more missing. Picard supervises the ship's entry into the sensor-blinding Paulson Nebula, a hiding spot into which the cube does not follow.
+Riker, Shelby, and the engineering team in the observation lounge review their escape from the cube's tractor beam, finding that a high narrow band of phaser frequencies momentarily nullified the cube's power. La Forge and Crusher come up with a plan to fire a concentrated blast of those same frequencies from the main deflector dish, the only component on the ship capable of handling that much power at controlled frequencies. Shelby fears that such a blast will also destroy the Enterprise, but Riker proposes that the plan could still work, if some distance was put between the ship and its target. Although Riker approves Shelby's suggestion to retune all phasers to the same band of frequencies, he repeatedly dismisses her recommending that they separate the vessel's saucer section and use it to divert the Borg. Shelby insists that Captain Picard be given the option of deciding on her proposal, but – after Riker replies that he personally presents all ideas and alternatives to Picard – she finally desists and exits with Data and Wesley, leaving Riker and La Forge to remark on her stubbornness. They nevertheless agree that she can help the Enterprise crew.
+Riker later enters Picard's ready room to find Shelby there, having brought her controversial suggestion to the captain. Picard agrees with an uncomfortable Riker that the right time for Shelby's plan is not yet but dictates that her proposed stratagem should be used as a fallback. Riker accepts Picard telling him to make the necessary preparations to enact her plan.
+Riker and Shelby board a turbolift via the bridge, but Riker immediately stalls their journey to the battle bridge on Deck 8. He angrily warns Shelby not to bypass his authority again. After he grants her permission to speak freely, she bluntly states that Riker is in her way. Riker mocks her frustration but she then criticizes the cautiousness of his shipboard service, telling him that – if he cannot make the big choices that go with his rank – he should abdicate his position as first officer to someone who can.
+
+
+=== Act Four ===
+"Captain's log, Stardate 43996.2. The Enterprise remains concealed in the dust cloud. And to my surprise, the Borg have maintained their position, waiting for us to come out of hiding. I have no explanation for their special interest in me or this ship. We continue to prepare our defenses for the inevitable confrontation. But I must admit, on this night I contemplate the distinct possibility that no defense may be adequate against this enemy."
+While touring the Enterprise (after surveying engineering), Picard visits an empty Ten Forward, where Guinan is puzzled to see that he is awake. He tells her of his tour, and as they converse over the tradition of such a tour, Guinan intuits that Picard is not confident about the imminent clash with the Borg. He admits as much, anticipating that the conflict may spell the end for his civilization. She assures him that – even in the face of almost certain obliteration – Humanity, like her own people had done, will prevail against the Borg by surviving. Explosions outside the ship's hull and a communication from Worf summon the captain to the bridge.
+
+There, Picard learns that the blasts are due to magnetometric guided charges from the Borg cube. Soon thereafter, the Enterprise speeds out of the nebula under Riker's supervision, as requested by Picard, but is struck by one of the charges. The cube gives chase, soon managing to tractor the Enterprise, and Borg intruders begin to transport onto the bridge. Although Worf manages to disable the first with his own phaser, he and Riker are forcefully discarded when they consecutively try to assault a second Borg, who resists Worf's phaser. A third appears beside Picard and restrains the captain before both vanish. He and the two Borg survivors are transported from the bridge, leaving the disabled one to self-destruct. Recovering, Riker and Worf find that the Borg are making a quick getaway, so Riker orders pursuit. O'Brien is unable to beam Picard back due to interference. Worf discovers that the course the Borg has set will lead them to Sector 001. Riker grimly identifies the Borg's exact target: Earth.
+
+Picard is escorted to face the cube's interior, where the Borg Collective informs him that he has been chosen to become a liaison between the Borg and Humanity, to expedite the assimilation of Earth into the Collective. Picard refuses to comply, saying that Humans would rather die, but the Borg maintain that his efforts to resist them will not succeed.
+La Forge, meanwhile, informs Riker, on the Enterprise's bridge, that their deflector is nearly weaponized but will require an abundance of power from the warp engines. Riker arranges an away team to retrieve Picard, and, on Shelby's advice, he also prioritizes inducing the cube to drop out of warp before they must disengage their warp drive. Riker plans to lead the away team himself, leaving Shelby to coordinate with Starfleet from the bridge, but she objects that the team could use Shelby's knowledge of the Borg. Riker cuts Shelby off mid-sentence but listens to Troi's objection that protocol dictates that Riker's place is on the bridge, as he is the highest-ranked officer and the Federation is currently in a state of war with the Borg. Reluctantly, he assigns command of the team to Shelby.
+
+
+=== Act Five ===
+"First officer's log, Stardate 43998.5. Our pursuit of the Borg continues on a course that will take us to the very core of the Federation. The devastation they could bring is beyond imagination."
+After preparing to board the cube, the away team members – Shelby, Worf, Data, and Doctor Crusher – are transported over to the Borg craft, armed with newly retuned phasers. Shelby reminds the team that their phasers will work once or twice before the Borg learn to adapt. Doctor Crusher asks what kind of resistance they should expect. Data replies that the Borg ignored them when they originally beamed aboard their vessel, as they did not see their presence as a threat. Shelby pipes up that may change, should they begin to interfere with their plans. They begin their quest for Picard, whom Worf is unable to detect using a tricorder. As predicted, the Borg take no action against the away team. Doctor Crusher notices a Borg linkup and metaphorically suggests – likening the away team to mosquitoes – that vandalizing the cube's systems could hinder the Borg. In another section of the corridor, Data finds more distribution nodes, and Worf's tricorder detects Picard's combadge, but the communicator is unresponsive, so the team starts heading towards it.
+In the Enterprise's ready room, Riker strongly advises Admiral Hanson – via the room's desktop monitor – that Earth's protection be prioritized. The admiral says his fleet will intercept the Borg at Wolf 359, where they will make their stand. Riker notifies Hanson of the Enterprise's situation, worriedly implying to a curious Hanson that there has not yet been any sign of Picard.
+In a large drawer, the away team finds Picard's discarded uniform and combadge. Shelby apprises Riker (now on the bridge) of this news, just before he is told – by Wesley and La Forge – that the deflector weapon is ready but that, due to the radiation danger, the forward half of the secondary hull and lowest three decks of the saucer section will require evacuation, which Troi goes to organize. Riker orders the away team to find a way to disengage the cube from warp. Shelby oversees the experimental destruction of one of the distribution nodes, requiring the combined phaser power of Data and Worf. The disturbance influences the Borg to become energized, but the team manages to shatter two more nodes.
+The away team's sabotage causes the Borg cube to drop out of warp, a development that Wesley reports on the Enterprise's bridge, and enables La Forge to divert power from warp to the deflector. Riker supervises final preparations for using the weapon.
+
+Meanwhile, the away team manages to disable several approaching Borg, but they soon adapt to the modified frequencies. As the Borg close in on the away team, Beverly notices Picard in the distance and calls out to him, but, as the captain turns to face his crew, his features reveal the implementation of Borg implants and hardware throughout his body – he has been physically transformed into a Borg. Worf, shocked, determinedly heads towards his former captain, but a powerful force field blocks his way and knocks Worf to the floor. On Shelby's command, the team makes a hasty escape to the Enterprise, leaving Picard behind.
+The members of the away team arrive on the bridge and notify Riker that the captain "has been altered by the Borg," though Worf disgustedly clarifies that Picard is a Borg. Shelby and Doctor Crusher are intent on making another recovery attempt, but, as the Borg cube re-energizes, Riker insists that they instead use their deflector weapon, as this is the only chance to destroy them – should the Borg regain warp drive, the Enterprise's weapon will become useless. Shelby proposes sabotaging the Borg cube again and orders Worf to contact Starfleet to consult with Admiral Hanson. Riker refuses both options, saying simply they are out of time.
+The Borg then hails the Enterprise. The crew watches in horror as Captain Picard, now calling himself "Locutus of Borg", intones the Collective's intention file info to assimilate the Enterprise and destroy the Federation. Determined, and with no other option, Commander Riker makes the ultimate decision...
+
+TO BE CONTINUED…
+
+
+== Log entries ==
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+First officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"The truth of the matter is… hell, we are not ready. We knew they were coming for over a year. We've thrown every resource we have into this, but still…"
+"Then you are convinced it is the Borg?"
+"That's what I'm here to find out. The initial descriptions of these surface conditions are almost identical to your reports from system J-25."
+
+- J.P. Hanson, William T. Riker, and Elizabeth Shelby, about assessing Starfleet's ability to confront the Borg
+
+"He's hurting his career by staying put. If I were you, I'd kick him in the rear end for his own good."
+
+- J.P. Hanson, to Picard about Riker
+
+"Well, I've only got two pair, but I've got to see your hole card. I'll call."
+
+- Shelby, forcing Riker to reveal he was bluffing about having a straight flush
+
+"Morning. Early bird gets the worm, eh? We've had some interesting results."
+"Commander Shelby. Walk with me, Commander."
+(confused) "Early bird…? I believe Commander Shelby erred. There is no evidence of avifaunal or crawling vermicular lifeforms on Jouret IV."
+"That's not what she meant, Data… but you're right: she erred."
+
+- Shelby, Riker, Data, and La Forge
+
+"The soil contains the same magnetic resonance traces. That's our footprint. There's no doubt anymore. It is the Borg."
+
+- Shelby, to Riker
+
+"Will… what the hell are you still doing here?"
+"Sir?"
+"You've been offered the Melbourne."
+"I've decided not to pursue that commission at this time."
+"She's a fine ship, Will."
+"Yes, but she's not the Enterprise. With all due respect, sir, you need me. Particularly now."
+"Indeed? Starfleet needs good captains, particularly now. Reconsider your decision."
+"Are you telling me to leave, Captain?"
+"I'm asking you to look at your career objectively. Will, you're ready to work without a net. You're ready to take command. And, you know, the Enterprise will go along just fine without you."
+
+- Picard and Riker, on why the latter refuses his third offer of command from Starfleet to stay on the Enterprise
+
+"Mister Worf, dispatch a subspace message to Admiral Hanson. We have engaged the Borg."
+
+- Picard
+
+"Jean-Luc Picard, captain of the starship Enterprise, registry NCC-1701-D, you will lower your shields and prepare to transport yourself aboard our vessel. If you do not co-operate, we will destroy your ship."
+"You have committed acts of aggression against the United Federation of Planets!"
+
+- Borg Collective and Picard
+
+"What the hell do they want with you?"
+"I thought they weren't interested in Human lifeforms, only our technology."
+"Their priorities seem to have changed."
+
+- Riker, Shelby, and Picard, after the Borg demand that Picard surrender himself
+
+"You disagree with me, fine. You need to take it to the captain, fine; through me. You do an end run around me again, I'll snap you back so hard you'll think you're a first-year cadet again."
+"May I speak frankly, Commander?"
+"By all means."
+"You're in my way.
+"Really? (Unpleasant smile and sarcastic tone) How terrible for you."
+
+- Riker and Shelby
+
+"I wonder if the Emperor Honorious, watching the Visigoths coming over the seventh hill, could truly realize that the Roman Empire was about to fall. This is just another page in history, isn't it? Will this be the end of our civilization? Turn the page."
+
+- Picard, to Guinan shortly before the Enterprise faces the Borg cube
+
+"When it comes to this ship and this crew, you're damned right I play it safe."
+"If you can't make the big decisions, Commander, I suggest you make room for someone who can."
+
+- Riker and Shelby
+
+"Captain Jean-Luc Picard, you lead the strongest ship of the Federation fleet. You speak for your people."
+"I have nothing to say to you! And I will resist you with my last ounce of strength!"
+"Strength is irrelevant. Resistance is futile. We wish to improve ourselves. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service ours."
+"Impossible! My culture is based on freedom and self-determination!"
+"Freedom is irrelevant. Self-determination is irrelevant. You must comply."
+"We would rather die!"
+"Death is irrelevant. Your archaic cultures are authority-driven. To facilitate our introduction into your societies, it has been decided that a Human voice will speak for us in all communications. You have been chosen to be that voice."
+
+- Borg Collective and Picard
+
+"The captain has been altered by the Borg."
+"Altered?"
+"He IS a Borg!
+
+- Data, Riker, and Worf
+
+"I am Locutus… of Borg. Resistance… is futile. Your life, as it has been… is over. From this time forward… you will service… us."
+
+- Locutus of Borg, formerly Captain Picard
+
+"Mister Worf… fire."
+
+- Riker, setting up Part II
+
+
+== Background information ==
+
+
+=== Production history ===
+Pitch memo from Michael Piller: 22 January 1990 [1]
+First draft story outline: 1 March 1990
+First draft story outline distributed: 2 March 1990
+Final draft script: 6 April 1990 [2]
+Patrick Stewart records ADR looping at Modern Sound: 11 May 1990 [3]
+Premiere airdate: 18 June 1990
+First UK airdate: 29 April 1992
+
+
+=== Story and script ===
+
+Michael Piller was unsure how this episode's two-parter would end when he first sat down to write the episode. He began with the need for a season-ending cliffhanger. (Star Trek: The Next Generation Companion, 2nd ed., p. 130) Naturally, the episode was designed to create anticipation for the return of the series in the following season. (Star Trek: Fan Collective - Borg text commentary)
+While the Borg had proven popular after their introduction in the second season episode "Q Who", the writers had struggled to bring them back, noting the problem of writing for a race with no personality. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199) In fact, Michael Piller himself had tried throughout Star Trek: The Next Generation's third season to devise a new story about the Borg. (Star Trek: The Next Generation Companion, 2nd ed., p. 130) While several of the writing staff suggested creating a "queen bee" to act as a spokesperson, Piller resisted these proposals. He commented, "To me, there was something special and frightening about the Borg that their lack of character brought. For a show that dwells and specializes in character to be challenged and possibly destroyed by a characterless villain seemed, to me, to be a special kind of threat. But when we started talking about the cliffhanger and the Borg, we really did talk about who was going to be the queen bee." It was Piller who came up with the notion of meeting this requirement by having Picard be assimilated. The writer recalled, "It all just fell into place. I said, 'I've got it. Picard will be the queen bee.'" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199)
+In an early draft of the story, however, Data and Picard were combined as one Borg unit. Piller recalled, "Someone said why should they do this, and we didn't have a good answer so we dropped that idea." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199)
+To fill up the rest of the storyline, Piller sought to maintain the Human drama in all the spectacle. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199) As a result, the story's central character shifted, in Piller's opinion, from being Picard to Riker. (Starlog issue #159, p. 42) Piller revealed, "We had no idea it was really a Riker story when we started out. I came up with the idea of having the Shelby character come on board to challenge Riker. That seemed to play into the Riker emotions and the conflict over whether to take the other job or not, and that builds into the issue of whether or not he was big enough to fill the center chair." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199)
+Another reason that Piller had for creating the Shelby subplot was to better explore Riker's motivation for staying aboard the Enterprise, as the series' fans had begun to wonder why Riker had – on a couple of times beforehand – turned down command opportunities (despite the real reason for this being that the series' production team did not want to lose Jonathan Frakes from the cast nor the popular character of Riker from the series). (Star Trek: Fan Collective - Borg text commentary)
+Piller had intended this season finale to be his last contribution to The Next Generation, after having agreed to only a one-year contract. His turmoil over leaving the show was reflected in Riker's struggle over leaving the Enterprise for his own command. Piller recounted, "By the end of the season, I was struggling with whether or not to stay or leave. And this came out in the screenplay for 'Best of Both Worlds, Part One', as Riker spoke about those issues." (Mission Overview, TNG Season 3 DVD special features) Piller also commented that he found this mirroring to be "very interesting." (Starlog issue #159, p. 42) Due to having always found it easier to write character exposition than technobabble, writing about Riker's career dilemma came easily to Piller, especially since the character's issue mirrored his own situation. He remembered, "As I was writing this script, I found myself in the position of Riker, who was trying to decide whether he wanted to leave the ship or not. Much of what happened in Part One was about what was going on in my head." Of one scene in particular, Piller recalled, "Riker is talking to Troi about why he hasn't left […] That was really me speaking through Riker." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199) The writer elaborated, "When [Riker] talked to Troi about 'Why am I still here?' and she's telling him, 'because you're happy,' that was a conversation I had with myself several times during the course of writing that show." (Star Trek: The Next Generation Companion, 2nd ed., p. 130) Piller was finally convinced to stay by Gene Roddenberry. (Mission Overview, TNG Season 3 DVD special features)
+The real reason Doctor Crusher was included in the away team that attempts to retrieve Picard from the Borg was that actress Gates McFadden had mentioned to Piller that it would be fun to fire a phaser, as her character wasn't usually provided with the opportunity for much phaser action during the series. Piller was happy to accommodate her request. (Star Trek: Fan Collective - Borg text commentary) As the episode's text commentary notes, even though it makes logical sense for a medical officer to go on such a mission (as it does involve rescuing a potentially wounded crew member), the situation raises the question of why it is necessary for the chief medical officer to risk her life by partaking in such a dangerous mission. Just before the away team are beamed to the Borg ship, Shelby is even specifically reminded by Riker not to take any unnecessary risks.
+The script described Admiral Hanson as "fifties, high ranking, hard driving" and Shelby as "late twenties, very beautiful, energetic, extremely motivated and ambitious." The script also commonly referred to each of the Borg's distribution nodes as a "conduit box" and included only one reference to the moniker "Locutus" (specifically, in his dialogue at the end of the episode), otherwise referring to him as "Picard/Borg". [4]
+All the stardates provided in the episode's log entries were changed between the script and the final version, with two supplemental entries in the script (the final two log entries of the episode) ultimately being given stardates instead. [5]
+Although the script described the Paulson Nebula as containing "large rocks and clumpy material," none of this debris is shown in the episode's final version. [6] In fact, the resemblance is of the Mutara Nebula.
+
+
+==== Script edits ====
+The final draft script included several moments that did not survive the episode's transition to its final, televised version. These included:
+
+…a preface to the scene wherein Riker and Shelby enter the latter's quarters. This edited portion of the scene began with the pair walking through a corridor, discussing the Borg. Shelby stated that the Borg were known to have no interest in power or political conquest, to which an acknowledging Riker added that the Borg identified what was useful to them before consuming it, or at least trying to. Pausing with Riker outside her quarters, Shelby presented a pertinent question, asking – after the Borg take what they want – what happened to the rest. Responding to Riker's expression, she explained that there must be some evidence, residue, or sign to show that the Borg had been in a particular area.
+…a continuation of the scene involving Riker and Troi in Ten Forward, immediately after Troi asks Riker what he wants. The deleted section of the scene continued with Riker laughing to himself, influencing Troi to wonder what was amusing him. Remarking that his impetus was "stupid," Riker revealed it was an old song that he had heard in his childhood and that now kept running through his mind. Reacting to Troi's expression, he began to sing the words of the song, which was the Jimmy Durante composition "Did You Ever Have the Feelin'?" (as featured in the movies Two Girls and a Sailor, My Stepmother Is an Alien, and Scent of a Woman). As he sang, Guinan – moving by with a tray of drinks – reacted as she heard Riker. He eventually stopped, realizing that Guinan was looking at him. She told him that he would start on Friday, with two shows a night and a matinee on Wednesday. Riker commented that he also played the trombone, to which Guinan nodded before walking away.
+…a moment during Shelby and Riker's argument about the tiredness of the engineering team, between Riker telling Shelby that he thinks the team should "call it a night" and him making that an order. This edited segment of the scene started with Shelby reacting without eye contact with him, instead continuing to work at a computer. In a restrained voice, she accepted his statement and started to address anyone who was really tired and wanted to leave, but her sentence was interrupted; Wesley and Geordi both agreed to keep working. Intending to quickly resume work, Shelby started to ask what would happen if the team took "the frequency klystron from the existing unit" but, this time, Riker interrupted her. With his voice firm but not loud, he instructed that they would "break here."
+…a continuation of the scene wherein the Enterprise enters the Paulson Nebula. In the scripted version of the scene, Riker ordered the bridge officers to shut down all active sensors, continue running passive scanners only, and to set the deflector to output only minimum emissions. Picard commented that they would maintain their position inside the nebula and looked at both Riker and Shelby, adding, "Until we have a better idea." [7]
+
+
+=== Sets, props, and wardrobe ===
+The surface of Jouret IV was a set built on Paramount Stage 16, its design supervised by Production Designer Richard James. He used a large painted backdrop to extend the set, adding illusory distant mountains and an artificial sky to the planetscape. The planet's crater was added via the use of a matte painting that was based on a photograph of Meteor Crater in Arizona. (Star Trek: Fan Collective - Borg text commentary)
+Creation of the Borg designs benefited from lessons learned from "Q Who". David Livingston noted, "The set had been a problem, because we didn't have the money to build a complete one, and the Borg had taken a long time. We made a lot of changes on them after they were first put together. The technical part of figuring out how to stick on all this tubing to these guys was a big deal […] When we got to 'Best of Both Worlds', we knew what the problems were. We knew we had to build a different kind of set and it worked out really well." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 199)
+The Borg costumes seen in this episode were based on designs that Durinda Rice Wood had created for "Q Who". (Star Trek: Fan Collective - Borg text commentary) Wood had left the series by this point, however, so the task of improving the Borg suits for this episode's two-parter fell to Robert Blackman, who had joined the series since the Borg's previous appearance. Blackman remained close to his predecessor's Borg designs for this episode and the next.
+The design of Locutus for this episode and the next was slightly more elaborate than the rest of the Borg suits used here. Michael Westmore recalled how an effective special effect was added to Locutus' helmet, using merely a tiny, cheap laser; "My son Michael, who did all the Borg electronics in the eyes and the head, found this little laser that was only one inch long. We mounted it on Patrick Stewart as Locutus. There's that scene at the end of the first part of 'The Best of Both Worlds' where Patrick turns his head and looks directly into the camera with his laser. We had no idea what was going to happen. Boy, the phone rang! Rick [Berman] saw it and said, 'Oh, my God, what a great effect.' Now that's an effect that could cost thousands of dollars to do if you wanted to say 'This is what I want to do,' and this was done with a little cheap laser." [8](X)
+As with the planetscape used for Jouret IV, the Borg interior set was also created by Richard James and built on Stage 16. Having devised the basic look of a Borg ship for "Q Who", James built on those designs for this episode. The Borg interior set, in this case, was built on an area of the stage where the floor could be removed, allowing the production crew to place lights in the basement area so that they could shine up through the floor grating. (Star Trek: Fan Collective - Borg text commentary) The ceiling of this Borg set featured many round yellow lights that were actually covers from swimming pool filters, two of which had also been influential in the design of an ancient Iconian control building seen on the planet Iconia in the second season TNG episode "Contagion". (Star Trek: Fan Collective - Borg text commentary, Star Trek Encyclopedia, 2nd ed., p. 202) New for the Borg set of this episode was the presence of numerous small, rectangular, black-and-red placards that were intended to represent Borg signs. Most of these placards were detailed with random patterning, but a few instead featured the distinctive claw-like emblem of the Borg Collective. (Star Trek: Fan Collective - Borg text commentary)
+A reworking of a matte painting by Syd Dutton was used for the interior vista of the Borg cube in this episode, as had previously been done in "Q Who". The illustration was used for both the scene wherein the Borg cube contacts the Enterprise and for the later scene in which Picard, not yet Locutus, is brought to face the Borg ship's interior. For the latter scene, a larger interior vista was created with a blue screen composite, adding Picard and two drones into the shot. (Star Trek: Fan Collective - Borg text commentary)
+The set of Shelby's quarters included a pair of paintings on the room's back wall, designed by Rick Sternbach. (Star Trek: Fan Collective - Borg text commentary)
+Close-up footage of the desktop monitor that Riker utilizes to contact Admiral Hanson reused stock footage that had been filmed early during TNG's first season. Longer shots of Riker using the monitor involved the use of the actual monitor prop, including grey stripes that had later been added to the prop's base but were not present in the stock close-up shots. The differences between the monitor in the two types of shots, in this episode, therefore constitute a continuity error. (Star Trek: Fan Collective - Borg text commentary)
+For scenes of Admiral Hanson contacting the Enterprise's senior officers while they are gathered in the observation lounge, footage of actor George Murdock as Hanson was superimposed during post-production. When the senior officers watch footage of the Borg attack against the Enterprise, however, this footage was actually displayed on the screen amid the filming. The differences in these two methods of screen display was noticeable by looking at the observation lounge's table, as the footage that was on the set reflected off the table whereas the superimposed footage obviously didn't. (Star Trek: Fan Collective - Borg text commentary) For the remastered version of the episode, the reflection on the table was added for the superimposed footage.
+
+
+=== Cast and characters ===
+George Murdock (Admiral Hanson) previously appeared in Star Trek V: The Final Frontier as "God".
+Guest star Elizabeth Dennehy found this episode to be the hardest of its two-parter, experiencing difficulty in playing an authority figure in a series with which she was entirely unfamiliar. The actress noted, "I didn't know anything about the show and I had to look like I knew, because I was in charge. I was a commander and the hardest thing in the world to do was making that dialogue sound like I spoke that way all the time. It was impossible. It's so easy to remember and memorize lines when they make logical sense or when you get blocked and you say when I move over here, I say this. But this was just memorizing times tables. It was just 2x2 is 4. I didn't know what a manipulation effect in the Borg ship's subspace meant. That's not English! It was like learning a foreign language by phonetics. It was just grueling." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 200)
+Jonathan Frakes commented about this episode, "That was one of the best cliffhangers ever." (AT: "Vaulting Ambition")
+
+
+=== Production ===
+This episode was produced in April 1990. (Star Trek: Fan Collective - Borg text commentary)
+The fact that this episode was the first cliffhanger in the history of Star Trek: The Next Generation ("Encounter at Farpoint" was later divided into two parts but was a feature-length episode at first-run) was influential in Paramount opting to be less restrained with this episode's budget than the organization typically was. Director Cliff Bole noted, "Paramount, at the beginning of the year, had pulled back a little budget-wise […] They let us go a little bit on the first one because it was the first time we'd done a cliffhanger." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 207)
+Cliff Bole was delighted to work on this episode and its follow-up. He recalled, "I enjoyed these two shows [The Best of Both Worlds, Part I and II] more than anything I've ever done." ("Cliff Bole - Of Redemption & Unification", The Official Star Trek: The Next Generation Magazine issue 17, p. 31)
+Assistant Director Chip Chalmers recalled one memorable moment during filming. "I remember the moment when Patrick [Stewart], dressed in a Borg outfit, first walks up to the viewscreen and says, 'I am Locutus of Borg.' He came on to the set – everybody was wowed with what they had done to Patrick – and we got everyone settled down and did one rehearsal. All he had to do was walk up to the camera. He did so and towered over everyone. It was just so creepy and so spooky, and he said, 'I am Locutus of Borg. Have you considered buying a Pontiac?' And everyone was on the floor. That's the kind of thing that makes it wonderful to work on the show; those people have a wonderful sense of humor." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 200)
+Elizabeth Dennehy struggled to begin her work on this episode, specifically owing to the lines of technobabble that Shelby had been scripted to say. "My first day was the hardest of all," Dennehy related. "It was a scene in the big conference room where I'm talking to them about what the Borg do, and they're like tongue twisters […] But, geez, those lines. I yelled at Michael Piller when I first met him. The day he visited the set I had to say, 'Separate the saucer section, assign a skeleton crew,' and I asked him, 'Can you lay off the alliteration a little, Michael… please.' He laughed. It was hard." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 200)
+On the day when the teaser scene was filmed, the production staff gathered for a group photograph of virtually everyone involved in the making of the series. (Star Trek: Fan Collective - Borg text commentary)
+A close-up shot of the Borg linkup was filmed by a second unit crew, weeks after principal photography for the third season had ended. (Star Trek: Fan Collective - Borg text commentary)
+
+
+=== Visual effects ===
+According to an estimate made by Associate Producer Peter Lauritson on 21 August 1991, this episode probably had eighty visual effects shots. (New Life and New Civilizations, TNG Season 4 DVD special features)
+This episode was one of a mere few that required all-new shots of the Enterprise's exterior to be created, rather than reusing stock footage that had originally been filmed for "Encounter at Farpoint". (Star Trek: Fan Collective - Borg text commentary)
+For two establishing shots (using the same clip) of Admiral Hanson's transport ship flying alongside the Enterprise, recycled footage of the Excelsior-class model was recomposited with the Enterprise model; the clip had previously been used in TNG: "The Child", for which it was utilized to represent the USS Repulse. Although the clip had originally been filmed by Industrial Light & Magic, its new composite was done at The Post Group, overseen by Visual Effects Supervisor Robert Legato. (Star Trek: Fan Collective - Borg text commentary)
+Similarly, the images of the Paulson Nebula were recycled images of the Mutara Nebula from Star Trek II: The Wrath of Khan. This stock footage was enhanced for the episode, by photographing the Enterprise model on a stage that was filled with smoke, helping to create the illusion that the ship was in the cloudy nebula. (Star Trek: Fan Collective - Borg text commentary)
+Shots of the Borg cube involved reusing a three-quarters filming miniature from "Q Who". (Star Trek: Fan Collective - Borg text commentary)
+
+
+=== Music ===
+This episode is notable for the musical score composed by Ron Jones, as it uses a synthetic chorus to provide a five-note leitmotif for the Borg and a dramatic cliffhanger cue for the ending when Riker chooses to fire on Locutus. According to Jones, the producers were uncomfortable with the choir concept, though he felt the extremity of the Borg threat allowed for the musical style. He related, "Let's be serious. This isn't another episode of Wagon Train, this was the end of Mankind as we know it. This is not just 'Well, somebody's going to blow us out of the sky, but we'll be smart and figure it out.' I wanted it to be like 'Goodbye,' like an epitaph for Humanity." (Cinefantastique, Vol. 23, No. 2/3, p. 125)
+The orchestra for this episode and Part II was double the size of that for other episodes, at seventy-seven musicians. ("Ron Jones – Sounds in Space", The Official Star Trek: The Next Generation Magazine issue 14, p. 17)
+Some parts of the score seem to build upon musical themes used by Ron Jones in earlier episodes. For example, a piece of dramatic underscoring music that is heard during the activation of the auto-destruct sequence by Picard and Riker in the episode "Where Silence Has Lease" is featured even more profoundly in "The Best of Both Worlds".
+Ron Jones also happened to have scored the first episode to ever feature the Borg, "Q Who", as well as the episode that foreshadowed their threat, "The Neutral Zone".
+
+
+=== Continuity and trivia ===
+
+This episode is essentially a sequel to "Q Who", in particular a scene at that episode's conclusion wherein Picard realizes – during a private conversation with Guinan – that the Borg "will be coming."
+This episode begins the first two-parter in Star Trek since TOS: "The Menagerie, Part I" and "The Menagerie, Part II" in 1966.
+This was also the first end-of-season cliffhanger in the history of Star Trek's production.
+The Borg went on to be used to provide end-of-season cliffhangers for Star Trek on three further occasions: TNG: "Descent", VOY: "Scorpion", and VOY: "Unimatrix Zero". They also went on to reappear in the feature-length premiere of DS9 ("Emissary"), the feature-length finale of Voyager ("Endgame"), and their big-screen debut in Star Trek: First Contact, the latter of which loosely continues the storyline from this episode. They even ultimately made a controversial appearance in ENT: "Regeneration", which takes place after most of the events in First Contact and begins a paradox of the Borg threatening the Federation.
+This episode marks the first use of the Borg's now-famous line: "Resistance is futile." Another phrase, "Strength is irrelevant," also becomes a commonly used Borg phrase with the subject "strength" being replaced in each use (for example: "freedom", "self-determination", "death").
+While the Borg later prove to have typically unimaginative naming conventions (i.e., Third of Five, Seven of Nine, etc.), the name chosen for Picard's alter-ego is quite appropriate. His function is to speak for the Borg, and "Locutus" is Latin for "he who has spoken."
+Though the Borg's first appearance was in "Q Who", this is the first episode in any Star Trek series where the Borg assimilate a person.
+This episode also includes the first time that Doctor Crusher personally encounters the Borg, due to her absence in the second season of the series. At one point, the script of this episode specifically stated, "Beverly wasn't around for the Borg last year."
+This is the only season finale that Wil Wheaton recorded any scenes for. Of the other two season finales during his time as a regular, "The Neutral Zone" does not feature the character of Wesley at all and "Shades of Gray" only features him in stock footage.
+Wesley's poker hand as he loses to Riker's bluff, three Jacks, is nearly identical to Data's hand in "The Measure Of A Man" when he similarly lost to Riker's bluff, three Queens. In both cases, Riker had one card short of a flush and managed to bluff both Data and Wesley, respectively, into folding their three-of-a-kind hands (although in this instance, Shelby goes on to call Riker's bluff and win the hand).
+The new weapons that Shelby mentions are in development by Starfleet to combat the Borg very likely included the USS Defiant as well as a battle fleet which the Defiant was designed to be the prototype for. Commander Benjamin Sisko later states, in DS9: "The Search, Part I", that plans for the Defiant began five years prior to 2371, which would place it in the same time frame as this episode. Furthermore, the Defiant was to be built for the singular purpose of fighting and defeating the Borg. With the defeat of the Borg in "The Best of Both Worlds, Part II", Starfleet later considered the threat from them to be "less urgent" and, coupled with design flaws of the Defiant, decided to abandon the project until faced with a similar threat from the Dominion.
+Although she is not seen on-screen in this episode, it is established in Star Trek: First Contact that the Borg Queen was aboard the cube.
+Despite Data apparently misunderstanding the phrase "early bird" in this episode, he has heard it once before; he is present when, in TNG: "The Arsenal of Freedom", a Minosian peddler uses the saying.
+This is the first of two episodes that establish Earth as being in Sector 001, the other episode being the following installment.
+Wolf 359 is an actual star that exists in reality. An extremely faint red dwarf, the real Wolf 359 is approximately seven-point-eight light years from Earth, the fifth nearest star to our sun. Wesley makes reference to "the Wolf system", although, at the time the episode was produced, Wolf 359 was not believed to have any planets. However, in 2019, two exoplanet candidates were reported orbiting Wolf 359. [19]
+
+
+=== Reception and aftermath ===
+Michael Piller predicted the attention which would be paid to this season finale. In a memo he wrote Rick Berman (on 18 April 1990), he stated that the episode's debut airing "ought to generate some decent publicity if Paramount milks it properly." (The Making of Yesterday's Enterprise, pp. 91-92)
+Cliff Bole was ultimately very proud of his work on this episode and its sequel. "They turned out very well […] The two episodes really go together, and I wouldn't put it past Paramount to release them theatrically in the foreign market," he enthused. ("Cliff Bole – Of Redemption & Unification", The Official Star Trek: The Next Generation Magazine issue 17, p. 31)
+As a member of TNG's writing staff, Ronald D. Moore was intensely aware of the impact that the initial airing of this episode had. In his introduction to the reference book Star Trek: The Next Generation 365, Moore recollected, "We were well into writing new episodes [for the fourth season] when the third-season finale, 'The Best of Both Worlds, Part I' [sic], was broadcast and all hell broke loose. That episode, Trek's first cliff-hanger, touched a chord with the audience, and suddenly everyone was talking about TNG. We were seeing press clippings from all over the media with buzz about how wild it was to see Picard being Borgified into Locutus, and how stunning Riker's shout of 'Fire!' was, just before the final cut to black." No longer was the series derided for its newness and differences from Star Trek: The Original Series. "All that went away after 'BOBW'," Moore noted. He also clarified, "It wasn't until after the 'Best of Both Worlds' cliffhanger that you felt the whole gestalt of it shift and suddenly we were Star Trek." (William Shatner Presents: Chaos on the Bridge)
+Brannon Braga joined the writing team of TNG shortly after this episode was first aired. On 15 November 2002, he recalled the environment at the time: "The feeling back then was very exciting because… 'Best of Both Worlds, Part I' – the big Borg, Picard-gets-assimilated cliffhanger – had just aired. In fact, it was the first episode of Star Trek I'd really sat down and watched. And it was a turning point for The Next Generation, which was climbing its way up the ratings, getting better and better, but that was the defining moment, where it got a lot of people excited and the show really took off. So I came in right at that point, when that show had just aired and they were preparing Part II." (Chronicles from the Final Frontier, TNG Season 4 DVD special features)
+After the episode's airing, rumors circulated among fans that Patrick Stewart's contract talks with Paramount had stalled, and that Picard would be killed off, with Riker becoming captain while Shelby would become his first officer. This culminated in an unprecedented level of interest in The Best of Both Worlds, Part II, with Paramount running ads and radio spots specifically for the episode. (Star Trek: The Next Generation Companion, 2nd ed., p. 131)
+This episode was featured in the Star Trek: The Next Generation Viewers Choice Marathon.
+TV Guide ranked this as the eighth-best Star Trek episode for their celebration of the franchise's 30th anniversary. (TV Guide August 24, 1996)
+Entertainment Weekly ranked this episode (combined with Part II) #2 on their list of "The Top 10 Episodes" to celebrate the 20th anniversary of Star Trek: The Next Generation. [20]
+This episode was nominated for an Emmy Award for Outstanding Achievement in Special Visual Effects.
+After Trek host Matt Mira remarked about this episode, "It was beautiful, it really was." (AT: "Vaulting Ambition")
+When asked about the show's enduring popularity, Michael Piller commented, "I think it's because we saw a side of Picard and a side of Riker that we had not seen before, plus of course, the depiction of 'an undefeatable' enemy like the Borg. Plus it had a scope because it was a two hour story." (AOL chat, 1997)
+The book Star Trek 101 (p. 72), by Terry J. Erdmann and Paula M. Block, lists this episode and the concluding part of its two-parter as being, together, one of the "Ten Essential Episodes" from Star Trek: The Next Generation.
+TV Guide ranked this episode #36 on their list of the Top 100 Episodes. [21]
+A mission report for this episode, by Will Murray, was published in The Official Star Trek: The Next Generation Magazine issue 14, pp. 54-57.
+Jeff Russo cited this as one of his favorite episodes and scores from TNG. ("Standing in the Shadow of Giants: Creating the Sound of Discovery", DIS Season 1 DVD & Blu-ray special features)
+Following his work on this installment and the concluding entry, Robert Blackman later significantly reworked the Borg costumes for subsequent episodes in which they were featured.
+The Borg linkup later reappeared as part of the electronic "guts" inside a wall panel aboard the NX-class Enterprise during Star Trek: Enterprise. (Star Trek: Fan Collective - Borg text commentary)
+The group photograph that was taken on the day this episode's teaser was filmed turned out to be the last crew photograph to include Gene Roddenberry, prior to his death in 1991. (Star Trek: Fan Collective - Borg text commentary)
+A soundtrack album containing music from this episode (as well as Part II) was released in 1992. An extended soundtrack, featuring the complete episodic score, was released in 2013.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 37, catalog number VHR 2564, 17 February 1992
+As part of the UK VHS collection Star Trek: The Next Generation - Borg Box: 5 December 1994
+In feature-length form:
+As part of the UK VHS release Star Trek: The Next Generation - The Full Length TV Movies: Volume 2, catalog number VHR 4102, 16 January 1995
+UK collectors' edition VHS: 9 December 1996
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.8, catalog number VHR 4751, 2 October 2000
+As part of the TNG Season 3 DVD collection
+In feature-length form, as part of the Star Trek: The Next Generation - The Complete TV Movies DVD collection
+As part of the Star Trek: Fan Collective - Borg DVD collection
+As part of The Best of Star Trek: The Next Generation DVD collection
+As part of the TNG Season 3 Blu-ray collection.
+In feature-length form, as part of the The Best of Both Worlds Blu-ray standalone release
+In feature-length form, as part of the Star Trek: Picard Movie & TV Collection Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest Stars ===
+Elizabeth Dennehy as Shelby
+George Murdock as J.P. Hanson
+Colm Meaney as Miles O'Brien
+And
+
+
+=== Special Guest Star ===
+Whoopi Goldberg as Guinan
+
+
+=== Uncredited Co-Stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as Computer Voice
+Debbie David as Russell
+Nyra Crenshaw as operations division officer
+Robert Daniels as operations officer
+Chris Doyle as Borg drone
+Eben Ham as operations division ensign
+Tim McCormack as Bennett
+Michael Moorehead as civilian
+Randy Pflug as Jones
+Keith Rayve as Borg drone
+Lynn Salvatori as Borg drone
+Adrian Tafoya as Borg drone
+Unknown performers as
+Command division officer
+Female command division officer
+Female engineer
+Female operations division ensign
+Five Borg drones
+Science division officer
+Technician
+Ten Forward waiter
+Voice of the Borg
+
+
+=== Stunt doubles ===
+Dan Koko as stunt double for Jonathan Frakes
+Rusty McClennon as stunt double for Michael Dorn
+
+
+=== Stand-ins ===
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+2365; 2366; ability; aggression; "all hands"; alternative; ambition; analysis; arming sequence; As You Like It; attention; authority; auxiliary generator; avifauna; away team; battle; Battle of Trafalgar; battle stations; bearing; "beyond imagination"; blast; Borg; Borg Collective; Borg cube (unnamed); captain; captain's chair (aka "big chair"); career; choice; chromium; civilization; closest help starship; colony; commission; communicator; computer program; conclusion; confidence; confrontation; conversation; coordinates; core chamber; course; "covered all the bases"; cube; culture; cutting beam; damage; damage report; dawn; day; death; decompression; defense system; deflector modulation; deuce; dilithium hydroxyl; dimension; distress signal; door; drawing board; dust cloud; Earl Grey tea; "early bird gets the worm"; Earth; El-Aurians; El-Aurian homeworld; EM base-emitting frequency; enemy; emperor; "end run"; engineering section (secondary hull); evacuation sequence; evidence; Excelsior-class; experience; explanation; fatigue; Federation; Federation space; first officer; first year cadet; Flavius Honorius; flush; freedom; Galaxy-class decks; grade; hail; Hanson's transport; heart; history; hour; hull; hull breach (aka hull rupture); Human; idea; impatient; impression; impulse engine; initiative; intercept course; jack; job; Jouret IV; kilometer; king; knowledge; Lalo, USS; lead time; light year; Locutus of Borg; Locutus' cube; long range sensor; magnesium; magnetic-resonance trace; magnetometric guided charge; main deflector dish (navigational deflector); Melbourne, USS; metaphor; meter per second; millennium; minute; mosquito; name; naval tradition; nebula cloud (nebula); Nelson, Horatio; New Providence colony; New Providence colonists; number one; order; outpost; page; Paulson Nebula; percent; phaser; phaser frequency; phaser resonance frequency; philosophy; photon torpedo; plan; plasma phaser; playing card; poker; power; power distribution node; power source; power waveguide conduit; problem; question; radiation; range; rear end; repair team; report; resource; result; risk; Roman Empire; rumor; sabotage; saucer section; search; second; Sector 001; self-determination; senior officer; sensor data analysis; sensor playback analysis; sensor range; Sentinel Minor IV; shield; shield harmonic; shield modulation; shield nutation; skeleton crew; "shot in the dark"; sleep; society; soil; speed; Starbase 157; Starbase 324; Starfleet; Starfleet Command; Starfleet Tactical; Starfleet uniform; state of war; storm front; straight flush; strategy; structural latching system; subspace; subspace field; subspace field fluctuation; subspace interferometry scan; subspace message; supervision; surface; surprise; surrender; System J-25; tactical analysis; target; Terran system; theory; thousand; threat; time index; torpedo bay; town; tractor beam; tricorder; truth; universe; upper frequency band; velocity; vermicular lifeform; vessel; Victory, HMS; Visigoth; visual range; voice; warp core; warp energy; weapon; weapon system; weather system; "with all due respect"; yellow alert; Zeta Alpha II
+
+
+==== Script references ====
+"Did You Ever Have the Feeling That You Wanted to Stay?"; Friday; klystron; trombone; Wednesday
+
+
+=== Sources ===
+Reeves-Stevens, Judith and Garfield, Star Trek: The Next Generation - The Continuing Mission (1997)
+Van Hise, James, Trek: The Unauthorized Behind-The-Scenes Story of The Next Generation (1992)
+
+
+=== External links ===
+"The Best of Both Worlds" at Memory Beta, the wiki for licensed Star Trek works
+"The Best of Both Worlds" at Wikipedia
+"The Best of Both Worlds" at MissionLogPodcast.com
+"The Best of Both Worlds" script at Star Trek Minutiae
+"The Best of Both Worlds" at the Internet Movie Database

@@ -1,0 +1,221 @@
+The Enterprise is threatened when a character in Data and La Forge's holodeck simulation becomes sentient.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise-D is awaiting the arrival of the USS Victory, which they will rendezvous with in the next three days. Data is then summoned to engineering, where Geordi La Forge's assistant, Ensign Clancy, tells Data that he's with the Victory, which puzzles Data. Data then walks over and inquires about the Victory, since it has not arrived yet. La Forge shows Data a model, a replica of the original HMS Victory, which he intends to give to Captain Zimbata, with whom La Forge had previously served as an ensign.
+In return for indulging him, La Forge gives Data a smoking pipe and invites him to take part in a Sherlock Holmes holographic story.
+
+
+=== Act One ===
+Data, who has memorized all of Arthur Conan Doyle's stories of Sherlock Holmes, recognizes Holmes office and many of the trinkets in it. Data starts playing the violin and becomes in character as Holmes, while La Forge starts to read, taking on the character of John H. Watson. The story seamlessly starts with Inspector Lestrade knocking on the door. However, Data recognizes the story (A Scandal in Bohemia) after only the first few moments, and immediately solves the case. La Forge abruptly freezes the program and storms out of holodeck two.
+
+Talking over the incident at a table in Ten Forward, La Forge explains to Data that playing through the story is part of the fun, and since Data knows all the stories, there isn't any fun, as he quickly solves the mystery. La Forge and Data are overheard by Dr. Katherine Pulaski, who states that Data, while he does have good deductive reasoning, like Holmes, he doesn't understand the Human soul, unlike Holmes, and so is incapable of solving a Holmes mystery of which he doesn't already know the answer. With La Forge's suggestion that the computer could create a new story in the Holmes style, Data takes this as a challenge, and invites Pulaski to join La Forge and him in another Holmes story.
+
+
+=== Act Two ===
+
+This time, Data instructs the computer to create a new mystery in the Holmes style. This is less than successful, however, because the computer merely combines elements of the existing Holmes stories in a way that Data is again easily able to solve by recognition.
+La Forge makes an attempt, now, and carefully instructs the computer to create a story and a character "capable of defeating Data." At that moment, a power surge is detected on the bridge by Lieutenant Worf although it quickly passes and isn't investigated. The new program runs and the three are off on their new adventure. The story takes an unexpected twist when Dr. Pulaski is actually kidnapped by Sherlock Holmes' arch-enemy, Professor James Moriarty, who now "felt like a new man" while witnessing La Forge's use of the holodeck arch earlier.
+
+
+=== Act Three ===
+
+Data and La Forge track the footsteps of the kidnappers, though an unrelated murder distracts them temporarily. Moriarty has been observing them in order to learn about them.
+Data spots Moriarty going into a warehouse which turns out to be his secret laboratory. Moriarty welcomes them and says he somehow knows the two are not Holmes and Watson and is able to call for the holodeck's arch, which surprises them both. Furthermore, he explains that he sees images and has thoughts he doesn't understand. He even reveals that he knows about the "great power" known as "computer".
+Upon being given a piece of paper with something hand-drawn on it from Moriarty, Data immediately leaves the holodeck with La Forge following in confusion. "Why does it frighten you, Holmes?!" Moriarty shouts after them. After trying and failing to deactivate the holodeck because of an override of the holodeck protocols, Data reveals to La Forge that the drawing on the paper is a side profile of the Enterprise, and also reveals that Moriarty himself has control of the computer. La Forge asks about Pulaski, and Data replies that "she is in grave danger."
+
+
+=== Act Four ===
+Meeting with Captain Picard and the senior officers in the observation lounge, La Forge figures out that it was his instructions to create an adversary capable of defeating Data, not Sherlock Holmes, that initiated the holodeck override control and is preventing them from ending the holodeck program. Furthermore, he has access to the computer and all related libraries. Worf suggests infiltrating the holodeck, and Riker destroying the holodeck creations directly, but Data and La Forge both state that the two suggestions would put Pulaski's life at risk. Troi senses a "unifying force," which prompts Data to speculate Moriarty has a consciousness, which would be necessary to defeat him. The ship suddenly lurches due to a temporary control switch to the holodeck, revealing that Moriarty can control the ship if he wants. Picard decides that he must personally meet with him.
+Meanwhile, Moriarty learns a great deal about the Enterprise from the computer, and somehow constructs a crude device that toggles attitude control in the holodeck. Pulaski deftly plays along with the program while not acknowledging that anything odd is going on. Moriarty, for his part, treats the Doctor as a guest; offering her tea and scones while gently trying to get more information. He reveals that he can call the arch and that he suspects he is on the Enterprise.
+Outside, Worf, Data and Picard dress appropriately for the scene and the latter two enter the holodeck, while Worf stands by outside with Riker to assist them if necessary.
+
+
+=== Act Five ===
+Picard and Data go to the warehouse. Moriarty now seems very knowledgeable about his situation, and is convinced he has grown far beyond his original programming. He asks that he continue to exist. Picard explains that it isn't possible, and that he is only a holographic image that can't exist outside the holodeck. Moriarty challenges this by asking if Data has life, using the definition "I think, therefore I am" to argue that he is alive. Picard is convinced, but it still isn't possible with current technology to give him existence outside the holodeck. Moriarty accepts this and releases Pulaski and control of the ship. Picard explains that the ship's computer can store Moriarty's character indefinitely, and that the Federation would work on a way to bring Moriarty out of the holodeck one day. Moriarty's program is stored and ended.
+Later, Picard then goes down to engineering, where La Forge is overlooking the model of the HMS Victory which sustained minor damage during the shaking of the Enterprise by Moriarty. La Forge laments that he put the Enterprise in danger by simply misspeaking a single word, but Picard assures him that the Enterprise, like the model Victory, will soon be repaired, in "Bristol fashion", as the captain puts it. Riker then calls Picard to inform him that the USS Victory has arrived for its rendezvous with the Enterprise.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2365
+
+
+== Memorable quotes ==
+"Where can I reach you?"
+"He can be reached at 221B Baker Street."
+
+- Clancy asking Geordi La Forge where he will be, and Data answering
+
+"Your artificial friend doesn't have a prayer of solving a Holmes mystery that he hasn't read."
+
+- Pulaski, to La Forge after Data solves a Sherlock Holmes mystery rather quickly on the holodeck
+
+"I'll give you credit for your vast knowledge but your circuits would just short out if you were confronted with a truly original mystery."
+
+- Pulaski, criticizing Data again
+
+"That dark fellow there used the word "arch" and then, I wonder… arch!"
+
+- Moriarty, gaining sentience
+
+"Why does it frighten you, Holmes?!"
+
+- Moriarty, after he presents Data with a hand drawn Enterprise-D
+
+"How can a character from 1890s London draw a picture of the Enterprise?"
+
+- Geordi La Forge
+
+"Well, Doctor Pulaski and I had a discussion about whether Data could solve an original Holmes-type mystery."
+"Which you asked the computer to provide?"
+"Yes, with a worthy opponent."
+"Worthy of Holmes?"
+"…oh my God… I asked for a Holmes-type mystery with an opponent capable of defeating… Data! That's gotta be it!"
+"Merde…"
+
+- La Forge and Picard, realizing the truth about Moriarty's creation.
+
+"Nice suit."
+
+- Riker, when Worf changes into an 1890s London outfit
+
+"I'm a civilized abductor, Captain Picard. Civilized… but still dangerous."
+
+- Moriarty
+
+"I do not want to die."
+"And I do not want to kill you."
+
+- Moriarty and Picard
+
+
+== Background information ==
+
+
+=== Production history ===
+Second revised final draft script: 12 October 1988 [1]
+Premiere airdate: 5 December 1988
+First UK airdate: 17 April 1991
+
+
+=== Story and script ===
+
+According to Maurice Hurley, the idea for this episode was inspired by Data's experiences in "The Big Goodbye". Hurley stated, "It wasn't a writer saying, 'Let's do this.' It was one of the people living on the Enterprise." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 174)
+This episode contains elements from and references to the Sherlock Holmes short stories A Scandal in Bohemia, The Red-Headed League, The Adventure of the Speckled Band, and The Adventure of the Bruce-Partington Plans, as well as the Holmes novel The Valley of Fear. Furthermore, Moriarty's creation being a result of La Forge requesting an opponent capable of defeating Data references Arthur Conan Doyle's creation of the same character for the short story The Final Problem – specifically, as an opponent capable of defeating Sherlock Holmes who, at the time, Doyle wanted to kill off.
+
+
+=== Production ===
+
+The original ending filmed was cut from the episode. (Star Trek: The Next Generation Companion, 2nd ed., pp. 68-69) Maurice Hurley recalled, "In that ending, Picard knew how to defeat Moriarty. He tricked him. He knew all along that Moriarty could leave the holodeck whenever he wanted to, and he knew because when Data came out and showed him a drawing of the Enterprise, if that piece of paper could leave the holodeck, that means that the mortality failsafe had broken down. In turn, this means that the matter-energy converter which creates the holodeck, now allowed the matter to leave the holodeck, which was, up to that point, impossible. When he knew that paper had left the holodeck, he knew that Moriarty could as well, so he lied to him." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 174)
+This ending was removed by Gene Roddenberry, who claimed that it hurt Picard's character by making him look deceitful. Hurley disagreed, noting, "I thought it made him look clever, and since you are dealing with maybe the most profound criminal mind in literature, you've got to be careful." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 174) The original ending can be seen in the script here (scene 62B).
+In the episode as aired, the existence of the paper with a drawing of the Enterprise, given to Data by Moriarty, outside the holodeck is unexplained, but could be caused by the replicator interacting with the holodeck, replicating the drawing.
+When given a choice of shows to direct, Rob Bowman chose this episode, as he was disappointed at missing out on the previous season's period show, "The Big Goodbye". (Star Trek: The Next Generation Companion, 2nd ed., p. 68)
+Rob Bowman noted that this episode was "a huge production. They built that whole street from the ground up on stage. Indoors. It's an awesome episode." However, Bowman was angry with a cost-cutting decision to reduce the schedule for filming from eight to seven days. He remarked, "They made the shooting process one of the most unpleasant I've ever been through. I thought it almost killed the episode… Here was a show where we had all this great production value. Brent Spiner was about to do the best work I've ever seen him do. We had all these sets and they said seven days. I think that show is when I started to pull away from Star Trek, because I felt that it was a great opportunity to make a wonderful episode, and there was an arbitrary decision because the sets cost so much – I think $200,000 – where they said, 'We'll save money by taking a day off the schedule.' It's like, 'Wait a minute guys, first you have to take a day out of the script. You don't just take a day off the schedule to save $60,000.' As you can tell, I was pretty angry about it, and still have a little hostility towards what I went through on that show to make it happen." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 174)
+
+
+=== Cast and characters ===
+Wil Wheaton (Wesley Crusher) does not appear in this episode.
+This is Daniel Davis's first appearance as Moriarty. He reprises his role in the sixth season episode "Ship In A Bottle" and the Star Trek: Picard episode "The Bounty".
+
+
+=== Continuity ===
+When starting the initial Holmes program, Data gives the full name "Dr. John Watson" for La Forge's character. The stories of the Holmes canon have identified Dr. Watson's first name as both "John" and "James", though John is indeed used more frequently, and James may merely be an Anglicized version of Hamish, for which Watson's middle initial "H" may stand.
+When the second program is started and Geordi asks for the arch, Moriarty is seen noticing the arch's existence. Holodeck creations would not notice this phenomenon. It would suggest that Moriarty had sentience before the actual program was created.
+
+
+=== Reception ===
+
+Maurice Hurley remarked, "Wonderful episode… We had carriages, old London, and I thought the guy who played Moriarty was just wonderful. I've never seen anybody play Moriarty better than that." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 174)
+Despite the issues with filming, Rob Bowman was still proud of the episode. "Certainly Brent Spiner came through with flying colors and everybody did. The original draft of that script was so eloquently written; absolutely beautiful, but it was probably a two hour episode at least and was written way, way down, but that was a wonderful script. We pulled the episode off." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 174)
+At the time of filming, the producers believed that the Sherlock Holmes character was public domain. After the episode aired, the estate of Sir Arthur Conan Doyle notified Paramount that they still retained a percentage of the rights to the character, and would require a usage fee if the character was used again. This legal issue delayed sequel episodes for nearly four years, at which time an agreement was reached for use of the character in "Ship In A Bottle". (Star Trek: The Next Generation Companion, 2nd ed., pp. 69 & 231). The unusual delay was subsequently referenced in the latter episode.
+A mission report by Patrick Daniel O'Neill for this episode was published in The Official Star Trek: The Next Generation Magazine issue 6, pp. 21-25.
+This episode was nominated for two Emmy Awards: Outstanding Art Direction for a Series, and Outstanding Costume Design for a Series.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 15, catalog number VHR 2468, 3 June 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 2.1, catalog number VHR 4737, 1 March 1999
+As part of the TNG Season 2 DVD collection
+As part of the TNG Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Michael Dorn as Lt. Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Special appearance by ===
+Diana Muldaur as Doctor Pulaski
+
+
+=== Guest stars ===
+Daniel Davis as James Moriarty
+Alan Shearman as Lestrade
+
+
+=== Co-stars ===
+Biff Manard as Ruffian
+Diz White as Prostitute
+Anne Elizabeth Ramsay as Assistant Engineer Clancy
+Richard Merson as Pie Man
+
+
+=== Uncredited co-stars ===
+Rosemarie Baio as widow
+Majel Barrett as USS Enterprise-D computer voice
+Michael Braveheart as Martinez
+Jeffrey Deacon as command officer
+Guy Vardaman as Darien Wallace
+Mark Wilson as bystander
+Unknown performers as
+Boy
+Bystanders
+Command division crewman
+Dead man
+Emissary
+Police officer
+Jabez Wilson
+Operations officer
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+
+
+=== References ===
+19th century; 1890; 24th century; 221B Baker Street; ability; abduction; abductor; acceleration; "a deuce of a"; adversary; ales; Almighty; Alpha Centauri; answer; antimatter power; arch; assistant engineer; associate; attention; attitude control; author; authority; back; Baker Street; barrel; bead; bell; blackmail; bodily harm; Bohemia; bowler hat; Bruce-Partington plans; building; captor; case; chance; choice; circuit; code; "cogito, ergo sum"; coin; command; common law marriage; computer; computer control; computer simulation; concert; conduit; consciousness; Constellation-class; conversation; convict; coordinates; copy; costume; country; crime; criminal; crumpet; "dark fellow"; dark magic; Dartmoor; day; deductive reasoning; deerstalker cap; definition; Delphi; Denkir IV; despair; detective; device; dilemma; dilithium regulator; directive; disappearance; discussion; doorway; Doyle, Arthur Conan; drawing; dream; dupe; electric light; electricity; emerald; emissary; employee; emptiness; energy; environment; event; evil; existence; explanation; facial expression; failure; fate; fear; fictional character; finger mark; fingerprint; fisherman; fly; footfall; fraud; French language; friend; fun; gag; gang; garrote; gift; gin; goods; government; "Great Scott"; ground; guest; gypsy; hand; handedness (left footed; left handed) harm; "have a prayer"; "hello"; Holmes, Sherlock; holodeck; holodeck control; holodeck program; hologram generation; holographic construct; holographic image; hook; Human; Human nature; idea; ignorance; image; information; innocence; input; inspector; inspiration; investment; key; killer; kilometer; King of Bohemia; knowledge; laboratory; Latin language; laurel; library file; life; London; luck; lump; lure; machine; madame; magnetic fuel line; main computer; mark (identification); masculine; matter; matter-antimatter chamber; meat pie; medicine; memorization; memory banks; memory capacity; "merde"; message; milk; mind; mistake; mister; mistress; money; Moriarty, James; mortality failsafe; mouth; murder; murderer; musical instrument; mystery; mystery (genre); navy phrase; nemesis (literature); number one; Old Britain; opponent; opportunity; Oracle at Delphi; override protocol; paper; parameter; particle beam; particle stream; pattern; pawn shop; perspective; photograph; phrase; picture; plaque; ploy; pocket; police; police officer; power surge; problem; professor; programming; prostitute; prostitution; publication; Pulaski, Kate; pun; puzzle; quantity; quarry; Queen Victoria; question; reality; reason; reasoning; recitation; record; Red-Headed League; Reichenbach Falls; rendezvous; researcher; rigging; risk; robbery; room; rope; rubber; Rule's; ruse; sail; sailor; scone; security team; sentience; sequence; shape; shawl; sheep; shillings; "shipshape and Bristol fashion"; shoe; silence; size; snake; snuff box; sole; soul; spar; specialty; spider; square kilometer; Starfleet; status; story; stouts; stranger; strangulation; street; strength; string; stupor; substance; success; sugar; suit; sweet pie; tavern; tea; teacher; testimony; theater; theft; thinking; thought; throat; tie pin; time; top hat; Tottenham Court Road; trail; transporter; trinket; tuppence; turtle; understanding; uniform; Valley of Fear, The; value; velocity; victim; victory; Victory, HMS; Victory, USS; violin; vital sign; volumes; von Ormstein, Wilhelm Gottsreich Sigismond; wall; wardrobe; warehouse; Watson, John H.; waveguide; web; Whitaker's Almanack; "wild goose chase"; wind; witness; word; worm; Zimbata
+
+
+==== Other references ====
+Sherlock Holmes Program 3A: The Blue Boy; Boyce, R.; bullet hole; chemist; Childcraft; Close-Up; Deighton, Len; druggist; Flaxville Meat Market; Holt's Nut Brown Ale; King Louis XVI; Little Yellow Bird; Malmesbury; Mary, Countess of Howe; McKenzie Coy Warehouse; Noted Ale and Stout Stores; Pyrex; Santovin; Stephen Pettifer & Sons (&); Tovey Mews; Wiltshire
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2365
+
+
+=== External links ===
+"Elementary, Dear Data" at Memory Beta, the wiki for licensed Star Trek works
+"Elementary, Dear Data" at Wikipedia
+"Elementary, Dear Data" at MissionLogPodcast.com
+"Elementary, Dear Data" at the Internet Movie Database
+"Elementary, Dear Data" script at Star Trek Minutiae

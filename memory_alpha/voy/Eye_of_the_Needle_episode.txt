@@ -1,0 +1,273 @@
+Voyager makes contact with a Romulan ship through a wormhole that leads back to the Alpha Quadrant.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Aboard the USS Voyager, Captain Kathryn Janeway notes in her log that Ensign Harry Kim has discovered subspace emissions indicative of a wormhole and Voyager's crew are elated by the possibility of a way home. Kim reports that Voyager is too far away from the wormhole to get a detailed analysis of where it leads. The ship will have to get within a thousand kilometers and Kim notes that diverting the ship to the wormhole will mean a significant course change. Janeway decides to head for it anyway and she orders Lieutenant Tom Paris to set a course. The helmsman suggests to Janeway that if the wormhole is successful in bringing Voyager back home, they petition the Federation Astronomical Committee to officially designate the distortion as the "Harry Kim wormhole."
+
+
+=== Act One ===
+Upon Voyager's arrival, it is found that, unfortunately, the wormhole is only thirty centimeters in diameter: much too small for Voyager to pass through. Captain Janeway speculates that the wormhole is in an advanced state of decay and has likely been collapsing for centuries. The crew attempts to send a microprobe through the wormhole, but it gets stuck in a gravitational eddy inside the wormhole. Initially dismayed, the crew soon realizes that someone on the other side of the wormhole is scanning the probe.
+
+In sickbay, The Doctor is examining Lieutenant Walter Baxter as he quizzes Kes about his possible injuries. Baxter rudely directs all of his comments to Kes, and openly questions The Doctor's abilities. When Baxter's injuries are healed by The Doctor, he thanks only Kes and leaves. Kes asks The Doctor if he noticed how rude Baxter was to him, but he tells her that he is used to being treated like a hypospray. Kes asks The Doctor for more of a learning challenge: she wants to learn more about Human anatomy.
+In a senior staff meeting, B'Elanna Torres says that the microprobe will be destroyed in 72 hours. As they brainstorm, Harry Kim has an idea to send a subspace carrier wave using the microprobe as a relay. While reconfiguring the signal generator, Kim talks to Torres about the family he misses at home. He asks her if there's anyone who would miss her, and she tells him that the Maquis are the closest thing to family she has. Her father left her and her mother when she was five-years old. When Kim inquires about her mother, Torres says she "thinks" she returned home to Qo'noS. Kim expresses surprise that she only thinks her mother is there, but Torres tells him that she and her mother did not get along and informs him that no one back in the Alpha Quadrant cares one way or another whether she is alive.
+After reconfiguring the signal generator, they send a series of sub-harmonic pulses. After a few minutes of intense waiting, Tuvok and Tom Paris report that Voyager is receiving a signal coming from the wormhole. It is on the same carrier wave and amplitude, originating in the Alpha Quadrant, which shocks the crew.
+
+
+=== Act Two ===
+Kes enters the captain's ready room as she's working, but the captain drops what she's doing, pleased to see her. She tells the captain that she is unhappy about the way the crew treats The Doctor. Janeway tells Kes that she has actually heard reports of him being brusque, rude, and lacking bedside manner; they are thinking about reprogramming him. Kes argues that he is alive, an argument that Janeway refutes – he is just a hologram, nothing more. Kes points out that he's self-aware and communicative with the ability to learn. When Janeway reminds Kes that he's only like that because he's been programmed to be that way, Kes asks if the fact The Doctor is a hologram doesn't mean he should be treated with simple respect. Janeway hesitates, caught short by Kes's words, and promises to look into it.
+Encouraged by the success of his test signal, Kim investigates the possibility of voice communication. Janeway sends a basic hail requesting a response. After clearing up the reply, the crew hears a message from a Romulan cargo vessel in the Alpha Quadrant sector 1385. Janeway tells the Romulan that they are a Federation vessel in the Delta Quadrant. The Romulan thinks she is lying because the Delta Quadrant is too far away, insisting them to be a Federation spy vessel in the Alpha Quadrant.
+The Romulan cuts off communication abruptly. Tuvok tells Janeway that there are no shipping lanes in that sector and the Romulan ship is more likely to be a science vessel engaged on a secret mission. Janeway tells Kim to hail him continuously.
+
+Janeway enters sickbay and activates The Doctor. He explains that he was deactivated by Ensign Kyoto in the middle of preparing a culture. Janeway tells The Doctor that he has become a full-fledged member of the crew, and he doesn't have the luxury of being an emergency supplement anymore. The Doctor asks if he is to be reprogrammed, but Janeway reverses her earlier stance and tells him no, but wants to know if there's anything she can do to help him. He tells her that he would like to be turned off, as he is frequently left for hours with nothing to do, and when he does get turned off he isn't asked if it is convenient. Janeway suggests giving him control over his deactivation sequence; allowing him to turn himself off or to prevent anyone else doing so. The Doctor is surprised and humbled at the fact that someone is attempting to be considerate towards him as Janeway promises to get someone to look into it, and asks him if there's anything else. Taken aback by this turn of events and unprepared to respond fully just yet, The Doctor tells the captain he'll get back to her.
+Kim establishes two-way communication with the Romulan and wakes Captain Janeway. The Romulan is highly suspicious of a Federation starship claiming to be in the Delta Quadrant. The Romulan identifies his ship as the cargo vessel Talvath, but refuses to give his name. He has analyzed their hailing frequency and found that it originates in the Delta Quadrant, but he doesn't see how that is possible. He asks what Voyager's mission is in the Delta Quadrant. Janeway explains that their mission was in the Alpha Quadrant and that they were pulled against their will by a powerful entity to their present location, and are now trying to get home. He still thinks they are Starfleet spies on a surveillance mission. Janeway assures him they are no threat, and requests simply that the Romulan pass on messages from the crew to their families and friends. He replies that it would ease his apprehension if he could see that she is who she says she is, and tells her that he believes he can use a signal amplifier on his ship to establish a video link.
+
+
+=== Act Three ===
+
+Kim and Paris get the communications frequency locked in, but they still have a problem with the phase variance in the subspace signal. Kim compensates and the Romulan appears on screen.
+He remarks he's never seen a ship like Voyager before. Janeway, surprised by this, tells him that it's new but not classified. He replies that he has been on a mission for over a year and hasn't gotten the latest intelligence. He tells Janeway that his government is debating whether to relay Voyager's messages. She points out that the wormhole will soon collapse, but he tells her that it is not his place to tell the Senate what to do. Janeway asks the Romulan about his family and he reveals that he has a newborn daughter that he has never seen. She appeals to his feelings of missing his family and convinces him to urge his government to grant Voyager's request to relay their messages to their family and friends back home. Janeway tells Chakotay to have the crew prepare their messages within the hour in case he is successful. Suddenly, Torres excitedly runs onto the bridge and asks to talk to the captain in private. In Janeway's ready room, she tells the captain the phase amplitude of the visual link is just within a few megahertz of meeting transporter protocols. It might be possible to use the probe as a transmitter to transport the entire crew back to the Alpha Quadrant. Janeway gives Torres her permission to use any Voyager personnel to assist, and for Torres to not keep the modifications a secret as it will not be for very long anyways. After Torres leaves, Janeway walks over and emotionally looks at a photograph of her fiancé Mark and their Irish Setter Mollie.
+Kes enters sickbay with her Human anatomy work complete. The Doctor quizzes her on the material and finds that she has memorized it well. She tells him that she would like to go to medical school if the crew gets home. The Doctor replies that she could already have the equivalent of a medical degree if she continues at the pace she is at. She realizes that he hasn't heard about Torres' plan, and tells him about it. He responds that he will not be joining the crew because he is integrated into the sickbay systems. Saddened, she kisses him on the cheek and thanks him. Before she leaves, he asks her to do him a favor and make sure he is turned off before they leave.
+
+Janeway tells the Romulan captain about their transporter theory and he is impressed by their advanced technology. He agrees to let them transport a test cylinder to his ship. Kim and Torres begin the transport, but still encounter a problem with the phase variance. They are able to compensate, and the transport is successful. Janeway next suggests sending one of her crew to the Romulan ship to test a Human transport. The Romulan declines, stating that the Romulan government would never allow it. He instead offers to transport himself to Voyager and back, promising to arrange for a troop ship for Voyager's crew if transport is successful.
+Janeway, Tuvok, and Chakotay join Kim and Torres in the transporter room to greet the Romulan. Though it is a difficult transport, he successfully materializes on Voyager. "Welcome to the Delta Quadrant… captain," Janeway says.
+
+
+=== Act Four ===
+As Janeway suggests that the crew start preparations to leave Voyager, Tuvok stops her and, while scanning the Romulan with his tricorder, asks the Romulan for the year. The Romulan seems skeptical, but answers that by Federation calendars, the year is 2351. Everyone is taken aback at this new discovery as Tuvok finally concludes that the phase variance they have been experiencing is due to the wormhole being a rift not only in space, but also in time: they have beamed the Romulan from 2351 to 2371.
+
+In the briefing room, it is made clear by Torres that if Voyager's crew transports through the wormhole, they will indeed travel twenty years into the past. Kim suggests they do it, rather than spending seventy years traveling home, but Janeway knows that it would devastatingly affect the timeline. The Romulan suggests that in twenty years, he could tell Starfleet not to launch the mission which sent them there. Chakotay responds that they have already made a huge impact on the Delta Quadrant, that people and events would be drastically affected. With no other options, Captain Janeway is left with her original request: she asks the Romulan to transmit their personal messages to Starfleet – in twenty years. He agrees and suggests that, when they get back to the Alpha Quadrant, he would welcome a visit from them. He introduces himself as Telek R'Mor of the Romulan Astrophysical Academy. Janeway assures him that he will hear from them.
+
+Later, R'Mor prepares to return to his ship, Tuvok gives him the chip with the crew's messages, and Janeway thanks him for his help. Torres transports him back to his ship and a relieved Janeway prepares to inform the crew that their messages will be delivered. Before she can, Tuvok stops her to deliver the bad news: he looked R'Mor up in the database and discovered that the Romulan scientist died in 2367, four years before Voyager left the Alpha Quadrant. Janeway is deeply disappointed but Torres speculates that perhaps he left a will telling someone else to deliver the messages, or that maybe he handed the chip over to the Romulan government. Unfortunately, there's no way to know. Captain Janeway, upset that all their efforts were for nothing, tells the crew that the only thing they can do now is to move on, as the Alpha Quadrant is still a long way away.
+Once again, Lieutenant Baxter is in sickbay. He has pulled his hamstring while working out. He still directs all of his comments to Kes. With newfound confidence, The Doctor tells Baxter that if he has something to say, then he should direct it to him. In addition, if he has another workout-related injury, The Doctor will notify his superior officer. Baxter is surprised and replies "yes sir." Before leaving, he thanks The Doctor. The Doctor gives Kes a list of things he wants added to sickbay to be delivered to Janeway. In addition, The Doctor makes his first personal request: a name.
+
+
+== Log entries ==
+"Captain's log, stardate 48579.4. The crew has been scanning constantly for anomalies that might help us shorten our journey home. Ensign Kim has reported an exciting discovery – a subspace disturbance which may be a wormhole."
+"Captain's log, supplemental. Encouraged by his success in transmitting a signal to the Alpha Quadrant, Mr. Kim is investigating the possibility of establishing a voice link with whoever is at the other end of the wormhole."
+
+
+== Memorable quotes ==
+"There is of course a 75% chance the wormhole will not lead to the Alpha Quadrant."
+"Very true. But you could also say there's a one in four chance it will. Those aren't bad odds."
+
+- Tuvok and Janeway
+
+"If I had to get treatment for something serious, if I needed surgery for instance, would he be performing it?"
+"Of course and quite expertly, too."
+"I don't know. I'd have to think twice about that."
+"Fine, and if you're lucky, you wouldn't die on the table while you were making up your mind."
+
+- Walter Baxter and The Doctor
+
+"May I suggest, if this works, we petition the Federation Astronomical Committee to officially designate this 'the Harry Kim wormhole.'"
+
+- Tom Paris, after Kim discovers a wormhole
+
+"Let's just say I've become accustomed to being treated like a hypospray."
+
+- The Doctor
+
+"I guess it's a little too small for us to fly through."
+
+- Tom Paris, remarking on the wormhole, whose aperture is only thirty centimeters in diameter
+
+"Just our luck. We raise one ship from the Alpha Quadrant and it has to be Romulan."
+
+- B'Elanna Torres
+
+"I would like… a name."
+
+- The Doctor
+
+"You don't have the luxury of thinking of yourself as an Emergency Medical Program anymore. You've become a full-fledged member of the crew."
+
+- Captain Janeway, to The Doctor
+
+"Tried a new hamstring exercise, maybe I overdid it. But my workouts are all that stand between me and a severe case of cabin fever!"
+
+- Walter Baxter
+
+"I've gone over and over the transporter logs. There's no question that if we try to transport ourselves through that wormhole we'll end up twenty years in the past."
+"Then let's do it. It's better than trying to spend the next seventy years trying to get back."
+"How can we do that? You'd be going back to a time when you were only two years old."
+
+- Torres, Kim, and Paris
+
+"If there's one thing you can count on, it's that I am the last to be told about anything that happens on this ship."
+
+- The Doctor
+
+
+== Background information ==
+
+
+=== Title ===
+This is one of twenty-four Star Trek episodes with titles derived from Biblical references.
+
+
+=== Story and script ===
+The plot concept of this episode was originally pitched by Hilary J. Bader, a former intern on Star Trek: The Next Generation. The writing staff of Star Trek: Voyager immediately wanted to buy the pitch. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139) Executive Producer Jeri Taylor commented, "Hilary Bader has given us a lot of wonderful stories. That story was one of the early ones we bought." (Cinefantastique, Vol. 27, No. 4/5, p. 40) This episode was ultimately the only one of Voyager in which Bader was involved.
+Although Jeri Taylor had written "Caretaker" (Voyager's pilot episode) with fellow series creators and Executive Producers Michael Piller and Rick Berman, this was the first Voyager teleplay that Taylor wrote without either of her fellow producers being credited as a co-writer. (One of Bill Dial's job descriptions was as a producer, but he did not serve in that capacity on Voyager.) Michael Piller noted about this episode, "It was Jeri's first script." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+During the months of September, October, and November 1994, Jeri Taylor was deeply engrossed in developing this episode's screenplay. (A Vision of the Future - Star Trek: Voyager, p. 323) Taylor said of her work on this episode, "I ended up doing a rewrite on [Hilary Bader's story]." (Cinefantastique, Vol. 27, No. 4/5, p. 40)
+Despite the producers having decided not to feature any Alpha Quadrant species or characters too often on Voyager, Jeri Taylor made an exception with this episode. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+One decision that was made by committee was not to show crew members composing the messages that the Romulan had promised to convey to their families. Jeri Taylor recalled, "It was certainly something we talked about. But we decided that to leave it unspoken might be more powerful." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+The episode's final draft script was submitted on 23 November 1994. The script was further revised, up to and including 15 December 1994.
+The episode was originally formatted as a teaser and five acts. (A Vision of the Future - Star Trek: Voyager, p. 23) However, Jeri Taylor had known – by the time she arrived at her office on the Paramount Pictures lot at 7:00 am, Monday, 5 December 1994 – that the series would be changing to a new four-act format and she was under the impression that this alteration would affect all regular episodes of the series, which had not yet debuted. Taylor consequently spent the rest of the morning reformatting this episode's script, rewriting the endings of the episode's first three acts. Just prior to attending an afternoon production meeting pertaining to this episode, Taylor handed her changes to preproduction script supervisor Lolita Fatjo; it was the responsibility of both her and assistant script supervisor Janet Nemecek to ensure that the script was thereafter formatted, printed and distributed to the entire shooting company (the episode's cast and crew). Due to the many hours it necessarily took to finish preparing the new script pages and deliver them, however, the members of the shooting company received them only after going home at the end of that day. (A Vision of the Future - Star Trek: Voyager, p. 26)
+The first act of the final draft script begins with: (1) the bridge scene wherein Kim reports the wormhole's existence to Janeway, (2) the first of the sickbay scenes (with Baxter talking indirectly about The Doctor to Kes) and (3) the scene wherein a probe from Voyager becomes lodged in the wormhole and the ship starts to detect the presence of someone on the other side. As a workable teaser was needed, however, the eventually-used teaser of this episode is the same scene that starts the final draft script's first act. The third scripted scene of that act was moved to the start of the act, followed by the sickbay scene.
+Evidently, it was also decided that a log entry would start the new teaser; the log entry that begins the episode's final version does not appear at all in the final draft script. However, the stardate of this log entry was taken from the scripted version of the log entry that begins the episode's second act, which became a supplemental entry instead.
+The episode's shooting script likens the wormhole in this episode to the Bajoran wormhole in Star Trek: Deep Space Nine. The scene description of this episode's wormhole, when its interior is first shown on Voyager's viewscreen, reads, "The screen swirls with gaseous energy – but a watered-down kind of energy. It lacks the dynamism and majesty of the DS9 wormhole… instead of brilliant, electric colors, it's a sickly yellow-brown… as though it's withered, slowed, and dying."
+The final draft script also refers to the setting of Telek R'Mor's ship as "the cockpit of a shuttle-sized craft."
+The year from which Telek R'Mor comes from was originally going to be 2352, a date that even appears in the shooting script, before being changed to 2351.
+At the end of the episode, reaction shots of Kes were scripted to be shown in response to both The Doctor asking for a personal request and him clarifying that it's a request for a name. In the final version of this scene, however, the shot remains with The Doctor before cutting to a view of Voyager slowly continuing on its journey. The latter shot was not scripted.
+Speaking about her experience of writing this episode, Jeri Taylor noted, "I love writing people shows and the building of this arc between Janeway and this Romulan commander – which began with his complete doubt, skepticism and weariness, all those Romulan things – in a sense, by long distance, that built into a relationship and closeness and almost a friendship. The idea that by the end he was almost our champion was a lot of fun." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139) Of how the episode ended up, Taylor opined, "The show was fully realized, one of those shows that had a little of everything." (Cinefantastique, Vol. 27, No. 4/5, p. 40)
+
+
+=== Deleted scenes ===
+
+Star Trek: Voyager's writing staff initially planned for this episode to introduce viewers of the series to the concept of a holonovel (which was new to Star Trek: Voyager) and for the series to thereafter frequently revisit the concept. To this end, Jeri Taylor devised a Wild West holoprogram for Janeway, intended to be part of the episode's teaser. The Western scenario was subsequently discarded but the concept of having the teaser scene serve as an introduction to Janeway's holonovel remained. During the writing of the episode's shooting script, the holographic scenario was changed to being a Gothic mystery, with the teaser scene set in a drawing room of the mid-19th century. This scene was filmed but, in the long run, virtually everyone wanted to abandon the idea. One reason why the teaser was changed to a shipboard scene was due to Rick Berman finding it more exciting than the originally-planned holonovel one. (A Vision of the Future - Star Trek: Voyager, pp. 10-12, 18 & 20) The Gothic scene later became the majority of the teaser of the later first season episode "Cathexis", with slight changes from the version in this episode's shooting script.
+The first briefing room scene of this episode is immediately followed, in the installment's shooting script, by a scene that involves Kes and Neelix in the latter's kitchen. The scene features Neelix and Kes preparing alien vegetables while Neelix eagerly talks about a discussion he recently had with Janeway, about the possibility of her giving him a field commission and uniform. Neelix is excited that the conversation went well and that Janeway even likened him to Sacajawea. After Kes starts asking Neelix to talk to Janeway about The Doctor's ill-treatment, Neelix tries to dissuade Kes from this idea but his efforts only result in her making the decision to visit the captain herself, an outcome to which Neelix resignedly sighs. Considerable thought went into deciding the fruit for this eventually-cut scene. Originally, a variety of exotic fruit and vegetables was actually planned to be used, including teardrop tomatoes, yucca root, Asian pears, habaneros, jicama, daikon, ginseng, feijoas, bananas, starfruit, prickly pear, and kiwanos. On a suggestion from producer Merri Howard, Rick Berman decided, on 5 December, that the bananas would not be used. He added, "They look too Earthlike." (A Vision of the Future - Star Trek: Voyager, p. 27)
+
+
+=== Sets, props, and wardrobe ===
+
+This episode did not involve any new or special makeup requirements. As a result, makeup supervisor Michael Westmore did not attend the episode's production meeting. (A Vision of the Future - Star Trek: Voyager, p. 15)
+The episode's script called for only two sets to be used, besides those of Voyager; these two sets were the environment of Janeway's holonovel and the Romulan bridge (the latter of which evidently utilized modified design elements, such as R'Mor's chair and a graphic to one side of it, that had previously been used for past Romulan episodes, such as TNG: "Face Of The Enemy"). As so few sets were needed, the episode was, in effect, a "bottle show." The shooting company, including Production Designer Richard James, consequently expected that this episode would be fairly easy to produce. They did not account, however, for stress caused by the pronouncement of the change in act formatting for this episode, as well as ongoing work on "Caretaker". (A Vision of the Future - Star Trek: Voyager, pp. 33 & 65) Thankfully, the stress was generally short-lived, lasting (for most people) from the afternoon of Monday, 5 December, to early on Tuesday, 6 December 1994. (A Vision of the Future - Star Trek: Voyager, pp. 331-332)
+By 5 December, the construction of the set for Janeway's holonovel had sent this episode over its budget, as calculated by construction coordinator Al Smutko, but this was typical of the new series; each of the four preceding episodes had also gone over budget. (A Vision of the Future - Star Trek: Voyager, p. 25) Furthermore, the expensive Gothic set was planned to be repeatedly reused, so its cost could be amortized over numerous episodes during the series' run. (A Vision of the Future - Star Trek: Voyager, p. 12) Nevertheless, following the pronouncement of the act formatting change on 5 December, Smutko visited Richard James' office to deliver a revised budget estimate, based on the possible need to work some, if not all, of the construction crew additional overtime beyond what had already been expected. (A Vision of the Future - Star Trek: Voyager, p. 70) Both James and Smutko were relieved when they separately learned, early the next day, that there would be no need for this, as all sets would work on the days originally scheduled. (A Vision of the Future - Star Trek: Voyager, p. 332)
+Before the production meeting on 5 December, Set Decorator Jim Mees entirely planned out the set decorating for each of the seven days on which this episode would be filming, with set dressings scheduled to be delivered to the sets according to announced shooting days. The announcement of the act format change immediately ruined some of these plans, however. (A Vision of the Future - Star Trek: Voyager, p. 26)
+On 5 December, construction work was developing on the sets for this episode (at least the Gothic mansion required for Janeway's holonovel, if not also the Romulan bridge). (A Vision of the Future - Star Trek: Voyager, p. 19)
+The production crew considered whether the photograph of Mark with his dog could be changed to a picture of only Mark, despite the facts that the picture had already been shot and that no photographs of Mark without the dog had been taken. Suggestions made were cropping the dog out of the shot and rehiring Mark actor Stan Ivar. On 5 December, Berman agreed on the solution of cropping and enlarging the shot. (A Vision of the Future - Star Trek: Voyager, pp. 28-29) Evidently, however, this plan did not come to fruition.
+Considerable thought also went into the design of the metallic test cylinder that is beamed from Voyager onto R'Mor's ship. This prop went through three incarnations during the week prior to 5 December 1994, with each version being shown to Rick Berman. Concerned that the prop look visually interesting and convincingly high-tech, Berman requested additional modifications each time. At the episode's production meeting, he expressed an interest in seeing the cylinder again and, when props master Alan Sims held it up, Berman was still unsatisfied with the design; he wanted it to seem more futuristic, have more blinking lights and look more active than it did. Although Alan Sims attested that he had already spent money on it and that it was practically finished, Berman answered that it looked hardly finished at all. Before their discussion ended, Berman made more suggestions about how the prop could be added to, to make it seem more complex. Shortly after the meeting finished, Alan Sims – just about to leave the half-empty meeting room – made a cell phone call to the model maker and instructed that the cylinder be modified by adding "blinkies" (small, blinking lights) to the prop. Even though such lights required batteries and the prop did not include anywhere for the batteries to be hidden, Sims directed the model maker to hollow out the cylinder and hide the batteries inside. Sims also mentioned to the model maker that he would need the new version of the prop by Thursday, 8 December 1994. The following day (6 December), however, Sims was elated to learn that the prop had more time to undergo development, as it was not scheduled for use until the end of the subsequent week. He immediately relayed this news to the model maker. (A Vision of the Future - Star Trek: Voyager, pp. 29, 30, 43 & 332)
+
+
+=== Cast and characters ===
+This episode marks the first appearance of veteran Star Trek actor Vaughn Armstrong on Voyager. Of his role in this episode, Armstrong remembered, "I played a pretty popular character, Telek R'Mor […] That was a very nice character to portray because of the conflicts he had within himself […] I love that character." (VOY Season 1 DVD special features) Armstrong also cited his role here as one of the richest of all his Star Trek roles. The actor further commented, "[R'Mor] holds a soft spot in my heart because he was from a kind of mean race that still had great family values. He loved his children […] That was a binding factor that I enjoyed about the character." (Star Trek: The Magazine Volume 2, Issue 9, p. 44)
+Metaphorically referring to the function that Telek R'Mor serves in the story, Michael Piller opined, "The mysterious voice on the other end of the telephone line is always a great hook." Piller was pleased with the way this episode depicts the Romulans, in contrast with how they had been used on TNG. He explained, "It worked very well for this show. We've always sort of used Romulans as stock villains in a World War II way. I always felt the Romulans were the Germans and the Klingons, the Japanese. This was much more multidimensional." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+Director Winrich Kolbe thought this episode involved good character development for Harry Kim. Kolbe stated, "As far as characters are concerned, that was a good showcase for Harry Kim, because he was ready to go home. I thought it was a good challenge for [actor] Garrett Wang and he rose to the occasion." (The Official Star Trek: Voyager Magazine issue 15, p. 12) Wang himself reflected, "I had a good time on that, and it was a good story. I thought there were some good levels in that one that I hit." (Starlog #222)
+Janeway actress Kate Mulgrew implied that this was one of numerous episodes she enjoyed because it featured heightened tension and emotions among the regular characters due to an alien confrontation, thereby exhibiting unusual elements of Voyager's senior staff. "In this case," Mulgrew continued, "there was a marvelous revealing of The Doctor. He needed to feel he was a part of the crew, and I loved my moments with him in that show." (The Official Star Trek: Voyager Magazine issue 5, p. 23)
+Ethan Phillips (Neelix) does not appear in this episode, though Neelix is mentioned.
+
+
+=== Production ===
+
+Before directing this episode, Winrich Kolbe directed most of Voyager's pilot episode, "Caretaker", as well as VOY: "Phage". Prior to 5 December, he had spent days walking around the sets while planning each scene, shot and camera move for this episode. The announcement that the act format would be changing meant he later had to rethink his ideas for certain shots and also had to plan for the new scenes that Jeri Taylor had written for the ends of each act, although the additional planning required was only minimal. (A Vision of the Future - Star Trek: Voyager, pp. 10, 26 & 332)
+This episode's bustling production meeting was between 2:16 pm and 2:45 pm on Monday, 5 December (held a typical two days before filming was to commence on the episode). (A Vision of the Future - Star Trek: Voyager, pp. 4, 5, 16 & 30) During the meeting, unit production manager Brad Yacobian (who had been the first to arrive, at about 2:00 pm) read aloud the scene descriptions from the entirety of the episode's script, pausing whenever another production staffer (each of whom followed along with their own script copy) spoke up about a scene. (A Vision of the Future - Star Trek: Voyager, pp. 3-4 & 17) Following discussion about the Gothic teaser scene that would later be removed, a visual effect involving Voyager's viewscreen was discussed, before Rick Berman made his pronouncement – at the start of the second act – that the act format would be changing. Further decisions made at the production meeting were about the fruits in the eventually-cut scene with Neelix and Kes, The Doctor's materializations in the series in general, the photograph featuring Mark and his dog, and the metallic cylinder prop. (A Vision of the Future - Star Trek: Voyager, pp. 23-24 & 27-30)
+As the episode's designated first assistant director, Adele Simmons was tasked – once she received the script later that evening – with preparing revised production boards for this episode, due to the altered endings of the episode's first three acts. The call sheets (basically, master plans for each day's filming) were then based on these revised production boards and, on 6 December, they were distributed to the production staff. It was these call sheets that allayed the shooting company's stresses, as Jeri Taylor had rewritten the act endings in such a way that minimal changes had been needed in the production boards. (A Vision of the Future - Star Trek: Voyager, pp. 38 & 332)
+This episode was originally scheduled to start filming at 7:30 am on the morning of Wednesday, 7 December 1994. (A Vision of the Future - Star Trek: Voyager, p. 7) However, the start of filming on this episode was delayed, due to the previous day's shooting on VOY: "The Cloud" finishing late (specifically, at 12 am, early Wednesday morning). (A Vision of the Future - Star Trek: Voyager, p. 9) The need for prep time and the fact that "Caretaker" reshoots were scheduled for the forthcoming Monday and Tuesday – 12 and 13 December, respectively – meant that filming of this episode had to stop after the first three days. (A Vision of the Future - Star Trek: Voyager, p. 329) At 9:15 pm on the evening of Friday, 9 December (the last of this block of days), the shooting company took a break from working on Paramount Stage 8 and Winrich Kolbe walked over to Paramount Stage 18 to examine a reconstructed set for "Caretaker", where he would soon be working. (A Vision of the Future - Star Trek: Voyager, p. 333)
+Work on this episode continued straight after the "Caretaker" reshoots, resuming on Wednesday, 14 December. (A Vision of the Future - Star Trek: Voyager, p. 329) Although the previous day's filming ran late (ending near 11:00 pm), the return to working on this episode was still – as had been scheduled – at 7:30 am, resulting in little sleep for the cast and crew. (A Vision of the Future - Star Trek: Voyager, pp. 335 & 336). That evening's filming wrapped late enough to delay the following morning's shooting call to 8:30 am. In addition to this one-hour delay in starting, Kolbe filmed even later into Thursday evening. As a result, the first shot on Friday morning was as late as 11:00 am, three-and-a-half-hours later than normal. About mid-afternoon on Friday, filming in the engineering set (on Paramount Stage 9) was distracted by a welcome visit from a ten-year-old Scottish boy who had terminal brain cancer and was shown the bridge set on Stage 8. (A Vision of the Future - Star Trek: Voyager, p. 336) At 6:30 pm, the shooting company was filming, on Stage 8, the scene involving Telek in one of Voyager's transporter rooms. The shooting company had become tired and casually playful. Regular calls for quietness on the stage were ignored but Kolbe (like the other members of the shooting company) was not at all upset that the pleas for quiet had gone unheeded, as he knew that the others on the set were fatigued and needed a break from the tension. Rick Berman paid an unexpected, rare visit to the set, although Kolbe was busy with the filming. Moments later – during shooting of the reactions to Tuvok's revelation that Telek R'Mor was transported from twenty years in the past – Chakotay actor Robert Beltran turned to Tuvok actor Tim Russ and, in a loud manner, innocently asked, "Does that mean we're fucked?" Following a split second of silence, everyone on the set burst out laughing, including Berman. (A Vision of the Future - Star Trek: Voyager, pp. 336-339) Work was due to proceed late into Friday night and conclude on the following filming day: Monday, 19 December. (A Vision of the Future - Star Trek: Voyager, pp. 332)
+The fact that "A Day in the Life of Ethan Phillips", a special feature in the Season 1 Star Trek: Voyager DVD, shows the set for Janeway's holonovel being constructed on 12 December implies that the holonovel scene was filmed during the second stint of shooting on this episode. At another point during the production shoot, Paris actor Robert Duncan McNeill was interviewed for issue 213 of Starlog magazine.
+Of the episode's execution, Jeri Taylor remarked, "It was wonderfully directed." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+
+
+=== Effects ===
+Although visual effects supervisor David Stipes was suffering from a bad cold and was already – as part of his job – generally present at Image G to supervise the filming of motion-control ship models for "Caretaker", it was his turn (rather than that of fellow visual effects supervisors Ronald B. Moore and Robert D. Bailey) to serve as the designated visual effects supervisor on this episode. (A Vision of the Future - Star Trek: Voyager, pp. 23 & 33-34)
+During the episode's production meeting, David Stipes asked Jeri Taylor about the magnification of the viewscreen, wondering, "Is this a magnification of the image that's on there, or is it a switching to higher magnification, as in when you switch lenses?" Rick Berman finally settled this issue, deciding to name the effect a "zoom effect," as in "zoom lens." This gave Stipes enough information to design the effect. (A Vision of the Future - Star Trek: Voyager, p. 23)
+His role as the episode's designated visual effects supervisor meant that David Stipes was on the set during the shooting of any scene for which visual effects were planned. (A Vision of the Future - Star Trek: Voyager, p. 33)
+
+
+=== Music ===
+The music for this episode was composed by long-time Star Trek composer Dennis McCarthy. He commented, "I […] felt it was important to interpret the grief that the Voyager crew felt in 'Eye of the Needle,' when their hopes were dashed after finding that tiny wormhole. I really played that one much stronger than I would have played a show three years ago. In the end, everybody agreed the score really helped the show." (The Official Star Trek: Voyager Magazine issue 4, p. 59)
+
+
+=== Continuity ===
+This is the first of four Voyager episodes in which at least one flesh-and-blood Romulan makes an appearance. The Season 3 episode "Unity" features a Romulan former-Borg named Orum, Season 4's "Message in a Bottle" involves a group of Romulan hijackers (led by Rekar and Nevala) attempting to seize the advanced Starfleet prototype ship USS Prometheus, and the fifth season episode "Infinite Regress" includes an assimilated unnamed Romulan. Furthermore, the Season 7 two-parter "Flesh and Blood" includes three sentient holographic Romulans while the episode "Q2" (also from the seventh season) includes an unnamed, holographic Romulan diplomat.
+This is the first of several times the crew of Voyager discover a direct connection between the Alpha Quadrant and Delta Quadrant.
+Until Star Trek: Enterprise, this episode marked one of the few instances in any Star Trek series where the Gregorian year is explicitly identified – in this case, 2371. Additionally, it marks the second time a character has been asked for the Gregorian year, and given the "wrong" answer; the first was when Captain Jean-Luc Picard asked the question of Captain Morgan Bateson at the end of the Star Trek: The Next Generation episode "Cause And Effect".
+This episode establishes that Harry Kim is 22 years old at this point in time.
+R'Mor's native time, 2351, places him in a time before the TNG episode "The Neutral Zone", which is set in 2364. In that episode, it is claimed that the Federation had not had contact with the Romulans in almost 54 years (though this has occasionally been overlooked in other, subsequent plots). This would put R'Mor about forty years into a period of non-communication with the Federation, which might explain the Romulans' reluctance to grant Voyager's request or, alternatively, might make R'Mor's willingness to transmit the crew's messages and arrange a transport an oversight of that TNG plot point.
+Winrich Kolbe felt that this episode, or at least the plot point about Telek R'Mor visiting the Delta Quadrant via the micro-wormhole, was reminiscent of Star Trek: The Original Series. He noted, "That was interesting in a way that reflected the original Star Trek." (The Official Star Trek: Voyager Magazine issue 15, p. 12)
+In this episode, the Voyager crew gives letters to a Romulan that cannot be given to their intended recipients. In TNG: "The Defector", a Romulan gives the USS Enterprise-D crew a letter that also cannot be given to its intended recipient.
+As Starfleet doesn't learn of Voyager's circumstances until Season 4's "Message in a Bottle", it is clear that Starfleet never did receive the crew's letters. Torres surmises at the end of this episode that, in spite of R'Mor's death prior to 2371, he may have passed Voyager's chip onto the Romulan government. In the Season 7 episode "Inside Man", Reginald Barclay comments that the Romulans "have always been interested in Voyager," which may or may not be as a result of having studied the chip after R'Mor's passing.
+The events of this episode represent the first time (aside from the series premiere "Caretaker") that the Voyager crew is presented with the possibility of returning home much faster than by conventional warp travel. Jeri Taylor referred to the episode as "the first of our 'we might have a way to get home' stories." She added, "It seemed to resonate with the poignancy and longing of these people to get home." (Star Trek - Where No One Has Gone Before, p. 215) Taylor elaborated, "I think it's the first time we felt the loneliness of those people stuck way out there and how important it is to them to find a way home." (Cinefantastique, Vol. 27, No. 4/5, p. 40) She also noted, "I think it was one of the first shows that genuinely dealt in a complete way with the plight of being in outer space […] This spoke right to the franchise of the show." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+This is also the first episode that implies that B'Elanna Torres' father was Human and that her mother was Klingon. Torres actress Roxann Dawson recalled, "I had initially envisioned her father as a Klingon and her mother as a Human, but, in fact, it wasn't until the second or third episode when I learned that her mother was a Klingon and her father a Human." (Star Trek: Communicator issue 104, p. 57)
+The Doctor's search for a name eventually became an arc that spanned the entire series, although he ultimately never did settle on a name in the series' usual timeline. Regarding this arc and its beginnings here, actor Robert Picardo recalled, "At the end of the episode 'Eye of the Needle,' I say I would like to have a name, which I think is one of the sweetest character arcs we've done for me as far as tracking The Doctor's growing sense of personal entitlement. And then, of course, he's gone through a series of names and he's never decided on one. Which I think is one of the nicest jokes the writers have ever come up with–a computer program that is indecisive." (Star Trek: Voyager Companion, p. 450)
+Tuvok continues wearing lieutenant commander insignia.
+
+
+=== Reception ===
+Michael Piller was impressed by Jeri Taylor's work on this installment. "I think she did a wonderful job," Piller enthused. "It turned out to be a great show with a very original premise that you could not do on any other show, where you are on the other side of the universe communicating with somebody through a wormhole […] I think it's very neat […] It's a neat story that's a surprise all the way to the end. A very claustrophobic, interior show […] A real good story with personal stakes." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+Executive Story Editor Kenneth Biller was also pleased with this episode's story. Regarding the narrative device of making the journey home seem more foreseeable but then taking that opportunity away, Biller metaphorically remarked, "The feeling of having the brass ring in your hand and then losing it is really moving." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+This episode achieved a Nielsen rating of 7.7 million homes, and a 12% share. [1](X)
+Cinefantastique gave this installment 3 and a half out of 4 stars. (Cinefantastique, Vol. 27, No. 4/5, p. 40)
+In their unofficial reference book Trek Navigator: The Ultimate Guide to the Entire Trek Saga (p. 81), co-writer Mark A. Altman rates this episode 3 out of 4 stars (defined as "good") while fellow co-writer Edward Gross ranks the installment 3 and a half out of 4 stars (defined as "great").
+The unauthorized reference book Delta Quadrant (p. 27) gives the episode a rating of 9 out of 10.
+In the lead-up to this episode's VHS release, Star Trek Magazine reviewer Stuart Clark (despite accidentally referring to the episode as "Eye of the Beholder") described this installment as "probably the finest episode of the new series to date," with "a moving story" and "a surprise appearance" by the Romulans. In Star Trek Magazine's retrospective "Ultimate Guide", the magazine gave this episode 4 out of 5 Starfleet-style arrowhead insignia, also naming it the "3rd" best episode of Voyager's first season. (Star Trek Magazine issue 164, p. 29)
+Jeri Taylor believed this episode was a turning point, regarding viewer perception of both Star Trek: Voyager's main characters and their plight. Taylor explained, "I think it was when the audience began to identify with the characters and realized they are up there [in outer space] and having a hard time." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139)
+Jeri Taylor was also pleased by the degree to which this episode surprised its audience. She believed that the plot line about the wormhole and the notion of making contact with somebody on the other side of it, with the prospect of getting home, likely would have been enough to sustain the episode. "But the wrinkle that the Romulan was from fifty [sic] years in the past," she said, "was wholly unexpected. I don't think people saw that coming, and that made it very special." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 139) In fact, Jeri Taylor believed that the episode not only gave Voyager's writers an opportunity to see "how cruel that is to snatch […] away" a potential route back to the Alpha Quadrant, but also showed them that they were "able to do it in a way that people didn't see coming." Taylor added, "I think there were wrinkles in it that were unexpected." (Cinefantastique, Vol. 27, No. 4/5, p. 40)
+In a poll conducted by Star Trek Magazine after Season 1 finished its initial broadcast in the UK, this episode came third in the category of favorite VOY episode, the first being a selection for "don't know/haven't seen yet" and the second most popular choice being "Caretaker". (Star Trek Monthly issue 13, p. 57)
+Years after having worked as science consultant on Star Trek: Voyager, André Bormanis cited this episode as one of his favorites from the series, stating that it "was a lot of fun." [2]
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 1.4, catalog number VHR 4004, 29 August 1995
+As part of the VOY Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as Lieutenant B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Guest stars ===
+Vaughn Armstrong as Telek R'Mor
+Tom Virtue as Walter Baxter
+
+
+=== Uncredited co-stars ===
+Derek Anthony as operations ensign
+Tarik Ergin as Ayala
+Heather Ferguson as command officer
+Norman Gibbs as operations officer
+Stan Ivar as Mark Johnson (picture)
+Eva Larson as operations officer
+Coleman McClary as operations officer
+Jordan Monheim as sciences officer
+Louis Ortiz as Culhane
+John Parsons as Michael Parsons
+Beth Rogers as Jarvis
+Lydia Shiferaw as command officer
+Steph Silvestri as operations officer
+Simon Stotler as operations ensign
+Rod Wallace as operations officer
+
+
+=== Stand-ins ===
+Mike Fujimoto – stand-in for Garrett Wang
+Ken Gruz – stand-in for Tom Virtue
+Sue Henley – stand-in for Kate Mulgrew
+Cy Kennedy – stand-in for Robert Beltran
+Nora Leonhardt – stand-in for Roxann Biggs-Dawson
+Zack Milan – stand-in for Robert Picardo
+Lemuel Perry – stand-in for Tim Russ
+Jerry Quinn – stand-in for Robert Duncan McNeill
+Richard Sarstedt – stand-in for Vaughn Armstrong and Robert Picardo
+Jennifer Somers – stand-in for Jennifer Lien
+Simon Stotler – stand-in for Ethan Phillips (deleted scene only)
+John Tampoya – stand-in for Garrett Wang
+
+
+=== References ===
+47; 2349; 2350; 2351; 2353; 2367; ability; Alpha Quadrant; analysis; anatomy; Arethian flu; bearing; bedside manner; booster; burn; cabin fever; communications frequency; cargo vessel; communicative; connective tissue; course; covariant isolator; cup; Delta Quadrant; Earth; edema; eidetic memory; Emergency Medical program; epidermal; epicondylitis; Federation; Federation Astronomical Committee; Federation space; first aid; gravitational eddy; gravitational interference; gym; hailing frequency; hairline fracture; hamstring; Hargrove; Harry Kim wormhole; head of security; hypospray; illusion; incus; interspatial eddy; kilometer; Kim, John; Kim, Mary; Kyoto; ligament; low-ranking; malleus; Maquis; matter transmission rate; medical degree; medical school; medical service; megahertz; megajoule; microprobe; microscope; micro-wormhole; middle ear; minor functionary; Miral; Mollie; muscle; narrow band filter; odds; operations officer; pajamas; pear; phase amplitude; phase shift;  phase transition coil; physiology; piggyback; Qo'noS; R'Mor's family; Romulans; Romulan Astrophysical Academy; Romulan Empire; Romulan Senate; Romulan space; Romulan troop ship; scan analysis; science vessel; Sector 1385; self-aware; separation; shipping lane; sickbay system; signal amplifier; signal generator; soup; spinach juice; stapes; Starfleet; Starfleet Medical Academy; statue; subspace emission; sub-space emission scan; subspace field mechanics; Talvath; temporal displacement; temporal shift; test cylinder; theodolite; torn muscle; Torres, John; touch; transporter; transporter beam; transporter coordinates; transporter log; transporter protocol; Transporter Room 1; transporter signal; tympanic membrane; ulnar bone; vegetable bouillon; verteron; visual link; Voyager, USS; will; wormhole
+
+
+=== External links ===
+"Eye of the Needle" at Memory Beta, the wiki for licensed Star Trek works
+"Eye of the Needle" at Wikipedia
+"Eye of the Needle" at MissionLogPodcast.com
+"Eye of the Needle" at the Internet Movie Database

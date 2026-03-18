@@ -1,0 +1,170 @@
+When The Doctor discovers evidence that his memory files may have been tampered with, it sets in motion a chain of events that lead to the recollection of the death of a crew member, one The Doctor believes he was responsible for.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The Doctor is doing annual check-ups on USS Voyager's crew and is using his holo-imager to take images of everyone "all the way down to the subatomic level". After taking Harry Kim's image, he notices some scarring along the base of his skull which could only have come from a neurosurgical procedure that he developed himself. However, he has no memory of performing such a procedure, and Kim says he doesn't remember having an operation.
+
+
+=== Act One ===
+The Doctor visits Captain Janeway in her ready room to perform her physical examination, since, as usual, she didn't show up. The Doctor asks Janeway to come to sickbay at her earliest convenience so that he can take a deep body scan of her, and tells her about the surgical procedure he doesn't remember performing on Kim. He has deduced from the isotope decay around the scars that it must have been eighteen months ago, but Janeway says that she doesn't remember it either. The Doctor asks for a complete diagnostic of his program and Janeway tells him that Torres and Kim are both busy, but he is next on the list.
+The Doctor comes to the astrometrics lab to ask Seven of Nine for a favor, but she is busy recalibrating the deflector dish and tells him to come back tomorrow. He complains that Janeway is "acting like she's allergic" to him, and now Seven, his "prized pupil", won't talk to him either. Seven tells him to state his request, and The Doctor tells her about the surgery (which supposedly occurred before she joined the crew) and asks her to help him run a self-diagnostic. Seven agrees to help him in one hour.
+An hour later, Seven comes to sickbay and finds The Doctor inactive. She activates him and tells him that she has run a preliminary diagnostic and his suspicions were correct, but he doesn't remember speaking to her and doesn't know what she's talking about. He tries to view Kim's holo-scans, but the computer says that the file has been deleted. The Doctor decides to look at his photo album from eighteen months ago and asks Seven to meet him in holodeck two.
+On the holodeck, The Doctor finds that all of his images from the date of the surgery have been deleted from his short term memory buffer. Seven reconstructs five of the images from residual photons in the holobuffer. The images are from a birthday celebration for an ensign The Doctor doesn't recognize, and a shuttle mission with her and Kim.
+
+
+=== Act Two ===
+Seven discovers that The Doctor's memory files from Stardate 50979 are still available, but that his program has been rewritten to deny him access to them. She restores them, but The Doctor experiences them out of order. He remembers going to the unknown ensign's birthday party, going on the shuttle mission with her and Kim and being attacked by an unknown species, and performing surgery on them with Tom Paris in sickbay (not necessarily in that order).
+The Doctor meets with Janeway and Tuvok in the briefing room. Janeway doesn't recognize the species that attacked the shuttle crew, and Seven says that they are unknown to the Borg. Tuvok suggests that the images have been manipulated, but The Doctor thinks that there was an attack on Voyager by the unknown species, all of the crew's memories of it were erased, and Ahni Jetal, the ensign from the shuttle mission, may be an alien intruder posing as a member of the crew. He believes the crew may be in immediate danger, since his memories were tampered with a few hours ago. Janeway orders Tuvok to do a security sweep and Seven to recalibrate the sensors in astrometrics to try to detect cloaked ships in the area. The Doctor offers to review his medical records for other injuries, but Janeway tells him to deactivate himself for his own safety while they erect a force field around the main computer, and encrypt all the pathways that lead to The Doctor's program, and promises to keep him informed.
+The Doctor returns to sickbay and prepares to deactivate himself, but then decides to take precautions. First, he has his memory files from the previous 48 hours copied and tells the computer that if his program is tampered with to reactivate him and restore the duplicate files. He then has the computer interface with his holo-imager, having it take images in five second intervals if anyone enters the room. With the trap set, he then deactivates himself.
+Soon after deactivating, someone indeed enters sickbay and deletes all of The Doctor's recent memory files, not realizing the holo-imager is catching them in the act. Once their work is done, the person leaves the room.
+The computer reactivates The Doctor and immediately restores the recently deleted memory files. The Doctor, knowing he can find out who's been tampering with his program, sets the holo-imager to display the culprit. Slowly, the image appears and the identity of the tamperer is discovered... Captain Janeway.
+
+
+=== Act Three ===
+On the bridge, Chakotay and Tuvok are arguing with Janeway about a Sumo match when The Doctor interrupts and accuses the crew of conspiring against him.
+In the ready room, Janeway tells him that she had to deny him access to his memories of the events surrounding the attack because they caused a conflict in his programming that couldn't be resolved. The Doctor demands to know what happened, but Janeway tells him that that might cause the conflict to happen again. The Doctor feels violated because he has essentially been operated on without his consent, but Janeway believes that the ends justify the means and that rewriting his program again is the only option. She orders him to return to sickbay.
+In sickbay, Chakotay asks for copies of The Doctor's memory files so that Torres and Seven can rewrite his program, and tells him to brief Paris about any experiments or tests he's performing, since Paris will replace him while he is offline. The Doctor asks Paris why Janeway won't tell him what happened, and Paris says that she has her reasons and he agrees with her.
+Seven of Nine comes to Janeway's quarters late at night for a discussion on the nature of individuality. Janeway tells her that this isn't the time or the place, and to meet her in the mess hall tomorrow, but Seven says that tomorrow will be too late, since The Doctor's program will have been rewritten by then, and his rights as an individual violated. Janeway tells Seven that The Doctor is more like a replicator than like a person, and that she won't take the risk of his program self-destructing again. Seven counters that The Doctor would disagree and muses that as a Borg, she is also part machine, much like a replicator, and wonders if she might someday be treated in a similar fashion. Seven goes onto to describe how Janeway has been her "guide to Humanity", and then suggests she may have chosen the wrong person. Seven leaves Janeway's quarters, leaving Janeway rethinking her decision.
+Janeway goes to sickbay and offers to show The Doctor what happened eighteen months ago. He agrees.
+
+
+=== Act Four ===
+
+The Doctor remembers participating in a surprise birthday party for Ensign Jetal, and later, going on a shuttlecraft mission with her and Kim. He takes a few holo-pictures of them before Jetal protests that she is supposed to be flying the shuttle. The alien appears and attacks the three of them with an unknown weapon. The Doctor beams the alien off the shuttle and sets auto-navigation back to Voyager, and both Kim and Jetal go into synaptic shock.
+In sickbay, The Doctor and Paris try to stabilize Kim and Jetal, whose spinal cords are both deteriorating. The Doctor decides to use a spinal shunt to isolate the patients' spinal cords from the brain stem until he can repair the cellular damage, but he doesn't have enough time to operate on both Kim and Jetal, and the procedure is too complicated to talk Paris through it. Both are equally critical, with equal chance of surviving with treatment, and dying without it. Paris tells him that he must choose one of them while remaining neutral himself, not indicating any personal preference of either officer, so as not to affect The Doctor's decision. The Doctor chooses to operate on Kim. The procedure saves Kim, but as expected, Jetal dies while they are working on him. Unable to look away while operating, a look of grief crosses The Doctor's face when he hears Jetal flatline.
+
+
+=== Act Five ===
+Later, after Jetal's funeral, The Doctor comes to the mess hall to get some medicinal herbs and synthetic antigens from Neelix. Neelix asks him which he wants first, and The Doctor begins ruminating obsessively about his decision to treat Kim before treating Jetal due to being closer to the former, which is not supposed to happen to a computer program. Neelix calls a security team to the mess hall.
+Janeway explains that after that, The Doctor developed a feedback loop between his ethical and cognitive subroutines and was having the same thoughts over and over; his program unable to reconcile his decision to treat Kim first. The only way to stop it was to erase his memories of Jetal and the events surrounding her death. The Doctor begins ruminating again, and admits that he chose to operate on Harry because he was his friend. As he becomes more frantic, Janeway deactivates him. Janeway wonders if her original solution to reprogram him was wrong. She tells B'Elanna that The Doctor's original programming is in a struggle with the personality that has evolved in their time on Voyager. Do they have the right to override that struggle?
+Janeway visits Seven in cargo bay two and asks her whether the transformation she has gone through since being disconnected from the Collective was worth it. Seven says that if she could, despite the pain and difficulties she went through to regain her individuality, she would not change what happened.
+Janeway's log entry says that the EMH has become their patient. They have reactivated him, and for two weeks crewmembers have kept a round-the-clock vigil, trying to help him cope with the decision he made. They are uncertain of the chances of recovery.
+On the holodeck, Janeway is sitting vigil with The Doctor, reading a book as he stares blankly ahead. He begins talking. He tells Janeway that the more he thinks about it, the more he realizes that he couldn't have done anything differently because everything in the universe is pre-determined. Tuvok arrives and offers to relieve Janeway, who has been on the holodeck for sixteen hours, but she sends him back to the bridge.
+The Doctor asks Janeway about the book of poetry she is reading: La Vita Nuova. Janeway says that it is relevant to his situation. The Doctor scoffs at the title and ruminates on infinite possibilities before he notices that Janeway has fallen asleep. He wakes her up, and then realizes that she has a headache and a fever. They argue about how sick she is.
+She says she can't go to sickbay, she's busy helping a friend. He tells her that he'll be fine, that she should go get some rest, and they can talk in the morning. The Doctor says that if he needs anything, he will call someone. Janeway leaves and he starts reading from La Vita Nuova: "In that book which is my memory, on the first page of the chapter that is the day when I first met you, appear the words: Here begins a new life."
+
+
+== Log entries ==
+"Captain's log, supplemental. Our doctor is now our patient. It's been two weeks since I've ordered a round the clock vigil. A crew member has stayed with him at all times, offering a sounding board and a familiar presence while he struggles to understand his memories and thoughts. The chances of recovery? Uncertain."
+
+
+== Memorable quotes ==
+"Perhaps you should accompany me to sickbay, Doctor."
+"Et tu, Tuvok? You're conspiring against me, all of you. Why?"
+
+- Tuvok and The Doctor
+
+"Why should I? What if I don't want to return to Sickbay? What if I decide not to return to Sickbay? No, I don't choose this. Leave me alone! Let me go! Why did she have to die?! Why did I kill her?! Why did I decide to kill her?! Why?! Somebody tell me why!"
+
+-The Doctor in the mess hall after Jetal died
+
+"Are you having a little trouble regenerating?"
+"My alcove is functioning properly. I am having trouble with the nature of individuality."
+"There's a time and a place for philosophical discussion. Two in the morning in my quarters isn't one of them"
+
+- Janeway and Seven of Nine
+
+"It is unsettling. You say that I am a Human being and yet I am also Borg. Part of me not unlike your replicator. Not unlike The Doctor. Will you one day choose to abandon me as well? I have always looked to you as my example, my guide to Humanity. Perhaps I've been mistaken. Good night."
+
+- Seven of Nine to Janeway
+
+"I'm having trouble with the nature of individuality."
+"You require a philosophical discussion."
+"There's a time and a place for it. This is one of them."
+
+- Janeway and Seven of Nine after Janeway interrupts Seven in her alcove
+
+"The primordial atom... burst. Sending out its radiation, setting everything in motion. One particle collides with another, gases expand, planets contract, and before you know it we've got starships and holodecks and chicken soup. In fact, you can't help but have starships and holodecks and chicken soup because it was all determined twenty billion years ago!"
+"There is a certain logic to your logic."
+
+- The Doctor and Tuvok
+
+"In that book which is my memory, on the first page of the chapter that is the day when I first met you, appear the words: Here begins a new life."
+
+- 'The Doctor' reading from La Vita Nuova
+
+
+== Background information ==
+The idea of an episode about The Doctor's holo-imager was conceived by intern Eileen Connors. This thought was added to by Brannon Braga, who came up with the concept of a "latent image" holding the key to something secretive in The Doctor's past. (Cinefantastique, Vol. 31, No. 11, pp. 41 & 43)
+While writing the episode's teleplay, Joe Menosky – who wanted the episode to have "some kind of dramatic resolution" – struggled with the scripting of the conclusion. Menosky recalled the original version: "Janeway is holding this vigil, and because of her exhaustion, she just drifts off to sleep. [The Doctor] has something dark and sad and also moving to say. He looks up and she's asleep. He gets up, picks up the book and he reads a little, end of story." Extremely uncomfortable with this version of the final scene, Brannon Braga made changes to it. Menosky commented, "He just cut out a bunch of dialogue. He restructured certain things [...] In the newer version, despite the fact that 90% of the dialogue is there, the structure of the scene was different. [Janeway] ends up leaving." The used edit of the ending was not selected until later in the installment's evolution. (Cinefantastique, Vol. 31, No. 11, p. 43)
+It was Joe Menosky who first informed Robert Picardo, the actor of The Doctor, about this episode. Picardo recalled, "He first told me about the script saying, 'I'm working on something where The Doctor basically discovers he has a soul.' I said, 'What do you mean?' He said, 'Well, The Doctor has to make a 'Sophie's Choice'." (VOY Season 7 DVD, "Voyager Time Capsule: The Doctor")
+Robert Picardo was delighted with this episode, citing it as "perhaps my favorite show, dramatically" and expressing his reasons for liking it so much as "because it was so different [...] and I love the writing in [it]." (VOY Season 7 DVD, "Voyager Time Capsule: The Doctor") The actor additionally enthused, "I was proud of that show. I thought it was a great idea to have The Doctor's adaptive programming double-cross him, so to speak [...] That he would relive [a strictly objective] moment of decision over and over again, and torture himself with the guilt of having saved one of two equally injured people because of a personal relationship, was a great concept for an episode." (Cinefantastique, Vol. 31, No. 11, p. 30) A particular scene that delighted Picardo was the one in which The Doctor changes from conversing with Neelix in the mess hall to questioning, aloud, his reasoning for "killing" Jetal. "I think it's as nice a dramatic moment as I've had on the show," enthused Picardo. (VOY Season 7 DVD, "Voyager Time Capsule: The Doctor") Another of his favorite scenes from the installment was the final version of its conclusion. "In trying to reconcile those feelings [of tragedy and guilt or doubt about choices], people create art, which is why I love the last scene. I think it had a very unusual ending for one of our episodes. The poem [that The Doctor reads, from the book La Vita Nuova] says something like, 'Here begins a new life.' I think it worked on two different levels. The poem was suggesting how, having had this experience, the rest of The Doctor's 'life' would be changed. The other level is that, I think that you could say that it's his true, first-hand, emotional discovery of art. That poem, which was written a thousand years ago, could reach across a millennium and touch his own experience deeply and perfectly [...] It was not wrapped up in a neat package by the end." (Cinefantastique, Vol. 31, No. 11, p. 30)
+Janeway actress Kate Mulgrew was one of several cast members who, according to Joe Menosky, particularly liked his original version of the episode's ending. "Kate said, 'That scene was perfection, perfection,'" remembered Menosky. (Cinefantastique, Vol. 31, No. 11, p. 43)
+The confusion over the episode's ending had an impact on the installment's production. "I walked down to the set," Joe Menosky reflected, "and everybody was looking at me like somebody had just drowned my puppy." It was at this point that Kate Mulgrew voiced her appreciation for the conclusion's first version. Menosky continued, "Everybody loved it but Brannon [Braga] [...] They were all very supportive. A few hours later, the director and the actors called Brannon and said they really wanted to do the original scene as it was written. Brannon relented and said, 'Go ahead and shoot both versions of the scene.'" The shooting company then filmed Braga's version of the scene. When (at 1 or 2 a.m.) it came time to set up for Menosky's version of the scene, the actors and director instead opted not to film it. "They just said, 'Let's just hope it works. Let's go home,'" Menosky explained. "I didn't fault them for that. You can expect people to fight for you up to a point." (Cinefantastique, Vol. 31, No. 11, p. 43)
+Digital Muse was responsible for "building" Harry Kim from the bones up. (For more information, see Blood and Guts: Star Trek: Voyager Builds Character from the Bones Up)
+Joe Menosky's opinion of this episode was influenced by his disappointment at having the final scene be rewritten. He said of the original version, "[It] was one of the better scenes I have ever written [...] I think [Brannon Braga] made it slightly less effective." Concerning the fact that Braga's revision had Janeway ultimately leave the holodeck, Menosky remarked, "In my mind [it] is absolutely against the premise of the scene." He concluded by saying of the episode, "I just will never be satisfied with it because of that process." (Cinefantastique, Vol. 31, No. 11, p. 43)
+Robert Picardo noted that, as far as he was aware, the ambiguity he sensed in the episode's conclusion was not a major hurdle for most fans. "I was happy that the fans, the ones I have spoken to, seemed to accept the ambiguity," he said, at about the end of the fifth season. (Cinefantastique, Vol. 31, No. 11, p. 30)
+Several costumes and items from this episode were sold off on the It's A Wrap! sale and auction on eBay, including Nancy Bell's uniform. [1](X)
+
+
+=== Continuity and trivia ===
+In the episode teaser, whenever The Doctor takes a picture of the crew members, the diaphragm effect is actually a mosaic of Ensign Jetal's face.
+The quotation that The Doctor reads at the end of this episode is purportedly a translation from Dante's La Vita Nuova, but it is actually a reworking of it. Possibly because the Voyager version is somewhat more touching as a stand-alone quote, various websites have erroneously attributed The Doctor's version to Dante himself. (citation needed • edit)
+The episode is set eighteen months after stardate 50979, which places Jetal's death chronologically between "Worst Case Scenario" and "Scorpion". However, all of The Doctor's memories show Janeway with the new, short haircut, despite the fact that she doesn't get this hairstyle until "Year of Hell", nine episodes after "Worst Case Scenario". Paris' haircut is also not in keeping with the suggested timeframe and Kes doesn't appear in any of the memories, even though she was still on the ship and serving as The Doctor's assistant at the time, she was replaced by Paris to assist The Doctor during the treatment of Kim & failed treatment of Jetal.
+Janeway repeats Admiral Kirk's line at Spock's funeral from Star Trek II: The Wrath of Khan for Ensign Jetal's funeral: "We come here today to pay final respects to our honored dead."
+
+
+=== Apocrypha ===
+In the Voyager relaunch novel The Eternal Tide, after Janeway is brought back to life – following her assimilation by the Borg and apparent death in battle with the Enterprise-E – The Doctor is the first member of the Voyager crew to meet her, referencing their conversation here to test her and be sure that she is Janeway rather than an impostor or fake of some sort.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 5.6, catalog number VHR 4796, 21 June 1999
+As part of the VOY Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+Nancy Bell as Ahni Jetal
+Scarlett Pomers as Naomi Wildman
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Marvin De Baca as Patrick Gibson
+Tarik Ergin as
+Ayala
+Hostile Alien
+Erin Price as Renlay Sharr
+Shepard Ross as Murphy
+John Tampoya as Kashimuro Nozawa
+Stuart Wong as Voyager civilian
+Unknown performers as Two security officers in mess hall
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan and Nancy Bell
+Stuart Wong – stand-in for Garrett Wang and cover stand-in for Robert Beltran
+
+
+=== References ===
+77th Emperor's Cup; acetylcholine; annual physical; antigen; atom; auto-navigation; Big Bang; bio-electric field generator; birthday cake; birthday party; bowl; Julius Caesar (play); canapé; cellular regenerator; chicken soup; choline compound; Class 2 shuttle (unnamed); coffee; cognitive subroutine; coin; conscience; conspiracy; cranial meninges; cup; cyto-metabolism; Dante; deep body scan; deflector dish; dozen; dura mater; Earth; electronic pathway; endocrine system; ethical subroutine; fever; flattery; friend; funeral; headache; heart; herb; holobuffer; holodeck; holo-imager; holo-scan; hors d'œuvre; house call; Intruder alien vessel; hydrogen; Kar-pek; knee; La Vita Nuova; logic; medical database; medical emergency; medicinal plant; EMH memory core; microlinear incision; microliter; modified Voyager shuttle; mutiny; neocortex; nervous system; neural membrane; neurosurgery; occipital plexus; paranoia; personality subroutine; photon torpedo; photonic energy; physical; plasma conduit; plasma relay; plasmic energy; playing card; probability; pupil; referee; replicator; retrovirus; sand; sake; short-term memory buffer; shutterbug; sickbay; sickbay system; soup; spinal cord; spinal shunt; subatomic level; subdermal scalpel; Sumo; synaptic failure; synaptic shock; Takashi; temperature; third person; toast; triage; Wildman, Samantha
+
+
+=== External links ===
+"Latent Image" at Memory Beta, the wiki for licensed Star Trek works
+"Latent Image" at Wikipedia
+"Latent Image" at the Internet Movie Database

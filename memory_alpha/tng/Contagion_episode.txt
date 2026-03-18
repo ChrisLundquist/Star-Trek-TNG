@@ -1,0 +1,284 @@
+The Enterprise and a Romulan warbird are attacked by the same computer virus that has already destroyed one Federation starship of the same class as the Enterprise.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise responds to an urgent call from Captain Donald Varley, an old friend of Captain Picard. Varley's ship, the USS Yamato, the sister ship of the Enterprise, has been plagued by a series of system malfunctions while in the Romulan Neutral Zone. Upon rendezvousing with the Enterprise, Varley explains to Picard that he was investigating "rumors… that started making the Iconians sound a lot less like legend" and had, in fact, located the planet Iconia in the Neutral Zone.
+As Varley continues through the Enterprise's viewscreen, he reveals his goal of preventing the Romulans from gaining Iconian technology. However, his transmission to the Enterprise keeps cutting in and out. Worf detects a failure in the Yamato's antimatter containment chamber, and Picard desperately tries to warn Varley of the impending catastrophe, but the transmission is too garbled for Varley to make out his warnings. Seconds later, the Yamato explodes, and all 1,000+ crew members and their families are killed, with the saucer section of their ship disintegrating, all watched by a stunned Enterprise bridge crew. Meanwhile, a Romulan D'deridex-class warbird enters the Enterprise's sensor range.
+
+
+=== Act One ===
+
+The Enterprise needs to find out whether this Romulan warbird is responsible for the destruction of the Yamato. After Picard and Sub-Commander Taris of the Haakona exchange accusations, the Haakona cloaks, and the Enterprise crew begins investigating the Yamato's destruction. With a graphic of the Yamato on display in the observation lounge, Chief Engineer Geordi La Forge and Data determine that the antimatter containment failure was not caused by the Romulans, and even entertain the possibility that a design flaw in Galaxy-class starships was responsible. With the Romulans cleared, Counselor Troi suggests they should leave the Neutral Zone, but Picard states they'll remain where they are because, if it is a flaw, what happened to the Yamato could also happen to the Enterprise.
+As the investigation continues, Picard searches through Captain Varley's personal log from his desktop monitor in his ready room to more thoroughly understand his friend's intent, asking the computer to look for log entries containing the words "Romulan" and/or "Iconian". In the archived logs, Varley describes finding Iconian artifacts, locating their homeworld, a puzzling Iconian probe scan, and the increasingly dangerous systems failures affecting his ship. In his final entry, he is determined to convince Picard of the importance of this mission to the safety of the Federation.
+
+Picard's ready room door fails to immediately open as he approaches. He's a bit surprised by the malfunction but doesn't give it too much weight. The bridge crew observes a visual record of the Iconian probe scan mentioned in Varley's log, and Data determines the coordinates at which this event occurred. Picard decides to take the Enterprise to this planet, even though it is dangerously close to the Romulan side of the Neutral Zone, and they will assume the Yamato's mission – a mission that Picard hopes will prevent a war.
+
+
+=== Act Two ===
+Wesley Crusher talks privately with Captain Picard about the Iconians, who were remarkably technologically advanced and were rumored to be able to magically appear on planets throughout the galaxy. However, Picard sees through Wesley's cover and asks him what really brought him into Picard's ready room. Wesley confesses that he can't stop thinking about how all the people on the Yamato were just suddenly dead and he states he doesn't know how Picard and Riker and the others can handle that so easily. Picard reassures Wesley that it's not easy for anyone, but they are able to handle it because they have been trained to do so, as Wesley will be. However, as Picard starts to talk about not forgetting the importance of every single life, he is interrupted by a malfunction in the replicator. Picard has ordered Earl Grey tea from the replicator, and instead of tea, a potted plant materializes. "Now that should not have happened," he remarks to Wesley.
+
+La Forge begins to suspect that the Iconian probe had something to do with the Yamato's destruction, but has no explanation for the apparently random problems being experienced on the Enterprise. Upon arrival at the Iconian homeworld, the Enterprise finds the planet largely destroyed from orbit approximately 200,000 years prior. One small energy signature remains, however, and soon a probe is launched toward the Enterprise.
+
+Picard tells La Forge that he will assist him in his investigation by capturing the probe in a tractor beam, but the intercom fails before La Forge can say "No!" Now aware of the imminent danger but unable to contact the bridge, La Forge runs frantically to the turbolift. It races wildly through the shafts, throwing La Forge about the lift car. At one point he is stuck to the ceiling, then he falls so violently that his VISOR is knocked off of his face. Upon arriving on the bridge, La Forge is literally thrown out of the turbolift and is assisted to his feet by Riker just in time to warn Picard to destroy the probe. Picard orders Worf to destroy the probe and, after he does so, La Forge tells Picard that if the probe had successfully scanned the Enterprise, there would have been no chance of saving the ship.
+
+
+=== Act Three ===
+In the observation lounge, La Forge explains that the Iconian probe was transmitting an alien computer program to rewrite software in its own image. That was the cause behind the Yamato's systems failures. The Enterprise was not scanned by the probe, but did download the Yamato's log before its destruction, and contained within the log was the alien program. The alien program started to spread out from that single location (while on the Yamato the probe could affect a number of systems from the get go), which means the Enterprise has a little breathing room, but not that much.
+
+As La Forge and Data work on correcting the problems, Picard realizes that information on the planet may be useful. Considering his familiarity with what is known of Iconia, he decides to lead an away team himself to the planet's surface – over Riker's objection – to learn more. As soon as Picard, Data, and Worf beam down to the surface, a Romulan warbird decloaks in orbit near the Enterprise.
+The Haakona attempts to fire photon torpedoes but appears to be experiencing problems similar to those of the Enterprise, leading Riker to conclude that they too have tapped into the Yamato's log. When another probe is launched from Iconia, Riker instructs Taris to immediately destroy it, which she does. But because of the remaining Romulan threat, Riker wants the shields to stay up, meaning that the away team cannot return to the ship.
+
+
+=== Act Four ===
+
+On the surface of Iconia, the away team cannot establish contact with the Enterprise. Picard and Data attempt to make sense of a large console in the Iconian control room. Data determines that the Iconian language shares enough common roots with Dinasian, Dewan, and Iccobar to enable him to develop a working understanding of the controls. This understanding proves to be somewhat less than working, as Data's attempts to engage "manual override" result in the appearance of a gateway. A series of landscapes and architectures cycles through the gateway.
+Picard concludes that the Iconians traveled to distant worlds through this gateway "as easily as we would cross a room." This is what Captain Varley was investigating and hoping to keep out of Romulan hands. As the team continues to stare into the gateway, an image of the Enterprise bridge appears briefly, offering a potential means of return to the ship. Meanwhile, Data appears to gain access to an underground power source activated by the gateway's appearance, but as he works the controls, an energy surge similar to the Iconian probe's transmission zaps him with blue electrical energy and cripples him.
+
+
+=== Act Five ===
+Picard and Worf try to assist Data, but his software is being rewritten by the Iconian program. Picard realizes that he must destroy all of the Iconian technology and asks Data how to go about that. He also orders Worf to destroy the tricorder containing everything they have learned thus far about the Iconians, to keep the information from getting into enemy hands. Deciphering Data's broken speech, Picard surmises that he can launch all the Iconian probes but override the launch bay doors so that the backwash from the rockets spills into the power grids to create an overload. Data is able to give Picard the correct key sequence for launching the probes ("blue-amber-amber-red") and for overriding the doors ("blue-blue-blue"). Picard orders Worf to take Data through the gateway the next time the Enterprise appears.
+
+Worf arrives on the Enterprise with Data and takes him directly to engineering. La Forge ascertains that all of Data's systems "are just going crazy" but cannot help him. He laments not having an expert on Soong-type androids such as Maddox on the Enterprise to help with Data. The beeping emanating from La Forge's tricorder turns into a continuous tone, and it appears that Data has died.
+On Iconia, Picard presses "blue-amber-amber-red" on the console, waits a moment, and then enters "blue-blue-blue."
+In engineering, Data's eyes suddenly open, and he sits up, apparently fully functional, but confused as to why he's on the Enterprise. La Forge surmises that Data's self-correcting mechanism wiped all memory affected by the Iconian program in order to save him; this had required a "cold boot," thus why Data had briefly shut down and why he knows nothing of events since he was infected. La Forge proposes a similar procedure for the Enterprise: a complete shutdown, a wipe of all affected memory (including the Yamato logs), and then a reload of systems from the protected archives in the central computer core. Riker is worried about doing this while the Haakona is nearby, but La Forge points out if they don't do this, they'll die anyway when antimatter containment inevitably fails, and Riker authorizes the procedure.
+
+Picard appears to have been successful. Seeing that the control room itself will be destroyed in moments, he decides to go through the gateway rather than die on Iconia. As he approaches it, the scenery switches from a pristine planet to the bridge of the Haakona. Given the options, he quickly makes his decision.
+The Iconian program has been successfully removed from the Enterprise's computer, and Chief O'Brien searches for Picard on the planet. But as soon as the transporter locks onto him, Picard's signal vanishes. O'Brien soon locates him on the warbird, where Picard learns that the warbird's auto-destruct sequence is active and cannot be disengaged. When O'Brien beams him back to the Enterprise, Picard orders the bridge to move the Enterprise away because of the impending explosion of the warbird, but Riker intervenes and offers Taris the solution to purging her computer systems. After the warbird receives and acknowledges the solution, Picard jokes with Riker on how he now understands why he wants to keep away missions to himself, as that is where all the excitement is. Before leaving the transporter room, Picard asks Riker if everything on the Enterprise is still the same old routine. After Picard leaves, Riker gives an incredulous look to O'Brien, who returns it.
+Having succeeded in preventing war with the Romulans, the Enterprise leaves orbit of the now entirely barren Iconia, as explosions continue to detonate on the horizon. The Haakona, apparently able to purge its systems, leaves as well.
+
+
+=== Log entries ===
+Personal log, Donald Varley
+Captain's log, USS Enterprise (NCC-1701-D), 2365
+
+
+== Memorable quotes ==
+"Donald, what's a nice Starfleet captain like you doing in a place like this?"
+"It's good to see you again Jean-Luc, despite your antique humor."
+
+- Picard and Donald Varley, greeting each other as old friends, unaware this will be their final conversation
+
+"The risk would be allowing the Romulans to locate Iconia. Fortunately, I got there first. It's a virtually dead planet, but enough technology remains to give the Romulans an edge if they should find it."
+
+- Varley
+
+"We're going to assume the Yamato's mission."
+"And risk a war?"
+"Perhaps… prevent one."
+
+- Picard and Riker
+
+"It's the Yamato, Captain. I can't stop thinking about her. All those people...dead. I don't know how you and Commander Riker and Geordi, how you handle it so easily."
+"Easily? Oh no, not easily. We handle it because we're trained to, as you will be."
+
+- Wesley Crusher and Picard, about the Yamato
+
+"Didn't you order tea, sir?"
+"Now, that should not have happened."
+
+- Wesley Crusher, when Picard receives a potted plant instead of Earl Grey
+
+"The knitter isn't working."
+"Try a splint."
+"Doctor?"
+"Splint. It's a very ancient concept. You take two flat pieces of wood or plastic, a bandage. The broken limb is kept immobile."
+"That's crazy! That's not practicing medicine!"
+"Oh, yes it is! It's a time honored way to practice medicine: with your head, and your heart, and your hands. So jump to it."
+
+- A nurse and Pulaski
+
+(Data pulls La Forge away from a computer access panel that is shocking him, causing him to fly through the air and land on his face)
+"Data?"
+"Yes?"
+"What happened?"
+"Any answer would be mere speculation. This is yet another example of how our actions have random results."
+"Thanks, Data… I noticed."
+
+- Data and Geordi La Forge
+
+"Sir, the shields are back up!"
+"Impeccable timing."
+"Sir, the shields are back down."
+
+- Wesley Crusher, to William T. Riker
+
+"If it should become necessary to fight, could you arrange to find me some rocks to throw at them?"
+
+- Riker, frustrated over the systems failures while facing down the Haakona
+
+"Fate protects fools, little children, and ships named Enterprise."
+
+- Riker, after the Haakona's weapon systems fail
+
+"I have claimed this planet for the Romulan Empire."
+"This is the Neutral Zone. No one can claim anything."
+"You will withdraw, or I will be forced to destroy your ship and your away team!!"
+
+- Taris and Riker
+
+"In another time and place, this could be funny."
+
+- Deanna Troi, on the system failures
+
+"This would appear to be manual override."
+(Data presses a button and a portal appears)
+"That was not… manual override."
+
+- Data, to Worf and Picard
+
+"Blue-blue-blue."
+"I hope that's not a stutter."
+
+- Data and Picard, as Data struggles to tell Picard how to destroy the installation
+
+"I am accessing!"
+
+- Data, reviving after apparently shutting down
+
+"May I help?"
+
+- Data, after a plan is formed from his very recent death and revival
+
+"Do you wish to evacuate all non-essential personnel to the Enterprise, sir?"
+"No, that'd be premature."
+
+- Riker and Varley, seconds before the Yamato explodes
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 28 December 1988
+Second revised final draft script: 4 January 1989 [1]
+Premiere airdate: 20 March 1989
+First UK airdate: 12 June 1991
+
+
+=== Story and production ===
+
+This episode was conceived by computer technician and Star Trek fan Beth Woods, who at the time worked on the Star Trek offices' computers. (Star Trek: The Next Generation Companion, 2nd ed., p. 80)
+This episode uncharacteristically includes several shots that appear to have been shot with a steadicam or handheld camera, including, for example, all of the bridge shots in the teaser after Picard leaves his Ready Room up to Picard Varley's line about "grasping at straws" (other than the rear views that include the viewscreen). The first shot follows Picard as he travels the bridge rather than relying on the usual cuts between multiple takes. It results in an unusual tilt in portions of the shot. The early reaction shots of Riker and Picard during the communication with the Yamato, which would usually be static or smooth shots by a camera on a stand, instead have noticeable handheld shake/drift. This similarly occurs for a portion of the sequence in the Iconian control room. Steadicam or handheld shots are often utilized in cinematography to emphasize tension and uncertainty, with one notable example being the Steadicam's extensive use in the 1980 Stanley Kubrick horror film The Shining.
+
+
+=== Sets ===
+When La Forge is pinned to the ceiling of the turbolift, spots where the paint has peeled are briefly visible.
+
+
+=== Continuity ===
+This is the first time a Galaxy-class starship is destroyed on screen.
+The Haakona is the first Romulan starship named on screen.
+This is the first appearance of an Iconian gateway. The idea will be revisited in the Star Trek: Deep Space Nine Season 4 episode "To the Death", where another gateway is discovered by the Dominion in the Gamma Quadrant. Worf also refers to the events of this episode. They were also used as the basis for Pocket Books' Gateways crossover series. They are also featured extensively in Star Trek Online.
+Picard uses his catchphrase "Tea, Earl Grey, hot" for the first time. However, he is not able to drink it, as the replicator gives him a potted plant rather than the tea.
+Riker points out cloaked vessels cannot fire, and Worf responds, "Unless they have overcome that deficiency," which could be a reference to General Chang's Bird-of-Prey from Star Trek VI: The Undiscovered Country.
+This episode is the first in the series to mention Picard's interest in archaeology.
+Geordi La Forge references Bruce Maddox in engineering while trying to diagnose what is happening to Data.
+This is the first episode where the number for the LCARS is not 40271. The number that appears is 40272.
+A stock photograph of Toronto City Hall was viewed through the Iconian gateway as a possible destination for the Iconians. It is unknown whether this footage was meant to represent the Earth city.
+A photograph of Mount Temple near Lake Louise, Canada, is also seen in the Iconian gateway.
+Other locations seen through the Iconian gateway are the Parthenon in Athens, the Temple of Bacchus and the Temple of Jupiter in Baalbek, Turret Arch in Arches National Park, and a kasbah in Morocco.
+
+
+=== Cast and characters ===
+Carolyn Seymour, who plays Romulan commander Taris in this episode, went on to play a different Romulan commander in "Face Of The Enemy". According to the Star Trek: The Next Generation Companion, 2nd ed., p. 234, the production staff created a new character for her in the belief that Taris was likely dead.
+
+
+=== Reception ===
+A mission report for this episode, by Robert Greenberger, was published in The Official Star Trek: The Next Generation Magazine issue 8, pp. 43-48.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 19, catalog number VHR 2472, 12 August 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 2.4, catalog number VHR 4740, 24 May 1999
+As part of the TNG Season 2 DVD collection
+As part of the TNG Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Michael Dorn as Lt. Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Special appearance by ===
+Diana Muldaur as Doctor Pulaski
+
+
+=== Guest stars ===
+Thalmus Rasulala as Donald Varley
+Carolyn Seymour as Taris
+Dana Sparks as Williams
+
+
+=== Co-stars ===
+Colm Meaney as Chief O'Brien
+Folkert Schmidt as Doctor
+
+
+=== Uncredited co-stars ===
+Majel Barrett as USS Enterprise-D computer voice
+James G. Becker as Youngblood
+Juliet Cesario as science division officer
+Dexter Clay as operations division officer
+David Eum as Wright
+Tim McCormack as Bennett
+Lorine Mendell as Diana Giddings
+Guy Vardaman as Darien Wallace
+Unknown performers as
+Command officer
+Engineer
+Female Iconian gateway computer voice
+Male Haakona computer voice
+Haakona security officer 1
+Haakona security officer 2
+Haakona security officer 3
+operations crew woman
+Operations officer
+Two operations technicians
+Three USS Yamato officers
+
+
+=== Stunt double ===
+Unknown stunt performer as stunt double for LeVar Burton
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+200,000 years ago; access tunnel; accident; air; alien; amber; analysis; answer; antimatter; antimatter chamber; antimatter containment; archaeology; archaeological dig; area; artifact; assumption; As You Like It; attention; auto-destruct; automated system; away mission; away team; bandage; battle cruiser, Romulan; biobed; blindness; blue; body; bomb; bypass; "breathing space"; cadet; caveman; China; child; cloaking device; composition; computer; computer program; computer system; concept; conjecture; conqueror; console; containment seal; continent; control center; control room; conversation; coordinates; course; culture; curiosity; cycle; D'deridex-class; darkness; database; death; deck; demon; Denius III; descendant; design flaw; destruction; detonation; device; Dewan; Dinasian; door; download; drawing board; dream; Earl Grey tea; effect; emergency call; enemy; energy build up; energy source; engineer; engineering section; engineering team; ETA; evacuation; evidence; expert; explosion; exploration; event; family; fate; father; fear; Federation; food; fool; force field; fracture; friend; Galaxy-class; Gerber, Steven; "grasping at straws"; grief; Haakona; hailing frequency; hand; head; heart; hiccup; hide and seek; history; hobby; holograph; holographic image; home; homeworld; hour; humor; hydrogen; hypothesis; Iccobar; Iconia; Iconian; Iconian cities; Iconian gateway; Iconian gateway planets; Iconian influenced systems; Iconian language; Iconian probe; Iconian software transmission; idea; ignorance; illusion; image; individual; injury report; instinct; interval; involuntary system; Jefferies tubes; knitter; knowledge; language family; launch; launch bay; launch sequence; launch site; legend; life; life support; limb; light year; location; machinery; Maddox, Bruce; magic; magnetic coil; magnetic seal; main core; mainframe; main viewer; malfunction; manual override; master program; matter-antimatter reactor; matter-antimatter scan; medical team; medicine; meter; military command center; Milky Way Galaxy; minute; mission; mister; mountain; mother; myth; non-essential personnel; number one; orbit; orbital bombardment; order; "out of thin air"; overload; parent tongue; phaser; phaser bank; percent; photon torpedo; photon torpedo bank; physical manifestation; place; planet; plastic; Polo, Marco; positronic brain; power grid; power level; power source; problem; projectile; Ramsey; record; red; red alert; rendezvous; research; resident; result; right; risk; rock; rocket; Romulan cruiser; Romulan language; Romulan Neutral Zone; Romulan Neutral Zone solar systems; Romulans; room; root language; root word; Rosetta Stone; rumor; sabotage; scanner; scene; search parameter; second; sector; sector containing three systems; self-correcting mechanism; sensor; sensor range; series; shield; shield control interface; shuttlebay; sister ship; size; software; soil; solution; spaceship; speculation; splint; staff meeting; starfield; Starfleet Academy; starship; state of the art; status; stellar drift; stick; Stone Age; straw; stutter; surface; symbol; symptom; system failure; target; tea; technology; text; thing; thinking; thousand; threat; time; tractor beam; transmission; transmitter; transporter room; trauma team; triangular; tribe; tricorder; turbolift; Underground (geography);unscientific; visual range; visual record; voluntary system; war; warp engine; warp factor; warp speed; weapon; weapons system; wisdom; wood; word; world; worry; Yamato, USS; Yamato engineering team; Yamato engineers; Yamato first officer
+
+
+==== Library computer references ====
+USS Yamato schematic:: antimatter confinement; antimatter injection seal; antiproton; antiproton injection seal; antiproton injection subsystem; Bussard collector; Bussard collection coil; deuterium confinement tankage; deuterium injection subsystem; deuterium injector; dilithium regulation chamber; fusion reaction subsystem; fusion reactor; impulse power system; matter-antimatter reactor system; nanosecond; overpressure; plasma injector; plasma vent; power transfer tunnel; spin reversal system; system failure analysis; warp field coil
+USS Yamato log entries: Woods, Beth
+Other: systems integration analysis
+
+
+=== External links ===
+"Contagion" at Memory Beta, the wiki for licensed Star Trek works
+"Contagion" at Wikipedia
+"Contagion" at MissionLogPodcast.com
+"Contagion" at the Internet Movie Database
+"Contagion" script at Star Trek Minutiae

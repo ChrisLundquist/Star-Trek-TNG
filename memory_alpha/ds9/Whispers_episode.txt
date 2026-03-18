@@ -1,0 +1,237 @@
+Upon returning from a mission to the Parada system, O'Brien begins to notice the crew acting strangely around him and suspects there may be some unknown influence at work.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Rio Grande enters the wormhole. O'Brien is at the helm and instructs the computer on a new course: the Parada system at maximum warp. Since the journey is going to take over an hour, he decides to record a log entry, creating a new file for a personal log. After prompting the computer, he begins.
+
+"O'Brien personal log, stardate 47581.2. I've got to try to set the record straight about the last 52 hours. I don't know who's going to hear this. I don't even know if I'll be alive by the time this log is recovered. I figure they'll be coming after me. If I'm right about this whole thing, they won't want me to warn the Paradas…"
+He pauses and, turning to the replicator, asks for his favorite beverage: "coffee, Jamaican blend, double-strong, double-sweet." He then continues with his log:
+
+"I wish I could tell you who 'they' are but that's part of the puzzle I haven't figured out yet. Part of the puzzle. Hell, none of this whole damn thing makes any sense. I'm trying to remember the first time I noticed things were wrong. It seems to me it was… yeah. It had to be the first morning after I got back to the station…"
+O'Brien awakens in his quarters and quickly notices that his wife is missing from her side of the bed. Putting on a gown, he heads into the living area where Keiko and Molly are having their breakfast. He asks them what they're doing up at 5:30 in the morning. Keiko says she has a lot of essays to read and so wanted to get an early start, though there is a nervous slant to her voice, as if she doesn't know exactly what to say. O'Brien doesn't pay much attention to it and simply orders a cup of coffee from the replicator before saying good morning to Molly. He asks her if she had sweet dreams last night but she tells him to go away and rushes off into her room. Keiko explains it's just a phase and not to let it bother him. Though he does seem concerned, the chief sits down and enjoys his coffee anyway, allowing Keiko to clear the table.
+
+As she begins to place the plates into the replicator, Keiko wants to know all about O'Brien's time with the Paradas. The Chief explains that they had him going through basic training on all of their security measures for an upcoming peace conference, something he believes Odo would have enjoyed far more than he did. After clearing away the last of the dishes, Keiko gets ready to leave. O'Brien offers to drop Molly at day care on his way to work but Keiko immediately rejects the idea. She says that she is taking Molly to school with her as there is a Vulcan program Keiko wants to show her while her mind is fresh. Picking Molly up, she heads out, leaving a confused O'Brien to drink his coffee.
+A short while later, in the security office, Ensign DeCurtis is conducting some repair work when the Chief walks in. He tells DeCurtis that he was waiting until Odo returned from Bajor before he conducted any repairs, though the Ensign explains he was ordered to do it by Commander Sisko. O'Brien is noticeably annoyed with the idea that Sisko didn't consult him on this and so departs, leaving DeCurtis to continue his work. As he walks down the Promenade, he sees the commander engaged in serious conversation with Keiko outside the school. As Sisko leaves in a turbolift, O'Brien hides out of sight, wondering what's going on.
+
+
+=== Act One ===
+In the runabout, O'Brien is now fifty three minutes away from the Parada system. Directing the sensors back towards the wormhole, he asks the computer to display information on a pursuing craft; it's the USS Mekong. He knows they can't catch up to him at warp, so sits back and orders the computer to continue his log entry.
+
+"Okay… so, it was all a little curious. But who could have guessed at that time? I mean, the way they were acting, they might have been trying to pull off one of those surprise parties that I can't stand. Only, my birthday's not until September, and believe me, as it turned out, I had nothing else to celebrate…"
+
+O'Brien arrives in Ops, where everyone is busy at work as usual. As he heads to his station, Doctor Bashir makes himself known. The chief is overdue a physical and Bashir wants him to report to the infirmary within the hour. The chief objects, saying he has too much work, but the doctor persists. Just then, Sisko walks out of his office and asks what is going on. Bashir explains the situation, forcing Sisko to order O'Brien to his physical. The chief gives in and tells Bashir he'll be down in an hour.
+As Bashir walks off, O'Brien asks to see Sisko in his office. As the two enter the room, Sisko apologizes for assigning Ensign DeCurtis without advising him. "I guess I dropped the ball on that one," Sisko tells O'Brien while holding his baseball. Changing the subject, Sisko asks him about the Paradas and if there's anything the chief can tell him that is "off the record." One thing comes to mind; the Paradas have an odor from some kind of skin excretion which changes with their moods, but it seems like Sisko was after something different. O'Brien reassures him that all the security protocols will be in place for the arrival of the Paradan delegation, something that he will see to personally. The commander insists that's not necessary and instead asks him to see to the three pylons that have gone down again. He explains they had to tow a Bolian freighter into one of the lower pylons just that morning. A bewildered O'Brien swears he has just been over those systems and they were working perfectly fine, but agrees to look at them right away nonetheless. Sisko reminds him that his physical comes first as the chief gets up and heads for the door. Before he leaves, he turns and asks Sisko about his chat with Keiko on the Promenade. He explains that Jake has been having some problems with his grades, to which a relieved O'Brien assures him Keiko will do what she can to help him.
+
+In the infirmary, Bashir has finally gets O'Brien to submit to his physical, though the chief isn't happy about it in the slightest, not hesitating to wind up the doctor with his sarcastic comments. After a few medical questions, Bashir asks him about his parents' health. Annoyed, O'Brien reminds him that his mother died two years ago and he has told Bashir all of this before, when his father remarried to a woman he has never met. Finally, frustrated by all of the questioning, he leaps to his feet and demands to know why the medical is taking so long. Suddenly, he comes to the conclusion that he must be dying and that's why everyone is behaving strangely. But before he can ponder on it any longer, Bashir calmly reports he is in perfect health and is free to go.
+Having changed back into his uniform, O'Brien is now heading along the Promenade when he is greeted by Jake Sisko who needs his help in building a subspace transceiver for his school science project. Recounting how he used to build them as a young boy himself, the chief says he is more than happy to help him get those grades back up. But Jake doesn't seem to know what he's talking about. "Oh, my grades are great," he says, "I just want to keep them that way." A bewildered O'Brien looks on as Jake walks off, wondering why Sisko would have lied to him.
+
+
+=== Act Two ===
+"Sisko was telling the truth about one thing: the upper pylons had failed again. It didn't make any sense. Because the new pressure locks I had installed seemed to be working just fine… so it had to be an entirely new problem. I realized it wasn't going to be a quick matter to track it down after all, and I couldn't help thinking how this was going to keep me occupied while the security arrangements for the Paradas were underway."
+
+In one of the station's corridors, Ensign DeCurtis is finishing work on the security arrangements for the Paradan quarters when Chief O'Brien arrives. He orders DeCurtis to open up the door so he can check everything over himself, but as the ensign explains, the security field has been activated and only Major Kira can authorize access. Tapping his combadge, O'Brien asks Kira for the access codes, but Sisko interrupts over the comm, wanting to know what he is doing there when he should be seeing to the upper pylons. The chief argues he should be permitted to oversee the preparations but is overruled. He reluctantly complies with Sisko and seemingly walks back to the upper pylons. However, turning a corner, he stops and watches as DeCurtis opens the door to the Paradan quarters. It seems he was lying about the access codes.
+
+Back on the Promenade, O'Brien is deep in thought when he is again interrupted by Jake, who has with him an inverter for his science project. He asks the chief if it's the right one, and after close examination, he replies it is but he hasn't seen one of these models in a long time. Jake explains he replicated it from a really, really old data file. O'Brien then invites him to come round to his quarters later on so they can put it together, before asking him if anything unusual happened on the station while he was gone. Before Jake can reply, Major Kira interrupts, telling him his father needs to see him about something important. As he walks away, Kira smiles, asking O'Brien if everything's under control. "All under control, major," he replies.
+
+"I worked in the pylon controls the better part of the day. 'Needle in a haystack' wouldn't do this job justice. When I finally found the crack in the RF power conduit, I couldn't imagine how it could've occurred so deep in the system… unless someone had broken it deliberately."
+
+A tired O'Brien staggers into his quarters and places himself on the sofa. Keiko informs him that Sisko just called and Jake can't make it tonight due to illness, which he finds peculiar since he was talking to him on the Promenade just a few hours ago. He then notices that Molly is missing, but Keiko explains she is spending the night at the Fredricksons'. With that in mind, O'Brien tries to stir up a bit of romance with his wife by kissing her but she uncharacteristically backs away saying she is just too tired for it and finishes replicating dinner. The chief notices she has replicated Fricandeau stew for him, his favorite, but since she doesn't like it, she's going to have the salad instead. O'Brien is suspicious. He plays with the food before going to take a mouthful. Noticing Keiko is looking at him with anticipation in her eyes, he stops, the fork inches from his mouth. Placing it back on his plate, he decides he doesn't have an appetite after all.
+
+"I don't know if there was anything wrong with the stew or not. When I went back later to check, she'd already put it into the disposal. But all I could think of as I looked at her… was that this was not my Keiko."
+
+
+=== Act Three ===
+On the Rio Grande, O'Brien instructs the computer to play back the last line of his personal log. "You're right," he mutters to himself. "She wasn't."
+
+"I didn't get much sleep that night. I waited for Keiko or whoever she was… to go to bed… and I started my search. I had no idea what I was looking for… something odd, something not quite normal – anything to explain what might be going on."
+
+"Scan complete," the computer announces, "no unknown microorganisms detected." O'Brien continues to go through station sensor records checking for unknown chemical agents, subharmonic transmissions, unusual neural wave patterns, even telepathic activity; all return a negative result. He then asks the computer to display the vessel arrival logs in an attempt to locate something unusual but, again, there is nothing. Sighing, he replicates another cup of coffee then orders the computer to playback the logs of all officers on the station. It takes time for the computer to play through the logs of all the senior officers but nothing seems out of the ordinary, that is, until the computer comes to a log which cannot be accessed. It seems all logs from the time O'Brien returned to the station are restricted to Level One access only and won't accept his access code.
+Arriving in Ops, the chief heads for the operations pit but before he can do much, he is interrupted by Ensign DeCurtis, who offers his help with any repairs he may be making. O'Brien politely declines his help, explaining that he is trying to get the upper pylons working by morning, which DeCurtis seems to accept.
+
+"There were several traps laid into the computer subroutine, no doubt to let someone know if I'd penetrated their security lockout. I wasn't fooled for a minute and released the protected files without any problem."
+O'Brien makes his way back to his quarters, making certain that nobody is following him.
+
+"What I found in those hidden logs didn't answer all my questions… but it sure as hell confirmed what I'd been afraid of. The were analyzing and reanalyzing everything I'd put into my report about Paradan security. They'd even broken into my personal logs to see what they could find in there. I hope they enjoyed reading the sexy letters to my wife. There were several entries by Sisko about secured messages from the Parada system but no indication what those messages were about. Maybe they were afraid I'd get into their files even with the security lockout. Smart people."
+
+At one of the station's airlocks, a Bajoran transport has just docked. Several passengers begin to disembark, with Odo among them. O'Brien takes the security chief to one side and explains his suspicions about the crew. Odo tells him to do nothing while he investigates and once they have some solid proof, they can go to Starfleet and the Bajoran authorities.
+
+"I felt better than I had for a long time. I finally had an ally. Now, all I had to do was wait. I like to think I'm a man with many talents, but waiting isn't one of them. I had to cover my bets, prepare myself for whatever might happen next. I still had a few tricks up my sleeve."
+In his quarters, O'Brien opens up his toolkit and takes out several small pieces. After assembling them all together as one, he places the device behind his uniform sleeve, just in case.
+Having left his quarters, O'Brien is now sitting on the upper level of Quark's, watching everyone walk by and waiting for something to happen. Quark then interrupts his thoughts: "The odds are against you, O'Brien." The chief, thinking he knows something, grabs the Ferengi by his collar and demands to know what he means by it. It turns out Quark was simply referring to the racquetball rematch scheduled with Bashir for next week. Hearing this, the chief realizes he has made a mistake and lets him go. Quark then asks for information on the Paradas, explaining, "It's always good business to know about new customers before they walk in your door." The chief tells him to find his information elsewhere, before he is summoned to the security office by Odo.
+In his office, Odo asks O'Brien what he knows about the Paradan rebels, as it looks as if the secret communication messages he found were in fact to the rebels, a direct breach of the agreement they had with the Paradan government. O'Brien immediately suggests they cancel the talks but Odo disagrees, prompting the chief to suspect him as well. Before he can do anything, Sisko and Kira – both armed with phasers – enter and attempt to take him into custody. But O'Brien has other plans. Taking the device from his sleeve, he throws it to the floor, where it explodes with an intense flash, stunning everyone in the room. Grabbing Kira's weapon, he stuns the two security guards on the Promenade and escapes through one of the adjoining corridors.
+
+
+=== Act Four ===
+In the corridor, O'Brien orders the computer to lock onto his combadge and initiate an emergency transport to the Rio Grande but the computer denies his request. Throwing his combadge to the floor, he continues to run down the corridor, but is soon stopped by force fields. Realizing he can't take them down, he does the exact opposite and raises all force fields on the station, prompting Sisko's team to disable them all.
+
+Still on his way to a runabout, O'Brien bumps into Jake. He tries to explain what's happening but Jake has seemingly been affected as well and calls for security to that location before running away. Knowing he can't go back or forward, O'Brien crawls into one of the access conduits just as Odo's security teams arrive.
+O'Brien manages to make it to a ladder in the crawl space and begins to climb higher and higher. The climb wears him out and he soon drops his phaser down the tube. He eventually makes it to his destination; the cargo bay, where he uses the cargo transporter to beam himself to the runabout.
+After disengaging the docking clamps, Sisko appears on the comm channel and orders him to stand down, but O'Brien has no intention of doing so. With the tractor beam sabotaged, Sisko opens fire on the runabout, reducing shield strength significantly. With some quick rerouting of the emergency life support power, the shield strength quickly increases and O'Brien escapes the range of Deep Space 9. He immediately opens a subspace channel to Admiral Rollman at Starbase 401 to inform her of the situation, but she doesn't seem to accept what he's saying and orders him back to the station. O'Brien terminates the communication upon hearing the order.
+
+"It seemed almost unbelievable to me. Had someone… or something started to infiltrate all of Starfleet?"
+Laying in a new course, O'Brien takes the ship through the wormhole, on a heading for the Parada system.
+
+
+=== Act Five ===
+With just one minute until the Parada system, O'Brien replicates himself another cup of coffee as he formulates his plan to escape the Mekong. With Parada IV being the largest planet in the system, he decides to head there and so adjusts course. A few seconds later, the runabout enters range. O'Brien instructs the computer to reduce speed to allow the Mekong to catch up but after a few seconds engages full impulse and swings into orbit of a nearby moon, shutting down all power systems on the ship to avoid detection. The pursuing Mekong soon gives up and heads off on a new course for Parada II, where its crew beams down to the surface. O'Brien, armed with a phaser, follows suit.
+
+The chief materializes in some underground caves. Scanning the local area, he notices a doorway of artificial origin. He opens it to find Sisko and Kira meeting with two Paradan rebels. Sisko tries to negotiate with him, saying it's not as it seems, but O'Brien isn't listening. One of the rebels, Coutu, tells him that all the answers he needs are behind another door and all he has to do is open it. But he isn't buying it. Kira insists they are not the enemy but before they can negotiate further, another Paradan shoots a bolt of energy at O'Brien, knocking him to the ground. Coutu opens the doorway he pointed before and Bashir rushes out with medical kit in hand. Inside, another Miles O'Brien is lying on a bed, looking surprised.
+Bashir tries his best to treat the O'Brien on the floor while the other O'Brien approaches him, amazed at the accuracy of the copy. As Sisko and Coutu explain, the real O'Brien had been kidnapped and replaced with a replicant version who had been programmed to disrupt the peace talks. Bashir goes on to say how the copy was indistinguishable from the real thing; he recounts how the copy had passed a physical with flying colors and certainly knew his way around the station. Coutu wonders why the replicant was returning to the planet, and O'Brien suggests that if he knew something was wrong on the station, he'd try and warn someone. Sisko notes that, in a strange way, the replicant was trying to save the day and be a hero. With the replicant version dying rapidly, it holds out his arm to the real O'Brien and says just one thing: "Keiko… tell her I love…"
+
+
+== Memorable quotes ==
+"Are you nearly finished? I believe you poked into every orifice in my body… and created a few new ones."
+"Any dizziness? Oversleeping? Lack of energy? Euphoria?"
+"Yes! All of them, especially euphoria! Lots of euphoria!"
+"Seriously."
+"Look, if you are determined to keep me here until you find something wrong with me, I'll see if I can't grow you a hangnail!"
+"Eye problems? Hearing? Headaches?"
+"Headache! There you go. In fact, I'm getting a very bad one right now!"
+
+- Replicant O'Brien and Bashir, during a physical
+
+"Short temper… flies off the handle under the slightest provocation. Perfectly normal."
+"I'm glad you're enjoying this." 
+"Sorry, I know how you feel about doctors." 
+"It's not doctors I have a problem with." 
+[Together] "It's you, Julian." 
+
+- Bashir and Replicant O'Brien, during a physical
+
+"Well, your sense of humor seems normal enough."
+"I don't have a sense of humor."
+"Cough."
+[O'Brien coughs]
+"How's the sex life?"
+"I don't have a sense of humor."
+
+- Replicant O'Brien and Bashir, during a physical
+
+"They'd even broken into my personal logs to see what they could find in there. I hope they enjoyed reading the sexy letters to my wife…"
+
+- Replicant O'Brien, voiceover
+
+"I wonder why he was coming back…"
+"If it was me, I'd be trying to warn somebody that something was terribly wrong at the station…"
+"Maybe, in a strange sort of way, he was just trying to be a hero…"
+
+- Coutu, O'Brien, and Sisko
+
+"Keiko…"
+"What about her?"
+"Tell her… I love…"
+
+- The last words of the Replicant O'Brien to the real O'Brien
+
+
+== Background information ==
+
+
+=== Story and script ===
+Writer Paul Robert Coyle's original idea for this episode involved O'Brien waking up one morning to find Molly and Keiko gone and nobody on the entire station remembers him ever being there. He then finds out that there is a Chief Miles O'Brien in Starfleet but he is serving on the USS Enterprise-D, and the episode entails him trying to sort out the mystery. (Star Trek: Deep Space Nine Companion, p. 117) A similar premise would later be used in the Star Trek: Voyager episode, "Non Sequitur".
+The general theme of the story appealed to James Crocker and Michael Piller who gave the job of writing the teleplay to Coyle. However, as the story developed the writing staff felt the amnesia plot wasn't working, as Coyle explains: "When we got to break sessions, the staff decided that they didn't like any of the amnesia business, so everybody in the room brainstormed and somebody came up with the idea of doing The Parallax View, a Warren Beatty-starred suspense thriller from the 1970s, which was highlighted by strong accents of political paranoia as the central character attempts to unravel a dangerous mystery." (Star Trek: Deep Space Nine Companion, p. 117)
+The Parallax View wasn't the only inspiration for the episode, as Ira Steven Behr recalls; "In a way, it's Invasion of the Body Snatchers from the body snatcher's point of view. That's what ultimately makes the show tragic and interesting, that the body snatcher doesn't know it. It's unfortunate that the show ends so abruptly. I wish we'd had a little more time there." (Star Trek: Deep Space Nine Companion, p. 117)
+The decision to use the word "replicant" when referring to the fake O'Brien was motivated by the desire to use something other than "android", which was deemed to be too familiar with the character of Data, or the term "clone" which didn't seem to fit in this instance. Writer Paul Robert Coyle ultimately chose replicant as an homage to the 1982 Ridley Scott film Blade Runner and the fact that the term hadn't already been used in Star Trek. Coyle commented, "Obviously, this guy wasn't a clone or an android or a robot. So what's left? I used replicant and nobody objected." (Star Trek: Deep Space Nine Companion, p. 118)
+
+
+=== Production ===
+
+The starship arrival roster was created by the art department and features numerous starship names and assignment information.
+There were some problems during the production of the episode, as Coyle recounts: "The episode came up short for one particular reason: we had to stick entirely on O'Brien for every minute. We couldn't cut away to any of the other characters because they'd obviously be saying, 'We don't think O'Brien is O'Brien.' So we could never open the story up for the audience and go to a B-story, or even linger on two characters after O'Brien leaves the room, because it'd be giving the story away." (Star Trek: Deep Space Nine Companion, p. 117)
+The flashback structure was added by the in-house staff after Coyle had submitted his draft, as a way to expand the story. (Star Trek: Deep Space Nine Companion, pp. 117-118)
+A scene was filmed with O'Brien singing "The Minstrel Boy" while being chased on the runabout, an allusion to the TNG episode "The Wounded", where he says it is his "happy thought" song for bad situations. However, due to a continuity slip that wasn't noticed until the last minute, the scene was removed. The mistake involved the name of the pursuing runabout, which is referred to as the Rio Grande. However, the Rio Grande was the runabout being chased, while the pursuing ship was actually the Mekong. This wasn't noticed until writer Paul Robert Coyle was sent a copy of the shooting script (which is only sent out after an episode is completed) and immediately informed Behr. By the time the mistake was spotted, it was too late to sort it out, so the scene was simply removed. Coyle was disappointed that it had to be removed: "After all that trouble to add scenes to pad the show out, here was a two-page scene they ultimately had cut." (Star Trek: Deep Space Nine Companion, p. 118) The cut scene can be read in the episode's script.
+
+
+=== Continuity ===
+This episode marks the second of two appearances of actress Susan Bay as Admiral Rollman. The first was in "Past Prologue".
+The runabout USS Mekong is introduced as a replacement for the USS Ganges, which was destroyed in the previous episode, "Armageddon Game".
+The Cardassian/Federation Demilitarized Zone is mentioned for the very first time in this episode, a region which will play a significant role in future DS9 and Star Trek: The Next Generation episodes (as well as in the series premise of Star Trek: Voyager).
+Quark refers to Bashir and O'Brien's racquetball match in "Rivals".
+Jadzia Dax only speaks off-screen in this episode, in O'Brien's playback of vocal station logs. She appears briefly as Bashir ambushes O'Brien in Ops.
+Referenced Rules of Acquisition: (tentatively) #194 ("It's always good to know about new customers before they walk in your door")
+One of the Pakleds can be seen on the Promenade, sitting next to Jake Sisko.
+This episode establishes O'Brien's birthday as being in September.
+This is the first instance of a (supposed) member of Starfleet being seen using a Bajoran phaser (the O'Brien replicant steals Major Kira's phaser after incapacitating the officers in the security office with a flash grenade.)
+Curiously, Deep Space Nine is seen firing on the Rio Grande with green phaser beams. By "The Way of the Warrior", DS9 is seen firing standard Starfleet phasers.
+
+
+=== Reception ===
+Ira Behr thought the episode "… is a terrific show. There's something about the way it was shot and the point of view that made it into an episode that was really special, and obviously Colm [Meaney] is one of the strongest actors we have." (Star Trek: Deep Space Nine Companion, p. 117)
+Michael Piller thought the episode was "very original." Of the Body Snatchers theme, he said, "We couldn't think of anyone who had done that before. How many times in this life can you find a plot gag that hasn't been used?" (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 69) He once labelled this episode his favorite of all Deep Space Nine episodes. [1](X)
+Colm Meaney said of playing the replicant O'Brien, "In order not to give away what was going on to the audience, we tried to keep him exactly the same, even though it was a different O'Brien. I played it exactly the way I usually do. It was only the circumstances around him that were weird and gave you the feeling that something else was going on." (Star Trek: Deep Space Nine Companion, p. 117)
+Of the changes made to his initial script, Coyle said, "The additions worked well on the screen, adding a nice pace to the show, and also emphasized the mystery: 'Why is O'Brien running?'" (Star Trek: Deep Space Nine Companion, p. 118)
+Although he liked the episode, series Director David Livingston thought there were parts that could have been improved: "Les [Landau] made a decision to shoot it film noir and I think he did a brilliant job on it. He shot it really fast and he came in way under schedule. We saved a ton of money. He kept telling me that he was concerned about what he was delivering because it was going so fast. I was watching the dailies and kept saying it was wonderful. I think it's a really good episode, but I'm not a real fan of the last scene and the denouement. Whether or not you buy the plot point, Les did a really nice job, and there is this sort of constant undercurrent of uncertainty that gives it a satisfying feel." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 69)
+This episode is the favorite Star Trek episode of Futurama co-creator and writer David X. Cohen, who says he finds it has "a slightly Futurama-esque storyline." [2]
+Authors Mark Jones and Lance Parkin wrote of this episode, "A twist that owes a great deal to the works of Philip K Dick, but is nevertheless a surprise. We see that even a duplicate O'Brien is a man of integrity and determination. The episode ends too quickly, but that's preferable to dragging it out." (Beyond the Final Frontier, p. 198)
+Star Trek author Keith R.A. DeCandido described the episode's plot twist as, "a magnificently played gut-punch", though he felt it only worked if the viewer didn't already know the outcome. "The what's-going-on tension is lessened when you know it's not really O'Brien, and you don't have the same Manchurian Candidate vibe when the sabotage trigger kicks in." However, DeCandido did praise the performance of Rosalind Chao, describing Keiko's behavior as, "just one of many people acting weird, but when you know what's coming, you really feel for the poor woman, who has to pretend that everything's perfectly normal because they have no proof that this isn't O'Brien." Overall, he gave the episode a "warp factor rating" of 7/10. [3]
+
+
+=== Remastered version ===
+Remastered footage from the episode is featured in the documentary What We Left Behind.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 17, 11 July 1994
+As part of the DS9 Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Rosalind Chao as Keiko O'Brien
+Todd Waring as DeCurtis
+Susan Bay as Rollman
+Philip LeStrange as Coutu
+
+
+=== Co-stars ===
+Hana Hatae as Molly O'Brien
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Judi Durand as Station Computer Voice
+Bill Hagy as Paradan guard
+Sue Henley as command officer
+Colm Meaney as Chief O'Brien (replicant)
+Robin Morselli as Bajoran officer
+Michael Wajacs as Bajoran civilian
+Unknown performers as
+Pakled
+Starfleet guard shot by O'Brien
+Bajoran deputy shot by O'Brien
+
+
+=== References ===
+2358; 2368; 47 references; annual physical; arrival roster; assassination; Bajor; Bajor VII; Bajor VII third moon; Bajoran; Bajoran transport; Bajoran wormhole; Bolian freighter; Cardassians; Cardassian border; Chamber of Ministers; civil war; "clean bill of health"; coffee; conflict of interest; constable; cough; day care; Deep Space 9 levels; Demilitarized Zone; dizziness; dozen; "dropped the ball"; Eminiar VII; emitter crystal; endive salad; engineering crew; essay; euphoria; Federation; "field day"; flan; Fredrickson family; fricandeau stew; Gamma Quadrant; grade; Gupta; hangnail; headache; hide and seek; Jamaica; kiss; leader; level 1 diagnostic; level 1 security clearance; magnetic field; marriage; Mekong, USS; O'Brien, Michael; O'Brien's mother; O'Brien's stepmother; orifice; oversleeping; out of the loop; Parada II; Parada IV; Parada IV moon; Parada Civil War; Parada system; Paradan; Paradan government; Paradan rebels (rebel); paranoia; polar magnetic field; problem solving; Promenade; protozoic species; Quark's; racquetball; replicator; RF power conduit; Rigel VII; Rio Grande, USS; Romulus; Rules of Acquisition; runabout; senior officer; sense of humor; September; sex life; sexy; shield generator; shuttle; silent running; Starbase 401; Starfleet; subspace channel; subspace technology; surrender; synchronous orbit; training; tricorder; Vulcan
+
+
+==== Other references ====
+Deep Space 9 - Vessel Arrival: 12, GS; 54-Q, CAR; Adams, J.J.; Annandale; Aries, USS; Arlington IV; Bligh, W.; C-111 system; C-57-D; Cameron Station; CAR; Carinae Delta V; Centre Minor; CGM; Clinton, W.; Crane, S.; Deneb XX; D'hjty, USS; Dytallix; Ellison, H.; Elmira, ITA; FGMS; FMS; Gallico, USS; GCS; Geldonero, FMS; Gh'aster, CGM; GHD; Gifford, K.L.; G'Mat, USS; GS; Gulliver, G.; Gump, J.; Gyt'aerat, FGMS; Hispaniola Minor; Hispaniola, USS; ITA; Jura'assic IV; Land, N.; Lilliput IX; Lunar Receiving; Min'ow, USS; Neutral Zone; New Brooklyn IX; okudagram; Oregon, SS; Organia; Per'ot, GHD; Powell, USGS; Priestly, J.; Prince, M.; Recio, F.; Recio, GCS; Robinson, E.; Savage, R.; Sol system; Sondheim, S.; SS; Starbase 58; Starbase 172; starships visiting Deep Space 9; Swift, J.; Theta Omicron IV; USGS; W.E.B. DuBois; Yorktown, USS; Yosemite, USS; Zero; Zimmerman, H.
+
+
+=== External links ===
+"Whispers" at Memory Beta, the wiki for licensed Star Trek works
+"Whispers" at Wikipedia
+"Whispers" at MissionLogPodcast.com
+"Whispers" script at Star Trek Minutiae
+"Whispers" at the Internet Movie Database

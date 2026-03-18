@@ -1,0 +1,296 @@
+While the Enterprise-D is reviewing a seemingly idyllic planet's application for Federation membership, an escaped prisoner leads her crew to discover an ugly secret: the government's shameful treatment of its war veterans.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 43489.2. We have arrived at Angosia III, a planet that has expressed a strong desire for membership in the Federation. Prime Minister Nayrok has taken Commander Riker and me on a tour of the capital city."
+At the conclusion of the tour, Captain Picard and Commander Riker congratulate Nayrok on their culture's rapid recovery from the Tarsian War, and Nayrok says their people are equally grateful; violence of any kind is abhorrent to the Angosians, who consider art and intellectual achievement to be their greatest virtues. As they are talking, Nayrok's aide, Zayner, pulls him aside with an urgent matter. In private, Picard comments that the Angosians will make a fine addition to the Federation's members. Riker agrees, although he finds the people of Angosia III somewhat stuffy.
+
+Nayrok returns and asks for Picard's help: an Angosian prisoner has escaped from a penal colony, Lunar V, in a stolen transport vessel. Angosian security forces are trying to track him down, but, frankly, are not very well-trained or equipped. With Picard's agreement, Riker signals the USS Enterprise-D with his combadge, where Data is currently in command. The ship's sensors locate the subwarp vessel with little difficulty, but as soon as they begin pursuit, the transport ship ducks behind a nearby asteroid and jettisons its drive section, which is devoid of life readings.
+
+When the Enterprise circles around the asteroid, they locate the wreckage of the ship's main body on the surface, but Wesley Crusher reports in surprise that the drive section has meanwhile disappeared. Slightly bewildered, Data reports to an astonished Picard and Riker that the tiny vessel has successfully eluded the Galaxy-class starship.
+
+
+=== Act One ===
+Picard and Riker return to the ship to command the pursuit. Nayrok calls to inform them that the fugitive's name is Roga Danar and warns them that he is prone to extreme bouts of violence.
+
+Without a warp drive, La Forge is certain that the vessel could not have fled the system, but sensors cannot locate it. Worf points out that the Angosians have no cloaking technology, but Riker guesses that Danar must have "borrow[ed]" one – suspending his ship over the magnetic poles of the planet to avoid detection by the Enterprise's sensors. When the Enterprise flushes him out and locks a tractor beam on him, he pushes his vessel towards the Enterprise in a suicide run. The ship's computer automatically raises the shields and disengages the tractor beam, and the shuttle bounces off their shields. Becoming exasperated, Picard prepares to have the whole craft beamed into a shuttle bay, but the prisoner anticipates them and ejects from the drive section in an escape pod.
+The pod is still devoid of life readings, but Picard orders Chief O'Brien to beam the contents of the pod aboard as Worf and Riker head down to the transporter room to meet the prisoner. O'Brien detects a weapon in the transporter beam and deactivates it, before completing the transport with a two-man security team standing by. When Danar refuses to surrender, he is shot twice with phasers set on stun, which have no effect on him, and he overpowers O'Brien and the security team. The fight takes Danar out into the corridor, but before he can get further, Riker and Worf are able to subdue and capture him.
+
+
+=== Act Two ===
+
+While Picard and Nayrok make the arrangements to send Danar back to Lunar V, Riker asks why the sensors did not detect him. Data has confirmed that the sensors are functioning properly – for some reason, Danar has no discernable life signs. Riker asks the computer to identify the occupant of the brig and the computer informs him that the brig is vacant, even though Riker personally confirmed Danar is currently being held there.
+In the brig, Danar is tossing and turning on his bunk, apparently in the grip of a violent nightmare. Deanna Troi is passing by the cell in a corridor when she senses his turmoil and goes in to talk to him. Her conversation with the man is a surprise: though he is distrustful and suspicious, he is also intelligent, emotionally perceptive, and even has a fine-tuned sense of humor and irony. She describes her role as ship's counselor and is offended when he labels her a "mind-control expert." She is unable to fathom what has made Danar – for all appearances a civilized man – commit such violent acts and asks if the prisoners on Lunar V are mistreated. Danar replies that, on the contrary, Lunar V is a very comfortable, well-provisioned, and humane prison, but a prison nonetheless, since no one is allowed to leave. Using her empathic abilities, she confirms that the turmoil she sensed while he was asleep is gone, and his inner self mirrors his calm exterior.
+
+Troi tells Picard that she senses something wrong – Danar has a thoughtful and intelligent personality typical of his Angosian heritage, and she does not sense anything inherently violent about him. Picard reminds her of the mayhem he caused while they were trying to capture him and says he will be glad to transfer Danar off the Enterprise when the Angosian shuttle arrives. Troi understands Picard's position and leaves his ready room.
+Troi asks Data to check the Angosian government's records, trying to find out what crime Danar committed that sent him to Lunar V in the first place. Data finds that Danar has no criminal record whatsoever. As a matter of fact, Lunar V is a military facility, and Danar's records show him to be a highly decorated soldier of the Tarsian War. Troi goes back to Danar and asks what he did to end up at Lunar V, and he replies that he did everything the Angosians asked him to. Her next supposition is that his psyche was damaged by his experience in the war, and he says the "damage" began when he first volunteered for service, and was introduced to his first military instructor – who, ironically, also carried the title of "Counselor."
+
+
+=== Act Three ===
+
+At Troi's request, Dr. Beverly Crusher examines Danar and finds that he has been psychologically manipulated and biochemically modified. In the observation lounge, Riker guesses that he was captured and experimented on, but Troi says it is worse than that – the changes were made by his own government, programming him to be "the perfect soldier." The conditioning enhanced his strength, reflexes, memory, and intelligence and programmed him to survive at any cost. Crusher adds that one of the chemicals also shields his cellular electrical impulses, masking his life signs to sensors. Unfortunately, the soldiers became a liability to their people after the Tarsian Wars. Minor arguments could trigger their programming and result in extreme violence. Instead of trying to reverse their programming, the government simply exiled them to Lunar V, including those like Danar who committed no criminal acts.
+Data visits Danar in his cell. Danar is initially mistrustful and asks Data to leave, but then asks him back, admitting that he needs company. Data identifies himself as an android and says that they have one thing in common – they have both been programmed. Data asks Danar if his programming cannot be changed, and Danar says bitterly that no one on Angosia has ever explored the possibility – instead, they left him to live with the alterations they made to him.
+Picard confers with Nayrok, who says that Danar is putting an undeservedly harsh spin on the truth. The soldiers had trouble readjusting to normal life, so the government resettled them to a "colony" on Lunar V. Nayrok assures Picard that the Angosians went to great lengths to give the "colonists" a comfortable way of life, and it was only later, after the agitations of a few men like Danar, that they were forced to add security measures and convert the soldiers' "colony" into a prison. Picard asks if the resettlement was of the soldiers' own choosing and whether the government ever explored the possibility of reversing the soldiers' conditioning. Nayrok curtly replies that the Federation is "treading on matters of internal security" and cuts off the transmission after thanking the Enterprise for its help. Picard closes down his own terminal with an expression of deep disgust, his good opinion of the Angosians and their Prime Minister extinguished.
+
+In conversation with Data, Danar says the man he used to be is still inside him, but the "programming" takes over at the slightest provocation. Danar asks Data whether he is programmed for combat like he is. Data says no, he is not programmed to kill. Danar reflects that his enhanced combat abilities have enabled him to kill 84 people in his lifetime, and his enhanced memory enables him to remember each of the 84 faces with perfect clarity.
+Picard enters with Troi and says that he has no choice but to transfer him back to Angosian custody, even though he sympathizes with the plight of Danar and his compatriots. Danar courteously thanks the captain for being upfront with him face-to-face and returns the favor by telling Picard that he will do anything in his power to escape. Troi tries to reassure him that if Angosia joins the Federation, its resources will be put to use finding a cure for their condition. Danar says simply that even if that happens, he will not be around to see it, because he would rather die than return to Lunar V – and that resolve is stronger than the imperative to survive programmed into his soul.
+
+The Enterprise readies Danar for transport, and knowing how intelligent Danar is, Worf has calibrated the transporter beam to activate 0.1 seconds after the cell's force field is shut down, too fast even for Danar. During the attempted transport from the Enterprise's brig to the Angosian police transport vessel, Danar literally breaks out of the transporter beam, causing an explosion of energy within the cell that momentarily blinds Worf and Troi. When they come around, Danar has disappeared, and a phaser is missing.
+
+
+=== Act Four ===
+As with the initial pursuit in space, Danar's cunning and resourcefulness are on full display during the chase through the Enterprise's interior. Since the internal sensors cannot track Danar's life signs, they can only follow his movements by activity on the various ship systems he accesses or tampers with. Knowing this, Picard orders General quarters sounded, force fields raised on Decks 34-36, and the power to the transporters and turbolifts shut down.
+
+Riker tells Data to reactivate the turbolifts to trap Danar if he tries to use them. When a turbolift is engaged, the bridge diverts it to where Worf and a security team are waiting. But when the doors open, instead of Danar, they find a phaser on the floor of the turbolift set on overload. Seeing it, Worf orders the deck sealed off and rushes over to disable it barely in time. Meanwhile, back on Deck 36, Danar knocks out a security guard and uses his combadge to order a force field shutdown. Reading the shutdown, Data realizes Danar is headed for Engineering.
+Riker tries to warn La Forge, but Danar has knocked him and the rest of the engineering crew unconscious in a matter of seconds. Danar then opens an access panel and begins rerouting ship functions through the isolinear chips. Data tries to stall Danar, undoing each override while allowing Danar to believe he is succeeding, but finds Danar to be incredibly adept; despite Data's best efforts, Danar manages to restore power to Shuttlebay 2. To avoid the sealed hallways, he crawls through the core reactor and enters a Jefferies tube. He places another of his captured phasers into a power conduit and sets it to overload.
+Riker orders security teams to the shuttlebays, but Data volunteers that Danar's past strategy has been based on misdirection and diversion; it is extremely unlikely that he is planning to use the shuttlebay, but Data cannot anticipate what his true destination is.
+Sure enough, Danar doubles back into Cargo Bay 3 and plugs his phaser into the deactivated transporter console. Data reads the activity, and Picard has the cargo bay flooded with anesthizine. Seeing the gas, Danar grabs a pressure suit from a cargo container.
+
+When Worf's security team is outside the cargo bay, Picard has the gas removed. When Worf and his team move in, the cargo bay is apparently deserted, but Worf notes the absence of the pressure suit and surmises that Danar may try to access the shuttlebay from an external hatch, such as from the Enterprise's photon torpedo launchers. Worf signals the bridge that he and his security teams will guard the external exits.
+In a corner of the cargo bay, Danar smiles and emerges from hiding, leaving behind the pressure suit (which he only needed to protect himself from the gas). But Worf, having out-thought the Angosian for once, emerges from hiding, aiming his phaser. He congratulates Danar for his extreme cunning, remarking that he must have Klingon blood, but orders him to surrender, telling him the battle is over. Danar responds that his battle is never over. At that moment, the phaser in the Jefferies tube explodes, shutting down the lights in the cargo bay. That brief distraction is all Danar needs to tackle Worf and knock him unconscious after a brief struggle. Using his phaser to power the transporter, Danar successfully beams himself onto the Angosian police shuttle and takes its pilots hostage. With the Enterprise external sensors disabled by the explosion, it has no way to track him, and Danar has made a clean getaway.
+
+
+=== Act Five ===
+"First officer's log, supplemental. We are continuing to repair damage to the ship's sensors following the escape of the Angosian prisoner, Danar. He is still at large."
+When the Enterprise restores its systems, Nayrok informs them that Danar has organized a mass breakout from Lunar V, and that several soldiers have made their way to Angosia and entered the capital city. Nayrok urgently asks Picard for help.
+
+Picard, Worf, Troi, and Data beam down to the surface while Nayrok's staff are arming themselves. Nayrok is surprised to see only four members of the away team – he was expecting Picard to bring a large security team to protect them. Picard says the Federation is not going to help them evade responsibility for their actions: they recruited an army of idealistic young men like Danar, turned them into killing machines, and then locked them away and did their best to forget about them. Troi and Data urge Nayrok and Zayner to consider whether the soldiers' programming can be reversed.
+Nayrok admits that the chemicals can be removed, but the psychological conditioning is considered irreversible. Even before the soldiers were trained, the government knew there would be problems reversing it. But it was a risk they were willing to take – and Worf, whose warrior sensibilities are naturally outraged, asks whether the government revealed that risk to the men who volunteered to fight for their world.
+
+Underneath their sophistry, it is clear that the government never seriously tried to cure the soldiers; instead, "the people" chose to "resettle" them "for the greater good," turning their backs on the soldiers who helped defend their way of life. Besides, Zayner adds tactlessly, they do not wish to undo the programming, because they may need the soldiers again if Angosia ever fights another war.
+Just as Picard and Troi are about to detonate with anger, Danar and his fellow inmates storm into the building. Picard warns everyone not to raise their weapons. Since Danar and his fellow inmates are not being provoked, they cannot willfully attack the prime minister or his staff. Danar demands that the Angosians fight back, rather than continue to ignore them. Nayrok says that the soldiers have been given the skills they need to survive and should be able to survive on Lunar V. Danar says that is not enough: he and his comrades want their lives back, and they want to come home. Nayrok then says that he is not going to negotiate under a threat of violence but promises to review their case if they surrender and return peaceably to Lunar V. Danar laughs the offer back in his face, knowing full well that Nayrok has no intention of helping them once he has them under lock and key again.
+
+Flustered, Nayrok tells Picard that he must do something about the situation, and Picard agrees – he tells the transporter room to prepare to beam the away team back aboard the Enterprise. Nayrok protests, but Picard replies that he has all the information he needs for his report and that the government must now make a decision regarding the fate of their veterans. After all, he cannot interfere with the "internal security" of Angosia. In the meantime, if the Angosians wish to reapply for Federation membership, their application will be given all due consideration. Danar seems pleased that he is being recognized and smiles at the away team as they leave, which Troi returns as she dematerializes.
+Aboard the Enterprise, Picard asks Riker to note in their official report that if the Angosian government survives the night, the Federation will offer its assistance in helping their veterans with their conditioning. When Riker asks whether the government will survive the night, Picard remarks dryly that he believes it will "choose to." The Enterprise leaves Angosia for Starbase Lya III.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+First officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"I am afraid the prisoner has eluded us, sir." 
+"[incredulous] Eluded the Enterprise?"
+
+- Data and Picard
+
+"This guy knows all the tricks, doesn't he?"
+
+- Riker, when Danar's ship is discovered hiding in the planet's magnetic field
+
+"He bounced off the shields!"
+"That's an interesting twist."
+
+- Wesley and Riker, on Danar's second gambit
+
+"An escape pod!"
+"This guy's incredible!"
+
+- Wesley and La Forge, on Danar's third gambit
+
+"More security, Transporter Room 4! More security! More security!"
+
+- O'Brien, as Danar attacks all of the security guards in the transporter room
+
+"I presume we are returning to Lunar V?"
+"That terrifies you."
+"I just killed three men to get out of there, Counselor. And I'm fully capable of killing you as well. That's a terrifying thought, isn't it?  Even to me."
+
+- Roga Danar and Deanna Troi
+
+"He's intelligent, thoughtful… typically Angosian. I know what he's done, but when I'm with him, I cannot believe that he is randomly and deliberately violent. In fact, inherently he has a non-violent personality."
+"Counselor, it took five men to restrain him! And he took about half the transporter room in the process!"
+
+- Deanna Troi and Picard, about Danar
+
+"Lunar V... an orbiting gulag."
+
+- Picard
+
+"What do you want?"
+"Am I disturbing you?"
+"Yes!"
+"Then I will leave."
+"No, wait, wait! I'd rather talk to someone."
+
+- Danar and Data
+
+"Prime Minister, even the most comfortable prison is still a prison."
+
+- Picard, to Nayrok
+
+"'A matter of internal security' – the age-old cry of the oppressor."
+
+- Picard
+
+"My improved reflexes have allowed me to kill eighty-four times. And my improved memory allows me to remember each of those eighty-four faces. Can you imagine what that feels like?"
+"I am incapable of any feeling."
+"Well, then I envy you."
+
+- Danar and Data
+
+"Mr. Danar, I'm transferring you to Angosian Security. They're en route, they will arrive shortly. I wanted to tell you I have no choice. The Prime Minister insisted, and we have no right to refuse."
+"Well, you would be foolish to consider it otherwise, Captain, for they are very correct. I am dangerous. There is no place for me in a civilized society."
+"I do not believe that."
+"Nor do I."
+
+- Picard, Danar, Troi, and Data
+
+"Take care of yourself, android. I enjoyed our talk."
+"I, too."
+
+- Danar and Data
+
+"There is a full contingent of security at all shuttlebays."
+"You want my advice? Double it!"
+
+- Worf and La Forge, the latter recovering from Danar's one-man assault on engineering
+
+"Danar! You are cunning. You must have Klingon blood. But the battle is over."
+"My battle is never over."
+
+- Worf and Danar
+
+"In your own words, this is not our affair. We cannot interfere in the natural course of your society's development. And I'd say it's going to develop significantly in the next few minutes."
+
+- Picard
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft script: 13 October 1989
+Revised first draft script: 16 October 1989
+Final draft script: 25 October 1989 [1]
+Premiere airdate: 8 January 1990
+First UK airdate: 8 January 1992
+
+
+=== Story and production ===
+This episode was an allegory to US veterans of the Vietnam War, integrating back into American society. (Star Trek: The Next Generation Companion, 2nd ed., p. 112) Michael Piller remarked, "The whole theme of the show was let's look at how society treats its returning veterans. I thought from a conceptual level we handled that well, and we came up with good science fiction to make it interesting. There's some argument that the best soldier ever created bringing the Enterprise to its knees is a little hard to believe, and that might have been the weakness of the show. I enjoyed it, and was not ashamed of the show." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 190)
+Originally, a different ending was considered where the soldiers violently stormed the capital. Director Cliff Bole recalled, "Originally, Danar was going to come back and there was going to be a big confrontation. That was cut due to budget and time. We simply did not have the time in seven days to do that. I thought the loss of that confrontation took away a little bit." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 190)
+Piller commented, "At first, we were going to have a huge shoot out and have everyone wiped out in the end, but that didn't really make anybody a hero. Picard goes down there and we're caught in a stalemate. We've now created the character of this planet's society in such a way that Picard can make the statement at the end, 'This is not our affair. You guys are going to have to solve it...' I thought it worked. There are people on the staff to this day who think it doesn't. I think it is an important enough theme that I cannot explore enough, but I don't think we really got to the heart of it because the story was one-note, and it could have used a little more texture." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 190)
+Ira Steven Behr performed an uncredited rewrite on the episode during his first day as a staff writer on the show, in particular expanding Danar's escape from the Enterprise, which was only briefly shown in Robin Bernheim's original draft, into an action sequence that took up most of the third act. As Behr was only especially familiar with Star Trek: The Original Series and had paid little attention to The Next Generation, he had to get a "crash course" in the series from Hans Beimler and Richard Manning. (TNG Season 3 Blu-ray, "Technological Distinctiveness")
+During the filming of this episode, the energy weapon prop Danar is holding when he is first transported to the Enterprise was broken during the struggle with security officers. What remains of it is on display at Seattle's Science Fiction Hall of Fame and Museum.
+The shirts worn by the members of the Angosian Senate were the turtlenecked men's shirts from the Star Trek II: The Wrath of Khan Starfleet officers' uniforms. (Star Trek Encyclopedia, 3rd ed., p. 14)
+
+
+=== Sets and props ===
+The USS Enterprise-D brig appears for the first time. It is accessed by a holodeck-style door. On the corridor wall opposite the brig entrance, there is an unusual orange door that is surrounded by a silver frame, including at the bottom, meaning one would have to step over the frame to enter the door.
+
+
+=== Continuity ===
+This TNG episode is the only one to feature a Jefferies tube which is large enough to walk upright in. This is also the first mention of them in TNG.
+We learn in this episode that there is emergency airlocks and a control room for the aft torpedoes which are located between Decks 37 and 39.
+James Cromwell, who starred as Prime Minister Nayrok, later starred as Jaglom Shrek in the TNG episodes "Birthright, Part I" and "Birthright, Part II", Minister Hanok in DS9: "Starship Down", and most notably as Zefram Cochrane in Star Trek: First Contact and ENT: "Broken Bow", and as a holographic version of Cochrane in LD: "Grounded".
+Jeff McCarthy, who starred as Roga Danar, made a second Star Trek appearance playing the ill-fated original chief medical officer of the USS Voyager in Star Trek: Voyager's pilot episode, "Caretaker".
+J. Michael Flynn, who plays Zayner, later appeared in two guest roles on Star Trek: Enterprise: as a Mazarite magistrate in "Fallen Hero" and as the Romulan Nijil in "Babel One", "United", and "The Aenar".
+The maneuver Danar uses to evade the Enterprise, hiding above the planet's magnetic poles with all ship's systems powered down, is much the same tactic that Riker once employed on the USS Potemkin to confuse an enemy's sensors. Fittingly, it is Riker himself who suggests this possibility here. ("Peak Performance")
+When Troi first meets Danar, he asks her if the Enterprise is a war vessel. Four episodes later, in "Yesterday's Enterprise", the Enterprise is portrayed as a war vessel in an alternate timeline in which the Federation is at war with the Klingon Empire.
+
+
+=== Reception ===
+Director Cliff Bole remembered: "I liked the story, because the premise was dealing with an issue that has happened and is happening in our present time. The end was again affected by a budget situation. We were going to do a big battle, but couldn't. Originally, Danar was going to come back, and there would be a big confrontation – almost a Rambo-like situation. I thought the loss of that [scene] took away a little from the episode, making it slightly anti-climactic. We simply didn't have the time to do it in seven days." ("Cliff Bole – Of Redemption & Unification", The Official Star Trek: The Next Generation Magazine issue 17, p. 31)
+A mission report for this episode by Patrick Daniel O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 12, pp. 10-12.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 30, November 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.4, 5 June 2000
+As part of the TNG Season 3 DVD collection
+As part of the TNG Season 3 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest stars ===
+Jeff McCarthy as Roga Danar
+James Cromwell as Nayrok
+Colm Meaney as Miles O'Brien
+
+
+=== Co-stars ===
+J. Michael Flynn as Zayner
+Andrew Bicknell as Wagnor
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as USS Enterprise-D computer voice
+Joe Baumann as Angosian soldier
+David Channell as Angosian senator
+George Colucci as security officer
+Robert Daniels as operations officer
+Jeremy Doyle as operations ensign
+John Gillespie as security officer
+Leif Johannesen as Angosian senator
+Phil Lodwick as Angosian senator
+Tim McCormack as Bennett
+Lincoln Simonds as security officer
+Oliver Theess as command division officer
+Bryan Thompson as Angosian senator
+Guy Vardaman as Darien Wallace
+Unknown performers as
+Angosian police officer
+Command division officer
+Female science division officer
+Female science officer
+Operations division officer
+Operations division officer
+Operations division officer
+Security officer (voice)
+Six Angosian senators
+Six Angosian soldiers
+
+
+=== Stunt doubles ===
+Dan Koko as stunt double for Jonathan Frakes
+Rusty McClennon as stunt double for Michael Dorn
+Unknown stunt performer as stunt double for Jeff McCarthy
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+access panel; advice; aft thruster; agitator; application; Anabar Squadron; analysis; android; anesthizine; android; anger; Angosia III; Angosian; Angosian capital city; Angosian enhancement drugs; Angosian escape pod; Angosian military; Angosian police shuttle; Angosian security; Angosian Senate; Angosian senatorial database; area; arrest; arrival; artificial lifeform; asteroid; "at large"; away team; backup system; bait; base; battle; bitterness; blood; "broke my heart"; brother; bypass; campaign; cargo bay three; cargo transporter; cell structure; century; central computer; chemical; choice; citizen; civilian; cloaking device; cloaking technology; colony; combat; concentration; confrontation; coordinates; counsellor; corridor; coward; crime; criminal behavior (aka criminal personality); criminal record; cryptobiolin; cultivation; culture; cylindrical; damage; Danar's mother; danger; dark-haired girl; day; deck; destination; detention cell; diameter; dilemma; discussion; diversionary tactic; doctor; door; drive section; duality; effect; electrical impulse; electromagnetic interference; emergency airlock; escape pod; exile; explanation; explosion; eye; face; "face-to-face"; Federation; feeling; force field; French language; full alert; Galaxy class decks; general quarters; government; guest; gulag; hair; heading; heart; holding cell; home; hostage; hour; humanoid; hundred; idea; information; insect; inspection; instructor; intellect; intelligence; Internal affairs; internal security; intruder; jail; Jefferies tube; judgment; keeper; Klingon; knowledge; length; life sign; lifeform; location; Lunar V; Lunar V guards; Lunar V prisoners; Lya III; macrospentol; magnetic field; main viewer; martial arts; maximum security facility; medical team; memory; message; meter; microscope; military; military prison facility; military record; military service; mind; mind control expert; minute; mister; Much Ado About Nothing; murder; mystery; name; non-essential personnel; number one; object; online; oppressor; overload; pain; parts per million; patience; peace; penal colony; permission; personality; phaser; photon torpedo launcher; pilot; place; plan; polar orbit; pole; police record; pressure suit; Prime Minister; priority channel; priority one; prison psychologist; prisoner; prisoner of war; problem; promotion; protection; psychological conditioning; quarantine; quality of life; question; range; rank; reactor core; reality; reason; record; referendum; reflex; rendezvous; report; resentment; resettlement; right; riot; risk; rule; sabotage; scanner; second; security; security containment field; security guard; security personnel; security system; security team; sensor; sensor range; sensor sweep; shuttlebay; shuttlebay 2; signal; skill; society; soldier; solution; son; soul; specification; specialist; specimen; speed; status; status report; strategy; strength; stun setting; subhadar; substance; subsystem; suicide run; surface; survival; tactics; Tarsian War; temper; thing; thought; threat; tour; tour of duty; tracking station; tractor beam; train; training; transfer; transport beam; transporter; transporter power; Transporter Rooms 1 and 4; treatment; trick; triclenidil; turbolift; veteran; victim; violence; visit; volunteer; war vessel; warp drive; warrior; way of life; weapon; word; woven; wreckage; yellow
+
+
+==== Other references ====
+Angosian senatorial database: Anabar Squadron; assignment; charge; Chritezbr; Cragweis; Dantang; Davgrant; Derwarn; Dylhuc; Erbrun; exercise; Group Kikimorr; hand-to-hand combat; Hilgroen; individual; Janlee; Jongri; Jongrinsb Theater; Jospania Theater; Kevscotti Military Base; Marjmacl; Marvhil Infantry Division; Marvhild; military conduct code; Nikkr-Br; Philbis Infantry Group; primehadar; reprimand; Robmeybur Rebellion; Roglay Outpost; Ryadam; Sarpaul Transport Complex; third hadar; Todfrey Campaign; Wadfelk Ground Tactical Training Division; Wenruiz Indoctrination Center
+Other: Comm channel 4077
+
+
+=== External links ===
+"The Hunted" at Memory Beta, the wiki for licensed Star Trek works
+"The Hunted" at Wikipedia
+"The Hunted" at MissionLogPodcast.com
+"The Hunted" script at Star Trek Minutiae
+"The Hunted" at the Internet Movie Database

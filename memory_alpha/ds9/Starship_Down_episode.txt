@@ -1,0 +1,261 @@
+Sisko and the Defiant crew defend a Karemma ship when it is attacked by the Jem'Hadar. Meanwhile, Quark and the Karemma trade minister argue about the value of dishonesty in trading before having to work together to disarm a Jem'Hadar torpedo.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, stardate 49263.5, At the request of the Karemma Commerce Ministry we've brought the Defiant to a remote system in the Gamma Quadrant to discuss problems that have surfaced regarding our recent trade agreement."
+
+The USS Defiant rendezvouses with a Karemma Commerce Ministry vessel above a remote gas giant in the Gamma Quadrant in order to discuss trade issues. In a meeting between Trade Minister Hanok, Captain Benjamin Sisko, and Quark in the Defiant's mess hall, Hanok expresses frustration in trading with the Federation, citing a series of mysterious heavy taxes and fees. Since the Ferengi are being used as middlemen between the Federation and Karemma to avoid angering the Dominion, Sisko realizes that Quark is responsible.
+In command on the bridge, Worf reprimands Ensign Carson for poor results in a weapons drill, and orders a fifteen percent decrease in response times. Meanwhile, in the aft section of the bridge, Major Kira Nerys tells Lieutenant Commander Jadzia Dax that she is fasting in observation of Ha'mara, the anniversary of the Emissary's arrival to Bajor. Kira voices her suspicion that Sisko purposely scheduled the trade negotiations to avoid attending Ha'mara. Dax tells her Sisko dislikes ceremonies in which he is the center of attention. Kira expresses her wish that he had attended, as it would have meant a lot to the Bajoran people.
+Suddenly, sensors pick up two incoming Jem'Hadar warships. Worf orders red alert, all hands to battle stations and calls Sisko to the bridge.
+
+
+=== Act One ===
+Sisko and Minister Hanok enter the bridge. Hanok believes the Jem'Hadar have come to punish the Karemma for trading with the Federation and offers to surrender himself in the hope they may spare his ship, but Sisko does not intend to hand him over. The Jem'Hadar begin attacking both ships.
+In blind panic, the Karemma ship begins moving away, fleeing into the upper atmosphere of the gaseous Class J planet. The Jem'Hadar and the Defiant are in hot pursuit. Kira notes that she is reading wind speeds of ten thousand kilometers per hour, while Hanok, overwhelmed with guilt, notes that twenty-three people are on that ship.
+
+Sisko is determined to save the trade ship, and orders the Defiant into the planet's turbulent atmosphere. Chief Miles O'Brien and his young subordinates, Crewmen Muniz and Stevens, attempt to channel more power into the ship's structural integrity fields. Despite their efforts, the ship is violently buffeted by air currents. Inside the gas giant, the crew discover more bad news. The interference has restricted their sensor visibility to less than two kilometers, plus rendered their cloaking device and weapon targeting systems inoperable. Phasers will have to be manually targeted.
+Kira and Dax suggest using modulated tetryon pulses to actively scan via echolocation. During the Occupation, Kira used this method to evade Cardassian ships in the Badlands. Unfortunately, each pulse would give the Defiant's location away as well, meaning the ship would have to change speed and course after every scan they make. As the crew begins working on their echolocation scanner, Minister Hanok returns to the mess hall. There, Quark tries to convince Hanok that the bogus surcharges were honest mistakes by his "idiot" brother Rom. Hanok doesn't buy the explanation, and angrily tells Quark that, if they survive, he will ensure that Quark will never again be able to conduct commerce in the Gamma Quadrant.
+Meanwhile on the bridge, the echolocation pulses have detected an object four hundred kilometers beneath them. The Defiant gingerly moves toward it, emitting pulses to keep its bearings. Suddenly, two more blips appear, moving fast toward them – it is the Jem'Hadar.
+The Defiant is rocked hard by phaser fire. Shields are drained to 60%, and emergency lights flicker on. Impulse power goes off-line, and the ship starts falling toward the planet. With ODN relays overloaded, Dax and Muniz race to Jefferies tube four to manually reroute power to the engines. As the external hull pressure rises, the ship groans ominously.
+On the bridge, Worf delivers more damage reports to Sisko. The phaser couplings have overloaded, and will take two hours to repair. Sisko brainstorms a plan with O'Brien to equip their two atmospheric probes with quantum torpedo warheads. O'Brien sends the nervous, young engineer Stevens to the torpedo bay to modify the probes. O'Brien asks Crewman Janklow to retrieve a dualitic inverter from the ship's cargo bay.
+Suddenly, a large explosion rocks the ship. A hull breach has occurred on Deck 2, knocking out Crewman Janklow. Emergency force fields activates, but Kira knows they will not last long within the atmosphere. The crew must seal off the deck to save the rest of the ship, but this will mean sacrificing the crewmates in sickbay, plus Dax and Muniz in the Jefferies tube.
+
+
+=== Act Two ===
+
+Dr. Bashir begins evacuating sickbay. Dax and Muniz are working as fast as they can to finish their job. Sisko gives them thirty seconds to clear out before he orders that the entire deck be sealed off. As Bashir herds everyone behind a bulkhead, he sees Dax and Muñiz heading toward them. However, it is too late – the force field collapses, filling the corridor with swirling poisonous gases. Muniz suddenly stumbles toward Bashir, who pulls him to safety. With Sisko ordering the bulkhead closed and Dax still missing, Bashir makes up his mind... he hits the switch to close the door, holds his breath, and runs out into the decompressed hallway after he hears Dax call out his name.
+Bashir manages to find Dax's unconscious form in the rolling gas and drags her into an open turbolift. He hurriedly uses the door panel to close the door manually, and repressurizes the turbolift. They're safe, but he realizes that the communications system is broken. They're trapped in the small space together.
+Kira somberly notes that the impulse engines are back online. As far as they know, it was Dax's final sacrifice. The Defiant gains altitude and resumes searching for the Karemma. In the mess hall, Quark tries to salvage the trade deal, flattering Hanok for uncovering his clever scam, but Hanok rebukes him a second time.
+On the bridge, Kira has found another blip, and she thinks it is a Jem'Hadar ship. She turns off the pulses, and the Defiant, now flying blind, creeps up behind the Jem'Hadar's last known position. Sisko orders a full stop, and shutdown of all non-essential systems. They will fire one of the modified atmospheric probes, and hope it homes in and destroys the Jem'Hadar ship. Worf and Kira warn Sisko that if the Jem'Hadar ship has changed course or moved out of range, the probe won't find anything and may end up targeting the Defiant instead. Sisko notes the risk, but decides to take the chance anyway.
+The Defiant fires the probe, and immediately the Jem'Hadar ship ambushes them from behind, weapons blazing. It scores several direct hits and the bridge in particular takes serious damage, with Captain Sisko getting thrown off his feet causing him to bang his head on a console to the left of his chair. Their attackers are about to finish them off when the probe homes in and blows the Jem'Hadar ship into dust.
+The crew have taken out one enemy vessel, but the Defiant is severely damaged. Muniz tries to contact the bridge, but O'Brien tells him to not waste his breath – he is convinced that the bridge crew have all been killed.
+
+
+=== Act Three ===
+
+Fortunately, some of the bridge crew did survive, although the bridge systems did not. Junior officers Boyce and Peterson are dead, and Sisko is on the floor, bleeding from a concussion and barely conscious. Carson heads below to find a medic, while Worf goes to main engineering to take command from there. Kira notes that if Sisko falls asleep, he will likely slip into a coma, but she can't risk using a stimulant. Worf advises her to keep Sisko awake by talking to him and to keep his attention.
+In the turbolift on Deck 2, Dax and Bashir remain trapped. They only have a few hours of air left in the lift. Dax coughs up some fluorine gas. She thanks Bashir for rescuing her, and muses how much their relationship has changed:
+
+"A year ago, if you'd have done something like this, I would've thought you were just trying to be a hero," she teases. "Now that I know you better, I realize it was just a really stupid thing to do."
+Meanwhile, Quark attempts again to change Hanok's mind. He can't believe that the Karemma conducts all their business ventures above board. "Where's the greed?" he asks. Hanok can't believe the Ferengi would gamble away their business prospects for just a few strips of latinum more.
+
+Worf arrives in the engine room and takes command. With his typical authoritarian manner, he berates and orders O'Brien's staff around. Meanwhile, Kira tries to keep Sisko awake by talking about mundane work issues, but Sisko is falling asleep. They realize they always talk about work, and Kira confesses that Sisko being the revered Emissary means she finds it hard to relax and be herself around him. In response, Sisko asks Kira if she can tell him a story.
+In the engine room, they've picked up two more blips – but they're too small and too fast to be ships. It dawns on O'Brien – they're torpedoes. The Defiant swerves to port, and the first warhead misses, but they cannot dodge the second torpedo in time. Everyone braces for impact – but nothing happens.
+Meanwhile, Quark and Hanok in the mess hall stare at a Jem'Hadar torpedo that has lodged itself in the back wall.
+
+
+=== Act Four ===
+
+Hanok suggests leaving the mess hall, but Quark knows that's pointless since the torpedo will destroy the ship if it goes off. Quark instead decides to attempt to defuse the warhead and puts his safe-cracking skills to work.
+The engine room guesses where the torpedo impacted the hull, but they are cut off from the mess hall. When Stevens expresses doubt in Worf's command to strengthen structural integrity in that area, Worf curtly cuts him off. O'Brien privately reminds Worf that his engineers aren't officers who attended Starfleet Academy, but enlisted crewmen who are used to doing their jobs and being given a problem to solve in their own way. He suggests that Worf "loosen up on the reins" and let his men do what they're good at. Worf vows to consider his advice.
+Trapped in the turbolift, Bashir muses how during when he first arrived on the station, he fantasized that he and Dax would be trapped adrift on a runabout. He explains it was because she was always avoiding him, and Dax explains it is because he came on too strong. They exchange a laugh.
+In the engine room, Worf approaches Muniz and Stevens, and asks their help in improvising another weapon. Muniz reminds him of the remaining atmospheric probe, but Worf has another use in mind for it and requests an alternative. Muniz and Stevens brainstorm and realize that although the phaser emitters are fused the phaser generator is undamaged. Stevens enthusiastically proposes using the deflector array as a makeshift phaser emitter, then respectfully awaits Worf's approval. Muniz adds the array will overload after a single shot, but Worf tells him this is all he will need. He approves their plan and when he asks them how long the necessary modifications will take, the engineers tell him ten minutes if they can bypass the safeties.
+On the bridge, Sisko's condition worsens, and he begins to slip into unconsciousness. Kira decides to risk giving him a stimulant and, determined to do anything to stop the Emissary of the Prophets from dying, begins praying over his prone body in her native tongue.
+In the engine room, the deflector weapon is configured. The echolocation pulse is restarted, and the crew wait anxiously for the final confrontation.
+
+
+=== Act Five ===
+
+In the mess hall, Quark has managed to open the warhead. Hanok points to two diodes and tells Quark one will turn off the power, and the other will trigger the detonator. Quark questions his knowledge; Hanok admits these torpedoes are made and sold by the Karemma. Quark realizes that Hanok sold the Jem'Hadar substandard merchandise, since the torpedo was meant to detonate on impact. Hanok jokes that maybe he should offer them a refund then laughs heartily, and Quark joins in.
+After several moments of shared laughter, Quark returns to the subject of the torpedo. Hanok admits he doesn't know which diode does what. Quark proposes they just take a chance and guess. When Hanok hesitates, Quark just randomly picks a diode and pulls it out... and the torpedo powers down. "I think we have a winner..." Quark states quietly. Afterward, Hanok admits that the gamble was exciting. This time, Quark challenges him to reopen trade negotiations. Hanok accepts.
+In engineering, O'Brien reports the Jem'Hadar ship has locked onto the tetryon pulse and is closing in. Too late, it discovers the source of the pinging is actually the second atmospheric probe... the Defiant ambushes them from behind, destroying the Jem'Hadar with a single deflector blast.
+
+"Defiant log, supplemental. Damage control teams are repairing the ship's systems, and medics are tending to injured crew members. We have located the Karemma ship deep in the atmosphere and are moving to assist. It appears that it will have to be abandoned, and its crew brought back to Deep Space 9 until transportation can be arranged to the Karemma homeworld."
+In Quark's. Minister Hanok, invigorated from living on the edge, takes up dabo. To Quark's detriment, he turns out to be a natural at it. Dax invites Bashir to a game of darts, rescuing him from a dull conversation with Morn regarding his large family. Stevens gives Worf the repair schedule, and to his delight, Worf allows the engineers to proceed at their own discretion. However, O'Brien interrupts and curtly tells Stevens he has twelve hours to complete the repairs. After Stevens leaves, O'Brien sagely remarks to Worf, "You can give them a little slack, but you can't take your hands off the reins."
+
+In Ops, a recovering Sisko finishes a meeting with Kira in his office and then asks if she would like to accompany him to a baseball game in the holosuites. Kira gladly accepts, and he tosses her a baseball cap to wear for the game.
+
+
+=== Log entries ===
+Ship's log, USS Defiant (NX-74205)
+
+
+== Memorable quotes ==
+"The captain's gotten us out of tougher spots than this. Last year, when the Romulans tried to invade the Founders' homeworld, we went up against a dozen Jem'Hadar ships."
+"I know, chief. You've told me the story."
+"Yeah? Well unless you want to hear it again, you'd better get down to the torpedo bay and start working on those probes!"
+
+- Chief O'Brien and Stevens
+
+"You are despicable!"
+"I hate the Gamma Quadrant."
+
+- Hanok and Quark
+
+"I'll do my best."
+"I expect nothing less."
+
+- Stevens and Worf
+
+"We sell these torpedoes to the Jem'Hadar."
+"I thought you said you'd never sold substandard merchandise... It was supposed to explode on impact, wasn't it?"
+"Maybe I should offer them a refund!"
+
+- Hanok and Quark
+
+"This can't happen! You can't die! You're the Emissary. There's still so much for you to do!
+
+- Kira, to Sisko
+
+"It's very important that you listen to me... because there's going to be a test later."
+
+- Kira, attempting to keep Sisko conscious
+
+"If you cannot carry out my orders, I will find someone who can."
+
+- Worf
+
+"I think we have a winner."
+
+- Quark to Hanok, after removing the diode to deactivate the warhead
+
+"You can get the hot dogs from Quark."
+"Hot dogs?!"
+
+- Sisko to Kira, who seems shocked about warming up dogs
+
+
+== Background information ==
+
+
+=== Story and script ===
+This episode is an adaptation of classic submarine thrillers, such as the 1981 Wolfgang Petersen film Das Boot. Writer David Mack specifically told his writing partner, John J. Ordover, that he wanted to "sink the Defiant," having seen Das Boot the previous evening. (Star Trek: Deep Space Nine Companion, p. 282)
+The original concept for this episode had the Defiant plunging into a sea of an alien planet, with the crew attempting to escape before the ship's structural integrity field failed and the ship is crushed underwater. As David Mack summarizes the idea, "It was sort of The Poseidon Adventure, with the crew trapped and trying to get out before the ship runs out of power." This concept involved Odo diving into the water and seeping into the ship through a damaged part of the hull to lend assistance. Due to budgetary limits, however, this underwater concept was eliminated, and the story was rewritten to have the Defiant sinking into a gas giant. Mack was extremely disappointed to lose the Odo rescue scene, as he felt it could have made for a tremendous shot; "We had an idea for a great visual with the water seeping through a cracked bulkhead and then this gold viscous fluid flowing with it, then Odo just stands up and reforms out of the water. We thought it would have been the coolest thing to ever come down the pike." (Star Trek: Deep Space Nine Companion, pp. 282-283). Star Trek: Voyager somewhat used the story idea in the episode "Thirty Days" where the Delta Flyer was sunk in water, albeit not damaged.
+Ironically, Mack and Ordover originally thought of the episode as a bottle show, but when producer Steve Oster read their teleplay, he responded by saying "It's a wonderful script and when you make the movie, I'd love to see it." (Star Trek: Deep Space Nine Companion, p. 282)
+Altering the concept from the Defiant sinking in an ocean to the Defiant filling with gas wasn't seen as an entirely successful move by everyone. René Echevarria, for example, points out, "shutting a hatch against an incoming rush of water is straight out of a submarine movie, but when we tried to do the classic scene with gas instead of water, it was hard to translate. It could have been a set piece viewers would never forget. Shutting the hatch and killing your own people! We did the best we could, but there was no tension." Similarly, for the duration of season four, Ira Steven Behr had a running joke where he would say, "we could still do that submarine movie, and we could do it right this time." (Star Trek: Deep Space Nine Companion, pp. 283-284)
+Jupiter and Neptune were used as real life influences for the gas giant. (Star Trek: Deep Space Nine Companion, p. 283)
+As with the B-story of "Hippocratic Oath", the "engineering story" of "Starship Down" was created specifically to show Worf's attempts to integrate into the new environment of DS9. According to director Alexander Singer, "It was terribly important to the series that we make him more accessible as a character than he had been on TNG. This was a different view of Worf. Suddenly he had to deal with the psychology of Human behavior at a level to which he was unaccustomed. (Star Trek: Deep Space Nine Companion, p. 284)
+
+
+=== Production ===
+
+This episode was one of the first Star Trek episodes to use extensive CGI. The Defiant, the Jem'Hadar fighter, the atmospheric probe and the clouds were all created in a computer by VisionArt Design & Animation artists Daniel Kramer, Carl Hooper, Pete Shinners, Rob Bredow, and Ben Hawkins. [1],[2](X)
+According to the call sheet, the first day of filming for this episode took place on Tuesday 12 September 1995 on Paramount Stage 17 (Quark's) and 18 (mess hall).
+
+
+=== Reception ===
+Armin Shimerman commented ""Starship Down" was a personal favorite. One, because I got to work with an old friend, James Cromwell. At that point, I hadn't seen Babe, I had no idea what he had done in Babe, I just knew him from the Shakespeare we had done together. Working with Jamie was just a sheer delight". Shimerman's second reason for liking the episode was that "it was an opportunity to really open up and describe Quark's attitude towards life, which is that life is to be lived, to have a good time, to take a risk, because when you do that you're really alive. I had a great time with that". (Star Trek: Deep Space Nine - The Official Poster Magazine, issue #7 (page number? • edit))
+John Ordover commented that he and David Mack were "both extremely happy with the final product. It was always the intention to make it an 'ensemble' piece. It's always better if everybody has something to do. We weren't on set when the episode was being made – Dave and I live in NYC, and the show is filmed in LA. I did chat with Alexander Siddig a bit how he felt about doing the episode, and he loved it – he got to cuddle Terry Farrell for days!" (Star Trek: Deep Space Nine - The Official Poster Magazine, issue #7 (page number? • edit))
+James Cromwell enjoyed his single appearance on Star Trek: Deep Space Nine, commenting that the series had "truly intriguing characters". ("James Cromwell: Bringing a Legend to Life", Star Trek: Communicator issue 111 (page number? • edit))
+
+
+=== Continuity and trivia ===
+Cirroc Lofton (Jake Sisko) does not appear in this episode.
+Kira's suggestion of setting up a four-shift crew rotation on Deep Space 9 was later put into effect in "Accession".
+James Cromwell had previously appeared twice on TNG, playing Nayrok in "The Hunted" and Jaglom Shrek in "Birthright, Part I" and "Birthright, Part II". He went on to play Zefram Cochrane in Star Trek: First Contact and in the pilot episode of Star Trek: Enterprise, "Broken Bow". He also appeared as the mirror universe version of Zefram Cochrane in ENT: "In A Mirror, Darkly", though only in archive footage taken from First Contact, and as a hologram version of Zefram Cochrane in LD: "Grounded". This is Cromwell's first and only appearance in DS9 and his last credited appearance in a Star Trek television series, since both of his appearances in Enterprise were uncredited.
+The A-story bears a close resemblance to that of the Star Trek: The Next Generation episode "Disaster", in which the main characters were all seen dealing with various different situations aboard the stricken USS Enterprise-D, as happens on the Defiant in this episode. In the same episode, Riker says that everyone on the bridge is likely dead. But in fact, O'Brien was among the few officers alive on the bridge. Then in this episode, O'Brien is the one who says the bridge crew is likely dead.
+The Homestead Grays baseball cap worn by Nana Visitor was sold off on the It's A Wrap! sale and auction on eBay. [3](X) Sisko previously wore a Homestead Grays cap when teaching the concepts of baseball to the Prophets in DS9: "Emissary".
+
+
+=== Remastered version ===
+Remastered footage from the episode is featured in the documentary What We Left Behind.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 4.4, 22 April 1996
+This volume reverses the order for this and "Little Green Men"
+As part of the DS9 Season 4 DVD collection.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Captain Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Michael Dorn as Lt. Commander Worf
+Terry Farrell as Lt. Commander Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Alexander Siddig as Doctor Bashir
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+James Cromwell as Hanok
+F.J. Rio as Enrique Muniz
+Jay Baker as Stevens
+Sara Mornell as Carson
+
+
+=== Uncredited co-stars ===
+Michael Bailous as Starfleet ops crewman
+Faye Barge as Bajoran engineer
+Patrick Barnitt as Bajoran officer
+Scott Barry as Bajoran officer
+Ivor Bartels as Starfleet ops officer
+Patti Begley as Bajoran officer
+Ivy Borg as Rita Tannenbaum
+Brian Demonbreun as Starfleet command officer
+Scott DeRoy as Starfleet medical officer
+Jasmine Gagnier as Starfleet ops officer
+Anthony Giger as Starfleet command officer
+Natalie Graziano as Bajoran civilian
+Terry Green as Starfleet ops lieutenant
+Mark Lentry as Starfleet command lieutenant
+Ken Lesco as Starfleet command officer
+Shauna Lewis as Starfleet ops officer
+Mary Mascari as Bajoran civilian
+Bill Thomas Miller as Starfleet sciences officer
+James Minor as Starfleet ops officer
+Tom Morga as Janklow
+Robin Morselli as Bajoran command officer
+Denney Pierce as Starfleet sciences officer
+Dan Rose as Bajoran ops officer
+Chuck Shanks as Starfleet ops lieutenant
+Mark Allen Shepherd as Morn
+Unknown performers as
+Alien bar patron
+Bajoran civilian
+Bajoran ops officer
+Female Defiant sciences officer
+Female Starfleet sciences officer
+Starfleet sciences officer
+Two Pakled
+
+
+=== Stunt doubles ===
+John Lendale Bennett as stunt double for Avery Brooks
+Brennan Dyson as stunt double for Michael Dorn
+Leslie Hoffman as stunt double for Sara Mornell
+J. Suzanne Rampe as stunt double for Nana Visitor
+
+
+=== Photo doubles ===
+Unknown actress – photo double for Terry Farrell
+Unknown actress – hand double for Nana Visitor
+
+
+=== Stand-ins ===
+Ivor Bartels – stand-in for Alexander Siddig
+John Lendale Bennett – stand-in for Avery Brooks
+Randy James – stand-in for Colm Meaney
+Mark Lentry – stand-in for Rene Auberjonois
+David B. Levinson – stand-in for Armin Shimerman
+James Minor – stand-in for Michael Dorn
+Robin Morselli – utility stand-in
+Lisa Tichenor – stand-in for Nana Visitor
+Tyler – stand-in for Terry Farrell
+
+
+=== References ===
+2370; active-scan navigation; atmospheric entry; Badlands; Bajorans; Bajoran capital; Bajoran language; barter; baseball; Battle of the Omarion Nebula; Bolian; Bolian currency; Boyce; bridge systems; buffer time; Cardassian; Changeling; Class J gas giant (unnamed); Changeling; coma; concussion; dabo; darts; Defiant class decks; deflector dish; design schematic; Dominion; dozen; dualitic inverter; echolocation; Emissary of the Prophets; expression; fast; Federation; Ferengi; Ferengi vessels; field generator; fluorine; Founders' homeworld; Gamma Quadrant; gas giant; GSC; Ha'mara; herder; holosuite; Homestead Grays; hot dog; hull breach; income; infiltrator; intermediary; inventory; Jefferies tube; Jem'Hadar; Jem'Hadar warship (unnamed); Jem'Hadar torpedo; Jo'Kala; Karemma; Karemma (planet); Karemma Commerce Ministry; Karemma ship; Karemma transport; Karemman fleece; Karemman Ministry of Trade; kava root; kava farmer; kilometer; kilometers per hour; latinum; meter; minister; moon (unnamed); Morn's siblings; Occupation of Bajor; ODN relay; Peterson; phaser emitter; phaser generator; Pike City Pioneers; port; power grid; probe casing; quantum torpedo; Quark's; raw material; Rom; Romulan; runabout; scanning range; sensor range; shift rotation; Starfleet Academy; star (unnamed); star system (unnamed); structural integrity field; surcharge; Tarkaleans; Tarkalean sheep; tariff; tetryon; thermal layer; torpedo bay; turbolift shaft; weapons drill; Yridian
+
+
+==== Script references ====
+Bolian Credit Exchange; Yridian Symphony
+
+
+=== External links ===
+"Starship Down" at Memory Beta, the wiki for licensed Star Trek works
+"Starship Down" at Wikipedia
+"Starship Down" at MissionLogPodcast.com
+"Starship Down" script at Star Trek Minutiae
+"Starship Down" at the Internet Movie Database

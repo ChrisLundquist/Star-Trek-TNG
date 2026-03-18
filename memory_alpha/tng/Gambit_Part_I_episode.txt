@@ -1,0 +1,219 @@
+While investigating Picard's apparent death, Riker is captured by pirates pillaging Romulan archaeological sites.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Commander Riker, Dr. Crusher, Counselor Troi, and Lieutenant Worf investigate Captain Picard's whereabouts in a musty bar on Dessica II, describing him as a "smooth-headed" Human. They find Yranac, a Yridian criminal sitting at a table in the bar who knows something – after the group promises him safe passage on their starship, he admits to seeing Picard the day before, asking a group of aliens questions about archaeological artifacts. Crusher's tricorder scans confirm Starfleet fiber traces and Human cellular debris exposed to some kind of high energy field, and faint traces of micro-crystalline damage in the floor material. Yranac tells Riker that he was not finished talking and continues his story. He explains that a fight broke out and Picard was vaporized by a weapon. Troi empathically confirms that Yranac is telling the truth.
+
+
+=== Act One ===
+Most of the USS Enterprise-D crew accept Picard's death, and plan on attending a memorial service arranged by Troi. However, Riker refuses to attend the service, and is instead focused on finding out who murdered Captain Picard. Troi believes that Riker should give the eulogy but he refuses, believing that either she or Crusher, who knew Picard the longest, should instead. Troi tells Riker that the crew should face up to what has happened. Riker is in command now and the crew looks to him for guidance. Troi notes that a memorial provides a sense of completion and starts the healing process. Riker tells her he will not be giving the eulogy because he will not be at the service. Troi begins to admonish him but an angry Riker cuts her off and says that he does not want to heal. He points at his chest and tells her that he has a wound there. He does not want it to get better and he does not want to pretend that everything is all right. Troi knows that Riker is angry and he raises his voice and informs her that "damn right," he is angry. Riker says he will stay that way until he finds whoever's responsible for Picard's death. Troi finally gets angry as well and says that he is acting very selfishly. She angrily tells him he is not the only one in pain, does not have the monopoly on loss, and that the entire crew is hurting. She continues to berate him, saying that he has a responsibility to the crew. Riker finally pulls rank on her. As Troi turns to leave, Riker offers a heartfelt apology. He assures her he is not concerned about revenge, only justice. Picard died in a bar fight for nothing and someone has to answer for that. Once that is achieved, then he can mourn the loss.
+In the captain's ready room, Vice Admiral Chekote from Starbase 227 offers his condolences to the commander and questions his request to delay a mission to the Argus sector. Riker asks the admiral for permission to investigate Picard's death on the basis that he lacks confidence with the authorities on Dessica II – one of whom is known to be corrupt. Admiral Chekote agrees with Riker but asks if he is capable of pursuing this matter. Riker answers that the captain's death hit him pretty hard. He confesses that while he may not be completely objective, he states that he is determined to find those responsible and will not rest until he does. Satisfied, Admiral Chekote grants his request by placing the Enterprise on detached duty and wishes him luck in his investigation.
+Riker interrogates Yranac in his assigned quarters. When the Yridian asks for an Enterprise shuttle in exchange for further information, Riker throws him against the wall and threatens to turn him over to the Klingon Empire due to his having twelve outstanding warrants for fraud and petty theft. This threat suddenly makes Yranac cooperative and he suggests instead that he be taken to a Federation rehabilitation colony. Riker demands he start talking. Yranac tells Riker that those who killed Picard mentioned they were heading for the Barradas system. Riker taps his combadge and orders that Data set a course for the system at warp 6.
+
+
+=== Act Two ===
+
+The crew arrives at the system's only class M planet, Barradas III, which happens to also be home to a two thousand year-old Debrune archaeological site. Despite the planet being unpopulated, sensors detect energy signals emanating from the surface. Riker orders Worf to assign a security detail to the away team that he will lead, and assigns Geordi La Forge as well, leaving Data in command. Before leaving, Data questions Riker why he's leading the away team and reminds him if Picard was here, his place would be on the bridge and not leading the away team. Riker finishes his sentence and responds with "not this time…" and leaves the observation lounge. Riker is still very much driven by finding justice for their slain captain.
+
+After beaming down, the crew discovers that most of the artifacts have been stolen, and the ground has the same micro-crystalline damage that was found at the bar on Dessica II. While Riker, Worf, La Forge, Kellogg, and a few ensigns are exploring, a variety of humanoids ambush the away team, killing one ensign. La Forge tries to hail the Enterprise but the signal is being jammed somewhere on the surface, which is also causing interference preventing the away team from being transported out. After the away team exchange fire on the attackers, Riker suggests to Kellogg that they may be able to setup a crossfire if he were to move to a nearby field of trees. While in position, Riker is knocked down from a blast and the attacking party lay down suppression fire on the away team making them unable to retaliate and beaming off planet with a captured Commander Riker.
+
+
+=== Act Three ===
+La Forge briefs Data on the attack just as a mercenary ship appears on sensors readying to attack the Enterprise. Data raises shields and calls for red alert as the mercenary ship opens fire, doing no damage to their shields. The Enterprise pursues the mercenary ship but Ensign Giusti reports that the ship has faded off of their sensors, and has escaped. Data then orders the helmsman to return to the planet.
+In a briefing, Data informs the senior staff that Starfleet Intelligence has confirmed that a ship matching the mercenary vessel's configuration has been involved in many raids in this sector. The advantage they have is they are virtually undetectable by their long range sensors.
+Riker is taken aboard the mercenary ship, which is commanded by Arctus Baran. Riker finds that a neural servo has been implanted within his body which allows Baran to inflict severe pain on him. Everyone on the ship has similar devices implanted in their necks, which is how Baran controls his crew. As the crew argues over the ramifications of having a Starfleet officer onboard, a "smooth-headed" crew member demands that Riker be killed immediately. As he turns, Riker is shocked to see that it is Picard.
+
+
+=== Act Four ===
+Riker discovers that Picard is posing as a smuggler named Galen. Picard tells the crew that he is familiar with Riker – he is a Starfleet officer with a history of insubordination who was once even relieved of duty due to a "Cardassian incident at Minos Korva." Riker plays along, acting the part that Picard is describing. Picard then secretly manufactures an intermix chamber malfunction, giving Riker a chance to fix the malfunction and prove himself to Baran.
+
+At Barradas III, La Forge thinks the micro-crystalline patterns found could be left over from a high-energy transporter beam. Data connects the artifacts' value to the Romulans, since the Debrune are related to them, the leader of the attack party was Romulan, and the ruins on the planet Picard was killed also related. They identify Calder II as the likely next target, which also has a small Federation science outpost.
+Later, Picard visits Riker in his quarters and reveals that he went to study an archaeological site on Dessica II, only to find that it had been ransacked. Tracing those responsible to a bar, Picard confronted them, but was captured and taken prisoner. Picard explains that the criminals have configured some of their weapons so that if they shot someone or something, it activates the transporter and beams them away – which is why the people in the bar thought he'd been vaporized when shot. Picard reveals that they are looking for specific ancient artifacts of Romulan origin, and that Baran is having Picard search through the relics they've stolen for these specific artifacts.
+Picard asks Riker to help him infiltrate the crew of the mercenary ship. As Picard and Baran had never gotten along very well, Picard asks Riker to befriend Baran to help learn more about his plans. Picard also asks Riker to play into the role of a less than perfect, insubordinate Starfleet officer who is ready to betray the Federation. When Baran suddenly enters the quarters, Picard backhands Riker and he falls to the floor. Picard tells Baran that he was interrogating Riker for information that he couldn't get from him. Baran forcefully insists to "Galen" that he is to be informed when any interrogations are being conducted on his ship by activating the neural servo on Picard's neck. After recovering from the shock, Picard leaves and kicks Riker in the back while on his way out.
+
+
+=== Act Five ===
+The mercenaries travel to Calder II in order to obtain more artifacts from a Sakethan burial mound, despite the fact that the planet is also home to a Federation science station. Picard convinces Baran to use Riker to gain access to the planet in order to avoid a battle. Baran agrees with Picard's plan, but wants the ship prepared for battle in case it fails.
+In a cargo hold, Picard is analyzing lot number 478-B of archaeological items for Baran. He is scanning the items one by one as Tallera, a Romulan, enters. She tells him that Baran believes he is moving much too slowly in regards to his analysis of the last lot of items. Picard snaps back that if Baran wants the analysis done more quickly, he should do it himself. If he wants it done correctly, he should let Picard do it his own way. Tallera asks if he enjoys living dangerously, as Baran could kill him swiftly by activating his control device. Picard doubts that, as he has increased the identification process by a factor of ten and is the best person on the ship to analyze the artifacts. Picard says he does not like operating in the dark and wishes to know why he is scanning these archaeological relics. Tallera says that if Baran believed it were necessary to inform the crew of the reason why, he would have already. Picard wonders if she knows why and Tallera says that what Baran knows is what she knows as well. Picard wants to understand why they are risking their lives stealing artifacts and who wants them. Tallera sees no reason to tell him but assures Picard that she does not share everything with Baran either. When she promises that this conversation will stay between them, Picard tells her he does not care if Baran hears it, as he knows full well what he thinks of him as a leader and that he would not last five minutes in command without his control device. He sees that Baran's power is based on fear and intimidation. Tallera sees this as a prelude to mutiny. Picard believes that if someone were to challenge Baran's command, the rest of the crew would follow. Tallera tells Picard that she likes him and can tolerate someone like him – only to a point. She tells him that she will complete their mission and get what she is promised. If Picard stands in her way, she will deal with him herself.
+On the mercenary ship's bridge, Riker is unable to convince the outpost's Lieutenant Sanders to drop their deflector shield without proper authorization from the Federation Science Council. Before Baran can order the outpost destroyed, Picard configures the disruptors to fire a phase-resonant pulse at the precise frequency to disable the outpost's shields with one shot. With the shields down, the mercenaries begin beaming the artifacts from the planet, getting all but two before the outpost re-raises their shields. Just as Baran orders the outpost destroyed, their ship is hit by phaser fire from the just-arrived Enterprise.
+
+Baran threatens to kill Riker unless he orders the Enterprise to retreat. Riker hails the ship and orders Acting Captain Data to disengage. Then, Riker attempts to use his access codes to bring down the Enterprise's shields, knowing that his codes would have been immediately changed upon his capture. Data understands the ruse, and orders that the shields be dropped, despite Worf's objections. As soon as the shields drop, Picard opens fire, and a disrupter blast strikes the Enterprise's starboard warp nacelle, seemingly crippling it.
+TO BE CONTINUED…
+
+
+== Memorable quotes ==
+"My friend tells me you know something about the man we're looking for."
+"The only reason I'm talking to you is that I have a sister too."
+(Riker looks questioningly at Worf)
+"I explained to him that we are looking for a man who impregnated your sister."
+(Riker nods)
+"So you can imagine how much this means to me."
+
+- Riker, Yranac, and Worf
+
+"I think you've had a little too much to drink. You better leave. On your way, Yranac."
+(Crusher pulls a phaser on the bartender)
+"I'm sorry, but I think he wants to stay. Sit down.'"
+"That's my sister. She's angry. She's got a vicious temper. I wouldn't cross her."
+
+- The alien bartender, Crusher, and Riker
+
+"You'll like this. The man got what was coming to him. When they knocked him down, one of them took out a weapon and fired. He was vaporized!"
+"He's telling the truth."
+
+- Yranac, talking about Picard's "fate" while Troi confirms his story
+
+"Deanna, I'm sorry. This is not about revenge. This is about justice. The captain died in a bar fight for nothing. Somebody has to answer for that. Then, I can mourn."
+
+- Riker apologizing to Troi
+
+"I read your report, Commander. My condolences to you and to your crew. Captain Picard's death is a loss to the entire Federation."
+
+- Chekote, to Riker
+
+"If Captain Picard were here…"
+"He's not."
+"I realize that, sir. But if he were and he wanted to lead an away team, you would tell him that the captain's place…"
+"…is on the bridge. Not this time."
+
+- Data, questioning Riker's decision to accompany the away team to Barradas III
+
+"Oh, don't bother, Commander, you can't remove it. It's a neural servo connected directly to your nervous system. This setting is usually sufficient. However, if necessary, it can go much higher…
+(Riker screams in pain)
+"These devices were the idea of my predecessor. It's a convenient way of enforcing discipline."
+"What happened to him?"
+"He failed to enforce it with me."
+
+- Baran and Riker
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 26 July 1993 [1]
+Premiere airdate: 11 October 1993
+First UK airdate: 31 January 1996
+
+
+=== Story and script ===
+
+"Gambit" grew out of a spec script submitted by Christopher Hatton back in the sixth season. The story broke one of Gene Roddenberry's long-standing Star Trek taboos – specifically, that there would be no such thing as space pirates. Although initially skeptical, Michael Piller and Jeri Taylor later returned to Hatton's story as it provided an opportunity for a "less talky romp". Rick Berman, aware of the taboo but willing to consider the proposal, tied a red bandana around the bust of Gene Roddenberry on his desk while discussing the story. He explained, "I just blindfolded it as a joke one day. Whenever they come up with a story I don't think Gene would like I blindfold him when we discuss the story…I take it on and off, depending on who's in here." (Star Trek: The Next Generation Companion, 2nd ed., p. 265)
+Hatton's original script followed Picard's point of view and did not involve Riker. (Star Trek: The Next Generation Companion, 2nd ed., p. 265) Hatton would provide the story to another episode this season, "Thine Own Self".
+Naren Shankar observed, "We say we'll never do the 'rodeo' show and "A Fistful of Datas" comes along." Shankar was unsure whether the story would work expanded into two parts. "To me, it's one of the classic television problems: if you start off the show by saying the captain's dead, no one's buying it…and you're just marking time until the captain's revealed." (Star Trek: The Next Generation Companion, 2nd ed., p. 265)
+Shankar's original idea for the Vulcan Isolationist Movement involved them planning to literally phase Vulcan out of the universe to avoid cultural contamination from other species. "Everyone was afraid it was going to be like a Space: 1999 episode. The notion was to dimensionally shift the planet so you couldn't get to them. In that sense, it would be pure isolation. I still think that's a cool idea. Nobody else does, however." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 292)
+Brannon Braga was one of the story's opponents. "When the story was purchased, I was not attracted to the campy, swashbuckling elements and was afraid it would just look very corny. I don't think we do campiness very well – especially in the way we tried to do it with 'Gambit.' It came off like Buck Rogers: The Series and why do that? Is that good? We try many different mediums. I was curious as to why we were involving ourselves in a medium that is not usually a respected one." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 292)
+
+
+=== Production ===
+The bridge of Arctus Baran's ship is a massive redress of the USS Enterprise-D's battle bridge, with the most notable elements remaining from the original set being the viewscreen and the ceiling. Also, the chairs on the command center were taken from the bridge of the USS Enterprise-A from Star Trek V: The Final Frontier and Star Trek VI: The Undiscovered Country.
+The mercenary vessel's bridge is later redressed as the bridge of the USS Pasteur in "All Good Things...". One of the central consoles was a stock set element that also appeared in "All Good Things…" when the Romulan Commander Tomalak leans over it to address Picard through the viewscreen.
+This episode contains the longest phaser fight shown on screen, with over seventy shots. According to the Star Trek: The Next Generation Companion, 2nd ed., pp. 265-266, all explosions were done in post-production due to a fire season ban on live explosives on location at Griffith Park's Cedar Grove. Likewise, all damage stains on rocks were done digitally.
+The large "vest" worn by the alien bartender on Dessica II was later reused as Maquis fatigues worn by Ayala in the Star Trek: Voyager episodes "Caretaker" and "Repression".
+
+
+=== Cast and characters ===
+
+On casting Richard Lynch as Arctus Baran, Jeri Taylor commented, "Richard was simply the best person who read for the part. Peter Lauritson who directed the first episode, knew his work, liked him, and really wanted him. It's always a problem to find worthy adversaries for Picard. You need an actor who has the power, stature, and presence to go toe to toe with him and if you don't have that, you don't have an episode. Richard brought all of this and for his campiness and the sort of stereotypical things he has done, he has that undeniable power and I thought it was a good trade." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 292)
+Robin Curtis (Tallera) previously played Lieutenant Saavik in Star Trek III: The Search for Spock and Star Trek IV: The Voyage Home.
+Sabrina LeBeauf (Ensign Giusti) is best known for her role as Sondra Huxtable in The Cosby Show. Her character was named for a friend of Naren Shankar. Director Peter Lauritson recalled, "Sabrina was a fan, and though she's a professional, I think sitting down at the controls of the Enterprise kinda unnerved her a bit, but she picked it up and did fine." (Star Trek: The Next Generation Companion, 2nd ed., p. 265)
+Bruce Gray previously played Chekote in the Star Trek: Deep Space Nine episode "The Circle", which aired only six days before this one (it originally aired on 3 October 1993).
+Caitlin Brown previously played Ty Kajada in DS9: "The Passenger".
+
+
+=== Continuity ===
+The Star Trek: The Next Generation Companion, 2nd ed., p. 266 notes that Picard may have chosen the name "Galen" in honor of his mentor, Professor Galen, who appeared in "The Chase".
+The alien race of the Debrune is mentioned as an "ancient offshoot of the Romulans." The Romulans are themselves an ancient offshoot of the Vulcans.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 78, April 1994
+In feature-length form, as part of the UK VHS release Star Trek: The Next Generation - The Full Length TV Movies: Volume 9, catalog number VHR 4109, 8 May 1995
+As part of the US video collection Star Trek - The Greatest Battles: 3 April 1997
+As part of the UK video collection Star Trek - Greatest Battles: 16 November 1998
+As part of the TNG Season 7 DVD collection
+In feature-length form, as part of the Star Trek: The Next Generation - The Complete TV Movies collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Richard Lynch as Arctus Baran
+Robin Curtis as Tallera
+Caitlin Brown as Vekor
+Cameron Thor as Narik
+Alan Altshuld as Yranac
+Bruce Gray as Chekote
+
+
+=== Co-stars ===
+Sabrina LeBeauf as Giusti
+Stephen Lee as Bartender
+Derek Webster as Sanders
+
+
+=== Uncredited co-stars ===
+Lena Banks as operations division ensign
+Eugenie Bondurant as female marauder
+Cameron as Kellogg
+Goldie Ann Gareza as command division officer
+Kerry Hoyt as operations division ensign
+Michael Moorehead as science division ensign
+Keith Rayve as command division ensign
+Lincoln Simonds as operations division officer
+M. Smith as Human marauder
+Unknown performers as
+Baran's mercenary ship Computer voice
+Andoran bar patron
+Boslic bar patron
+Command division ensign (voice)
+Corvallen bar patron
+Nausicaan bar patron
+Three alien bar patrons
+Transporter chief (voice)
+Tygarian bar patron
+
+
+=== Stunt double ===
+Mark Riccardi as stunt double for Jonathan Frakes
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner and Richard Lynch
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis and Robin Curtis
+Lorine Mendell – stand-in for Gates McFadden and Caitlin Brown
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+4th century; accelerate; alien; analysis; antimatter flow regulator; archaeological survey; Argus sector; away team; bar; bar; Baran, Arctus's species; Baran's mercenary ship; Barradas III; Barradas system; BC 011; Betazoid; Boslic; businesswoman; Calder II; Calder system; Cardassian; cell structure; cellular debris; class M; combadge; command code; compositional analysis; computer; court martial; day; death; Debrune; Dessica II; Dessican authorities; disruptor array; DNA; Draken IV; Draken system; energy sheath; eulogy; fraud; Federation; Federation Archaeological Survey; Federation Science Council; fictional
+sister; fraud; Galen; gold-pressed latinum (latinum); height; Hood, USS; hybrid; intermix chamber; Klingon; Klingon Empire; knife; lateral sensor array; leader; "long shot"; lot number; manual override; maximum warp; memorial service; mercenary; meter; Milky Way Galaxy; Minos Korva; money; month; murder; mutiny; Nafir; neural servo; outpost; particle signature; petty theft; phase-resonant pulse; phaser bank; photon torpedo; planet; plasma coupling; plasma flow converter; power converter; power shunt; pregnancy; psionic resonator; quarters; red alert; rehabilitation colony; remodulation sequence; Romulan; ruin; Sakethan; Sakethan burial mound; Sakethan glyph stone; scientific expedition; search team; Sector 2158; security personnel; sensor; shield generator; shuttlecraft; sister; smuggler; smuggling; Soong-type android; spectral analysis; Starbase 227; Starfleet; Starfleet Intelligence; Starfleet Operations; Starfleet uniform; Stone of Gol; thief; transporter lock; transporter room 2; type 4 deflector shield; Vekor's species; Vulcan; warrant; Yadalla Prime; Yonada Prime; Yonada Prime system; Yarnac's sister; Yridia I; Yridian; Zoraster II
+
+
+=== External links ===
+"Gambit" at Memory Beta, the wiki for licensed Star Trek works
+"Gambit" at Wikipedia
+"Gambit" at MissionLogPodcast.com
+"Gambit, Part I" script at Star Trek Minutiae
+"Gambit, Part I" at the Internet Movie Database

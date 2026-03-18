@@ -1,0 +1,195 @@
+With Columbia's help, the Enterprise crew grapples with sabotage to their ship as they pursue the truth behind the kidnapping of Phlox. (Part 2 of 2)
+
+
+== Summary ==
+
+
+=== Teaser ===
+With 47 minutes to a potential reactor breach on Enterprise NX-01, Archer forms a plan which involves freeing Reed from the ship's brig. Thirty minutes from a rendezvous with Columbia NX-02, Archer tells Reed that they have to bring over Tucker while at warp; as the transporter won't operate at warp, Tucker had informed Archer that Reed has had experience doing this. As the Klingon watches, Reed explains that he transferred personnel as training exercises at warp one and after every move was rehearsed for several weeks in simulations, but they have little choice. T'Pol is already working on calculations to merge the warp fields of both Enterprise and Columbia, but the ships have to be less than fifty meters apart. Archer says that Ensign Mayweather can handle the flying, so long as Reed can bring Tucker safely aboard. Reed muses that Archer will have to let him out of the brig.
+
+
+=== Act One ===
+As Tucker says he's ready to go, Captain Hernandez contacts Enterprise, as the ship has matched Enterprise's speed and trajectory. Reed is in Launch Bay 1 on Enterprise, and tells Archer that Columbia can start their rotation; Columbia spins 180 degrees and increases speed to be belly-to-belly with Enterprise. With the Columbia nearing final position, Archer tells his crew to brace for warp field contact. The two ships shake momentarily, and Reed tells Mayweather to hold the ship steady, or "Chef'll know who to blame for the mess in the galley". T'Pol heads to engineering to prepare everything for Tucker. Reed fires a tether across to the ceiling of Columbia's launch bay, and after clipping his EV suit to the cable Tucker begins his trip over. As T'Pol detects a fluctuation in the warp field, Mayweather begins to have trouble maintaining their distance from Columbia as Enterprise slowly starts to drift away. Tucker asks what is happening, but Reed tells him he's doing fine, before realizing that the tether is reaching its limit and that he has to hurry up. T'Pol is unsuccessful in stabilizing the warp field by diverting power to it, and Tucker is released from the tether just before Reed pulls him clear. Immediately after, the entire tether assembly is ripped out of the ceiling, clears the launch bay doors and is lost to space.
+Tucker can think of only one way to fix the warp engines: a cold start. Shutting down the engine will reset the algorithms, and when it restarts, the subroutines will be back to normal. Archer points out the flaw – but Tucker says that Enterprise will have to enter Columbia's warp field. They will only have a minute or two, but Tucker has thought of a shortcut. Instead of decrypting the subroutines – which would take hours – Tucker suggests purging them completely.
+Heading for engineering, Tucker notes the two MACOs outside the launch bay. Reed says he has had a slight misunderstanding with the captain, and assures he'll fill in Tucker at a better time before heading back to the brig much to Trip's confusion.
+Gathering all the stats on the engines, Tucker notes that someone "hasn't taken very good care of [them]". T'Pol suggests he "speak(s) with the Klingons". Tucker tells the science officer to take note: he is about to perform a manual shutdown and restart in less than two minutes. T'Pol declares that it's not possible. "Watch me", he replies.
+Hernandez contacts Enterprise, and informs them that they've routed everything they can to the warp field, but asks Archer to make it quick. Archer gives Tucker the go-ahead and the engineer performs the shutdown procedure. As soon as the nacelles power down, Tucker sets the engineering crew to work. Hernandez tells them they have less than a minute. With mere seconds to go, the warp engines spark into life and the extended warp field collapses, but Enterprise is warp-capable again. Tucker asks that Enterprise drops to impulse, so he can look things over. Archer asks Hernandez and Columbia to stick around for a while.
+Back on Qu'Vat Colony, Doctor Antaak finds Phlox in his cell, who has been brutally handled by the general and his men. Phlox tells Antaak to "end it", and contact Starfleet, as he refuses to create Klingon Augments, "living weapons", as he puts it. Antaak however has been looking over Phlox' research, and has found a weakness in the virus. Phlox notes that he's right, but K'Vagh wouldn't get his Augments, and would therefore refuse the doctor's treatment. Antaak thinks they should do it without telling the general, who will eventually find out, but Antaak notes that saving millions of innocent lives would give them both a more honorable death.
+
+
+=== Act Two ===
+"Captain's Starlog, supplemental. I've asked Columbia to join us in our search for Phlox. We'll have a better chance of making it through Klingon territory with twice the firepower."
+Reed is taken, rather forcefully, to his quarters where Archer is awaiting him. On his screen is a picture of Harris, and Reed complains that Archer has gone through his personal files. Archer has used the database to identify Harris, who worked in Starfleet Security until 2149. Reed says there is nothing more to add, but Archer replies that that is unacceptable, as Reed has put every member of the crew at risk. Saying he is only following orders, Archer retorts that he'll go to Starfleet and blow open the whole conspiracy if he has to. As Reed doesn't know any more, Archer tells him to contact Harris, so he can find out himself.
+Antaak and Phlox are comparing family histories, and Antaak sees that Denobulan mating practices must be "very complex". Phlox asks the Klingon about his family, and the older man replies that his own father disowned him when he became a healer. He then blames himself for the Augment virus, and Phlox is there ultimately because of his failure.
+The Bird-of-Prey with the Klingon Augments aboard it arrives back at the colony, and Laneth reports that the Enterprise was destroyed, and Starfleet will believe it to be a catastrophic engine failure. K'Vagh sees that one of them is missing: his son. Laneth says that he was killed by the Humans, and it was therefore without honor.
+K'Vagh checks up on the two doctors, who report excellent progress. Phlox claims to have found the "switch" that will "turn off" the virus; he will have it within the hour. K'Vagh contacts Krell, who tells him that his project has been shut down by the Klingon High Council. K'Vagh argues that all their research will be lost if the colony is destroyed, so Krell gives them three days, or Qu'Vat will be destroyed.
+On Enterprise, Tucker says he'll help out a little in engineering – more specifically, help the vessel's new chief engineer, Kelby. He then asks why Reed is in the brig, but Archer says he can't go into it for the moment. Tucker decides to head back to Columbia, and T'Pol offers to walk him down. On the way in a corridor, T'Pol asks him if Tucker is having any problems, specifically with sleep but he says that he's fine. He asks if she is sleeping well and she awkwardly replies that she is and then promptly leaves him.
+K'Vagh returns to the lab and tells Phlox they are running out of time and the Denobulan asks how K'Vagh's son contracted the virus. The Klingon reveals that they tested the virus on prisoners first, and when they had none left, Command chose a unit to be experimented on – the unit in which his son belonged. As his son asked for no special treatment, he was given none by K'Vagh.
+Reed is tucking into his small dinner in the brig, but Marab, the Klingon next door to him, refuses to eat his meal, objecting by throwing his tray against the wall. Reed questions the Klingon need to fight, but he replies that anyone questioning that need would be imprisoned, if not killed. As Reed notes that that's not the way things are done in Starfleet, Marab believes that the Klingon Empire will defeat them because of it. Reed however, notes that the Klingon is sharing the same brig as he is.
+Laneth and her shipmates are all becoming weak as a result of the virus, and that they'll stay together – as comrades – until they die. K'Vagh tells them that Phlox is working on a cure and they will all be healthy again. Laneth wonders if their appearances will be the same – otherwise they will be outcasts as other Klingons won't accept them for the way they are. She also tells the general that she felt fear in the battle with Enterprise for the first time since she was a child, and thinks they are all becoming weak like the Humans. K'Vagh assures them that he will not let the Empire turn their back on them as long as he is alive.
+Archer is sitting in his quarters with Porthos, who is "missing Phlox" as well – and undoubtedly, his "stash of cheese". His line of thought is broken as Harris contacts him through his desktop monitor, telling him that Phlox is on a mission of great importance to Starfleet. As they would never allow the kidnapping of one of its personnel, Harris directs Archer to Article 14, Section 31 of the Starfleet Charter. Archer guesses the Klingons are involved, but Harris insists they talk about Reed, who has done some good work for them over the years. Archer informs Harris that Reed was put into an impossible situation, but Harris replies there's more to it than just one captain and one ship. If Phlox is stopped from completing his mission, the repercussions will affect entire worlds.
+Phlox holds four strains, one of which has the genetic trigger to stop the virus before it becomes lethal; unfortunately, he doesn't know which one. He will need a week to check, but as Krell won't extend his deadline, Phlox must infect four healthy Klingons. K'Vagh, Antaak and two guards are in the room, so the general advises Phlox to infect them instead.
+In Archer's ready room, Reed is explaining to the captain why he joined Section 31 as a young ensign. He hasn't done any other work for them since before joining Enterprise. Archer shows him the medical scans of Marab, and thinks that it is a military experiment that went wrong. Harris also claimed that a cure needed to be found in order to create a more stable Empire for Starfleet to deal with. Reed confesses that he wanted to tell Archer everything, so the captain tells him to decide where his loyalties lie. Although Reed doesn't know where Phlox was taken, Starfleet Intelligence knows that there is a genetic research facility on Qu'Vat Colony, and that is a good place to start.
+
+
+=== Act Three ===
+Archer reinstates Reed, who returns to the bridge much to the surprise of the bridge crew. Enterprise is six hours from Qu'Vat Colony, and Reed recommends that Columbia withdraws to a safer distance so that Klingon patrols don't have a single target.
+Phlox asks K'Vagh why he chose to pursue the Augment project, when Soong failed. The general replies that Soong's only mistake was making only a few Augments, and that Klingons have discipline – although Phlox points out that Augments don't. Preparing the final strain, Phlox injects K'Vagh with it, and the general asks if bloodwine would affect the results. Phlox doesn't believe so, and the Klingons begin to drink. K'Vagh offers him some but Phlox refuses, saying he never imbibes while on the job.
+Archer is interrogating Marab in sickbay, who is becoming ill like his shipmates. Remaining defiant, Archer tells him that if he won't help them, he can at least help his own people. Marab agrees.
+Phlox is taking scans of Laneth, who has become bed-ridden when Antaak enters, saying that the guards are displaying the first symptoms of the virus. Phlox also scans Antaak, but the look on his face tells all: K'Vagh has the cure, and Antaak will die. Phlox assures Antaak that if they work quickly enough, he too can be cured.
+Krell is enjoying a bowl of gagh when Harris contacts him, saying that the Klingon failed to stop Enterprise or Columbia. Krell orders Harris to withdraw both ships, but as Harris has no authority to do that, Krell would rather destroy them. Harris reminds Krell of the arrangement and that it would benefit both Starfleet and the Empire, but Krell laughs it off, mocking Harris for believing him.
+As Antaak prepares to extract the cure from K'Vagh, Archer enters the room, phase-pistol at the ready. Marab enters behind him, to the astonished K'Vagh. Archer announces his intentions to retrieve Phlox, to which K'Vagh insists that the Klingons need him – at which point the doctor cuts both of them off, since he can speak for himself, and asks Archer for a few more hours to cure the virus. K'Vagh is furious that he will cure the virus rather than perfect the Augment genome as he'd promised, but with the captain there to back him up, Phlox informs the general that he was lying.
+Reed's sensors pick up the three Klingon warships in orbit, but communications to Columbia are jammed. On the surface, an alarm makes the Klingons aware the ships have arrived, and Archer has no luck contacting Enterprise. Krell informs that that the colony will be eradicated, against Archer's objections, claiming he has a "more effective solution". Phlox speaks directly to Krell, transmitting details of the anti-virus, but Krell says his orders are clear, claiming both Enterprise and Columbia as property of the Klingon Empire.
+
+
+=== Act Four ===
+Krell gives his tactical officer orders to proceed, and to leave nothing standing. His battle cruiser enters a lower orbit and begins to fire on the colony. Enterprise attempts to disable the enemy ship's disruptors, but is constantly drawn away by the two birds-of-prey. The Columbia arrives on scene, taking up a position behind the birds-of-prey, attempting to distract them while Enterprise disables the battle cruiser. Phlox says he will be able to finish creating the cure quickly if he has a Human host to replicate enough antibodies. Archer notices he is the only Human there, and knows the risks. Sitting down on the chair in the middle of the lab, Phlox straps him in.
+Columbia disables the engines on one of the Klingon ships as their shields begin to fail. Phlox informs Archer of the possible side effects he will get from being injected with the virus. On Enterprise, Sato manages to cut through the jamming signal, but as Archer isn't available, Phlox talks to them instead, asking them to protect the colony until his work is complete. T'Pol orders Mayweather to place the ship directly between the battle cruiser and the colony, and orders Reed to increase power to the hull plating. In the lab, K'Vagh looks on as ridges appear on Archer's forehead.
+The Klingon battle cruiser attempts to throw off Enterprise by shifting orbit, but the Starfleet ship stays with them. Finally breaking through the interference, T'Pol asks Hernandez for help, only to find that Columbia has lost its weapons. At Qu'Vat, Archer breaks free from his restraints, so K'Vagh holds him down while Phlox extracts the antibodies. During the process, Antaak has prepared a canister containing the virus, and sends it to Krell's ship, infecting its crew. On Enterprise, Reed notes that they can't hold their position for much longer.
+Phlox speaks to Krell, telling him the contents of the canister, but Krell believes he's lying. Phlox tells him to either check his internal sensors or wait half an hour – which is when the first symptoms will appear. Krell brands it a cowardly attack, but Phlox says that if the cure is destroyed now, he too will die from the virus, unless he orders his ships to stand down. Reluctantly, Krell agrees.
+
+"Captain's Starlog, supplemental. Admiral Krell has convinced the High Council to call off their sterilization program. They've promised to distribute Phlox's cure throughout the Empire."
+
+Antaak is in Enterprise's sickbay, having been treated successfully. He complains that his targ won't be able to recognize him now that he has a smooth forehead, which he calls a disfigurement. Phlox tells him he did his best to correct all his mistakes, which is all he could ask of himself. As he realizes his superiors will most likely end his career as a geneticist, he will have to find a new specialty – maybe in cranial reconstruction, something Phlox believes will soon become very popular. As Phlox goes to check on the captain, Antaak stops him for a moment, and thanks him for all that he did.
+Archer is recovering, although he feels like having some gagh. Phlox says that his cranial ridges, along with his cravings for Klingon cuisine, will disappear within a few days, but Tucker says he should keep them – as he looks intimidating. Thanking Hernandez for her help, Archer thinks that at least one of them should do some exploring. Tucker says he will be staying around for a little while longer which, T'Pol muses, will make Kelby "delighted". Tucker reminds her it will only be temporary.
+Reed is in his quarters, quietly reading, when Harris contacts him, thanking him for his work. As the conversation progresses, Reed tells Harris never to contact him again, but Harris tells him that recruitment policy dictates that no one can just walk away. Reed's reply is simple, he answers to one man alone: Jonathan Archer. Cutting Harris off mid-sentence, Reed returns to his reading.
+
+
+== Memorable quotes ==
+"Hold her steady, Travis, or chef'll know who to blame for the mess in the galley."
+
+- Reed, to Mayweather, as Enterprise and Columbia travel at over warp 5 within fifty meters of each other
+
+"What're they here for?"
+"The captain and I have had a slight misunderstanding."
+"How slight?"
+"These gentlemen are here to escort me back to the brig."
+
+- Tucker and Reed, after Tucker's return to Enterprise
+
+"Do you understand what will happen if the general learns that we've deceived him?"
+"A cure would save millions of innocent lives. What more honorable death could there be for a healer – Klingon or Denobulan?"
+
+- Phlox and Antaak
+
+"Denobulan family units are different from Klingons."
+"Ah, yes, I've heard. Three wives for each husband – three husbands for each wife. Your mating practices must be very complex."
+"Wondrously so!"
+
+- Phlox and Antaak
+
+"What'd they give you?"
+"It's dead – I can't eat that! No wonder you're all so weak."
+
+- Reed and Marab, comparing meals in the brig
+
+"General Sun Tzu said that the greatest victories are those won without fighting."
+"The Great Kahless said there's no victory without combat."
+
+- Reed and Marab
+
+"Re-read the charter: Article 14, Section 31. There are a few lines that make allowances for bending the rules during times of extraordinary threat."
+"What threat?"
+"Take your pick. Earth's got a lot of enemies."
+
+- Harris and Archer
+
+"The ethics, Doctor, are simple – three lives to save millions."
+
+- General K'Vagh, to Phlox
+
+"I need a little more time to cure this plague."
+"Cure?! You were supposed to perfect the Augment genome!"
+"I lied."
+
+- Dr. Phlox and General K'Vagh
+
+"I suggest you power down your weapons, admiral, and let me cure your people."
+
+- Phlox, to Admiral Krell
+
+"I doubt my superiors will allow me to remain in my position. I'll need to find a new specialty – perhaps cranial reconstruction!"
+"I have a feeling that's about to become very popular."
+
+- Antaak and Phlox
+
+"I answer to one commanding officer: Jonathan Archer."
+
+- Reed, to Harris, before he terminates their communication
+
+
+== Background information ==
+This episode was directed by David Barrett, a first-time director on Enterprise.
+Wayne Grace previously played a Cardassian legate in the Star Trek: Deep Space Nine episode "Wrongs Darker Than Death or Night", and a Klingon, Torak, in the Star Trek: The Next Generation episode "Aquiel" – coincidentally, Torak had first appeared aboard the IKS Qu'Vat.
+Guest star John Schuck previously played the blustery Klingon Ambassador in Star Trek IV: The Voyage Home and Star Trek VI: The Undiscovered Country and Parn in DS9: "The Maquis, Part II".
+
+The graphic designers mistakenly added the USS prefix to both the Enterprise and Columbia in episode artwork. Neither of the ships were ever designated USS.
+Reed's self-imposed exodus from Section 31 would prove to be short-lived; while he tells Harris that he takes orders from one commander – Archer – barely a month later, the captain himself, distrustful of the answers he was getting from Earth political figures regarding the burgeoning Terra Prime crisis, personally asks Reed to use his underground contacts in the hopes of getting some real answers to what's going on.
+This episode and the preceding one (ENT: "Affliction") were written to explain the makeup change in Klingons between Star Trek: The Original Series and Star Trek: The Motion Picture, which had been acknowledged as canon in "Trials and Tribble-ations" in 1996. The writers of Enterprise hoped their take would find a way of explaining the change, while simultaneously telling an interesting story. For more from "Affliction" teleplay writer Mike Sussman, see Klingon augment virus.
+Manny Coto once referred to this installment as "probably the best episode we've done all season." Coto also believed Dave Barrett "brought an incredibly wonderful style to it." (Cinefantastique, Vol. 37, No. 2, p. 41)
+
+
+=== Production history ===
+13 December 2004: Final draft script is submitted.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Scott Bakula as Jonathan Archer
+John Billingsley as Phlox
+Jolene Blalock as T'Pol
+Dominic Keating as Malcolm Reed
+Anthony Montgomery as Travis Mayweather
+Linda Park as Hoshi Sato
+Connor Trinneer as Charles "Trip" Tucker III
+
+
+=== Guest stars ===
+Kristin Bauer as Laneth
+James Avery as K'Vagh
+John Schuck as Antaak
+Terrell Tilford as Marab
+Eric Pierpoint as Harris
+Ada Maris as Hernandez
+Wayne Grace as Krell
+
+
+=== Co-star ===
+Matt Jenkins as a Tactical Officer
+
+
+=== Uncredited co-stars ===
+Jef Ayres
+Michael Bailous as Klingon officer
+Caroline Bielskis [1]
+Breezy as Porthos
+Dominic Calandra as Enterprise command lieutenant
+Paul Caroul
+Daphney Dameraux as Enterprise operations ensign
+Henry Farnam as Columbia helm
+Amina Islam
+Roy Joaquin
+John Jurgens as Enterprise operations crewman
+Ricky Lomax as W. Woods
+Aouri Makhlouf as Enterprise medtech
+Tony Moore as Klingon Metagen
+Rife Sibley as MACO
+Cecelia Specht
+Ator Tamras as A. Tamras
+Aaron White as R. Ryan
+Windy as Porthos
+Curtis Wong as Klingon officer
+Cricket Yee as Enterprise sciences crewman
+Unknown actress as Columbia sciences crewman
+
+
+=== References ===
+47; 2149; ability; algorithm; amino acid; Antaak's father; antimatter containment (aka "containment"); antimatter stream; antivirus; attenuation; Augments; blood; bloodwine; brig; bulkhead; cable; cheese; Chef; chief engineer; coil emissions; cold start; Columbia; commanding officer; craving; D5 class; decrypt; decryption algorithm; Denobulans; disown; DNA; docking; Earth; encryption; endurance; Engineering; engineering subroutine; ethics; Eugenics Wars; EV suit; family units; field of study; field variance; firepower; fleet admiral; gagh; general; genetic engineering; genetic research facility; galley; general; genome; Great House (aka "house"); healer; heart; house call; House of Antaak; House of Phlox; husband; immunity; impulse; injector; intermix pressure; irregular heartbeat; Jenkins; Kahless the Unforgettable; Kelby; Klingons; Klingon Augment starship; Klingon Bird-of-Prey (Krell's escort ships); Klingon Empire; Klingon High Council; Klingon Imperial Fleet; Klingon territory; Krell's battle cruiser; lead ship; life support system (aka "life support"); MACO; man of science; manual shutdown; mating practices; medical scan; metabolic catalyst; metagenic research; metagenic virus; meter; millicochrane; neural reordering; minute; order; parts per million; personal files; physician; polygamy; prime; proximity scan; Qu'Vat Colony; reactor breach; RNA sequence; road; rotation; screening; second; Section 31; shortcut; simulator; son; Soong, Arik; Spacecraft Operating & Management System; speed; stars; Starfleet; Starfleet Intelligence; Starfleet Charter; Starfleet database; Starfleet Security; sterilization; strength; superior officer (aka "superior"); systems monitor; targ; tether ; training exercise; trajectory; transcription sequence;  translation matrix; transporter; Tzu, Sun; unit; voiceprint; warp field; warp field contact; warp matrix (aka "matrix"); warp reactor (aka "reactor"); warp speed; warrior caste; week; wife
+
+
+=== External links ===
+"Divergence" at Memory Beta, the wiki for licensed Star Trek works
+"Divergence" at Wikipedia
+"Divergence" at the Internet Movie Database

@@ -1,0 +1,252 @@
+Trapped three hundred years in the past, Sisko, Bashir, and Dax find themselves confronting one of the darkest hours in Earth's history…
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Commander's log, stardate 48481.2. My senior staff and I have been asked to address the Annual Starfleet Symposium on the current situation in the Gamma Quadrant. I'm looking forward to the opportunity, and to visiting my sister in Portland."
+
+As the USS Defiant enters orbit around Earth, Commander Sisko remarks that he will never be tired of seeing the view of his home planet from orbit. However, Lieutenant Dax thinks the seas could use more purple, while Major Kira thinks they are not green enough. Smiling, Doctor Bashir observes that there is no place like home – no matter what color the seas are. Dax reminds Sisko that they are scheduled to have dinner with Admiral Drazman, and as Sisko rolls his eyes, Chief O'Brien recognizes the commanding officer of the Proxima Maintenance Yards and does not relish the thought an evening with "Droner" Drazman. Hopefully, Bashir reminds O'Brien that the entire senior staff was invited to the dinner, but O'Brien says such formalities are the reason he chose to be an enlisted man. Dax obviously shares Bashir's sentiment as she invites Kira and Constable Odo to come along, but Kira politely declines and Odo calls the dinner "strictly a Starfleet occasion" with a hint of amusement.
+An emergency subspace signal arrives from Deep Space 9, but when Sisko opens the channel, Quark appears on the viewscreen. Quark ignores Kira as she impatiently reminds him the channel he is on is for emergency use. He informs Sisko that Grand Nagus Zek has instructed him to remind Sisko of the critical role the Nagus played in establishing contact with the Dominion. Odo rolls his eyes, although Sisko politely informs Quark that he will mention the Nagus prominently in his report to Starfleet Security. Quark reluctantly adds that there is another reason he contacted the commander, which doesn't surprise Sisko. The Nagus's nephew, Belongo, has been detained by Starfleet authorities on Aldebaron III – a slight misunderstanding, of course. Sisko admits that he owes the Nagus a favor and Quark begins to quote Rule of Acquisition #111, but Sisko beats him to the punch: "Treat people in your debt like family. Exploit them." Quark seems unsure of himself as Sisko explains that he has been reading up on the Rules. While Sisko assures Quark that he will do whatever he can for the Nagus's nephew, he reminds Quark of Rule #217. "You can't free a fish from water," Quark quotes with a sly grin, visibly amused as he promises to relay the message to Zek.
+
+In the transporter bay, Sisko, Dax, and Bashir step onto the transporter pad as Kira and O'Brien wish them well. Sisko informs Kira that she is in command of the ship and tells O'Brien to energize the transporter. The three officers disappear in the usual flash of blue light, but an alert comes from the computer and O'Brien notices something strange. Kira asks what is wrong and he reassures her that it is only a minor problem with the annular confinement beam. However, he is dumbstruck when, after stabilizing the beam, a chart appears on the screen indicating that Sisko and the others never materialized at their destination.
+Sisko and Bashir lie unconscious on the pavement as they are rudely awakened by a pair of tan-uniformed men carrying shotguns. Confused, Sisko asks who the men are, a question the older man finds humorous. Bashir and Sisko rise to their feet, disoriented, as the younger man reminds his companion that they have been working all night. He suggests that they forget about the strangers, as he's exhausted and eager to return home to see his wife Sonya and their children. The older man calls the younger one an anarchist and reminds him that there is a law against sleeping in the streets, although he notes with amusement Bashir and Sisko's matching "pajamas." Asking them for some form of identification, such as a UHC card or a transit pass, the older man is dismayed to hear Bashir ask what happened to Starfleet Headquarters, calling them both "dims." Sisko slowly begins to realize where they are as he observes that there is something very familiar about the guards' shotguns and uniforms. The older man suggests it may be from the last time Sisko was in a Sanctuary District; Sisko recognizes the term immediately and looks alarmed. He asks what year it is. The younger man impatiently tells him it is 2024, and as the guards escort Sisko and Bashir away, Dax can be seen nearby, unconscious and sitting in the entrance to a subway.
+
+
+=== Act One ===
+A man in his mid-30s exits the subway, but stops as he does so, noticing Dax in his peripheral vision. When he wakes her, she has a headache and explains that she must have hit her head on something. He asks if she was jacked, a slang term for robbed with which Dax is unfamiliar. She goes along with what he says when he asks whether the assailants took her credit chips and ID, claiming they took everything but her brooch (her combadge, which she is still wearing). However, since she is still unsure of where she is, she simply tells the man that she was traveling with some friends and got separated. Introducing himself as Chris Brynner, the man offers to let Dax use the Interface terminal at his office to order replacement ID. When he hears Dax's name is Jadzia, Chris observes how beautiful her name is and asks if it is Dutch. "Something like that," Dax responds with a smile. She thanks him for helping her, but he claims he doesn't get to rescue a damsel in distress every day. He helps Jadzia to her feet and leads her to a nearby office building.
+Meanwhile, O'Brien tells one of his engineers to check the Heisenberg compensators and begins a level-one diagnostic of the pattern buffers. Kira comes up behind him with news from Starfleet, but nothing good: none of the crewmembers rematerialized in San Francisco, nor have there been signs that they rematerialized elsewhere. According to Starfleet sensors, the transporter signal disappeared as soon as the beam-out began, but O'Brien informs her that the Defiant's system log clearly shows they rematerialized somewhere. While this is good news, he does not know where that somewhere is. He reviews the log as they speak and concludes that the answer must not be in the log since the only unusual sign was the variance in the annular confinement beam, which he corrected. He tells her the variance was caused by chroniton particles, which are emitted by the cloaking device and sometimes become lodged in the ablative armor matrix. Suddenly, he notes a surge in temporal energy just before the beam-out began. O'Brien believes they have found their first clue, although he's not sure what it means.
+The guards lead Bashir and Sisko to the main entrance to Sanctuary District A, where an overcrowded apartment-style building lies behind a large cement wall. As the older man, Vin, fills out some type of registration form, his partner Bernardo Calvera keeps an eye on them. Bashir and Sisko both saw the Golden Gate Bridge on the way to the sanctuary, so they know they are at least in San Francisco, but Bashir wonders what happened to their combadges. With a hint of frustration, Sisko informs him that the communicators were probably stolen, as the Earth to which he and Bashir have become accustomed is at least a century away. They decide to try to find Dax when they get a chance, as she is probably nearby. "And then what?" Bashir asks with a degree of apathy. "And then," responds Sisko reassuringly, "we find our way home." Vin finishes filling out the paperwork and tells them it is time to go. As he and Bernardo enter the sanctuary behind them, Bernardo insists that his wife Sonya will kill him for being so late.
+Inside the wall, apartment buildings similar to the one they observed earlier line the streets and there are people everywhere. Sisko explains that the place is a Sanctuary District, but Bashir concedes that 21st century history is not one of his strong points, as it is too depressing. While Sisko admits that the citizens of Earth made some ugly mistakes, he says they also paved the way for many things he and the doctor take for granted in their century. The Sanctuary Districts are one of the worst mistakes; as he explains the situation to Bashir, they see that trash is everywhere and dirty people fill the streets, with an older couple sitting in a tent and a family of three literally living in a cardboard box. By the early 2020s, Sisko says that there was a Sanctuary District like this one in every major city throughout the United States of America, but Bashir fails to understand the purpose and asks what the people did to deserve such treatment. Sisko tells him that people with criminal records are not allowed in the sanctuaries and those who live here are simply people without jobs or places to live. Vin instructs Bashir and Sisko to stop and tells Bernardo to go home to his wife and kids, out of both compassion for his partner and visible annoyance at the ramblings of the two new arrivals. Bernardo thanks Vin and takes off. Gesturing forward, Vin sarcastically asks Bashir and Sisko, "Shall we?"
+
+
+=== Act Two ===
+Dax sits at a desk in a high-class apartment with a paneled, wall-sized window that shows a view of San Francisco's various skyscrapers, including the Transamerica Pyramid. She uses a pen-shaped device to access a computer about the size of a small television with the monitor tilted at a forty-five degree angle so as to serve as both a screen and a touch pad. There is a knock at the door and Chris Brynner enters, sitting on the desk casually and asking if she was able to order a new ID. While it took her a while to convince the computer of her identity, she tells him that she was able to order some credit chips and a transit pass. Removing a credit chip from the computer and handing it to Chris, she thanks him sincerely for letting her use his terminal and his account. He studies her for a moment and observes her spots, noting that they are very unusual, so Dax pretends that they are tattoos. Brynner guesses that she had them done in Japan and tells of how he used to have a Māori tribal pattern running along his arm back in the 1990s but had to remove it to look like the rest of the "drones." When Dax asks what kind of business Brynner works in, he seems surprised and walks toward the window as he announces sarcastically that he will have to have a talk with his public relations people. He is Chris Brynner of Brynner Information Systems, which provides things like Internet access and Channel 90. "Oh, that Chris Brynner!" Dax exclaims as she attempts to play dumb. While his status probably makes Chris a sell-out, Dax promises not to hold it against him. He chuckles and asks if there is a way for her to get a hold of her friends. She wishes there were.
+Meanwhile, Bashir and Sisko are inside a large, blandly-decorated administration building within the Sanctuary District, with two guards standing watch outside the entrance as homeless people walk by. In a waiting room, Sisko steps onto a spot marked with two footprints and is instructed to place each of his hands on a scanning device and look straight ahead as the machine takes a photograph of him. The three of them walk over to a nearby counter, where Vin accesses a computer via a pen-liked device similar to that which Dax used. Bashir and Sisko exchange looks as a computerized female voice welcomes Vin to the SafeTech fingerprint database. It informs him that his government discount has been accepted and advertises its retinal scan service on channel 178, but when the computer processes the fingerprints provided, it is unable to identify either of the new arrivals. Confused, Vin observes that it is as if Bashir and Sisko do not exist. "Well, since we don't exist, why not let us go?" Bashir asks. As the two of them have no IDs and no money and are dressed like clowns, Vin seems to think the matter is self-explanatory and tells Bashir to figure it out for himself. His voice turns polite as he hands Bashir and Sisko a pair of clipboards with various forms and asks them to fill out the paperwork the best of their ability and reminds them that interpreters are available if they do not speak English and that the questions can be given verbally if they are unable to read. "Now sit down, shut up, fill out the forms, and if you've got any problems, don't come to me with them," he adds. Bashir thanks Vin sarcastically.
+Now sitting in the captain's chair, Kira cordially asks an ensign to express her gratitude to Admiral Ngomo but that she does not want anyone to transport aboard the Defiant until the current situation is resolved. O'Brien enters the bridge as she adds that the admiral is welcome to come aboard via shuttlecraft. O'Brien informs her that the temporal surge they detected earlier was caused by an explosion in a microscopic singularity passing through the solar system at the time of the beam-out. As usual, his technobabble is lost on the Major, but he explains that the transporter signal was redirected through time, which makes the question not where Dax, Bashir and Sisko are but rather when. While he is sure that the officers arrived in San Francisco, they were deflected into another time period, most likely centuries away.
+A man sitting next to Sisko in the waiting room appears largely oblivious to his surroundings as he attempts to draw on Sisko's leg with a pen. When Sisko stops him, he looks at Sisko indignantly and begins to draw on the person next to him. Bashir stands on the opposite side of the room complaining to Vin, who stands idly by and appears unconcerned. The line has barely moved in the past three hours, a situation Vin sums up as "plenty of overtime." Despite Bashir's legitimate concerns, Vin simply tells him to return to his seat, rolling his eyes as Bashir does so. The woman next to Sisko's neighbor seems pleasantly entertained as he draws on her hand, and it is obvious that neither of them is entirely coherent. Sisko seems deep in thought, staring at a digital display of the date and time on a nearby wall as Bashir rejoins him. Frustrated, Bashir observes that numerous people around them are mentally ill and require medical treatment, but Sisko, whose eyes are still on the clock, tells him they will not get any such treatment. Noticing with confusion Sisko's pensive look, Bashir asks what is wrong. Sisko points out that the date is August 30, 2024, and asks if Bashir has heard of the Bell Riots. The doctor is only vaguely familiar with the events, so Sisko explains that it was one of the most violent civil disturbances in American history, and it occurred in San Francisco's Sanctuary District A during the first week of September, 2024. Unless they can find a way out of the Sanctuary District soon, they are about to be caught right in the middle of the violence.
+
+
+=== Act Three ===
+Sisko describes how the Sanctuary residents will take over the district and take several guards hostage, only to have the government send troops in to restore order, killing hundreds of residents in the process. Bashir notes that, while Starfleet's temporal displacement policy sounds good in theory, it will not be easy to stand by and watch hundreds of people die. However, Sisko assures him that the riots will alter the course of history thanks to Gabriel Bell, the man for whom the riots were named. When the government troops stormed the compound based on rumors that the hostages were dead, they found none of the hostages had been harmed thanks to Bell, who sacrificed his own life to save them. Public opinion subsequently turned against the notion of sanctuary districts, and the planet began to address its social problems; therefore, if they warn any of the people of what is going to happen, they risk altering a pivotal moment in history. Vin interrupts them to inform them that it is their turn to be processed.
+In a cubicle in another part of the building, Bashir and Sisko wait patiently while a social worker reviews their forms. Vin can be seen in the background, although it is not clear if he has been assigned to them or is simply keeping a close watch. The social worker seems surprised by their registration forms when she looks them over, and after a few moments, Sisko asks if something is wrong. She says the forms indicate they are dims, claiming they are instead gimmies, and apologizes for not processing the forms quicker. As Sisko and Bashir are unfamiliar with the slang terms, the social worker, Lee, explains that gimmes are ordinary people in need of a job and a place to stay. A confused Bashir asks about the dims and Lee tells him that the dims should be in hospitals, but since the government is unable to afford treatment for them, they are sent to the Sanctuary District. Although Lee expresses her hatred of the process, she seems to think it will not change and moves on, asking if they have applied for any jobs. Bashir tells her they do not plan to stay in San Francisco for long, and Sisko claims they were traveling with a friend. When Lee hears that they have no way to contact their friend, she somewhat hesitantly informs them that they will have to stay in the Sanctuary District for now. Initially using the official reason – that it is for their own good – she adds that it is also the law. Sisko incredulously wonders how they are supposed to find jobs if they are stuck in the district. The district does provide a job placement service; however, due to the state of the economy, Lee is unable to give them an estimate of how long it will take to find one. The only thing she can do is tell them to be patient as she hands them each a ration card, which they can use to get food and water while in the district. Theoretically, the buildings in the district are for everyone, so she tells them they are on their own as far as accommodations go. Before they leave, Lee advises them to stay away from District Security, as the guards are overworked and underpaid, and to watch out for ghosts, the name for those who "haven't integrated well" in the district and tend to prey on other residents. Sisko thanks her for the advice as he and Bashir leave the cubicle.
+Dax stands alone in Brynner's apartment, still wearing her Starfleet uniform and communicator, and taps the combadge as she attempts to contact with Bashir or Sisko. However, she attempts to act casual when Brynner enters to announce that his assistant Britt has reserved Dax a room at The Clift for the next five nights. It is clear that Chris has feelings for Jadzia but does not want to seem too forward as he acknowledges that he wants to help her and asks what her plans are. She still needs to find her friends, and Brynner admits that his assistant checked with the City hospitals and trauma wards already. Unfortunately, no one matching Bashir or Sisko's description was admitted recently; however, he wants to know how the search turns out. Dax smiles as he uses the point to bring up a party he is having the next day and invites her and her friends. She accepts the offer and he wishes her good luck as he escorts her to the door.
+It is night in the sanctuary district and some of the less fortunate residents use metal barrels as impromptu fireplaces in order to keep warm. Bashir and Sisko attempt to enter a nearby building, but a man about their age stops them. "Let me guess: This building's full," Bashir says, frustrated. The man apologizes insincerely and Bashir and Sisko walk away. Bashir finds it hard to believe that every building is full, but Sisko wouldn't be surprised if they were. At one point, nobody cared how many people were in the sanctuaries so long as they were out of sight. Bashir finds it difficult to comprehend as they pass by a schizophrenic man, pointing out that there are numerous treatments for the disease, which could help him live out a normal life even in the 2020s – simply if anyone gave a damn. However, the problem is not that they don't give a damn, but that the social problems facing the planet seem too enormous to solve, something Bashir finds more depressing than aggravating. While he acknowledges that it is horrible to cause people to suffer out of hatred toward them, he can't understand the notion of doing so simply because one has forgotten how to care. Sisko reassures him that people in the 21st century will slowly but surely fix the problems they face. As they walk, Bashir begins to wonder if Humans are truly any different from Romulans or Cardassians, if, in the event that something disastrous happened to the Federation, they would truly stick to their ideals. Sisko states matter-of-factly that it is his duty as a Starfleet officer to ensure that they never have to find out.
+They come to a halt when they see a group of ghosts beating a man in front of a nearby building; while Bashir immediately moves to intervene, Sisko reminds him that they can't interfere. The leader tells the other ghosts to get the man's ration card, but seeing Bashir's restrained look, he confrontationally asks if there is a problem. Sisko speaks for Bashir and reassures the ghost that there isn't. However, the ghost takes the opportunity to have some as he observes that Bashir seems upset and sarcastically claims they don't want to offend anyone. When Sisko informs him that he and Bashir are new to the district, the ghost takes off his hat and gives them a fake welcome. As neither Sisko nor Bashir is amused, he claims gimmies have no sense of fun. Sisko tells him they are only looking for a place to stay, which seems to dampen the ghost's mood as he comes closer and speaks in a serious tone. "In that case, you better look somewhere else, new boy," the ghost warns Sisko. He lightly wishes them a good day and waves goodbye as they move on to the next building.
+
+
+=== Act Four ===
+The next day, Bashir lies sleeping near the entrance to one of the buildings. Sisko wakes him, bringing a bowl with scrambled eggs and a piece of bread. Bashir promises never to complain about Deep Space 9's Cardassian beds again. Sisko apologizes for the fact that the distribution point ran out of both utensils and napkins, which doesn't surprise Bashir. After they eat, they visit the building where they were turned away previously and find the same group of men guarding it. They ask for their permission just to see the roof and reassure the men that they do not plan to cause trouble. While the leader (the same one who turned them away earlier) empathizes, he and the other residents feel that they have to protect what is theirs. Sisko asks if they could trade anything to access to the roof, but as neither he nor Bashir has anything of value, they are out of luck. The leader again suggests they try another building. One of the other men whispers in the leaders ear as Bashir and Sisko begin to walk off, and the leader hesitantly informs Sisko that they may be able to make a deal after all.
+The setting is now a dirty, dimly-lit corridor where several residents sleep on the floor. A pair of residents emerge from a nearby stairwell, and as they come closer to the camera, it becomes clear that they are Bashir and Sisko, dressed in the other men's clothes. Trying to make the best of a bad situation, Sisko observes that they at least look like they belong in the district; Bashir adds that they smell like it too. They turn a corner to climb the next flight of stairs and find Michael Webb tending to his injured son, Danny. Webb's back is turned to them, they attempt to keep their distance and approach the next stairwell quietly. However, he hears them and turns around, wielding a knife defensively. Sisko puts his hands up and reassuringly asks Webb to put the knife down. When he tells Webb that they want to survey the district from the roof, Webb assures them it will not look any better from there. Danny calls for his father in a hoarse voice, obviously in pain. Although Webb keeps the knife pointed at the other men as he kneels beside his son, he can tell they mean him no harm. His disposition goes from defensive to nurturing as he puts the knife down and explains that his son was beaten by a group of ghosts near the processing center. Bashir offers to examine Danny's wounds, and while Sisko warns him about interfering, he believes a look will not harm anything. Fortunately, Danny suffered only superficial wounds. At Bashir's request, Webb goes upstairs to retrieve a clean rag and alcohol to nurse Danny's wounds, and Sisko observes that they may have made a new friend.
+Webb follows Bashir and Sisko out of the building, apparently impressed by Bashir's medical knowledge. He tells Bashir that the district needs another doctor, but Bashir claims not to practice any more. Insisting that the residents must all pull together, Webb reassures them that they will not escape the district any time soon. He believes the district residents need to organize themselves and show the outside world what has happened in the district. As they cannot interfere, Bashir and Sisko respectfully decline and claim they simply want to be left alone. Webb sees their apparent apathy and remarks, "My mistake. I thought you two wanted to get out of here." Bashir and Sisko exchange looks.
+Meanwhile, Dax and Brynner are at a high-class party, complete with waiter. She, Brynner, and two of his acquaintances discuss recent events, such as Brynner's recent skiing trip to Christchurch at Mount Cook and how Europe has fallen into political anarchy. When Dax implies that the same political situation might arise in the United States of America, Chris's friends seem indignant. Chris apologizes on her behalf and explains how Jadzia was mugged, claiming such an experience would leave anyone with a negative outlook on the future. He adds that whoever mugged her took everything, even her ID, and Chris's other friend claims Dax is lucky the police did not find her first, as she might have ended up in a Sanctuary District. Dax immediately pulls Chris aside and he confirms that it is public policy to put those found on the streets without ID in sanctuaries. She is sure that must be what happened to Sisko and Bashir, but while Chris observes that sanctuary records "aren't posted on the 'net," he believes he can gain access to them.
+That night, Bashir and Sisko stand in front of a lighted barrel and attempt to keep warm while they wait to get their food. Bashir observes that the wait is worse than the line at the Replimat, adding that they will probably get their dinner just in time for breakfast. Sisko decides to check on the food line. While he is gone, the ghost from before, BC, approaches Bashir and asks to see Bashir's food card. A confrontation is imminent as Sisko returns. He warns BC to leave Bashir alone, and BC and the other ghosts gang up on the two of them. During the ensuing fight, another man intervenes in an attempt to stop BC. He manages to get the ghosts off of Sisko, but when he leans over Sisko to see if Sisko is okay, BC stabs him. The man loses consciousness and the ghosts take his food card. They run off as an alarm sounds and two guards run toward them. Taking the man's ID, Sisko and Bashir do likewise, hiding under a pile of garbage in a nearby alley as the guards run past them. However, once the situation has calmed down, Sisko reveals that the man who just died was Gabriel Bell.
+
+
+=== Act Five ===
+On the Defiant, the major enters the bridge and asks O'Brien if he is ready to go. O'Brien replies, saying that Starfleet has denied them permission, but he is unable to raise them. Odo then enters, as he had just been cut off from Starfleet Security. O'Brien confirms that the Defiant's comm system is in perfect working order, then discovers he can't detect any trace of Starfleet in the sector. Everyone realises that history has been altered and, while the singularity explosion protected the Defiant and its crew from the changes in the timeline, they are now all that remains of Starfleet.
+Sisko and Bashir return to Webb and announce that they want to join the rebellion. Webb tells Sisko and Bashir about the upcoming rally for public attention, and asks them to spread the word. Sisko agrees to pass the news, and he and Bashir begin spreading it around. All of a sudden, a riot breaks out, and Sisko and Bashir assist a disoriented Calvera before entering the administration building. The people living in the District take the processors, including Lee, and line them against the walls. Sisko and Bashir enter, quickly quell any violence from the rioters, for the moment, and place Calvera with the other hostages. The rioters, led by BC, expresses satisfaction at their long-awaited revenge towards the people who have seemingly forgotten them;  Sisko, now armed with a shotgun, steps up and announces his name: Gabriel Bell.
+TO BE CONTINUED…
+
+
+== Memorable quotes ==
+"By the early 2020s, there was a place like this in every major city in the United States."
+"Why are these people in here? Are they criminals?"
+"No, people with criminal records weren't allowed in the Sanctuary Districts."
+"Then what did they do to deserve this?"
+"Nothing. They're just people without jobs or places to live."
+"So they get put in here?"
+"Welcome to the 21st century, Doctor."
+
+- Sisko and Bashir
+
+"Thanks, but no thanks. That's why I stayed an enlisted man."
+
+- O'Brien, turning down an invitation to dinner with the senior staff and Admiral Drazman
+
+"What year is this?"
+"The same year as it was yesterday – 2024!"
+
+- Benjamin Sisko and Bernardo Calvera
+
+"21st century history isn't one of my strong points. Too depressing."
+
+- Bashir
+
+"You ever hear of the Bell Riots?"
+"Vaguely."
+"It was one of the most violent disturbances in American history, and it happened right here. San Francisco. Sanctuary District A, the first week of September, 2024."
+"That's only a few days from now."
+"Which means if we don't get out of here very soon, we'll be caught right in the middle of it."
+
+- Sisko and Bashir, about the Bell Riots
+
+"Just how bad are these riots going to be, Commander?"
+"Bad. The Sanctuary residents will take over the District. Some of the guards will be taken hostage. The government will send in troops to restore order. Hundreds of Sanctuary residents will be killed."
+"Hundreds? And there's nothing we can do to prevent it. Starfleet's temporal displacement policy may sound good in the classroom, but to know that hundreds of people are going to die and to not be able to do a thing to save them…"
+
+- Bashir and Sisko, about the Bell Riots
+
+"I sympathize, Doctor, but if it will make you feel any better, the Riots will be one of the watershed events of the 21st century. Gabriel Bell will see to that."
+"Bell?"
+"The man they named the Riots after. He is one of the Sanctuary residents who will be guarding the hostages. The government troops will storm this place based on rumors that the hostages have been killed. It turns out that the hostages were never harmed, because of Gabriel Bell. In the end, Bell sacrifices his own life to save them. He'll become a national hero. Outrage over his death, and the death of other residents, will change public opinion about the Sanctuaries. They'll be torn down and the United States will finally begin correcting the social problems it has struggled with for over a hundred years."
+
+- Sisko and Bashir, about Gabriel Bell
+
+"One thing's for certain – right now, this ship is all that's left of Starfleet."
+
+- O'Brien, on the Defiant's bridge after Starfleet is erased from the timeline
+
+"And once they were out of sight, what then? I mean, look at this man. There's no need for that man to live like that. With the right medication, he could lead a full and normal life."
+"Maybe in our time."
+"Not just in our time. There are any number of effective treatments for schizophrenia, even in this day and age. They could cure that man now, today, if they gave a damn."
+"It's not that they don't give a damn, Doctor. It's that they've given up. The social problems they face seem too enormous to deal with."
+"That only makes things worse. Causing people to suffer because you hate them is terrible, but causing people to suffer because you have forgotten how to care? That's really hard to understand."
+
+- Bashir and Sisko as they walk though the Sanctuary District
+
+"If push comes to shove, if something disastrous happens to the Federation… if we are frightened enough, or desperate enough… how would we react?"
+
+- Bashir
+
+"I've waited a long time for this and I know I won't be disappointed; ain't that right, new boy?"
+"The name is Bell, Gabriel Bell."
+
+- B.C. and Sisko
+
+
+== Background information ==
+
+
+=== Story and script ===
+A working title of this episode was "Cold and Distant Stars". The original teleplay, written by Robert Hewitt Wolfe, involved Sisko going back in time and ending up homeless. His claims that he was actually from the future and was the commander of a space station prompted those around him to think he was insane, and he was eventually given thorazine. This script was written by Wolfe as a commentary on the apathy of the people of the 20th century towards the homeless. However, nobody was very happy with the script, including Wolfe himself, until Ira Steven Behr came up with the idea of the Sanctuary Districts and the Bell Riots. (Star Trek: Deep Space Nine Companion, p. 196)
+Ira Behr's inspiration to create the Bell Riots was the 1971 riot in New York's Attica Prison, which was caused primarily by inmates' demands for more humane living conditions being continually ignored by the authorities.
+Behr's inspiration for the Sanctuary Districts came from his real-life experience in the 20th century; "I was down in Santa Monica one day, and there [were] all these homeless people there, and it was a beautiful day, the ocean, sky, sun, and homeless people everywhere. And all these tourists, and people up and about, and they were walking past these homeless people as if they were part of the scenery. It was like some artist had done some interesting rendition of juxtaposition between nature and urban decay right there in front of me. And the fact was that nobody seemed to care, at all. And I said, 'There has to be something about that, where does that go? How far do you take that?' And that evolved into the idea for concentration camps essentially for the homeless." (Time Travel Files: "Past Tense", DS9 Season 3 DVD, Special Features)
+Robert Hewitt Wolfe explained that what he and his fellow writers tried to portray in this episode were the circumstances that led Humans to try to improve their societal conditions. "The whole idea was that the Bell Riots were a formative thing in the history of the Federation," he commented, "because it was what made people feel really bad enough to try to make the Federation." (Time Travel Files: "Past Tense", DS9 Season 3 DVD, Special Features)
+To an extent, this episode's two-parter was also written as essentially an attempt to make the audience more socially aware. "The future we extrapolated [in the episode] is very, very likely to happen in some form or another," Ira Behr pointed out. "It was intended as a wake-up call." (Star Trek - Where No One Has Gone Before, paperback ed., p. 194)
+Chris Brynner, Vin, Lee, Bernardo Calvera, and Britt were all named after characters from the 1960 film The Magnificent Seven. Brynner also takes his name from Oscar-winning actor Yul Brynner, who played Chris Adams in the film. B.C. was named after First Assistant Director B.C. Cameron.
+Ira Steven Behr stated that there is a subtle examination of racism in this episode. When Dax is discovered, she is treated like royalty, but when Sisko and Bashir are found, they are treated like criminals. Of this situation, Behr said, "The simple fact is that a beautiful white woman is always going to get much better treatment than two brown-skinned men." (Star Trek: Deep Space Nine Companion, p. 197)
+While the episode was filming, an article in the Los Angeles Times described a proposal by the Mayor that the homeless people of that city could be moved to fenced-in areas so as to contain them, in an effort to "make downtown Los Angeles friendlier to business." (Star Trek: Deep Space Nine Companion, p. 197) Shortly thereafter, Alexander Siddig stated, "It turned out that 'Past Tense' was the best timing of all because the L.A. city council is actually trying to set up something called 'Sanctuaries' in L.A. for the homeless people right now which are enclosed areas where they wish to put all the homeless people. The anti-sanctuary people saw our show and were astounded to see that someone had done this. It's a happening thing and at the moment sanctuaries are going to be developed in L.A." (Star Trek: Communicator issue 102, p. 49) In retrospect, Siddig later commented further on this coincidence: "The episode was almost a cinematic version of that statement by the LA council." (Star Trek: Deep Space Nine Companion, p. 197) As Ira Behr commented, the plan was "to put aside part of downtown Los Angeles as a haven, nice word, a haven for the homeless." Similarly, as Robert Wolfe said, "That was what the Sanctuary Districts were, places where the homeless could just be so no-one had to see them, and literally there it was in the newspaper. We were a little freaked out." (Time Travel Files: "Past Tense", DS9 Season 3 DVD, Special Features)
+
+
+=== Cast and characters ===
+Just as Sisko assumed the role of Gabriel Bell, John Lendale Bennett (who briefly appears as the original Bell) assumed the role of Sisko on numerous occasions, acting as a stunt double and stand-in for Avery Brooks in numerous episodes including this one. Earlier in the third season, Bennett also played Kozak in "The House of Quark".
+Alexander Siddig liked how this episode showed a different side to the characters of Sisko and Bashir. "That's the beauty of what they've done with Avery's character, especially in 'Past Tense' which I think is the best show that's come out of Deep Space Nine [….] Both characters (Sisko and Bashir) took a real leap," Siddig commented, "because the writers could write about real issues and just put that (Starfleet) manual aside [….] Bashir was very capable when it came to dealing with problems in that episode [….] I thought it was about time that I could do that without misleading anybody. There are times in everybody's life when you are like that because the nature of the incident merits it. Bashir got pissed to the point of wanting to hit people." (Star Trek: Communicator issue 102, p. 49)
+This episode is a favorite of Colm Meaney's; "I just thought it was a superb episode in that it captured the, you know, it dealt with the social issue and the social situation that we're familiar with today, but it kind of looked into the future and said if this continues, if this trend continues, what we could end up with, you know, the serious situation we could end up with. And I just thought it was a superb use of the idiom of the genre of science fiction, to take a contemporary situation that we're all kind of familiar with and aware of as a problem, and to just sort of let's see this as this develops a little bit into the future, and only that much into the future, thirty or forty years, whatever it was, and we don't do something about this, then we have it very serious, and the way the situation was portrayed with almost concentration camps and ghettos being cordoned off from the rest of society, it was very powerful." (Time Travel Files: "Past Tense", DS9 Season 3 DVD, Special Features)
+Cirroc Lofton (Jake Sisko) does not appear in this episode.
+
+
+=== Production ===
+"Past Tense, Part I" was the first major use of the Paramount Studios backlot by a Star Trek production since TNG: "The Big Goodbye". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 89)
+
+
+=== Reception ===
+Ira Steven Behr was disappointed by the lack of media interest in this episode. "When we did 'Past Tense', I expected all this media attention and the little media attention we got was almost entirely negative," he explained. "The fan reaction was great." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 80)
+This is also one of Composer Dennis McCarthy's favorite episodes, counter-intuitively due to the amount of musical silence. According to the Star Trek: Deep Space Nine Companion, p. 198, there are only seven minutes of music in the entire episode.
+Some of the fans expressed that, in their opinion, "Past Tense" developed the character of Doctor Bashir to an entirely new level. Addressing this, Alexander Siddig commented that he thought people were appreciative of how capable the character proves in this episode, the performer adding, "I think people have been dying to see a little machismo in this guy." (Star Trek: Communicator issue 102, p. 49)
+In their book Captains' Logs: The Unauthorized Complete Trek Voyages (p. 340), writers Edward Gross and Mark A. Altman described the "Past Tense" two-parter as "ambitious."
+
+
+=== Continuity and trivia ===
+Ira Steven Behr said that this episode continues an investigation into the heart of Gene Roddenberry's universe which Behr himself had begun in "The Maquis, Part II". Behr pointed out that, as was well established in the Star Trek universe originally envisioned by Roddenberry, society had to go through Hell before reaching a state of utopia, and this episode is part of an examination of that Hell. (Star Trek: Deep Space Nine Companion, p. 197) As Robert Hewitt Wolfe elaborated, "How did we get from where we are today to the Federation? Was it a nice easy smooth ride? Well we know it wasn't. Gene Roddenberry mentioned the Eugenics War and World War III and all sorts of bad things from here to there, so what was the spark, what was the thing that made people think, 'We've got to do better.' And that's what we tried to portray." (Time Travel Files: "Past Tense", DS9 Season 3 DVD, Special Features)
+Star Trek: First Contact, which was released a year-and-a-half after this episode aired, states that World War III took place around the year 2053, roughly thirty years after the Bell Riots. This presumably put the social changes mentioned in this episode on hold while the world recovered, as Commander Riker stated in the film that most of the major cities had been destroyed.
+Starfleet's temporal displacement policy is mentioned for the first time in this episode. This policy subsequently returns in the fifth season episode "Trials and Tribble-ations", which also introduced a group of officers who enforce it.
+Two new Rules of Acquisition are mentioned:
+#111 – "Treat people in your debt like family… exploit them."
+#217 – "You can't free a fish from water."
+This is the first episode of the DS9 TV series to feature Earth.
+This is also the first of four episodes (the other three being "Past Tense, Part II", "Paradise Lost", and "Children of Time") not to feature any scenes on Deep Space 9, or show the station in any scenes (save for the opening credits), although Quark does appear briefly in his bar's backroom, displayed on the Defiant's viewscreen.
+Doctor Bashir's rhetorical question to Sisko – of whether mankind would revert, if faced with a real crisis – is addressed again in "Homefront" and "Paradise Lost" (albeit by different characters) and Bashir expresses similar thoughts after learning of Section 31's existence at the end of "Inquisition".
+This is the second DS9 episode from season three in which a character played by John Lendale Bennett is stabbed to death, leading to a main character taking his place. The first was "The House of Quark", featuring the death of Bennett's character Kozak.
+Christopher Brynner's apartment set was later reused as Harry Kim and Libby's apartment in VOY: "Non Sequitur".
+VOY: "Relativity" would later establish that by the 29th century, Starfleet had learned how to intentionally employ chronitons in temporal transporters to send individuals through time.
+
+
+=== Remastered version ===
+Remastered scenes from the episode are featured in the documentary What We Left Behind.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 3.6, 24 April 1995
+As part of the DS9 Season 3 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Jim Metzler as Christopher Brynner
+Frank Military as "B.C."
+Dick Miller as Vin
+Al Rodrigo as Bernardo Calvera
+Tina Lifford as "Lee"
+And
+Bill Smitrovich as "Webb"
+
+
+=== Co-stars ===
+Henry Hayashi as a Male Guest
+Patty Holley as a Female Guest
+Richard Lee Jackson as Danny
+Eric Stuart as a Stairway Guard
+John Lendale Bennett as Gabriel Bell
+
+
+=== Uncredited co-stars ===
+Cindy Bohling as Sanctuary District guard
+Avery Brooks as "Gabriel Bell"
+Chris Doyle as "Ghost"
+Loretta Gordon as Sanctuary resident
+Irving Lewis as "Ghost"
+Dan Magee as Starfleet command lieutenant
+Tom Morga as "Ghost"
+Sam Murdzak as Starfleet operations officer
+Rachel Nolan
+James Do Pearson as Sanctuary District guard
+Lydia Tracy as Starfleet operations lieutenant
+Unknown performers as
+"Ghost"
+Sanctuary district guard
+Stairway guard 2
+
+
+=== Stunt doubles ===
+Jeff Cadiente as stunt double for Siddig El Fadil
+Unknown stunt performer as stunt double for Avery Brooks
+
+
+=== Stand-ins ===
+Ivor Bartels as stand-in for Siddig El Fadil
+John Lendale Bennett as stand-in for Avery Brooks
+Steve Giralo as stand-in for Dick Miller
+
+
+=== References ===
+20th century; 1990s; 21st century; 2020s; 2024; 345 California Center; ability; ablative armor; alcohol; Aldebaron III; Alpha Centauri; Alps; American history; anarchy; Annual Starfleet Symposium; annular confinement beam; assistant; August; bad habit; Bajor; bath; bed; Bell Riots; Belongo; Blue Zone; Britt; brooch; Brynner Information Systems; budget; Burke, Helen; calendar; California; Calvera, Sonya; Cardassian; C; Channel 90; Channel 178; Chen, Robert; Christchurch; chroniton; civil disturbance; Clift, The; cloaking device; combadge; constable; credit chip; doctor; Defiant, USS; dim; discount; disinfectant; disorientation; District Security; Dominion; dozen; Drazman; Dutch language; Earth; Earth satellite network; English; Errand of Mercy Meal Support; Europe; Federation; Federation communications satellite; form; France; Friday; Fudd, Elmer; Gamma Quadrant; Gaullism; ghost; gimmie; Golden Gate Bridge; Grand Nagus; green; Heisenberg compensator; high school; hospital; interface; Interface Operations; interpreter; jacked (aka robbed); Japan; job interview; job placement; level-one diagnostic; Luna; Māori; Mars; medical kit; microscopic singularity; mining; Molotov cocktail; money; Mount Cook; Mozart Piano Sonata Number 16; mugged; namesake; national hero; Neo-Trotskyism; net; Net Access; New Zealand; Ngomo; non-Federation; orbital habitat; Pan-Caribbean; pattern buffer; Portland; Prometheus Gifts and Knicknaks; Processing Center; protest; Proxima Maintenance Yards (Proxima Centauri); public relations; purple;  question; ration card (aka food card); Red Zone; Remington Model 870; Replimat; riot; rioters; Romulans; Rules of Acquisition; SafeTech; sanctuary; San Francisco; San Francisco Municipal Code; San Francisco Municipal Government; Sanctuary District; Sanctuary District A; Sanctuary District A Admin Services; Sanctuary residents; schizophrenia; scrambled eggs; Seal of San Francisco; Sector 001; shave; shotgun; Sisko, Judith; skiing; Sleeping Beauty; Sol system; Starfleet; Starfleet Academy; Starfleet Headquarters; Starfleet Security; soylent; subspace bubble; subspace signal; symposium; table linen; tattoo; temporal displacement policy; temporal energy; terminal; terraforming station; Trans Bay Tube 2; transfrancisco; transit pass; transporter; transporter beam; transporter log; transporter room;  transporter sequence; transporter shock; transporter signal; transporter system log; tricorder; Trill; UHC card; United States of America; utensil; Utopia Planitia Fleet Yards; Venus; Wright; Zek
+
+
+=== Related topics ===
+alternate timeline; Human history; slang; time travel episodes
+
+
+=== External links ===
+"Past Tense" at Memory Beta, the wiki for licensed Star Trek works
+"Past Tense" at Wikipedia
+"Past Tense" at MissionLogPodcast.com
+"Past Tense, Part I" script at Star Trek Minutiae
+"Past Tense, Part I" at the Internet Movie Database

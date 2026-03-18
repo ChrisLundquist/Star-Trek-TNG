@@ -1,0 +1,241 @@
+When Kira's resistance cell learns that the Dominion will soon be bringing down the Federation's minefield, they plot to hinder the enemy's progress. But matters are complicated when the Female Changeling arrives on Terok Nor and pays Odo a visit. Meanwhile, Captain Sisko is relieved of command of the Defiant while Jadzia commands it on a mission.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The USS Defiant and her crew are now operating out of Starbase 375, conducting short-range missions into Dominion space. In a ritual that's evolved over time, Captain Benjamin Sisko takes a discharged power cell that had been used in the phaser array and lays it on a rack on the mess hall wall and makes a short speech. Everyone applauds. Admiral William Ross arrives in the mess hall and interrupts to tell Sisko that Starfleet Intelligence has discovered a massive sensor array near the Argolis Cluster, which explains the Dominion's uncanny ability to always know where Federation starships are. It can detect ships from five sectors away. Ross orders Sisko to come up with an attack plan and have it on his desk by 0800 the next morning.
+On Terok Nor, the Dominion-occupation name for Deep Space 9, Rom and Major Kira have arranged to put Cardassian officer Damar's PADD into the possession of the Jem'Hadar. In it, Damar proposes poisoning the last ration of ketracel-white, because if the Dominion lines through the Gamma Quadrant don't open up, the Jem'Hadar will run amok after all the white is gone. While Kira and Rom observe from the second level of the bar, some Jem'Hadar confront Damar in Quark's, and a riot breaks out, which is more than what Kira and Rom had hoped.
+
+
+=== Act One ===
+In the aftermath of the bar fight, which has left some fatalities, Gul Dukat and Weyoun argue about how the unfortunate situation arose, with each defending his own. Weyoun tells Dukat that the two of them must look like allies in front of their subordinates. Odo suggests getting everyone out of the bar. Weyoun agrees. Odo continues to look around himself alertly.
+On Starbase 375 at 0800, Sisko notes that the Dominion's Argolis Array can detect cloaked ships up to two light years away and proposes approaching the array through the Argolis Cluster itself. With the gravimetric distortions and gravimetric shear it will be difficult, but he is confident that the Defiant's crew can manage it, given that Jadzia Dax has experience studying protostar clusters and knows what to look for. Admiral Ross approves the plan. The Defiant will leave as soon as current repairs are complete.
+Back on the station, Odo confronts Kira over the Damar PADD operation. He reminds her that at the last resistance meeting he vetoed the idea to give Damar's PADD to the Jem'Hadar, but Kira tells him that after he'd immediately dismissed the idea and walked out, she, Jake, and Rom discussed it further and decided it was worth doing, and Kira is pleased that it worked even better than expected. Odo reminds her that if Dukat found out that she was behind it, he'd use it as an excuse to throw all the Bajorans off the station when he's doing what he can to make sure Bajor survives the war, which the Federation Alliance is losing. Kira accuses Odo of taking his role on the station's Ruling Council too seriously, as if he were genuinely more interested in the smooth operation of the station than in defeating the Dominion, but when asked, tells him she isn't questioning his loyalty. The Female Changeling enters and asks Kira to leave. Odo asks what she is doing so far from home.
+
+
+=== Act Two ===
+
+The Female Changeling explains that she became trapped in the Alpha Quadrant because of the minefield, which has been blocking the wormhole, and that she needs to see others of her kind. She and Odo argue over their past, and Odo specifically mentions the punishment he received from her over a year earlier. She replies that the past is over. Odo asks about the present, given that she and the Dominion are currently waging a war against his home. The Female Changeling bluntly tells Odo that the Alpha Quadrant is not his home and that he belongs with his own kind.
+Back on Starbase 375, Admiral Ross informs Sisko that Captain Bennet has been promoted to command of the Seventh Tactical Wing and that Sisko is to replace her immediately as his adjutant. Accordingly, Jadzia Dax will now captain the Defiant, beginning with her taking charge of the mission to destroy the Argolis Array. Ross orders Sisko to review some tactical reports and present an opinion on the Bolian operation at 0600.
+After a meeting of the Ruling Council concludes, the Female Changeling enters. She is most concerned about the minefield, and this is the first thing she says to Dukat. Weyoun, of course, supports her and adds his own opinion on the matter, saying thousands of ships are waiting. Dukat brushes it off, saying that even without reinforcements from the Gamma Quadrant, they're still winning the war. She demands it be brought down, and Weyoun instantly submits and removes himself from her presence.
+The Female Changeling turns to Odo, asking to walk with him back to his quarters. She talks to him about their first discussion on the Founders' homeworld and asks about the strange solid behavior that he has to put up with all the time. They go to Odo's quarters, and with probing questions, she manages to get Odo to admit that he's in love with Kira, and she concludes that that is the reason that Odo remains with the solids. He unburdens himself of the torture of his unrequited love. The Female Changeling is sympathetic, and she offers to link, saying that that is what Odo really needs. They link.
+
+
+=== Act Three ===
+Some time later, Kira finds Odo in his quarters. He seems to be in another world but at peace. He admits to linking with the Female Changeling to Kira, who becomes quite angry. Odo tries to reassure her and tells her that linking is not about information exchange (which might give away her resistance cell). It is about thought and form and feeling. Kira says that it is about manipulation. She tells Odo that the Female Changeling is not trustworthy. Odo thinks that perhaps he can convince her to call off the war. He admits that he is mostly just curious about himself and his people. Kira understands this but says that now is not the time for self-reflection. Odo promises not to link with her again, at least not until the war is over.
+Sisko visits the bridge of the Defiant and has an uncomfortable conversation with Dax, who is sitting in the captain's chair overseeing the repairs. Later, after he leaves the ship and returns to the starbase, Sisko watches through a window as the Defiant leaves without him.
+Damar, acting more full of himself than he usually does, orders a bottle of 2327 Kanar from Quark. He can afford it now that he's been promoted to Gul. Quark knows that Damar knows something important and manages, eventually, to ferret it out with free drinks.
+Later, an obviously drunk Quark intrudes on Kira's resistance cell meeting. Jake, Rom, and Odo are also there. Quark says that he's had enough of the Dominion and Cardassians. In tears, he says he wants the Federation back; he wants to sell root beer again. When he's done with the self-pity, Quark says that Damar has found a way to deactivate the self-replicating mines, and Dukat wants to start field tests right away.
+
+
+=== Act Four ===
+Sobering up, Quark says that the way to deactivate the mines has something to do with the deflector array. Rom figures that the secret is an anti-graviton beam, which the deflector array could be reconfigured to generate. There's one way to disable the deflector array: by accessing the electro-plasma system feed and overloading the waveguide. But getting to the EPS feed will set off an alarm, as it is in a secured conduit. Odo states that he can take the alarms offline for five minutes by running a security diagnostic. They schedule this for exactly 0800 the next morning.
+The Defiant has been gone over 16 hours. Back on Starbase 375, Sisko, who is unable to get some sleep, speaks through a communications terminal in his office to Worf, who is currently aboard the IKS Rotarran. Worf is anxious also to hear of the status of the Defiant, given that his fiancé, Dax, is captaining the ship. Sisko reassures Worf that she will bring the ship home and adds that there is no way Dax would miss her own wedding. After terminating communications with Worf, Admiral Ross stops by Sisko's office, imploring him to get some sleep. Sisko states that he will not be able to sleep so long as the Defiant is still out there. Ross tells him to get some rest, as Sisko is going to have to get used to this assignment. The Defiant will be going on a lot of missions without him, and he will have to get used to it.
+On Terok Nor, Odo has a lot of questions for the Female Changeling. She repeats that words are insufficient and clumsy. She urges Odo to link with her. He resists at first but eventually succumbs.
+
+
+=== Act Five ===
+Kira goes to check on Odo in his office, but he's not there. She frantically tries to reach Odo via combadge, but he is entering the link with the Female Changeling and doesn't answer. The time is 0759 hours, so Kira then attempts to warn Rom to abort the plan, but Damar interrupts, wanting to go over a personnel report. Kira quickly makes her excuses and rushes out of the security office and tries to warn Rom not to open the panel, but she is an instant too late. Rom has opened the hatch to the secure conduit and set off the security alarms. Kira tells him to get out of there as she sees Damar and a security force scramble to investigate the security breach. The Ferengi crawls back to where he came from and opens the outer hatch, only to be pulled out of the conduit by Damar and placed under arrest.
+The Defiant returns to Starbase 375 triumphantly. Ross and Sisko come aboard in order to congratulate the crew. As acting captain of the mission, Dax now performs the power cell ritual just like Sisko had earlier. Sisko realizes that they're a good crew and will manage fine without him.
+Kira storms down a corridor and bangs on Odo's door panel, beyond furious. In his quarters she yells to Odo that he let everyone down. She asks him if he forgot, but he says no – it just didn't seem to matter. Kira furiously tells her former friend that Rom is in a holding cell being interrogated; they were both counting on him, but instead Odo has just handed the Alpha Quadrant to the Dominion. What does he have to say for himself? But Odo is elsewhere, mentally and emotionally. In the link, he says nothing else matters. Things mattered to him once but not any longer. Kira can never understand – she's a solid. Kira, realizing that she's lost Odo to the link, leaves. When she's gone, the Female Changeling appears from behind a wall. She notices that Odo looks troubled and asks, "Did she upset you?"
+Odo thinks for a moment, looking at the doorway. "No, not really." Satisfied, the Female Changeling remarks, "Ah."
+
+
+== Memorable quotes ==
+"You love her."
+"I wish I didn't. I'm so vulnerable to her. All she has to do is smile at me and I am happy beyond reason. A minor disagreement between us and I am devastated. It's absurd. Sometimes I wish that I could reach inside myself and tear out my feelings for her, but I can't."
+
+- The Female Changeling and Odo
+
+"I just shared a bottle of kanar with Damar. Hahaha, that rhymes."
+
+- An inebriated Quark, after a drinking binge with the Cardassian officer
+
+"Take a good look at this, people. It says something about this ship. It says that we will fight, and we will keep on fighting, until we can't fight any more."
+"Yes, sir!"
+"You don't just throw something like this away."
+"No, sir!"
+
+- Captain Sisko and his crew, upon receipt of a spent phaser array power cell
+
+"The Federation is losing this war. We can't sit by and do nothing."
+"There are limits to what we can do."
+"I'm beginning to think you shouldn't have agreed to sit on that council. It's as if you're so invested in making sure the station runs smoothly you've forgotten there's a war going on."
+"Are you questioning my loyalties, Major?"
+
+- Kira and Odo
+
+"What are you doing here, Damar? Did Dukat demote you to security detail?"
+"What can I do for you, Major?"
+"I'm looking for Odo."
+(looks around)"He's not here."
+"Do you know where he is?
+"Yes."
+"That's good. It's always good to know where your boss is."
+"He's in his quarters–with the other shapeshifter. Jealous, Major?"
+"Try to stay out of trouble, Damar, you don't want to end up on sanitation duty."
+
+- Kira and Damar
+
+"I tried. I tried my best to run my establishment under this occupation. But you know what? It's no fun. I don't like Cardassians – they're mean and arrogant. And I can't stand the Jem'Hadar. They're creepy. They just stand there like statues, staring at you. That's it. I don't want to spend the rest of my life doing business with these people. I want the Federation back. I want to sell root beer again!"
+
+- Quark, to Kira
+
+"It's an old naval tradition. Whoever's in command of a ship, regardless of rank, is referred to as 'Captain.' "
+"You mean if I had to take command, I would be called 'Captain,' too?"
+"Cadet, by the time you took command, there'd be nobody left to call you anything."
+"Good point."
+
+- O'Brien and Nog
+
+"When you return to The Link, what will become of the entity I'm talking to right now?"
+"The drop becomes the ocean."
+"And if you choose to take solid form again?"
+"The ocean becomes a drop."
+
+- Odo and the Female Changeling
+
+"They're a good crew."
+"The best."
+
+- Ross and Sisko, on the crew of the Defiant
+
+"Do you realize what you just did? You just handed the Alpha Quadrant to the Dominion."
+"I was in The Link."
+"Are you saying you forgot?"
+"I didn't forget– it just didn't seem to matter."
+"A lot of people are going to die. Don't you care?!"
+"It has nothing to do with me."
+
+- Kira and Odo
+
+
+== Background information ==
+
+
+=== The six-episode arc ===
+This episode was considered the most difficult of the six to put together. As Ronald D. Moore explains, "by the time they got around to shooting "Rocks and Shoals", René Echevarria was working on the next episode, "Behind the Lines", and that's where we all got really confused." Similarly, Ira Steven Behr points out, "Poor René. He was really behind the eight ball on that one, going around to each of us, asking 'What are you doing?' 'What are you doing?' 'What are you doing?' He was suffering, and it was a very painful experience, but ultimately, the show worked. It's amazing that it turned out as good as it did because usually, when shows have that painful a birth, they usually show it on-screen." (Star Trek: Deep Space Nine Companion, p. 492)
+
+
+=== "Behind the Lines" ===
+The original title for the episode was "Life During Wartime".
+Originally, the B-story of this episode was based on the 1930 Howard Hawks film The Dawn Patrol. A major theme of the movie is that of a reluctant commander being forced to send untrained troops into the field and the moral turmoil it causes him. However, when Ira Steven Behr read Echevarria's script, he felt that it didn't work because the B-story had become too important and felt like it should be the A-story. As such, Echevarria dropped the story entirely and replaced it with a B-story involving Dax. She is given command of the USS Defiant and discovers that she loves combat. According to Echevarria, "she gets into it too far and becomes Patton." Neither Behr nor Echevarria himself was happy with this story, however. Ultimately, "we reinvented it yet again, making it a much smaller, quieter little story, where you're just asked to put yourself into Sisko's shoes and see how hard it must be for him to have to sit back and send his friends to war." (Star Trek: Deep Space Nine Companion, p. 492-493)
+Odo's original role in this episode was also quite different from how it ultimately turned out. In Echevarria's first draft, Odo becomes so involved with the Female Changeling that he allows his need for order to consume and blind him, and he actively tries to end the resistance movement. Indeed, he is the one who arrests Rom. Neither Echevarria nor Behr was happy with this turn in Odo's character, however, and ultimately, Echevarria decided to alter the script so that Odo commits "a sin of omission, not a sin of commission. The old Catholic maxim. A sin of omission. Out of Odo's carelessness and his obsession with the female shape-shifter, he doesn't deliver on what he's supposed to do. And when he's confronted with it, he realizes that he doesn't really care that much. It doesn't seem important." (Star Trek: Deep Space Nine Companion, p. 492-494)
+It is the first time we see the new admiralty uniforms. They now match the regular uniforms, and thus, the transition to a more militarized Starfleet is completed.
+The reason the writers introduced Damar's fondness for kanar in this episode is because they wanted to hint to the audience that something is wrong with him under the surface. As Hans Beimler explains, "He's become a real bad guy, but he's drinking, and you want to know why. He's not drinking because he's an alcoholic, he's drinking because he has a conscience. There's something he doesn't want to deal with. He knows Dukat's deal with the Dominion is wrong, wrong, wrong. And so he's drinking." (Star Trek: Deep Space Nine Companion, p. 498) During the seventh season, the writers would develop Damar's character in a similar manner to how they developed the character of Dukat during the third and fourth seasons and how they developed Kai Winn towards the end of the fifth season, i.e., his role as villain would be rendered more ambiguous, and he would seemingly be on the path to redemption. Unlike both Dukat and Winn, however, Damar would complete the journey to redemption and would ultimately become one of the most important figures in ensuring the Federation's victory in the Dominion War.
+While the writers didn't intend for the interaction between Odo and the Female Changeling to be sexual in nature, Behr later conceded "it makes a certain amount of sense". Director LeVar Burton commented, "Those are love scenes. She was seducing him. Straight up. Plain and simple." Also, according to René Auberjonois, "I think it has some kind of sexual implications. It is definitely a very sensual experience. For Odo, it is absolutely the consummation of a kind of peace that he can't have." (Star Trek: Deep Space Nine Companion, p. 498-499)
+Armin Shimerman considers this to be an important episode in the development of Quark. Concerning his speech in "A Time to Stand", where he points out that the presence of the Dominion isn't all bad, Shimerman says, "Quark is one of those deluded people who thought, 'This is fine – we all get to do what we want to do,' and didn't realize that liberty was more important than creature comforts. But he learns, and I was very appreciative for that aspect of the arc. Like any Everyman character, Quark has to go though some turmoil before he realizes the truth." (Star Trek: Deep Space Nine Companion, p. 488)
+Salome Jens makes her first appearance as the Female Changeling since the Season 4 finale "Broken Link". In that episode, Odo infected the Great Link with the morphogenic virus he was infected with by Section 31 in "Homefront". If the virus was 'de-activated' when Odo became a solid in "Broken Link", then it seems likely that the Female Changeling reinfects him when they link. This would explain why she begins to exhibit symptoms earlier than he.
+Damar is promoted from the rank of glinn to gul in this episode.
+When Rom tries to sabotage the deflector array, he opens an alarmed hatch to a secure conduit. The hatch is labeled "A51: Restricted Area", in a likely nod to the "Area 51" US Air Force Flight Test Center at Groom Lake, Nevada.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 6.2, 2 March 1998
+As part of the DS9 Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Captain Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Michael Dorn as Lt. Commander Worf
+Terry Farrell as Lt. Commander Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Alexander Siddig as Doctor Bashir
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Jeffrey Combs as "Weyoun"
+Marc Alaimo as "Gul Dukat"
+Max Grodénchik as "Rom"
+Aron Eisenberg as "Nog"
+Casey Biggs as Damar
+Barry Jenner as William Ross
+And
+Salome Jens as the Female Changeling
+
+
+=== Uncredited co-stars ===
+Sam Alejan as sciences officer
+Bill Blair as Cardassian officer
+Uriah Carr as operations officer
+Cathy DeBuono as
+Command officer
+M'Pella
+Steve Diamond as Bajoran civilian
+Judi Durand as Deep Space 9 computer voice
+Maria Dykstra as Bajoran deputy
+Terry Green as operations lieutenant
+Randy James as Jones
+Norman Large as Neral (display graphic)
+David B. Levinson as Broik
+Irving Lewis as Cardassian officer
+Dan Magee as operations lieutenant
+Mark Major as Cardassian officer
+Mary Mascari as Bajoran civilian
+Angus McClellan as operations ensign
+James Minor as operations officer
+Sherry O'Keefe as Bajoran civilian
+Max Omega as operations officer
+Chuck Shanks as operations lieutenant
+Mark Allen Shepherd as Morn
+Steph Silvestri as command officer
+Todd Slayton as
+Alien in corridor
+Vulcan operations officer
+James Lee Stanley as Bajoran deputy
+Susie Stillwell as Bajoran deputy
+Chester E. Tripp III
+Brian J. Williams as Cardassian officer
+Unknown performers as
+Alien with long face
+Angie Kirby
+Bajoran civilian
+Corvallen visitor
+Ferengi criminal (display graphic)
+Klingon criminal (display graphic)
+Paradan visitor
+Pelian female
+Pelian male
+Plix Tixiplik (display graphic)
+Taal visitor
+
+
+=== Stunt doubles ===
+Unknown stunt performers as
+Stunt double for Casey Biggs
+Stunt double for Armin Shimerman
+
+
+=== Stand-ins ===
+Mark Lentry – stand-in for Rene Auberjonois
+David B. Levinson – stand-in for Max Grodénchik
+Robin Morselli – stand-in for Salome Jens
+Brenda-Jean Wright – stand-in for Nana Visitor
+
+
+=== References ===
+2327; 2369; ability; accusation; adjutant; Alpha Quadrant; antigraviton; Argolis Cluster; Bajor; Bajorans; Bajoran wormhole; Bennet; businessman; captain; Cardassians; cloaking device; commanding officer; confined to quarters; demotion; Dominion; Dominion War; Dominion-controlled space; dozen; drink; eat; Federation; Ferengi; field generator; field test; Founders; Founders' homeworld (first); Founders' homeworld (second); gamble; Gamma Quadrant; gravimetric distortion; gravimetric shear; Great Link; Haj; handkerchief; holding cell; intimacy; Jem'Hadar; kanar; Krim; leader; memorandum; naval tradition; "Old Man"; phaser array; poison; power cell; Promenade; promotion; protostar; Quark's; renovation; resistance cell; root beer; sanitation duty; Saurian brandy; security detail; self-replicating mine; sensor array; Seventh Tactical Wing (aka Seventh Tac-Wing); Starfleet; Starfleet Intelligence; stealing; strategy; Taal; tactical wing; warlord; waveguide; wedding; yamok sauce
+
+
+==== Starship references ====
+Centaur, USS; Centaur-type; Defiant, USS; Defiant-class; Excelsior-class (unnamed); Galor-class (unnamed); Jem'Hadar attack ship (unnamed); Jem'Hadar battle cruiser; Klingon Bird-of-Prey; Miranda-class (unnamed); Rotarran, IKS; Starbase 375 (Starbase 375-type)
+
+
+=== External links ===
+"Behind the Lines" at Memory Beta, the wiki for licensed Star Trek works
+"Behind the Lines" at Wikipedia
+""Behind the Lines"" at MissionLogPodcast.com
+"Behind the Lines" script at Star Trek Minutiae
+"Behind the Lines" at the Internet Movie Database

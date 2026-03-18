@@ -1,0 +1,206 @@
+While investigating a rogue comet, the cultural archive concealed inside begins taking over both the Enterprise and Data.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Counselor Deanna Troi is attending Mrs. Narsu's class in Classroom 7 and helping the students convey their feelings in their clay sculptures. Data is also attending this class to work on using his imagination, and creates a nearly exact sculpture of a PADD (the dimensions accurate to within 1.3%). Troi tells him that he needs to work on his imagination, and as an exercise, suggests he sculpt music. Data is at first confused and points out that music is a collection of acoustic vibrations, but Troi encourages him to sculpt an image that reminds him of music. Data proceeds to form the clay into a treble clef, and Troi says they'll work on it further. First Officer Commander Riker contacts him and tells him to report to the bridge.
+
+The USS Enterprise-D is traveling through sector 1156 when they encounter a rogue comet which is not located on any of the Federation starcharts. It appears to have originated from the D'Arsay system, over two sectors away, and it seems to have been traveling for more than 87 million years. Captain Picard orders Data to begin a full sensor analysis and to send along his findings to the Federation Astrophysical survey. While scanning the comet, the bridge is illuminated with a strange, bright, ambient light which gradually fades away. Data says it appeared to be a sensor echo caused by a distortion in the comet's inner core. After compensating for the effect, Data announces that the sensor scan of the comet will be complete in 39 hours.
+In Troi's quarters, Beverly Crusher sees a strange object. When she asks what it is, Troi tells her she's never seen this object before, and its style makes it unlikely to be a gift from Riker. When Crusher and Troi leave the room to attend Lieutenant Worf's mok'bara class, a strange symbol appears on the object.
+
+
+=== Act One ===
+At the next sculpture class, Data creates a mask. He tells Counselor Troi that he took her advice and used his imagination. Data notes that for some reason, the image of the mask appeared prominently in his mind. Troi then asks if he was in her room, since the symbol on his mask resembles the image on the object that appeared in her room. Their conversation is interrupted by Eric, who asks them if they can do something about his terminal because it is not functioning properly. Strange symbols are moving around on the screen. Data tells Troi that perhaps they should investigate this further.
+In engineering, Data, Commander Riker and Geordi La Forge begin to investigate the strange symbols which are not listed anywhere in the Federation linguistics database. La Forge has found that the symbols were downloaded into the Enterprise computer core via the sensor array and replicator systems, and are reconfiguring their systems. Riker wonders if it had something to do with the intense sensor echo earlier; La Forge tells him that they still don't know what caused the echo. Riker thinks of using the phasers to melt the comet's outer layers. La Forge wants to consult Data about the firing parameters, but finds him distractedly examining the symbols. Unaccountably, Data has found himself able to read them, and does so aloud as they float around the screen; boundary, border, road, companion, message, messenger, and death (which is the prominent sun symbol).
+Using a widespread phaser beam, Lieutenant Worf evaporates the comet's outer layers, revealing a mysterious structure, obviously not a comet.
+
+
+=== Act Two ===
+A scan reveals that it's over 87 million years old and composed of fortanium and several unknown materials. This object is definitely responsible for the symbols, having used their sensor beam as a carrier wave to transmit information into the Enterprise's replicators and computer systems. Data thinks it is an informational archive. La Forge has noticed a repetitive node configuration, confirming that it could indeed be a database but cannot make an absolute determination. Data thinks he might be in some sort of contact with the object and requests a level 1 diagnostic be conducted of his positronic net.
+
+In his ready room, Picard is investigating several artifacts at his desk when Riker tells him that they have confined the system corruption but the alien symbols are still in their computer systems. Riker dismisses the artifacts as primitive, serving no useful purpose. Picard thinks they are ceremonial in nature, and are deceptively primitive since the structure inside the comet was obviously made by an advanced technological society, and seems to be much more than a simple library. Riker recognizes the sunburst symbol on the object Picard has; he's seen it on several other alien objects. Picard tells him he's seen another small, U-shaped symbol all over the ship; less prominently displayed, it tends to show up in the background or off to the side.
+With La Forge's help, Data is performing a level 1 diagnostic of his positronic net when he experiences a mysterious impulse. As La Forge checks his higher functions, Data, with clear confusion in his words, asks him what it feels like to lose one's mind. When Data cannot explain what is going on but only says "I am different," La Forge disconnects him from the main computer and goes to check his positronic net, discovering strange connections. When Data turns his head to La Forge, his inner workings have been reconfigured. Data has also acquired a sunburst symbol on his forehead and a strange brown rectangular symbol on his chest. In a light, mocking voice, he says "Masaka is waking!"
+
+
+=== Act Three ===
+When Picard enters engineering, the being inside Data (who is sitting on the front of the warp core atop the dilithium crystal chamber) tells him that he has been waiting for him. "You should feel honored – I don't usually wait for anyone." Picard asks what he wants and the being answers in the same teasing voice, "Masaka is waking." Picard then asks if he is Masaka; the being replies that he is Ihat and that Commander Data is gone. "Who can say where?"
+Picard calls for Counselor Troi to report to main engineering immediately and asks Ihat where he came from. Ihat tells him that he comes from Masaka City and that there are no others like him. Sashaying around the room, he displays somewhat effeminate mannerisms (meaning that Ihat could be a woman). Picard asks Ihat if he can get to know Masaka and speak with her. Ihat describes her as "pain" and "death" and advises Picard to leave this place before Masaka finds them. When Troi enters engineering, Ihat mistakes her for Masaka. His body language and manner change completely, and he is now seen to be wearing a different white symbol on the front of his uniform; kneeling, he tells her with hushed reverence "I am yours." Picard decides to confine Data to his quarters.
+During a briefing in the observation lounge, La Forge tells of at least fourteen behavioral nodes that he found in Data's positronic net and that he believes the archive is using Data to create different people and the transformation is still ongoing. Troi tells him that Data's "real personality" is completely buried and that he has "the android equivalent of multiple personalities". La Forge adds that because the transformation is still in process there is no way of telling how many people will emerge. Picard asks La Forge to find a way to access the archive, while he tries to learn more from the people who are using Data's body.
+Picard visits Data in his quarters; the devotee who loves Masaka is still present. Picard asks if he can speak to Ihat. Ihat comes forward and explains that Masaka is a queen who spends most of her time sleeping and it is better not to wake her. Picard suggests keeping her asleep, but Ihat says only Korgano can do that. When Picard asks where he can find Korgano, Ihat steps back and another person comes forward; a terrified child who pleads for help.
+The archive activates a tractor beam which sends out an energy pulse that overrides the Enterprise's control systems. At the same time, Ten Forward reports an emergency which Worf goes to investigate. In Data's quarters, Picard begins to leave and the child inside Data grabs Picard's wrist, begging him not to leave. Picard grimaces in extreme pain, as the child also possesses Data's great strength. Picard painfully pleads for the child to release him. The child lets go of him, disappears, and Ihat comes back. He tells Picard that Masaka is awake.
+When Worf and his security team arrive in Ten Forward, they are surprised to discover large, multiple artifacts taking up most of the space, as well as some big plants.
+
+
+=== Act Four ===
+La Forge, Troi and Picard are investigating the artifacts' inscriptions. Troi sees the sun symbol they found earlier. Picard now recognizes this as representing Masaka; then he sees the small U-shaped symbol on the back of the artifact, like he found earlier, but no reasonable explanation, yet. La Forge has finished his scan and tells Picard that the artifacts were not beamed to the Enterprise, rather, the matter in Ten Forward was transformed to form the artifacts. Bit by bit, the Enterprise itself is being transformed, which Worf confirms, stating that part of deck 12 is now an aqueduct.
+Picard believes there is no alternative other than to destroy the archive, but the weapons control system is not functioning. Worf tells him they can re-configure a photon torpedo for a manual launch. La Forge and Worf are busy reconfiguring the torpedo in a darkened engineering when the power system stops working. When La Forge opens the torpedo he sees multiple snakes crawling around the inner workings. At the same time, part of main engineering is transformed and fire blocks their way out. Worf and La Forge are forced to leave by beaming out.
+On the bridge, the operations station has been transformed into a stone slab. Riker exits the observation lounge and recommends holding briefings on the bridge as the lounge has been transformed into a swamp. La Forge establishes that the archive has transformed 20% of the ship. Doctor Beverly Crusher tells them that the archive can reorder and transform molecular structures into anything it wants – that's how the alien plant life and artifacts are made. If this goes on, the entire Enterprise will be transformed into an alien city. La Forge tells him that he has managed to access the archive via the same energy beam. All he needs to do now is locate and access the transformation program. Picard thinks that the answer to doing that lies with Masaka.
+Picard visits Data again; now an elderly man is at front, saying that Masaka is his daughter. Picard inquires about Masaka, asking how he can speak with her. The old man tells Picard that only Korgano can talk to Masaka. Ihat returns, and tells Picard that he must build Masaka's temple to talk to her, and to do that he must use a specific sign. He says that Masaka will be able to track him down if he discloses the sign, and asks that Picard take his place when Masaka seeks to destroy him. Picard gives his word; Ihat begins to show the sign for Masaka, but says "She has found me!" Picard says he will go in Ihat's place, but Ihat is pulled away and replaced by the elderly man. Picard convinces the old man to tell him the sign; "A line as the unending horizon, a curve as the rolling hillside, a point as a distant bird, a ray as the rising sun." The child then reappears and says that he is alone, that Masaka sent the others away; "it will take them days to die."
+
+
+=== Act Five ===
+Back on the bridge (where all the free-standing stations and chairs have been transformed into stone and vines), La Forge locates the transformation program, but is concerned that with the way things have been proceeding, the Enterprise could turn into "a big chunk of rock" when they enter in and use the symbol. Later, Troi and Worf are together with Picard in a corridor. Worf confirms that all personnel have been evacuated from the deck and Picard asks Riker to enter the symbol Ihat gave him into the transformation program. Once entered, the entire deck transforms into Masaka's temple, where they find the sun and U-shaped symbols together, unlike the other artifacts where those symbols are separated from each other. Picard speculates that those symbols are counterparts and asks Troi and Worf to look for more of the U-shaped symbols.
+Meanwhile, Data is seen sitting against a wall in his quarters with his eyes closed. When the temple appears, his eyes open, and he slowly gets up and walks over to a shelf. He takes the mask that he made earlier off of the shelf and puts it on. After this, he exits his quarters, effortlessly incapacitating the two guards outside his door.
+In the temple, Troi has found the most prominent U-shaped symbol; here, it is bigger than the sun symbol. Picard thinks that their relationship is like the sun and the moon, Masaka and Korgano switching positions being similar to the sun setting and the moon rising. Because Ihat and the others seemed not to be frightened by Korgano, Picard wants to find Korgano and see if he can force Masaka to leave. Suddenly the temple shakes and when they look up, they see Data, embodying Masaka and wearing the sun-mask. When Masaka appears uncooperative, Picard decides to try and find Korgano, whom she may listen to.
+La Forge has found Korgano's moon symbol in the archive and Picard tells him to enter the symbol into the transformation program; it causes a mask to appear. Despite the warnings from the others that they know very little about Korgano or the mythology, Picard thinks that the alien culture is based on symbolism he has gleaned from other similar civilizations, so he decides to wear the mask and pose as Korgano.
+When Picard enters the temple wearing the mask, Masaka recognizes him as Korgano. Masaka thought she was alone and did not have to share the sky with anyone. Picard, in Korgano's guise, tells her that without him she is not complete, that she lives for the chase like himself and that she is beginning to get tired because it is difficult to brighten the sky forever. Masaka says that she is getting sleepy and tells Korgano to begin the hunt again. At that moment Masaka falls asleep and the entire ship is transformed back to its original state.
+When Picard asks Data if he is all right, Data answers that he is not entirely certain what has exactly happened and wonders if he has been dreaming again. La Forge is able to disable the transformation program and Starfleet is dispatching an archaeological team to study the archive further.
+In the captain's ready room, Picard holds Masaka's mask and asks Data why it is the only artifact that hasn't returned to its original state on the ship. Data replies that it was the original clay mask he made in class and not part of the collection of artifacts that were showing up. Picard tells Data that he may have been hosting up to a dozen different lifeforms, but Data says that he was actually hosting thousands of people and that without them, he feels empty, but relieved to be rid of them. Picard notes that while Data can not experience what it is like to be Human, he has experienced something which has transcended the Human experience by having been an entire civilization.
+
+
+== Memorable quotes ==
+"Ooh – that's an interesting thought."
+
+- Troi, on Crusher's suggestion that the object in her quarters was sent by a secret admirer
+
+"How can I reproduce a sound with clay?"
+
+- Data, to Counselor Troi
+
+"Geordi. What... does it feel like... when a person is losing his mind?"
+"Data, come on, you're scaring me now. What's going on?"
+" I... do not know. I... am different."
+"Well, you're going to be all right. You're with me, okay?"
+"Okay."
+
+- Data and Geordi La Forge
+
+"Do you understand pain? Death? That is all you need to know of Masaka. It is what she is."
+
+- Ihat, to Picard
+
+"In a sense, Data has the android equivalent of multiple personalities."
+
+- Troi
+
+"Maybe we'd better talk in here. The observation lounge has turned into a swamp."
+
+- Riker, on holding a meeting of the senior staff on the bridge
+
+"Let the hunt begin again. I am eager for that."
+"As am I."
+
+- Masaka and Picard, impersonating Korgano
+
+"Masaka is waking."
+
+- Ihat
+
+"It was a remarkable experience."
+"Well, Data, you never may become fully Human but you've had an experience that transcends the Human condition. You've been an entire civilization."
+
+- Data and Picard (last lines)
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 9 December 1993 [1]
+Premiere airdate: 21 February 1994
+First UK airdate: 1 May 1996
+
+
+=== Story and script ===
+The episode derived from an old premise of Michael Piller's to do a take on the lost Library of Alexandria. Joe Menosky had originally used purely archetypal forms, but these proved hard to conceptualize, so they were changed into actual characters from the archive. (Star Trek: The Next Generation Companion, 3rd ed., p. 285)
+According to science consultant André Bormanis, the explanation given in the original script was that the archive was an "advanced Genesis Device" that mistook the Enterprise for a world to recreate the ancient society on. (Star Trek: The Next Generation Companion, 3rd ed., p. 285)
+Ronald D. Moore recalled, "I remember seeing the initial story and saying, 'Jesus, what is this?' It was pretty out there and then the script came in and we all sort of scratched our heads and looked at each other and wondered what he's smoking out there in the Alps. But when we started to examine it and get into it a little more, we saw what he was doing. He has some real interesting ideas and he approaches things from a fresh angle." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+The episode's script received an uncredited polish by Naren Shankar. (Star Trek: The Next Generation Companion, 3rd ed., p. 285)
+
+
+=== Production ===
+Brent Spiner found this episode to be one of his most difficult acting assignments on the series. "I had some good stuff seventh season. I just wish they had been scheduled differently. I got the script for 'Masks' on the night before we shot it and I was finishing "Thine Own Self" the midnight before, so I didn't have the time to even absorb the script and digest it and figure out who these people were that I was playing...I think I said to Jeri at the time, 'Give me six months and I think I could give all the characters their due,' but as it was, I didn't know who these people were and so I was doing instant acting and just coming up with whatever I was coming up with because we had to put it to film." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Taylor added, "Brent was very nervous about doing all of those parts. He said Dustin Hoffman had a year to figure out how to do Tootsie and portray a woman. I said, 'You don't have to portray a woman, just portray a leader.' He ended up carving up four unique, distinct personalities which are very, very tough on an actor, especially given the time constraints." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+The temple set was built on Star Trek: Deep Space Nine's Stage 18. The set was later put to good use as the Albino's fortress in DS9: "Blood Oath". TNG's own Stage 16 was not free, as the village from "Thine Own Self" was built on it. (Star Trek: The Next Generation Companion, 3rd ed., p. 285)
+The rogue comet effect was made by Santa Barbara Studios, who had previous experience rendering comets as they had rendered the comet for DS9's opening sequence. The melting comet effect was so well-received by the TNG production staff that it was extended from a six to a nine seconds shot. (Star Trek: The Next Generation Companion, 3rd ed., p. 285) The shot was later reused in VOY: "Death Wish".
+
+
+=== Reception ===
+Many of the staff were displeased with the final episode. Naren Shankar commented, "Joe has a magnificent imagination, he thinks in a deep way. But in this case it was too much... We had to make it more understandable, make the clues clearer. And the end result is... it's still kinda confusing." (Star Trek: The Next Generation Companion, 3rd ed., p. 285)
+Brannon Braga observed, "Joe is one of those writers who has a unique vision that no one else understands. Shows need to be nurtured by him and it's very tough to come in on one of his scripts and start rewriting it. He needed to be here and it's unfortunate that it suffered as a result. The first draft had some very confusing elements that needed work. On the whole, it was a very good script, but the last act was unsatisfying and I feel that was because it needed to be simplified, but Joe wasn't here to do it and the staff struggled a little bit...The best thing about the show is watching the Enterprise being mutated into this weird ancient civilization. The art direction, effects, and the opticals were among our best." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Director Robert Wiemer is also not fond of the episode, remarking, "I always look and find a meaningful subtext of some kind in all of the shows I've done; more often than not they're little morality plays, and I was unable to find that in "Masks"... it ended up kind of an exotic adventure story, but it didn't have any heart." (Star Trek: The Next Generation Companion, 3rd ed., p. 285)
+At a Creation Entertainment convention in South Bend, Indiana in 1994, Michael Dorn cited this as his least favorite episode of TNG.
+In contrast, Ron Moore commented, "It was a fascinating episode. It was just full of wild concepts and from that angle alone it was worth doing. Sometimes you have to take those risks and really go out someplace and do something bizarre." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+In a 2012 interview with TrekMovie.com, Brent Spiner recalled, "There was one that we thought was terrible while we were doing it. We were laughing at each other's faces at the acting we were doing in "Masks," but that is a fan favorite. I am always hearing how fans love it and let me tell you, we could not look at each other. Colm Meaney was laughing at me, Marina [Sirtis] was laughing at me. I was laughing at Patrick. He was laughing at me. We were thinking "this is preposterous," but you cut it together and add the music and it works." [2] However, as Colm Meaney does not appear in this episode, it is likely Spiner was referring to another episode, most likely TNG: "Power Play"
+This episode would inspire  scenes in 2022's LD: "Room for Growth", featuring the mask of Minooki.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 85, 8 August 1994
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Co-star ===
+Rickey D'Shon Collins as Eric
+
+
+=== Uncredited co-stars ===
+Debbie David as Russell
+Cameron as Kellogg
+Tracee Lee Cocco as Jae
+Debra Dilley as command division ensign
+Keith Gearhart as operations division ensign
+Fumiko Hamada as command division officer
+Marianne Lewis as operations division officer
+Lorine Mendell as Diana Giddings
+Michael Moorehead as science division ensign
+Pauline Olsen as operations division ensign
+Mark Riccardi as operations division officer
+Noriko Suzuki as operations division ensign
+Margie Thomas as command officer
+Unknown performers as
+Narsu
+Operations division officer
+Security officer
+Six clay students
+Ten Forward waitress
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+87 million years ago; alloy; ancient history; animal; antler; aqueduct; behavioral node; belief system; cardinal direction; clay; compass; computer core; core; cycle; D'Arsay; D'Arsay archive; D'Arsay system; dimensions; DNA; dozen; Federation Astrophysical survey; Federation; Federation charts; Federation linguistics bank; fortanium; Galaxy class decks; god-like figure; helium; horn; hydrogen; ice; Ihat; imagination; input pathway; Korgano; Korgano's temple; mantle; Masaka; Masaka's city; Masaka's temple; mask; messenger; micrograph; mok'bara; music; nemesis; Number one; path; percent; phaser; queen; realism; road; rogue comet; royalty; sector; Sector 1156; Sector 1156 star; Sector 1156 system; sensor array; sensor echo; signal path; space; Starfleet; swamp; terminal; treble clef; wing; Woman Holding a Balance, A
+
+
+==== Library computer references ====
+Starship mission status: Ajax, USS; Alderaan; Alpha Laputa IV; Ambassador-class; Apollo-class; Aries, USS; Beta Cygni system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merced-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Romulan Neutral Zone; sector; Sector 21396; Sector 21538; Sector 22358; Sector 22846; Sector 22853; Sector 23079; Starbase 134; Starbase 434; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Zhukov, USS
+Evolution of Intelligent Life on Planet Denkir IV: Delphoidia; Delphoidia cochrani; Delphoidia cochrani obliquidens; Delphoidia cochrani tempus; Delphoidia moroboshi; Delphoidia moroboshi lum; Neopictis; Neopictis gourami; Neopictis spinotap; Neopictis spinotap cochrani; Oceosauroida; Oceosauroida mendo; Oceosauroida mendo shinobu; Oceosauroida mendo shutaro; Oniboshi lum; Oniboshi lum ran; Oniobshi benten; Squaluformus; Squaluformus vino; Squaluformus vino shiro; Vermacelli alfredo
+Table of Elements: accurentum; averyonium; babaloo; beium; bermanium; brownfieldium; bugsonian; californium; cavorite; chanockian; cheeseium; chico; chronister; cosmoium; craftium; curly; daffyduckium; dentium; dilithium; disneyium; drapanas; duckdodgers; estonianium; exitstageleft; fieldium; franconium; freedonia; Gamma series; groucho; grouchoian; harpo; hawkeye; hobbes; hydrogen; Hypersonic series; jamesium; johnsonium; jonesium; keiyurium; kryptonite; lithium; magnumium PI; mazdaium; meeseian; Mega series; monty; neskoromnium; Omega series; paramount; pillerium; poi; potatoeium; princessium; purseronite; quarkian; redskinium; rhubarbium; smutkoian; snarkium; sodium; stimsonium; stoogeian; stoogeium; sufferin'sucat; thomsonian; tngonian; Transonic series; World series; yacobian; zeppo
+
+
+==== Unreferenced material ====
+serum electrolyte
+
+
+=== External links ===
+"Masks" at Memory Beta, the wiki for licensed Star Trek works
+"Masks" at Wikipedia
+"Masks" at MissionLogPodcast.com
+"Masks" script at Star Trek Minutiae
+"Masks" at the Internet Movie Database

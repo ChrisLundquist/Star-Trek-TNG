@@ -1,0 +1,347 @@
+The Enterprise discovers a weapon capable of destroying entire planets, and a Starfleet flag officer whose crew was killed by the machine jeopardizes the crew on a crazed mission of revenge.
+
+
+== Summary ==
+
+
+=== Teaser ===
+On the USS Enterprise, Lieutenant Palmer receives a faint and garbled distress signal. It is apparently a starship's disaster beacon, but Palmer is unable to make out any words aside from "Constellation". At the same time, the Enterprise also encounters heavy subspace interference, which prevents the crew from reporting their discoveries to Starfleet Command.
+
+The Enterprise enters system L-370 and finds that all seven planets in the system have been destroyed, smashed to rubble. Proceeding to system L-374, they find the same thing: debris where there were once healthy planets the previous year. All of the systems in the sector have been destroyed except for the two inner planets in L-374.
+In L-374, the Enterprise also finds her sister ship, the USS Constellation, commanded by Commodore Matt Decker, now a powerless wreck, drifting and apparently abandoned. As there is no apparent natural cause for the planetary destruction and the condition of the Constellation, Captain Kirk assumes that they were attacked and orders the Enterprise to go to red alert.
+
+
+=== Act One ===
+Sensor scans show the Constellation to be running with minimal life support, using its reserve energy banks. All of its power plants are dead, and the bridge is uninhabitable. Subspace interference is preventing further sensor readings, as well as any communications beyond the distress signal. There are no other ships detected in the area, however, and Kirk orders the ship's status dropped to yellow alert.
+Kirk then orders Dr. McCoy, Montgomery Scott, and a damage control party to the transporter room. He intends to board the Constellation, and leaves Commander Spock in command of the Enterprise.
+
+The landing party beams aboard a corridor on the Constellation and begins investigating. Scott and his team examine the engine room and find the warp engines totally destroyed, the impulse engines heavily damaged, and the phaser banks completely exhausted. The Constellation has clearly fought a pitched battle and lost. Kirk and McCoy, examining the rest of the ship, find no signs of the crew and no bodies. Kirk wonders if the crew might have beamed down to one of the remaining planets, but Spock (on the Enterprise) informs him that the planets could not possibly sustain Human life: the inner planet having a surface temperature close to the melting point of lead and the second's atmosphere is simply too toxic to support Human life. When Scott, after giving his report on the condition of the engines to Kirk, suggests that they might play back the tapes of the captain's log, they proceed to the auxiliary control room. There, Kirk finds Commodore Decker, the sole survivor aboard, in a fugue state. McCoy gives him an injection with his hypospray and he starts to come around, eventually recognizing Kirk.
+
+As he begins to recover, Scott plays back Decker's log:
+
+"Captain's log, stardate 4202.1. Exceptionally heavy subspace interference still prevents our contacting Starfleet to inform them of the destroyed solar systems we have encountered. We are now entering system L-374. Science Officer Masada reports the fourth planet seems to be breaking up. We are going to investigate."
+Decker, still in shock and barely lucid, begins to remember what happened as he hears his log played back. Kirk orders the Constellation sensor tapes beamed back to the Enterprise for analysis by Spock. Decker describes how his ship was attacked and disabled and, unable to contact Starfleet due to heavy subspace interference, he beamed his crew down to the third planet. As the captain, he was the last man aboard when the ship was attacked again. The transporters were disabled, and he was stranded.
+Prompted by Kirk for a description of the attacker, Decker becomes increasingly distraught as he describes something "right out of hell" that destroyed the third planet, along with all four hundred of the Constellation's crew. Telling of how his crew begged for rescue as he sat helpless on the ship, he collapses in grief.
+Washburn reports that the ship's antimatter stores have somehow been deactivated, and Kirk asks Scott if a "general energy dampening field" could be responsible for that, as well as the subspace interference. Scott agrees that it's possible, but doesn't know of anything that could generate such a field.
+Decker, recovering somewhat, begins describing the planet killer in more detail. "Miles long, with a maw that could swallow a dozen starships," Decker explains that the planet killer uses a pure antiproton beam to carve planets up into rubble. He couldn't tell if it was a ship or a living organism.
+Spock reports in from the Enterprise. From the sensor tapes, he has determined that the planet killer is an automated weapon designed to smash planets and digest the debris for fuel. As long as there are planets to consume, the device is self-sustaining. Spock and Sulu have used the locations of the ravaged star systems they encountered to calculate that the planet killer came from outside the galaxy, and that its projected path will take it through the most densely populated section of our galaxy.
+Speaking with McCoy, Kirk postulates that the planet killer is a "doomsday weapon," a bluff created by an unknown maker and intended as a deterrent only. This one is roaming the galaxies, consuming everything in its path for fuel, including whole planets. Its alien makers are presumably long since dead. This becomes the operational theory, though the Enterprise never finds any evidence that confirms or denies it.
+McCoy is still concerned about Decker's mental condition, and wants to get him to the Enterprise sickbay. Decker, slipping back and forth between his authoritarian captain's persona and that of a grief-stricken trauma victim, at first refuses to leave his ship, but is convinced when Kirk offers to take the Constellation in tow. Decker ruefully notes to Kirk that he has never lost a command before. McCoy and Decker beam back to the Enterprise while Kirk and Scott remain on board the Constellation to rig her for towing.
+However, when McCoy and Decker materialize in the Enterprise transporter room, the red alert klaxons are sounding, and they both rush to the bridge. The planet killer has returned, and they find Spock in the command chair, reporting to Kirk on the Constellation as the planet killer turns to pursue the Enterprise.
+
+
+=== Act Two ===
+
+Facing them with its gaping maw, the planet killer turns to pursue the Enterprise as Spock analyzes his sensor readings and concludes that they have little chance of deactivating the device without drawing an attack upon themselves.
+Kirk orders the landing party beamed back to the Enterprise, but the planet killer attacks the Enterprise before Kyle in the transporter room can do so. The transporters are damaged, as are communications, causing the Enterprise to lose contact with Kirk, now stranded aboard the Constellation with no viewscreen and no maneuvering ability. Kirk orders Scott to try to repair the impulse drive, while he and Washburn work on restoring the viewscreen.
+After the initial attack by the planet killer, the Enterprise evades and outruns it. Dr. McCoy reports no casualties, and Decker, already assuming an attitude of command, orders a status report from Kirk's chair. Warp and impulse engines are undamaged, but transporters and communications are under repair. Now some distance away, the planet killer stops pursuing the Enterprise, veers off, and resumes its course for the densely-inhabited Rigel system.
+Spock states his intention to keep his distance from the planet killer, circle around to pick up the landing party, and then evade the device's subspace interference so that they can warn Starfleet Command of the danger. Decker objects, stating that their primary duty is to protect Federation citizens, and that they must attack the planet killer immediately. He orders a 180 degree turn. Spock dispassionately ignores Decker's arguments and instructs Sulu to carry out his order.
+Decker, at this point, asserts his rank as a Starfleet commodore and assumes command of the Enterprise (under General Order 104, Section B, Paragraph 1a), despite the precise and logical objections of Spock, as well as the more hysterical ones of Dr. McCoy. Spock points out that Decker's previous attempt to attack the planet killer resulted in the loss of his ship and the death of his crew. Momentarily losing his attitude of command authority, Decker admits his previous mistake and asserts that this time he will get much closer to the planet killer and attack it with full phasers. Spock protests that the device's hull is made of solid neutronium, and is therefore impervious to attack from a single ship.
+Decker ends the argument by ordering Spock to surrender command or be relieved of duty. Confronted with an official order from a superior officer, Spock has no choice but to let Decker assume command. McCoy, looking for a loophole in the regulations, offers to declare Decker medically unfit (under what Spock describes as Section C of General Order 104), but having had no time to perform a complete examination, his declaration would carry little to no weight.
+Decker's mask of authority again slips momentarily when he thinks McCoy might have a case for relieving him, but Spock's adherence to the spirit of the regulations makes his argument for him. Decker orders McCoy off the bridge and gives orders to set course for the planet killer and prepare for battle. The bridge crew looks on worriedly, but Sulu has no choice but to carry out his orders. As the Enterprise reverses course and approaches the planet killer again, Commodore Decker sits comfortably in the captain's chair, in full command mode. However, he still looks a wreck: unshaven, bedraggled, and wild-eyed. Spock, instead of returning to his science station, stands at attention by the captain's chair.
+Aboard the Constellation, Kirk and Scott are proceeding with repairs, oblivious to what's going on outside. Scott will have to use the warp control circuits to control the impulse engines, which will make the ship difficult for one man to handle.
+The Enterprise closes in on the planet killer, pushing its deflector shields to the limit. The planet killer fires, weakening the shields further. Spock recommends retreating, but Decker, asserting his command status, takes the ship still closer.
+On the Constellation, Kirk and Washburn have repaired the viewscreen, and the first image that appears is the Enterprise, approaching dangerously close to the planet killer. The Enterprise fires its phasers and scores direct hits on the planet killer, to no apparent effect. Spock urgently recommends withdrawal, but Decker "notes" his recommendation and ignores it, ordering Sulu to lay down more phaser fire.
+Kirk desperately tries to contact the Enterprise, and when he cannot, orders Scott to get the impulse drive up and running as quickly as possible.
+The planet killer fires on the Enterprise again, disabling its shields and its power energizers. Lieutenant Palmer, the communications officer, also reports severe casualties on decks 3 and 4 and reports of an inner hull breach. The planet killer stops firing and begins pulling the Enterprise inside itself using a tractor beam, presumably to "digest" it as fuel. Spock says that they must veer off, and when Decker tries to continue the attack, he informs him that with warp power out, they must break away from the tractor beam within sixty seconds, or they never will.
+Decker, his irrational obsession now blatantly apparent to the crew, insists on trying to destroy the planet killer, but Spock warns him that if he does not order a withdrawal, he will relieve Decker of command using evidence of attempted suicide as proof of Decker's instability. Decker gives in, looking far less confident than he was just a few minutes prior, and orders Sulu to veer off, but it is too late; the planet killer has the Enterprise in its tractor beam, and continues pulling her inside.
+
+
+=== Act Three ===
+On the Constellation, Scott has managed to partially repair the impulse engines, providing basic maneuverability. Running from console to console, Kirk starts the ship limping towards the Enterprise and the planet killer.
+On the Enterprise, Decker orders full power astern, but they still cannot break free from the tractor beam.
+Captain Kirk's plan is to attract the planet killer's attention by moving towards it, while the Enterprise remains stationary. He wishes aloud for phasers, and Scott tells him that he has one bank recharged. Kirk, delighted with his engineer, fires at the planet killer, causing it to immediately release the Enterprise from its tractor beam and come about to pursue the Constellation.
+With the planet killer rapidly approaching the Constellation, however, Kirk's plan suddenly does not seem like such a great idea. He orders Scott to retreat, and Decker, now excited at the prospect of having two ships to attack the monster, fires phasers again and orders the Enterprise to clear the area. The planet killer does not pursue them, and Spock opines that the device has a set defensive sphere; it attacks any energy source encroaching the sphere.
+The Enterprise's warp drive and deflector shields will be out for one solar day, while repairs are proceeding on the transporters and communications. The planet killer starts moving towards the Enterprise again, and Decker orders Sulu to maintain their speed and distance. The planet killer pauses to ingest rubble from the destroyed planets, and Spock notes that by refueling itself this way, the device can maintain its pursuit indefinitely, while the Enterprise, at its current speed, will exhaust its fuel in seven hours. Decker takes this to mean that they should attack now, but Spock once again points out the illogic of Decker's actions. He repeats his initial plan, insisting that they must pick up Kirk and the landing party and then get clear of the subspace interference so they can warn Starfleet about the planet killer.
+Before Decker can object, Palmer reports that ship-to-ship communications have been restored. Kirk hails the Enterprise through his communicator and Decker, back in command mode, insists on speaking for the ship. Kirk, expecting Spock, is surprised to hear Decker's voice. When he finds out that Decker has assumed command because Spock refused to attack the planet killer, Kirk, angry and justifiably insubordinate, calls Decker a "lunatic" for endangering the Enterprise and her crew and demands that he get the ship out of the area.
+Decker, his mask again slipping a bit, allows Spock to give Kirk the same status report that he gave Decker. Upon hearing this, Kirk orders Sulu to take evasive action, only for Decker to once again attempt to assert his command authority by ordering Sulu to turn back and attack the planet killer. Having had enough of Decker's abuse of authority, his improper invocation of Starfleet regulations and overall reckless disregard for the safety of the Enterprise's crew, an incensed Kirk orders Spock to relieve him of command immediately, on his "personal authority as captain of the Enterprise."
+Spock tells Decker that he is relieved, and even though Decker does not recognize his or Kirk's authority to do so, he sees that Spock - who offers Decker a chance to file a formal protest with Starfleet Command, assuming they survive this crisis - will have him arrested if necessary, and that the crew will support the First Officer against him without question. In a final act of defiance, Decker claims that Spock is "bluffing." only for Spock to simply respond that "Vulcans never bluff." Seeing his authority is lost against an officer with so strong a will and crew support, Decker surrenders command.
+Spock takes the captain's chair and resumes command, to the evident relief of Sulu. Spock then orders Montgomery, a security officer, to escort Decker to sickbay for a medical examination, and Decker leaves the bridge. Spock orders an evasive course back to the Constellation. However, on the way to sickbay, Decker overpowers Montgomery, knocks him unconscious, and sneaks down to the hanger deck.
+On the Constellation, Scott reports to Captain Kirk that they now have ship's communications, one-third impulse power, and minimal deflector shields. Kirk plots a course and plans his rendezvous with the Enterprise.
+On the Enterprise, an unauthorized Class F shuttlecraft launches before Sulu can stop the launch bay doors from opening. It is, of course, Commodore Decker, who replies to Palmer's repeated hails with the exhausted calm of finality. He describes his plan to pilot the shuttlecraft directly at the planet killer, sending it and himself "right down its throat." More a suicide than a serious attack, Decker speaks of his responsibility for his crew and how he has been ready to die himself ever since their deaths. All of Matt Decker's masks are gone now, and as Kirk tries to talk him down and Spock preaches logic, he stares at the gaping maw of the planet killer. Closing the comm channel, Decker watches with increasing horror and panic as he approaches death, and it consumes him.
+With a sorrowful expression, Kirk closes his communicator and Spock, looking as emotional as he ever gets, says "He's gone."
+
+
+=== Act Four ===
+Spock hails Captain Kirk on the Constellation and offers his condolences on Commodore Decker's death. Kirk's biggest regret is that Decker died for nothing. However, Sulu reports that the ship's sensors have detected a slight drop in the planet killer's power emanations, and wonders if it could be a result of the shuttlecraft explosion.
+Palmer reports that the transporter is now operational, and Spock asks Kirk if he should beam them aboard. Kirk orders Spock to beam the damage control party back to the Enterprise, but he and Scott will remain behind. Kirk has the idea that Decker's method was viable; he just didn't have enough power in the shuttlecraft to be effective against the planet killer. Kirk asks Spock if the 97.835 megaton fusion explosion that would result from an overload of the impulse engines on the Constellation would be enough the destroy the planet killer. Spock reminds Kirk of the device's neutronium hull, which no known force can penetrate. Kirk's plan, however, is not to penetrate the hull, but to trigger the explosion while the Constellation is inside the planet killer. He orders Scott to rig a thirty-second delay detonation device for the impulse engine overload, which Kirk can set off from auxiliary control.
+Spock reports that he can't tell if the explosion would be sufficient to destroy the planet killer, and warns Kirk that he is getting dangerously close to the device. Echoing Decker, Kirk says that he plans to take the Constellation even closer and "ram her right down that thing's throat," only beaming back to the Enterprise at the last minute. Both Spock and Scott warn Kirk that the transporter is not operating at 100% efficiency, and that thirty seconds is cutting the margin of safety rather close. Kirk is determined to proceed, however.
+
+Scott demonstrates the operation of the delay detonation device to Kirk, and warns him that once initiated the overload cannot be stopped, before beaming back to the Enterprise. He makes it back safely, but the transporter malfunctions and needs repair before they can transport Kirk. The power levels on the Constellation are dropping, however, and the ship is rapidly approaching the planet killer, so time is of the essence. Scott climbs into a Jefferies tube to effect repairs. The transporter is soon operational again, but only just barely. Scott doesn't expect his jury rigging to last for long.
+When the Constellation is less than five hundred miles from the planet killer, Kirk activates the time delay trigger and requests beam-out. Unfortunately, the transporter shorts out again, and Kirk is trapped on the Constellation with no way to stop the impulse engine overload that is imminent. Scott returns to the Jefferies tube and, with Spock's repeated urging to hurry, completes repairs just in time for Kyle to beam Kirk out before the explosion.
+Kirk hurries to the bridge, arriving there to find everyone demonstrably relieved, for the planet killer is quite dead. Kirk orders a power-conserving course and the continuation of repairs and communications with Starfleet are restored. Kirk and Spock lament the death of Matt Decker, with Kirk assuring Spock that his log will say that Decker died in the line of duty. Kirk points out the irony that they ended up using a form of H-bomb, the doomsday machine of the 20th century, to destroy this alien 23rd century doomsday machine. Spock wonders if there might not be other devices like it wandering around the universe. Kirk sincerely hopes not, as he found the one they encountered to be "quite sufficient."
+
+
+== Log entries ==
+Captain's log, USS Constellation
+
+
+== Memorable quotes ==
+"They say there's no devil, Jim, but there is. Right out of hell, I saw it!"
+
+- Decker, describing the doomsday machine
+
+"Matt, where's your crew?"
+"On the third planet."
+"There is no third planet."
+"Don't you think I know that? There was, but not any more!"
+
+- Kirk and Decker, on the disappearance of the Constellation crew
+
+"Bones, did you ever hear of the doomsday machine?"
+"No. I'm a doctor, not a mechanic."
+
+- Kirk and McCoy, in the Constellation's auxiliary control room
+
+"A robot weapon that purposely destroys entire solar systems. Why?"
+"Unknown, Captain. However, Mr. Sulu has computed the path of the machine, using the destroyed solar systems as a base course. Projecting back on our star charts, we find that it came from outside, from another galaxy."
+"What is the projected course of this thing?"
+"If it follows its present path, it will go through the most densely populated section of our galaxy."
+
+- Kirk and Spock, discussing the threat to the densely populated sector of their galaxy by the doomsday machine.
+
+"Random chance seems to have operated in our favor."
+"In plain, non-Vulcan English, we've been lucky."
+"I believe I said that, Doctor."
+
+- Spock and McCoy, after the doomsday machine's attack on the Enterprise
+
+"You can't let that thing reach Rigel! Why millions of innocent people would die."
+"I am aware of the Rigel System's population, Commodore, but we are only one ship. Our deflector shields are strained, our subspace transmitter is useless. Logically, our primary duty is to survive in order to warn Starfleet Command."
+"Our 'primary duty' is to maintain life and the safety of Federation planets! Do you deny that?!"
+
+- Decker and Spock, when the former begins to question Spock's command
+
+"Spock?  Do something!"
+"Mr. Spock knows his duty under regulations, Doctor. Do you?" 
+
+- McCoy and Decker, after Spock refuses to relieve Decker of command
+
+"Aye, we can cross-connect the controls, but it'd make the ship almost impossible for one man to handle."
+"You worry about your miracles, Scotty. I'll worry about mine."
+
+- Scott and Kirk, on fixing the Constellation
+
+"If I only had some phasers."
+"Phasers? You've got 'em. I have one bank recharged."
+"Scotty, you've just earned your pay for the week."
+
+- Kirk and Scott, as the Enterprise is pulled closer to the doomsday machine
+
+"Commodore Decker, you're relieved of your command."
+"I don't recognize your authority to relieve me!"
+"You may file a formal protest with Starfleet Command, assuming we survive to reach a Starbase, but you are relieved. Commodore, I do not wish to place you under arrest."
+"You wouldn't dare." (Spock signals the guards forward) "You're bluffing."
+"Vulcans never bluff."
+
+- Spock and Decker, as Spock relieves Decker of command
+
+"Commodore, I must insist that you return to the ship!"
+"You said yourself, Spock. There is no way to blast through the hull of that machine, so… I'm going to take this thing right down its throat."
+
+- Spock, trying to recall Decker out of ramming the Enterprise's shuttle craft that he commandeered into the maw of the planet killer
+
+"The commander is responsible for the lives of his crew, and for their deaths. Well, I should have died with mine."
+
+- Decker's final words
+
+"Sir, may I offer my condolences on the death of your friend. It is most regrettable."
+"It's regrettable that he died for nothing."
+
+- Spock and Kirk, on Decker's death
+
+"Am I correct in assuming that a fusion explosion of 97 megatons will result if a starship impulse engine is overloaded?"
+"No, sir. 97.835 megatons."
+
+- Kirk and Spock
+
+"Captain, you're getting dangerously close to the planet killer."
+"I intend to get a lot closer. I'm going to ram her right down that thing's throat!"
+
+- Spock and Kirk, on using the Constellation to destroy the doomsday machine
+
+"A cranky transporter's a mighty finicky piece of machinery to be gambling your life on, sir."
+
+- Scott, after Spock tells Kirk about the problems with the transporter
+
+"Gentlemen, I suggest you beam me aboard."
+
+- Kirk, as the overload countdown ticks away
+
+
+== Background information ==
+
+
+=== Production timeline ===
+Story treament "The Planet Eater" by Norman Spinrad: 5 February 1967
+Story outline: 2 March 1967
+Revised story outline: 6 March 1967
+First draft teleplay: 5 April 1967
+Second draft teleplay "The Doomsday Machine": 8 May 1967
+Revised draft by Gene L. Coon: 10 May 1967
+Final draft teleplay: late May 1967
+Revised final draft: early June 1967
+2nd revised final draft: 14 June 1967
+Additional page revisions: 15 June 1967, 19 June 1967
+Filmed: 20 June 1967 – 26 June 1967
+Day 1 – 20 June 1967, Tuesday – Desilu Stage 9: Int. Bridge
+Day 2 – 21 June 1967, Wednesday – Desilu Stage 9: Int. Bridge
+Day 3 – 22 June 1967, Thursday – Desilu Stage 9: Int. Bridge, Corridors, Transporter room; Desilu Stage 10: Int. Shuttlecraft
+Day 4 – 23 June 1967, Friday – Desilu Stage 9: Int. Auxiliary control center
+Day 5 – 26 June 1967, Monday – Desilu Stage 9: Int. Auxiliary control center, Corridors, Engineering
+Score recording: 30 August 1967
+Original airdate: 20 October 1967
+Rerun airdate: 19 April 1968
+First UK airdate: 6 December 1969
+Remastered episode airdate: 10 February 2007
+
+
+=== Cast ===
+Norman Spinrad has expressed disappointment that the actor whom he envisioned playing Decker, Robert Ryan, was not cast. Ryan was unavailable due to other commitments. [1]
+William Windom, who was eventually cast as Decker, did not realize the Moby Dick allegories in "The Doomsday Machine" until years later. He thought the episode "seemed kind of silly, with the planet eater and the spaceships", and acted as though he was playing in a cartoon. "I was playing 'Captain Ahab in Outer Space' but I didn't think about it that way until years after I did it, when I read it in an article!" [2]
+The three crewmen who beam over to the Constellation with Kirk, McCoy, and Scott were named after three of the series' assistant directors. Washburn's namesake was Charles Washburn; Russ' was Rusty Meek, and Elliott's was Elliot Schick.
+Nichelle Nichols (Uhura) does not appear in this episode. Uhura's duties were assumed by Lt. Palmer, played by Elizabeth Rogers. Walter Koenig (Chekov) is also absent.
+This episode has six alumni from The Twilight Zone: Shatner, Nimoy, Doohan, Takei, Windom, and Jerry Catron.
+
+
+=== Sets and props ===
+This episode marks the debut of the re-designed engineering set. The dilithium crystal storage units now occupy the center of the floor (complete with recycled Horta eggs); a ladder and upper level have been added into what was just a high bank of lighted panels in the first season. The set also is entered through a short spur hallway now, rather than as a side door off a main corridor. The console across from the forced-perspective end of the set has been replaced by a doorway and moved to the main wall to the left of the red grid. The huge structures among which Kirk's evil self and Benjamin Finney once hid are not seen in detail again, but the emergency manual monitor set was built on stilts on that spot, making its debut in "Mirror, Mirror".
+The engine components appear and disappear as scenes dictated: they show up in "Day of the Dove" and "The Paradise Syndrome" but are absent completely in "Elaan of Troyius".
+
+The trident scanner Scott pulls out of the new storage area near the doorway to engineering is the same prop Spock uses in "Metamorphosis" as he works on the shuttlecraft, and which Ensign Harper uses to plug in the M-5 multitronic unit in "The Ultimate Computer". It is identified in The Making of Star Trek as a "Ray Generator and Energy Neutralizer (Spock-Built)."
+The modified Nuclear-Chicago Model 2586 Radiation Survey Meter is again used by a member of the landing party as a sensor device.
+The auxiliary control room is first seen in this episode aboard the Constellation. Its large viewing screen was previously used in the briefing room in "The Menagerie, Part I", "The Menagerie, Part II", and "Space Seed", and on the bridge set used in "Where No Man Has Gone Before".
+There are usually two full stations between Spock's library computer station, and the half station adjacent to the viewing screen. Yet, as Kirk and Spock walk by that area, only one station can be seen.
+The picture of the star field on the bulkhead of the transporter room makes its last appearance in this episode.
+When the damage-control team beams aboard the Constellation, Kirk does not wear a phaser and McCoy is not equipped with a tricorder.
+
+
+=== Story and production ===
+Norman Spinrad's original story outline, entitled "The Planet Eater" took Moby Dick as one of its inspirations. [3]
+Star Trek ventured back to Moby Dick later in the second season, with "Obsession", then again with the films in Star Trek II: The Wrath of Khan and Star Trek: First Contact.
+Director Marc Daniels finished this episode in five days instead of the usual schedule of six. (Inside Star Trek: The Real Story, p. 253) According to Jerry Finnerman, Daniels made a bet that he could finish the episode in five days. When he succeeded, he got a US$500 bonus. [4] Previously, Joseph Pevney received a similar bonus for wrapping "Arena", expected to be filmed in seven days, in the normal six-day schedule. (These Are the Voyages: TOS Season One)
+William Windom has said at conventions that he had his character compulsively fiddle with cassette cartridges as an homage to Humphrey Bogart, whose Captain Queeg did the same thing with ball-bearings in The Caine Mutiny.
+This is the first time the Enterprise has encountered another Constitution-class starship with the entire crew dead. This later occurs in "The Omega Glory" and "The Tholian Web". Also, the entire crew of the USS Excalibur is annihilated during the battle in "The Ultimate Computer", and the USS Intrepid is destroyed with all hands in "The Immunity Syndrome".
+A blooper from this episode features Leonard Nimoy saying, "If you do not veer off, I shall… blow my brains out!"
+Footage of Scott being tossed around engineering is stock footage from "Tomorrow is Yesterday". A console that appears only in that episode can be seen. Scott wears a tricorder throughout this episode. But when the old footage of him being thrown against the grating in "Tomorrow is Yesterday" is spliced in, the tricorder vanishes.
+Kirk's second season green wraparound tunic debuts in this episode and will appear intermittently throughout the season. In contrast with the first season version, the collar is now edged with gold piping, although it lacks the black trim that it will gain for later second-season episodes such as "The Apple" and "The Immunity Syndrome". The other key difference is the location of the rank braids: these were seen on the shoulders in the first season, whereas this version of the tunic sports the standard braids on the sleeves. Kirk never wore the green tunic in the third season.
+In most of the earlier drafts of the screenplay, Decker did not sacrifice himself, but instead survived to admit his mistakes and voluntarily retire. The core of this scene was later recycled into the ending of "The Deadly Years", where Commodore Stocker admits to Kirk that his taking command of the Enterprise was in the wrong.
+What is a commodore? While the rank exists as such in some military organizations around the world, it is an honorary title in the US. (Not to be America-centric and recognizing that Trek rank structure would not necessarily mimic that of the US today, the fact is the franchise is a US-produced nameplate created by a US military veteran.) The rank has not existed in that context since the 1950s and is sometimes described as a position rather than a rank: it describes or addresses a non-flag seafaring officer who is commanding more than one ship.
+This is the second of two times in TOS Season 2 that Kirk tells an Enterprise crewmember he has earned his pay for the week. In this episode, Scott surprises Kirk by recharging one of the Constellation's phaser banks, to which Kirk says, "Scotty, you just earned your pay for the week." The previous instance was in "Who Mourns for Adonais?".
+
+
+=== Effects ===
+Adam John Backauskas served as an uncredited property maker for this episode.
+The year this episode was filmed, AMT produced the first Enterprise model kits. One such kit was used to make the model used for the destroyed Constellation. The decals for the ship's registration numbers are just a rearranged version of "1701." The model does not have the details of the regular Enterprise miniatures.
+Norman Spinrad was displeased with the model used for the planet killer. As he told Allan Asherman in The Star Trek Interview Book, he envisioned a doomsday machine bristling with all sorts of evil-looking weapons. It has been anecdotally reported that the Doomsday Machine miniature was made by dipping a windsock in cement [5], but there is no first hand account of this, and Daren Dochterman has suggested the model was more likely made of the type of foil used by gaffers on set, wrapped in blue lighting gels. [6]
+In many of its profile shots, the planet killer is semi-transparent and stars show through it. This was an overlay of film footage of the doomsday machine model over an existing star field. This money-saving technique also was used in "The Squire of Gothos" when Trelane's planet blocks the Enterprise's path.
+
+
+=== Music ===
+While this episode features an original score by Sol Kaplan, 36 seconds of Alexander Courage's "Captains's Wig" (aka "Kirk's Theme") is heard after Kirk tells Spock "I'm gonna ram her right down that thing's throat."
+Sol Kaplan's suspenseful "countdown" music, written for this episode, was re-used in many second-season episodes.
+
+
+=== Significance and legacy ===
+This episode was nominated for a Hugo Award in 1968 as "Best Dramatic Presentation".
+James Doohan in a mid-1980s appearance at the University of Nevada, Las Vegas responded to the question from an audience member "what was your favorite episode of Star Trek", his response was "The Doomsday Machine." Doohan also named this episode as his favorite in the "Star Trek Insights" on Sci-Fi Channel.
+Doohan explained, "For one thing, it had William Windom in it. Very good actor. And it was a very strong role – a very self-tortured character. Very driven. And a strong statement about nuclear weapons. And the effects were extremely good; that was an epic story for television in that time. It wasn't a standout role for Scotty, but it was okay, and I was pleased. I saw it not long ago and I still find it to be very exciting television." (These Are the Voyages: TOS Season Two, p. 158)
+Doohan also noted that the appeal of this episode was its having "a very good scientific background. [...] It was concerned mostly with pure science. You would have to watch it again to understand what I'm saying. The language used in it was very good, topical scientific language." (Starlog #94, May 1985, p. 28)
+TV Guide ranked this as the fourth best Star Trek episode for their celebration of the franchise's 30th anniversary. (TV Guide August 24, 1996 issue)
+Although considered to be a classic episode by fans and critics alike, story editor Dorothy Fontana named this as her least favorite episode. [7]
+The Enterprise's encounter with the planet killer is glimpsed in ST: "Ephraim and Dot".
+
+
+=== Apocrypha ===
+In Gene Roddenberry's novelization of Star Trek: The Motion Picture, Willard Decker is identified as Matt Decker's son:
+"It hasn't been easy for him to live down the old man's legacy. Apparently, losing a Federation starship is still frowned on, whether it is the captain's fault or not."
+Susan Sackett's book The Making of Star Trek: The Motion Picture contains character background information (originally written for the aborted TV series Star Trek: Phase II) in which Will Decker is identified as Matt Decker's son.
+In James Blish's adaptation, Decker's first name is "Brand" and he doesn't pilot the shuttlecraft into the planet-killer. In addition, after being ordered off the bridge by Decker with "Mr. Spock knows his duties under regulations, doctor… do you?" Blish gives McCoy one final retort: "Yes, sir – go to sickbay and wait for the casualties you're about to send me." This line, by the Enterprise CMO to someone in temporary command, would later appear on-screen in TNG: "Chain Of Command, Part II", when Dr. Crusher said it to Edward Jellico as he prepared to mine the nebula where he believed, correctly, that a Cardassian invasion fleet was hiding – though this never came to pass, as the operation was a complete success, allowing the Enterprise to neutralize the fleet without firing a shot.
+According to the game Star Trek: Starfleet Academy, there is a school of thought that speculates that the galactic barrier around the perimeter of the galaxy was created to keep these planet killers out.
+Peter David's TNG novel Vendetta connects the planet killers with the Preservers, an ancient race first mentioned in "The Paradise Syndrome", who have fought the Borg as well as created the galactic barrier. This method of attack used against the Borg would be consistent with that seen used by Species 8472 in Star Trek: Voyager. Also, David's description of the new planet killer's look matches Norman Spinrad's original conception.
+The doomsday machine appears in Amarillo Design Bureau Inc.'s Star Fleet Battles first monster-based scenario (SM1.0) as "The Planet Crusher" (or "The Creature that ate Sheboygan III"). It was a basic monster scenario enabling a beginning player to learn how to fly and fight with his starship. The monster moved by automatic rules, allowing for one person to play the scenario. The monster also appears in Star Trek: Starfleet Command, based on Star Fleet Battles. In that game, the player must scan a graveyard of the monsters and later stop a fleet of them from attacking Earth in the Federation campaign. It also appeared in a mission in the Klingon campaign.
+Keith R.A. DeCandido showed an earlier meeting between Kirk and Decker in The Brave and the Bold, Book One, which included the rest of the crew of the Constellation, including Masada (given the first name Guillermo), the only crew member named in the episode besides Decker. That same crew was used by David Mack in Vanguard Book 1: Harbinger, and mirror universe versions were seen in Mack's "The Sorrows of Empire".
+
+
+=== Translations ===
+In the German version the line said by Kirk in the beginning of the episode when a female crewman passes him is vastly different. In the English original he says "Every solar system in this sector blasted to rubble." In the German translation he instead atypically remarks on her skirt, "Ich glaube ich muss langsam mal wieder dafür Sorgen dass die Röcke bisschen länger werden" ("I think I should work on getting these skirts longer again").
+
+
+=== Remastered information ===
+
+"The Doomsday Machine" was the twentieth episode of The Original Series to be remastered, premiering in syndication the weekend of 10 February 2007. It was one of the most heavily enhanced episodes of the remastered series produced. There were 105 effects shots in the remastered version, in contrast to the twenty or thirty in an average episode. [8]
+The Constellation received far more detailed damage than was previously possible, with gnarled warp coils and exposed decks visible in certain shots. The planet killer received a major update, as did its antiproton beam. The shots of the shuttlecraft leaving the bay with Commodore Decker aboard were completely re-done. Decker lifts the shuttlecraft off the deck before the bay doors are fully open, and there is a new shot of the craft (renumbered "6") from the exterior of the Enterprise. The discrepancy in relative sizes between the planet killer, the two starships, and the shuttlecraft from the original version has been adjusted.
+The staff of CBS Digital (creators of the remastered effects) played a prank on Senior FX Supervisor Niel Wray by creating a fake version of the remastered episode trailer (with a shot of the Constellation relabeled as "Consolation") and a fake version of TrekMovie.com populated by fake comments (attributed to real users of the site) on the "mistake." The results of the prank can be seen here.
+
+The next remastered episode to air was "Amok Time".
+
+
+=== Video and DVD releases ===
+Original US Betamax release: 1986
+UK VHS release (two-episode tapes, CIC Video): Volume 19, catalog number VHR 2352, release date unknown
+US VHS release: 15 April 1994
+UK re-release (three-episode tapes, CIC Video): Volume 2.2, 24 February 1997
+As part of the UK VHS collection Star Trek - Greatest Battles: 16 November 1998
+Original US DVD release (single-disc): Volume 18, 24 October 2000
+As part of the TOS Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+William Shatner as Capt. Kirk
+
+
+=== Also starring ===
+Leonard Nimoy as Mr. Spock
+And
+DeForest Kelley as Dr. McCoy
+
+
+=== Guest star ===
+William Windom as Commodore Decker
+
+
+=== Featuring ===
+James Doohan as Scott
+George Takei as Sulu
+Elizabeth Rogers as Lt. Palmer
+
+
+=== With ===
+John Winston as Lt. Kyle
+Richard Compton as Washburn
+John Copage as Elliott
+Tim Burns as Russ
+Jerry Catron as Montgomery
+
+
+=== Uncredited co-stars ===
+William Blackburn as Hadley
+Roger Holloway as Roger Lemli
+Jeannie Malone as a Yeoman
+Eddie Paskey as Leslie
+Frieda Rentie as a Lieutenant
+Unknown actors as
+James
+Command yeoman
+Crew woman
+Engineering technician 1
+Engineering technician 2
+Lieutenant 2
+
+
+=== Stunt double ===
+Vince Deadrick as stunt double for William Windom
+
+
+=== References ===
+20th century; 2266; 2G6 circuit; abduction; all hands; alternative; analysis; antimatter; antiproton; antiproton beam; approach course; area; arrest; asteroid; atmosphere; atmospheric pressure; attempted suicide; audio; authority; auxiliary control; asteroid; base course; battle stations; bluff; boarding party; "Bones"; calculated risk; captain's log; casualty; Class F shuttlecraft; coffee; commodity; communication system; computer system; condolences; Constellation, USS; Constitution-class; contact; control circuit; course; cranky; cup; damage; damage control; damage control party; damage report; dampening field; data; death; debris; defensive sphere; deflector; deflector screen (aka deflector shield); degree; delay detonation device; devil; disaster beacon (aka automatic beacon); distance; distress call; doomsday machine; door; dozen; efficiency; Einstein; emergency condition 3; emergency impulse power; emergency procedure; energy output; English language; error; evaluation; evasive action; evasive course; evidence; experience; explosion; Federation; Federation planets; filtration system; force beam; friend; fuel; fusion explosion; galactic core; galaxy; H-bomb; heart; Hell; hulk; hull rupture; Human; idea; impulse control system (aka impulse engine control circuits); impulse engine; "in plain non-Vulcan English"; inner hull; intercept course; inverse phasing; judgment; jury rigging; L-370; L-370 planets; L-370 sector; L-370 star; L-374; L-374 I; L-374 II; L-374 III; L-374 IV; landing party; lead; life; life support system; line of duty; logic; lunatic; main energizer; main junction circuitry; main power plant; Masada; mechanic; medical record; medical examination; megaton; microtape; mile; Milky Way Galaxy; million; minute; miracle; mistake; nature; neutronium; nova; object; overload; percent; phaser bank; planet; planet killer; planetary body; point-blank range; pounds per square inch; population; power power cell; power failure; power generator; power level; power plant; power reserve; programming; proof; radiation; radiation level; radius; ram; rate of consumption; red alert; relieved of command; result; report; reserve energy bank; Rigel colony; Rigel system; robot; science officer; Scots language; search; search pattern; second; section; self-sustaining; senior officer; sensor; sensor memory bank; sensor scan; shock; shuttlecraft bay; shuttlecraft bay doors; solar day; solar system; space; spacedock; speed; "stand by"; starbase; star chart; Starfleet Command; Starfleet Regulations; star chart; starship; status report; subspace interference; subspace transmitter; suicide; surface temperature; survivor; theory; thing; thousand; throat; total conversion drive; tractor beam; transporter; transporter malfunction; transporter room; trident scanner; universe; viewing screen; Vulcans; war; warp drive; warp drive control circuits; warp drive pod (aka power nacelle); weapon; year; yellow alert
+
+
+=== External links ===
+"The Doomsday Machine" at Memory Beta, the wiki for licensed Star Trek works
+"The Doomsday Machine" at Wikipedia
+"The Doomsday Machine" at MissionLogPodcast.com
+"The Doomsday Machine" at the Internet Movie Database

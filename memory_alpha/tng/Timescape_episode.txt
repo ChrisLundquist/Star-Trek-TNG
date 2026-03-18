@@ -1,0 +1,261 @@
+Aboard a runabout, Picard, Data, La Forge, and Troi encounter time distortions; they also discover the Enterprise, frozen in time while in battle with a Romulan warbird – and seconds away from destruction.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Commander Riker is sitting on one of the biobeds in sickbay with two deep cuts on his forehead. As Dr. Crusher scans the cuts with a medical tricorder, she says that this is not just a scratch and that it serves him right for playing parrises squares like he was twenty-one. She warns that next time he injures himself, he might break his neck which she may not be able to treat as easily.
+Riker tells her that he wasn't playing parrises squares, however. Dr. Crusher then guesses that he was injured in one of Worf's calisthenics programs, but again she is wrong. Riker tells her that it was, in fact, Spot who injured him – Riker had promised to feed Data's cat while he was away (even though he hates cats) and was attacked while setting down the food. Because of this, Riker suggests that Dr. Crusher feed Spot instead, and the doctor says she'd be happy to (because she loves cats). Riker is then called to the bridge by Lieutenant Worf on the intercom. As Riker leaves sickbay for the bridge, he tosses Crusher a hand phaser, half-joking that she'd need it to feed Spot.
+As Riker enters the bridge, Worf informs him that they have picked up a distress call on the long range sensors. It is from a Romulan vessel claiming that they have suffered a total engine failure, falling power levels, and failing life support. Although there are signs that the distress call is a trap, Federation policy is to give the benefit of the doubt in these situations. Since the USS Enterprise-D won't rendezvous with Captain Picard's runabout for another thirteen hours, Riker orders a course to meet with the Romulan ship. As a precaution, he orders the shields raised and issues a red alert.
+
+"Captain's log, stardate 46944.2. Commander Data, Mr. La Forge, Counselor Troi, and I are en route to the Enterprise, after attending a three-day conference on the psychological effects of long-term deep space assignments."
+
+Captain Picard and Lieutenant Commanders Data, La Forge, and Counselor Troi are aboard a runabout heading back to rendezvous with the Enterprise. Data turns helm control of the runabout over to the computer and joins Picard, La Forge, and Troi in the aft section of the runabout, who are all sitting at a table finishing their lunches and discussing their thoughts about the conference. Troi talks about a Ktarian scientist, a Dr. Mizan, who wanted her to join him in "empirical research" on interspecies reproduction. Other than her encounter with Dr. Mizan, Troi was horribly bored at the conference, as there was little opportunity for those attending a seminar to give their views. The lecturer, Professor Wagner, was the only one with freedom to speak.
+Picard's experiences were no better – he attended the physiognomy workshop where the lecturer, Dr. Vassbinder, spent an hour giving a dissertation on the ionization effect of warp nacelles, until he realized that the topic was supposed to be psychology. As with Troi, nobody could tell the instructor of his mistake, as he never gave anyone the opportunity to speak, as he himself spoke in incredibly long, unbroken sentences moving from topic to topic. La Forge, on the other hand, enjoyed his time at the warp energy symposium where he was able to physically touch a plasma field. Halfway through speaking, he, Data, and Picard freeze for no apparent reason. Troi is surprised by the sudden stop in the others' movements, but in a matter of seconds, they resume as if nothing had happened. La Forge notices that Troi is somewhat shaken by something and asks her if something is wrong. She isn't sure.
+
+
+=== Act One ===
+While La Forge scans Picard and the counselor with a medical tricorder, Troi recalls what has happened, but she can't explain the event. La Forge's tricorder scans turn up inconclusive. If something did happen to them, no residual traces were left. Also, Data's memory showed no pause at the time when he froze. Furthermore, since Data's internal chronometer and the computer are perfectly synchronized, there appears to be no temporal discrepancy, but La Forge suggests running a ship-wide diagnostic to see if there was anything that they missed. Data agrees and goes with La Forge to the runabout cockpit. Picard asks Troi to describe exactly what happened when they appeared to freeze. She does so, adding that she was probably just tired and imagining things. In the blink of an eye, however, she too is now frozen and surrounded by all three officers. Troi jumps up in surprise, notices La Forge scanning her and asks what happened. Data explains that she appeared to be motionless for just over three minutes – much like she had described the other three previously. La Forge then finds something unusual on the tricorder – the two scans of Troi were taken twenty-three minutes apart, but, according to her rate of cellular decay, she has only aged twenty minutes. Picard asks what could account for the discrepancy, but La Forge does not know. He states that it was as if time stopped for three minutes for the counselor. The captain is unwilling to take any more risks. He orders Data to contact the Enterprise, telling Riker to come to the rendezvous point as soon as possible to scan the anomalies. La Forge leaves to check the sensor logs. Data reports that the Enterprise is not answering the hail because the flagship is beyond sensor range; Picard orders an increase in speed to reach the rendezvous coordinates more quickly.
+While Data and La Forge are piloting the runabout, Data reads that there is an engine failure which makes the ship violently jolt and veer to the right. The starboard warp nacelle has just stopped, so Data restores attitude control and brings the runabout to a stop. La Forge is surprised to report that the starboard antimatter pod has been completely drained, since there is no leak and all of the other engine systems are fully operational. Data believes that he has an explanation for the sudden depletion of fuel – the plasma conversion sensor says that the starboard engine has apparently been in continuous operation for forty-seven days – far longer than the crew had been away for the conference. Since this is something that should have been impossible, La Forge checks the sensor while Picard goes into the crew cabin to check the fuel consumption logs at a console.
+
+While in the cabin, the captain notices something unusual: the fruit in the bowl on the table (which was fresh minutes ago) is now rotten. He innocently reaches with his right hand to touch it, but before he can he screams in agony and pulls his hand immediately away. The three other officers run in to the cabin, reacting to the captain's yell. Picard sits in a chair holding his shaking right hand which has long fingernails that appear to have been growing for several weeks. Troi scans his hand with a tricorder and says that the metabolism in his hand has increased by nearly fifty times. The pain in his hand soon subsides. Data looks at the fruit and performs a scan with his tricorder. The android reports that there is a temporal disturbance, roughly spherical in shape, that intersects with the table. Time within this disturbance passes fifty times more quickly than normal. The disturbance reaches out to seventeen meters in space – covering the starboard nacelle, explaining why the runabout's supply of antimatter was drained so quickly. A final look at the fruit shows that it has completely disintegrated into dust.
+Picard orders La Forge to try and pilot the runabout away from the disturbance. He and Data manage to do so, but they are soon stopped by another disturbance that has appeared directly behind them. La Forge reads his console and calls the captain in. The sensors show that the runabout is surrounded by dozens of disturbances of different sizes where time appears to be passing at different rates – almost as if the space-time continuum had been shattered into fragments. The fragmentation effect increases along the course of the rendezvous coordinates with the Enterprise. There is a somewhat ominous pause before Picard asks if they can navigate around the fragments. They can, but only at half impulse power. They set a course to the rendezvous coordinates.
+The runabout arrives at the rendezvous coordinates, but there is no sign of the Enterprise. La Forge reads a faint, possibly metallic, signature with negligible power levels. The runabout makes its way to the signature, but the fragmentation effect increases, so the runabout must slow further to compensate. They look though the front window and the moment turns to shock – the Enterprise and a Romulan warbird appear to be in the midst of a battle. Furthermore, the warbird seems to have fired at the Enterprise but the disruptor beam is frozen in mid-blast.
+
+
+=== Act Two ===
+
+Both the Enterprise and the Romulan warbird have been caught in another one of the temporal fragments and all of the fragments converge at this particular point in space, so it is likely that this is the center of the disturbances. Picard orders a scan for life signs, but Data finds that sensors cannot penetrate the subspace field and he is unable to scan inside of either vessel. The Enterprise has taken some damage to its saucer section and port nacelle from disruptor fire but the Romulan warbird appears to have suffered no damage, suggesting that it decloaked and opened fire before the Enterprise could respond with their weapons. There is also a second energy beam, coming from the Enterprise's navigational deflector. It is impossible to tell what the beam is for from a mere visual inspection but it is aimed at the engineering section of the warbird. The crew of the runabout cannot work out what has happened between the two ships from their current location and Picard suggests transporting over to the Enterprise but Data advises against it as each time that they were exposed to one of the temporal fragments, they were integrated into its time frame; if they were to beam over to the Enterprise, they, too, would become frozen in time and unable to work out the situation.
+Picard thinks to himself of a way to be unfrozen and asks La Forge if using a subspace isolation field similar to the one the crew used on Devidia II (TNG: "Time's Arrow") would protect them from the effects of the temporal fragments. La Forge replies in the positive but they would need a very sensitive phase discriminator to modulate such a force field. Data points out that the subspace emitters in the emergency transporter armbands could be modified to produce the desired effect as they contain a type 7 phase discriminator, which is sensitive enough. However, for the crew to be able to interact with the environment on board the Enterprise the field would have to be restricted to an almost skin-tight fit. La Forge and Data begin their modifications to the armbands and La Forge also channels communications through the subspace relays in them so they can remain in continuous communication. Picard, Data and Troi wear armbands while La Forge remains on the runabout where he'll monitor them. As he activates the field, Troi falls (and Data promptly catches her from behind) feeling dizzy due to the small pocket of time being placed around them. La Forge beams the three directly to the bridge of the Enterprise.
+
+The three officers materialize on the Enterprise's bridge and Picard is disturbed by what he sees. Three Romulans are present, all armed with disuptors and one sitting at the conn. The bridge has sustained moderate damage and Commander Riker has been knocked to the deck with a Romulan standing over him. Although none of the consoles function, objects in the time frame can be moved and the console at Ops reads that there is a massive power surge coming from main engineering. Picard moves to tactical and reads from the console that security teams have been dispatched to both transporter room three and sickbay. Picard tells Data to go to main engineering to determine the cause of the power surge and for Troi to go to sickbay while he will go to transporter room three. Picard orders La Forge to transport the three of them to their respective destinations but he advises against it due to the enormous amount of power drain imposed both by the transporters and the subspace fields. Picard understands and the three go to their destinations through the Jefferies tubes.
+
+Troi makes her way to sickbay and finds several Romulans and medical and security staff all looking at a central point, and when she turns to see the center of attention, she is horrified to see that Dr. Crusher has been hit by a disruptor blast at point blank range; should the time frame return to normal, there is no way that she can survive. Troi runs out in shock but after she exits the room, a Romulan woman blinks and looks around, somewhat relieved that she was not spotted.
+
+
+=== Act Three ===
+Captain Picard walks into transporter room three and sees three Romulans on the transporter pad, all unarmed. He then walks over to the transporter console, being manned by Worf, and Troi walks in, still stunned by Dr. Crusher's imminent death. Picard tells Troi that Worf just beamed three Romulans over and another three to sickbay but he is confused as to why Romulans are being beamed aboard in the middle of a battle and why the Romulans are unarmed. Troi interrupts the captain and informs him of what she has just seen in sickbay before Data calls Picard asking that he and Troi come to engineering immediately – it is urgent.
+As Picard and Troi arrive in engineering, Picard asks what the problem is. Data replies saying that he has found the cause of the power surge – a warp core breach is in progress. The core breach is at its flash point (a large, motionless cloud has formed from the warp core) but it is also expanding slowly at an infinitesimal rate. Data can detect this, as the cloud is within the limits of his visual detection threshold. Picard is confused and thought that time was suspended but Data has determined that time is moving but at an almost immeasurably slow rate and that they failed to realize this because their first conclusion was merely based on the observations of the crew, but a warp core breach moves at a substantially faster rate than any other event on the ship.
+
+Data then says that based on the rate of the cloud's expansion that it will destroy the Enterprise in nine hours and seventeen minutes. With concern for his ship, Picard asks what can be done to stop the breach but unfortunately it is no longer a matter of stopping the breach as it has already occurred and the fact that it is moving so slowly changes nothing.
+Picard studies the breach in astonishment while Troi asks Data what caused it. Data does not know but the consoles in engineering reveal that the Enterprise was performing a power transfer to the Romulan warbird at the moment that time started to slow down. Troi wonders why the Enterprise would be sending power to the Romulans and Data suggests going over to the Romulan ship to find out, but Picard suddenly bursts into laughter and Data and Troi turn to see what he finds so amusing. The captain has just drawn a smiley face in the cloud but he stops laughing and falls back in to the wall with the viewport behind him – something is very wrong. Data and Troi rush over to him and Picard says that he feels dizzy and starts laughing again but as Data reaches for him, Picard pulls away and panics uncontrollably. Troi calls La Forge to beam them back to the runabout immediately.
+Back on the runabout, La Forge checks Picard's armband with his scanner and finds that the captain was not fully protected from the effects of the other time frame. Data believes what Picard experienced was similar to deep sea divers who experience nitrogen narcosis, but temporal narcosis in this case. As nothing more can be done to give better protection from the time frame, La Forge suggests limiting the time they spend on each trip and always staying together. The next course of action is to find out why the Enterprise was transferring power over to the Romulan warbird. Picard wants to begin the search in the engine room of the warbird and asks for Troi's input, as she spent several days on a Romulan warbird previously (TNG: "Face Of The Enemy"). He then feels dizzy again prompting Troi to suggest that he stay on board the runabout and have La Forge go instead. Picard reluctantly agrees but allows them to go for no more than ten minutes.
+
+When Data, La Forge, and Troi materialize in the Romulan engine room, Troi points La Forge over to a power utilization monitor that he'd find of use, then she and Data walk over to another monitor where Data finds something peculiar – the crew is not at battle stations but rather at evacuation alert. La Forge calls them over and tells them that there is an energy feedback in the power transfer beam and that it was probably what overloaded the warp engines of the Enterprise, causing the warp core breach. Data considers that the Romulans caused the feedback to destroy the Enterprise but La Forge does not believe so – the console suggests that they were trying to stop the power transfer. Troi realizes that the more they learn, the less that the situation looks like a Romulan attack. La Forge suggests looking at their engine power output but Data says that the engine core is completely inactive – something that should be impossible as the Romulans use an artificial quantum singularity as the power source on D'deridex-class vessels; once it has been activated, it cannot be shut down.
+La Forge opens the hatch of the engine core for a closer look. He looks inside and believes that he has found the cause of the problem; there is a vortex within the singularity with several dark spots inside it. As Data scans the vortex with a tricorder, he reveals that it is a focused aperture in the space-time continuum.
+
+Its energy signature matches that of the temporal fragments that they encountered previously but it is more than a million times more intense and it is likely to be the origin of the temporal fragmentation. The dark spots within the aperture produce complex bio-electric patterns, possibly those of a life form, but before Data can make further observations the aperture fluctuates. This causes the time frame to return to normal and the Romulan officers speak and walk between stations, paying no attention to the Starfleet officers. But one Romulan runs in and notices the trio. He wonders who they are and what's going on before cautiously hiding in a corner.
+As the time returns to normal speed, Picard sees from the runabout's viewport the Enterprise explode from the warp core breach. Suddenly, time reverses and the Enterprise comes back together fully intact. Back on the Romulan warbird, the Romulan officers' actions are going in reverse then they stop at the exact same point before the aperture fluctuated.
+
+
+=== Act Four ===
+
+Moments later, the three officers are speaking to Captain Picard through the com and Data believes that the emissions from his tricorder caused the activation of the aperture and advises against any further exposure. He adds that the Romulans were trying to eject their engine core. Troi adds that there was some sort of energy feedback and La Forge believes that they were trying to stop the feedback in any way they could. La Forge goes to read one of the engineering consoles to try to determine what was happening on the bridge but he notices something unusual. He quickly realizes that a Romulan (the same Romulan who noticed them when time briefly returned to normal) is in a space that was empty before, but when he asks Data if he was always there, the Romulan suddenly attacks La Forge and they both fall backwards onto the floor. Data and Troi run over to La Forge who is now dying from neural shock but there is too little time to take him back to the runabout to treat him. Troi removes his armband to slow down the neural shock and integrate La Forge into the timeframe, so they can possibly save him later. She asks Data if the Romulan is alive, but after scanning him Data says that he is alive, but he is not sure that the man is a Romulan, as he is getting unusual readings from his bio-scan.
+On board the runabout, Picard, Data, and Troi are standing around one of the beds in the cabin, on which the "Romulan" alien is lying unconscious. Data's scan of the alien show that his cellular structure does not conform to any known species and that his bio-electric patterns are in a state of temporal flux. He doubts that the alien is native to their time continuum. Picard asks to see Data's readings of the organic matter that he found inside the aperture. Picard and Data look at a bio-spectral analysis of the aperture on the monitor and find that the bio-electric patterns of the organic matter are similar to those of the alien on the bed but they are much less complex and that the cellular structures of the organic matter are in a state of cellular mitosis – it may be an embryo.
+The alien awakens and Picard asks him who he is. The alien struggles to speak, saying that he assumed the body of the Romulan in order to survive in this time continuum. He explains that he had come to save their young that are trapped inside the artificial "gravity well" and that they are dying – the alien is referring to the Romulan engine core. When his body starts to phase, Data scans him finding that his molecular structure is destabilizing. Picard asks how the alien's young became trapped inside the singularity. The alien replies that they needed a natural quantum singularity to incubate their young. They used the Romulan singularity, which is artificial, hoping that it would suffice but it failed. Troi, Picard, and Data soon piece together the puzzle – when the alien young were nested in the singularity, it shut down so the Romulans sent out a distress call and the Enterprise responded, finding the Romulan ship suffering from an apparent engine failure and then began a power transfer. However, when the power transfer beam made contact with the alien "nest", it disrupted the space-time continuum and threatened the lives of the young, forcing the alien to attack the Enterprise to stop the power transfer. The alien reveals that there is another individual like him but before he can give any further information, he disappears completely. Picard, Data, and Troi are now on their own to find the other alien.
+
+
+=== Act Five ===
+Data reports that the destruction of the Enterprise is just over seven hours away. Picard asks him if the entire warp core can be beamed into space. He is told it would require surrounding the core with a subspace isolation field, something that the runabout cannot do. Picard then mentions that the tricorder emissions caused time to go forward and then backward and asks if the opposite effect can be achieved with time going backward then forward. Troi catches onto the idea and suggests running time back to a point before the core breach and preventing the power transfer so that when time rolls forward again, the core breach will never happen. Data believes that it is possible to put the theory into practice by re-modulating the delta-band emissions of his tricorder to produce the desired effect. Picard gives the go-ahead, knowing that timing will be critical since there will be very little time to prevent the power transfer.
+
+"Captain's log, supplemental. After placing the modified tricorder on the Romulan ship, we have returned to the Enterprise."
+The three officers are in position – Data is in main engineering standing by the engineering console, Picard is on the bridge by the aft science station, and Troi is in sickbay with her phaser drawn and aimed at the Romulan firing at Dr. Crusher. Unknown to Troi, the "Romulan" woman (the second alien) who was looking around earlier is absent from sickbay. Data has placed his modified tricorder in front of the aperture on the Romulan vessel and activates it via a PADD. There is another flash of light and time moves backwards. The disruptor blast that hit Dr. Crusher has now reversed and backed into the disruptor's emitter. The cloud from the warp core breach has disappeared, and Data reports that the breach has been reversed. He stands poised at the master systems display table to prevent the power transfer. The second alien walks in (unaffected by the time frame) and attacks Data. They both fall to the floor just before time returns to normal, going forward. Just as Data awakens, an ensign initiates the power transfer. Data attempts to shut down the transfer, but it is too late to do so. He instructs the computer to raise a level-3 containment field around the warp core.
+
+The Romulan warbird fires its disruptors at the Enterprise to try to stop the power transfer. On the bridge, the conn station explodes in the helmsman's face and a Romulan officer quickly takes over for him before Riker is knocked over and a Romulan officer helps him back to his feet. Riker is surprised to see the Captain, but there is no time for Picard to explain how he got back. He orders Riker to continue evacuating the Romulan ship and to beam La Forge (who is still in the Romulan engine room) directly to sickbay. In sickbay, Troi pulls Dr. Crusher out of the way just as the Romulan fires his disruptor, aiming her phaser at him, but Dr. Crusher tells Troi that he wasn't firing at her. The Romulan officer explains that he was shooting at an alien who had taken Romulan form and the doctor got in the way. Picard asks Data for a report and Data reports that he was attacked by the other alien and that he was unable to prevent the power transfer, so a core breach is again imminent. The Enterprise cannot move to stop the power transfer because the feedback from the beam would destroy the ship but Picard quickly gets an idea – he has Riker patch him through to remotely control the navigation of the runabout. He navigates the runabout between the Enterprise and the Romulan ship, interrupting the beam and destroying the runabout in the process. As the runabout explodes, both the second alien and the Romulan warbird disappear. Severing the power transfer has prevented the warp core breach and restored the space-time continuum to normal.
+
+"Captain's log, stardate 46945.3. We successfully evacuated the crew of the Romulan ship. We're on course to the Neutral Zone to bring them home."
+Some time later, Riker arrives at Data's quarters (feeling slightly nervous about Spot) with a PADD telling him that he has worked out new shift rotation schedules and that he wants Data to tell the department heads of the new personnel assignments. Data is performing an experiment to try to understand how Humans perceive time after hearing how some say that time passes quickly in one instance and slowly in another although he knows that, in reality, the passage of time remains fixed. Riker says that the Human perception of time differs from person to person and that it varies according to the situation and one's mood. Data has boiled the same water in a kettle 62 times, sometimes watching the kettle intently and other times ignoring it. The water boiled at exactly the same time in each instance. He feels that he is incapable of perceiving time differently from his internal chronometer. However, Riker suggests that Data deactivate his internal chronometer and see if his perception of time differs, as Humans themselves do not have internal chronometers. Data thanks Riker for his suggestion. Riker leaves, jokingly warning Data, "Just don't be late for your shift!"  Data ponders Riker's advice when suddenly the water in the kettle begins to boil, intriguing Data.
+
+
+== Memorable quotes ==
+"I mean, this is not just a scrape, this is a very deep cut."
+
+- Crusher, on the scratch marks on Riker's forehead
+
+"[...] you've gotta stop playing parrises squares as if you're twenty-one years old. One of these days you're gonna fall and break your neck, and I'm not gonna be able to heal that as easily."
+"I wasn't playing parrises squares."
+"Worf's calisthenic program?"
+"No."
+"I give up, what was it?"
+"I was trying to feed Spot!"
+
+- Dr. Crusher and Riker, about Riker's "injury"
+
+"I hate cats."
+"I love cats. You know, you just gotta know how to handle them."
+
+- Riker and Crusher
+
+"You'll need this."
+
+- Riker, to Dr. Crusher on taking care of Spot, throwing her a phaser
+
+"He gathered 200 scientists from all over the Federation and all he did was put us to sleep."
+"I have a memory record of the entire lecture, counselor. I can repeat the portions you missed if you..."
+"No, thank you Data."
+
+- Troi, on Wagner's lecture and Data
+
+"Hello, Diane... I understand you're an empath. I'm a very... (winks unsubtly) sensitive man myself. I'm doing a thesis on interspecies mating rituals... Would you care to join me in some "empirical research"?"
+
+- Deanna Troi, imitating Dr. Mizan
+
+"He just kept talking in one long incredibly unbroken sentence moving from topic to topic so that no-one had a chance to interrupt; it was really quite hypnotic."
+
+- Picard, on Dr. Vassbinder • Listen to this quote file info
+
+"Counselor? Is there something wrong?"
+"I'm not sure..."
+
+- La Forge, to Troi when he unfreezes after he came into contact with a temporal fragment
+
+"It's going to take a little time to explain, Number One."
+
+- Picard, to Riker
+
+"I think this is gonna work. But... it's gonna take some time."
+"Well, Mister La Forge... It would seem that time is something that we have plenty of."
+
+- La Forge and Picard
+
+"Excuse me, Mr. Worf."
+
+- The always proper Picard, to the time-frozen Klingon when examining the transporter console
+
+"Come in."
+(Riker looks around thoroughly) "Where's that cat of yours?"
+"Spot is sleeping, sir. Why do you ask?"
+"No reason."
+
+- Data and Riker
+
+"Troi to La Forge, get us out of here now!"
+
+-Troi, to La Forge (as Picard panics loudly in the background)
+
+
+== Background information ==
+
+
+=== Production history ===
+First draft script: 18 March 1993
+Premiere airdate: 14 June 1993
+First UK airdate: 27 December 1995
+
+
+=== Story and script ===
+The plot for this episode was based upon a story by Mark Gehred-O'Connell, who pitched the one-sentence concept of a "ship trapped in time like amber". (Star Trek: The Next Generation Companion, 2nd ed., p. 251; Star Trek: Deep Space Nine Companion, p. 102)
+Gehred-O'Connell commented: "In my original idea, neither ship was the Enterprise. My story involved the Enterprise coming across two other ships in this situation and having to diffuse it because it endangered the whole sector. But when I pitched the story, Brannon blurted out, 'Oh no, one of those ships has to be the Enterprise!' The minute I started in, I could tell the wheels were already turning in his mind". Gehred-O'Connell was unable to work any further on the script as the episode was rushed into production when another script was jettisoned. (The Official Star Trek: Deep Space Nine Magazine issue 10)
+Brannon Braga developed the pitch after another story was scrapped. He sought to out-do his previous "Cause And Effect" by providing an even more unusual time-travel story. He noted, "This is 'Cause & Effect' times ten. Time is not only looping, it's moving backwards, accelerating and stopping and moving backwards." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 280) Elsewhere, he added, "I wanted to do this as 'man against nature,' or 'man against time'. What The Abyss was to deep-sea diving, this would be to 'deep-time diving'." Consequently, an early title for the episode was "Deep Time". (Star Trek: The Next Generation Companion, 2nd ed., p. 251)
+The names of two of the conference speakers are in-jokes – Wagner was named after a one-time date of Braga, while Vassbinder was named after one of his high-school teachers. (Star Trek: The Next Generation Companion, 2nd ed., p. 251)
+
+
+=== Production ===
+From the outset, it was known that this episode would be extremely complex to produce. Braga remarked, "As I was writing it, I was thinking there's no way." Jeri Taylor recalled, "It was absolutely bizarre. It's full of opticals and complicated sequences. Do you do split screen? Do you do blue screen? Do you do anthromorphic [sic] lenses?" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 280)
+The challenge was given to director Adam Nimoy (son of Leonard Nimoy), who had previously directed "Rascals". Rick Berman recalled, "My feeling was that nobody should be asked to be judged on a work that was so unusual in terms of having to come in and direct these kids. I basically said I would like to give him another shot to work with adults." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 280)
+David Livingston stated, "I think this is the longest optical memo we have ever had. It [was] over six pages long. Adam was very specific about what he wanted and I knew he was going to do great on it. He's got good genes." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 280)
+Nimoy endeavored to bring to life what he referred to as the "eerie ambience" of the teleplay. His favorite moments of the show were the frozen-time reaction and reveal shots aboard the runabout, which Nimoy said were inspired by German impressionistic films such as The Hands of Orlac(1924). (Star Trek: The Next Generation Companion, 2nd ed., p. 251)
+Nimoy observed, "It was very different. I relied a lot on the special effects guys in an attempt to keep what I thought was the drama of the scene and deal with the restrictions that special effects put on you in terms of what you can do with the actors while also using those effects to maximum dramatic capacity to make it work with the scene. It's a whole different mindset. I'm learning a lot from these guys." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 280)
+This episode features a runabout, a type of spacecraft that was more commonly seen in Star Trek: Deep Space Nine. The name of the runabout in this episode was never revealed, however. It is simply known as the Enterprise-D runabout, although reused footage from DS9 gives the ship the USS Rio Grande's registry (NCC-72452). The interior aft set was built on the budget of The Next Generation to help its sister show; ironically, it was never fully utilized on DS9 in this capacity, with only the wall containing the aft windows shown as the inside of a runabout in "The Visitor". The set was however used to represent other Federation-built structures such as the interior of the SS Santa Maria in "Paradise", the Volan III colony in "The Maquis, Part 1", and the crew quarters on the USS Prometheus in "Second Sight". Set designer Richard James and set decorator Jim Mees noted that while the cockpit had been created over seven weeks, they had only nine days to design and build the set, requiring the crew to work around the clock. (Star Trek: The Next Generation Companion, 2nd ed., p. 251)
+
+
+=== Continuity ===
+During this episode, Captain Picard references events seen in the TNG episodes "Time's Arrow" and "Time's Arrow, Part II", when a subspace force field was used on Devidia II, and the episode "Face Of The Enemy", when Counselor Troi was aboard a Romulan warbird for several days.
+The latter case is used to explain Troi having knowledge about Romulan engines. However, it seems unlikely that Troi would have gained technical knowledge of the engines. She was posing as a member of the Tal Shiar, and no part of her mission involved a Warbird's engine room.
+This episode featured the second and final use of emergency transporter armbands in TNG (the first was in "The Best of Both Worlds, Part II"). They would be later used in the Star Trek: Deep Space Nine episode "Visionary".
+Dr. Vassbinder would later be referenced by Wesley Crusher in the episode "Journey's End", and by Chakotay in the Star Trek: Voyager episode "Year of Hell, Part II" .
+This is the second time we see the Enterprise-D supplying a Romulan vessel with power via a power transfer beam. The first was in "The Next Phase". In both cases, an enemy deliberately induced feedback along the beam that almost resulted in the destruction of Enterprise.
+This is the third episode in which we see the Enterprise-D destroyed. The previous two occasions were also in episodes with temporal disturbances: "Time Squared" and "Cause And Effect".
+While discussing the freezing of time with Picard, Troi uses plexing, the Betazoid relaxation technique she had taught to Lt. Barclay in "Realm Of Fear".
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 76, 10 January 1994
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest star ===
+Michael Bofshever as male alien
+
+
+=== Co-stars ===
+John DeMita as Romulan
+Joel Fredericks as Engineer
+
+
+=== Uncredited co-stars ===
+Majel Barrett as Runabout and Enterprise-D computer voice
+Steve Blalock as Enterprise-D command ensign
+Steven Boz as Enterprise-D operations ensign
+Michael Braveheart as Martinez
+Ericka Bryce as Enterprise-D operations ensign
+Tracee Lee Cocco as Jae
+Debra Dilley as Romulan officer
+Elliot Durant III as Enterprise-D operations ensign
+Matt Goodrich as Romulan officer
+Kerry Hoyt as Enterprise-D operations ensign
+Kathy as Towles
+Judy Lea as sciences officer
+Lorine Mendell as Diana Giddings
+Michael Moorehead as Enterprise-D sciences ensign
+Teri Noel as Enterprise-D engineer
+Sissy Sessions as Enterprise-D operations ensign
+Leatrim Stang as Romulan officer
+Noriko Suzuki as Enterprise-D operations ensign
+Patricia Tallman as female alien
+Oliver Theess as Enterprise-D crewmember
+Mikki Val as Enterprise-D operations officer
+Guy Vardaman as Romulan officer
+Unknown performers as
+Enterprise-D operations officer
+Enterprise-D operations officer
+Romulan officers 1, 2, 3, 6 & 7
+Three Romulan officers (voice)
+
+
+=== Stunt doubles ===
+Irving Lewis as stunt double for LeVar Burton
+Tom Morga as stunt double for Michael Bofshever
+Brian J. Williams as stunt double for Brent Spiner
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Debra Dilley – stand-in for Patricia Tallman
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes and Michael Bofshever
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+47; acceleration; antimatter; antimatter pod; aphorism; artificial quantum singularity; automatic helm control; ball; battle stations; being; bioelectric pattern; bioscan; biospectral analysis; black hole; boiling; boiling point; captain's log; cell; chronometer; conn; containment field; cut; D'deridex-class; deep sea diver; deep space assignment; deflector array; delta band emission; department head; dermal regenerator; Devidia II; disruptor blast; distress call; dizziness; emergency transporter armband; empath; empirical research; energy pattern; Enterprise-D runabout; equilibrium; evacuation alert; Federation; flashpoint; fuel; fuel consumption log; fruit; fur; gravity well; hissing; hull; internal chronometer; interspecies mating practices; interspecies mating rituals; Jefferies tube; kettle; Khazara, IRW; Klingon calisthenics program; Ktarian; lateral thruster; lecture hall; life support; long range sensor; main engineering; mating ritual; medical tricorder; memory record; meter; meters per second; mitosis; Mizan; navigational scan; nest; neural shock; nitrogen narcosis; number one; organic matter; parrises squares; phase discriminator (aka type 7 phase discriminator); phaser; phenomenon; phylobiology; phylobiology seminar attendees ; physiognomy; plasma conversion sensor; plasma field; plexing; power transfer beam; power utilization monitor; psychological conference; psychology; quantum singularity lifeform; Quantum singularity young; rapier; red alert; Romulan; Romulan disruptor pistol; Romulan Neutral Zone; runabout; security officer; sensor log; sensor range; shields; sickbay; space-time continuum; spherical; Spot; subspace; subspace emitter; subspace field; subspace force field; symposium; table; tea; temporal anomaly; temporal aperture; temporal distortion; temporal disturbance; temporal flux; temporal fragment; temporal narcosis; transporter room 3; tricorder; Vassbinder; violin; Wagner; warp core; warp core breach; warp energy; warp nacelle; workshop
+
+
+=== External links ===
+"Timescape" at Memory Beta, the wiki for licensed Star Trek works
+"Timescape" at Wikipedia
+"Timescape" at MissionLogPodcast.com
+"Timescape" script at Star Trek Minutiae
+"Timescape" at the Internet Movie Database

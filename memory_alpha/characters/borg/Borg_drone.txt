@@ -1,0 +1,59 @@
+Borg drones were assimilated individuals augmented with Borg technology, and joined with the hive mind. A drone possessed no sense of individuality, and existed only to perform its designated function within the Borg Collective. Together, they make up the entire population of the Collective.   
+
+
+== Physiology ==
+
+The physiology of Borg drones varied because various species were assimilated into the Collective. Their organic bodies were enhanced, and some parts completely replaced, with cybernetic implants, including its organic cardiopulmonary system, which was reinforced. (VOY: "The Haunting of Deck Twelve"; TNG: "The Best of Both Worlds", "The Best of Both Worlds, Part II"; Star Trek: First Contact) The nature of these implants was determined by the drone's intended function, such as medical repairs or tactical, (TNG: "Q Who", "I Borg"; VOY: "Dark Frontier") while the original species of a drone was often considered by the Collective when assigning their function. (VOY: "Think Tank") These implants gave drones greater strength than the original individual possessed before their assimilation. (ENT: "Regeneration") Each drone was equipped with a homing device, which had its own unique translink frequency, by which it was kept in contact with the Collective through subspace transceivers, thus forming the hive mind. (VOY: "Infinite Regress", "Dark Frontier"; ENT: "Regeneration") 
+
+Although both male and females of any susceptible species could be assimilated, Borg drones themselves were neither male nor female in a reproductive sense. (TNG: "Q Who") 
+
+
+== Capabilities and limitations ==
+
+In addition to multiple implants, each drone's body was covered with insect-like exo-plating, which could protect it from the rigors of space, protect the drone against blunt force attacks, and withstand a power surge of five million gigawatts. However, they were unable to fully protect drones against projectile weapons. In extreme circumstances, a drone's implants, and exo-plating were able to protect the drone after being frozen for at least 90 years. (Star Trek: First Contact; VOY: "Revulsion"; ENT: "Regeneration")
+
+ 
+Through assimilation, drones were equipped with offensive and defensive capabilities. Each drone had personal defensive shields, which were able to adapt to various different energy based weapons. A drone's adaptations to these weapons could then be passed along to the larger Collective. (Star Trek: First Contact) In addition to shields, drones can possess offensive energy weapons built into their cybernetic arm implants. (PIC: "Vox") However, most drones will pursue assimilation rather than kill their targets. Each drone is equipped with assimilation tubules, which will penetrate most known materials to inject nanoprobes in a selected target. Through this method, drones could assimilate a single individual, or an entire starship, replicating components to interface with local technology. (ENT: "Regeneration"; Star Trek: First Contact; VOY: "Scorpion, Part II")
+When equipped with an eyepiece, a drone had the ability to see everything within the EM spectrum (similar to a Federation VISOR), as well as view the nanoscale - View the size of molecules, analyze every facet and dimension of any object in perfect detail, and save perfect representations of those objects in physical memory. Lastly, a drone's eyepiece was capable of directly observing the geometry of multi-dimensional space-time. (TNG: "I Borg"; VOY: "Scorpion, Part II"; VOY: "Dark Frontier"; VOY: "Relativity")
+
+A Borg drone needed to periodically regenerate in specially fitted alcoves to "feed" its organic and cybernetic parts. The organic components of a drone were fed by their implants, which synthesized organic molecules. The implants, in turn, received energy from the drone's alcove during its regeneration cycle. However, if necessary, a drone could go without regeneration for at least two hundred hours. (VOY: "Hunters") When there was no alcove at hand, a Federation power conduit could be adapted to feed a Borg drone when adjusting to the right frequency. (TNG: "I Borg") 
+When regenerating, Borg drones shut down all non-essential bodily systems, such that their entire metabolism became integrated with the power system and distribution network aboard their ship, thus merging their life signs into their vessel. (TNG: "Q Who")
+A Borg drone, or former drone, did not react well to long periods of isolation. This is because they were accustomed to being part of the Collective, especially when the drone in question was assimilated at a young age. (VOY: "One") 
+This could even force stranded drones to create their own Collective because they could not cope with their resurfacing personalities when disconnected from the hive mind. (VOY: "Survival Instinct")
+Borg drones have also shown to be seemingly incapable of running, possibly due to the rigidity of their exo-plating limiting their motion range, thus preventing them from performing the movements required to run. They were however shown to be capable of moving hastily, which does not require the same motion range as running.
+
+
+== Designations ==
+Following assimilation, a drone was given a designation appropriate to its function within the collective and position within its unimatrix. For example, the third drone in a group of nine assigned to one particular function may be given the designation "three of nine" or "third of nine". (VOY: "Infinite Regress", "Dark Frontier", "Survival Instinct")
+
+Designated
+List of Borg
+Undesignated
+Unnamed Borg
+
+
+== Borg drone technology ==
+
+Assimilation tubule (Injection tubule)
+Nanoprobe
+Microcircuit fiber
+Cortical implant
+Bio-synthetic gland
+Cortical array
+Cortical node
+Chronometric node
+Cranial transceiver
+Interlink node
+Neural processor
+Neuro-processing adjunct
+Neural transceiver
+Sensory node
+Exo-plating
+Microconnector
+Personal force field
+Thoracic assembly
+Extraction tubule
+Forced plasma beam
+Eyepiece
+Proximity transceiver
+Vocal subprocessor

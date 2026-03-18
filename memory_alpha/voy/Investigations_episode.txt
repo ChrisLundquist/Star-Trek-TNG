@@ -1,0 +1,229 @@
+Neelix searches for a traitor aboard Voyager using his morning news program.
+
+
+== Summary ==
+
+
+=== Teaser ===
+A Briefing with Neelix goes on the air for the first time, with the approval of Captain Kathryn Janeway. Neelix happily declares the intention of amusing the ship's crew with news from the ship. He also tries to get other crewmembers to give input, such as asking The Doctor to give health news and getting Ensign Harry Kim's opinion of the show.
+Kim suggests that Neelix does not need to keep the program so light-hearted; he has some experience in journalism and wrote pieces about the Maquis that his readers appreciated. He stresses to Neelix the importance of journalistic independence.
+Just then, Neelix receives a message from one of his old Talaxian friends, Laxeth. After a brief catch-up, he says one of the USS Voyager's crew members is going to be leaving the ship and joining their cargo supply line, to Neelix's surprise.
+
+
+=== Act One ===
+When Neelix goes straight to the captain with this information, Lieutenant Tuvok and Janeway reveal that they knew that Lieutenant Tom Paris was going to be leaving, since he'd asked to be put off the ship soon after he was taken off the bridge recently. Neelix is shocked, seeing this behavior as unusual, and goes to see him. He confirms he wasn't part of the reason Paris is leaving, and Paris insists it isn't. Paris says he's always been fooling himself about being in Starfleet and wants a life where he's more his own boss, appealing to Neelix's old life. Neelix finally understands.
+
+Going back to the kitchen, Neelix continues to come to grips with Paris' decision when The Doctor calls in. He's changed his mind about contributing to the program, but Neelix can't focus on that at the moment. He wants to feature Paris that day on his program instead. The next edition of Neelix's program is of a much more solemn nature, with Neelix giving a moving speech about Paris and how he'll be missed on the ship. The whole ship watches the program.
+Later, Paris bids goodbye to Harry, Kes, and Neelix in the transporter room.
+
+
+=== Act Two ===
+
+The next day during the usual staff briefing, Janeway commends Neelix for his good work on his program, in particular his tribute to Paris, then discussion begins over who will take the now vacant post of main conn officer. Janeway suggests Baytart or Hamilton, but Ensign Kim objects, feeling it's too soon and Paris may still return. Kindly but firmly, Janeway tells Harry that when Tom left he gave no indication he might change his mind. Suddenly, B'Elanna Torres is contacted by Michael Jonas in engineering concerning a plasma overload in the warp core. Racing down to help (with Neelix in tow looking for a story), Torres works with Jonas to stop the overload. The only option is to vent the plasma through the nacelles, resulting in severe damage to the warp coils. Jonas is badly injured when his console explodes as he tries to prevent a warp core breach. Two others are hurt as well.
+In sickbay, the three are treated quickly by The Doctor. Neelix tries to capture a statement from Jonas, but he shrugs him off. The Doctor is excited to give his input, but Neelix clearly wants the "hero" version. He's called to the bridge, where the crew is discussing where to get the materials they need to repair the coils, including Verterium cortenide. Fortunately, Neelix is familiar and suggests the nearby Hemikek system.
+Just then, Voyager receives a distress signal from Laxeth who tells Janeway that the Kazon-Nistrim have attacked them and kidnapped Paris, but, oddly, did not take their cargo.
+
+
+=== Act Three ===
+On board the Kazon vessel, Paris is visited by Seska, who explains why she's kidnapped him. She lets him know that she has no intention of raising her child on a Kazon ship. They both state plainly that they do not trust each other. Seska sets out her superior position and asks for Paris' help in capturing Voyager in return for her protection. She then leaves Paris alone in his room to contemplate the decision. This gives him the chance he'd been waiting for. Taking a device hidden under his sleeve, he attaches it to a console, trying to access the communications array and amplify the last communication received by the ship.
+
+"Captain's log, stardate 49485.2. In spite of the fact that Tom Paris has been abducted by the Kazon, we must continue on course for the Hemikek system."
+
+Neelix is troubled by the odd circumstances of Paris' abduction. Talking to Kes in the mess hall, he suspects that there is a spy on board Voyager and states he intends to investigate. In engineering, Neelix accesses the communications logs with Crewman Hogan's assistance and discovers gaps going back several months. Torres gives him access, but goes off to work. As Neelix views the files, Jonas, who is overhearing this, asks what Neelix is up to. Neelix, unsuspecting of Jonas' transmissions to Seska, gives him what he needs to know, but Jonas can't let Neelix continue to investigate. He tries to explain away the irregularities he is seeing, but, when Neelix isn't convinced, he picks up an engineering tool to kill Neelix. As he approaches, however, The Doctor interrupts, having been looking for Neelix to remind him to include him in Neelix's broadcast. Neelix abruptly leaves, and Jonas realizes he has a problem.
+
+
+=== Act Four ===
+Neelix reports what he's found to Tuvok, who thanks Neelix for this information but requests that the matter be left to him. Disgruntled, Neelix agrees, leaving the security office, but secretly continues his investigation. He goes back to Torres, but she's too busy and hands him over to Hogan. Hogan initially doesn't see value in this, but then he spots an anomaly. While Jonas is covertly eavesdropping, Hogan realizes that the power grid was used to send the messages, not the arrays. The waste energy was used to encode the messages. He tracks the source of the communications to Paris' quarters. Neelix goes there and uncovers evidence implicating Paris as the traitor. Without mentioning this to anyone, Neelix goes straight on the air with his conclusions.
+Hearing this, Janeway and Tuvok summon Neelix to a meeting with them and Commander Chakotay, and it is revealed that Tuvok has been conducting his own investigation into the communication logs; however, he did not find the evidence that Neelix did, meaning it was put there after the initial investigation for Neelix to find. Neelix and Chakotay are confused, and Janeway finally tells them the whole story; she and Tuvok have known for some time that a member of the crew was communicating with the Kazon but were unable to find out who it was through conventional methods. As a result, they collaborated with Paris, who has been acting out in order to make it believable that he would want to leave the ship, knowing that this information would get back to the Kazon-Nistrim. That way, they could get him aboard their ship in order to find out who the spy is. Chakotay, stunned and angry about being left out of the loop on this plan, demands to know why he'd not been included. Tuvok says that it was his idea because he suspected that the traitor was a Maquis crewmember and that he didn't want to put Chakotay in an awkward position. Chakotay suggests maybe it was Hogan since he helped Neelix trace the transmissions, but Neelix points out Hogan just happened to be the engineer who was passing. Janeway tells Neelix that his false accusation has probably left the spy feeling cozy, but they want to put the pressure on him and tell him to continue his investigation and make it clear he no longer suspects Paris. Chakotay points out this is placing Neelix in a dangerous position, and Janeway tells Neelix the assignment is voluntary, but Neelix is willing to do anything to help Paris return safely to Voyager.
+On the Kazon ship, Paris finally manages to clear up the communications log enough to recognize Jonas communicating with Seska as well as find out about the ambush at Hemikek. Just as he does this, Seska and two Kazon guards arrive, giving Paris a second to activate a small bomb within the amplification device. Just before he is taken away by the Kazon guards, the device detonates, knocking them all off their feet, allowing Paris the opportunity to grab a weapon and race out of the room with the guards following close behind.
+
+
+=== Act Five ===
+On Voyager, Neelix is in engineering, trying to get to the bottom of the investigation. Hogan and Jonas are busy, though Hogan is surprised to hear the new information. Torres gives an order prompting Jonas to send Hogan off with some PADDs. After Neelix and Jonas are alone, an alert is called. Paris is approaching in a Kazon fighter he stole. He is just beyond transporter range, so Jonas is ordered to boost transporter power, but instead, much to Neelix's surprise, Jonas begins the second part of his plan. He activates a force field, blocking off the access to engineering and begins deactivating the weapons systems one after the other. Neelix objects and tries to call security, but Jonas knocks him down, removing both Neelix's combadge and his own.
+As this is happening, Paris manages to tell Janeway that Jonas is the traitor. Janeway promptly sends Tuvok to engineering with a security team. Paris is now close enough to be beamed off the fighter just before the pursuing warship destroys it. The warship now attacks Voyager.
+Unfortunately, Tuvok and his team meet the sealed doors and an attempt to beam Jonas out of engineering retrieves only his removed com badge. Neelix recovers quickly and picks up an antimatter pod-holder and follows Jonas up a ladder to the upper level. Neelix manages to gain the upper hand and Jonas is knocked over the railing into the plasma-stream from a ruptured plasma conduit, incinerating him instantly. Neelix quickly reverses Jonas' actions and brings Voyager's weapons back online, allowing the ship to disable the Kazon vessel.
+On the next edition of A Briefing with Neelix, Neelix interviews Paris about his heroics. Paris modestly claims it was nothing and apologizes to the crew members he offended when he was acting insubordinate, especially Chakotay, though he does admit it was a certain amount of fun.
+
+
+== Memorable quotes ==
+"Good day, Voyager! And welcome to A Briefing with Neelix. It's a catchy title, isn't it? I'll be coming to you each and every day with news of general interest. Interviews with our fascinating crew members. Musical performances. Recommendations for new holodeck programs. And of course, previews of upcoming meals. Everything from Hlaka soup to Zabee nuts. A Briefing with Neelix will help you stay informed about ship's activities, er, keep you abreast of your colleague's accomplishments and broaden your knowledge about a wealth of subjects. But most of all, it will make you feel good, because what you see here will always be the most uplifting, optimistic view of everything that happens on our ship. After all, as your morale officer, isn't it my job to bring a little joy into everyone's day? Hmm? Captain Janeway has agreed to appear on the show with regular updates about the ship's progress, and Commander Chakotay will commend outstanding crew members. So snap to and keep those boots polished to a shine. You never know when you might be featured on A Briefing With Neelix."
+
+- Neelix, announcing the premiere of his own show on USS Voyager – Listen to this quote file info
+
+"Good morning, Voyager. I want to tell you about a friend of mine. I first met this man almost a year ago. And to tell you the truth, I didn't like him much. He seemed a little too cocky. A little too sure of himself. A lot of people had questions about him. He proved that he would sell himself off to the highest bidder go wherever the wind blew him. So people wondered, can you trust this person when times got tough? Would he stand side-by-side with you, or would he let you down when you needed him most? But the fact of the matter is, he proved himself right from the beginning. I wouldn't be alive right now if it wasn't for him, and the same goes for many of you. It took me a while to realize it. Like a lot of people I was too caught up in first impressions to see the truth that was right in front of me. I overlooked his bravery, because I was focusing on his brashness. I ignored his courage because I saw it as arrogance. And I resented his friendliness because I took it for licentiousness. So while this man was giving us his best every minute of every day I was busy judging him. And now he's leaving. I'm proud to say that despite my narrow-mindedness, Thomas Eugene Paris became my friend. I'm going to miss him. No more laughs over a game of pool. No more sitting up to the wee hours swapping stories. No more complaints about my cooking. Good bye, Tom. I think I speak for more of us than you might imagine when I say you're going to leave an empty space when you go. I hope you find what you're looking for."
+
+- Neelix, talking about Tom Paris – Listen to this quote file info
+
+"Well? What did you think?" 
+"I'm a doctor, not a performer."
+
+- Neelix and The Doctor
+
+"Hello, Seska. You're looking radiantly maternal."
+
+- Tom Paris
+
+"My friends, I derive no satisfaction from what I am about to tell you. I know I originally promised you that I would only bring you good news. However, I feel it's important that you know the truth. I have uncovered evidence that casts serious doubt on the loyalties of Lt. Thomas Paris. I have discovered secret communications to the Kazon that were sent from his quarters just prior to his leaving the ship."
+(to Tuvok) "Get him up here. Now."
+"There was a series of messages sent to the Kazon for some weeks before his departure, the last—"
+
+- Neelix and Kathryn Janeway – Listen to this quote file info
+
+"I hear you're leaving the ship."
+"Good news travels fast, I guess."
+
+- Neelix and Tom Paris
+
+"Some weeks ago, Tuvok discovered evidence of covert transmissions leaving Voyager through the EPS system. We realized there was someone on this ship communicating with the Kazon-Nistrim."
+"However, we were unable to ascertain who that person was."
+"We needed a way to flush out the spy, and we had exhausted all conventional means. That's when we thought of using Tom, finding a way to get him on the Kazon ship."
+"Are you saying Paris's insulting behavior, the gambling, being late for duty, mouthing off at me... was all a ruse?"
+"That is correct. It was important that his decision to leave the ship appear plausible, so he began behaving like a malcontent."
+"And the reason I wasn't let in on this little plan?"
+"I was the one who recommended to Captain Janeway that you not be told. I suspected that the spy was a Maquis, and felt it was wrong to put you in a position of setting a trap for someone who had once served under you."
+
+- Kathryn Janeway, Tuvok and Chakotay – Listen to this quote file info
+
+"I know that I've been acting like a jerk for the last couple of months. Unfortunately, I had to behave that way if the spy was going to believe that I really wanted to leave the ship. So, I'd like to apologize to anyone that I might have offended... especially Commander Chakotay, I gave him a pretty hard time. Not that it wasn't a certain amount of fun, mind you."
+
+- Tom Paris
+
+"Are you injured?"
+"Don't worry about me, Mr. Vulcan. I'm perfectly all right."
+
+- Tuvok and Neelix
+
+
+== Background information ==
+
+
+=== Story and script ===
+Working titles for this episode were "Untitled Neelix Newspaper" and "The Right to Know". [1]
+The writing of this episode was motivated by preceding continuity in Star Trek: Voyager. "In this case they had an idea and wanted it to culminate in 'Investigations'," explained Michael Jonas actor Raphael Sbarge. (TV Zone, Special #29, p. 26)
+Executive Producer Jeri Taylor was pleased to bring the recurring story arc involving Paris' disobedience to an end. "By this time," she said, "I was just frankly turned off to the whole idea of the Paris arc. I really thought that it wasn't working, and so bringing it to a conclusion felt obligatory rather than challenging. I was much more interested in Neelix's newspaper, which I thought was fun." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+Executive Producer Michael Piller originally intended for this story to be exclusively shown from the perspective of Neelix's news show. "Michael wanted to use the electronic newspaper as a stylistic device in order to tell the story in a different way," Jeri Taylor recalled. "That meant that we would only experience the story from Neelix's point of view. It meant we would not see Tom Paris on the Kazon ship and we would not be redeeming him by showing him as a hero." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+It was not until after production began on the episode that the decision to portray the story entirely from the point-of-view of Neelix's show was reversed, albeit by Paramount studio executives rather than either of the producers. "We were actually into the shooting of that episode when the studio read it and quite rightly – I was happy for their intercession at this point – said, 'You can't do this. We've got to have the action. We've got to see Tom be a hero,'" remembered Jeri Taylor. "So we went back and [included Paris' heroic escape from the Kazon]." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+The episode's final script draft was submitted on 1 December 1995. [2]
+
+
+=== Cast and characters ===
+Although less of Neelix's news program was ultimately shown than had originally been intended, Paris actor Robert Duncan McNeill once referred to this episode as, "Our 'Neelix as a journalist' episode." McNeill continued, "In the original draft, I only had one or two scenes and they wrapped up the story. So, it was a last-minute save on that show. There still could have been more explanation of what I had been going through." (The Official Star Trek: Voyager Magazine issue 11)
+
+King Abdullah bin al-Hussein (then Crown Prince) of Jordan appears as an extra in the teaser of this episode. The cameo was arranged as a surprise for the Crown Prince, who was thirty-four years old at that point, by his US advisor, as Abdullah was a noted Star Trek fan. After being put into makeup, given pointed sideburns and then fitted for his uniform (a lieutenant of the medical division), Abdullah rehearsed and shot his scene. (TV Guide, 17-23 Feb., p. 26) He was not permitted to speak, on-screen, as he was not a member of the Screen Actors Guild. Abdullah later reflected, "It was just an opportunity to see how things work in Hollywood, and I've got to hand it to the people of Voyager. I found it very tough, and I was glad that I was a soldier and not an actor, definitely." (Star Trek Magazine issue 115, p. 9) (Prior to acceding to the throne in 1999, Abdullah served in the Jordanian armed forces for 18 years.) Abdullah's interactions with Voyager's cast and crew included a party that he subsequently gave for the cast. (Star Trek Monthly issue 20)
+At the end of Star Trek: Voyager's third season, actor Ethan Phillips cited this episode as one of several whose scripts excited him because, by reading each one, he discovered something new about his regular character of Neelix (other such episodes being "Tuvix", "Fair Trade" and "Rise"). (Star Trek Monthly issue 28, p. 62) Phillips also liked how this episode provided him with a range of activities and emotions to portray. He observed of the installment, "It had a lot of funny, comedy stuff in it, and a lot of action. I got to have an intimate scene, in the sense of showing that side to Neelix with Tom Paris, bidding him farewell. There was a lot of different colors in that show, and so I had real fun doing it." (Cinefantastique, Vol. 28, No. 4/5, p. 106) In particular, Phillips enjoyed how, in this episode, his character is portrayed as exhibiting heroism. "I liked 'Investigations' a lot," he noted. "I felt in that show I got to be the hero." (Star Trek Monthly issue 21) The actor elaborated, "I really like it when the audience gets to see Neelix's heroic qualities. That's why I loved the episode 'Investigations'; I not only got to show a lot of Neelix's jocularity, but I also got to play the hero!" (Star Trek Monthly issue 20) In fact, Phillips cited Neelix's heroism in this episode as a reason why he had enjoyed the second season, remarking, "I got to save the ship, and that was pretty heroic. It's always a wonderful feeling to know that you've done something that terrific." (Cinefantastique, Vol. 28, No. 4/5, p. 106)
+Ethan Phillips felt challenged, however, by the lengthy first shot of this episode's teaser. "In 'Investigations', I had a two-page monologue which they could not cut away from because it was just me [talking] to the camera," Phillips recollected. "I got the scene like the day before. That was hard. You would get a week to rehearse that in the theater. I had to sit in bed the night before and study it. I'm used to doing one sentence, three sentences at a time, but this was pages and it was tough." (Starlog, issue #231, p. 51)
+Chakotay actor Robert Beltran disliked the particular way in which the long-running story-arc is brought to a conclusion in this episode. "I just didn't like the way they resolved it," Beltran recalled. "One of the more stupid lines that I remember, when they do reveal what really happened with that plot, Janeway says to me, 'We couldn't tell you, because we needed you to be ignorant of this. You did your part very well,' as if he had any choice in the matter." (Cinefantastique, Vol. 28, No. 4/5, p. 100)
+Conversely, this episode was highly approved by Raphael Sbarge. "Out of all the episodes I did this one is definitely my favourite," he commented, "and the one which was the most interesting for me." (TV Zone, Special #29, p. 26)
+It was likewise a favorite installment of Hogan actor Simon Billig. "This episode gave me a chance to really get into the heart of what Star Trek is all about and provided me with a key as to who Hogan is," he remarked. (TV Zone, Issue 93, p. 32)
+
+
+=== Production ===
+During this episode's production period, Ethan Phillips slept in his trailer on the Paramount lot, one night. He explained, "They're long [days] because of the makeup, so it was the first show I ended up sleeping overnight at Paramount, so that I could gain a couple of hours, rather than go home that night. You get tired. You can't sleep in the makeup." (Cinefantastique, Vol. 28, No. 4/5, p. 106)
+The first scene in which Neelix speaks with Hogan, while they are trying to recover erased subspace log entries, was enjoyable for Simon Billig to do, even though he considered it "quite a long scene" which entailed Hogan "spouting off a lot of technical jargon to Neelix." Billig remarked, "I was very relaxed and confident doing that particular scene and I think it's one of the best scenes I've done so far." (TV Zone, Issue 93, p. 32)
+The episode's making additionally included filming of the last-minute added scenes involving Paris escaping from the Kazon. "We went back and shot the scenes of Tom on the Kazon ship and his escape and all that derring-do," commented Jeri Taylor. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+The fact that a certain type of shot, a close-up which is intended to be of only one actor but shows someone else accidentally moving into the camera's line-of-sight, is called a "dirty single" caused much hilarity on the set of this episode, between Ethan Phillips and Raphael Sbarge. "Ethan sort of hooked onto this [terminology] while we were filming 'Investigations' and, right before the camera would roll, would say in his best Irish accent, 'Oh, it's a dirty single,'" recalled Sbarge. "We then both got into this Irish accent and it became, 'Oh, it's a dirty, dirty single. You're a dirty, dirty dog, you,' and went on and on with that. The crew kept looking at us as if we were nuts but every time we said it we would fall over laughing." (TV Zone, Special #29, p. 26)
+The fight between Neelix and Jonas, near the end of the installment, was filmed at night. The sequence involved not only injuries for Jonas but also actual pain for Raphael Sbarge. Laughing, he remembered, "I had a wacky thing happen to me while we were shooting this episode [...] I sort of banged myself up a bit that night while shooting those fight scenes with Ethan. I hit my head on the railing, sliced the tip of one of my fingers open on an exposed nail and, in the scene where Jonas finally goes over the railing, I bruised my rib [...] I guess it was bad astrology or something." Although Sbarge did nearly all his own stunts, filming Jonas' fall to his death made use of a stuntman, Chris Doyle. However, the wounds Sbarge had accidentally received had long-term consequences, partly as he wasn't able to sleep on the side of his body where he had bruised his rib for about a month thereafter. Recalling another aftereffect, Sbarge chuckled, "Of course, I became a joke on the set. It was like, 'Be careful, there's a paper clip! Don't trip!'" (TV Zone, Special #29, p. 26)
+
+
+=== Reception ===
+Jeri Taylor believed showing Paris make his getaway from the Kazon added a lot to this episode. "I think it was an absolutely essential component of the show," she remarked. (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+This was the only episode of Star Trek: Voyager's second season to first air on a Wednesday, rather than a Monday.
+This episode achieved a Nielsen rating of 4.9 million homes, and an 8% share. [3](X) It was the joint third least watched episode of Voyager's second season (on first airing), along with the season finale "Basics, Part I" (which had the exact same viewing figures as this installment).
+Cinefantastique rated this episode 2 out of 4 stars. (Cinefantastique, Vol. 28, No. 4/5, p. 92)
+Star Trek Monthly issue 17, p. 61 scored this episode 2 out of 5 stars, defined as "Impulse Power only".
+The unauthorized reference book Delta Quadrant (p. 110) gives this installment a rating of 7 out of 10.
+
+
+=== Continuity ===
+This episode was produced before "Lifesigns" and has a Stardate that is numerically before Stardates in that episode. However, this episode is otherwise clearly set after "Lifesigns" and was duly aired after it.
+This episode marks the final appearance of the traitor Michael Jonas.
+Michael Jonas' death in this episode brings the total number of confirmed crew deaths since the series premiere "Caretaker" to 6, the previous death having occurred in "Meld". This leaves Voyager with a crew of 147, given Voyager's crew compliment of 152 established in "The 37's" (after the first of these deaths).
+Talaxians other than Neelix appear in this episode. Talaxians also appeared in "Faces" and "Jetrel".
+Seska and Paris talk about Seska's pregnancy in this episode, with Seska mentioning that her (and Chakotay's) child will be born in about a month's time. The pregnancy was first revealed in "Maneuvers", but it is unclear when it began.
+The story about Seska's pregnancy and her baby is continued in "Basics, Part I" and concluded in "Basics, Part II".
+Michael Jonas sabotages Voyager by de-aligning the magnetic constrictors of the warp core. Seska suggests this very method to Jonas in the previous episode "Lifesigns".
+The damage caused by Jonas' sabotage leads Voyager to seek special materials, which Neelix suggests can be found in the Hemikek system. In the previous episode, "Lifesigns", Seska says to Jonas that the Kazon will be waiting at Hemikek, suggesting that she had knowledge of Voyager's lack of those materials and confidence that Neelix (acting as Voyager's chaperone in the Delta Quadrant) would suggest Hemikek as a place to find them.
+This episode marks the first appearance of Neelix's daily broadcast program, A Briefing with Neelix.
+Reference to 47: When Ensign Hogan assists Neelix in Engineering, he responds to the computer, "Engineering authorization Omega-4-7," which is later repeated by Neelix.
+In this episode, the fisticuffs in Engineering is reminiscent of a fight scene between Khan Noonien Singh and Captain Kirk in TOS: "Space Seed". (Star Trek Monthly issue 15)
+Neelix promises "recommendations for new holodeck programs", at least implying a relatively steady flow of holonovels being created by Voyager crew.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 2.8, 5 August 1996
+As part of the VOY Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as Lieutenant B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Guest stars ===
+Raphael Sbarge as Michael Jonas
+Martha Hackett as Seska
+Jerry Sroka as Laxeth
+Simon Billig as Hogan
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Abdullah bin al-Hussein as a sciences lieutenant junior grade
+Michael Beebe as Murphy
+Jeff Cadiente as a Kazon-Nistrim guard
+Steve Carnahan as an operations officer
+Tarik Ergin as Ayala
+Holiday Freeman as an operations officer
+Kerry Hoyt as Fitzpatrick
+Julie Jiang as an operations lieutenant junior grade
+Ken Lesco as a Kazon-Nistrim guard
+Dennis Madalone as a Kazon-Nistrim guard
+Tom Morga as a Kazon-Nistrim guard
+Louis Ortiz as Culhane
+Shepard Ross as Murphy
+Richard Sarstedt as William McKenzie
+Unknown performers as
+Pablo Baytart (voice)
+Voyager transporter chief (voice)
+
+
+=== Stunt doubles ===
+George Colucci as stunt double for Ethan Phillips
+Chris Doyle as stunt double for Raphael Sbarge
+
+
+== Stunt Safety ==
+Tom Morga stunt safety for Chris Doyle high fall
+Leslie Hoffman stunt safety for Chris Doyle high fall
+.
+
+
+=== References ===
+2371; ability; adrenal gland; antimatter; blue; Bolians; Briefing with Neelix, A; carafe; Cardassians; celebrity; class M; combadge; com link; communications log (aka com log); communications master; computer core; contributor; cooking; core; cortenum; crewman; data fragmentation; Delta Quadrant; dermal regenerator; dessert; diet; dilithium; drifter; editor; emergency transport; environmental control log; Eskarian egg; EPS manifold; EPS system; ethical obligation; evasive maneuvers; face; flush; freedom; frosting; galactic background noise; gold; glottis; Hamilton; heart; Hemikek; Hemikek IV; Hemikek system; Hlaka soup; holodeck; hypospray; impedrazine; injector valve; interlink sequencer; intimate conversation; Intrepid class decks; journalism; journalist; juggler; juggling ability; Kazon; Kazon fighter (unnamed); Kazon-Nistrim; Kelvin; Klingons; Kotati; lasciviousness; lovebirds; magnetic constrictor; malcontent; Maquis; meat; mess hall; milligram; mining rights; minute; Mister Vulcan; Mithren; monocrystal; music; name; night shift; PADD; pair; particles per cubic meter; Pendrashian cheese; per se; phaser; phaser array; pilot; plasma; plasma torch; polysilicate; pool; potato; power allocation log; power grid; power transfer conduit; recipe; red alert; rob; romance; second-degree burn; sector; security authorization; segment; sensor; sensor log; signal correlation trace; signal modulation analysis; silmic wine; spy; Starfleet Academy; subspace antenna array; Talaxians; Talaxian convoy; temperature; title; transporter range; Transporter Room 2; transporter subsystems; triage; turbolift; verterium; verterium cortenide; villain; Voyager operations lieutenant; Voyager sciences crewman; Vulcan; warp coil; warp core; warp core breach; warp maintenance log; weapons system; "wee hours"; wheel; yellow dwarf; Zabee nuts
+
+
+=== Deleted references ===
+Bannister; Macormak
+
+
+=== External links ===
+"Investigations" at Memory Beta, the wiki for licensed Star Trek works
+"Investigations" at Wikipedia
+"Investigations" at MissionLogPodcast.com
+"Investigations" at the Internet Movie Database

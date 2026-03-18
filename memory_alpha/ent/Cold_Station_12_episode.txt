@@ -1,0 +1,173 @@
+Soong's Augments take control of a medical facility containing more augment embryos and several dangerous diseases.(Part 2 of 3)
+
+
+== Summary ==
+
+
+=== Teaser ===
+In 2144, Arik Soong gives a lecture to his young children, remarking on how genetically-engineered people like them have been feared by Humans since the Eugenics Wars of the 20th century. Young Malik asks if there are any others like them. Soong remarks that there are – and one day, it will be their duty to free them.
+Eleven years later, Dr. Soong and his grown Augment children head to Cold Station 12 aboard a Klingon Bird-of-Prey to free other embryos following his escape from the custody of the starship Enterprise. As they plan their mission to steal the remaining embryos, Malik notices they can take out the life support system easily. Soong dismisses it, as it would kill the staff. He makes it clear no one is to be killed, even if they put up a fight. Malik accepts it, for now.
+
+
+=== Act One ===
+"Captain's starlog, supplemental. Dr. Soong and his Augments have escaped on a Klingon Bird-of-Prey. Without any other leads, we've proceeded to the coordinates Soong gave us when we began this mission."
+Enterprise arrives at the planet Trialas IV, the settlement where Soong raised his children. Upon entering the structure, Commander Tucker finds that some medical equipment from the settlement has been taken. Captain Jonathan Archer orders him to find out what exactly was removed. Meanwhile, Lieutenant Reed and a detachment of MACOs search the settlement, they discover there is only one person: Udar. After he tries to escape with a knife in his hand, Captain Archer punches Udar, knocking him out.
+Aboard the Bird-of-Prey, Soong is looking at a PADD that was kept by Raakin. He remembers him as a bright young man, very interested in astronomy. He asks Malik where Raakin is noting that none of the other augments is willing or able to provide any information, and Malik tells Soong that Raakin is dead. Malik admits to killing him, in what he claims was self-defense, in a confrontation in a corridor. He begins to get emotional and Soong, enraged by this news, grabs Malik and pushes him against the wall. Malik tearfully apologizes to his father for the killing and Soong forgives him, telling Malik that maybe, if he had been there for his "children", things would have been different.
+Captain Archer talks to Udar in sickbay. Udar, who had been left behind because for some reason did not have the same physical or intellectual gifts as his "siblings", refuses to tell the captain where his "brothers" and "sisters" are headed; only that Enterprise will not be able to stop them. Just then, Tucker contacts Archer and tells him that the medical equipment that was missing from the settlement were incubators – artificial wombs. Archer then receives new orders from Starfleet. He learns that there were over 1,800 other embryos kept at Cold Station 12 and, since Soong is probably headed that way, Archer is given orders by Admiral Forrest to stop him, using whatever force is necessary.
+After formulating a plan to get the embryos, the Augments then hijack a Denobulan medical ship, the Barzai.
+
+
+=== Act Two ===
+Archer arrives at sickbay to learn that Udar can be discharged. He informs Phlox that a colleague of his, Jeremy Lucas, is the station's senior medical director. Phlox then asks to be part of the boarding party. Archer accepts and then asks Udar to the captain's dining room to talk. There, Archer intends to get through to him. He says he should go to school when he gets back to Earth, though Udar was under the impression he would be jailed. When calling Soong his father, Archer then takes out a PADD which has his biological parents' information on it. Confused, he picks up the PADD to read it.
+
+Meanwhile, the augments easily infiltrate the station using the Denobulan ship, and Persis takes out the two security officers without killing them (as Soong wished). Lucas, working in the lab, is informed that the station's communications is down. Then, everyone in the room is knocked out by an anesthesia gas.
+Archer finds Phlox in the mess hall trying to gain a bit of weight, but he's not hungry, dwelling on the fate of his friend Lucas. Archer assured him they're getting there as fast as they can. He also relates his father's struggle with Clarke's Disease, noting that perhaps Soong has a point, that genetic engineering doesn't have to be strictly illegal, but can do some good. Phlox chalks it up to instinct being behind intellect. Archer notes Denobulans never came close to destroying themselves, perhaps because they did not have that failing.
+Upon breaking into Cold Station 12, things get a little uglier when Lucas says he doesn't have access to the embryo chamber, as he did earlier. Malik thinks he's lying, but Soong believes him and has the whole team locked up in a separate room. Lokesh then gets to work on cracking the access himself. Just then, they detect the Enterprise arriving. Soong hails Archer and forces him to turn around and - despite Archer believing Soong isn't a killer - when he threatens to kill Lucas, Archer turns the ship around.
+
+
+=== Act Three ===
+Lokesh realizes there's another layer of encryption on the quantum level, so he needs more time. Malik, however, obtains proof that Lucas was lying about being able to access the embryo chamber, so Soong orders him out of the locked up room. Soong realizes that Lucas will not give up the code that unlocks the embryo chamber, even at the expense of his people or his own life. Malik takes Soong aside and suggests shoving the station's deputy director into a tube and has him exposed to Symbalene blood burn to give Lucas an incentive. Soong initially says it isn't necessary, but Malik convinces him. The deputy director dies a horrible death, while Lucas and his colleagues stand by, helplessly watching.
+The Enterprise, however, is able to transport a team to the station before backing off and moving out of transporter range, by matching the frequency of the transporter to the station's containment field. Archer leads a team of Reed, MACOs, Phlox and Udar. They take out one of them, but it takes a few hits with a phase-pistol to stun him, bringing the question of what it takes to kill them. Phlox then directs the team to a point where life support can be accessed and starts working on controlling it.
+Soong was almost desperate at Lucas for his continued lack of cooperation, clearly uncomfortable with the use of torture to achieve his goals. He pleads with him, and, when Lucas tells him to go to hell, he sees there's no point and decides to release the anti-pathogen. Malik, however, openly defies him and refuses, continuing to raise tension between himself and Soong. Soong pushes him away and releases it himself, but it's too late. During this, Lokesh detected the anomaly caused by Archer's team and one of them goes to check it out. Udar says he actually has good hearing and hears them coming, but actually the MACO look-outs were already captured.
+By this time, the Enterprise has figured out the team has been captured and they re-approach the station and hail it. Soong answers, and Archer quickly yells for T'Pol to execute her orders. She cuts the communication and has Sato activate the station's auto-destruct sequence.
+
+
+=== Act Four ===
+Sato finds that her transmission was sent back to her amplified enough to overload the comm. T'Pol turns to the weapons to destroy the station, but, on approach, the Klingon ship comes from behind and attacks. It fires on them and moves away, trying to draw them away from the station. T'Pol tries to push on.
+Realizing the friendship between Dr. Phlox and Lucas, Malik decides to take things into his hands as he openly defies his father and proceeds to expose the Denobulan doctor to a pathogen. Understanding now that the Augments are not bluffing, Lucas reveals the code and the Augments are finally able to steal the embryos and get away. Soong wants Udar to come with them, but he prefers to stay. Soong wishes him well and leaves to get the embryos. After he's gone, Malik decides to take some of the pathogens for himself as "insurance."
+As Saul puts Archer into the locked room with his team and the station staff, Archer knocks him down with the door. Malik is right there to fight him, and now has a "reason" to kill him. He fights him hand-to-hand for awhile, but then decides he doesn't have time and instead shows sadistic tendencies (and little regard for his father's wishes). He sets the containment breach that will release all the pathogens stored on the station – killing everyone there. He doesn't want Udar to die that way, so he kills him instead.
+The Enterprise sees the shuttle leave toward the Klingon Bird-of-Prey, but it is too slow to disable the Barzai. It is able to dock with the Bird-of-Prey extremely quickly and it immediately jumps to warp.
+After Lucas tells Archer how he can stop the breach, he then runs to the primary junction at Cold Station 12 where it can be averted but he has less than forty second left...
+TO BE CONTINUED...
+
+
+== Memorable quotes ==
+"You son-of-a-bitch!"
+"Actually, mother was a chemist."
+
+- Jeremy Lucas and Arik Soong
+
+"Why are you flying a Denobulan shuttle?"
+"Why not?"
+"You aren't Denobulan."
+
+- Starfleet security officer and Persis
+
+"That language is unbecoming of a man of science."
+
+- Arik Soong, when Jeremy Lucas curses at him under his breath
+
+"Am I going to spend the rest of my life trying to get rid of you?
+"You're going to spend the rest of your life in prison."
+
+- Arik Soong and Jonathan Archer
+
+"Udar?!"
+"Father?!"
+("Father" and "son", reunited, engage in a heartfelt embrace)
+"They told me you were dead, that... that... that... that you were sick..."
+"They lied to you."
+
+- Arik Soong, Udar, and Jonathan Archer
+
+"Whenever a group of people start believing they are better than everyone else, the results are always the same."
+
+- Jonathan Archer, to Soong
+
+
+== Background information ==
+
+At one point, it is said that there are a "few hundred thousand" possible combinations for the "hexadecimal password". However, when Lucas finally reveals it, the screen shows that it is composed of sixteen characters, meaning that there were in fact about 1.8e19×1019 (= 1616) or 18,446,744,073,709,551,616 (about 18.4 quintillion) possibilities.
+On the surface of Trialas IV, where Soong raised the Augments, there was a large device composed of two long glowing red tubes. This device has been seen in many places in other Star Trek series and films, including, most interestingly, in Doctor Noonien Soong's lab in TNG: "Datalore". It is also seen in the control room of Cold Station 12, but with blue lights rather than red. The device was later named Tucker tube in LD: "I Have No Bones Yet I Must Flee" after Enterprise's Trip Tucker.
+Udar's mother was stated to have been an Olympic decathlete, implying that, though not currently an Olympic event, a women's decathlon will be added to the Olympics sometime prior to the Eugenics Wars.
+This is the only episode of the series Phlox can be seen using the transporter.
+When this episode was aired in the United Kingdom, broadcaster Channel 4 edited out some of the more violent scenes, including the part where Doctor Lucas gets tortured, and the close-up of the scientist being killed by the virus.
+The lethal diseases mentioned as being stored in Cold Station 12 in this episode are references to various (fictional) diseases which have been mentioned on previous Star Trek series, including xenopolycythemia, Anchilles fever, synthococcus novae type A, Rigelian fever, and Telurian plague.
+This episode received an Emmy Award nomination for Outstanding Stunt Coordination by Vince Deadrick, Jr.
+Several props and costumes from this episode were sold off on the It's A Wrap! sale and auction on eBay, including Richard Riehle's lab coat [1](X) and Dr. Soong's lesson PADD. [2](X)
+This episode is the chronologically earliest appearance of the Tucker tube, and they may have been invented by Charles Tucker III shortly before these events.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Scott Bakula as Jonathan Archer
+John Billingsley as Phlox
+Jolene Blalock as T'Pol
+Dominic Keating as Malcolm Reed
+Anthony Montgomery as Travis Mayweather
+Linda Park as Hoshi Sato
+Connor Trinneer as Charles "Trip" Tucker III
+
+
+=== Guest stars ===
+Alec Newman as Malik
+Abby Brammell as Persis
+Richard Riehle as Jeremy Lucas
+Kaj-Erik Eriksen as Udar
+Kris Iyer as Deputy Director
+Adam Grimes as Lokesh
+
+
+=== Special guest star ===
+Brent Spiner as Soong
+
+
+=== Co-stars ===
+Amy Wieczorek as Female Pilot
+Jordan Orr as Young Malik
+Kevin Foster as Security Guard #1
+
+
+=== Uncredited co-stars ===
+Geneviere Anderson
+Jef Ayres
+Jorge Benevides as R. Azar
+Macarena Bianchi as Starfleet Officer
+Nathan Bowers as Young Raakin
+Ryan Chase as a Denobulan Doctor
+Fernando Chien as Saul
+Amy Kate Connolly as Irina Karlovassi (still picture)
+Benny Farillas as Augment Child #1
+Nikki Flux as Denobulan Doctor
+Duncan K. Fraser as Walsh
+Peter Godoy
+Scott Hill as Hutchison
+Ricky Lomax as W. Woods
+Andrew MacBeth as E. Hamboyan
+Tom Miller as Human doctor
+Jack Nolan
+Tonya Olivarez as Augment Child #2
+Makayla Richmond as Augment Child #3
+Chandler Taylor as Augment Child #4
+Violetta Torres as Augment Child #5
+Unknown actors as
+Denobulan doctor
+Human doctor
+Security Guard #2
+
+
+=== Stunt doubles ===
+Shawn Crowder
+Vince Deadrick, Jr. as stunt double for Scott Bakula
+Danny Downey as stunt double for Kaj-Erik Eriksen
+Christopher Leps as stunt double for Alec Newman
+
+
+=== References ===
+47; ability; access log; Anchilles fever; Andronesian encephalitis; anti-pathogen; Archer, Henry; artificial womb; asteroid; asteroid field; athlete; Augment; aux sys; Barzai; biobed; biohazard; biological father; blood pressure; body mass; body temperature; boiling; brain; capillary; chemist; Clarke's Syndrome; Code Black security alert; Cold Station 12; cold storage; command access sequence; containment breach; containment cell; containment field; control hub; Corsair; crew manifest; critical malfunction; cryogenics; cryogenic temperature; decathlon; degenerative brain disorder; delta radiation; Denobula; Denobulans; Denobulan medical ship; DNA; Earth; embryo; encryption Eugenics Wars; feedback pulse; field echo; Forrest, Maxwell; geophysicist; hibernation; incubator; Karlovassi, Irina; Karlovassi, Miklos; kilometer; Klingon Bird-of-Prey; life support; life support relay; medical facility; Nicholas Nickleby; Olympics; oxygen; oxygen mask; pathogen; photonic torpedo; power relay; primary junction; prim sys; protein resequencer; quantum encryption; quantum level; Raakin; relay; Rigelian fever; security code; self-destruct; senior medical director; silver medal; sleep cycle; Smike; Soong's mother; Starfleet; stasis; stasis chamber; stasis field; stasis globe; stasis module; Symbalene blood burn; synthococcus novae; systems monitor; Telurian plague; transporter frequency; vascular lining; viropathic cytolysis; water purifier; xenopolycythemia; Yavar
+
+
+==== Star chart references ====
+10 Canum Venaticorum; 15 Sagittae; 17 Cygni; 26 Draconis; 31 Aquilae; 36 Ophiuchi; 36 Ursae Majoris; 37 Geminorum; 39 Leonis; 39 Serpentis; 51 Pegasi; 53 Aquarii; 61 Cygni; 61 Ursae Majoris; 70 Ophiuchi; 81 Cancri; 82 Eridani; 83 Leonis; 94 Aquarii; 96 Aquarii; 99 Herculis; Aldus Prime; Alpha Aquilae; Alpha Arietis; Alpha Aurigae; Alpha Caeli; Alpha Canis Majoris; Alpha Canum Venaticorum; Alpha Chamaeleontis; Alpha Coronae Borealis; Alpha Eridani; Alpha Fornacis; Alpha Geminorum; Alpha Hydri; Alpha Leonis; Alpha Lyrae; Alpha Mensae; Alpha Piscis Australis;  Alpha Trianguli; Alshain; Alzirr; Andoria; Barnard's Star; Beta Geminorum; Beta Hydri; Beta Pictoris; Beta Ursae Majoris; c Ursae Majoris; Caph; Chara; Chi1 Orionis; Chi Eridani; Chi Herculis; Cold Station 12; Delta Geminorum; Delta Trianguli; Delta Ursae Majoris; Deneb Kaitos (Beta Ceti; 16 Ceti); Diadem; Epsilon Eridani; Epsilon Indi; Epsilon Reticuli; Eta Cassiopeiae; Eta Coronae Borealis; Eta Corvi; Eta Crucis; Gamma Ceti; Gamma Doradus; Gamma Leporis; Gamma Pavonis; Gamma Serpentis; Gamma Tucanae; Iota Boötis; Iota Centauri; Iota Horologii; Iota Persei; Iota Piscium; Kappa Reticuli; Kappa Tucanae; Lambda Serpentis; Mu Herculis; p Eridani; Pi¹ Ursae Majoris; Pi³ Orionis; Pi Mensae; Porrima; Proxima Centauri; Psi Draconis; Psi Serpentis; Psi Velorum; Rasalhague; Rho Coronae Borealis; Sigma Coronae Borealis; Sigma Draconis; Sol; Tau¹ Eridani; Tau Ceti; Tau Hydrae; Theta Draconis; Theta Ursae Majoris; Upsilon Aquarii; Wolf 359; Xi Pegasi; Zavijava; Zeta² Reticuli; Zeta Trianguli Australis; Zeta Ursae Majoris; Zeta Virginis
+
+
+==== Meta references ====
+intertitle
+
+
+=== External links ===
+"Cold Station 12" at Memory Beta, the wiki for licensed Star Trek works
+"Cold Station 12" at Wikipedia
+"Cold Station 12" at the Internet Movie Database

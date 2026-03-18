@@ -1,0 +1,302 @@
+Wesley Crusher visits the Enterprise only to see everyone behaving strangely on account of an addictive, mind-controlling game.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Commander Riker is on shore leave on Risa, where he's been spending time with a Ktarian woman named Etana. In his room at the resort he is staying at, she teases him by taking his combadge, and then, to his disbelief, throws it out a window. While they lie down together, Etana introduces to him a game involving a device that fits over the ears and projects signals into the eyes. This creates in the wearer's field of vision an image of discs going into funnels. When a disk goes into one of said funnels, the player is "rewarded" by receiving pleasure signals from the device. Etana says that the game can go as far as the player will take it, and Riker decides to continue playing.
+
+
+=== Act One ===
+"Captain's log, Stardate 45208.2. Commander Riker has rejoined the Enterprise from Risa, and we are on our way to an uncharted area called the Phoenix Cluster. We're all anticipating this historic first look at the region."
+Riker enters the bridge and notices that things are starting to get busy around the Enterprise. He says that five new science teams have just beamed in from the USS Zhukov with quarters filling fast. Captain Picard adds that on top of everything else, they only have two weeks to complete the exploration - something that Riker doesn't like, as he thought they had five weeks. This is due to the recent addition of a diplomatic mission to Oceanus IV to the agenda. Picard tasks Riker to ensure that all the science teams have an equal chance to complete their research, which would be a tough juggling act, says Riker. Picard also tells the first officer that they also have a scheduled rendezvous with a shuttle carrying Wesley Crusher, who is on vacation from Starfleet Academy and could provide some much-needed extra help.
+In Engineering, Chief Engineer Geordi La Forge is up to his neck in observation schedules and explains to Riker the biggest hurdle would be sensor availability, a task made more difficult since two new exobiologists and three stellar cartographers transferred from the Zhukov. Getting down to the business of availability, La Forge tells Riker that the lateral sensors are booked solid for planetary observation, and the gamma ray scanners are being reprogrammed by Ensign Robin Lefler. La Forge compliments her work in engineering, remarking that she's the specialist for this mission. Lefler explains to Riker that they're increasing the available bandwidth of the sensors so more science teams can use the sensors at once. This is done by multiplexing the array, and Lefler assures the first officer that it will be done before they arrive at the Cluster. Riker tells La Forge that he's brought something back from Risa that he has to try. La Forge reluctantly takes a pass as he is running a full sensor recalibration in ten minutes but promises to see Riker about it later.
+In Ten Forward, Riker enters and immediately eyes Deanna Troi, who is sitting at a table enjoying a large chocolate sundae. Jokingly, he asks if she's depressed, to which Troi replies, "I'm fine, Commander." She offers him a spoonful, but he politely declines, saying he doesn't like fudge. Troi smiles and tells Riker she never met a chocolate she didn't like. Getting technical, she describes the experience by explaining the best way to eat it and enjoy it, a detailed ritual which amuses Riker. "Chocolate is a serious thing", she informs him. He then tells her about the game he brought back from Risa, which he promises would be "better than chocolate".
+
+
+=== Act Two ===
+The Enterprise makes a rendezvous with the USS Cochrane, and Wesley is transported aboard and greeted by Chief O'Brien. He congratulates him on the recent birth of his daughter. O'Brien says that she's the spitting image of her father. He informs Wesley that the senior officers are currently in a meeting and that Wesley can go to his mother's quarters. At Wesley's request, O'Brien hails the bridge and confirms that it's all right for Wesley to drop into the observation lounge to say hello. Worf tells O'Brien that he supposes that that would be acceptable. Wesley thanks O'Brien and leaves the transporter room with a confused look on his face.
+A darkened room awaits Wesley, who looks around in confusion. The lights go on, and Doctor Beverly Crusher greets her son with a big hug, followed by Picard. He speaks to him in Latin, and Wesley responds back; Picard credits that his Latin has improved. Troi compliments the uniform, as he is looking handsome, and La Forge says the uniform probably "drives the girls wild." Worf offers him a Tarvokian pound cake, which he made himself. Data then asks if their attempts to make him uncomfortable were effective. Wesley admits they were, having wondered if he was on the wrong ship. Riker asks Wesley to assist the crew with the Phoenix Cluster survey, a request that Wesley accepts without hesitation. La Forge wants him to settle in first and then to see him in engineering to get started. Beverly then asks Troi about the game, and she invites the doctor to come by her quarters to check it out.
+Wesley and Data talk about his time at the Academy, which Wesley found surprisingly challenging, as there's much more to know there than starship operations. Data recounts his awkward early days at the Academy, during which his lack of Human understanding put him at a social disadvantage. One example was practical jokes, of which the android was a victim of several. Wesley completely understands and shares a practical joke that was played on him by fellow cadet Adam Martoni. Another social obstacle was the Academy's annual Sadie Hawkins Dance. It was an awkward experience for both. Wesley admits he's not a dancer, and Data shares that he personally learned to dance thanks to Beverly, a talented former dancer. He offers to share what he learned with Wesley.
+Getting right to work, Wesley begins to modify the planetary scans while keeping the datalines open for the stellar physicists. Seeing that he's having difficulties with the sensors, Lefler walks over and gives him a hand. They introduce themselves, but before they can chat, Lefler points out that Wesley's neutrinos are drifting, leaving Wesley scrambling to get back to work. Wesley looks at her as she leaves, then turns back to his work. Lefler takes a look back at him as well.
+Conflicts arise between the stellar physicists and the planetary evolution team, with both of them wanting to be the first to use the thermal imaging array, Data reports. La Forge suggests they flip a coin, as they won't be able to finish the mission without working together. Data is then called away to sickbay by Beverly, who needs assistance. As he enters, she is working on an experiment using bioactive silicon and needs her tricorder modified to a certain specification. Data agrees to help, but as he works on the tricorder, Beverly shuts him off. Troi and Riker enter sickbay, and Riker carries him to a bio-bed and has the computer secure the doors. Beverly then takes a cutting tool, opens a panel on the back of Data's head, and begins to work on the android.
+
+
+=== Act Three ===
+Enjoying some tea with Picard, Wesley details his instructors at the Academy: Novakovich for anthropology and Walter Horne for creative writing. Picard is pleased to hear that Wesley met Boothby his first week, as he had suggested the year before. When asked how he was doing and mused that Boothby may have told Wesley some stories about Picard in his Academy days, Wesley admits Boothby didn't remember Picard until he saw an old yearbook picture. Boothby was very proud that Picard had become captain of the Enterprise and showed Wesley a grand tour of the gardens - the very same tour Picard got when he was at the Academy. Wesley then asked about the initials "A.F." that Boothby caught Picard carving in his prized elm tree, which Picard admits was an old acquaintance of his. His preoccupation with her cost him a passing grade in organic chemistry. Picard advises Wesley that whenever he meets someone whose initials he would carve in that elm tree, it should not interfere with his studies. Picard is then summoned to sickbay by Beverly.
+Beverly explains to the captain that Data was complaining about a servo malfunction, and although her scans came up negative, he collapsed. La Forge determines that his higher signals are intact, but none of them are entering the rest of his body through his positronic brain, leaving him in an almost comatose state. Picard wants to be kept up-to-date on the situation.
+In Data's quarters, Riker and La Forge end up with a dead end with no evidence to support a shutdown. The personal, diagnostic, and duty logs all show normal, and a standard security sweep shows nothing out of the ordinary. Riker assures the troubled La Forge that Dr. Crusher has everything taken care of and suggests that La Forge take a break to unwind. La Forge agrees, which opens the opportunity for Riker to introduce him to the game.
+Still working on the sensors, Lefler shares with Wesley her view of conduit configuration, quoting her personal Law #36: "You have to go with what works." The laws are her personal rules: whenever she learns something new, she makes a law so as not to forget it. To date, she has 102 laws. She credits Wesley's reputation for being good. Wesley realizes that Lefler knows more about him than he realizes. She admits she's heard about him from a few friends at the Academy. She also wants to know about the revenge prank he played on Adam Martoni. Wesley mentions there is another side to the story, and then Lefler inquires about his birthmark. Wesley complains he is at a disadvantage, as he hardly knows Lefler. While he needs to work on the sensor relays, he offers a chance to even the score. He invites her to meet him for coffee, but she counters with a dinner proposal, which he accepts.
+
+"Captain's Log, supplemental: We have arrived at the Phoenix Cluster, but it will take us several hours to determine the best possible location for which to conduct our survey. Commander Data's condition remains unchanged with no further indication as to the cause of his collapse."
+Beverly clears a challenging level of the game in her quarters but is interrupted by Wesley, who inquires about it. Embarrassed, she concedes that the game was meant for him, but she couldn't resist trying it out. When offered a chance to try it, Wesley passes and instead asks about Data's condition. She says La Forge has everything under control and stops Wesley from going to help out, reminding him he's on vacation. Running late for his date with Lefler, Wesley promises his mother he will have time to spend with her while he's on board. She then becomes adamant for her son to try one round of the game, but he insists he needs to get ready for his date. She tells Wesley to have a good time and sets the game down on a table.
+Lefler begins to talk about her life in Starfleet; her childhood involved frequent moving, as her parents were highly in demand as plasma specialists. As a child, she enjoyed playing with a tricorder, as Wesley did with a warp coil. She concedes her parents didn't have much time to spend with her, even when she needed them, which prompted her to make her first law: You can only count on yourself. They begin to discuss the game. Lefler says everyone in engineering is going crazy over it. They glance over at a crewman at another table playing the game in a trance-like state. Lefler dismisses it as a fad, but Wesley wants to find out more before playing it. They team up to look into it, and as they leave Ten Forward, another crewman in a command red uniform begins playing while seated at the bar.
+The two begin to study the game and what it does to the brain. The highest concentration of activity is in the pleasure center of the brain, a key component in the game: it's addictive. Another unusual reading comes from the prefrontal cortex, which handles reasoning. Wesley concludes he needs to inform the captain about this discovery.
+In the captain's ready room, Wesley explains to Picard what he and Lefler discovered, having concluded that the game is psychotropically addictive. Picard is even further concerned when he learns the game affects the brain's reasoning center. Picard says that he'll start an investigation immediately and thanks Wesley for bringing it to his attention, mentioning how good it is to have him back. As soon as Wesley leaves, he turns around, picks up the game he had hidden when Wesley arrived, and resumes playing.
+
+
+=== Act Four ===
+By now, the game has spread through most of the ship. Wesley meets Lefler in Ten Forward, and the two discuss how they're constantly being approached by people who are almost desperate to get them to try the game, as Chief O'Brien had a moment ago. Wesley tells Lefler that he's told the captain; however, a crewmember interrupts, asking them why they're not trying the game and is about to force hers onto Lefler's head before the two leave, but not before deducing that only Data would be immune to the game and how convenient it was that he suffered a mysterious "malfunction" just after it arrived. Wesley and Lefler look over Data's systems and determine that someone has severed a connection between his positronic brain and the rest of his body. Wesley is disturbed and tells Lefler that only two people on board the Enterprise have the training and experience to disable Data in this way: La Forge and his mother. They deduce that he has been deactivated to be kept out of the way so that the game could be spread throughout the rest of the susceptible crew.
+The Enterprise arrives at some designated coordinates, and Picard sends the senior staff to see to it that the few unaffected crewmembers left are introduced to the game, reminding them not to forget about Wesley. Worf and Beverly go to see to it that Wesley plays the game, only to find that he and Lefler have already seemingly succumbed to it. Satisfied, they leave, only for Wesley and Lefler to return to normal, having replicated dummy devices to fool the rest of the crew. They agree that no one can be trusted now; however, Robin has to leave to report for duty, knowing that her absence could arouse suspicion. Wesley asks her to access the codes for the security tracking system, as he has a plan, and she tells him to watch his back.
+Now believing the entire crew has played the game, Captain Picard summons all the senior officers to the bridge. Worf tells Picard that an alien ship is approaching and is hailing the Enterprise. Picard asks Worf to put the message on the video screen. It is Etana Jol, the woman from Risa who originally gave the game to Riker during his shore leave. She is in fact a Ktarian commander, and she now asks Captain Picard for a report. Picard answers, "The Enterprise has been secured. We await further instructions."
+
+
+=== Act Five ===
+Etana is delighted with Picard's response, and it is now apparent that her encounter with Riker back on Risa was designed to be more than just a romantic interlude but was part of her plan to addict Riker to the game to the point that he would bring it back to the ship. Over time, the game's addictive and mind-control properties would allow Etana to gain control of the Enterprise and its crew. The true intention of the game is also clear now: it is part of a Ktarian "expansion project" and a plot to help the Ktarians take over the Federation. She now orders various members of the crew to visit nearby Federation outposts and installations to distribute the devices there and also to make sure that all other ships in the sector get the game. In a reference to Wesley, Picard also informs Etana that they may be able to get the devices to Starfleet Academy. Etana closes the transmission by saying the crew will all be rewarded when the "expansion" is completed.
+
+Wesley meets up with Lefler in engineering, where he tells her he's prepared a site-to-site transporter program in case of an emergency and asks how she's been doing with the security system. However, he then notices that she's staring at him blankly. He realizes something is wrong as Lefler reveals she's been exposed to the game and tells Wesley it's his turn. Riker and Worf have been hiding in order to perform an ambush. Wesley manages to escape from engineering and makes a run for it with Riker and Worf in pursuit. When further progress is blocked by a force field, he activates the transport program. He is beamed to Transporter Room 3, on Deck 6. In order to prevent the crew from tracking his whereabouts, Wesley ditches his combadge and deactivates it as he flees the room.
+After working through some of Wesley's sabotage, the crew tracks him to deck six and traps him with force fields. Wesley takes out a type 1 phaser and sets it to randomly fire on the force field. This activity is detected, tricking the crew into thinking he was trying to cut through it and buying him time to get away. He escapes into the Jefferies tubes, but they scan for his body heat in that quarter of the saucer section. Knowing where he's going, Worf and Riker corner Wesley in a Jefferies tubes junction and capture him. Even though he grabs onto a grate to anchor himself, they eventually manage to drag him to the bridge, struggling the entire way.
+Held down into the captain's chair, he is forced to use the game device, his head held still and, at Picard's encouraging, his eyes forced open by Riker and Worf. Wesley still fights them while his mother encourages him to just relax and let the game play itself. In fact, the game does play itself: Wesley refuses to throw the disks into the funnels, but the funnels stretch toward the disks and pull the disks into themselves, triggering the same effects that would have been triggered if Wesley had voluntarily thrown the disks into the funnels. It would seem that he is now addicted - and Ktarian control of the Enterprise is now complete.
+
+At that moment, the lights on the bridge go out, plunging the room into darkness. Data appears from the turbolift and, using a palm beacon, flashes an optical burst pattern into everyone's eyes, which disrupts the game's effects and returns everyone to normal. He has the lights turned back on before telling Worf to lock onto the Ktarian ship with the tractor beam. As Worf goes to do so, Data asks Picard if he is alright, and the shaken captain says, "I think so, Mr. Data."
+As soon as Etana's ship is captured, she angrily hails the Enterprise, demanding an explanation. When Picard says that her plot has failed, she threatens to open fire on the Enterprise, but Worf scans her ship and pointedly reports that with her ship's limited defenses, she is not a threat at all. After making it clear to Etana that she cannot escape, Riker closes the channel on a speechless Etana.
+Riker is curious about how Data is working again despite being disabled. Wesley explains that he had managed to reconnect Data's positronic matrix before he went to Engineering. After learning of the situation, Data had set to work on finding a way of counteracting the game's mind control (eventually modifying the palm beacon), while Wesley distracted the crew for as long as possible with his wild goose chase. As for the rest of the crew, Data had programmed the computer to send the same coded burst patterns to all of the display screens, work stations, and terminals throughout the ship, which should cure everyone. With the conspiracy over, Picard decides to take the Ktarian ship to the nearest starbase.
+
+"Captain's Log: Stardate 45212.1. We have delivered the Ktarian vessel to Starbase 82 and are now on course to rendezvous with the starship Merrimac which will transport Wesley Crusher back to Starfleet Academy."
+Lefler is helping Wesley prepare to leave the Enterprise. His vacation is over - back to the Academy and his studies. Riker informs Wesley that his ship is waiting, and he should report to the transporter room. Wesley acknowledges that he'll be there shortly. But first he and Lefler say their goodbyes to each other, they kiss, and she gives Wesley a going-away gift - a copy of her 102 laws written down. Wesley decides to add, "Law 103... A couple of light years can't keep good friends apart". She nods her approval, and Wesley is transported to the USS Merrimac that will return him to Starfleet Academy. Lefler watches Wesley longingly as he leaves.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+
+
+== Memorable quotes ==
+"You see the disk and the cone?"
+"Yeah."
+"Concentrate. Make the disk go into the cone."
+"How do I do that?"
+"Just let go."
+
+- Etana Jol, explaining to Riker how the Ktarian game worked
+
+"Would you like me to leave the two of you alone?"
+
+- Riker, to Troi and her chocolate sundae
+
+"I never met a chocolate I didn't like."
+
+- Troi
+
+"Chief O'Brien to bridge."
+"Bridge here."
+"Wesley Crusher has arrived and wants to know if he can stop by the observation lounge to say "Hi.""
+"I suppose that is acceptable."
+
+- Miles O'Brien, contacting Worf on the bridge and informing him of Wesley Crusher's arrival on the Enterprise
+
+"Wesley... Tarvokian pound cake. I made it myself."
+
+- Worf
+
+"Chocolate is a serious thing."
+
+- Troi
+
+"No, thanks. I don't like fudge."
+
+- Riker, after Troi offers him a taste of her sundae
+
+"Quomodo tua Latinitas est?" (Translation: "How's your Latin?")
+"Praestat quam prius." (Translation: "It's better than before.")
+"Oppido bonum. (Translation: "Very good.") Your Latin has improved."
+
+- Picard and Wesley Crusher
+
+"Report."
+"Welcome, Etana. The Enterprise has been secured. We await your further instructions."
+
+- Etana Jol and a brainwashed Picard
+
+"Your neutrinos are drifting."
+
+- Robin Lefler to Wesley, who was a bit slow in disengaging a handshake with her
+
+"It's your turn. Play the game, Wesley."
+
+- Robin Lefler, after being hypnotized by the Ktarian game
+
+"Geordi, a conflict has started between the planetary evolution team and the stellar physicists. Each wishes to be the first to use the thermal imaging array."
+"Well, tell 'em to flip a coin. We've got to work together on this mission otherwise we're never gonna get it done."
+"A coin. Very good. I will replicate one immediately."
+
+- Data and La Forge
+
+
+== Background information ==
+Final draft script: 23 August 1991 [1]
+Filmed: 28 August 1991 - 6 September 1991
+Additional day of second unit filming: 3 October 1991
+Premiere airdate: 28 October 1991
+First UK airdate: 25 January 1995
+
+
+=== Story and script ===
+Like "Darmok", the story for this episode had a somewhat tumultuous path to the screen. It had originally been pitched by Susan Sackett and Fred Bronson during the fourth season. However, as Ronald D. Moore recalled, "'The Game' kicked around for quite a while and went through lots of permutations." Many writers had taken many approaches to the story, including two drafts that were abandoned. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230-1)
+Bronson recalled, "It was based on the fact that I had a Tetris game on my computer at home. Whenever I wanted to [...] distract myself I would play Tetris and it was very addictive." (Starburst Special #29, p. 58)
+Michael Piller was convinced the premise couldn't be saved. However, Rick Berman reminded Piller that he had been concerned about the lack of science fiction premises on the show. Berman thus suggested giving the story to Brannon Braga, as his first assignment after joining the writing staff. Braga took the pitch in a darker direction, summarizing his treatment as "Wesley's come home and his family's out to get him." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230-1; Star Trek: The Next Generation Companion, 2nd ed., p. 181)
+Braga compared the plot of this episode to Invasion of the Body Snatchers. (Intergalactic Guest Stars, TNG Season 5 DVD special features) Jeri Taylor commented, "Through an evolutionary process - without really intending to ape that movie - this insidious spread of a game had its origins in kids being addicted to video games now, and what happens to them. That was the original intent and that's what drove the final story and script. That insight followed the development." Braga added, "It's ironic to have the adolescent come back to find all the adults are addicted to a game which is something you'd expect the other way around." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+Braga observed, "We were going for fun and high concept. It's an atypical show in some ways and a lot of people had trouble believing Picard would become addicted and all these people would get hooked, but that's the story. Either you tell it or you don't. Not that we didn't give a lot of thought to how the characters became addicted. The characters only become addicted because they were getting the game from people they trusted, which is exemplified in the notorious chocolate scene, which had a very mixed reaction, but I had a lot of fun writing it." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+Braga saw this episode as a chance to make the character of Wesley Crusher "a little hipper", by giving him a girlfriend and by showing him to be a cadet capable of pulling practical jokes. (Star Trek: The Next Generation Companion, 2nd ed., p. 181) Braga remarked, "When I was writing the teleplay, I tried to relax him a little bit and took the opportunity to make him a more relaxed character with some personality and some spunk. He's more savvy because he was at the Academy and has gone through some changes and he'll pick up on Robin Lefler." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+
+
+=== Production ===
+
+"The Game" was filmed between Wednesday 28 August 1991 and Friday 6 September 1991 on Paramount Stage 8, 9, and 16. On Monday 2 September 1991, the production was off for Labor Day Holiday. An additional day of second unit filming was on Thursday 3 October 1991 on Paramount Stage 9 and 16.
+While at Dragon Con 2011, Brent Spiner recalled that during production of this episode, the scene wherein Data is deactivated by Dr. Crusher and falls down onto a bio-bed, Spiner actually hit the bed so hard he cut his chin and had to go to the hospital. After returning to the set, director Corey Allen immediately asked Spiner to do the scene again. [2]
+On Thursday 29 August 1991, a camera crew from CBS This Morning visited the set and interviewed the cast members.
+"The Game" was the first episode to air following Gene Roddenberry's death on 24 October 1991.
+
+
+=== Cast and characters ===
+This was the second and last appearance of Ensign Robin Lefler (Ashley Judd). After her first appearance, in "Darmok", the writers had been looking for a vehicle for her return, and this story was seen as a perfect fit. (Star Trek: The Next Generation Companion, 2nd ed., p. 181)
+Wil Wheaton fondly remembered working with Judd, noting that he was Judd's first on-screen kiss. (Intergalactic Guest Stars, TNG Season 5 DVD special features)
+Brannon Braga admitted that he hit on Judd during filming, and was "dutifully ignored". (Star Trek: The Next Generation 365, p. 227)
+
+
+=== Sets, props, special effects, and costumes ===
+
+The headpieces for the Ktarian game were created by property master Alan Sims, using telephone headsets. (Star Trek: The Next Generation 365, p. 226)
+A suite on Risa, as it appeared in "Captain's Holiday", was recreated for this episode. It has the same architecture and similar decorations (including a horga'hn) as Captain Picard's room and even features the Risian ocean, seen through the window.
+The engineering laboratory is a re-use of the sickbay lab, also seen as the tactical laboratory. It includes the star chart seen behind Dexter Remmick in "Conspiracy".
+The Ktarian vessel is a re-use of the Zalkonian warship, which itself was a redress of the Tarellian plague ship.
+Several parts of the bridge of the Ktarian ship, including the chair and the viewscreen, also appeared on Romulan ships.
+This is the first appearance of Wesley Crusher's cadet-style Starfleet uniform. The Star Trek: The Next Generation Companion, 2nd ed., p. 181 notes that Wesley's cadet uniform lacks pips, as was later established in "The First Duty".
+The blue-grey shirt that Wil Wheaton wore as Wesley in this episode was sold off on the It's A Wrap! sale and auction on eBay. [3](X) [4](X)
+This is the first appearance of a matte painting as optical extension of the Jefferies tube. The call sheet features the note "Art/Graphic - translight backing of tube".
+
+
+=== Continuity ===
+Data references the events of "Data's Day" when he tells Wesley that his mother recently taught him how to dance. This also means that Data broke his promise to Doctor Crusher that he would keep this fact between the two of them.
+Deanna Troi's love of chocolate was established in "The Price".
+Wesley and Picard also discuss Boothby, who was first mentioned by Picard in "Final Mission".
+Data revealed the secret location of his off switch to Dr. Crusher in "Datalore". In this episode, she uses this knowledge against him. Commander Riker previously used his knowledge of the switch to re-activate Data in "Brothers", having learned its location in "The Measure Of A Man".
+While in a turbolift, Nurse Alyssa Ogawa comments to Wesley that she is on Level 47 of the Game, repeating the theme of including that number in the series.
+This episode was the second time the sonic shower was referenced and the first to mention it by name, though it was several years before one was seen again, on Star Trek: Voyager.
+One episode after her birth in the previous episode, "Disaster", Wesley reveals Molly O'Brien's name when he congratulates Miles on his new daughter.
+
+
+=== Reception ===
+Michael Piller commented, "I thought it was a great episode. That was an episode that dealt with my fascination in watching my two sons with their obsession for video games and doing a show that dealt with a non-world shattering issue but people's obsession, almost addiction, to certain types of games." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230) Piller praised Braga's efforts, and thought it showed that he had promise as a writer. "He delivered that script and did some wonderful things. He wrote scenes that didn't depend on action but went straight to character; and a two minute scene with Troi and a chocolate sundae which was wonderfully written. He has an extraordinary talent to find the moments in [a] script where you can throw in character development and spend the time doing that for the sheer delight of getting to know the character better - and not interrupting the flow." (Star Trek: The Next Generation Companion, 2nd ed., p. 181)
+Brannon Braga remarked, "It was corny, even at the time. But I enjoyed writing it. It was fun to realize that Picard had been seduced by the game, and it was fun to watch Beverly Crusher attempt to entice her son. The script was produced exactly as I wrote it, so it was an extremely positive experience for me." (Star Trek: The Next Generation 365, p. 227)
+Jonathan Frakes also enjoyed "The Game", commenting, "That's a fun episode... It was like O.D.'ing on Nintendo." However, he was disappointed with the computer graphics used to depict the Ktarian game, stating "They told me it was going to be this incredible graphic, and all it was... was a tuba on a checkerboard". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 231)
+Writer Marc Scott Zicree was not impressed by how this episode developed the character of Wesley Crusher. Commented Zicree, "He falls in love with a girl and they share chocolate mousse - give me a break." (The Fifty-Year Mission: The Next 25 Years, p. 106)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 18, pp. 38-41.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 53, 5 October 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.2, catalog number VHR 4761, 22 July 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Ashley Judd as Robin Lefler
+Katherine Moffat as Etana
+Colm Meaney as Miles O'Brien
+Patti Yasutake as Alyssa Ogawa
+And
+Wil Wheaton as Wesley Crusher
+
+
+=== Co-stars ===
+Diane M. Hurley as Woman
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Arratia as Alfonse Pacelli
+Rachen Assapiomonwait as Nelson
+Joe Baumann as Garvey
+Cece Bell as command division officer
+Bowman as civilian
+Michael Braveheart as Martinez
+Camara as operations division officer
+Victoria Cameron as Ten Forward waitress
+Max Cervantes as operations division officer
+Cullen Chambers as command division officer
+Tony Cruz as Lopez
+Denise Deuschle as science division officer
+A. Flores as science division officer
+Goldie Ann Gareza as civilian
+Keith Gearhart as science division officer
+Melba Gonzalez as command officer
+Eben Ham as operations division ensign
+Linda Harcharic as command division ensign
+Grace Harrell as operations division officer
+Melanie Hathorn as sciences officer
+Gary Hunter as science division officer
+Joly as command division ensign
+Kast as command division officer
+Alex Landi as operations division officer
+Mark Lentry as science division lieutenant
+Debbie Marsh as command division ensign
+Michael Moorehead as science division ensign
+Randy Pflug as Jones
+Greg Poole as civilian
+Bill E. Rogers as operations division officer
+Noriko Suzuki as operations division ensign
+Curt Truman as command division officer
+Guy Vardaman as Darien Wallace
+Dru Wagner as Daniels
+Christina Wegler Miles as civilian
+Unknown performers as
+Garvey (voice)
+Male civilian
+Ten Forward waiter #1
+Ten Forward waiter #2
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson - stand-in for LeVar Burton
+Cameron - stand-in for Gates McFadden
+Foster - stand-in for Wil Wheaton
+Debbie Marsh - stand-in for Marina Sirtis
+Tim McCormack - stand-in for Brent Spiner, Wil Wheaton, and Colm Meaney
+Lorine Mendell - stand-in for Gates McFadden, Katherine Moffat, and Ashley Judd
+Diane Reilly - stand-in for Ashley Judd
+Richard Sarstedt - stand-in and photo double for Jonathan Frakes and stand-in for Colm Meaney
+Dennis Tracy - stand-in for Patrick Stewart
+Guy Vardaman - stand-in for Wil Wheaton
+Dana Vitatoe - photo double for Brent Spiner
+Steve Voboril - photo double for Wil Wheaton
+James Washington - stand-in for Michael Dorn
+Anne Woodberry - photo double for Gates McFadden
+Diane York - photo double for Katherine Moffat
+
+
+=== References ===
+"a juggling act"; A.F.; access code; addiction; advice; alien; announcement; anthropology; antimatter regulator; astronomical survey; bandwidth; bearing; bioactive silicon; biosystem; birthmark; blade; body; Boothby; bow; brain; brain activity; bypass; cadet; calibration; cat; chance; cherry; chili sauce; chocolate; chocolate chips; chocolate fudge; chocolate ice cream; chocolate sundae; Cleon system; Cochrane, USS; coffee; coin; coma; communicator; computer (main computer); conduit; cone; coordinates; corridor; cortex processor; course; course (education); Creative Writing; dad; damage; dance (dancing); "Dancing Doctor, The"; data line; date; deception; deck; depression; detector; device; diagnostics; dinner; diplomatic mission; disc; display screen; duty logs; ear; effect; elm; Endeavour, USS; engineering laboratory; "even the score"; event; exobiologist; experience; experiment; expert; explanation; exploration; exposure; eye; fad; Federation; feeling; first year cadet; "flip a coin"; friend; forcefield override; frontal lobe; fun; gadget; Galaxy class decks; gamma ray scanner; gift; "give me the creeps"; grass; hail; higher functions; higher reasoning; holodeck; horga'hn; Horne, Walter; Human; hundred; ice cream; illumination; information; initials; instruction; intercept course; internal security sensors; investigation; Jefferies tube; junction; kiss; Ktarians; Ktarian game; Ktarian vessel; lateral sensor; Latin; Lefler's Academy friends; Lefler's parents; Lefler's parents' sector; lesson; light; light year; location; long-range array; luggage; malfunction; Martoni, Adam; medical program; medical team; meeting; Merrimac, USS; Midsummer Night's Dream, A; minute; mission; mission specialist; mom (mother); mud; multiplexing; name; nervous system; neural output; neurochemical analysis; neurological behavior program; neuroreceptor; neutrino; Novakovich; nurse; O'Brien, Molly; Oberth-class; observation schedule; Oceanus IV; online; opportunity; optical burst pattern; optical sensor; Organic Chemistry; palm beacon; panel; partner; personal logs; phenomenon; Phoenix Cluster; photo; physics lab; place; planetary evolution team; planetary observation; planetary scanner; plasma specialist; playing field; positronic brain; positronic link; positronic matrix; power cell; practical joke; prefrontal cortex; processor; problem; psychotropic drug; quarters; region; rendezvous; research; reticular formation; Risa; ritual; Robin's Laws; rumor; Sadie Hawkins Dance; scan field; Science department; science team; sculpting; section 23; section 25; section 29; section 52; security alert; security containment field; security sweep; security tracking code; security tracking system; senior officer; senior staff; sensor array; sensor pad; sensor recalibration; sensor relay; septal area; serotonin; serotonin cascade; servo; shutdown; shuttlebay; shuttlecraft; side effect; signal breach; signal flow; site-to-site transport; site-to-site transporter program; size; sleep; social gathering; sonic shower; spoon; specification; Spot; starbase; Starbase 67; Starbase 82; starboard; Starfleet; Starfleet Academy; starship operations; status; stellar cartographer; stellar physics; stellar physicist; story; subcommand; subprocessor; subroutine; survey; synapse; synaptic activity; tactical analysis; Tarvokian pound cake; taste; tea; teaching; terminal; testing; "the spitting image"; thermal imaging array; thermal sensor; threat; three-dimensional chess; tour; tractor beam; tradition; transporter room 2; transporter room 3; transporter system; transport program Crusher One; tricorder; "try it on for size"; turbolift; unconsciousness; understanding; "up to my neck in"; vacation; victim; viewer; warp coil; "watch your back"; weapons system; week; work station; year; yearbook; Zhukov, USS
+
+
+==== Library computer references ====
+Federation Star Chart ("The Explored Galaxy"): Aldebaran; Alfa 177; Alpha Carinae; Alpha Centauri; Alpha Majoris; Altair VI; Andor; Ariannus; Arret; Babel; Benecia; Berengaria VII; Beta Aurigae; Beta Geminorum; Beta Lyrae; Beta Niobe; Beta Portolan; Camus II; Canopus III; Capella; Daran V; Delta Vega; Deneb; Eminiar; Fabrini; First Federation; Gamma Canaris N; Gamma Trianguli; Holberg 917G; Ingraham B; Janus VI; Kling; Kzin; Lactra VII; Makus III; Marcos XII; Manark IV; Memory Alpha; Mudd; Omega IV; Omega Cygni; Organia; Orion; Pallas 14; Phylos; Pollux IV; Psi 2000; Pyris VII; Regulus; Remus; Rigel; Romulus; Sarpeid; Sirius; Talos; Tau Ceti; Theta III; Tholian Assembly; Vulcan
+
+
+==== Deleted references ====
+Bloom
+
+
+=== External links ===
+"The Game" at Memory Beta, the wiki for licensed Star Trek works
+"The Game" at Wikipedia
+"The Game" at MissionLogPodcast.com
+"The Game" script at Star Trek Minutiae
+"The Game" at the Internet Movie Database

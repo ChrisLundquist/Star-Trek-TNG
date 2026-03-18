@@ -1,0 +1,189 @@
+Voyager encounters Dreadnought, a Cardassian missile that B'Elanna Torres reprogrammed during her time in the Maquis. Even though lost in the Delta Quadrant, the missile still believes it is on a Maquis mission in the Alpha Quadrant, setting an intercept course with an inhabited world.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The Doctor and Kes are conducting a prenatal exam on Ensign Samantha Wildman and are discussing possible names for Samantha's baby, the difficulty of which The Doctor can sympathize; he has reviewed databases from over five hundred worlds but has yet to find anything suitable for his own name. Samantha has been considering naming the child after her husband, Greskrendtregk, because it is a tradition in his family but she would prefer something simpler. She suggests Cameron, Frederick and Sural, but The Doctor discounts each possibility. Cameron is from the ancient Celtic for "one whose nose is bent," Frederick bears a resemblance to an impolite term on the Bolian homeworld and Sural, which was a Vulcan name, was also the name of a brutal dictator on Sakura Prime. Kes suggests Benaren, her father's name, and both The Doctor and Wildman like the name. However, The Doctor is hurt that Kes never suggested the name for him.
+Meanwhile on the bridge, the crew is investigating a debris field and are concerned because it would take a very powerful weapon to cause so much damage to the duritanium-hulled unmanned probe. Upon investigation, Commander Chakotay and Lieutenant jg B'Elanna Torres find that a powerful Cardassian weapon caused the destruction. Captain Kathryn Janeway asks if Seska could be involved but Torres reveals that she herself was responsible.
+
+
+=== Act One ===
+The bridge crew gathers in the briefing room, although Lt. jg Tom Paris arrives late and disheveled, to hear Torres' explanation. She reveals that the probe was destroyed by an experimental Cardassian missile from the Alpha Quadrant which the Maquis had acquired. They surmise that the Caretaker must have brought the missile to the Delta Quadrant in the same way as the USS Voyager because the last time they saw the probe it was headed into the same area of the Badlands where Voyager was taken. Chakotay explains that the weapon is a self-guided tactical missile armed with 1,000 kilograms each of matter and antimatter, its own defensive weaponry and one of the most sophisticated computer systems that Torres had ever seen. The Maquis nicknamed the missile Dreadnought after the famous British battleship of the early 20th century. Neelix asks how the Maquis stopped the missile, to which Chakotay replies that they didn't. The Dreadnought made it through all of their defenses but despite its tactical sophistication, the Cardassians had armed it with an old kinetic detonator which failed to go off when it reached its target. Torres got inside the missile and reprogrammed it, giving it a new identity and making it work for the Maquis. They then sent it off on a mission to destroy the Cardassian fuel depot on Aschelan V but it never made it out of the Badlands and they assumed it was destroyed in the plasma storms. Torres says she can modify Voyager's sensors to find the Dreadnought and then she can get back inside and shut it down. The crew is dismissed but Chakotay confronts Paris about his tardiness and the untidiness of his uniform.
+While Paris and Torres work on reconfiguring the sensors, she reveals that Chakotay had not told the whole truth during the briefing. She says that they didn't send the probe to attack the Cardassians; she had done it alone without Chakotay's permission. After Chakotay found out he confronted her and said that she had hurt him because he thought he had earned her trust and loyalty. Torres regretted her actions and was relieved when the probe disappeared. Now she feels that if anyone gets hurt by the Dreadnought, it will be her fault. Paris tries to console her and the conversation switches to his own problems fitting in. Torres says that people are starting to talk about his behavior and she asks if it's true that Paris got in a fight with Lt. Rollins. Paris said the lieutenant had hassled him about the punctuation on his conn reports not being up to Starfleet protocol. Paris admits that Rollins was right about the reports and that he himself was beginning to feel that he did not fit in on Voyager.
+Voyager eventually finds the Dreadnought's warp trail, which is erratic due to an evasive pattern that had been programmed in, indicating that the missile sensed them following it and took evasive action. Once they find the missile, Torres realizes that its targeting scanners have been activated, which is not supposed to happen until it has locked onto its final target. Scanning its trajectory, they find that the Dreadnought has locked on to a planet approximately ten light years away and will take about three weeks to reach its destination. Much to the crew's dismay, the planet is class M with several heavily populated areas.
+
+
+=== Act Two ===
+Michael Jonas makes another call to the Kazon-Nistrim and wants to tell Seska about the weapon but his Kazon contact, Lorrum, won't let him speak to her directly. Before Jonas can give a full report to the Kazon, he must get off the comm line because someone else is about to make a subspace transmission and might discover him.
+On the bridge, Janeway has made contact with First Minister Kellan of Rakosa V, the planet toward which the probe is headed. The first minister has been tracking Voyager and the missile, but had not yet determined what it was. When Janeway tells the minister that the object is a powerful missile, he first believes that she is making a threat against the planet. The minister says that Voyager has a reputation for threatening many races since its arrival in the Delta Quadrant. Janeway says that the Kazon have been spreading those lies to prevent them from making allies and that the Voyager crew is going to try to stop the missile, but Kellan is still skeptical and says he will put his planet's defense forces on alert.
+Meanwhile, Dreadnought has accepted Torres' access codes and she beams over to the missile, where her identity is confirmed by a DNA scan. The missile, which speaks with Torres' own voice, greets her. The probe states that Torres' last systems access was on stardate 47582. The current date is 49447, time 0840 hours. Torres begins to try to find what is wrong with the missile's programming to make it lock onto the wrong target. The missile's computer argues that the planet it is targeting is in fact Aschelan V, based on parameters such as size, radiothermic signature and atmospheric composition and it refuses to believe Torres when she says that the missile has the wrong planet targeted. Torres is unable to access the missile's navigation system because it is at Stage 3 alert status, a safety measure which Torres remembers was her idea. As she starts working on another way to get at the system, Torres asks the Dreadnought what happened to it on the day after her last systems access. The computer confirms that it encountered a coherent tetryon beam, which Torres realizes must have damaged the Dreadnought's sensors. After some modifications, she has the missile reinitialize its navigational system which causes the missile to realize it is in the Delta Quadrant. Since Aschelan V is not in the Delta Quadrant, the probe stands down from Stage 3, deactivates the target lock and assumes Stage 4 alert status. Janeway immediately contacts Torres, reporting that the missile's engines have shut down. Believing her mission was accomplished, Torres packs up her gear, puts the missile in Stage 5 status power-saving mode and bids the Dreadnought goodnight as she beams back to Voyager.
+Later, however, while Torres, Chakotay and Janeway discuss the possibility of salvaging parts from the Dreadnought for use on Voyager, Paris interrupts to report that the Dreadnought has suddenly powered up and jumped to warp nine, putting it on an intercept course with Rakosa V which it will reach in 51 hours.
+
+
+=== Act Three ===
+
+Voyager chases after the probe, which no longer responds to Torres' access codes, making it impossible for her to beam over. Janeway orders Tuvok to fire on the missile, in an attempt to disable its drive systems. Chakotay informs her that the missile was programmed to adapt to all known weapon types, including Starfleet's, but Janeway is optimistic that Voyager's type 6 photon torpedos, which weren't in service yet when Dreadnought was launched, might just get through.  Voyager fires two photons for direct hits, but there is no damage to the missile. Chakotay surmises that the Dreadnought must have scanned their weapons and adapted.
+After the attack, Dreadnought hails Voyager to warn the "unidentified Federation ship" not to interfere with its tactical mission against the Cardassians. Torres asks why the missile resumed course and the computer responds that it believes Torres entered false information into its navigational computers as part of a "Delta Quadrant Deception." Dreadnought believes that Torres is being coerced by either the Cardassians or the Federation, number 7 in a list of 39 possible tactical scenarios for which Torres had programmed the missile to prepare responses. The missile's computer is unable to accept that it is in the Delta Quadrant and believes it is a greater probability that it is being deceived in order to stop it from completing its mission. With that, the Dreadnought breaks off communication. Torres comes up with one possible vulnerability in the Dreadnought's thoron shock emitter. If the missile could be provoked to fire at full power, it would destabilize the core for thirty seconds and the missile could be destroyed by a sustained tachyon beam. The crew puts the plan into action, but rather than being destroyed, the missile sends a plasma burst along the tachyon beam, disabling Voyager's engines before the missile could be damaged.
+Janeway contacts First Minister Kellan again to report on the situation, stating that Voyager's engines will be back online in an hour and they will try again to stop the missile. Kellan says that his planet is projecting two million casualties if the missile attacks and has deployed a fleet which will intercept the missile in a few hours. Janeway says that the Rakosan fleet is no match for the Dreadnought's weapons, but Kellan refuses to just sit and wait for destruction. Janeway implores the minister to wait, as Torres is still the best hope for stopping the missile, but Kellan says the decision has already been made.
+Eventually, Torres does manage to beam back over to the missile, which greets her warmly but denies her access to any programmer interfaces, and even shocks her when she attempts to access the circuit pathways. Torres continues trying to access the computer and at first is surprised that she manages to get through without much of a fight, but before long the missile announces it is going to Stage 2 alert. Torres asks what is happening, and the computer responds that fifteen priority targets are approaching with weapons armed – the Rakosan fleet.
+
+
+=== Act Four ===
+Aboard Voyager, Janeway tries to convince the Rakosan fleet not to attack, but the pilot of the lead ship, Rakosa One, states that he intends to carry out his orders. However, Torres requests that Janeway not beam her away from Dreadnought, as the Rekosan fleet has provided a distraction which is allowing her to access the missile's computer systems. Janeway agrees not to pull her out yet, but will maintain a transporter lock and Voyager engages the missile alongside the Rekosan fleet in order to provide cover fire.
+Torres starts to make progress on accessing Dreadnought's weapons systems, until the computer informs her that it has rerouted all command functions through protected backups in order to prevent tampering. Torres again tries to reason with the computer, saying that the Rekosans are not Cardassians and therefore not the enemy, but the computer answers that it is programmed to respond with all necessary force and begins the attack. Voyager is able to draw the Dreadnought's fire and allow the Rekosans to escape, but Torres has just over an hour left to prevent the attack. Janeway asks if she has any other ideas, but Torres doesn't want to discuss them in front of the Dreadnought computer. Dreadnought promptly cuts off Torres' comm link with Voyager, stating that there had been a tactical advantage to monitoring her communications, but now that advantage was gone.
+Torres goes back to work and the missile realizes that she is trying to access the detonation control system in order to blow up the missile before it reaches its target. Torres responds that that wouldn't make much sense, since she would be killing herself in the process and why would she sacrifice herself if being coerced by the Cardassians? Dreadnought cannot come up with an answer for this and begins a new probability analysis and Torres sees a possible opening. She starts to play a hypothetical game with the computer, something she had done before during the Dreadnought's initial programming. Torres asks the computer to hypothetically accept the assumption that the missile is in the Delta Quadrant, heading for the wrong target and explain how this might have happened. The computer responds that if key sensor programs were damaged, it could have compromised the databanks. Torres calls up the databanks to see if they were compromised and finds an unidentified Cardassian backup file in the databank that she had missed during her first reprogramming of the Dreadnought. Before she can learn more, the Dreadnought completes the new probability assessment and comes to a new conclusion… Torres is not being coerced, but has instead changed loyalties. With this, the computer terminates humanoid life support, goes to Stage 1 alert and begins its final detonation sequence.
+
+
+=== Act Five ===
+First Minister Kellan is beginning to give up hope, but Janeway tells him that she is prepared to use Voyager to stop the missile by colliding with it, rather than letting it hit the planet. Kellan is taken aback by her willingness to sacrifice her vessel to save people she hadn't met until only a few days ago. He says that Voyager's reputation is undeserved and for what it's worth, they have made a friend today. Janeway reminds him that they still have forty-one minutes to stop Dreadnought and she hasn't given up yet.
+
+Back on the missile, Dreadnought cannot understand why Torres has remained after life support has been cut off and key systems have been made inaccessible, but Torres is too busy working on accessing the old Cardassian file. Meanwhile, Janeway tells Chakotay and Tuvok that at this point their only option to destroy the missile is to set off a large explosion in its path, with the only thing that would create a big enough detonation being a warp core breach. She puts Chakotay in charge of evacuating non-senior officers from the ship, then initiates the self-destruct sequence, just as Torres accesses the Cardassian file and brings the original Cardassian ATR-4107 control system for the missile online, triggering an "identity crisis" in the computer. The conflicting computer systems attack each other as they battle for control of the missile, enabling Torres to access the missile's reactor core so she can detonate the warhead before it reaches the target.
+
+Seven minutes before Voyager self-destructs, Janeway orders Lieutenant Paris and Ensign Kim to their escape pods, however, she allows Tuvok to remain behind when he points out she'll need someone to take over if she is injured. Dreadnought manages to fight off the Cardassian computer system and regain control, but Torres has nearly managed to destroy the containment field with a sustained phaser attack, despite the fact that the air on the missile is getting very thin and she is about to lose consciousness. Dreadnought tells B'Elanna that it is willing to reconsider the possibility that it is in the Delta Quadrant, but Torres won't be tricked again. As she runs out of air, she notes how ironic it is that after all the time she spent reprogramming Dreadnought that two years later they'd end up trying to kill each other. Dreadnought admits that it never would have predicted this outcome, as Torres breaches the core. Tuvok manages to beam Torres off the Dreadnought just as it explodes, and Janeway cancels the self-destruct. The Doctor, who had been forgotten in all the excitement, states that Torres will be fine, and Janeway orders Tuvok to come about and start gathering up the escape pods.
+
+
+== Memorable quotes ==
+"You would… sacrifice yourselves to save a people you didn't know two days ago?"
+"To save two million lives? That's not a hard decision."
+"… your reputation in this quadrant isn't deserved, captain. For what it's worth… you have made a friend here."
+
+- Kellan and Janeway
+
+"Warning. Self-destruct sequence has been initiated. Warp core overload in twenty minutes."
+
+- Voyager computer
+
+"When a bomb starts talking about itself in the third person, I get worried."
+
+- Tom Paris, in reference to a subspace communication from Dreadnought's computer
+
+"Please turn to your Emergency Medical Holographic Channel."
+"Doctor, I forgot about you."
+"How flattering."
+
+- The Doctor and Janeway
+
+"… I even programmed it to warn Federation ships to stay out of its way. In my own voice!"
+"Your own voice?"
+"Listening to that Cardassian computer voice was driving me crazy!"
+
+- Torres and Tom Paris, referring to the computer voice of Dreadnought
+
+"Never thought I'd be glad to hear that voice."
+
+- Torres, after she reactivates the Cardassian back-up program
+
+"Who'd have thought, two years ago, all those weeks we spent together, perfecting your program, that we'd end up out here, trying to kill each other!"
+
+- Torres, close to passing out while attempting to breach Dreadnought's containment field
+
+
+== Background information ==
+
+
+=== Story and script ===
+This episode had the working titles "Counterstrike" and "Original Sin". [1]
+The first draft script of this episode (which had the working title "Original Sin") was submitted on 23 October 1995. In it, the character of Ensign Wildman had the first name "Karen". Star Trek: Voyager staff writer Lisa Klink supposed that this early name for Wildman was discarded simply on account of forgetfulness, rather than for a more intentional reason. [2]
+At the time of this episode's production, Gary Holland was amid an eight-year stint as Vice President and Executive Director of Paramount Domestic Television Advertising & Promotion. Although Holland is credited as having written this episode, the story proceeded from a script written by Lisa Klink and only was sold by Holland. (Star Trek Monthly issue 14 & Star Trek Monthly issue 15) Executive Story Editor Kenneth Biller said of the episode, "Lisa Klink did a really good rewrite on that." (Cinefantastique, Vol. 28, No. 4/5, p. 97) Klink herself reflected, "I think that came in as a pitch, and then we turned it into a B'Elanna episode, just to kind of have her confront something of her past, which is always kind of interesting and kind of reveals character." Klink herself also wrote the scene in this episode that features Michael Janos covertly talking with a Kazon operative. [3]
+The episode's final script draft was submitted on 16 November 1995. [4]
+In this episode and its script, Kes claims that she "once knew a boy named Tarrik", a reference to Voyager stand-in actor Tarik Ergin, who is frequently seen in the background of episodes as Lieutenant Ayala.
+Paris' pronouncement at the start of the episode's third act (i.e., that the Dreadnought missile is still on course for Rakosa V, at warp nine) was not included in the final draft script. That version of the script did, however, include Torres commenting that she and the missile's AI being alone was "like the good old days," a remark which isn't in the final version of the episode. Likewise, Kellan told Janeway in the script, but not in the episode's finalized edit, "I just learned my wife's brother and his family are on holiday in the mountains two hundred kilometers from the target site… we haven't been able to reach them… all the communications lines are jammed…" In the script, Paris thanked Janeway "for the ride," whereas he thanks her "for everything" in the final version of the episode. The script ended with Tuvok working his panel on Voyager's bridge, whereas the final view in the episode is of Voyager flying through space.
+
+
+=== Cast ===
+This is one of two episodes (the other being "Prototype") that Torres actress Roxann Dawson cited as installments which initially scared her, as she immediately realized they would be "difficult to pull off," but which she ultimately regarded as episodes where "we found some interesting themes I didn't know were there in the beginning." (Cinefantastique, Vol. 28, No. 4/5, p. 103) Of this episode in particular, Dawson said, "'Dreadnought' was an interesting challenge because it was very much dealing with who B'Elanna used to be, confronting her former self. She was forced to see how much she had changed, and who she was at the time. She was forced to battle that in a very, very tangible way. That I found to be the most interesting." (Cinefantastique, Vol. 28, No. 4/5, p. 104)
+Roxann Dawson worked long and hard on this episode, both in her usual role of B'Elanna Torres and as Computer Voice of the Dreadnought missile. She was surprised by how much the latter role required of her. "'Dreadnought' surprised me because so much effort went into actually developing the computer voice," Dawson stated. "That came about through hours and hours of looping. The whole show was B'Elanna and her relationship with this computer counterpart. So, it was fascinating for me to create that relationship half in performance and half in a sound studio." (The Official Star Trek: Voyager Magazine issue 12) In fact, the process of recording the computer voice taught Dawson much about who B'Elanna Torres had once been. "I think I had most of my revelations when I went in to do the computer voice," Dawson remarked. "As I was recording that side of the episode, later on, there was a real sense of growing to understand who I was before, who that person was who was actually programming all that stuff into the computer." (Cinefantastique, Vol. 28, No. 4/5, p. 104)
+
+Director LeVar Burton was impressed by Roxann Dawson's work here. "'Dreadnought' made me a big fan of Roxann Dawson," Burton said. "I find her level of preparation, her intensity and her focus to be quite extraordinary." Burton felt that the episode's success or failure depended on Dawson delivering an interesting performance. "It was one actor in one room for three acts," he noted. "You have to make it interesting […] And I want to say, to her credit," Burton concluded, "Roxann absolutely held the screen every moment she was on." (The Official Star Trek: Voyager Magazine issue 12)
+A male voice was used instead of regular Cardassian computer voice actress Judi Durand on Star Trek: Deep Space Nine so as to be easily distinguishable from Roxann Dawson as the Maquis program voice.
+Michael Jonas actor Raphael Sbarge enjoyed collaborating with LeVar Burton on this installment, subsequently commenting, "It was nice to work with him." (TV Zone, Special #29, p. 25)
+
+
+=== Wardrobe, sets, production, and effects ===
+Kellan's outfit was a reuse of the costume worn by Richard Kiley as Gideon Seyetik in DS9: "Second Sight".
+Although some areas of the Voyager bridge set incorporated fluorescent lights built into the set, this concept was taken to an extreme with the missile interior for this episode. The Dreadnought interior was designed by Production Designer Richard James and was planned to require no additional lighting instruments, allowing LeVar Burton's wish for a hand-held Steadicam unencumbered by lighting equipment in the way. (Star Trek: Communicator issue 108, p. 49) Burton chose to heavily utilize this filming method as a way of trying to make the episode interesting. He noted, "Eighty-five percent of what we did in 'Dreadnought' was done with a Steadicam." (The Official Star Trek: Voyager Magazine issue 12) As a result of the filming decisions taken by Burton, the production crew filmed extremely rapidly on the set. "It was totally lit and LeVar could do anything he wanted – we just flew through that set!" recalled Director of Photography Marvin V. Rush. (Star Trek: Communicator issue 108, p. 49) The missile interior also incorporated many stock fixtures and okudagrams from Star Trek: Deep Space Nine. (Delta Quadrant, p. 101)
+Ken Biller was pleased with LeVar Burton's work on this episode. Biller commented of the installment, "It was well directed." (Cinefantastique, Vol. 28, No. 4/5, p. 97)
+On the other hand, Ken Biller was disappointed by the episode's effects, noting, "This really horrible weapon looked like a little box floating around in space." (Cinefantastique, Vol. 28, No. 4/5, p. 97)
+The musical theme from Star Trek: Deep Space Nine is quoted at the end of the episode, as the Executive Producers' credit appears. This episode also prominently features Cardassian set elements, graphics, and sound effects familiar to Deep Space Nine viewers.
+
+
+=== Continuity and trivia ===
+This episode has some similarities with the earlier second season installment "Prototype". Both episodes involve Torres communicating with a piece of technology that was originally created for offensive purposes but has essentially gone rogue (in that case, Automated Unit 3947) as well as attempting to destroy technology that she herself created (in the earlier case, Prototype Unit 0001).
+This is the fourth time the crew of Voyager discover a direct connection between the Alpha Quadrant and Delta Quadrant, having previously discovered a wormhole connecting the two quadrants ("Eye of the Needle"), descendants of Human abductees ("The 37's") and descendants of aliens who have visited Earth ("Tattoo").
+Lisa Klink cited this episode, due to its inclusion of the Dreadnought missile, as one of numerous installments of Voyager's second season that each feature an element from the Alpha Quadrant; other such elements include a colony of Humans in "The 37's", Reginald Barclay in "Projections", flashbacks to a youthful Chakotay's hike through a Central American jungle in "Tattoo", many reminders of the pasts of Voyager's crew in "Persistence of Vision" and Q in "Death Wish". Klink remarked, "Individually those episodes worked well, but I think in general they had the effect of making this a familiar neighborhood." (Cinefantastique, Vol. 28, No. 4/5, p. 77)
+This episode marks the first of three instances when Voyager's self-destruct sequence is initiated.
+Unlike in other Star Trek incarnations, in this episode (as with the following activation in VOY: "Deadlock"), when Janeway initiates the self-destruct sequence for Voyager, the computer does not ask for concurrent authorization from any other member of the bridge crew.
+Ensign Wildman's pregnancy continues in this episode, after being introduced in "Elogium" and revisited in "Tattoo".
+During discussion of names for both Ensign Wildman's unborn baby and The Doctor, it is shown that Ensign Wildman has a strong intuition that the baby is a boy. However, she later gives birth to a girl, Naomi, in VOY: "Deadlock".
+This episode continues the story of The Doctor's quest to choose a name, which began with his request for a name at the end of "Eye of the Needle" and continued in "Ex Post Facto" with some possible choices he had been considering, all names of famous historical Human doctors. In this episode, he corrects Kes and confirms that he is considering non-Human doctors as inspirations as well.
+In this episode, after Tom Paris arrives late and looking disheveled for the daily brief, Chakotay gives him an informal reprimand of his recent indiscipline. This started in the previous episode, "Meld", with the radiogenic particle pot. This indiscipline continues in "Lifesigns" and later comes to a head in "Investigations".
+Michael Jonas' conspiracy with the Kazon is continued in this episode, having started in "Alliances". It concludes in "Investigations".
+It is stated in this episode that Dreadnought will take three weeks to reach its target ten light years away, implying a speed of thirty-two-million miles per second. This is 125 times slower than Voyager's maximum speed, if using the figure given by Tom Paris in "The 37's".
+Dreadnought states that Torres last boarded the missile on stardate 47582. This would have been around the same time that O'Brien was cloned in the second season Deep Space Nine episode "Whispers".
+Voyager uses seven photon torpedoes in this episode, having previously used one in "Alliances". This brings the total number of torpedoes used to eleven, of the irreplaceable complement of thirty-eight established in "The Cloud".
+
+
+=== Reception ===
+Ken Biller had some initial concerns about this episode. "I gotta tell you, I was worried about 'Dreadnought,'" he later admitted. "Roxanne in a room talking to herself for 45 minutes is going to be repetitive." He was, however, ultimately pleased at how the episode turned out. "Except for the really disappointing effects […] I found that a compelling episode. I watched that with my girlfriend who only watches Star Trek because she's my girlfriend, and she found it gripping. It far exceeded my expectations," Biller commented. He went on to explain that he had been concerned that the similarities between this installment and "Prototype" would be too obvious to viewers and had also been anxious because this second season Voyager episode is one of several, in that season, to use an element from the Alpha Quadrant. (Cinefantastique, Vol. 28, No. 4/5, pp. 97-98)
+This episode achieved a Nielsen rating of six million homes, and a 9% share. Along with the episodes "Non Sequitur" and "Cold Fire", this was the joint fifth most watched installment of Voyager's second season (on first airing), with the exact same viewing figures as the other two episodes. [5](X)
+Cinefantastique rated this episode 2 and a half out of 4 stars. (Cinefantastique, Vol. 28, No. 4/5, p. 92)
+Star Trek Magazine scored this episode 2 out of 5 stars, defined as "Impulse Power only". However, Stuart Clark, a reviewer for the magazine, additionally stated about the episode, "The sparks really begin to fly." (Star Trek Monthly issue 17, p. 59)
+The unauthorized reference book Delta Quadrant (p. 102) gives this installment a rating of 6.5 out of 10.
+At some point after learning of her role in this episode, Roxann Dawson appealed to Voyager's team of writer-producers for a script that not only featured Torres prominently but also required Dawson to act opposite another Human, for once. The actress later explained, "It's funny, in '"Faces"', I dealt with myself a lot. In '"Prototype"', I dealt with a robot and in 'Dreadnought', I dealt with a computer that had my voice. So, I was acting with myself in three B'Elanna-heavy episodes. I begged the writers to make the next one something where I got to interact with a Human." (The Official Star Trek: Voyager Magazine issue 12) This request apparently became a recurring joke and Dawson felt that its success would result in an interesting insight into her character; shortly before beginning work on Voyager's third season, Dawson stated, "I have a joke with the producers that every story they've given me, I'm either playing opposite myself ['Faces'], or a computer ['Prototype'], or a computer with my voice ['Dreadnought']! All those episodes were wonderful and I really enjoyed working on them, but I would love to do an episode in which B'Elanna deals with a real person rather than a machine or another aspect of herself. We know that B'Elanna actually feels better dealing with machines than she does with Human beings. So I would love to see her try to deal with Humans. I think it would be very interesting." (Star Trek Monthly issue 20, p. 35) Dawson also remarked, "I've had some interesting costars, one was a computer, and one was a mechanical man. I'm waiting for them to give me a real person to play off of." She laughed, then continued, "I keep joking. I had an episode last season where I played opposite myself, then opposite a machine, then opposite a machine with my voice. So it's obviously a theme. Hopefully [this] year I get to talk to a real person." (Cinefantastique, Vol. 28, No. 4/5, p. 103)
+Roxann Dawson went on to provide another computer voice (for the automated repair station) in ENT: "Dead Stop".
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 2.7, 22 July 1996
+As part of the VOY Season 2 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Commander Chakotay
+Roxann Biggs-Dawson as Lieutenant B'Elanna Torres
+Jennifer Lien as Kes
+Robert Duncan McNeill as Lieutenant Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Lieutenant Tuvok
+Garrett Wang as Ensign Harry Kim
+
+
+=== Guest stars ===
+Raphael Sbarge as Michael Jonas
+Nancy Hower as Samantha Wildman
+Michael Spound as Lorrum
+Dan Kern as Kellan
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Roxann Biggs-Dawson as Cardassian ATR-4107 (reprogrammed voice)
+Tarik Ergin as Ayala
+Unknown performers as
+Cardassian ATR-4107 (original voice)
+Female transporter officer
+Rakosan pilot (voice)
+
+
+=== References ===
+23rd century; 2367; ability; aggressor; Alpha 441; Alpha Quadrant; antimatter; Aschelan V; astronomical marker; auto-destruct; Badlands; Benaren; Bolarus IX; Cameron; captain's prerogative; Cardassian; Cardassian ATR-4107; Caretaker; Celtic; circuit pathway; class M; coherent tetryon beam; command pathway; computer; computer virus; conn report; containment field; course; covering fire; damage; databank; debris; Delta Quadrant; Demilitarized Zone; DNA; duritanium; eastern continent; electromagnetic field; Elrem; EPS relay; Federation; Federation-Cardassian Armistice of 2367; flattery; flight path; Frederick; file directory; generation; Greskrendtregk; Greskrendtregk's family; hull; identity crisis; Intrepid-class; Intrepid class decks; ion radiation; kilo; kilometer; kinetic detonator; Ktarian; lead ship; logic; magnetic constrictor; Maquis; middle name; missile; multiphasic sweep; name; navigational sensor; navigational system; neutrino; nickname; Ocampa; offensive capability; phenomenon; plasma wave; photon torpedo; plasma burst; plasma storm; polyalloy; probe; quantum torpedo; radiothermic signature; Rakosa V; Rakosa V's star system; Rakosa One; Rakosan; Rakosan fighter; reactor core; red alert; repair crew; Rollins; Sakura Prime; science officer; second-in-command; self-destruct; senior officer; sensor echo; sensor program; Seska; Starfleet; Starfleet protocol; Sural; Sural; Sural's parents; Sural's rivals; tachyon beam; tactical subroutine; Tarrik; tetryon; third person; thoron shock emitter; type 6 photon torpedo; transporter lock; transporter room; transporter signal; upper frequency; Vulcan; warp trail; weapon; weapons systems
+
+
+=== External links ===
+"Dreadnought" at Memory Beta, the wiki for licensed Star Trek works
+"Dreadnought" at Wikipedia
+"Dreadnought" at MissionLogPodcast.com
+"Dreadnought" at the Internet Movie Database

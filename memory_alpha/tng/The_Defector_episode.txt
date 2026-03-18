@@ -1,0 +1,296 @@
+The Enterprise grants asylum to a defector from the Romulan Empire, who claims to have vital information concerning a renewed Romulan offensive against the Federation.
+
+
+== Summary ==
+
+
+=== Teaser ===
+As Data performs in Shakespeare's play Henry V on the holodeck, Captain Picard watches while standing nearby and applauds him that he is getting better and better with his performance. Data intends to study the Human condition through Shakespeare. They are interrupted by Commander Riker, who informs them that sensors have detected an unidentified craft in the Romulan Neutral Zone headed towards Federation space. Picard and Data leave the holodeck and discuss why a king would want to pose as a commoner. Picard tells Data to listen to what Shakespeare was saying about the man, as the king wanted to share his men's fears before they went into battle. Data asks Picard when he can schedule a performance for the crew. Picard responds that they should not rush that right now.
+Picard arrives on the bridge, and Riker informs him that Outpost Sierra VI has confirmed that the vessel is a Romulan scout ship. The ship hails the USS Enterprise-D and its pilot requests assistance and asylum, as he is under pursuit. The ship enters visual range and Worf displays it on the main viewer, just as a Romulan warbird decloaks, chasing the scout ship.
+
+
+=== Act One ===
+
+The warbird begins firing on the scout ship. Picard immediately brings the ship to red alert and attempts to communicate with the warbird. He informs them that they have crossed the Neutral Zone and are engaged in hostile action and demands an explanation. No response is received, so they contact the scout ship again, this time visually. Its pilot pleads for help as the Enterprise moves to intercept, but then the ship is struck by weapons fire and communication is lost. The ship drifts into Federation space, and the Enterprise extends its deflector shields around it. The warbird approaches, entering Federation space. Picard orders phasers locked on and demands that the warbird withdraw from Federation space. They turn around and do so, having never communicated with the Enterprise. Life support on the scout ship begins to fail, so Picard orders that its pilot be transported aboard and the scout ship taken in tow.
+
+"Captain's log, Stardate 43462.5. We have beamed aboard an apparent Romulan defector, who claims to be a low-ranking logistics officer with extraordinary information about a secret offensive."
+Worf and Riker go to the transporter room to meet the pilot. The pilot is injured, unable to move his left arm, and has severe burns on his face. He demands to see the captain, and when Riker suggests he go to sickbay, he refuses, insisting the information he has is vital to their survival. He claims to be a low-ranking logistics clerk with vital information. In the observation lounge, he tells them that the humiliating defeat suffered by the Romulans at the Battle of Cheron has not been forgotten and their new leaders have vowed to disregard the Treaty of Algeron – Nelvana III is just the first step. The Romulans have already established a base there, and it will become operational within forty-eight hours.
+
+Riker is suspicious, wondering how the Federation sensors that monitor the Neutral Zone just happened to have missed this new base. The pilot insists that within two days a fleet of warbirds will be within striking distance of fifteen Federation sectors. Picard tells Worf to take the pilot, Sublieutenant Setal, to sickbay. Picard, Riker, Data, and Geordi La Forge discuss "Setal"'s intentions. Whether he is legitimate or not, this could be a ploy by the Romulans to make the Federation look like the aggressors. As La Forge talks about the scout ship the defector has left them with a suggestion that Picard send La Forge with an away team to the ship, and it suddenly explodes just outside the observation lounge's windows.
+Riker questions "Setal" in sickbay. "Setal" insists that he is not a traitor and he set the ship's auto-destruct sequencer just before he was beamed aboard to prevent it from being captured. "Setal" is surprised when Dr. Crusher displays knowledge of Romulan medicine. She says she had gained experience recently at the incident at Galorndon Core. Worf remains suspicious, asking how a logistics clerk knew of that incident and questioning the authenticity of his credentials. "Setal" defiantly spouts Klingon insults, but Riker artfully counters with a Romulan insult and then has Worf leave the room to see to other arrangements. "Setal" laughs and admires Worf but reminds himself that a man like Worf could get everyone killed.
+
+
+=== Act Two ===
+
+Riker shows "Setal" to his quarters. When Riker leaves, "Setal" asks the replicator for water, giving the temperature in onkians. The computer does not understand and asks for the temperature in Celsius degrees. He impatiently asks for water at the cold side of whatever their temperature scale is. He then sits on his bed and removes a small, round object that was concealed in his boot.
+On the bridge, Data reports that no unusual activity has been detected in the Nelvana system. Picard notes that, given Romulan cloaking technology, an entire fleet of warbirds could be passing before their eyes, and they would not be able to detect them. He then remarks that there must be some way to neutralize this advantage. A priority one communication from Starfleet Command on Lya III arrives. Admiral Haden informs Picard that the Romulan government has officially demanded the return of the defector, but the Federation Council has refused. He suggests taking the Enterprise to a Federation position proximate to Nelvana III. Picard then calls Lieutenant Worf to his ready room.
+
+Back on the bridge, Picard, La Forge, Data, and Dr. Crusher watch sensor recordings from the chase. La Forge reports that the warbird deliberately slowed down to avoid catching the scout ship. Data also reports that the Romulans have the same ability to direct the impact of their weapons as they do. Crusher admits that despite the severity of his wounds, it is conceivable that "Setal" could have inflicted them upon himself.
+
+"Captain's log, Stardate 43463.7. We're holding a position at the Neutral Zone border proximate to Nelvana III. If our guest is telling the truth, there are twenty-one hours left before the Romulan base becomes functional."
+Picard receives another communication from Admiral Haden. The USS Monitor and the USS Hood are on their way but will not arrive in time to be of any assistance. All Federation outposts and independent vessels along the border have been warned, and all Federation starships have been placed on yellow alert. The admiral tells Picard that although no one in Starfleet wants a war with the Romulans, they are prepared to take them on if that is what they want. Picard orders Data to prepare a Class-1 probe to scan "every meter of Nelvana III". He also asks for Data's clarity of thought, asking Data to keep a clear record of these events so that history will have an unbiased account. He also asks about the crew's spirit, confessing that, unlike King Henry, he cannot disguise himself and walk amongst his men.
+
+
+=== Act Three ===
+
+Riker and Deanna Troi interrogate "Setal". Riker tries to make him prove that he is not a spy by asking about the strength and locations of the Romulan battle fleet. Setal says he does not know. He tells them he is a logistics officer for only one sector, under Admiral Jarok. He responds with the exclamation "Irrelevant!" to the rest of Riker's questions.
+The Enterprise receives a priority message from the security officer on the IKS Bortas, which Worf leaves the bridge to deal with. Data, in the meantime, launches the probe. In main engineering, Data and La Forge analyze the probe's telemetry. The probe has picked up low-level subspace radio communications and ionization disturbances coming from the planet, which may be evidence of cloaked Romulan ships. However, they have not detected a base. The only way to be certain is to go to the planet and take a look for themselves.
+
+In Ten Forward, Data observes "Setal". "Setal" recognizes him as the android he had heard about. He apparently knows of a number of Romulan cyberneticists who would love to study him, but Data realizes that that is not something he would find appealing. "Nor should you," "Setal" responds. "Setal" asks if the replicators are capable of producing Romulan ale, but Data says they are not as they do not have the appropriate molecular pattern, as their knowledge of Romulan culture is very limited.
+
+"Setal" and Data discuss the possibility that he will never be allowed to return to Romulus. Data tells him that perhaps they could bring Romulus to him. Data then takes him to the holodeck where he recreates the Valley of Chula on Romulus, but he does not need to stay for long. After the program is deactivated, "Setal" tells Data to arrange a meeting between himself and Captain Picard, and to tell him that Admiral Jarok wishes to speak with him.
+
+
+=== Act Four ===
+
+In another communication from Admiral Haden, he confirms to Picard that "Setal" is, in fact, Admiral Alidar Jarok, the commander responsible for the massacre at the Norkan outposts and advises Picard to consider him an unreliable source of information. Jarok is brought in to the ready room, where Picard questions his credibility. He suggests that the massacres at the Norkan Outposts are an example of the fact that Jarok is not a man of peace. Jarok counters, saying what Picard calls massacres were called the Norkan Campaigns on his homeworld. He tells Picard that one world's butcher is another world's hero. Perhaps he is neither, he muses. Picard asks Jarok if he is willing to help them overcome the Romulan B-type warbirds and deactivate their cloaking shields.
+Jarok says nothing, and Picard invites the Admiral to consider Picard's dilemma: Jarok wants them to act, yet stubbornly refuses to tell them any of what he certainly knows of the Romulans' military capabilities, which means his credibility is less than nothing. Jarok insists that he cannot betray his people, and Picard snaps that Jarok already has, and he had better get used to the fact that he is a defector.
+After a pause, Jarok asks if Picard has children. Picard attempts to return the discussion to the present, but Jarok stops him, saying that when a man becomes a father, he realizes it is his duty to make the whole world a better place for his child. After Jarok's daughter was born, he pleaded with the Romulan High Command for months, telling them that another war would destroy the Empire but they would not listen. They censured him and sent him off to command some distant sector. He had no choice but to defect.
+His daughter will now grow up believing her father is a traitor, but at least she will grow up, if Picard acts. Picard, unmoved, says he will only act unless Jarok cooperates, completely and unequivocally.
+In the observation lounge, Picard announces that Jarok has given him the strengths and locations of the Romulan fleet and will provide them with technical data on Romulan ships. Picard orders the ship to Nelvana III.
+
+
+=== Act Five ===
+"Second officer's log, Stardate 43465.2. We have entered the Neutral Zone in direct violation of the Treaty of Algeron. Presuming Romulan warships are cloaked and monitoring us, we expect heavy resistance as we approach Nelvana III."
+
+The Enterprise enters the Neutral Zone, in direct violation of the Treaty of Algeron, but suspiciously meets with no resistance. The lack of resistance worries Riker, as he would have expected a greeting party. Picard notes his remarks echo those of George Armstrong Custer and his 7th Cavalry at Little Bighorn River. Riker muses he hopes they have better luck than he did. The ship arrives, but no lifeforms, power systems, weapons, or any sign of a base are detected on the planet. There is no scarring to suggest any kind of heavy construction and no visible visual distortions revealing a cloaked base. Data realizes that the signs are coming from an unknown source in orbit about the planet. Jarok arrives on the bridge. He is stunned when Picard confronts him – he claims to have seen the tactical communiqués, the timetables describing this base, et cetera. Picard asks if the whole incident could have been a test of Jarok's loyalty.
+The Enterprise prepares to withdraw, but two warbirds decloak and attack them. Picard tells Worf not to fire back and then receives a hail from the lead Romulan ship. Commander Tomalak appears and tells them that this time it is they who have made an aggressive move across the Neutral Zone. Tomalak reveals that the subspace radio and ionization they picked up were coming from a cloaked probe in orbit sent to conduct "archaeological research". In response to the Enterprise's incursion into the Neutral Zone, Tomalak announces that he intends to dissect the Enterprise and display its broken hull in the center of the Romulan capitol, noting that it will serve as inspiration for their troops for generations and also a warning to any other potential traitors.
+
+Jarok confronts Tomalak, but Tomalak refuses to listen, demanding that Jarok be returned and then the Enterprise crew surrender as prisoners of war. Picard refuses to accept Tomalak's terms, and Tomalak is not at all surprised. He asks if Picard is willing to risk the lives of his crew for a lost cause, and Picard says if the cause is just and honorable, his crew will follow him. He asks if Tomalak is also prepared to die, and Tomalak scoffs at him, expecting more than an idle threat, to which Picard replies, "Then you shall have it."
+He instructs Worf to signal three cloaked Klingon Birds-of-Prey to reveal themselves – surrounding the Romulan ships. Tomalak boasts that the Enterprise will still not survive their assault, and Picard tells Tomalak that they will not survive his, either. Picard asks if they shall die together. Tomalak then tells Picard he looks forward to their next meeting and closes the channel. Worf reports the Romulan disruptors are powering down and the warbirds retreat from the Nelvana system. Picard asks Worf to extend the appreciation of the Federation and his personal gratitude to the Klingons. He then orders Riker to plot a course back to Federation space.
+
+Extremely disheartened, Jarok laments to no one in particular, "I did it for nothing. My home, my family; for nothing." Later, Jarok is found in his quarters – dead, having committed suicide with a Felodesine chip, leaving only a letter for his family. Data remarks that Jarok must have realized that they could not deliver it, given the Federation's current relations with the Romulan Empire. Picard replies that if other Romulans show the courage of Admiral Jarok, then perhaps they will see a day of peace when they can take his letter home.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2366
+Second officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"How do you allow Klingon peta'Q to walk around in a Starfleet uniform?"
+"You are lucky this is not a Klingon ship. We know how to deal with spies."
+"Remove this tohzah from my sight!"
+"Your knowledge of Klingon curses is impressive. But, as a Romulan might say, only a veruul would use such language in public."
+
+- Jarok, Worf, and Riker
+
+"Oh, what a fool I've been, to come looking for courage in the lair of cowards."
+
+- Admiral Jarok
+
+"One world's butcher is another world's hero. Perhaps I am neither one."
+
+- Jarok, to Picard
+
+"We have less than 48 hours to prevent a war or perhaps... to start one."
+
+- Picard
+
+"It does appear unlikely you will ever be allowed to return to your planet."
+"The cold reaction of an android."
+
+- Data and Jarok
+
+"This... this is my home now – my future. I have sacrificed everything. It must not be in vain. Arrange a meeting between myself and Captain Picard... tell him... Admiral Jarok wants to see him."
+
+- Jarok revealing his true identity to Data
+
+"You already betrayed your people, Admiral! You made your choices sir! You're a traitor! Now if the bitter taste of that is unpalatable to you, I am truly sorry, but I will not risk my crew because you think you can dance on the edge of the Neutral Zone. You crossed over, Admiral. You make yourself comfortable with that."
+
+- Picard to Jarok
+
+"Somehow I think we're going to catch the Romulans with their pants down on Nelvana III, just like he says."
+"With their...pants?"
+"A metaphor. Catching them in the act."
+"Because your gut tells you so?"
+"Exactly. But you can't always go with your gut either."
+
+- Geordi La Forge and Data
+
+"There comes a time in a man's life that you cannot know... when he looks down at the first smile of his baby girl and realizes he must change the world for her... for all children."
+
+- Jarok, to Picard
+
+"Now if these men do not die well, it will be a black matter for the king that led them to it."
+
+- Picard, quoting from Henry V
+
+"They let you escape with an arsenal of worthless secrets. What other explanation is there?"
+
+- Picard, to Jarok after the Enterprise cannot detect any Romulan activity on Nelvana III
+
+"If the cause is just and honorable, they are prepared to give their lives. Are you prepared to die today, Tomalak?"
+
+- Picard
+
+"You still will not survive our assault."
+"And you will not survive ours. Shall we die together?"
+
+- Tomalak and Picard
+
+"I did it for nothing."
+
+- Jarok, realizing his actions were all for nothing
+
+"Today, perhaps. But if there are others with the courage of Admiral Jarok, we may hope to see a day of peace when we can take his letter home."
+
+- Picard on Jarok's sacrifice
+
+
+== Background information ==
+
+
+=== Production history ===
+Recommended as one of three unnamed story pitches in two-page memo from Michael Piller: 8 August 1989
+First draft story outline and two-page memo from Gene Roddenberry to Rick Berman and Michael Piller: 17 August 1989 [1]
+Negative result for technical notes from UCLA Department of Biology: 22 August 1989
+Revised final draft script: 16 October 1989 [2]
+Premiere airdate: 1 January 1990
+First UK airdate: 18 December 1991
+
+
+=== Story and script ===
+A working title of this episode was "A Question of Trust". [3]
+Ronald D. Moore describes the story as "the Cuban missile crisis at the Neutral Zone." (Star Trek: The Next Generation Companion, 2nd ed., p. 110)
+The episode's premise, having been conceived by Moore, was recommended and relayed by Michael Piller to Rick Berman in a memo dated 8 August 1989. Although this installment wasn't named in that memo, the story was briefly described thus; "A Romulan defector is picked up as he escapes across the neutral zone. He is a significant enough player to attract the attention of Federation Intelligence who send an envoy to debrief him. His information is suspect. And inflammatory. He could be a plant to provoke the Federation into making a move that could lead to war – which a vocal faction of the Romulans favor. But if he is telling the truth, this information could save lives if the Enterprise is willing to intervene, but it means crossing the neutral zone and violating their treaty. The defector gives us lots of reasons to distrust him. The crew is divided. Finally, Picard takes his chances and finds the defector was telling the truth; he saves the lives after which the ironic message from Starfleet headquarters comes – do not cross the neutral zone." [4]
+The first draft outline of this episode was submitted on 17 August 1989. The outline's technical aspects were thereafter examined by the UCLA Department of Biology. On 22 August 1989, they replied with a memo in which they reported having found "no technical problems" with the outline. [5]
+The writing of the episode's script was done in two phases. Ron Moore remembered, "Basically, we threw out my first draft of 'The Defector,' and 'gangbanged' the second draft. That's a very un-PC phrase that means the entire staff worked together." (Star Trek: The Next Generation 365, p. 131) Moore re-wrote the Teaser and Act One, with the rest of the teleplay divided among the other writers. (AOL chat, 1997)
+The story, at one point during rewrites, was a love story between Crusher and Jarok. (Star Trek: The Next Generation Companion, 2nd ed., p. 110)
+Michael Piller recalled, "Not an easy script to write, because the middle of it was very soft. It had a good ending and a good beginning. The first several drafts of that show had a lot of talking in the middle, questioning whether or not we trusted him. It was nice to come off of "The Enemy" with a little bit of an echo. We don't do that a lot and I like when we can." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 190)
+The teaser originally involved Data as Sherlock Holmes but had to be replaced for legal reasons (see: "Elementary, Dear Data"). Patrick Stewart suggested Henry V as an alternative when approached by Michael Piller, two days before filming. (Star Trek: The Next Generation Companion, 2nd ed., p. 110) Piller noted that elements of the Shakespearean play were incorporated into later scenes in the episode. "There's a scene where Picard and Data are talking about how the crew is holding up, and then Picard says a line or two that echoes the play. Then, in the confrontation with the Romulans, there are suggestions of Henry V in Picard's stance, bravery and decisions, and what the argument is about. If you are a musician, as I am, it is a trick that you throw into arrangements to echo other songs and play on a melody that reminds you of something else. I was very proud of that." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 190)
+Nelvana III was named for the Canadian animation studio Nelvana Limited. (Star Trek: The Next Generation Companion, 2nd ed., p. 110)
+In the revised final draft script, three Romulan warbirds were supposed to decloak and attack the Enterprise. In the finished episode, only two Romulan ships are involved, giving the Klingon-Federation fleet an even bigger advantage. [6]
+Data's Henry V program is from Act IV, Scene 1, The English camp at Agincourt. A third soldier,  Alexander Court, was not included in the scene.
+
+
+=== Cast and characters ===
+
+Actor Andreas Katsulas makes his second of four appearances in TNG as Romulan Commander Tomalak. It also marks Tomalak's final 'real' appearance in Star Trek. Of his next two appearances, "Future Imperfect" was part of an illusion, and the second in "All Good Things..." was part of an alternate timeline.
+This episode marks the first Star Trek appearance of James Sloyan (as Alidar Jarok) who was to be a prolific Trek actor. He appears in TNG again as K'mtar, a future Alexander Rozhenko, in "Firstborn" and plays the title character in VOY: "Jetrel", but his largest role was as Odo's "father", Doctor Mora Pol, appearing in Star Trek: Deep Space Nine episodes "The Alternate" and "The Begotten".
+Actor John Hancock makes his first of two appearances in TNG as Starfleet Admiral Haden. His name is mentioned only in the script here, but it would be aired the following season in "The Wounded". Likewise, he is depicted only sending a video message in this episode, while he is actually conversing with Picard in the subsequent appearance.
+Wil Wheaton (Wesley Crusher) does not appear in this episode.
+Patrick Stewart, with heavy make-up and accent, plays the Shakespearean character of Michael Williams in the episode's opening scenes, which pay homage to the recently released 1989 film version of Henry V. That film was directed by and starred Kenneth Branagh, whose performance is cited by Data as one of the inspirations for his own. Stewart appeared in Hamlet, Prince of Denmark (1980) with Derek Jacobi, who appeared in Branagh's Henry V. Incidentally, Picard quotes Williams later in the episode when he says "Now if these men do not die well, it will be a black matter for the king that led them to it."
+The soldier opposite Stewart's Michael Williams is John Bates, portrayed by Simon A. Templeman. Templeman is married to Rosalind Chao since 1989.
+
+
+=== Studio models ===
+
+This episode featured three new studio models to the series, including the new four-foot miniature of the Enterprise-D, the Romulan scout ship and the second D'deridex-class model. All three can be seen together during the stand-off scene during the first act.
+The three Klingon Birds-of-Prey appear as large in size as the Galaxy-class Enterprise. The two previously established Bird-of Prey-classes (B'Rel and K'vort) are considerably smaller than the Galaxy-class starship.
+
+
+=== Production ===
+Patrick Stewart's makeup as Michael Williams was applied by Doug Drexler. (The Official Star Trek: Deep Space Nine Magazine issue 11, p. 53)
+Artist Jerome K. Moore was on set during the filming of this episode. [7]
+Several locations within the Neutral Zone are apparently named after production staff. Beta Hutzel just inside Romulan space is clearly named after VFX supervisor Gary Hutzel, Upsilon Legato likewise is named after Robert Legato, Theta Curry after Dan Curry, and Moore's Star was almost certainly named after Ronald B. Moore. Ronald D. Moore, despite having written this episode, was quite new to the series, and moreover all the other names were members of the VFX department.
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+This was the first episode of Star Trek to air in the 1990s.
+In this episode, Data reports that his artistic skills are derived out of imitation/combination of famous artists' performances. He mentioned something similar about his violin performance in "The Ensigns of Command".
+This episode features the third change of the Starfleet admiral's uniform in Star Trek: The Next Generation.
+This episode introduces two new Romulan military ranks: admiral and sublieutenant.
+Jarok references a "humiliating defeat at the Battle of Cheron." A display in the Star Trek: Enterprise episode "In A Mirror, Darkly, Part II" will establish that this was the final battle of the Earth-Romulan War.
+This is the first episode to mention the Treaty of Algeron.
+While Beverly Crusher and Jarok discuss the recent events at Galorndon Core, which allowed her to learn something about Romulan anatomy, she eyes Worf. This alludes to the events of "The Enemy" where Worf declined to save the life of a Romulan tended by Crusher.
+Like the Klingons in the 23rd century (TOS: "The Trouble with Tribbles") and the Vulcans in the 22nd century (Star Trek: Enterprise), the Romulan military is directed by a High Command.
+Picard compares Riker to "one of [his] countrymen," the American Civil War Union officer George Armstrong Custer. It is later established in VOY: "Death Wish" that one of his distant ancestors (Thaddius Riker, a Union Army colonel) fought in the American Civil War.
+
+
+=== Reception ===
+Director Robert Scheerer recalls mixed feelings about this episode, "There was a problem on that one. We were a little long and two scenes where [the Romulan defector] was interviewed were cut. I loved shooting that because I had to find two totally different ways to shoot an interrogation scene. I felt I accomplished that rather well, but unfortunately, because of time, they had to pull one of them out. The actor who played the defector, James Sloyan, was excellent. His feeling about The Next Generation was that it's the only place left where you can do Shakespearean acting and make it work for you on television. Because of the characters' nature and size, you can bring something to it that you can't do anywhere else on television. It had a nice anti-war message, but it didn't preach the message; it told the story. It was important. I tried to be subtle, but make sure the point was made." (The Official Star Trek: The Next Generation Magazine issue 20, p. 33)
+A mission report for this episode by Patrick D. O'Neill was published in The Official Star Trek: The Next Generation Magazine issue 12, pp. 5-9.
+
+
+=== Apocrypha ===
+The delivery of Jarok's letter is described in the short story "Suicide Note" in the anthology book The Sky's the Limit.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 29, November 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 3.4, 5 June 2000
+As part of the TNG Season 3 DVD collection
+As part of the TNG Season 3 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Commander William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+James Sloyan as Alidar Jarok
+Andreas Katsulas as Tomalak
+John Hancock as Haden
+
+
+=== Co-star ===
+S.A. Templeman as Bates
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as USS Enterprise-D computer voice
+Karin Baxter as operations division ensign
+Jeremy Doyle as operations ensign
+Michele Gerren as science division officer
+James McElroy as civilian
+John Rice as science division officer
+Patrick Stewart as Michael Williams
+Oliver Theess as command division officer
+Natalie Wood as Bailey
+Unknown performers as
+Command division officer
+Conn ensign
+Female ops officer
+Female science bridge officer
+Female science division officer
+Hoy
+Ten Forward waiter
+Transporter operator
+Transporter operator (voice)
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+
+
+=== References ===
+2366; act; act of war; admiral; aggressor; amusement; analysis; android; antidote; Apnex Sea; apogee; apology; archaeology; argument; arm; army; artificial satellite; assault; assumption; asylum; auto-destruct sequencer; away team; B-type warbird; base; battle; Battle of Cheron; bearing; betrayal; beauty; beverage; Bochra; Bortas, IKS; Bortas security officer; Branagh, Kenneth; brother; burn; butcher; calibration; captain; career; "caught with one's pants down"; Celsius; censure; chance; channel; chess game; children; choice; class-1 probe; cloaking device; cloaking shield; combat; comfort; comm panel; commander; commoner; computer; concept; conclusion; construction; "contradiction in terms"; cooperation; coordinates; courage; course; coward; credential; credibility; credo; crime; curse; Custer, George Armstrong; cyberneticist; cybernetics; D'deridex-class (Warbird 1, Warbird 2); damage; data; dawn; day; deception; defector; degree; disinformation; disruptor; dissection; distance; effect; EM; emergency session; emission; enemy; engine; engine damage; Erpingham, Thomas; event; evidence; exile; experience; explanation; exploitation; eye; fact; "fall on your shoulders"; family; father; fear; Federation; Federation Council; Federation sectors threatened by the Nelvana III base; Federation space; Federation territory; feeling; felodesine chip; field commander; firefall; fleet; food station; food terminal; fool; friend; Gal Gath'thong; Galaxy-class decks; Galorndon Core; generation; gratitude; guest; gut feeling; hailing frequency; head; heaven; Henry V; Henry V; hero; history; holo-programs; holodeck; home; Hood, USS; hour; hull; Human condition; humiliation; hundred; impulse engine; impulse power; information; instinct; intercept course; interrogation; interrogation room; interrogator; intuition; ionization disturbance; Jarok's family; Jarok's scout ship; judgment; kilometer; king; Klingon; Klingon Bird-of-Prey (three Birds-of-Prey); Klingon language; knowledge; Kullnark; lair; language; launch; leader; leg; legion; letter; lie; life support; lifeform; Little Bighorn River; location; logistics officer/logistics clerk; loyalty; luck; Lya III; massacre; master; medicine; meeting; message; metabolism; metaphor; meter; metric system; Milky Way Galaxy; military record; mind; minute; mister; molecular structure; Monitor, USS; month; morning; motive; nakedness; neck; Nelvana III; Nelvana system; night; Norkan Campaign; Norkan outposts; number one; obedience; Olivier, Laurence; offline; "on the clock"; onkian; online; opportunity; orbital probe; orbital path; outpost; Outpost Sierra VI; pants; Patahk; pattern; peace; performance; permission; person; personality; petaQ; phaser; place; plant; ploy; political asylum; power; power failure; power source; power transfer field; priority code gamma; priority message; priority one; prisoner of war; privacy; problem; protest; puzzle; quality; quarrel; quarters; question; radiation; range; rating code; reactor core; record; red alert; repercussion; report; rock; Romulan; Romulan ale; Romulan base; Romulan capitol; Romulan fleet; Romulan High Command; Romulan language; Romulan Neutral Zone; Romulan scout ship; Romulan sector; Romulan Star Empire; Romulan territory; Romulan warbird; Romulus; sacrifice; satellite; sand; second; secret; sector; secret; secure channel; security access; security officer; security station; self-inflicted injury; sensor; servant; Setal; Seventh Cavalry; Shakespeare, William; Shapiro; shield; signal; Sir; skepticism; smile; short-sightedness; smile; soldier; son; speed; spire; spy; standard orbit; star; Starfleet Command; Starfleet Tactical; Starfleet uniform; story; "strip it"; sublieutenant; subspace radio; subspace signal; suicide; superior officer; surface; surrender; survival; swill; symbol; Synthehol; technology; temperature; tent; Thames; threat; thought; tide; timetable; tohzah; Tomalak's warbird; traitor; transporter two; Treaty of Algeron; troop; truth; Twelfth Night, or What You Will; water; Valley of Chula; Valley of Chula city; veruul; viewport; victory; violation; violet; visual range; war; warbird class; warrior; warbird, Romulan; warship, Romulan; water; weapon; weapon system; Williams, Michael; world; worlds visited by Alidar Jarok; wound; year; yellow alert
+
+
+==== Other references ====
+Starfleet Tactical Intelligence Analysis: Beta Hutzel; c; Epsilon Legato; Gamma Hydra; Moore's Star; Nelvana I; Nelvana II; Nelvana IV; Nelvana V; Outpost 3; Outpost 4; Outpost 5; Outpost 6; Sigma Nelvana; Theta Curry; velocity
+
+
+==== Deleted references ====
+Sector 814; Sector 815
+
+
+=== External links ===
+"The Defector" at Memory Beta, the wiki for licensed Star Trek works
+"The Defector" at Wikipedia
+"The Defector" at MissionLogPodcast.com
+"The Defector" script at Star Trek Minutiae
+"The Defector" at the Internet Movie Database

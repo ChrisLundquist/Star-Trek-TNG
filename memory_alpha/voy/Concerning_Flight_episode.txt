@@ -1,0 +1,289 @@
+When pirates steal the ship's main computer and other critical equipment, Captain Janeway tries to track down the missing equipment with the help of the holographic Leonardo da Vinci.
+
+
+== Summary ==
+
+
+=== Teaser ===
+On the holodeck, amid taunting and jeering shouts from the street below, a soaking wet Kathryn Janeway and the Leonardo da Vinci hologram retreat to da Vinci's studio, having failed an attempt to launch the Great Bird. Da Vinci, angered that he nearly got the two of them drowned with half of Florence watching, suggests relocating to France. Janeway accuses him of giving up on his most important works and questions him as to why. Da Vinci evades the issue, and Janeway is summoned to the bridge as the USS Voyager is shaken by a sudden attack.
+
+
+=== Act One ===
+
+The physical damage from the attack is negligible but Ensign Harry Kim detects a slight destabilization along the shield perimeter. In engineering, Lieutenant jg B'Elanna Torres watches as the warp diagnostic assembly vanishes in a transporter beam. Throughout the ship, other objects are beamed off, including The Doctor's mobile emitter. As Voyager prepares to return fire to the attacking ships, the weapon targeting controls fail and Kim reports that Voyager's main computer processor was among the stolen items, rendering the ship's weapons, navigation and propulsion inoperable.
+
+The crew discovers that the unknown pirates used a high-energy transporter beam. Along with the computer processor and the mobile emitter, the pirates also stole five tricorders, three phaser rifles, two photon torpedo casings, a plasma injector conduit and a month's supply of emergency rations. The Doctor is most upset about the missing emitter but Janeway declares the computer processor to be the top priority for recovery. She tells Kim to do whatever he can to track the pirate ships.
+Kim hopes to enlist Seven of Nine's assistance in extending the ship's sensors using the deep space imaging system in the astrometrics lab. Seven informs him she's already been working on that task for the past two hours. When Kim offers to help, Seven brusquely orders him to decompile databanks 59-17 to isolate an algorithmic feedback that is interfering with the resolution. She tells him to perform the procedure immediately or leave. He suggests she learn to phrase her requests more diplomatically.
+With the computer functioning at half power, Voyager spends 10 days tracking its missing equipment to a planet that appears to be a center of trade and commerce. Kim locates Starfleet signatures on the planet's surface, including that of the missing computer processor on the North continent. Janeway and Lt. Commander Tuvok beam down to the northern continent, while Lt. Tom Paris and Neelix journey to the southern continent.
+
+In the city, Tuvok locates a Starfleet signature too small to be the processor moving toward his and Janeway's location. They are stunned when the Leonardo da Vinci hologram appears, welcoming them to America.
+
+
+=== Act Two ===
+Janeway notes that Da Vinci is wearing The Doctor's mobile emitter and asks him how he got to "America." He tells "Caterina" that he doesn't know how he got here but surmises that perhaps Spanish sailors kidnapped him and brought him to the New World on a galleon. He then speaks of his patron, whom he calls "the prince of the city." Janeway realizes that she was running the Da Vinci simulation when the computer processor was stolen and that da Vinci's program must have still been active in the processor's memory. To explain her own presence there, Janeway concocts a cover story that she traveled to "America" on a Portuguese ship. Tuvok responds to Da Vinci's query about his "curious ears" by saying he's from Scandinavia.
+Da Vinci takes Janeway and Tuvok to his new workshop, provided by his patron. The room is filled with stolen goods, including a phaser. Da Vinci says his patron provides the equipment in return for Da Vinci's ideas. He tells Janeway to be careful with the phaser, describing it as a weapon that shoots a bolt of lightning rather than projecting lead pellets. He promises to introduce Janeway and Tuvok to his patron that evening.
+
+Back on Voyager, Paris and Neelix return from the southern continent with an alien trader, whom they have lured to the ship with the promise of supplying a warp coil. Commander Chakotay questions the alien, who proves to be uncooperative until Chakotay threatens to throw him off the ship. He tells the Voyager officers of a man called Tau, who controls the seventh province of the northern continent. The pirates steal technology (using high-energy translocator devices) from passing ships then sells the technology on the black market. Chakotay tells him he can keep the equipment he has, including the Voyager uniform he's wearing, and sends the alien on his way.
+On the planet, Tau is trying to make a deal with a potential customer who balks at his prices. Janeway and Tuvok shadow Tau, having found out that he is Da Vinci's patron. They also have determined that the computer processor is not in the city and believe that Tau can lead them to it. When da Vinci appears, Janeway instructs Tuvok to keep him occupied with small talk while she poses as a buyer and makes contact with Tau. Janeway tells Tau her client needs a computer to run a colony about 20 parsecs away. Tau shows her to a verbal interface that speaks in the Voyager computer's voice. Then he names his price – a warship.
+
+
+=== Act Three ===
+In Da Vinci's workshop, Janeway and Tuvok search for a storage facility or stronghold where the processor might be, using maps that Da Vinci has sketched of the area. Da Vinci interrupts the proceedings, but Tuvok uses a button on the emitter to freeze his program so he and Janeway can speak freely. Tuvok suggests returning to the ship with da Vinci's maps and his tricorder data and feeding the information into the ship's sensors. Janeway tells Tuvok to return to Voyager, but she will remain on the planet and continue searching from there, with Da Vinci's help. Tuvok cautions her that the Da Vinci program may simulate the artist's genius, but also re-creates his notorious unreliability.
+On Voyager, The Doctor discovers that Seven of Nine's optical interface is misaligned and chastises her for missing her regular examinations. He then questions her about the happenings onboard Voyager, saying he heard there was a "fuss" in the mess hall. Seven says she and Torres had a disagreement and The Doctor presses her for more details. Seven can't understand his need to hear about such trivialities but The Doctor says without his emitter he is once again imprisoned in sickbay and not kept informed. Seven elaborates that Torres called her an "automaton" and employed a string of profane Klingon insults. She also says that she was right and Torres was wrong. The Doctor hopes to hear more, but Tuvok summons Seven to astrometrics.
+Using the astrometric sensors, Tuvok and Seven pinpoint the location of the computer processor, but the building is surrounded by a dispersion field, making transport impossible. Seven suggests that the captain might be able to get inside and initiate a power surge in the processor to boost its signal, so Voyager can get a lock. Tuvok contacts the captain and she agrees to carry out the plan, with Da Vinci's assistance. Unfortunately, Tau overhears her conversation and forces Janeway at gunpoint to hand over her combadge.
+
+
+=== Act Four ===
+As Janeway distracts Tau, Da Vinci subdues him from behind. Da Vinci fears execution for attacking his patron and refuses to join Janeway. She tells him he's a prisoner there and convinces him he's needed back in Europe. More importantly, she needs him now. The pair travel to the storage facility, which Da Vinci says he's visited before.
+On Voyager, Kim has lost the captain's combadge signal but is able to maintain a lock on the mobile emitter. Chakotay tells him not to beam Da Vinci back to the ship just yet, as the captain may need his help.
+On the planet, Da Vinci can't recall where the entrance to the storage facility is. Janeway presses him, saying that inside the storage facility is a wondrous invention they can use to send a beacon to her Portuguese ship. All they have to do is find it and they will be rescued. Da Vinci surmises that anyone who built such a fortress likely would fear theft, so they would construct one entrance to the building facing away from the sunlight so as to blind anyone seeking the entry. He and Janeway locate the entrance and go inside.
+On Voyager, Kim reports that 30 armed guards are closing in on the captain's position. Inside the storage facility, Da Vinci likens the layout to a labyrinth, but Janeway has a "compass" (her tricorder). The "compass" leads them to a collection of phasers, a plasma injector, a site-to-site transporter and the missing computer processor. Janeway speaks to the computer, asking if it recognizes her voice. Da Vinci is stunned to hear a woman's voice emanating from within the processor. Janeway instructs the computer to produce a level 4 induction relay override. She tells Da Vinci to stand close to the machine as they await transport.
+Voyager detects the power surge but an armed guard begins firing at Janeway and Da Vinci forcing them to retreat from the processor as it is beamed out, leaving them behind. Da Vinci is shot, but the beam passes through him, leaving him confused and fearful. Janeway subdues the armed guard. She picks up the site-to-site transport device, telling Da Vinci it is an invention from another land that can move them out of the building a few kilometers away in the blink of an eye. Da Vinci demands an explanation for all that he's seen. Janeway says he once told her it was a poor apprentice who could not surpass her master and that he must accept there are things she understands about the new land that he doesn't.
+Voyager comes under attack by 13 vessels launched from the planet's surface. Chakotay tells Torres to get the processor back online quickly. "We've still got a captain down there."
+
+
+=== Act Five ===
+
+Janeway and Da Vinci are on the run in the planet's wilderness but da Vinci refuses to go any further until "Caterina" explains what's happening and tells him if they are dead. She asks him what his perspective would be if he were a sparrow, if his mind were too small to perceive the world around him. Da Vinci concedes that the limits of his own mind prevent him from understanding how certain realities exist beyond his level of comprehension. With the guards closing in, Da Vinci abruptly changes directions, leading Janeway up the hillside.
+Torres gets the processor back online, restoring navigation, propulsion and sensors. The ship must get within 500 kilometers to retrieve the captain. Tuvok points out that the attacking ship will try to block Voyager's descent, and Chakotay tells Paris to get ready for some "fancy flying."
+
+Da Vinci leads Janeway to the summit of the hill, where he has rebuilt the Great Bird glider, using duranium. Janeway quickly examines the glider, determining that the combination of design, construction, and materials do indeed make it airworthy. Voyager detects the captain and da Vinci at the edge of the precipice but the ship is still too high for transport. With Tau and a guard firing on them, Janeway and Da Vinci launch the Great Bird and fly away, leaving behind their stunned pursuers. Kim is able to transport Janeway, Da Vinci, and the Great Bird to Cargo bay 1.
+
+Later, Janeway visits Da Vinci back on the holodeck and finds him packing to go to France, intent on re-creating the wonders he has seen. She warns him that he won't be able to find similar materials to the ones he encountered in the New World but she bids him farewell and walks him to his carriage.
+
+
+== Log entries ==
+"Captain's log, stardate 51386.4. With ship's systems at nearly half capacity, it's taken us ten days to track our stolen technology."
+"First officer's log, stardate 51392.7. Though we've yet to hear from the captain and Tuvok, Paris, and Neelix have returned from their mission to the southern continent with some disturbing evidence."
+"Captain's log, stardate 51408.3. We're back on course to the Alpha Quadrant. With the ship's computer and The Doctor's emitter returned to proper places, I've set aside some time to check on the maestro."
+
+
+== Memorable quotes ==
+"You are the animale! A bird who cannot fly!"
+"Better than a man who cannot think!"
+"The pigeon speaks! (imitating pigeons) Coo-Coo! Coo-Coo!"
+
+- The Simulated Florentines and the Leonardo da Vinci Hologram
+
+"I must understand… Caterina
+To see objects disappear into thin air; to see lightning pass through my body; Caterina, are we spirits? Caterina, am I dead?"
+"Let me ask you something. If you were something other than a Human being, if you are a different kind of animal, if you were a small bird, a sparrow, what would your world be like?"
+"I shall make my home in a tree, in the branch of an elm. I shall hunt insects for food, straw for my nest, and in the spring time I should sing for a companion."
+"Then you would know nothing of the politics of Florence, the cutting of marble or mathematics"
+"Of course not."
+"But why not?"
+"My mind would be too small."
+"As a sparrow your mind would be too small, even with the best of teachers."
+"If Aristotle himself were to perch on my branch and lecture till he fell off from exhaustion, still the limits of my mind would prevent me from understanding."
+"And as a man, can you accept that there may be certain realities beyond your comprehension?"
+"If I cannot accept that, then I would be a fool."
+
+- Captain Janeway and The Leonardo da Vinci Hologram
+
+"'The great bird will take flight and bring glory to its nest.' So I have bragged for months! Instead we almost drown with half of Florence watching."
+
+- The Leonardo da Vinci Hologram
+
+"Caterina, have you been to France?"
+"Not recently"
+"Ah. The King of France is a great admirer of mine. 'The Divine Leonardo' is all I hear when I walk through his streets. And what music do I find in the streets of Florence, eh? The cooing of pigeons and the babbling of fools! Caterina, we are leaving!"
+
+- The Leonardo da Vinci Hologram and Captain Janeway
+
+"STUPIDO! FOOLISH FLORENTINES!"
+
+- The Leonardo da Vinci Hologram
+
+"Those colors look good on you."
+
+- Chakotay, to an alien wearing a stolen Starfleet uniform
+
+"I have the will but not the means… captain." 
+
+- Tuvok, to Janeway
+
+"You're giving up."
+"Hmm?"
+"Again. Your beautiful painting of the Adoration… The Great Bronze Horse in Milan… The Battle of Anghiari… unfinished, all of them. You were going to publish your notebooks; you never did. You have given up. Abandoned your most important works. Why?"
+
+- Captain Janeway and The Leonardo da Vinci Hologram
+
+"Europe is despicable! Here I am free to do as I wish! Free from judgment! Free to fail! And without… without a sense of shame… without the taunts of the ignorant!"
+
+- The Leonardo da Vinci Hologram, speaking about what he thinks is the New World to Captain Janeway
+
+"No matter how vast the differences may be between cultures, people always have something that somebody else wants and trade is born."
+
+- Captain Kathryn Janeway
+
+"Your compass is speaking to you!"
+
+- The Leonardo da Vinci Hologram
+
+"Machines that fly through the air! Lightning flung from one's hands! Mechanical women who live in boxes! These things I have seen!"
+
+- The Leonardo da Vinci Hologram, after having seen his glider fly, phasers fire and Voyager's computer speak.
+
+"They are in mid air… on what appears to be a crude gliding apparatus."
+
+- Tuvok
+
+"Earthquakes and idiots… Florence be damned!"
+
+- Leonardo da Vinci
+
+"I feel like we've just been mugged."
+
+- Tom Paris, after the ship's equipment was stolen
+
+"Where did he go?" 
+"Back to the ship." 
+"The Ship? You mean the Portuguese are still in the harbor?" 
+"Well, not exactly … but they're nearby."  
+
+- Captain Janeway and the Leonardo da Vinci Hologram' conversing about Tuvok's sudden disappearance.
+
+
+== Background information ==
+
+
+=== Story and script ===
+A working title of this episode was "Da Vinci's Day Out". (Star Trek Monthly issue 35, p. 10) Initially, however, the plot did not include the holographic recreation of Leonardo da Vinci. Despite receiving no credit for contributing to the episode, it was co-executive producer Brannon Braga (one of many persons who added to the writing of the script) who had the idea of reusing the historical character herein; this possibility was inspired by the third season finale "Scorpion", an episode that features the Leonardo hologram and that Braga co-wrote (with Joe Menosky, another writer who worked on this episode). Joe Menosky recalled, "[Freelancer] Jimmy Diggs came in and he pitched something that had to do with The Doctor's portable emitter and a character getting away with it. Because we had liked da Vinci in 'Scorpion,' when Brannon was listening to Jimmy's pitch, he just thought this is a cool way to get da Vinci off the ship and have an adventure. The way we work collaboratively in a situation like that, where there is no real story except 'da Vinci's day out,' we'll sit around and talk about it, all of us as a staff. What could we do here?" (Cinefantastique, Vol. 30, No. 9/10, p. 93)
+Joe Menosky generally disliked the way in which the story continued to be developed. "This is when the collaborative process collapses […] I had massive disagreements every step of the way with how this story should go, and I lost the argument every step of the way," Menosky related. "Somebody in the room said, 'How does he get off the ship?' I said, 'That's irrelevant. It doesn't matter how he gets off the ship. That's like a one page or two lines of tech dialogue that you brush off, and you're on to the adventure.' I lost that argument. Everybody said it does matter how he gets off the ship. So we came up with this […] story for how you get the mobile emitter off the ship […] [It] drove the rest of the story in utterly the wrong direction. I couldn't argue my way out of it." (Cinefantastique, Vol. 30, No. 9/10, p. 93)
+The first draft script of this episode was issued on 27 August 1997. Revision pages were added twice on 2 September 1997, and then once on 3rd, 4th, and 5th September of that year.
+For this episode, Joe Menosky used his own previously acquired knowledge of Leonardo da Vinci's life and surroundings to write about how the historical figure might interpret an alien planet. "I do know late 15th century Italy and da Vinci's life really well," Menosky confidently remarked, "so that every one of his statements is how a late 15th century Renaissance Italian would interpret an alien world." (Cinefantastique, Vol. 30, No. 9/10, p. 93)
+This episode's final draft script was submitted on 5 September 1997. [1] However, the script continued to change through the installment's production period.
+
+
+=== Cast and characters ===
+Janeway actress Kate Mulgrew interpreted the flying in the conclusion of this episode as being symbolic. Indirectly referring to both the Leonardo da Vinci hologram (played by co-star John Rhys-Davies) and her own character of Janeway, Mulgrew stated, "He did indeed, in the end, give [her] the greatest gift of all, which was emotional flight and freedom." (Star Trek: Voyager Companion, p. 179)
+
+
+=== Production ===
+This episode was in production between 9 September 1997 and 18 September 1997.
+11 September was the third day of production on this episode, as well as being Roxann Dawson's birthday. (Star Trek Magazine issue 180, p. 96)
+The Starfleet-issue "plasma injector conduit" that Leonardo da Vinci obtains from a seller appears to be the same device that is used to dispense felicium in TNG: "Symbiosis".
+Tuvok is wearing the same costume that was worn by the mirror universe Tuvok in the earlier-produced DS9: "Through the Looking Glass".
+The glider that Janeway and the holographic Leonardo da Vinci fly was built especially for this episode. (Star Trek: Communicator issue 119, p. 66)
+For establishing shots of the city in this installment, the city was composited into footage of the Santa Monica hills. (Delta Quadrant, p. 213) This usage of a location so close to the Paramount Pictures lot was influenced by the fact that, although the production team wanted to make the flying sequence a particular highlight of the installment, they were faced with geographical limitations for the scene. Director Jesús Salvador Treviño remembered, "We worked at making this a special moment […] It was not easy to do because we had to find a hill-top that was close enough to Los Angeles for us to film in that wasn't going to take us hours and hours to get to, that was accessible by car so that we could drag up all our equipment, including the glider that we built for the scene, and then stage it in such a way that we were able to convey the idea that they took flight and they were in flight." (Star Trek: Communicator issue 119, p. 66)
+The illusion that Janeway and the Leonardo hologram are flying was created mostly with live-action shots but also involved a CGI glider. Jesús Salvador Treviño explained, "We did that through the creative interplay of the actual glider and the camera angles of how it's taking off and how it's flying, intercut with a computer-generated glider that we put into master shots that I filmed for that purpose." (Star Trek: Communicator issue 119, p. 66)
+
+
+=== Continuity and trivia ===
+This episode marks the second of two appearances by the holographic Leonardo da Vinci in the series, following his introduction in "Scorpion". His workshop holodeck program also appears in the fourth-season episodes "Scorpion, Part II", "The Raven", "Scientific Method" and "The Omega Directive".
+Reference to 47: Voyager's computer core claims to have access to 47 million data channels.
+This episode establishes that Voyager's main computer core is capable of "transluminal processing at 575 trillion calculations per nanosecond". This is equivalent to 575 zettaflops, or about 9 quadrillion times the processing power of the 300 MHz Pentium II, the fastest desktop processor at the time of the episode's first airing. Under Moore's Law (a doubling in processor power every 18 months), this computational power would take only sixty-five years (in the year 2062) to be achievable in the real world.
+The description of Voyager's computer processing as "transluminal" would seem to imply that faster-than-light travel is involved. However, the term "superluminal" is usually used for this. "Transluminal" is in fact a medical term, referring to the passage across or along a lumen (cavity in a blood vessel).
+It is revealed in this episode that James T. Kirk might have broken a promise that, in TOS: "Requiem for Methuselah", he made to Flint – an immortal Human male who was born in 3834 BC and who Kirk met in 2269 on Holberg 917G. The promise, specifically, was that Kirk would never reveal Flint's immortal nature nor the fact that he had lived under many historical aliases, one of which was Leonardo da Vinci. However, Janeway mentions here that Kirk claimed he had met Leonardo (although she also states that the evidence of their meeting was "less than conclusive"). Kirk may not have mentioned that Flint was Leonardo da Vinci, or where he himself had met an immortal claiming to be Leonardo. Another possibility is that Flint subsequently revealed himself to Humanity when he learned that he was mortal, and that Kirk thereupon published a full account of his meeting with Flint. Alternately, Kirk may have made his records public after Flint's death, given that he was no longer immortal after leaving Earth.
+
+The prop used for Voyager's main computer processor was later reused as Garos' Malurian antimatter reactor on the Akaali homeworld in the Star Trek: Enterprise first season episode "Civilization" though slightly re-dressed.
+Although alien signage is present at the industrial site where Janeway and da Vinci make their escape, a sign with the word "Danger", in English, can also be clearly seen.
+During the final scene, the closed captions for this episode contain an additional, unspoken line of dialogue between Janeway and da Vinci. He asks if Janeway can speak French and suggests he may have use for an assistant in Paris, potentially changing the tone of the scene.
+The stardate given in this episode, 51386.4, would put it in between the two-parter episodes "Year of Hell" (stardate 51268.4) and "Year of Hell, Part II" (stardate 51425.4). However, the latter episode took place in an alternate timeline that did not come to pass, allowing the events of this episode, as well as the previous episode "Random Thoughts" (stardate 51367.2), to take place instead of the events seen in the "Year of Hell" duology.
+
+
+=== Apocrypha ===
+In the novel Violations by Susan Wright set in the first season, Voyager's main computer was also stolen.
+
+
+=== Reception ===
+Joe Menosky's evaluation of this episode was colored by his dissatisfaction with its evolution. "I hated this episode despite the fact that I wrote it," he admitted. Menosky also referred to the plotline about The Doctor's mobile emitter being stolen as an "unbelievably tortured tech story." On the other hand, Menosky described the way in which he himself wrote about the Leonardo hologram's interpretation of the alien world as "the one thing I'm happy about" and stated, "At least I got that right." (Cinefantastique, Vol. 30, No. 9/10, p. 93)
+Likewise, Jesús Salvador Treviño was ultimately proud of one scene in particular. "The sequence where Leonardo and Janeway take flight was really special for me […] and I thought we pulled it off," he said. (Star Trek: Communicator issue 119, p. 66)
+Executive Producer Jeri Taylor thought highly of this episode in general. She opined, "It's a lot of fun." (Star Trek Monthly issue 36, p. 12)
+This episode achieved a Nielsen rating of 4.1 million homes, and a 6% share. [2](X)
+Cinefantastique rated this episode 2 out of 4 stars. (Cinefantastique, Vol. 30, No. 9/10, p. 91)
+Star Trek Monthly issue 40, p. 59 scored this episode 3 out of 5 stars.
+The unauthorized reference book Delta Quadrant (p. 215) gives the installment a rating of 8 out of 10.
+Among the items from this episode which were sold off on the It's A Wrap! sale and auction on eBay was a crossbow-like hand-held weapon. [3](X)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 4.6, catalog number VHR 4627, 15 June 1998
+As part of the VOY Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+John Vargas as Tau
+Don Pugsley as Alien Visitor
+
+
+=== Special guest star ===
+John Rhys-Davies as Leonardo da Vinci
+
+
+=== Co-stars ===
+Doug Spearman as Alien Buyer
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Andrew Alden as alien guard
+Bobby Aldridge as alien guard
+John Austin as alien trader
+B. Banks as Rotciv trader
+Richard Bishop as alien trader
+Margaret Blanchard as alien trader
+Denise Blasor as Florentine (voice)
+Steve Carnahan as alien trader
+S. Dean as alien trader
+C.C. Denprasert as alien trader
+J. Durant as alien trader
+Andrew English as operations division officer
+Chris Evans as alien trader
+M. Janati as alien trader
+Ty Murphy as alien guard
+Heather Rattray as operations division officer
+Guy Richardson as alien trader
+L. Robinson as alien trader
+H. Rosslow as alien trader
+Mike Satterfield as alien trader
+Musso Sparks as alien trader
+Warren Tabata as operations division officer
+Fedra Thompson as alien trader
+Joan Valentine as operations division officer
+G. Victor as alien trader
+W. Welch as alien trader
+Ellery White as alien trader
+Unknown actor as Florentine (voice)
+
+
+=== Stand-ins ===
+Aaron – stand-in for Doug Spearman
+Cameron – stand-in for Jeri Ryan
+Sue Henley – stand-in for Kate Mulgrew
+Susan Lewis – stand-in for Roxann Dawson
+Lemuel Perry – stand-in for Tim Russ
+J.R. Quinonez – stand-in for Robert Picardo, John Rhys-Davies, and Don Pugsley
+Robert Rasner – stand-in for Ethan Phillips
+Keith Rayve – stand-in for Robert Duncan McNeill and John Vargas
+Richard Sarstedt – stand-in for Robert Beltran and John Rhys-Davies
+John Tampoya – stand-in for Garrett Wang
+
+
+=== References ===
+16th century; ability; abduction; accusation; Adoration of the Magi; alloy; Alpha Quadrant; Americas; angel; antimatter injector; apprentice; Aristotle; Arno; Atlantic Ocean; automaton; Avignon; Battle of Anghiari, The; bed; bird; bistro; Borgia; briefing room; bronze; businessman; calculations per nanosecond; candleholder; cargo bay; castle; Cat's Eye Nebula; chest; command override; commerce planet; commerce planet city; compass; compression phaser rifle; computer core; computer processor; conduit; confinement beam; confiscation; continent; coo; couch; countryside; cuckoo; damage report; data bank; dispersion field; dragon; Eagle Nebula; Earth; elm; Europe; evasive maneuvers; execution; feather; Florence; Florentine; France; Freud, Sigmund; galleon; Genoa; Ginevra de' Benci; grain; Great Bird; harbor; heart; holodeck; holographic character; horse; "in comparison"; induction relay; insect; Intrepid class decks; Italian language; Italy; Kelvin; kilometer; King of France; Kirk, James T.; Klingonese; Leonardo da Vinci's workshop; logic; maestro; main computer; marble; mathematics; memory; mercury; mess hall; Milan; mobile emitter; Mont Ventoux; mugged; New World; notebook; open country; nest; optical interface; painting; Paris; parsec; patron; petrarch; philosopher; Phoenix; photon torpedo casing; pigeon; plasma injector; Portuguese; power surge; pre-Cartesian; precipice; prisoner; profane; rebirth; red alert; Renaissance; resurrection; sack; Saturn; saying; Scandinavia; Scandinavian; sea dog; Sicily; site-to-site transporter; small talk; sorcery; Spanish; sparrow; spear; statue; straw; student; subspace frequency; targeting control; taskmaster; Tau's ships; tavern; teacher; temperature; Theseus; topography; topographical computer; translocator device; transluminal processor; transporter attack; transporter beam; tricorder; Turkish pirates; Turks; Vasari, Giorgio; Veil Nebula; Vulcan, Island of; Vulcan; waitress; wine
+
+
+=== External links ===
+"Concerning Flight" at Memory Beta, the wiki for licensed Star Trek works
+"Concerning Flight" at Wikipedia
+"Concerning Flight" at MissionLogPodcast.com
+"Concerning Flight" at the Internet Movie Database

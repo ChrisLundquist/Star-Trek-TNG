@@ -1,0 +1,295 @@
+Data jeopardizes an emergency mission to save an ill child when he receives a signal from his creator, Noonien Soong.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Dr. Crusher is involved in a medical emergency as Willie Potts, a young child of the USS Enterprise-D, is infected by parasites from a cove palm that he ate during shore leave on Ogus II with his brother Jake. Willie ate the parasitic fruit while upset from a practical joke in which Jake pretended Willie had killed him with a toy laser pistol by stuffing a balloon with red pillion dye into his vest. With his health rapidly declining, Willie has to be quarantined to protect the rest of the crew and to be stabilized before he can be transferred to Starbase 416 for immediate medical attention. In the observation lounge, the older Potts recounts the incident to Commander Riker and Counselor Deanna Troi, explaining that he frightened Willie for amusement, but that he did not intend serious harm to come to his brother.
+En route to sickbay in the turbolift with Jake Potts, Lieutenant Commander Data begins to reassure Jake when he uncharacteristically stops in the middle of his sentence and redirects the turbolift to the bridge while no longer even acknowledging the boy's presence. Jake clings to the turbolift wall out of sight and lets the door close, unsure of what to do.
+
+
+=== Act One ===
+
+Data quietly returns to the operations station and begins to covertly and silently commandeer the ship by changing the ship's heading and increasing speed. When pressed by Captain Picard as to an explanation, Data doesn't answer. Suddenly, a blue alert sounds, indicating a life support systems failure on the main bridge. Riker orders everyone to evacuate via the two main turbolifts as well as the emergency turbolift, which Data heads for. Picard orders the crew to reassemble in main engineering, which Riker and Data acknowledge with a nod. However, Data stops just short of entering the turbolift and remains on the bridge. He assumes the aft science station and begins rapidly inputting commands, locking out functions by imitating Picard's voice and localizing command functions to the bridge.
+In engineering, the crew soon realize Data is orchestrating something. They attempt to regain control from engineering, which include an attempt to regain control of the secondary hull via a saucer separation, and towing the saucer section with a tractor beam. Unsuccessful, Lieutenant Worf, Commander Riker, and crew member Casey reestablish life support on the bridge and attempt to gain access to the bridge from deck 2 until Data activates a perimeter field charge, which then blocks the only access point left. Picard lastly has O'Brien disable the site-to-site transport, anticipating Data's escape.
+Meanwhile, in sickbay, Doctor Crusher tends to Willie. She notes to Picard that he's OK now, as the sickbay's force fields are not affected, but won't stay that way.
+
+
+=== Act Two ===
+Counselor Troi and Jake enter to visit Willie, where Crusher is trying to keep up his spirits with conversation, but he refuses to speak to or acknowledge his older sibling. Frustrated, Jake storms out.
+The Enterprise reaches the class M planet Terlina III. On the bridge, Data discovers that the crew has managed to disable site-to-site transport, so he programs a series of force fields to enable him to get to the transporter room without interference from security. He enters an extremely long and complex security code, locking out all command functions that were previously transferred to the bridge. He then makes his way to the transporter room, using the most efficient way possible and by the force field series he programmed. Seeing Riker's ambush on the transporter pad, he quickly commands the transporter pad force field activated and re-enables the site-to-site transport, and immediately beams down to his destination.
+Once on the surface, Data travels through the thick jungle and enters an old cybernetics lab, where he is greeted by an elderly man, who turns out to be Dr. Noonien Soong, Data's creator who was presumed dead at the Omicron Theta colony.
+
+
+=== Act Three ===
+Soong reveals that it was he who controlled him and brought him to the planet by the use of a homing device implanted in Data's positronic brain. His combadge is not functional, but Soong assures him that his crew will arrive to take him back shortly and performs routine mechanical maintenance on the android. Data is puzzled that his creator is still alive, as he assumed that he had been killed on Omicron Theta by the Crystalline Entity along with the other colonists; Soong explains that he escaped the powerful entity via, as was his habit, a predetermined strategy, and that he is the sole survivor of the colony. He admits to Data that he did not anticipate fleeing a "giant snowflake" and shrugs. Data is now convinced that this is indeed his creator.
+Back on board, Willie Potts still refuses to listen to Jake and on the bridge, the crew are still experiencing difficulty reestablishing control of the Enterprise, although the ship's sensors are functional. Lieutenant Worf is unable to locate Data, but his sensors detect a solitary Human lifeform on the surface of Terlina III. He also locates a vessel in orbit which appears to carry no lifeforms.
+On Terlina III, Soong expresses disappointment in his son's choice in having entered Starfleet Academy, and inquires as to his reason, to which Data replies that he wanted to repay the people who first discovered him on Omicron Theta with dedication to service. Soong admits he would have preferred that Data follow in his footsteps and go into cybernetics instead. Data decides to ask Soong why he had created him in the first place. Soong rhetorically asks why a painter paints or why a boxer boxes. He then asks Data why Humans are so attached to old things. Data believes it gives Humans a tie to the past and also gives them a sense of continuity in their lives. Soong asks if this continuity runs one way, back into the past. Data responds that it may be a factor in the desire of Humans to procreate. Soong asks Data if he believes that Humans having children gives them a sense of immortality in some way. Data responds that that is a reasonable answer to his query. Suddenly, in the midst of their conversation, Lore enters the laboratory, dressed in Pakled clothing.
+
+
+=== Act Four ===
+Lore was brought to Terlina III via the same homing device as Data. Data insists that Soong not trust his brother, as he betrayed both the colony to which Soong belonged and the Enterprise once before. However, Soong, blinded by his love for his older creation, condones and excuses Lore's deviant behavior, claiming him to be "far from the maniacal android [Data has] made him out to be."
+Meanwhile, Captain Picard, Riker, Worf, Crusher, Troi, and Lieutenant Commander Geordi La Forge conference in the observation lounge about their current predicament. Full control still has not yet been reestablished on board, and Willie Potts' time is running short. Riker asks La Forge if it is possible that Data had devised a way to bring himself back aboard the Enterprise. La Forge admits it is possible, so Riker asks if they can use Data's trace pattern to fool the computer into thinking an away team is multiple Datas. La Forge informs him he will have to access the transporter controller and reset it to a testing mode. The problem is there will be no use of the ship's main computer, but La Forge believes it can be done by networking a few tricorders together. Picard orders that it be tried.
+Back on Terlina III, Soong claims Lore's deactivation was necessary, as the android was severely malfunctioning and frightened the colonists. However, Lore is extremely bitter toward Soong and Data for the events prior to and following his deactivation, as he was left inactive for years before Data discovered him on their home planet, and when Data thwarted his scheme to betray the Enterprise, was left drifting through space for nearly two years. Soong apologetically informs Lore that he couldn't understand what went wrong with Lore's programing; that after deactivating Lore the next logical step was to activate Data and that had he known Lore was reassembled, he would have spent time with him and repaired him. In response to a query about Lore's superiority, Soong explains to Data that he and Lore are nearly identical in construction, and that they differ only in programming. To Data's astonishment and Lore's ferment, this invalidates Lore's earlier assertion that Data is the imperfect and flawed model.
+
+Revealing the purpose for Data's summoning, Soong presents to him an emotion chip, designed to allow him to experience a broad palette of emotional feelings as Lore can. Soong explains that the upgrade is intended solely for Data, but decides to rest before attempting the procedure. As he leaves, however, Lore turns to Data and winks.
+
+
+=== Act Five ===
+As Soong rests, Lore incapacitates Data and switches his Starfleet uniform with him. Naturally thinking Lore to be Data, the doctor implants the chip in his older son, who reveals his true identity. Worried, his father warns him that the chip is not compatible with him and insists it needs to be removed, but Lore fatally wounds the elderly Soong and accessing some controls located beneath one of his thumbnails, makes an expedient escape by remotely beaming away.
+
+An away team consisting of Worf, La Forge, and Riker beams down to Terlina III. Locating the Human lifeform, the group enters Soong's laboratory, now in disarray thanks to Lore's assault. La Forge and Riker discover Soong beneath a pile of lab equipment and debris, dying. Meanwhile, Worf finds an inactive Data behind another room, whom Riker reboots before the four attend to Soong. Data tries to explain what's happened to the other officers, but Riker tells him that he needs to release the Enterprise to get Willie the medical care he urgently needs. Soong tells Data how to clear his blocked memories, giving him the information he needs to restore control of the ship. Riker prepares to head back with Data and Soong, but Soong knows he hasn't got much time left and wants to die where he is most comfortable. Riker and La Forge agree to give Data and Soong a few final moments together alone. Bidding farewell, Data assures his father that as long as he remains active, a part of Soong will be immortalized. He notes that he will be unable to grieve, but Soong is sure that Data will in his own way. The two then say a final goodbye before Soong dies.
+Once back on board the Enterprise, Data restores the command functions to the bridge, and the ship rushes back to Starbase 416 in time to restore Willie to full health. Data observes that the Potts brothers seem to have reconciled after their bitter dispute and Crusher tells him that "They're brothers. Brothers forgive", which causes Data to reflect upon his own brotherhood with Lore.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2367
+
+
+== Memorable quotes ==
+"What the hell was that?"
+"He has activated a forcefield, sir."
+"Great. Just great."
+
+- Riker and Worf, after Data activates a forcefield
+
+"Sir, we have to get this ship to a starbase medical facility."
+"It seems, Doctor, that Mr. Data has other plans for the Enterprise right now."
+
+- Picard and Crusher
+
+"The only way we knew we'd come out of warp was by looking out a window."
+
+- Riker, reporting ship's status to Picard
+
+"1 – 7 – 3 – 4 – 6 – 7 – 3 – 2 – 1 – 4 – 7 – 6 – Charlie – 3 – 2 – 7 – 8 – 9 – 7 – 7 – 7 – 6 – 4 – 3 – Tango – 7 – 3 – 2 – Victor – 7 – 3 – 1 – 1 – 7 – 8 – 8 – 8 – 7 – 3 – 2 – 4 – 7 – 6 – 7 – 8 – 9 – 7 – 6 – 4 – 3 – 7 – 6 – Lock."
+
+- Data, entering a security code at breakneck speed using Picard's voice
+
+"I always loved that face…"
+
+- Noonien Soong, upon seeing Data
+
+"This is your lucky day, Data. You've found your long-lost father and he's alive."
+
+- Noonien Soong
+
+"I, uh… I never felt too comfortable… living anywhere without a… prearranged route of escape. I admit I, uh, I wouldn't have guessed I'd be running from a giant snowflake."
+
+- Dr. Soong, after Data mentioned that there were no survivors from the Crystalline Entity's attack on the colony where Dr. Soong was residing previously.
+
+"Why does a painter paint? Hmm? Why does a boxer box? You know what Michelangelo used to say? That the sculptures he made were already there before he started, hidden in the marble. All he needed to do was remove the unneeded bits. Wasn't quite that easy with you, Data. But the need to do it, my need to do it, was no different than Michelangelo's need."
+
+- Dr. Soong
+
+"Looks like we have ourselves a… family reunion."
+
+- Noonien Soong, after Lore appears to him and Data
+
+"I am not less perfect than Lore."
+
+- Data, and later (mockingly) Lore
+
+"You'd be surprised, Data. Feelings do funny things. You may even learn to… understand your evil brother."
+
+- Lore, after Soong reveals the emotion chip he had created for Data
+
+"The sons of the prophet
+Were valiant and bold
+And quite unaccustomed to fear
+But of all the most reckless
+Or so I am told
+Was Abdul Abulbul Amir."
+
+- Lore (singing)
+
+"Often-Wrong's got a broken heart
+Can't even tell his boys apart."
+
+- Lore, to Dr. Soong
+
+"Where's Data? You didn't fill Data with substandard parts, did you, old man? No. That honor was bestowed upon me. You owe me, old man. Not him. Me."
+
+- Lore, to Dr. Soong
+
+"There were brave men aplenty
+All well known to fame
+Who served in the ranks of the Czar …"
+
+- Lore (singing)
+
+"Everybody dies Data… well, almost everybody."
+
+- Dr. Soong, to Data, referring to Data's perceived quasi-immortality
+
+"Goodbye, Data…"
+"Goodbye… father."
+
+- Dr. Soong, Data, calling his creator "father" for the first and only time
+
+"Brothers forgive."
+
+- Dr. Crusher, to Data
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 13 July 1990 (with revisions up to 6 August 1990) [1]
+Filming of rehearsal shots with Brent Spiner's photo doubles Brian Tomlinson, Guy Vardaman, and Dana Vitatoe: 26 July 1990
+Premiere airdate: 8 October 1990
+First UK airdate: 20 April 1994
+
+
+=== Story and script ===
+
+Rick Berman's initial story did not involve Lore. The character was added at Michael Piller's suggestion, who believed the story needed an additional jeopardy element. (Star Trek: The Next Generation Companion, 2nd ed., p. 141; "Chronicles from the Final Frontier", TNG Season 4 DVD special feature) Berman found writing the episode was profoundly enjoyable. (Cinefantastique, Vol. 23, No. 6, p. 18)
+Piller recalled, "We were standing around going through Rick's story and my feeling was that after reading his first draft that the idea of Data going back to see Dr. Soong and the story of the child who was hurt in the practical joke were not enough elements to hold up the episode. Once Data goes back to see Dr. Soong, it's basically a chat and without some jeopardy or another event to go on I was afraid it was going to be flat. We talked about what we could do and, ultimately, the obvious thing was that we bring Lore back. I knew from the moment we came up with it that Brent Spiner in three roles was going to make for an unforgettable episode and I think it was." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 209)
+The song which Lore sings to Dr. Soong comes from the poem Abdul Abulbul Amir, written by William Percy French in 1877. That poem has been frequently misquoted and parodied, and the excerpts in this episode are also not accurate to the original text.
+
+
+=== Production ===
+
+Brent Spiner plays three of the main characters in this episode: Data, Lore, and Doctor Noonien Soong. He received billing for the latter two in the end credits.
+At one point it appeared having Spiner in three distinct roles would not be feasible and several older Asian male actors (including Keye Luke) were considered for the role of Dr. Soong. (Star Trek: The Next Generation Companion, 2nd ed., p. 141; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 209)
+This was the final episode to be directed by Rob Bowman, who had been the show's lead director during the first and second seasons.
+Bowman, Spiner and Robert Legato spent three days rehearsing on the Stage 16 set. Producer David Livingston recalled, "They worked out some of the motion control shots and did a lot of preparation in terms of figuring out what to do, because that kind of preparatory time on the stage when everybody is standing around is not a good idea. What we did was we taped out the floor like in a stageplay or a multicamera show, and then actually blocked it out and staged it. I'm glad we did, because it saved us a lot of time. If we hadn't, it would have been really dicey." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 209)
+During filming in Soong's lab, Spiner shot one day as Lore and Data, and the next as Dr. Soong. Spiner recalled, "It was difficult because I had to hear dialogue that I hadn't read yet coming out of somebody else's mouth before I would get to it. [I had] to remember where I was when I was Data, and so on." To help Spiner, the set was closed during the two and a half days in which the actor performed solo. (Star Trek: The Next Generation Companion, 2nd ed., p. 141)
+On playing Dr. Soong, Spiner commented, "I didn't have a clue as to who the character was. He was just a generic old man. It wasn't until I saw the makeup on my face that I knew what to do. At least seventy-five percent of that performance was due to Michael Westmore. He put the idea onto my face, and I suddenly understood." He added, "People started treating me like I was old, even though I had worked with them for three years at that point. Everybody was treating me with so much more respect, because I was a man who had lived a long life. And the older I acted between scenes, the nicer people treated me. It was incredible." (Star Trek: The Next Generation 365, p. 171)
+Westmore recalled, "The first thing I did in creating Brent's makeup for Dr. Soong was build up his cranial structure to suggest that he had more brain cells than a normal Human being. We then did a full four-hour aging makeup on him. We had special contacts made for his eyes to simulate cataracts. I made an old-looking set of teeth to cover his real teeth. We covered his entire face with a thin layer of appliances. And we made pieces to cover the backs of his hands." (Star Trek: The Next Generation 365, p. 171)
+In April 2007, the Pakled costume worn by Spiner as Lore in this episode was auctioned off in the It's A Wrap! sale and auction and sold for US$2,155.00.
+Comic book artists Jerome K. Moore and Arne Starr met Spiner on set during the filming of this episode. Starr presented Spiner with a caricature of Spiner as Superman, titled "The Man of Shlameel". Written on it was the phrase "It's a bird, it's a plane, no… It's Spinerman!" Spiner reportedly kept the picture on his desk in his office for many years, so Starr was told. [2] (Additional information provided by Arne Starr)
+The dinosaur skeleton head seen in Dr. Soong's laboratory was rented from the Museum of Natural History. (James Mees, "Inside Starfleet Archives Year Six – Sets & Props", TNG Season 6 DVD special feature)
+An earlier version of the shooting script dated July 19, 1990, set it at stardate 44149.1, and the July 18 script for "Suddenly Human" used 44085.7; ultimately, the stardates were swapped, which kept the stardates in order when the episodes aired out of production order. The timelines given in Star Trek Chronology and Voyages of Imagination, which generally reflect production order prior to the start of Star Trek: Deep Space Nine, reflect the airdate/stardate order for these episodes instead, listing "Family" followed by this episode followed by "Suddenly Human".
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+James Lashly (who plays Ensign Kopf in this episode) later plays George Primmin in the Star Trek: Deep Space Nine episodes "The Passenger" and "Move Along Home".
+The interior and components of a combadge are seen for the first time when Dr. Soong adjusts Data's. The top and bottom sections are connected by a hinge on the (wearer's) left side. Among the interior components is a red light.
+
+The strength of Data's lockout code would potentially require trying 3652 combinations to break it, or 846,700,936,056,091,894,301,310,586,236,842,935,416,138,248,772,949,513,519,821,268,414,868,295,354,679,296 (8.467e80×1080) combinations – equivalent to cracking a 269-bit key in symmetric cryptography, something that is currently impossible to do.
+The numbers in the seventh and twenty-third positions of his sequence, three and four, respectively, are missing on the computer display. Also, the computer has incorrectly inserted a one ahead of the triple eights later in the sequence.
+In a re-use of prop lighting, Dr. Soong turns out to have the exact same model of wall fixture as Kivas Fajo had in his gallery room in "The Most Toys". The design apparently uses dichroic filters, as we see two pairs of colors and their complements being produced from the upward pointing white light source.
+This is the second episode in a row to deal with crew members and their families. The following episode also deals with the family issues of a guest star.
+It is the first time after the pilot "Encounter at Farpoint" where Data mimics someone's voice, this time Captain Picard's.
+Data whistles the same tune, "Pop Goes the Weasel", in this episode as he did in the pilot "Encounter at Farpoint". He still has not mastered the Human act of whistling.
+Lore was first left inactive for years before Data discovered him, and then when Data thwarted Lore's scheme on the Enterprise, he was left drifting in space for two more years. (TNG: "Datalore")
+Commander Riker demonstrates his knowledge of the on/off switch on Data's back when he re-activates him. Riker originally discovered this in "The Measure Of A Man".
+In "Inheritance", after Data meets his mother, Dr. Juliana Tainer six years later in 2370, he told her of meeting his father and to her shock, that he was dead, which she was not aware of. He did not mention Lore's involvement, probably because he had already been deactivated and dismantled earlier that year, in "Descent, Part II".
+The emotion chip stolen by Lore is a major plot device in the TNG two-part episode "Descent" and a minor plot device in the movies Star Trek Generations, Star Trek: First Contact, and Star Trek: Insurrection. It is also referenced in the TNG episode "Inheritance".
+Data apparently did not have the opportunity to tell Dr. Soong of his own, short-lived android child, Lal. ("The Offspring")
+
+
+=== Reception ===
+This is one of Rick Berman's favorite episodes. [3]
+A mission report for this episode, by Patrick Daniel O'Neill, was published in The Official Star Trek: The Next Generation Magazine issue 15, pp. 9-12.
+This episode was nominated for an Emmy Award for Outstanding Achievement in Makeup for a Series.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 39, 17 February 1992
+As part of the UK VHS collection Star Trek: The Next Generation - Data Box: 6 November 1995
+As part of the UK VHS collection Star Trek: The Next Generation - 10th Anniversary Collector's Edition, under the "Data" section, 29 September 1997
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 4.1, 19 March 2001
+As part of the TNG Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Ensign Wesley Crusher
+
+
+=== Guest stars ===
+Cory Danziger as Jake Potts
+Colm Meaney as Miles O'Brien
+
+
+=== Co-starring ===
+Adam Ryen as Willie
+James Lashly as Ensign Kopf
+Brent Spiner as Lore/Dr. Soong
+
+
+=== Uncredited co-stars ===
+Rachen Assapiomonwait as Nelson
+Majel Barrett as Enterprise computer voice
+Joe Baumann as Garvey
+Karin Baxter as operations division ensign
+Michael Braveheart as Martinez
+Debbie David as Russell
+George Colucci as security officer
+Gerard David as operations division ensign
+Jeremy Doyle as operations ensign
+Elliot Durant III as operations division ensign
+Margaret Flores as science division officer
+Carrie Henger as a security officer
+Mark Lentry as science division officer
+Jerry Spicer as security officer
+Noriko Suzuki as operations division ensign
+Karen Uchizono as command officer
+Harry Young as science division officer
+Unknown performers as
+Casey
+Female ops ensign
+Female security officer
+Two security officers
+
+
+=== Stunt double ===
+Unknown stunt performer as stunt double for Brent Spiner (as Noonien Soong)
+
+
+=== Photo doubles ===
+Randy James – hand double for Brent Spiner
+Brian Tomlinson – photo double for Brent Spiner
+Guy Vardaman – photo double for Brent Spiner
+Dana Vitatoe – photo double for Brent Spiner
+
+
+=== Stand-ins ===
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Randy Pflug – stand-in for Colm Meaney
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – stand-in for Wil Wheaton
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+2358; 2366; 47; "Abdul Abulbul Amir"; aft; Agent in Place; alternative; ambition; android; answer; April Fools' Day; arcade; arm; atmosphere conditioning pump; auto separation sequence; auxiliary power; baboon; balloon; blackboard; blue alert; bogey; boxer; boxing; brain; broken heart; brother; "by comparison"; building; button; cadence; cascade force field sequence; celebrity; Chase, Ilka; chimpanzee; choice; church; circuit; clock; command authorization code; command function; computer; conclusion; console station; continuity; coordinates; Costain, Thomas B.; course; cove palm; cove palm parasites; Crystalline Entity; cyberneticist; czar; "damn it"; day; "dead in the water"; desire; diagnostic sweep; digit; dilithium vector calibration; dinosaur; ditty; dizziness; docking clamp; doctor; door; Dr.; Earth; emotion; emotion chip; Enterprise-D, USS; environmental control sequencer; explanation; face; fame; family reunion; father; fear; feeling; file address; "follow in your footsteps"; force field; forest; friend; fruit; Fūjin; funny; Galaxy-class decks; gorilla; guest; Handy, Tom; heading; heart; homing device; homing circuitry; homing signal; hour; house; Human; Human Freedom; idea; immortality; impulse engine; impulse propulsion power system; In Bed We Cry; input; inquiry; instruction; instruction 5155; interface terminal; intersection; interstellar space (space); isolinear subprocessor; laboratory; laser duel; laser pistol; lateral sensor array system; liberty; lie; lifeform; life support; lie; location; Lore's ship; main computer; marble; meaning; medical emergency; medical facility; memory block; memory file; meter; Michelangelo; microwave power distribution network; mistake; money; mortal; navigation; navigational sensor array system; navigational subsystem; Noophians; number one; Ogus II; old man; Omicron Theta colony inhabitants; Omicron Theta colony; orangutan; order; "out of the woods"; override (aka command function override); painter; Pakleds; Pakled trade ship; panel J14-Baker; party; passageway; path; perimeter field charge; phase coil; plan; "Pop Goes the Weasel"; port; postmortem; Potts family; practical joke; primary sensor array; priority clearance; procreation; programming; prophet; quarantine; quarantine anteroom; quarantine field; question; rag; reaction control thruster system; recall loop; red pillion dye; rhyme; ricochet; risk; route of escape; ruins; sabbatical; safety interlock; saucer separation; saucer module; scan phase; school; Science Station 2; scientist; sculpture; second; section 8J; section 9K; section 12T; security code; security team; service crawlway; shelf; shrine; Silver Chalice, The; sincerity; site-to-site transport; site-to-site transport interlock; sleight-of-hand; snowflake; son; Soong's dwelling; speed; star system; Starbase 416; Starbase 416 planet; Starfleet; station 6-02; story; subspace channel; subspace communication; surface; survivor; table; tactical station; Terlina III; Terlina system; term; testing mode; thing; trace imprint; tractor beam; transport controller; Transporter Room 1; treatment; tree; Triceratops; tricorder; trick; turbolift; turboshaft; Tyrannosaurus rex; umbilical; velocity; vest; village; vocation; wall; warp engine; warp propulsion control system; water; West's Annotated California Codes; "what the hell"; whistling; window; Wonders and Workers; year; "your lucky day"
+
+
+==== Library computer references ====
+Starfleet Operations – Sectors 21166-23079: Ajax, USS; Alpha Laputa IV; Apollo-class; Aries, USS; Berlin, USS; Beta Mahoga system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Epsilon Ashanti III; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Rigel-class; Romulan Neutral Zone; sector; Sector 21166; Sector 21502; Sector 21834; Sector 22036; Sector 22055; Sector 23079; Starbase 174; Starbase 414; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Yosemite-class; Zhukov, USS
+
+
+==== Deleted references ====
+atmosphere; communicator; fluidic equilibrium circuit; hygrometric level; land; Leg; moisture; percent; positronic net; skin; sublogic controller
+
+
+=== External links ===
+"Brothers" at Memory Beta, the wiki for licensed Star Trek works
+"Brothers" at Wikipedia
+"Brothers" at MissionLogPodcast.com
+"Brothers" script at Star Trek Minutiae
+"Brothers" at the Internet Movie Database

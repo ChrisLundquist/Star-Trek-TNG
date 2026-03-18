@@ -1,0 +1,234 @@
+Data discovers a group of robots that he believes qualify as lifeforms.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Riker, Worf, La Forge, and Crusher are playing poker in Riker's quarters, and the small talk drifts towards beards as, with La Forge recently deciding to grow his, all the men are sporting one. Crusher comments on her superstitious distrust of bearded men and decides on an unusual stake. If she wins the next hand, all the men will have to shave off their beards; if one of them win, she will become a brunette. After La Forge lays down an aggressive bet to open the hand, Crusher calls his bet immediately, which draws a very nervous call from Riker, but La Forge assures the first officer he has this. It's as far as they get, though, as Captain Picard summons them to the bridge, much to the disappointment of the doctor.
+
+"Captain's log, stardate 46307.2. We have just come into orbit of Tyrus VIIA to monitor progress on the Tyran particle fountain, a radically new mining technology. So far the project has been fraught with problems, and is well behind schedule. Mister La Forge has been assigned to evaluate the situation."
+The USS Enterprise-D arrives at Tyrus VIIA to evaluate the technology for possible use on Carema III. While Lieutenant Commander La Forge is talking with the project lead, Doctor Farallon, a malfunction occurs in one of the station's power grids. Dr. Farallon uses this opportunity to show Commander La Forge another project she has been working on, an exocomp: adaptive tools used for maintenance purposes. The exocomp is sent into an access tunnel, and repairs the malfunction very quickly, preventing a shutdown of the station's core which would have taken four months to return to its power level again. Aboard the Enterprise, Data asks how the repair of the power grid was completed so quickly. La Forge, glancing down at the exocomp with Farallon, tells Data that he is not quite sure.
+
+
+=== Act One ===
+"Captain's log, stardate 46315.2. Repairs to the particle fountain seem to have succeeded and it is now functioning smoothly. Doctor Farallon is coming aboard to demonstrate the device that carried out the repairs."
+Lieutenant Commander Data meets with La Forge and Dr. Farallon as they beam aboard the Enterprise. With them is an exocomp. In engineering, Dr. Farallon explains how she modified a common industrial servo mechanism over the course of several years to create the exocomps, giving them both the ability to replicate tools utilizing a micro-replication system to effect repairs and a capacity to learn similar to that used by Data. In contrast to the ingenious nature of the exocomps, however, the particle fountain is behind schedule and over budget, and Picard is not very sympathetic. Dr. Farallon proposes putting the exocomps to work on the project to help accelerate progress. With Data's and La Forge's approval, Picard approves.
+On the station, Data successfully completes fourteen separate tasks in less than an hour with help from the exocomp. Data estimates that the same tasks would have taken two engineers over nine hours. The exocomp is then sent into an access tunnel to seal a plasma conduit. However, the exocomp returns without finishing its task, and when Dr. Farallon tries to send it back into the access tunnel, it blocks her commands and overloads her control pad, shocking her hand and making her drop the pad. A few seconds later, the plasma conduit explodes. If the exocomp had gone back into the access tunnel, it would have been destroyed.
+
+
+=== Act Two ===
+"Second officer's log, stardate 46315.5. The unexplained behavior of the exocomp has greatly puzzled both Doctor Farallon and myself. We have brought the defective unit to the Enterprise for investigation."
+After bringing the exocomp back to the Enterprise for analysis, Data and La Forge discover that the exocomp had shut down and that the interface circuitry which connected the exocomp to the control pad was completely burned out. Further investigation reveals that the number of new circuit pathways has increased by 632 percent. Dr. Farallon explains that sometimes an exocomp randomly generates large numbers of new pathways, which ultimately leads to a total shutdown. When this happens, the exocomp becomes totally useless and has to be erased and reprogrammed all over again. Data mentions that the new pathways do not appear to interfere with the original circuitry, but Farallon is giving up. Frustrated, she leaves and La Forge, feeling sorry, comments that somehow the exocomp seemed to know that the conduit would explode and therefore it had to leave the access tunnel. Because this remark implies some form of self-preservation motive, Data takes it upon himself to perform a level one diagnostic on the exocomp in his quarters.
+The diagnostic reveals that the command module is now working normally. When checking the exocomp's sensor logs, it turns out that the exocomp itself had burned out its own command interface circuitry, and then ran a self-repair program on the same circuitry two hours later when it was safely on the Enterprise.
+Meanwhile, La Forge finds Farallon in Ten Forward and informs her engineering teams are assigned to help in place of the exocomps. He stays to cheer her up, saying he respects her work. She becomes confident that the project will eventually succeed due to her determination.
+Data's discovery prompts him to discuss the definition of life (particularly as it pertains to himself) with Doctor Crusher, who herself is unable to give him a definite, conclusive response, stating that after she had grappled with the same question from a young Wesley, she had realized that scientists and philosophers have been struggling to answer this question for many centuries. The best answer she came up with was that it was not specific actions that defined life, but the struggle to maintain life, such as self-preservation. Still, the conversation allows Data to come to a significant moral decision, even though Crusher believes she hasn't really helped Data. Data tells her that on the contrary, she has been very helpful.
+
+On the station, La Forge is managing the engineering teams. Data beams aboard the station and asks Dr. Farallon to stop using the exocomps – he has reason to believe they are alive.
+
+
+=== Act Three ===
+"Captain's log, stardate 46316.6. I have summoned the senior staff in order to discuss Commander Data's theory that the exocomps are a lifeform. Doctor Farallon has attended only reluctantly."
+Data calls for a meeting of the senior staff in the observation lounge in order to discuss his theory that the exocomps are a lifeform. Dr. Farallon attends only reluctantly. Data supports his theory by stating that the exocomp they sent into the tunnel earlier responded by deliberately burning out its control interface – in essence, refusing to obey an instruction it knew would send it to its destruction. However, only two hours later when it was on board the Enterprise and no longer in danger, it repaired itself. This demonstrated awareness of environment. Counselor Troi notes that Dr. Farallon is extremely reluctant to accept the idea that the exocomps are lifeforms; she just keeps trying to rationalize her belief. After all, Troi notes, Farallon is speaking to Data right now – who is a living machine. Picard argues that if the possibility exists that these exocomps are a lifeform, then that possibility must be examined as it is the primary mandate of Starfleet and the Enterprise.
+Thus, in order to test Data's theory, a simulation is created in which an exocomp has to repair a small conduit breach in a Jefferies tube in which a plasma cascade failure is simulated by means of a transient overload signal. Unseen by the crew inside the Jefferies tube, the exocomp is carrying out the repair when it detects the plasma overload and begins to leave… only to stop, turn back and after a long moment, resumes the repair. Having not exited the Jefferies tube before the plasma overload simulation would have destroyed it, it is declared to have failed, and Data can't understand why. Farallon believes this was a waste of time and confidently tells Data that she knew that this would be the outcome. Nevertheless, Data thanks Farallon for participating in the experiment. She indignantly says "you're welcome" to him and leaves. Picard assures Data that he thinks this was time well spent.
+Later, Data performs thirty-four additional tests and all tests have the same outcome: every single time the exocomp decides to complete the repairs instead of evacuating, and returns to Data when commanded by him so he could reset. However, on the 35th test, Doctor Crusher is talking to Data so he neglects to recall the machine. Even so, the exocomp returns automatically and Data notices it has created a different tool than the molecular fuser it had when it entered the tube. In the previous tests, the exocomp was recalled when the simulated plasma overload occurred. When Data checks the sensor logs this time, he discovers that the new tool had been used to deactivate the overload signal. The exocomp had actually known the whole time that the signal was false and that it was in no danger; it had completed the repair and taken the opportunity to rectify the false signal – a clear sign of intelligence. As Crusher puts it, "The exocomp didn't fail the test; it saw right through it."
+
+
+=== Act Four ===
+"Captain's log, stardate 46317.8. At Doctor Farallon's request, I have agreed to tour the station and assess the situation personally. I must decide soon whether it is in Starfleet's best interest to recommend the particle fountain as a reliable technology."
+
+Work is resumed on the station but while the captain is examining the project the particle stream begins to experience fluctuations and radiation slowly leaks into the station. Dr. Farallon and her staff are beamed to the Enterprise, but La Forge and Picard remain on the station trying to save a member of the doctor's staff named Takenta, who is killed in an explosion despite La Forge's best efforts to save him. By the time the pair tries to beam back to the Enterprise the radiation levels on the station are too high for the ship's transporter to obtain a particle lock on La Forge and Picard. La Forge erects a temporary force field to hold the radiation at bay, but he knows that it is a temporary solution at best. Back aboard the Enterprise, Data projects that radiation levels in the station will be fatal within twenty two minutes even with the force field in place.
+When the particle fountain reaches a critical stage, Commander Riker asks for suggestions. Worf recommends sending over a shuttlecraft, which Dr. Farallon says would take too long, and Riker asks about using a photon torpedo to disrupt the particle matter stream, but Data explains it would take at least 65 minutes to do the proper, careful adjustments. Dr. Farallon states that she can reconfigure the exocomps so their boridium power cells would explode when beamed into the stream, which would only take a couple of minutes. However, due to their survival instincts, the command pathways would have to be disconnected. Data strongly opposes sending what he considers lifeforms to their deaths, but Riker, while he respects Data's opinion, doesn't have an alternative and approves the plan.
+However, after the exocomps are put on the transporter pad, Chief Kelso reports to the bridge that the transporter controls have gone dead. Data reveals that he has deliberately locked out the controls, preventing the exocomps from being beamed out.
+
+
+=== Act Five ===
+In the observation lounge, Riker issues a direct order to release the transporter lock, but Data stands firm and will not do so, even if it means a court martial. He argues that sacrificing one lifeform for another is not justified, and based on his own experiences, he must believe that, like him, the exocomps are alive – and therefore have the right to live. Data then volunteers to beam over and fix the problem himself, allowing La Forge and Picard to return. Riker refuses as he knows that at such high levels, the radiation would ionize Data's positronic matrix, killing him. However, Data points out that since he has the power to choose, he is within his rights to sacrifice himself; the exocomps don't have such rights. This gives Riker an idea; he proposes to ask the exocomps if they are willing to perform this mission, which Data finds acceptable.
+With their command pathways reconnected, the exocomps do not shut down after receiving their instructions. Instead, they change the commands Data had entered, replicate power taps and alter the transporter coordinates to inside the station core instead of in space near the matter stream. Data realizes that, based on their own vast experience aboard the station, they have developed an alternative plan. Riker lets the changes stand, and the exocomps are transported inside, where they begin using their power taps to attune to the particle stream's resonance frequency. La Forge and Picard see this and use the consoles available to them to assist as best they can. The exocomps succeed, allowing them to distort the frequency. This opens a window for Kelso to beam La Forge and Picard back to the ship. He then tries to beam back the exocomps, but only two could be transported back – realizing that the particle stream had to remain distorted for the transport to succeed, the third exocomp sacrificed itself so that the other two could be rescued.
+When the Enterprise departs, Dr. Farallon decides to study the exocomps as intelligent beings rather than as tools to be exploited, and the captain agrees to reexamine the project in a couple of years and make a new recommendation to Starfleet. Once she leaves, Data has a word with Picard, wishing to explain why he was willing to endanger his captain's life "for several small machines." Picard understands Data's decision had to have been extremely difficult. Data explains that, a few years ago, Picard himself had made a passionate case that helped establish Data's own status as a lifeform, to which Data is eternally grateful. In this scenario, Data had chosen to champion the exocomps for the same reasons. Picard understands, and he notes, "It was the most Human decision you have ever made."
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2369
+Second officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"I have always been a little suspicious of men in beards."
+
+- Beverly Crusher, to the bearded Worf, Riker, and La Forge
+
+"My beard is not an affectation!"
+
+- Riker, to Crusher
+
+"Doctor, if you wish to master the bat'leth sword you must learn to strike and avoid in the same motion." 
+"I almost got in under your guard, Worf."
+"Almost."
+
+- Worf and Dr. Crusher
+
+"Doctor… are you injured?"
+"Only my pride, Data…"
+
+- Data and Dr. Crusher
+
+"Doctor, what is the definition of life?"
+"…That is a big question."
+
+- Data and Crusher
+
+"Tricorders aren't alive."
+"Neither are exocomps!"
+
+- Crusher and Farallon, debating on whether or not the exocomps are alive
+
+"Data, you're claiming that this exocomp may be alive because it demonstrated survival instincts, right?"
+"Yes."
+"Then why don't we just threaten its survival again and see what happens?"
+"Make it so."
+
+- La Forge, Data, and Picard
+
+"There is a big difference between Data and a tool."
+"Doctor, there is a big difference between you and a virus, but both are alive."
+
+-  Dr. Farallon and Data
+
+"The transporter is not malfunctioning; I have locked out the controls."
+
+- Data, deciding not to have Riker sacrifice the exocomps to save Picard and La Forge
+
+"When my own status as a living being was in question, you fought to protect my rights. And for that I will always be grateful. The exocomps had no such advocate. If I had not acted on their behalf, they would have been destroyed. I could not allow that to happen sir."
+
+- Data, on his decision not to allow the exocomps to be sacrificed for Picard and La Forge
+
+"Of course you couldn't. It was the most Human decision you've ever made."
+
+- Picard, in response to Data
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 28 September 1992 [1]
+Premiere airdate: 16 November 1992
+First UK airdate: 6 September 1995
+
+
+=== Story and script ===
+
+The Star Trek: The Next Generation Companion referred to author LJ Scott as "L.D. Scott" and stated that in the "original premise, the artificial lifeforms were talking wall terminals and household appliances."  (Star Trek: The Next Generation Companion, 2nd ed., p. 227) The original script stated that the artificial lifeforms had "all the charisma of central heating units." [2](X)
+Naren Shankar recalled that the premise led to conversations among the writing staff about "artificial intelligence, and what really defined something as a living being, even if it was a cybernetic organism. At what point would machine intelligence be described as 'alive'? What we eventually arrived at is, it's when something develops a survival instinct, showing that it is afraid to die. And that's the point when Data decides that these widgets are a form of life that is worth saving." (Star Trek: The Next Generation 365, p. 284)
+Of Data's decision, Shankar commented, "It was a logical conclusion. Those are nice moments with Data, when you can couch something emotional within the framework of a logical deduction – it becomes that much more moving for an android to make that kind of decision." (Star Trek: The Next Generation 365, p. 284)
+However, Shankar struggled with writing the arguments about life and intelligence. He admitted that some of Data's positions appeared weak. "You can apply very similar ideas to bacteria or unicellular life forms of various kinds. According to his argument, these must be an intelligent life form too, but are they? I don't think so. Who's to say where you draw the line?" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 266)
+Shankar felt that some of the reasoning echoed contemporary anti-abortion movements. He commented, "I'm very strongly pro-choice and writing a show like this is in some ways difficult because I didn't necessarily agree with it all the time, but you still have to make a strong case for it. I think in a lot of ways that was accomplished and in other ways it was not." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 266)
+Doctor Farallon was named after the Farallon Islands off the coast of San Francisco. (Star Trek: The Next Generation Companion, 2nd ed., p. 227)
+Initially, the exocomps were called "metacomps", as a contraction of "metamorphic computer". This was changed when the legal department discovered a real life company by that name. (Star Trek: The Next Generation Companion, 2nd ed., p. 227; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265-266)
+The poker scene was added to the script when it was running short. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 266)
+
+
+=== Production ===
+
+Writer Naren Shankar envisioned the exocomps as modular devices that would be added to existing tools, "like a high-tech Transformer toy," and above all, that would be alien in appearance and easily overlooked. In addition, he hoped that the eventual look of the exocomps would not be the "cute R2-D2 type," referencing the Star Wars films. He drew comparisons to parts of the animal rights movement. "As long as they're cute and fuzzy people respond, but if it's a nasty, ugly-looking thing they won't save it." (Star Trek: The Next Generation Companion, 2nd ed., p. 227)
+Senior illustrator and technical consultant Rick Sternbach designed the exocomps.  David Livingston recalled that Sternbach went through a large number of designs before they were approved by the producers. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 267) The final design was loosely based on the character Nanmo from the animated series The Dirty Pair. (Star Trek Encyclopedia, 4th ed., vol. 1, p. 255)
+The episode budget allowed only two exocomps to be built. In scenes where three appeared, the third was digitally inserted in post-production. Their motion was supplied with control rods by a puppeteer, who was also "painted out" later. (Star Trek: The Next Generation Companion, 2nd ed., p. 227)
+Director Jonathan Frakes dubbed the exocomps "the little piggies". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 265)
+
+
+=== Cast and Characters ===
+LeVar Burton was allowed to regrow his beard for this episode since he wanted it for his wedding. (Star Trek: The Next Generation Companion, 2nd ed., p. 227) This time it would not just appear and then disappear again (as it did in "The Outcast"), but it was included into the episode, as well as the previous installment, "A Fistful of Datas" and mentioned on-screen.
+Troi is seen wearing a new hairstyle. Still long and curly, the hair is now off her face and taken back, without the use of a headband. This hairstyle is worn for the rest of the season.
+Jonathan Frakes praised Ellen Bry's performance in this episode. "Unlike most of the actresses I read, she seemed to be able to handle the language which in other actresses' mouths sounded dull. She somehow had passion about it and was able to deliver the lines with the same kind of alacrity as Brent [Spiner] and LeVar [Burton] did on a daily basis." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 266)
+
+
+=== Continuity ===
+When Data explains to Captain Picard his decision to defend the life of the exocomps, he mentions that when his own life was on trial, Picard defended him. This is a reference to the second season episode "The Measure Of A Man".
+This is one of the few episodes where the vertical blinds in Doctor Crusher's office in sickbay are opened and a corridor can be seen behind the window.
+
+
+=== Reception ===
+Jonathan Frakes commented, "It was a little heavy on technobabble, but all things considered I think that show came off quite well." However, he was disappointed that there was no callback to the poker scene at the end of the episode. "We should have seen the result of the bet the characters made. Either Gates [McFadden] should have been a brunette or we should have been sitting in the chair about to be shaved. I don't know why they would lay it out as a red herring and not have it pay off in some way – as if no one was watching the show."  (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 266)
+
+
+=== Video and DVD releases ===
+As part of the TNG Season 6 Blu-ray collection
+UK VHS release (two-episode tapes, CIC Video): Volume 68, 7 June 1993
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Ellen Bry as Farallon
+J. Downing as Kelso
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Lena Banks as operations ensign
+Joe Baumann as Garvey
+Michael Braveheart as Martinez
+Tracee Lee Cocco as Jae
+John Copage as Sciences officer
+Tony Cruz as Lopez
+Debra Dilley as Operations ensign
+Hal Donahue as Command lieutenant
+Gina Gallante as Sciences ensign
+Keith Gearhart as Operations ensign
+Grace Harrell as Operations officer
+Melanie Hathorn as Civilian
+Christie Haydon as Command ensign
+D. Kai as sciences officer
+Jana Karson as Tyran technician
+Michael Moorehead as Sciences ensign
+Ian Ray as Tyran technician
+Sissy Sessions as Operations ensign
+Virginia Simonson as Tyran technician
+Deni Tyler as Tyran technician
+Unknown performers as
+Pierson (voice only)
+Takenta
+Four Tyran technicians
+Ten Forward waiter
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Geoffrey Mutch – stand-in for Jonathan Frakes
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+2363; ability; access tunnel; animal; anthropomorphizing; anti-matter flow converter; artificial lifeform; axionic chip network; bat'leth; beard; bone; boridium; boridium power cell; boridium power converter; brunette; bulkhead; Carema III; chemical reaction; circuit pathway; command pathway; control pad; court martial offense; Crusher, Wesley; crystal; cup; deadline; deflector field; density; depression; diagnostic; "duty calls"; emergency shut down routine; energy; engineering team; environment; exocomp (unnamed 1, 2, 3, and 4); fashionable; fashion statement; field generator; field ionization effect; fire; food; force field; fracture; hour; Human; hypothesis; industrial servo mechanism; instinct; insubordination; interlink sequencer; intuition; ionic damper; judgment; kilograms per minute; level 1 diagnostic; life; lift capacity; machine; main particle impeller; make-up; meter; microfracture; micro-replication system; mode stabilizer; molecular fuser; Murphy; nails; nail polish; painting; particle flux; particle fountain; particle stream; percent; philosopher; photon torpedo; plant; plasma conduit; poker; positronic network; power converter; power tap; progenitor; radiation field; razor; reaction chamber; red alert; right; scientist; shaving; shuttlecraft; signal fragmentation; signal lock; Soong, Noonien; Soong-type android; Starfleet; Starfleet regulations; suicide; tea; transient overload signal; transporter lock; transporter lockout; transporter pad; Transporter Room 2; transporter system; tricorder; trombone; Tucker tube; Tyran; Tyran system; Tyrus VII; Tyrus VIIA; Tyrus VIIA station
+
+
+=== External links ===
+"The Quality of Life" at Memory Beta, the wiki for licensed Star Trek works
+"The Quality of Life" at Wikipedia
+"The Quality of Life" at MissionLogPodcast.com
+"The Quality of Life" script at Star Trek Minutiae
+"The Quality of Life" at the Internet Movie Database

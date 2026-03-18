@@ -1,0 +1,246 @@
+Voyager receives a message from Starfleet containing letters from the crew's friends and family.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The USS Voyager receives a garbled transmission from Starfleet Command via the Hirogen communications network, previously used to send The Doctor to the Alpha Quadrant, but after just a few words the transmission stops. Ensign Harry Kim clears the interference but the bulk of the message is lodged in one of the relay stations, 3.8 light years away. Captain Kathryn Janeway sets a course, determined to find out what the rest of that message says.
+Meanwhile, the Hirogen controlling the network, who have already discouraged Voyager's use of it, intercept the message. As Alpha Hirogen Idrin instructs his Beta to locate the ship receiving it, he adorns his helmet with markings of paint.
+
+
+=== Act One ===
+Voyager's bridge crew begin to speculate on the contents of the transmission. Chakotay refers to the Bajoran wormhole discovered in the Gamma Quadrant and wonders if Starfleet has found a similar phenomenon that could help Voyager shorten its journey home. The crew discusses their new-found optimism and the possibility that many of their friends and family might have given up on them, mourned, proceeded with their lives, and found some kind of resolution. Now they will have received word that the crew is alive but so far away that they might as well be dead. Janeway expresses her hope that they might be able to stay in constant contact with home.
+When Seven of Nine fails to report to sickbay for her weekly checkup, The Doctor visits her in astrometrics, where she is trying to retrieve more of the Starfleet message. He discovers that she hasn't regenerated in 58 hours, despite his instructions for her to do so at least three hours each day. She insists she could go as long as 200 hours without regenerating. The Doctor reminds her that was true when she was Borg, but she is more Human now.
+The ship is shaken by gravimetric forces coming from the relay station, still two light years away. As Kim compensates for the disturbance, Lieutenant Commander Tuvok detects a ship, adrift with no propulsion systems, weapons or life support. One dead humanoid is aboard. Janeway has the body beamed to sickbay, wanting to know how he died.
+The Doctor examines the corpse, which has been gutted sometime between a week or a month prior. Seven recalls an incident when the Borg encountered a small ship of Species 5174, which had been similarly destroyed. She doesn't know who did it, or why, as the Borg considered that information irrelevant.
+Two days later, Voyager has gotten close enough to the relay station to see it on long-range visual sensors. The crew determines it is at least 100,000 years old and uninhabited. The station is also using a small quantum singularity, or black hole, only about a centimeter in diameter, as its power source. Unable to take the ship any closer due to the gravimetric eddies, Chakotay orders Paris to hold position and then contacts Janeway in astrometrics to tell her they are as close as they can get to the relay station.
+Seven and Janeway begin downloading the message but the data stream has degraded significantly. Some parts are dislocated while others are rearranged. Janeway tells Seven to get it out in bits and pieces and they will worry about reconstructing it later. As Janeway reads parts of the transmission, she realizes it contains letters from home.
+
+
+=== Act Two ===
+
+Neelix is entrusted with delivery of the first batch of letters retrieved. As he leaves to make his rounds, Seven discovers a latent, heavily encrypted data stream, containing a large block of text and possibly maps, buried under the message but she can't retrieve it until more of the letters have been cleared out. Janeway expresses cautious optimism that it might contain a plan for bringing Voyager back to the Alpha Quadrant and asks Seven what she thinks of recent events. Seven says it lacks any emotional resonance for her, since she's never even been to Earth but Janeway points out it's possible she has family there. Seven is taken aback, admitting that thought hadn't occurred to her.
+Neelix goes to the bridge, where he delivers a letter to Chakotay from Sveta, the woman who recruited him into the Maquis. As he reads, Chakotay realizes that the contents of the letter are serious and leaves to read the letter in private. An anxious Kim asks Neelix if there are more letters but Neelix has no more, yet, for the bridge crew. He leaves to deliver a letter to Tuvok from his wife, T'Pel, and is appalled when Tuvok doesn't immediately drop what he's doing to read it. Accidentally revealing that he's seen the contents of the first few lines, Neelix offers to read it to him, saying it contains important news. Tuvok's firstborn son, Sek, has been through the pon farr and he and his mate now have a daughter, T'Meni, who was named after Tuvok's mother. Neelix leaves Tuvok alone to read the rest. At first, Tuvok puts it down and returns to his weekly tactical review but then reconsiders and puts his work aside and begins reading his wife's letter.
+Janeway enters the bridge with her own letter that has just been retrieved. She goes to her ready room to read it, and sees that it is from Mark. As she does, she first smiles, but then her expression slowly changes to one of sorrow.
+Chakotay goes to Engineering to speak with Torres about the contents of his letter, telling her that it contained very bad news and that he had to re-read it for an hour before he could even begin to believe it and now he has to tell everyone else. B'Elanna demands to know what's happened, and Chakotay reveals the terrible truth to her; the Maquis are gone, wiped out by the Cardassians and an ally from the Gamma Quadrant. Sveta and a few others are in prison but the rest, including their friends Atara and Roberto, are all dead and the rebellion is completely crushed. Incensed, Torres vows to make someone pay if they ever get back home.
+
+In the mess hall, Kim tells Paris that he's heard at least thirty more letters have been downloaded and Neelix is on his way there to deliver them. Paris is more interested in his meal, a "mystery dish" that tastes vaguely like chicken but has the consistency of corn husks. Kim is stunned by Paris' disinterest. Neelix arrives, with letters for Susan Nicoletti, Fitzpatrick, Kyoto, Golwat, Ashmore, Dorado and Parsons. Upset, Kim asks where the remainder of the thirty letters are but Neelix tells him that what he heard was just a rumor.
+In her ready room, Janeway stares blankly ahead. Seven enters and tells the captain that the message is becoming harder to retrieve as it continues to degrade while it remains logged in the relay station. She requests permission to take a shuttle, which can withstand the gravimetric eddies more easily than Voyager, to the station to stabilize the containment field. Janeway tells her to go and take Tuvok with her. Seven questions her reason for assigning Tuvok to the mission as well and Janeway says it is not her custom to send an away team of one.
+Kim finds Torres in astrometrics, where she has taken over retrieving the messages while Seven is on the away mission. Torres teases him about his attraction to Seven but Kim is just there to find out if he's received a letter yet. Torres tells him no but encourages him to have patience.
+
+In the shuttle, Seven asks Tuvok if Janeway was being truthful when she said she always sent at least two people on away teams, or was it a ruse because the captain still doesn't trust Seven and believes she requires supervision. Tuvok assures her it is not only custom but recommended Starfleet protocol. He tells her the captain's decision to have him accompany her shouldn't be taken as evidence of a particular attitude. As they work to stabilize the station's containment field, Tuvok asks Seven if the captain's opinion is important to her. Seven evades a direct answer and the conversation is cut short by an attack from an approaching ship that knocks out the shuttle's navigation, communications, warp engines, and weapons.
+
+
+=== Act Three ===
+Tuvok and Seven try to lure their attacker closer to the station, believing the larger ship will be far more vulnerable to the gravimetric eddies than they are but are unsuccessful. Tuvok launches a distress beacon just before the two of them are rendered unconscious.
+
+Torres calls Paris down to astrometrics, having received a letter for him. Paris isn't interested and says he's going back to the bridge. Torres is perplexed by his behavior. When Paris retrieves the letter, it turns out to be from Admiral Owen Paris, Paris' father. Even less enthused, Paris tells Torres that the more everybody gets excited about the letters from home, the more he wants no part of it. He tells her that what he has on Voyager is better than anything he ever had back home. Torres urges him to reconsider: he's not the same person he was four years ago so what makes him think his father is? She asks him to give his father a chance but Paris tells her that he won't, which causes Torres to break down. She tells him of Sveta's letter and how she's gone from blinding anger to crying for an hour to trying to accept it and move on. Paris comforts her, apologizing for going on about his problems with his father that don't even matter. Torres tells him he obviously still cares what his father thinks of him and he reluctantly admits that maybe he does. She promises to let him know when she gets the whole letter.
+Chakotay reports to Janeway that Tuvok and Seven must have been successful, as Torres is downloading the letters a lot more easily now. The shuttle hasn't appeared on sensors yet but is expected back soon. Janeway has been analyzing the station and wants to stay for a while longer, calling it the kind of archaeological puzzle that has always fascinated her. Chakotay asks about her letter and she reveals that Mark told her about Mollie, Janeway's Irish Setter, giving birth to a litter of puppies, about how devastated he was when Voyager was lost and how he held out hopes they were alive longer than most people did. Eventually, though, he let go and began living his life again. Four months earlier he married a woman who worked with him. Chakotay asks Janeway if she's all right and she says she knew he'd eventually move on with his life, but now she's had confirmation that he had and it feels very final.
+Kim calls Janeway to the bridge. Sensors have picked up an automated distress signal from Tuvok's shuttle and no one is onboard.
+
+
+=== Act Four ===
+
+Tuvok and Seven regain consciousness to find themselves bound in the trophy room of a Hirogen ship. As they consider using one of the bladed weapons hanging on the wall to free themselves, Idrin appears, telling them they were "pathetic prey." Unsatisfied by the hunt, Idrin demands information on why they were using the communications network. Tuvok explains they were trying to retrieve important messages from their home and tells Idrin if he returns them to their ship, they'll leave without trespassing again. Idrin claims they are relics of the hunt and marks each of them with colored paint on their forehead. Seven tells Idrin their captain is a formidable opponent and their ship is heavily armed, which pleases Idrin, who believes stronger prey will make for a better hunt.
+The Beta Hirogen locates Voyager forty-thousand ketrics away from the relay station and informs Idrin that it is an hour away. When Idrin orders him to go to stalking mode, the Beta hesitates, preferring to wait for other Hirogen ships en route. Idrin insists on claiming the prey for himself but the Beta fears they may not be able to take on Voyager alone.
+Meanwhile aboard the Voyager, Kim locates the Hirogen ship with Tuvok and Seven on it. Janeway hails Idrin's ship and attempts to negotiate their release but Idrin refuses. Kim informs the captain that three more Hirogen ships are bearing down on Voyager. Janeway orders a red alert.
+
+
+=== Act Five ===
+Though the Beta-Hirogen disagrees with Idrin, Idrin prepares to kill Tuvok first, using a blade from the wall display.
+On Voyager, Torres reports that she still needs another half hour to finish retrieving the Starfleet messages from the relay station. On the bridge, Kim reports that he is unable to get a transporter lock on Seven and Tuvok due to the Hirogen ship's monotanium armor plating. He further reports that the three other ships, each with massive weapons, are fast approaching their location.
+
+Janeway reasons that if the Voyager can increase the gravitational pull of the quantum singularity powering the relay station, and weaken the station's containment field, it might help in the battle. Kim is ordered to create a low level warp field around the Voyager to protect it from the gravitational pull but not so strong as to prevent them from beaming Tuvok and Seven aboard. Firing an antithoron burst at the station, the Voyager successfully weakens the station's containment field enough to start pulling the Hirogen ships toward it. Tuvok seizes the opportunity to grab the blade and attack both Hirogen but one hurls him against a bulkhead.
+Torres hails the bridge. The antithoron burst has collapsed the signal and she's retrieved as much of the message as she's going to get.
+The Hirogen ships continue their attack, further destabilizing the containment field, despite Janeway's warnings. As the singularity is exposed, Voyager sets a tractor beam on the ship Tuvok and Seven are on. Kim targets Tuvok and Seven but any attempt to transport them could result in the gravity well scattering their patterns. As the tractor beam weakens, Janeway decides they must risk it. Despite distorting patterns Kim manages to safely rematerialize both of them as the Hirogen ship disappears into the black hole. Voyager succeeds in breaking free of the singularity by shutting down various systems and overexerting the antimatter injectors by 120%.
+
+In Astrometrics, Torres tells Janeway she has discovered that the energy released from the singularity created a massive discharge along the relay network. This discharge has disabled every one of the stations, meaning the crew can no longer look forward to regular updates from the Alpha Quadrant. She was able to retrieve most of the encrypted Starfleet text and a few more personal letters but it will take time to decode the encrypted messages. Torres excuses herself to deliver the personal letters. Janeway tells her Neelix can do that but Torres says there's one she wants to do personally.
+On the bridge, Torres gives Kim the last letter she was able to retrieve, from his parents. She tells Paris that the letter from his father was lost before she could get it. She tells him "You could assume that he said he loves you and that he's proud of you." Paris responds that he will.
+Tuvok reports to Janeway on what little he was able to learn regarding the Hirogen. He calls them extremely dangerous, lacking any moral center. He theorizes they probably used the relay network for communications and won't be pleased about its destruction. As Tuvok leaves, Chakotay joins the captain for coffee.
+Janeway frets over the crew, certain they were hoping mail call would become a regular part of their day. Chakotay tells her Neelix is planning an impromptu and immediate party to cheer people up. The captain and first officer discuss recent events, including her letter from her former fiancé. Janeway tells Chakotay she didn't really expect Mark to wait for her and she's realized she was using him as a safety net to avoid becoming involved with someone else. She adds that with her eventful life in the Delta Quadrant, she wouldn't have had the chance to pursue a relationship even if she had realized she was alone. Chakotay assures her she's hardly alone and the two of them head for Neelix' party.
+
+
+== Log entries ==
+"Captain's log, stardate 51501.4. After two days at high warp, we're close enough to the relay station to see it on long-range visual sensors."
+"Captain's log, supplemental. Seven of Nine and Commander Tuvok suffered no serious physical damage after their encounter on the alien ship. I've been eager to hear Tuvok's impressions of the species who took them hostage."
+
+
+== Memorable quotes ==
+"I'm finishing my weekly tactical review. When it's completed I'll read the message."
+"You're going to wait until you finish the tactical review?"
+"Do you have any reason to believe the content of the message will change during that time?"
+
+- Tuvok and Neelix, when Neelix delivers a letter from home
+
+"Starfleet found a stable wormhole to the Gamma Quadrant. Maybe they've discovered one that leads here."
+"This kind of speculation can be intriguing, but be careful about setting yourselves up to be disappointed."
+
+- Chakotay and Kathryn Janeway
+
+"Something terrible has happened. I read that letter for an hour before I could accept it. Now I have to tell everyone else and I'm not sure how to do it. It's over, B'Elanna. There are no more Maquis."
+"What are you saying? There are thousands of us."
+"All wiped out. It seems the Cardassians have an ally, a species from the Gamma Quadrant who supplied them with ships and weapons."
+
+- Chakotay and B'Elanna Torres, about what has happened to the Maquis since they have been lost
+
+"Those were our friends, good people willing to put their lives on the line for something they believed in, and now you're telling me they're gone, that they are slaughtered!"
+"Those are the risks we all took. We all knew where it could lead."
+"It's not right and you know it! I will make someone pay; I swear I will! If we ever get back."
+
+- B'Elanna Torres and Chakotay
+
+"Another one."
+"I beg your pardon?"
+"I've retrieved another word of text. That makes six."
+"Six words in fifty-eight hours?"
+
+- The Doctor, questioning Seven's efficiency
+
+"When he forms an opinion about something, nothing can change his mind."
+"Fine. Excuse me if I can't feel terribly sorry for you. I learned this morning that a lot of my friends are dead. And I've gone from being so angry that I wanted to kill someone to crying for an hour. And now I'm just trying to, to accept it and move on."
+"B'Elanna, that's awful. I am so sorry. And here I am going on about something that doesn't even matter anymore."
+"No, I'm sorry. It obviously does. You care what he thinks about you."
+
+- Tom Paris regarding his father and B'Elanna Torres
+
+"Coffee – the finest organic suspension ever devised."
+
+- Janeway to Chakotay, explaining why she is having a fourth cup of morning coffee
+
+
+== Background information ==
+
+
+=== Production ===
+This episode had the working title "Communications". [1]
+The episode's final draft script was submitted on 16 October 1997. [2]
+The considerable size of the Hirogen in this episode is a result of the fact that the original inspiration for the aliens, as devised by co-executive producer Brannon Braga, was the largeness of football players. (Cinefantastique, Vol. 30, No. 9/10, p. 98) Alan Sims recalled that, for the Hirogen in this episode, the production crew "hired actors that were close to seven feet and then put platforms in their boots to give them even greater height." (Star Trek: Aliens & Artifacts, p. 177)
+
+
+=== Sets, props, and costumes ===
+The paint containers used by the Hirogen were, in reality, developed by Starline Corporation in India. [3]
+According to the unauthorized reference book Delta Quadrant (pp. 222, 9, 82), the exterior of the relay station in this episode was actually a studio model that was often reused in Star Trek productions, including Star Trek: Voyager's pilot episode, "Caretaker", (as the Caretaker's array) and the second season episode "Cold Fire" (as Suspiria's array).
+
+
+=== Special and visual effects ===
+The look of the Hirogen ship's exterior, first introduced in this episode, was designed by senior illustrator Rick Sternbach and digitally modeled by Brandon MacDougall at Foundation Imaging. CGI Effects Director Ron Thornton influenced the design by suggesting that Sternbach's plan for the ship be flattened. [4](X)
+Visualizing the relay station's destruction was a complicated process. Visual effects supervisor Mitch Suskin recalled, "We had a lot of trouble coming up with a credible way to make the station collapse into itself and implode. We did it almost entirely at Foundation Imaging, but that went through a lot of massaging, and looking at the shot frame by frame." (Cinefantastique, Vol. 30, No. 9/10, p. 98)
+
+
+=== Continuity ===
+This episode is a clear sequel to "Message in a Bottle". The Hirogen, and their communications network, play a central role in both episodes.
+Chakotay references the Bajoran wormhole established in Star Trek: Deep Space Nine when speculating that a similar stable wormhole to the Delta Quadrant might have been found.
+The letter to Chakotay reveals that the Maquis have been defeated. This defeat was depicted in the DS9 fifth season episode "Blaze of Glory", aired 9 months earlier.
+B'Elanna Torres' reaction to her Maquis comrades' deaths is explored further in the fifth season episode "Extreme Risk".
+The content of the data stream introduced here plays an important role in the plot of the fourth season finale "Hope and Fear".
+Tom Paris speculates that his letter is "from the rehab colony, telling me I've violated probation", in a reference to the series premiere "Caretaker", where he is seen to be recruited from that rehab colony to serve as pilot on Voyager.
+This episodes establishes that there are at least two Bolian crew members serving on Voyager. While a male Bolian, Chell, appears in the first-season episode "Learning Curve", a female Bolian, Golwat, is featured in this episode.
+Although this is the first time Voyager encounters any Hirogen vessels, Harry Kim recognizes sensor readings of them here as Hirogen ships. This could be due, however, to the fact that the energy signatures of the ships are similar to the energy signature of the Hirogen's transmission from the previous episode, "Message in a Bottle".
+The first shot of Voyager in this episode – showing the vessel passing through a nebula – uses the exact same CGI background used in the opening moments of the Season 2 episode "Deadlock", when Voyager is evading the Vidiians within a nebula (the scene angle is the same, but the path/angle of Voyager is slightly different).
+
+
+=== Reception ===
+Ultimately, Mitch Suskin was not completely happy with this episode. He remarked, "There are shows you love every season, and shows that are kind of awkward, and that show was awkward in many ways [....] In the ebb and flow of Star Trek, it's a good show but not one of our greatest." (Cinefantastique, Vol. 30, No. 9/10, p. 98)
+Contrastingly, this installment was one of visual effects producer Dan Curry's favorites from Star Trek: Voyager's fourth season. (Cinefantastique, Vol. 30, No. 9/10, p. 74)
+This episode achieved a Nielsen rating of 3.8 million homes, and a 6% share. [5](X)
+Cinefantastique rated this episode 2 and a half out of 4 stars. (Cinefantastique, Vol. 30, No. 9/10, p. 97)
+Star Trek Magazine scored this episode 3 out of 5 stars. (Star Trek Monthly issue 42, p. 60)
+The unauthorized reference book Delta Quadrant (p. 223) gives the installment a rating of 4 out of 10.
+Prior to the ending of production on Star Trek: Voyager's fourth season, both Roxann Dawson and Chakotay actor Robert Beltran expressed interest in the Maquis again being featured at some point in the series despite the news of their elimination here, Beltran feeling that this episode left unresolved the subject of how his character and Torres dealt with the Maquis' suppression. (Cinefantastique, Vol. 30, No. 9/10, pp. 82 & 93)
+Roxann Dawson also wanted the data stream that is still not decrypted by the end of this episode to ultimately be revealed as being a message from Starfleet suggesting that, until they themselves can return Voyager to the Alpha Quadrant, the Maquis be secured in the brig. Robert Beltran later agreed that this would have been a good idea. (Cinefantastique, Vol. 30, No. 9/10, pp. 93 & 94)
+Torres actress Roxann Dawson liked the storyline about news of the Maquis' destruction. Moments after referring to the scene in which Chakotay gives Torres this news as "really interesting," Dawson remarked, "I love that they're bringing that up again." (Cinefantastique, Vol. 30, No. 9/10, p. 93) Dawson also liked the scene where, in the astrometrics lab, her character and Paris talk about not only the destruction of the Maquis but also the message from the latter's father. Dawson referred to it as "a really nice scene where there's no kissing involved." She went on to say, "You just see these two friends dealing with some very difficult situations. At first we snap at each other, and then we resolve our differences. It's a very mature scene, and it shows the depth of what they feel for each other, and how they respect each other." (Cinefantastique, Vol. 30, No. 9/10, p. 98)
+
+
+=== Apocrypha ===
+Several facts that were mentioned within Jeri Taylor's two books dealing with the biographies of the Voyager crew (Mosaic and Pathways) are made canon within this episode.
+Mark's surname is established to be Johnson.
+Admiral Paris's first name is established to be Owen.
+Chakotay mentions Sveta, who recruited him into the Maquis. In Pathways, Chakotay met Svetlana "Sveta" Korepanova at Starfleet Academy and, years later, she told him of the Maquis, which he joined through her after his homeworld was destroyed.
+The name of Tuvok's eldest son and mother are confirmed respectively to be Sek and T'Meni.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 4.8, catalog number VHR 4629, 10 August 1998
+As part of the VOY Season 4 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Co-stars ===
+Tiny Ron as Alpha-Hirogen
+Roger Morrissey as Beta-Hirogen
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Ashmore
+Kelli Coloma as Dorado
+Christine Delgado as Susan Nicoletti
+Brian Donofrio as sciences officer
+Tarik Ergin as Ayala
+Kevin Finister as operations officer
+Caroline Gibson as operations officer
+Linda Harcharic as command officer
+Kerry Hoyt as Fitzpatrick
+Joyce Lasley as Lydia Anderson
+Alicia Lewis as sciences officer
+Trina Mortley as sciences officer
+Arthur Murray as command officer
+Julie Plum as Golwat
+Guy Richardson as operations officer
+Jennifer Riley as sciences officer
+Shepard Ross as Murphy
+Pablo Soriano as operations ensign
+Musso Sparks as sciences officer
+Noriko Suzuki as operations officer
+Unknown actor as Hayes (voice)
+
+
+=== Stunt double ===
+Irving Lewis as stunt double for Tim Russ
+
+
+=== Stand-ins ===
+John Austin – stand-in for Roger Morrissey
+Brian Donofrio – stand-in for Robert Beltran
+Sue Henley – stand-in for Kate Mulgrew
+Gregory Hinton – stand-in for Tiny Ron
+James – stand-in for Ethan Phillips
+Joyce Lasley – stand-in for Jeri Ryan
+Susan Lewis – stand-in for Roxann Dawson
+Brita Nowak – stand-in for Jeri Ryan
+Lemuel Perry – stand-in for Tim Russ
+J.R. Quinonez – stand-in for Robert Picardo and Robert Beltran
+Robert Rasner – stand-in for Ethan Phillips
+Heather Rattray – stand-in for Jeri Ryan
+Keith Rayve – stand-in for Robert Duncan McNeill
+John Tampoya – stand-in for Garrett Wang
+Piper Taylor – stand-in for Roxann Dawson
+Unknown actress – hand double for Kate Mulgrew
+
+
+=== References ===
+100,000 years ago; 2371; Admiral; Alpha-Hirogen; Alpha Quadrant; antimatter injector; antithoron; archaeology; armor plating; artificial quantum singularity; Astrometrics; Atara; away team; Bajoran wormhole; Beta-Hirogen; black hole; blood; Borg; Borg alcove; Borg implant; bow; bowl; bridge crew; Buck-toothed alien; Buck-toothed alien starship; Cardassian; Cat's Eye Nebula; centimeter; chicken; children; Class 2 shuttle; Cochrane; coffee; communications system; confinement beam; confinement field; consistency; containment field; corn; couch; course; cousin; cup; data processor; data stream; Dear John letter; Delta Quadrant; desk; desktop monitor; directional beacon; distress beacon; Dominion; Eagle Nebula; Earth; emotion; engagement; erythrocyte; father; fork; Gamma Quadrant; gemstone; grandparents (aka grandfather, grandpa, gramps); gravimetric eddy; gravimetric field; gravimetric force; gravity well; gutting; high warp; Hirogen; Hirogen communications network; Hirogen scanner; Hirogen ship (Idrin's ship, unnamed); holographic matrix; hostage; hull breach; hunter; husband; husk; internal organ; intestine; Johnson, Mark; ketric; kilometer; Kim, John; Kim, Mary; kitten; Kyoto; letter; lie; life support; ligament; light year; litter; long-range visual sensor; mail call; mail carrier; main deflector; Maquis; Mark's kitten; Mark's wife; medical tricorder; micro-singularity; Milky Way Galaxy; "Mister Vulcan"; Mollie; Mollie's litter; monotanium; mother; muscle; mystery dish; navigational sensor; Nebula C 7; organ; osteotomy; Paris, Owen; Parsons, Michael; pattern buffer; percent; plate; polaron pulse; pon farr; port; power; prayer; priest; probation; propulsion system; puppy; puzzle; quantum singularity; radiometric decay ratio; ready room; red alert; regeneration; rehab colony; relay station; relic; repair team; Roberto; safety net; Saturn; schematic; Sek; Sek's mate; sculpture; security office; sensor array; skeleton; skin; Species 5174; stalking mode; Starfleet Command; Starfleet protocol; structural integrity; sugar; subnucleonic beam; suspension; Sveta; T'Meni; T'Meni, daughter of Sek; T'Pel; tactical review; tank; targeting beam; Temple of Amonak; terawatt; thruster; tractor beam; tractor emitter; transporter room 2; Trayken beast; trespassing; trophy; tug of war; unknown planet; Veil Nebula; Vulcan; Vulcan (planet); Vulcan language; warp coil; warp core; warp engine; warp field; weapon; weapons system
+
+
+=== External links ===
+"Hunters" at Memory Beta, the wiki for licensed Star Trek works
+"Hunters" at Wikipedia
+"Hunters" at MissionLogPodcast.com
+"Hunters" at the Internet Movie Database

@@ -1,0 +1,201 @@
+The Doctor's program is taken from Voyager, and he is put to work on a vast hospital ship, where the twisted medical system is based on social status, rather than medical condition.
+
+
+== Summary ==
+
+
+=== Teaser ===
+On board a large vessel, a crowded hospital ship, a trader named Gar is trying to sell medical supplies to Chellick, an administrator. Gar suggests this time he does not have any substandard merchandise, but rather an amazing little gadget, The Doctor's mobile emitter. He activates it, and the bewildered Doctor appears.
+
+
+=== Act One ===
+The Doctor demands to know why he was kidnapped as Chellick negotiates a price. Then, according to an announcement, another batch of injured comes in. With some threats from Gar, and seeing all of these wounded here, The Doctor starts to help them. He finds their primitive technology almost unworkable, but does the best he can.
+Meanwhile, Kim and Paris return from a holographic hockey game on the USS Voyager, and go to The Doctor for some minor bumps and bruises. However, the hologram who responds simply asks them to state the nature of the medical emergency, scans them, and tells them to take an analgesic. He does not even listen to the long story Paris starts to tell.
+
+When the hologram's program is examined, it turns out to be a fake from one of his old training files. The real Doctor is missing. Captain Janeway demands to know how Gar got away with him. Neelix explains Gar spent the night in sickbay otherwise unattended, claiming to have gotten food poisoning at dinner. Lieutenant B'Elanna Torres identifies when the training program was activated: just before Gar left Voyager. The captain starts the search for Gar. Neelix later explains it was his fault. Gar said his dinner was bland, so Neelix added a few spices to add flavor, not taking his physiology into account. He may have actually been ill instead of simply faking it. If he had never gone to sickbay, he would never have developed a plan to kidnap The Doctor. Janeway reassures Neelix with her experience: men like Gar will find an opportunity like that without anyone's help.
+Aboard the medical ship, The Doctor's abilities impress many of the medical staff, including Voje, a doctor. The Doctor offers to contact his ship for more supplies, but Voje says that establishing communications would take a lot of paperwork; The Doctor will have to work with what he's given.
+As The Doctor continues down a line of patients waiting for proton imaging, he makes small talk with Tebbis, a mine worker who can diagnose himself correctly. The scanning device also picks up a chronic condition, however, for which Tebbis hasn't been treated. When The Doctor asks why, Voje tells him it's because Tebbis doesn't have a high enough TC.
+Chellick then shows up and informs The Doctor he has negotiated with Gar, and acquired his program. The Doctor refuses his instruction to follow him, since he is being illegally detained. The administrator explains that the allocator – their main computer – indicates his talents would be best used on Level Blue, which is a high-priority ward. The Doctor reluctantly follows, expecting to find Level Blue to be an intensive care ward… but instead, he finds that is luxurious compared to where he came from... cleaner, more spacious and there is a doctor per person instead of a doctor per dozen.
+
+
+=== Act Two ===
+These patients, the administrator explains, have a higher treatment coefficient, and it determines the level of care they receive. It is derived through a complex formula based on the individual's value to society, a prioritizing system for limited resources. The Doctor doesn't like it at all, but that is what the Dinaali do, says Doctor Dysek, the chief of medicine. They used to be a race dying from ecological disasters. Once introduced, The Doctor wants to know what is going on in Level Red, the level above, but the administrator and the chief talk about what The Doctor will do in the third person, and ignore his complaints.
+Meanwhile, Voyager drops out of warp to find a probe emitting a false warp signature which they have followed. At this dead end, Tuvok comes up with a suggestion: Gar traded them some iridium ore with a short half-life, so he probably got it from within a three light year radius. Cross referencing sensor logs and long range scans quickly finds an asteroid which appears to be a mining colony.
+
+When they arrive, they are hailed, and informed by an angry alien that he wants his iridium back. When Janeway says they traded it, he insists it was stolen from him. She agrees to give the iridium back – which is only half the amount Gar stole – and he in return tells her where induction units he also stole came from: a planetoid called Velos. That's where they look next.
+The Doctor, meanwhile, admires the surgical technique of Doctor Dysek, and tries to get him to allow contact with Voyager. Dysek dryly repeats that Chellick authorizes all communications. The Doctor watches a nurse give a cytoglobin injection to a patient. She asks a console for it, it is authorized, and she administers it quickly. The Doctor asks if this patient also has the chromoviral disease, but Dysek says no, it is used to prevent arterial aging. The Doctor notes her arteries are in perfect health, and Dysek indicates it is a preventative regimen. That makes The Doctor coldly angry, because Tebbis, the boy on Level Red, would die if left untreated and yet was denied one. Dysek repeats that their society is far better off since following the allocator's protocols, and if Tebbis' TC rises, he will get good treatment as well.
+The Doctor returns to Level Red and looks at Tebbis again. His condition has deteriorated further. Voje says it's because his coenzyme allotment has been reduced; his TC is too low. The Doctor suggests they raise it; if it is a statistical function, he can just input more data. Voje doesn't like it, but The Doctor talks to him about the moral imperative in medicine, and he is willing to go along. They settle on an expertise in neutronics. But when Voje inputs it, the data is rejected. Even Tebbis is willing to let The Doctor off with a clean conscience.
+Instead, The Doctor returns to Level Blue, and informs the nurse that one of the patients requires an additional cytoglobin injection, which he will administer himself. He instead takes it back to Level Red and, after passing dozens of dying patients, gives it to Tebbis.
+
+
+=== Act Three ===
+Meanwhile, Voyager is still following Gar's trail. Kipp, a merchant at Velos, informs them Gar took the induction units on consignment. He was persuaded to do so by a buyer he has known for years. The buyer now knows it was a mistake. It was a suggestion from his wife, who has now left him. She says that she ran off with Gar, and is surprised to see Janeway looking for him, perhaps to steal him from her. To talk her out of this, she says Tuvok is her husband, a most unpleasant situation for Tuvok and amusing for the bridge crew. Tuvok explains that they have a business opportunity for Gar, and she says he is on his way to the gambling tournament on Selek IV.
+Meanwhile, Tebbis feels better. He asks why he got the cytoglobin, if The Doctor has done something wrong, and The Doctor lies. He says that he convinced Chellick to recalculate his TC, and he is now authorized for cytoglobin.
+The Doctor returns with more cytoglobin and asks Voje to distribute it. Voje refuses, but Tebbis volunteers. The Doctor is pleased and explains where to administer the injections. Voje helps so they will finish before they are caught.
+It isn't very long before Dysek asks The Doctor why he is prescribing unnecessary medications for his patients. The Doctor tries to explain to Dysek that the allocator distributes supplies based on the hospital's efficiency – in other words, if any supplies are left over in a given month, the next month's shipment will be correspondingly smaller. Dysek is intrigued, and when Chellick asks if there is a problem, Dysek says no; The Doctor is learning the system well.
+Voje is amazed that so many of the patients here are doing well. The Doctor takes it in stride, and tells him he will arrange for other medications to also be funneled here. Tebbis is doing much better now, and he wants The Doctor to say he is still sick so he can help. If he is declared well, he will be sent back down to the mines like his father, and will never get medical training. The Doctor says he doesn't plan to be here long enough to teach him what he needs to know about medicine, but will see what he can do.
+
+Voyager finds Gar's ship – and bio-signs – and drops out of warp right on top of him, latching on a tractor beam. Gar hails them, and when they demand The Doctor, he claims to know nothing. When he tries to break their tractor beam with a feedback pulse, Janeway just beams him to the brig.
+Meanwhile, The Doctor finds much to his dismay that Tebbis has been transferred to Level White – the morgue.
+
+
+=== Act Four ===
+The Doctor talks to Chellick who, after requiring his patient number to find him, explains that Tebbis died of untreated secondary infection. He should have died from the chromo-virus, but someone gave him unauthorized cytoglobin injections. He knows what The Doctor has been up to. After a hot debate about medical ethics, Chellick informs The Doctor that he is restricted to Level Blue, and directly connected to the allocator, who will monitor him down to the second.
+
+Tuvok is interrogating Gar, and it is not going well. He is attempting to threaten a mind meld – "an invasive, disturbing procedure" – when Neelix walks in with dinner. Gar starts eating it enthusiastically. Neelix is glad that it wasn't his cooking that made Gar sick before, and that Gar was faking his food poisoning. Then Neelix tells Gar that the dinner is based upon Talaxian wormroot. Some people react badly. He hopes Gar won't feel any symptoms from it, like painful abdominal spasms. He does, and when Tuvok calls sickbay, Neelix tells him there is an antidote, but only The Doctor is allowed to administer it. This makes Gar more cooperative. When Tuvok takes Neelix aside and asks him about ethics, Neelix says there is no physiological damage – just as there isn't during a mind meld.
+Doctor Voje is working hard on a patient when one of the nurses informs him to he must prepare the patient for discharge. Voje very angrily informs him that he discharges patients at the end of the shift and that's not over yet. The allocator immediately orders him to Level Blue to assist Doctor Dysek in surgery.
+Voje arrives to find The Doctor working quickly from patient to patient. It was he who sent for Voje. He says he needs Voje to smuggle his mobile emitter away, despite the fact the twelve patients they treated are being sent home (and will probably die). He manages to persuade him seconds before the allocator deactivates him.
+Shortly after The Doctor begins working on Level Red, Chellick considers him too much trouble and attempts to deactivate him. The Doctor swings Chellick around and injects him with the chromo-virus and blood factors from Tebbis. The Doctor plans a new lesson in empathy by making Chellick a patient on Level Red.
+
+
+=== Act Five ===
+When the allocator scans Chellick, it reads Tebbis, to whom it begins denying medication. The Doctor demands the supply of cytoglobin being used as a preventative treatment be used instead to treat every patient on this level.
+Meanwhile, Voyager finally finds the ship and The Doctor's program. Unfortunately, Torres can't get a lock, because The Doctor's program has been interfaced with the hospital ship's computer. When the ship is hailed, the allocator answers and states that Administrator Chellick is unavailable, and he is the only one authorized to speak with alien species.
+As The Doctor continues to examine Chellick, Dysek shows up. Chellick orders him to administer cytoglobin, but Dysek cannot do that, because it is not authorized for Level Red patients. Dysek is not in league with The Doctor, but his insights into the system are something he finds profound, such as resource allocations for Level Blue. One way to increase those allocations, The Doctor suggests, would be to move several of the Level Red patients – including Chellick – to Level Blue. Chellick agrees, just as Chakotay and Torres beam inside.
+Once back on Voyager, The Doctor tries to come to terms with his actions at the hospital. He gives Seven of Nine a clean bill of health during a routine scan but, before she leaves, he asks her to perform a check-up on his own program. Seven asks if there is something wrong and The Doctor replies that there is not – he only wants a routine check given that he has been off the ship for an extended period of time and interfaced with an alien computer. Seven reports that all of his systems are within acceptable parameters. The Doctor then requests that she specifically examine his ethical subroutines and admits his ulterior motive for the check-up. He explains that he intentionally poisoned a man in the interest of saving dozens of patients, an action that Seven appreciates and likens to the Borg philosophy of sacrificing individual concerns for those of a collective. The Doctor expresses that he does not wish to aspire to Borg ideals. Seven examines his ethical subroutines one last time but advises him that, unfortunately, she must also give him a clean bill of health.
+
+
+== Memorable quotes ==
+"I'm not about to perform medical services for a pair of common thieves!"
+
+- The Doctor, as Chellick and Gar haggle over his price
+
+"I thought you were withholding your services…"
+"Fortunately for these patients, I am programmed with the Hippocratic Oath."
+
+- Chellick and The Doctor, treating a badly wounded miner
+
+"Everyone's assuming he faked his illness – but I might've really made him sick!"
+"It's not as if your cooking turned him into a thief."
+"No… but if he hadn't gone to sickbay, he may never have come up with a plan to kidnap The Doctor – much less had the opportunity to do it."
+"In my experience, Neelix, men like Gar have no trouble finding opportunities to take advantage of other people."
+
+- Neelix and Janeway
+
+"Level Blue is your critical care area, I presume…"
+"Level Blue is the area where it's most critical that we provide excellent care."
+
+- The Doctor and Chellick
+
+"When you got sick last time, I thought my food was to blame – until I realized it was just a… ruse for you to get close to The Doctor. I used Talaxian wormroot as the base… I'm glad you like it. Some people react badly…"
+(Obviously beginning to) "React how?!?!"
+"Oh, dear, I hope you're not getting sick… if it's the wormroot, it's… gonna get a lot worse"
+"What've you done to me?!?!"
+(Mockingly) "The usual symptoms, are… abdominal spasms, which increase in severity for thirty hours… forty at the most… It's not fatal – horribly unpleasant, but… there's an antidote."
+(In agony) "Then give it to me!!!"
+"Unfortunately, our doctor is the only one authorized to administer it."
+
+- Neelix, using his own interrogation methods on Gar
+
+"Your actions are not only against regulations…"
+"Didn't I hear someone threaten a mind-meld?"
+"I was merely trying to encourage the suspect to be more forthcoming."
+(Looking over at Gar) "I think he's getting all the encouragement he needs!"
+
+- Tuvok and Neelix
+
+"I'm making you a patient in your own hospital!"
+
+- The Doctor, to Chellick after injecting him with the chromo-virus
+
+"I want enough cytoglobin to cure every infected patient on this level!"
+"We don't have an adequate supply…"
+"There's plenty on Level Blue!"
+"Where it's being used to prevent arterial aging."
+(Furiously) "Those people will survive without it. But a dozen people on this level won't – I will NOT let them die!"
+
+- The Doctor and an infected Chellick
+
+"That feeling you get from healing someone – infectious, isn't it?"
+
+- The Doctor, to Voje about healing the Level Red patients
+
+"It's not that, it's just… I already have a man."
+
+- Janeway, as she takes Tuvok's hand to demonstrate to the adulteress that she has no romantic interest in Gar
+
+"You were hoping your behavior was the result of a malfunction. I'm sorry, Doctor, but I must give you a clean bill of health."
+
+- Seven of Nine, to The Doctor about whether his ethical subroutines had malfunctioned; also the last line in the episode
+
+
+== Background information ==
+Filming for this episode began on 25 July 2000 [1](X) and was finished by 3 August 2000. [2](X)
+Debi A. Monahan, Gregory Itzin, and John Durbin all guest-starred in Star Trek: Deep Space Nine. Monahan played Melissa in "His Way", Itzin played Ilon Tandro in "Dax" and Hain in "Who Mourns for Morn?", and Durbin played Traidy in "A Simple Investigation".
+Among the costumes and prop items from this episode which were sold off on the It's A Wrap! sale and auction on eBay was the costume of Paul Holmquist. [3](X)
+The prop for the allocator seen in level blue in this episode later became the drink dispenser in Enterprise NX-01's mess hall on Star Trek: Enterprise.
+
+
+=== Continuity and trivia ===
+Gar is trading in iridium, which is claimed to have a very short half-life, allowing Tuvok to deduce how far away Gar could have gotten with it. This would have been a (synthetic) radioactive isotope of iridium, with a half-life ranging somewhere from 2.5 hours (195Ir) to 73.83 days (192Ir).
+After the Doctor's holo-matrix has been interfaced with the Allocator, the Allocator is able to transport his emitter as well, not just his holo-matrix.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, Paramount Home Entertainment): Volume 7.3, 4 June 2001
+As part of the VOY Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+John Kassir as Gar
+Gregory Itzin as Dysek
+Paul Scherrer as Voje
+Dublin James as Tebbis
+And
+Larry Drake as Chellick
+
+
+=== Co-stars ===
+Christinna Chauncey as Level Blue Nurse
+Stephen O'Mahoney as Med Tech
+Jim O'Heir as Husband
+John Durbin as Alien Miner
+Debi A. Monahan as Adulteress
+John Franklin as Kipp
+
+
+=== Uncredited co-stars ===
+Pam Blackwell as Dinaali patient
+Bill Blair as Jye administrator
+Brooks Bonstin as Dinaali miner
+William Daniels as Allocation Alpha (voice)
+Tarik Ergin as Ayala
+Paul Holmquist as Level Blue nurse
+Stephen Pisani as operations division officer (unconfirmed)
+Lisa Vanasco as Dinaali patient
+Unknown performers as
+Dinaali chief engineer
+Dinaali patients
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan
+Stuart Wong – stand-in for Garrett Wang and Paul Scherrer
+
+
+=== References ===
+ability; abdominal spasm; agricultural engineer; allocator; amendment; analgesic; anesthizine; antigen; arterial aging; asteroid; brig; buyer; career; Chief of Medicine; chromovirus; class T nebula; "clean bill of health"; coenzyme; consignment; cooking; cortical bypass; cytogenic; cytoglobin; dilithium; dilution; Dinaali; dozen; Dralian; Dralian vessel; dysplasia; eco-disaster; ethical subroutine; ethics (aka ethical standards); expired; faking illness; famine; Federation; feedback pulse; food poisoning; Gammadan Mining Facility (mining facility); gas pains; gesture; half-life; healer; health care (aka medical service); high stick; Hippocratic Oath; hockey; hockey glove; hockey pants; hockey skate; hockey stick; Hospital Ship 4-2; hypospray; induction unit; ion trail; iridium; irrigation; jersey; Jye; kidnapper; kilo; lateral artery; leech; level (Level Blue/Level Green/Level Red/Level White/Level Yellow); leverage; logic; lot; medical staff; music; Nausicaan; Nausicaan guard; necrobiosis; neural blocker; neural monitor; neutronics; osteal extravasation; poison; power generator; proto-humanoid; proton imaging; radius; red alert; rule of law; sample; second opinion; security protocol; Selek IV; selenide; snake oil salesman; statistics; Talaxian wormroot; Tebbis' father; Telsian; third person; tractor beam; Trauma Team Four; treatment coefficient; Velos; viremia; mind meld; warp signature; waste processor; working conditions
+
+
+=== External links ===
+"Critical Care" at Memory Beta, the wiki for licensed Star Trek works
+"Critical Care" at Wikipedia
+"Critical Care" at the Internet Movie Database

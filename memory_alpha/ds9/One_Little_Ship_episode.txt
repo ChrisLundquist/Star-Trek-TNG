@@ -1,0 +1,221 @@
+O'Brien, Dax, Bashir, and their runabout are reduced in size while investigating an anomaly. Meanwhile, the Jem'Hadar attack and commandeer the Defiant, leaving the runabout crew with no choice but to take their miniature ship inside the Defiant and help Sisko and the others recapture the vessel.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 51474.2. The Defiant has been ordered to investigate a rare subspace compression phenomenon recently discovered in Federation space. This scientific assignment is a welcome change from months of combat duty against the Dominion. Three of my officers are taking a runabout into the anomaly's vortex. The runabout and its crew will be subjected to severe spatial distortion, so we have activated a tractor beam to minimize the effect."
+Captain Benjamin Sisko and his crew are taking a break from being on the front lines in the Dominion War. Instead, the USS Defiant is investigating a recently discovered subspace compression anomaly. Unmanned probes sent into the anomaly shrunk in size and gaining an understanding of the principles behind the compression could provide Starfleet with the key to creating transwarp corridors, which would give them a significant tactical advantage over the Dominion. The runabout USS Rubicon is being sent into the anomaly, tethered to the Defiant by a tractor beam, to gather data and deliberately be shrunk down to a miniscule size. On the bridge, Major Kira Nerys finds it very hard to keep a straight face at the idea. Before entering the anomaly, Jadzia Dax calls her husband and checks on the progress of his poem, which he promises to read to her when she returns. Off the curious looks of the bridge crew, Worf sheepishly explains that it is a Klingon tradition to commemorate a momentous event by composing verse, and Dax has made him promise to do so on this occasion.
+A short while after the experiment's start, the Defiant is suddenly attacked by a Jem'Hadar attack ship. The anomaly masked the Jem'Hadar's approach until they were within weapons range, giving them the opening shot, and because the Defiant must remain tractored to the Rubicon, it is unable to raise its shields, and is soon disabled and boarded by a squad of Jem'Hadar. The tractor beam fails, and the Rubicon is lost inside the anomaly. Captain Sisko tries to reach for his phaser but is warned to surrender or be killed.
+
+
+=== Act One ===
+Aboard the Rubicon, Dax, O'Brien, and Bashir are unhurt, but many systems are damaged.
+On the Defiant's bridge, the Jem'Hadar assess the damage to the ship; the impulse engines will be repaired soon, but the warp drive has been heavily damaged, and the vessel is still in enemy space. First Kudak'Etan nonetheless declares victory for himself and his men - most of whom are the first generation of a new breed of Jem'Hadar bred to operate in the Alpha Quadrant. Kudak'Etan believes "Alpha" superior to the original "Gamma" Jem'Hadar, and frequently overrules his Gamma Second, Ixtana'Rax (despite the latter's status as an Honored Elder, with at least twenty years of combat experience).
+Kudak'Etan reports to their Vorta supervisor, Gelnon, who congratulates them and orders them to repair the warp drive with all possible speed and make their way to the nearest Dominion outpost. Their attack ship continues on its mission to the Coridan system, to surprise the Federation dilithium miners there as much as they surprised the crew of the Defiant.
+
+The Rubicon homes in on the Defiant's transponder signal. When the blast shutters are finally repaired and opened, a surprise is awaiting them: having left the anomaly by a different path, the Rubicon has not returned to its normal size. It's now less than a foot in length, and each of the crew is barely one centimeter tall.
+
+
+=== Act Two ===
+Bashir reassures O'Brien that they should be able to restore themselves by retracing their path, but first they have to reestablish contact with the Defiant. Since their communication system is still down, they decide to enter the Defiant through the aft plasma vent, hoping to have a better chance of drawing attention from the inside of the ship.
+Kudak'Etan has Sisko brought to the bridge and orders him to help repair the warp drive, but Sisko says he will need help from some of his crew. Ixtana'Rax urges the First to refuse, saying that giving Sisko access to the engine room will only give him the chance to retake the ship, and giving his officers access will only increase the risk. He is overruled again and ordered to take Sisko and four officers to Engineering.
+In the turbolift, Ixtana'Rax grabs hold of Sisko and warns him not to try anything; Sisko says he is helpless to do anything, but Ixtana'Rax snarls that he is not the fool Kudak'Etan is, and if he were in command, as he was until two days ago, Sisko would already be dead. Sisko asks what happened, and Ixtana'Rax bitterly says that Kudak'Etan and the other "Alphas" have been specially designed to fight in that Quadrant, and the Founders believe that makes them better soldiers than the Gammas, who have been unceremoniously pushed aside, even those of Ixtana'Rax's experience.
+The tiny Rubicon is navigating the impulse drive conduits, when the Jem'Hadar start up the impulse engines. O'Brien warns that if they don't find a way out of the conduit quickly, they'll be vaporized by superheated plasma.
+
+
+=== Act Three ===
+Speeding ahead of a rush of plasma, the Rubicon nudges its way out of an access hatch near the engine room. From a nook in the engine room, they watch as Sisko, Kira, Worf, and Nog go about making repairs to the warp drive. After O'Brien finishes restoring the visual sensors, he, Dax, and Bashir are able to figure out Captain Sisko's plan: Kira is the only one making actual repairs, albeit slowly, while Sisko and Worf surreptitiously reroute systems to delay the Jem'Hadar, and Nog tries to override the bridge security codes to take control of the ship from the engine room.
+Nog is smart, O'Brien explains, but under normal circumstances it will take him weeks to override the security codes. So, they can go to the bridge and try to override the controls from there, but first they need to get out of the engine room without being spotted.
+Ixtana'Rax is keeping a close eye on Sisko and the others, ordering them to instruct the Jem'Hadar engineers as they go along. Kudak'Etan enters the engine room and complains about the delay, ordering Ixtana'Rax to stop interfering and let the Starfleet officers go on working alone. When he exits the engine room, he inadvertently allows the Rubicon to follow him out the door and to the bridge without him noticing. Bashir compliments Dax on her piloting, and she tells him that if he liked that, he is going to love what is coming next.
+
+
+=== Act Four ===
+Back in engineering, Sisko and company are trying to get the job done as best as they can, pressed by time and constant Jem'Hadar surveillance. Ixtana'Rax has assigned several Jem'Hadar troops to help with repairing the warp drive, and Kira warns Sisko that she can only head-fake them for so long. When Nog says that he has still made no progress, Sisko orders Worf to plant a computer virus in the system that will destroy the ship if the warp drive is engaged.
+In another part of the ship, the Rubicon slips onto the bridge literally right under Kudak'Etan's nose, and the crew considers how best to reroute the bridge codes. O'Brien says he could reroute the encryption subprocessors manually, but he'd have to leave the runabout to do it. He isn't fond of the idea, and Bashir adds that it would be impossible for him to breathe: the oxygen molecules inside the processor housing are far too large to be absorbed by O'Brien's blood. He would just suffocate. Dax has the bright idea of beaming a bubble of the runabout's compressed air into the airtight circuitry compartment, which would allow them to work inside the compartment with a limited air supply for about twenty minutes. O'Brien insists on Bashir coming with him.
+When they beam inside the processor housing, they look at the size of the computer chips and wiring and conclude that the job might take a little longer than they thought.
+
+
+=== Act Five ===
+At first, O'Brien is lost; he can diagram the circuitry housing in his sleep, but the change in perspective is confusing him. Bashir calms him, telling him to close his eyes and imagine where they are - which works. O'Brien and Bashir barely manage to reroute the processing lines before their air runs out, and they are beamed back to the Rubicon.
+Just as Nog cracks the security codes (thanks to O'Brien and Bashir), Ixtana'Rax orders their four captive officers to step away from the consoles. Kudak'Etan appears in engineering, and Ixtana'Rax angrily reports that the warp drive has been operational for at least an hour, and the Federation officers have been stalling them.
+On the bridge, Dax, O'Brien, and Bashir wonder why Sisko hasn't acted yet; seeing that the First has been called to engineering, they realize trouble and fly down.
+Kudak'Etan orders the officers to be locked up again and orders the bridge to set a course for the Dominion outpost. Yet again, Ixtana'Rax objects, saying they need to check the system for possible sabotage, and yet again, Kudak'Etan overrules him, saying they have lost too much time already. As the warp drive is powered up, Sisko and company's only satisfaction is that they will take the Jem'Hadar with them when the ship blows up.
+But as Kudak'Etan leaves engineering, the Rubicon flies into the room. The Jem'Hadar are taken by surprise by the tiny ship and open fire, but it is too small and too fast for them to hit, while it fires photon torpedoes, which, though tiny, are still powerful enough to kill two of the soldiers. The rest of the Jem'Hadar are overpowered by the crew - Kudak'Etan is too busy trying to draw a bead on the Rubicon to notice Worf, until the Klingon steps up to his side and snaps his neck. Ixtana'Rax takes aim at Sisko as he wrestles with another Jem'Hadar, but Kira shoots him in the chest with a stolen disruptor pistol.
+Swiftly rerouting command functions to engineering, Sisko floods the rest of the ship with anesthezine gas to incapacitate the remaining Jem'Hadar, while ordering Kira to disable the virus before someone on the bridge attempts to engage the warp drive.
+As Ixtana'Rax lies dying, Sisko commiserates: he was right about Sisko, and Kudak'Etan should have listened to him. A loyal Jem'Hadar to the end, Ixtana'Rax asserts that Kudak'Etan was the First, and did not need to listen to anyone: "Obedience brings victory, and victory is..." are his last words, dying before he finishes, "life."
+The tiny Rubicon hovers in front of the victorious crew, with a miniature Jadzia blowing kisses to her husband through the viewport.
+With the Defiant back under control, the Rubicon re-enters the anomaly by its original path and returns to normal size.
+
+"Captain's log, supplemental. After completing repairs, we were able to return to the anomaly and successfully restore our runabout and its crew to their normal size. The surviving Jem'Hadar have been transferred to a Federation POW camp."
+Back on Deep Space 9, inside Quark's, Dax asks Worf to read her his poem. He warns her that he is only partly done, and makes her promise not to laugh, since he worked very hard on it. He reads from a datapad, "this is the story of a little ship that took a little trip..." and that is it. Dax struggles for a diplomatic response, then sees a look in her husband's eyes and grabs the pad, which is blank. Worf grins, and she bursts out laughing.
+
+At the bar, O'Brien and Bashir are regaling M'Pella and Morn with their recent adventure. Odo gives them a quizzical look and asks them if they're sure they both returned to their normal size; as a shapeshifter, he notices such things, and they both look a couple of centimeters off. Quark confirms this and demonstrates by showing that they are considerably shorter than M'Pella. Exchanging an alarmed look, Bashir and O'Brien rush to the infirmary. Quark and Odo step down from the level of the tables. Quark says to Odo, "and they say you don't have a sense of humor," and the two share a laugh.
+
+
+=== Log entries ===
+Captain's log, Deep Space 9, 2374
+
+
+== Memorable quotes ==
+"I don't feel any smaller."
+
+- O'Brien
+
+"I do not see what is so humorous about being small."
+"Neither do I."
+
+- Worf and Nog
+
+"Chief... you're not going to like this."
+
+- Bashir, after realizing that the Rubicon is still small
+
+"Are you telling me I'm gonna be (holds two fingers up, about five centimeters apart) this bloody tall for the rest of my life?"
+(Holds two fingers up, about half a centimeter apart) "This bloody tall, actually."
+
+- O'Brien and Bashir
+
+"This conduit is filthy, chief. Don't you ever clean up in here?"
+"All right, all right. Let's not badger the chief."
+"Thank you."
+"I'm sorry. It was very small of me."
+
+- Bashir, Dax, and O'Brien
+
+"Don't hit it too hard... you'll shatter the control panel."
+"Don't worry, I have a light touch."
+"Not according to Worf."
+
+- O'Brien, Dax, and Bashir
+
+"(as Bashir starts to sit down) Julian, stop! That chip behind you is carrying twenty microamps of electric current. Now that's not very much..."
+"...But it's enough to fry every synapse in my tiny body. Thanks for the tip."
+"All right. Stay right behind me, and don't touch anything without asking first."
+"Believe me, I won't."
+
+- O'Brien and Bashir
+
+"Obedience brings victory, and victory is..."
+
+- Ixtana'Rax's last words
+
+"Mr. Worf, I think your wife is here."
+
+- Benjamin Sisko, when the runabout and crew are reunited
+
+"This is the story of a little ship, that took a little trip."
+
+- The first (and only) line of Worf's poem
+
+"Are you sure you've returned to your normal size?"
+"Of course. Why?"
+"Well, you both appear to be a couple of centimeters shorter than you were the last time I saw you. A Changeling notices that sort of thing."
+"I didn't want to say anything, but... you do look a little on the petite side."
+"Infirmary!"
+
+- Odo, Bashir, and Quark
+
+"And they say you don't have a sense of humor."
+
+- Quark, to Odo after they both teased O'Brien and Bashir about appearing shorter since their return
+
+
+== Background information ==
+
+
+=== Story and script ===
+This episode was dubbed "Honey, I Shrunk the Runabout" behind the scenes.
+The story originated with René Echevarria. When Echevarria was still a freelancer, before he had sold the script for "The Offspring" to Star Trek: The Next Generation, he wrote a spec script about a shuttle and its occupants shrinking due to an accident and then using their newly reduced size to save the USS Enterprise-D from an occupying force. He didn't pitch the script at the time, but several years later, after he'd become a staff writer, during the sixth season of the show, he approached Jeri Taylor about doing it, but she was uninterested. When he joined Star Trek: Deep Space Nine, he pitched it to Michael Piller, but Piller was also uninterested. Then, when Ira Steven Behr took over as executive producer, Echevarria pitched it again, but, once again, it was rejected. He spent the next several years trying to convince Behr that the show had potential, and eventually Behr capitulated. (Star Trek: Deep Space Nine Companion, p. 528).
+It is revealed in this episode that the Dominion have begun producing Jem'Hadar in the Alpha Quadrant that have a different genetic makeup than the ones produced in the Gamma Quadrant. The 'Alphas,' as they are called, are supposed to be better suited for battle in the Alpha Quadrant than their predecessors, the 'Gammas.' There were plans to further develop the differences and animosity between Alpha and Gamma Jem'Hadar in later episodes, but the plotline was abandoned after this episode. No other mention of the two breeds is made. (AOL chat, 1999)
+Kira's role in the teaser of this episode was written specifically to act as a surrogate for the audience; according to Ronald D. Moore, "It is an absurd premise, and Kira's reaction acknowledges that. It's like a signal to the audience: 'This is kinda silly folks, and we know it's kinda silly, but try to run with us on this one'." (Star Trek: Deep Space Nine Companion, p. 529)
+Ira Steven Behr says of this episode, "How many shows can do a salute to Land of the Giants, to The Incredible Shrinking Man? We had to do it! We owed it to all the schlock science fiction that had come before us. If we hadn't done it, it would have been a crime - a creative crime, and, dare I say, a crime against Humanity itself." Technical adviser André Bormanis, who had to devise a 'plausible' way for it all to happen, was less sure however, "For years I'd been dreading the day the writers would decide to do some version of Fantastic Voyage. I didn't know if whether I'd want to ask for a credit or a disclaimer on the episode." (Star Trek: Deep Space Nine Companion, p. 528)
+From David Weddle to Chicago Tribune reporter Mo Ryan about a scene in a sci-fi-styled CSI episode written by Weddle and Bradley Thompson: "The scene was inspired by an experience that Brad and I had with Ron Moore [on DS9]. In "One Little Ship", Jem'Hadar board the Defiant and take the crew hostage. Ron wrote a scene in which the Jem'Hadar's leader holds one of Sisko's crew at gun point and demands that Sisko cooperate in the repair of the ship. Sisko refuses and reassures the crewmember, saying 'It's going to be all right.' The Jem'Hadar says, 'No it won't.' then blows the crew member's head off. Brad and I LOVED the audacity of that scene and the way it defied all the expectations of a 'Star Trek' episode. Ultimately, it was decided that this was inappropriate for a comedic episode. At a production meeting, Ron sadly announced he'd been forced by his superiors to take it out of the show. Brad and I always remembered that scene, and mourned its loss." [1]
+In the Star Trek: Deep Space Nine Companion, p. 531, Ira Steven Behr and René Echevarria both note that they wished they had used more comedic characters than the Jem'Hadar. Echevarria later said they should have used the Pakleds, while Behr thought they should have used Harry Mudd.
+
+
+=== Production ===
+This episode went into production before "Far Beyond the Stars", but it aired the week after, presumably due to the lengthy post-production special effects work.
+
+
+=== Reception ===
+Colm Meaney found "One Little Ship" a highlight of the season. Meaney commented: "It gave us a chance to fool around. We love to do comedy. There are some very good comic actors here. Terry is wonderful at comedy and of course René is a wonderful comic actor, so we enjoy it. Frequently in rehearsal we'll play the comedy for a bit, but it's not something that's encouraged". (Cinefantastique, volume 30, issue 9/10)
+Ronald D. Moore regretted that the conflict between the Alpha Quadrant Jem'Hadar and the Gamma Quadrant Jem'Hadar was never revisited: "We dropped the ball on that one. It sounded like a cool idea at the time and we kept telling each other that we'd follow it up eventually, but it just kinda got away from us". ("More from Moore", Star Trek Monthly issue 54)
+
+
+=== Trivia ===
+The crew of the USS Enterprise were shrunk to similar proportions as that of the USS Rubicon crew in the Star Trek: The Animated Series episode "The Terratin Incident".
+Gelnon would also appear in the subsequent episode, "Honor Among Thieves".
+Cirroc Lofton (Jake Sisko) does not appear in this episode.
+This episode is somewhat ironic, since in "A Time to Stand" Nog makes a remark about how he'd like to put a Jem'Hadar on the Defiant, then the Defiant ends up being captured by Jem'Hadar.
+Several mentions had been made about the Danube-class runabout having photon torpedo launchers, but this is the only episode in which a runabout is seen firing torpedoes.
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Special Visual Effects for a Series.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 6.7, 6 July 1998
+As part of the DS9 Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Captain Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Michael Dorn as Lt. Commander Worf
+Terry Farrell as Lt. Commander Dax
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Alexander Siddig as Doctor Bashir
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Aron Eisenberg as Nog
+Scott Thompson Baker as Kudak'Etan
+Fritz Sperberg as Ixtana'Rax
+Leland Crooke as Gelnon
+Christian Zimmerman as Lamat'Ukan
+
+
+=== Uncredited co-stars ===
+Cathy DeBuono as M'Pella
+Dorothy Hack as Bajoran woman
+David B. Levinson
+Mary Mascari as Bajoran woman
+Angus McClellan
+Mark Allen Shepherd as Morn
+Chester E. Tripp III
+Unknown performers as
+Duran'Adar
+Benzite civilian
+Caatati female
+Klingon visitor
+
+
+=== Stunt double ===
+Tom Morga as stunt double for Fritz Sperberg
+
+
+=== References ===
+accretion disk; airtight; Alphas; Alpha Quadrant; anesthezine; auto-destruct; auxiliary control; backup plan; Bajorans; Bajoran wormhole; Benzites; bipolar flow junction; blast shutters; bloodwine; "bloody"; boarding party; career; centimeter; circuit housing; class-7 warp drive; coffee cup; combat duty; command and control systems; Coridan; dabo girl; Defiant-class; Defiant class decks; Defiant, USS; distribution manifold; DNA; Dominion; door sensor; dozen; Emissary of the Prophets; engineering team; engineering theory; Excelsior-class; eyeball; Farragut, USS; Federation; Federation space; Founder; fry; gamma ray flux; Gammas; Gamma Quadrant; hemoglobin; heuristic subprocessor; Honored Elder; humor; hypoxia; Immelmann turn; interlink shunt; isolinear chip; Jem'Hadar; Jem'Hadar attack ship; ketracel-white; Klingons; landmark; lateral microbrace; leader; magnetic plasma guide; meter; microamp; miniaturization; molecule; month; "Old Man"; Operation Return; operations console; optronic circuit; oxygen; phenomenon; plasma; plasma relay; plasma vent; poetry (poem); postcard; psychological profile; Quark's; reconnaissance probe; rectilinear expansion module; Rubicon, USS; runabout; scientific assignment; sense of humor; shield generator; Seltan carnosaur; spatial distortion; subspace compression anomaly; suffocation; tesla; tracking subroutine; tractor beam; transponder; transwarp corridor; tricorder; vortex; warp signature; Yeager-type
+
+
+==== Unreferenced materials ====
+Breen; Point Barrow
+
+
+=== External links ===
+"One Little Ship" at Memory Beta, the wiki for licensed Star Trek works
+"One Little Ship" at Wikipedia
+"One Little Ship" at MissionLogPodcast.com
+"One Little Ship" script at Star Trek Minutiae
+"One Little Ship" at the Internet Movie Database

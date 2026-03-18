@@ -1,0 +1,229 @@
+A series of puzzling events on and off the holodeck lead the crew of the Enterprise to a surprising conclusion: The ship is creating its own offspring. The crew has to assist with this arduous process to ensure the survival of the emerging lifeform – and their own.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Data and Captain Picard are at the holodeck as Data is rehearsing his performance of Prospero, a character from the William Shakespeare play The Tempest. After adjusting the set lighting when Picard complains that he can hardly see the android while he is performing, they discuss the character of Prospero, when suddenly they see three lights approaching in a distance, which Data identifies as a steam-powered locomotive. When the computer fails to end the program on Picard's command, the two barely manage to get out of the train's way. After they have both fallen to the ground, Picard has received a cut on his right cheek.
+
+
+=== Act One ===
+Upon exiting, Data examines the holodeck controls and tells Captain Picard that the train originated from one of Beverly Crusher's programs, a recreation of the Orient Express. In a malfunction of the holodeck database retrieval program, the two programs somehow became linked together temporarily. Picard orders Data to run a diagnostic of the holodeck system, and to discontinue the crew's use of the holodecks just to be sure.
+In sickbay, Picard has Dr. Crusher examine him for possible injuries while discussing her program and the history of the Orient Express. Just after Crusher suggests that Picard take a trip on the Orient Express himself, Picard is hailed by Commander Riker, who reports that "all sections are ready to begin the survey." Crusher again insists that Picard ride on the Orient Express one day, stating that he'll never know who he'll meet on the famed train.
+
+"Captain's log, stardate 47869.2. After weathering an unexpected magnascopic storm in the Mekorda sector, we are continuing our search for new Federation colony sites."
+On the bridge, Riker tells Picard that they will probably find no new sites in the current systems, because most of the stars are main-sequence binaries with no M-class planets. As Picard is ordering to continue, the Enterprise suddenly goes into warp drive. Riker asks who ordered the maneuver, but Data reports that no one did. "Helm and navigation controls are not functioning. Our speed is now warp 7.3 and holding."
+Down in engineering, Geordi La Forge can only tell his inquiring captain that he does not understand what happened: "The impulse systems suddenly cut out and the warp drive just kicked in." He tries to take the warp drive off-line.
+On the bridge, Data notes that the current heading is 187 mark 4. "I am unable to determine our destination, however we are moving away from the Mekorda sector." La Forge reports that the computer has locked all the controls and he is unable to override it. In order to stop, he would have to initiate an emergency core shutdown. Riker remarks that this would leave Enterprise without warp power for over a week. While taking this in, Picard then orders La Forge to initiate the procedure. However, the ship stops immediately. Data reports: "We are no longer at warp, sir. Impulse power has resumed, all systems show normal." The Enterprise has stopped thirty billion kilometers from their previous position. Picard congratulates his chief engineer, but La Forge concedes that it wasn't him, since he didn't have time to begin the shutdown procedure. Picard tells La Forge that he wants an explanation.
+Later on, La Forge rounds up his investigation with Data on the bridge, finding only more mysteries. It shows that a theta flux distortion had been building up around the ship. The sensors were never designed to detect such distortions, yet there was a record of the distortion in the sensor log. Data reports that "one fact is clear however. The distortion was growing in strength. If we had remained at our original position 1.7 seconds longer, the distortion would have ruptured our warp core." La Forge tells Picard that if the ship had not entered warp when it did, the Enterprise would have been "blown to pieces." Picard takes this in and is at a loss for words.
+
+
+=== Act Two ===
+La Forge and Data head down to a power conduit. While crawling through the Jefferies tube, they theorize about what could have caused the Enterprise to go to warp. Data suggests a random power fluctuation, but La Forge thinks the chances of that occurring are too small. As an alternative explanation, Data suggests that the sensors somehow did pick up the distortion and engaged the warp systems to protect the ship. La Forge objects that the sensors aren't connected to the warp system. They reach the conduit, finding a strange set of tubes inside the system. La Forge states that it looks like a new circuit node, connected to at least half a dozen points of the sensor array. To Data, "it appears to be connected to several other systems as well, including the warp control circuits." When La Forge tries to access the node, it turns out to be protected by a force field. Data remarks the node "appears to be protecting itself."
+In engineering, La Forge and Data report their findings to Commander Riker. The nodes have formed all over the ship, linking all systems together, including sensors, warp control, and the defensive systems. The sensors detected the threat, which tripped the defensive systems, which in turn activated the warp engines to protect the ship. Data speculates about the magnascopic storm having had an unexpected effect on the ship's systems. The nodes are also multiplying. The more of them that are created, the more difficult it will become to keep control of the ship. Riker instructs that their "first priority is getting back control over the ship." All of the circuit connections appear to be connected to holodeck 3. Data notes "it appears to be a focal point of some kind." La Forge believes there may be a way to disable the nodes permanently, using the holodeck circuitry.
+When Riker, Data, and Worf arrive at the holodeck, Data finds it in operation, even though he had shut down the entire holodeck system earlier for a diagnostic. The holodeck has reactivated itself, and will not disengage. Data tells the others that several different holodeck programs are running simultaneously. As they enter the holodeck, Riker comments that "this should be interesting."
+
+They enter into the Orient Express. The train compartment is filled with a strange crowd of holodeck characters. There is a knight in armor, cutting figures in old papers, a hayseed, two flappers, and a gentleman sitting at a nearby table building a jigsaw puzzle. Then, an old western desperado enters the compartment from the opposite side. He takes a puzzle piece out of his pocket and puts it on the table with the other pieces. Riker says "You weren't kidding, Mister Data." Data estimates that the scene contains portions from seven distinct holodeck programs. Riker orders Data to access the affected circuits.
+A conductor enters the car, asking for the passenger's tickets. When he comes to the hayseed, the hayseed tells the conductor that he has "never been away from home. Now I'm going to Vertiform City." At first, the conductor passes the officers without taking notice of them. Data calls Riker to him and reports he has found a large concentration of nodes, connected directly to the holodeck's main power coupling. Riker orders Data to depolarize the entire holodeck grid. As they attempt to open the floor to access it, however, the conductor has returned, telling them to "get away from there." He asks the officers for their tickets. Riker explains that they left their tickets in their compartments and blames Worf for leaving them. The conductor says he doesn't "think you folks belong on this train."
+
+At that, the train engineer enters the cabin, and tells the conductor to leave the officers alone, since "they're only trying to help." The conductor orders the engineer to go back to the engine since this affair is of no concern to him. The engineer complains to the Enterprise officers that "they're all trying to hijack the train!" The hayseed wonders who is doing the driving of the train. Then, the engineer is shot by the hitman, a mafioso stepping in to the compartment from behind the engineer, and falls dead in Riker's arms.
+At that same moment in engineering, the console La Forge is working on explodes, throwing him to the floor without seriously injuring him. After being brought to his feet by Russell, he finds the navigational relay has overloaded.
+In the train, the conductor looks out the window, then operates the emergency brakes. At the same moment, the Enterprise goes back to warp, and La Forge reports to Picard that the warp controls have "completely burned out." He is not sure if he can stop the ship. Back in the train, Data says he believes that they have changed direction. The conductor, with a smile on his face, tells them that "now we're on the right track. Ladies and gentlemen, we are on our way!" The hitman comes up to the engineer's corpse and takes a brick from his uniform. The conductor urges him to "take good care of that. We can't afford to lose it." The conductor asks the officers if they will leave voluntarily; if not, they would have be to be forcibly removed. Data tells Riker that through his tricorder, he has determined that the holodeck safety protocols have been disengaged, making the hitman's weapon lethal. Riker tells his men to retreat with him.
+Back in engineering, Data and La Forge inform Picard that the number of nodes has increased considerably. Sensors, engines, replicators, and propulsion systems are all working together, almost independent of the main computer. The nodes also link all the systems through the holodeck. Data theorizes that the events on the holodeck directly affect the ship, asking La Forge whether he recognizes the pattern of the nodes' distribution. La Forge remarks that it looks a lot like Data's positronic brain, which Data confirms, concluding that the nodes are beginning to form a rudimentary neural net. "Unlikely as it may sound, I believe that the Enterprise may be forming an intelligence."
+
+
+=== Act Three ===
+In the observation lounge, Data briefs the senior staff about the current situation. He points out the similarities between the Human neocortex, his own positronic net and the nodes' current distribution, concluding with the hypothesis that the Enterprise is forming some type of intelligence. When Deanna Troi asks how this could even be possible, he explains that this is an emergent property. "The Enterprise contains a vast database, which is managed by a sophisticated computer. This complex system gives the ship many of the characteristics of a biological organism. [...] I believe a self-determining intelligence is emerging." Data also believes that "the key to understanding the ship's behavior lies in the holodeck. All of the connection nodes intersect at that location. It is clearly some kind of processing center." Troi volunteers to go to the holodeck to interact with the characters and gather clues from this to learn what is happening. Picard agrees and sends Data and Worf along with the orders to disable the nodes without damaging them – if the ship is creating an intelligence, "it deserves the same kind of respect as any other being."
+Troi, Data, and Worf enter the holodeck. Troi finds one of the ladies clinking her cup to the knight's armor in a repeating loop. The hitman and the desperado are playing cards. As Data goes off to depolarize the power grid, Troi and Worf try to distract the other people. They go to look at the puzzle, now being built by the other lady and the hayseed, which is still not quite finished. The picture on the puzzle somewhat resembles the nodes, but nobody can quite identify the picture. Worf sits down to help with the puzzle, while Troi visits the two men playing cards. She asks to be dealt in, but the hitman says it is a two-man game. Then the counselor notices that the desperado is tied around his chest. When trying to examine a brick lying on the table, the hitman grabs her hand and warns her not to touch it, it being worth "plenty." He also tells her that he has to get it to Keystone City, which is the place where "everything begins." After that, he puts his cards down and says "Gin." Troi notices the same strange picture, the same as on the puzzle, on each card.
+Worf checks on Data, who is now ready to access the power grid. At that moment, the conductor comes in announcing the next stop to be Keystone City. When he notices Worf and Data, he asks to see their tickets again. As they don't have any, they have to leave the train in Keystone City. The hitman also gets off, and Troi advises the others to follow him, as she considers the brick to be an important clue.
+The hitman disappears in the streets of Keystone City. Data manages to find an access point below a manhole cover in the street. He attempts to depolarize the holodeck grid with a low-frequency inversion field, as this may disengage the nodes without destroying them. Then Troi spots the hitman again rounding a corner, and she and Worf go after him. When Data attempts to access the hologrid, a taxi appears out of nowhere heading for his position. Data only barely manages to avoid an impact.
+
+The hitman walks to a building under construction, with a wall missing one brick in the center. Troi and Worf walk up to him, and Troi asks the man what he is doing. He comments that he is "laying the foundation." At that he places the brick in the hole, the whole wall glows for one moment, and the brick melts in perfectly with the rest. The hitman leaves, remarking that he has a train to catch.
+At that moment on the bridge, La Forge informs Picard that he cannot explain why Cargo Bay Five suddenly depressurized, but that everyone were able to get out in time and he has re-established the containment field. He also reads massive power surges and all kinds of transporter activity in the cargo bay, which prompts Picard to send him there to investigate.
+In Cargo Bay 5, La Forge finds a strange object which looks exactly like the picture on the puzzle as well as the playing cards at the holodeck, an ominous light glowing in the center of it. Picard asks him what it is, but La Forge is unable to tell him exactly what.
+
+
+=== Act Four ===
+In the meantime, back on the holodeck, Troi and Worf are discussing the strange events. Troi says "That man said he was laying a foundation." Worf replies "For what?" Troi asks Data how he is doing. Data is then seen holding off the same taxi (which is still trying to run him over) with one hand while working on the now exposed node with his other. He reports that he has "encountered a minor difficulty, counselor, but it has been dealt with." He begins to depolarize the holodeck power circuits.
+In the cargo bay, the object has by now grown halfway to about knee height. La Forge remarks that "the ship's replicators and the ship's transporter systems have merged somehow to create this." He does not know, however, what "it" is, and orders an ensign to run a full spectral analysis on the object. Then the cargo bay begins to shake and rumble, causing a large cylindrical container to fall off of a shelf. La Forge reports "massive power fluctuations. The ship is losing its structural integrity."
+Back with Troi and Worf, the holodeck also begins to shake. The brick wall collapses, almost on top of Troi. Behind the wall is a building entrance, bearing number 1136. La Forge tells Data to stop with whatever he is doing, and the trembling stops. Troi has suffered minor injuries. La Forge suggests that he and Data "ought to get together and compare notes."
+In sickbay, Crusher is treating Troi, who believes the ship was protecting itself. "Whatever it's doing, it intends to continue." La Forge thinks it has something to do with the strange object forming in the cargo bay. Troi agrees, seeing how the symbols in the holodeck all point to something being created. Picard asks his chief engineer what the object might be, but all he can tell Picard is that it is composed of silica polymers, duranium, and "a couple of other compounds we haven't been able to identify yet." Creating it however, has had a major effect on the systems. "Warp power has dropped 47 percent." Picard asks Troi if she has been able to determine anything else on the holodeck. She tells him it is full of metaphoric images, like it was having some kind of day-dream. The character could represent different systems: the engineer stands for navigation, while "the gunslinger could be the weapons system." Troi tells Picard it will be difficult to reason with the characters, since they "seem unaware of what is going on." She feels the intelligence is still in an infant state, and "the only experience it can draw on is ours, through our holodeck programs." Picard asks if there is some way to influence the characters' behavior. Troi thinks there is, and wants to go back in. La Forge argues that the safeties are still off-line, and Crusher tells her that while her injuries were not too severe this time, she could get killed if it happens again. She understands, and still wants to go. Picard agrees, and suggests they cooperate with the holodeck characters.
+Troi, Worf, and Data enter the Orient Express once again. Immediately, the conductor tells them they "don't belong on this train." Worf then shows him three tickets to Vertiform City, upon which the conductor admits that he was in error about them, and welcomes them aboard. The lights go on and off, and the train shakes. Worf asks what's going on, and the conductor tells him "the engine's running out of steam. I hope we make it to Vertiform City on time." Troi asks if they can help, and the counselor asks Worf to help the conductor and brings him to the engine room. Both leave, and the hayseed walks up to Troi, worried if they will make it to Vertiform City in time. Troi reassures him that they will and inquires about Vertiform City. The hayseed describes the city as having an all-you-can-eat restaurant with the best food around.
+At the engine, the conductor tells Worf to shovel coal into the fire, saying that he's "much obliged for [his] help." Up on the ship's bridge, Riker reports from the tactical station that warp power is back to normal. Picard asks him for their heading, and Riker tells him they are going to Tambor Beta VI, a white dwarf star. In the train, the conductor compliments Worf and tells him to keep going.
+When the Enterprise reaches the star, Riker reports the ship is "using a modified tractor beam to collect vertion particles from the star." Picard makes the connection between vertion particles and Vertiform City, and concludes this is what the ship was looking for. The ship trembles, and Riker reports that "the particles are being routed through the transporter system into Cargo Bay Five." La Forge reports that the object is absorbing vertion particles, and growing even faster than before. Also, he is "picking up internal energy," reports coherent emissions and matter conversion.
+Suddenly, something appears to be going wrong, power is fluctuating, vertion absorption rate is dropping. Riker reports "the beam has exhausted the supply of particles in the star." The energy output of the object is decreasing.
+In the engine room, the conductor is alarmed: "This was supposed to be Vertiform City. We've been on the wrong track all along." He pulls the brake lever and the train screeches to a stop, jumping off the tracks and knocking all the passengers to the floor.
+
+
+=== Act Five ===
+Worf comes to Troi and Data, who are just standing up after having been thrown to the floor, to report that "the conductor accidentally derailed the train." Data informs Picard, who is now in the cargo bay, about the accident, asking whether there had been a similar incident on the Enterprise. Picard tells him that they have had "a ship-wide shutdown. We've lost attitude control, and most systems are off-line."
+La Forge asks Picard to take a look at a PADD, explaining "When the particle beam cut off, the object was beginning to form a coherent energy matrix. The emission patterns were almost organic in nature." He concludes that the Enterprise is trying to create a lifeform. Picard asks if it will survive, but La Forge observes that its energy levels are decreasing rapidly. Unless the lifeform gets a new infusion of vertion particles as soon as possible, it might not survive. The cargo bay shakes. La Forge walks to a console and tells Picard that the systems are functioning again, and the ship is moving at warp 9. Picard and La Forge head back to the bridge.
+Back in the train, the Hayseed tells Troi, Worf, and Data that they are now heading for New Vertiform City. Data relays the information to Picard. On the bridge, Riker announces that they are heading toward the Cordannas system, the nearest white dwarf star. La Forge interrupts: "We have a problem." Even at warp 9, the system is twelve hours away, and though the object will survive that long, all energy is rerouted to propulsion, including life support, and there are only two hours of reserve oxygen. The captain orders Data to gain control over the train to stop the Enterprise, then asks for another source of vertion particles closer than the Cordannas system. La Forge reports white dwarves are the only natural source of vertion particles, but, at Picard's suggestion, he begins trying to find an artificial one.
+Back aboard the train, Data and the others attempt to go to the engine and stop the train. All other characters suddenly spring to life to stop them, the hayseed stating that they "are going nowhere."
+On the bridge, La Forge has found the MacPherson Nebula, which is a supernova remnant, and Dikon Alpha, which is a class nine pulsar. Both are close along their flight path and both can produce vertion particles if a modified photon torpedo is detonated inside them. La Forge cannot guarantee if enough vertion particles will be produced, if any at all. Picard leaves it up to La Forge to decide where to go. He decides on the nebula. Picard agrees, and tells him to "begin the torpedo modifications."
+
+On the train, Troi tells the hayseed that they understand what is happening, and want to help the holodeck characters to get to New Vertiform City. The hayseed is reluctant, but Troi convinces him. Data is allowed to go to the engine, but is stopped by the conductor and the hitman. Data argues he knows a shorter route to New Vertiform City. The hitman doesn't trust him, but the conductor grants permission, "but no funny stuff!" Data reports to Picard he has "taken control of the engine room." Picard orders Data to slow the Enterprise to impulse speed. Data adjusts the train's speed, using the brake to slow it down accordingly while the conductor remarks "I hope you know what you're doing!"
+
+The Enterprise approaches the nebula and launches the adapted torpedo. La Forge reports it is working, and that the nebula is producing vertion particles. In the train, an ecstatic conductor proclaims that they've arrived at New Vertiform City.
+
+Crusher, Picard, Riker, and La Forge are assembled in the cargo bay and observe the lifeform. Riker observes that the nodes are disappearing and systems are beginning to function normally again. Picard concludes the entire purpose of the ship's odd behavior was to bring the lifeform into being. The doctor remarks that some species die after they procreate. Then, the lifeform lifts up, disappears through the bulkheads, and exits Enterprise. On the holodeck, Worf, Troi, and Data are drinking champagne with the other characters. Then the program ends and the holodeck's grid appears.
+
+"Captain's log, supplemental. The Enterprise is back under our control. All traces of the emergent intelligence are gone, and the object it created has disappeared into space."
+Picard is drinking tea in his ready room at his desk when Data enters. He invites the captain to visit his performance of a scene from The Tempest in front of a small audience that evening. Picard asks Data what scene he will be playing, and Data tells him it will be the scene where Miranda first encounters other Human beings, since it seemed appropriate. Picard declaims: "Oh brave new world, that has such people in it."
+As Data is about to leave, he turns back around and observes that Picard "took a substantial risk by allowing the Enterprise to complete its task. [...] The object could have been dangerous." Picard argues that the formed intelligence did not only come from the ship's systems, but also from the crew's personal records, mission logs, fantasies, et cetera. "Now if our experiences with the Enterprise have been honorable, can't we trust that the sum of those experiences will be the same?"
+
+
+== Memorable quotes ==
+"Yes, yes, Data. I know about the Orient Express but what is it doing on Prospero's island?"
+
+- Picard, after he and Data nearly got run over by the Orient Express on the holodeck
+
+"I never realized you were interested in trains. Are you aware that at its peak, the Orient Express carried more than ten thousand people a year?"
+"It isn't really the train itself that I'm interested in."
+"What then?"
+"It's the experience."
+
+- Picard and Crusher
+
+"I was right. He was trying to make off with my brick."
+"Take good care of that. We can't afford to lose it."
+
+- The hitman and the conductor
+
+"Unlikely as it may sound, I believe the Enterprise may be forming an intelligence."
+
+- Data
+
+"If the Enterprise hadn't jumped into warp when it did, we would have been blown to pieces."
+
+- La Forge, on the Enterprise mysteriously going into warp by itself
+
+"Sorry, boys. You're getting off right here."
+
+- The conductor, to Worf and Data
+
+"Complex systems can sometimes behave in ways that are entirely unpredictable. The Human brain for example, might be described in terms of cellular functions and neurochemical interactions, but that description does not explain Human consciousness, a capacity that far exceeds simple neural functions. Consciousness is an emergent property."
+"In other words, something that's more than the sum of its parts."
+
+- Data and La Forge
+
+"Keep it steady. Put your back into it! That's the ticket!"
+
+- The conductor, instructing Worf how to put coal into the train's furnace
+
+"The intelligence that was formed on the Enterprise didn't just come out of the ship's systems. It came from us. From our mission records, personal logs, holodeck programs, our fantasies. Now, if our experiences with the Enterprise have been honorable, can't we trust that the sum of those experiences will be the same?"
+
+- Picard
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 17 February 1994 [1]
+Filmed: 18 February 1994 – 28 February 1994
+Premiere airdate: 9 May 1994
+First UK airdate: 12 June 1996
+
+
+=== Story ===
+The story for this episode originated from Brannon Braga's desire to create one more holodeck story prior to the series' end. After briefly considering a final Dixon Hill adventure, Braga settled on creating "the ultimate holodeck show". (Star Trek: The Next Generation Companion, 2nd ed., p. 295)
+Braga elaborated, "I felt if we were going to do another holodeck show, we should do one like we've never seen before. It's a bizarre amalgam of all the holodeck shows we've ever seen. I had in my mind this image of Dixon Hill crossed with King Arthur's Court crossed with the Old West crossed with Modern Day New York – all thrown together and our people trapped in this adventure. I thought that would be neat and ended up coming up with the concept of the ship developing a psyche. These subconscious elements of that psyche would manifest themselves on the holodeck and we have to go in and interpret the symbolism and communicate to the ship through the adventures it's portraying." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+At the time, Braga was still busy writing the finale with Ronald D. Moore. As such, Jeri Taylor called upon Joe Menosky to write the script. (Star Trek: The Next Generation Companion, 2nd ed., p. 295)
+As noted in the Star Trek: The Next Generation Companion, 2nd ed., p. 295, this was the only writing collaboration between the two writers who had a reputation as The Next Generation's most offbeat. Braga and Menosky later collaborated on many episodes of Star Trek: Voyager.
+On Menosky's initial effort, director Cliff Bole joked, "I thought Menosky mighta had a couple of mushrooms when he wrote the first script. We all read it and thought, 'Jeeesus, you can't shoot this in thirty-five days!' I mean, marvelous crazy ideas, but it had to be down-scaled." (Star Trek: The Next Generation Companion, 2nd ed., p. 295)
+Naren Shankar provided an uncredited polish which scaled down some of the fantastic elements to a more manageable level. (Star Trek: The Next Generation Companion, 2nd ed., p. 295)
+Data may have had good reason to ask for Jean-Luc Picard's insight into the character Prospero. The following year (1995), Patrick Stewart played the role of Prospero on Broadway.
+
+
+=== Production ===
+"Emergence" was filmed between Friday 18 February 1994 and Monday 28 February 1994.
+No new sets had to be constructed for the filming of this episode. The train set was a reuse from the movie Bram Stoker's Dracula, although the Edwardian interior was refurbished into the desired 1920s look. Bole commented, "That train was marvelous. If we'd built that there would have been another 120 grand that would have been subtracted from everything else." (Star Trek: The Next Generation Companion, 2nd ed., p. 295)
+Likewise, Paramount's standing New York City set was used as Keystone City. The staircase that the crew ascends, according to the sign on the back, belongs to the New York City subway's 42nd street/Times Square Station. [2]
+Stock footage from the classic film Murder on the Orient Express was used for the train. Bole recalled that he had to plead with Rick Berman for a close-up of the wheels braking. While Berman maintained that this would violate point-of-view logic in that no one would be on the holodeck to see this, Bole remarked, "The sparks coming and  all that – I had to have it! Sometimes for drama's sake you gotta break the rules, so I got away with it once." (Star Trek: The Next Generation Companion, 2nd ed., pp. 295-296)
+The emergent lifeform was a CGI animation created by Amblin Entertainment, Steven Spielberg's production company that also worked on the seaQuest DSV television series. The MacPherson Nebula was an old creation of Visual Effects Supervisor Dan Curry, who had been experimenting with laser light on plastic surfaces. (Star Trek: The Next Generation Companion, 2nd ed., p. 296)
+This episode is director Cliff Bole's 25th (and last), making him the most prolific director in TNG annals. He would go on to direct another 15 Star Trek episodes for DS9 and VOY.
+
+
+=== Reception ===
+Ron Moore remarked, "I think that holodeck stuff is a riot. The re-creation of the Orient Express alone is worth the price of admission." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 88, 26 September 1994
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+David Huddleston as The Conductor
+Vinny Argiro as The Hitman
+Thomas Kopache as The Engineer
+Arlee Reed as The Hayseed
+
+
+=== Uncredited co-stars ===
+Lena Banks as operations division ensign
+Debbie David as Russell
+Cameron as Kellogg
+Tracee Lee Cocco as Jae
+Nick Dimitri as Taxi driver
+Elliot Durant III as operations division ensign
+Keith Gearhart as operations division ensign
+Christopher Gilman as Knight in armor
+Fumiko Hamada as command division officer
+Grace Harrell as operations division officer
+Michael Moorehead as science division ensign
+Reed as Flapper
+Joycelyn Robinson as Gates
+John Tampoya as operations division ensign
+Oliver Theess as command division officer
+Dennis Tracy as Man in grey flannel suit
+Steve Whittaker as Gunslinger
+Dianne Zanuck as Flapper
+
+
+=== Stunt doubles ===
+Christine Anne Baur as stunt double for Marina Sirtis
+John Nowak as stunt double for Patrick Stewart
+Brian J. Williams as stunt double for Brent Spiner
+Unknown stunt performer as stunt double for LeVar Burton
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+19th century; act; astronomical database; atom; audience; bearing; binary star; biological organism; boiler; brake; brick; cargo bay; cell; circuit node; class 9 pulsar; coal; coherent energy matrix; colony; communications system; compartment; conductor; connection node; Cordannas system; cross section; Data 73; database retrieval program; data-flux distortion; daydream; defensive systems; Dikon Alpha; dinner; Dodge Touring Sedan; dog; duranium; earthquake; emergency core shutdown; emergent lifeform; emergent lifeform holodeck sequence; emergent property; energy matrix; engine room; engineer; Federation; flapper; flight path; force field; foundation; Freud, Sigmund; full diagnostic; full spectral analysis; gangster; gin; gunslinger; helm; hijacking; holodeck; holodeck characters; holodeck circuitry; impulse speed; impulse system; IND Eighth Avenue Line infant; inversion field; IRT Broadway-Seventh Avenue Line; Istanbul; Jefferies tube; Keystone City; knight; life support; locomotive; M class; MacPherson Nebula; magic; magnascopic storm; main sequence; Manhattan; Mekorda sector; metaphoric imagery; Miranda; mission record; modern era; navigation; navigation system; navigational relay; neocortex; Neoplatonism; neural matrix; neural net; neurochemistry; New Vertiform City; New York City Transit System; newspaper; No parking sign; Orient Express; oxygen; painting; paper doll; Paris; personal log; pharmacy; phenomenon; photon torpedo; play; polymer; positronic brain; positronic net; power coupling; power grid; processing center; Prospero; Prospero's Island; puzzle; Queens; Renaissance; replicator; reproduction; scene; sensors; sensor array; sensor log; sensor range; set; Shakespeare, William; silica; steam; Stein, Gertrude; stellar cartography; subway; Sunshine Radio System; Supernova remnant; synapse; tailor; Tambor Beta-6; taxi; Tempest, The; theta flux distortion; ticket; ticket punch; The Bronx; toast; torch; tractor beam; train; tricorder; Vertiform City; vertion; warp control; warp control circuit; warp drive; warp jump; weapon system; white dwarf
+
+
+=== External links ===
+"Emergence (episode)" at Memory Beta, the wiki for licensed Star Trek works
+"Emergence" at Wikipedia
+"Emergence" at MissionLogPodcast.com
+"Emergence" script at Star Trek Minutiae
+"Emergence" at the Internet Movie Database

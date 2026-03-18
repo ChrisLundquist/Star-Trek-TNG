@@ -1,0 +1,235 @@
+DaiMon Bok threatens the life of a son Picard never knew he had.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The USS Enterprise-D encounters an unmanned probe, unarmed, which hails Captain Jean-Luc Picard by name. The probe projects a holographic image onto the bridge of Bok, the Ferengi who tried to kill Picard six years ago. The former Ferengi DaiMon still wants revenge for killing his son, so he tells the captain he will murder his own son, Jason Vigo, to settle the score.
+
+
+=== Act One ===
+
+Picard is stunned. He orders Lieutenant Worf to put a tractor beam on the probe and has Lieutenant Commander Data start searching Federation records for Jason, starting with Miranda Vigo. He also has Commander William T. Riker find out why Bok is apparently wearing a DaiMon's uniform and how he could have possibly regained his rank. Riker soon reports the Ferengi government is busy debating an amendment to the Rules of Acquisition, so it could be a while before they hear from them. He also reports that Data has found Miranda, and she does have a son named Jason. He is now 23 years old, and he and his mother left Earth twelve years ago and settled on Camor V. Riker does not ask, but Picard answers the question: yes, he was involved with his mother in a short but very romantic relationship twenty-four years ago while on Earth for shore leave. She never said anything about being pregnant, so Bok is either wrong, or Miranda decided to raise the child alone, which wouldn't surprise Picard, as he described her as being very independent and very strong-willed. Nonetheless, Jason is in danger, and Picard has no doubt Bok will try to make good on his threat against the boy.
+Once in orbit of the Camor system, Data can find no more information; their records are scattered at best. He scans for Human life signs on the southern continent and finds eight Humans, including a male below the surface between 20 and 30 years old. When Worf detects seismic activity, Picard has him beam the boy out of there. When he meets Captain Picard, he doesn't know who he is and doesn't recognize him. After confirming he is in fact Jason Vigo, Picard slowly explains the situation, and Jason submits to a genetic test. Dr. Crusher runs the test and confirms her results – Captain Picard is indeed his father.
+
+
+=== Act Two ===
+In the captain's quarters, Jason looks at the items found on Picard's desk and examines a rare Gorlan prayer stick. He asks Picard if it is of any value. Picard says not really but to students of archaeology such as himself, it is. He tells Jason he had to hand over a very old bottle of Saurian brandy to acquire it. Jason tells him he probably got taken. Picard then tries to talk to Jason like a father, but Jason does not seem interested in having one. He considers Picard to be annoying and is somewhat resentful. He doesn't want to get to know his newfound father. Jason would rather be returned to the surface, but Picard believes that would be unwise until they have located Bok. Jason reluctantly agrees to stay on the Enterprise and Picard arranges for him to have quarters.
+Data, meanwhile, has been analyzing the probe. Bok has encrypted the probe's navigational systems, making them unable to determine where it came from. Fortunately, with the help of Geordi La Forge, they have determined several environmental conditions its hull has been exposed to. This still leaves a wide range of trajectories, but they continue to work on it.
+A transmission from DaiMon Birta on the Ferengi homeworld soon arrives, and Birta explains that Bok was relieved of command six years ago for being too unstable and dangerous and was sent to Rog Prison, from which he bought his way out two years ago. The last they knew, he was somewhere in the Dorias Cluster, an area composed of more than twenty star systems. Fortunately, given the conditions the probe suffered, La Forge and Data manage to plot its trajectory to the Xendi Sabu system, where it was launched. Picard sets a course immediately.
+While en route, he talks with Doctor Crusher about the barriers Jason is putting up. He doesn't want to force anything on him. Crusher asks Picard to keep in mind that Jason has had twenty years to be angry with his father for not being there for him. Crusher does believe it's possible Jason can get over these feelings, but Picard can't just leave Jason alone. At the same time, Counselor Deanna Troi talks to Jason in his assigned quarters, but it is clear he is more interested in her than the subject of meeting his father and the death threat against him from Bok. It is a very short discussion, but Jason would rather flirt with her than just talk to her. Troi leaves soon after and tells him he is more than welcome to drop by her office and schedule an appointment. Jason suggestively tells her he'll do that and Troi leaves as soon as she can.
+When the Enterprise drops out of warp, Picard is awakened by Bok's voice while asleep in his quarters. He suddenly opens his eyes to find Bok standing in front of him. After repeating his threat, Picard calls for security, but Bok is gone a split second later.
+
+
+=== Act Three ===
+La Forge and Worf don't find anything at first. They can tell it's not a hologram because there was nothing to generate it, and he probably wasn't being mind controlled again, as that device emanated a very specific energy signature. Soon after, Data informs Picard of Jason's criminal record: dozens of minor crimes, such as trespassing, which is related to his rock climbing activities. Data notes the embarrassed look on Picard's face and reminds him that this was the information he had requested. Picard thanks Data and walks away.
+In Ten Forward, Jason asks the guards assigned to watch him, Lieutenant Rhodes and Crewman Garvey, to back off, and, after they move away towards the entrance, hides a sudden tremor. Picard soon arrives and tries to get Jason interested with rock climbing on the holodeck, but Jason pushes him away. He says he will leave after Bok has been caught, and he sees no point in them getting acquainted.
+
+"Captain's log, Stardate 47829.1. We've been in the Xendi Sabu system for over three hours and still no sign of Bok."
+Suddenly, Worf detects another probe approaching the Enterprise. Soon, it explodes, causing no damage since the shields are up. As part of the explosion, there is a particular series of flashes, which Data sees is a message in B'Zal, a Ferengi code. Once deciphered by Data, it says "My revenge is at hand."
+Picard returns to his ready room, quite agitated. He orders a cup of Earl Grey tea from his replicator and soon Bok appears sitting in his chair. Picard tries to negotiate with him, saying he didn't know he was in Ferengi space when his son attacked the USS Stargazer, and would have withdrawn if Bok's son had told him that he was. But Bok simply wants payment for his son's life; his feelings about the matter are none of his concern and beams away.
+Just then, Lieutenant Rhodes calls Dr. Crusher to Jason's quarters, where she and Martinez find him experiencing a seizure without warning.
+
+
+=== Act Four ===
+In sickbay, Crusher examines him and finds it is Forrester-Trent syndrome, a rare neurological condition. The best she can do is halt the degeneration. She also plans to run a microcellular scan in case it was caused by a random mutation.
+After Jason leaves, Picard admits Crusher was right; he convinced himself that Jason didn't want to reach out to him. But he wishes he was part of his life, and Jason might not have a criminal record if he were there. Dr. Crusher simply advises him that the best tool of a parent is patience and that he should use the time he has well.
+Picard returns to his ready room to find Data and La Forge scanning his chair behind the desk. They have found that it resonates with a particular subspace signature. They believe it is from a subspace transporter, a technology that the Federation abandoned researching after it was considered both too unreliable and energy-intensive. Data believes that they can trace the transporter signal if Bok uses it again, but Picard is more interested in Bok's ability to kidnap Jason. La Forge hypothesizes that they could hold Jason on the ship by tying the transporters to the subspace field coils, and he tells them to make it so.
+Once they are gone, Picard decides to check up on Jason. He finds him in Holodeck 4, rock climbing. After telling Garvey and Rhodes to wait outside, he climbs up onto the same ledge Jason is on. On the rocks, they start having a better conversation than the ones they had had previously. Picard asks what happened to Jason's mother, and Jason tells him about how she heard about all the children on Camor V who became orphaned from the Cardassian war and how they didn't have anybody to take care of them, so she found a large house on the planet she could use and sheltered around forty children. Calling it a "school," she taught them reading, vegetable growing, and singing. She worked tirelessly for them and made sure they became tough enough to survive. One day, she was attacked by two men in the street for the food she was carrying, and since she wouldn't give it up, they killed her. Jason is obviously shaken up while recalling the story. Picard asks how he can be a father to him, since he and his own father were estranged. Jason still doesn't want to be his son and tries to push him away by telling him of his criminal behavior. It doesn't work. Eventually, Jason seems to be willing to accept him. That's when Dr. Crusher calls Picard to sickbay with some news about Jason.
+Meanwhile, on the bridge, a signal has been detected; Bok is using his transporter again. He locks on to Jason, and La Forge puts up a fight with the Enterprise's transporter, but before the captain can rescue Jason, Bok reestablishes his lock, and Jason disappears.
+
+
+=== Act Five ===
+Bok then beams another probe to their location and sends the message that he has Jason and is planning to kill him. Fortunately, Data traces the location of his ship, three hundred billion kilometers away. It would take twenty minutes at warp 9 to reach them. Picard asks Data if the modified transporter could create the same effect as Bok's transporters. He says yes, but it would be inadvisable to use that method of travel. That's good enough for Picard, as he brings Data along to the transporter room.
+
+With the modifications in place, the real concern is that while he can beam over to the ship, they're not sure how to bring him back. Picard, armed with a phaser, says they'll deal with it when the time comes. The modifications also mean Picard will have a longer than usual transport; Picard indicates he understands, and Data initiates the transporter.
+As Jason is negotiating for his life, Picard materializes on Bok's vessel and orders the other Ferengi to put down their weapons or he'll kill Bok where he stands. Bok demands that he lower his or he'll kill Jason, but Picard reveals the truth: Jason Vigo is not his son. He knows Bok resequenced Jason's DNA to make it appear that Picard is his father, but the technique he used was flawed, and it gave Jason a neurological disorder. When one of the other Ferengi complains about not getting the ransom, Picard says there never was one; it was only about revenge and reveals the truth about Bok losing his command and how he lied to them in order to help him on his quest for vengeance. With the Enterprise closing in, Picard promises they won't attack if he lets them go. Bok believes he's bluffing, but the captain assures him that they would cripple his ship and leave him there until the Ferengi authorities arrive. He turns to the other Ferengi and tells them their only hope to avoid arrest is to give Bok over to them and explain to them they were deceived. Tol agrees as they turn on Bok and release Jason.
+
+"Captain's log, Stardate 47831.8. At Jason's request, the Enterprise has returned to Camor V."
+Jason has decided he will return to Camor V to try to straighten out his life. As a farewell present, he receives the Gorlan prayer stick from Picard that he had looked at earlier and suggests that Picard look him up any time he finds himself in the area.
+
+
+== Memorable quotes ==
+"Jason Vigo is as good as dead. I'm going to kill your son, Picard, just like you killed mine!"
+
+- Bok
+
+"Look, Jason. I just want to talk to you because I'm the ship's counselor. If you don't want to talk to me that way, then I should leave. You're welcome to make an appointment in my office whenever you're ready."
+"I'll do just that."
+
+- Deanna Troi and Jason Vigo
+
+"I like climbing. There's something about actually having your fate in your own hands."
+
+- Picard, while climbing on the holodeck with Jason Vigo
+
+"Look, I'm sorry. I appreciate what you're trying to do, but captain... Captain? Father? Jean-Luc? I don't know what I'm supposed to call you."
+
+- Jason Vigo, while Picard attempts to get to know him
+
+"He was charged three times for petty theft, twice for disorderly conduct. He was also charged several dozen times for trespassing."
+"How is all this related?"
+"The charges were related to his climbing activities."
+
+- Data and Jean-Luc Picard, about Jason Vigo's criminal record
+
+"Let me spell it out for you. I've been in trouble since I was a teenager. I lie, I steal, I use people. I'm a criminal, that's what your son is."
+
+- Jason Vigo, to Jean-Luc Picard
+
+"Like it or not, I'm your father. I don't know what that means, I know that means something, has some connection. But one thing is clear: you'll never look at your hairline again in the same way."
+
+- Jean-Luc Picard, to Jason Vigo
+
+"Are you sure that you wouldn't like to stay on the Enterprise for a few more days?"
+"I can't. I have a life back on Camor. It's a mess, but I'd like to go back there and straighten things out."
+"I understand."
+
+- Jason Vigo and Jean-Luc Picard
+
+"Lower your weapons, or Bok is dead."
+"Lower yours or your son dies!"
+"You know as well as I do Bok, he is not my son."
+
+- Picard, explaining to Bok that he knows
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 9 February 1994 [1]
+Filmed: 10 February 1994 – 17 February 1994
+Premiere airdate: 2 May 1994
+First UK airdate: 5 June 1996
+
+
+=== Story and production ===
+The idea for this episode resulted from a conversation Jeri Taylor had with Brent Spiner and Patrick Stewart on set during the filming of "Masks". Taylor asked Stewart if there were any aspects of his character that he felt were unexplored. Stewart noted the unsatisfied vengeance of DaiMon Bok from the first season episode "The Battle". He commented, "It's always fascinated me that there is this creature running around the universe even now who despises me." Taylor gave the idea to Nick Sagan to flesh out. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+Sagan recalled, "I remembered [Bok] and I liked the kind of twisted, nasty villain he was and remembered thinking it was one of the few cool episodes first season...I figured Bok would try to get revenge against Picard's son and who would that be? Is Picard's son the ship? No, Kirk's son is the Enterprise. I decided to make it a genetically engineered pseudo son." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+Sagan noted that the original premise ("Fugue") was a lot darker than the aired episode. "The idea was that Bok had genetically engineered this kid from birth and advanced his growth and had been giving him memories of Picard abandoning him on the Stargazer. Then Bok was using one of the mind balls to give Picard these vague flashes of false memories, making him think that it was possible he had this sort of fugue-like experience where he basically abandoned his son on the Stargazer and blocked it out of his mind. I don't know if it would have ever worked or not, but it was kind of a really interesting, dark aspect and it gave you a sense of abandonment and trying to recapture this sense of a son he never had. Then it turns out that it's not that at all." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+The episode received an uncredited polish by René Echevarria. (Star Trek: The Next Generation Companion, 3rd ed., p. 294)
+Sagan had originally named the boy "Cristof", which was changed to "Daniel" by Echevarria. However, Stewart requested the name be changed to avoid using the name of his own son, who had previously appeared in "The Inner Light". (Star Trek: The Next Generation Companion, 3rd ed., p. 294)
+The Star Trek: The Next Generation Companion, 3rd ed., p. 294 notes that before Bok's plot is revealed, Picard and Jason's relationship is similar to that of Kirk and David Marcus in Star Trek II: The Wrath of Khan and Star Trek III: The Search for Spock. Nick Sagan recalled drawing on his own once estranged relationship with his father as inspiration.
+"Bloodlines" was filmed between Thursday 10 February 1994 and Thursday 17 February 1994 on Paramount Stage 8 and 9.
+Many of the names in this episode are in-jokes:
+Security officer Garvey was named after baseball player Steve Garvey. (Star Trek: The Next Generation Companion, 3rd ed., p. 294)
+Forrester-Trent syndrome was named after "The Battle" writer Larry Forrester and Trent Reznor from the rock band Nine Inch Nails. (Star Trek: The Next Generation Companion, 3rd ed., p. 294)
+Sandra Rhodes was named after an Air Force officer and Star Trek fan. (Star Trek: The Next Generation Companion, 3rd ed., p. 294)
+
+
+=== Sets and props ===
+The Kurlan naiskos can be seen in Picard's ready room. It first appeared in "The Chase" and can also be seen in "Genesis", "Preemptive Strike", and in Star Trek Generations.
+The model for Bok's probe was previously colored gray and used as Roga Danar's escape pod in "The Hunted".
+The engineering tool used by La Forge in the ready room first appeared as an interphasic scanner in the episode "Phantasms". It was also used by La Forge in "Eye of the Beholder".
+
+
+=== Continuity ===
+This episode is a sequel of sorts to the first season episode "The Battle".
+Lee Arenberg takes over the role of Bok from Frank Corsentino in this episode. He previously played the Ferengi Gral in the Star Trek: Deep Space Nine episode "The Nagus" and later played Tellarite ambassador Gral in several episodes of Star Trek: Enterprise.
+This is the only Next Generation episode to mention the Rules of Acquisition.
+
+
+=== Reception ===
+Not all of the writers were enthused at Bok's return. Ronald D. Moore commented, "I wondered if the world knew or cared if DaiMon Bok came back again. I wasn't a big fan of that or 'The Battle' and I didn't see the point of repeating "Suddenly Human" where we really nailed an interesting arc with Picard having a sort of father/son relationship." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+Sagan felt that while "Bloodlines" was an interesting episode, it wasn't as good as his previous effort, "Attached". He agreed that this one did not provide as much closure, which was important to do in a show's final season. Sagan added, "I think that "Bloodlines" is also hurt by the fact that it seemed like in the seventh season there were a lot of relatives of characters trotted out...it's like 'Oh no, who's next? Is it Guinan's third cousin?'" [2]
+However, Taylor argued that, "Patrick gives probably the most vulnerable performance of his career. He opened himself to this young man in a way that I have not seen him do. He was absolutely raw and open and hurting. I think by the power of his performance he brings this to another level of emotional intensity that takes it away from any of those other episodes." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 304)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 87, 5 September 1994
+As part of the TNG Season 7 DVD collection
+As part of the Region 2 release of the Star Trek: The Next Generation - Jean-Luc Picard Collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Ken Olandt as Jason Vigo
+Lee Arenberg as Bok
+Peter Slutsker as Birta
+
+
+=== Co-stars ===
+Amy Pietz as Lt. Rhodes
+Michelan Sisti as Tol
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Lena Banks as operations ensign
+Joe Baumann as Garvey
+Shawn Belschner as Ten Forward waiter
+Steven Boz as operations ensign
+Michael Braveheart as Martinez
+Debbie David as Russell
+Cameron as Kellogg
+Tracee Lee Cocco as Jae
+John Copage as civilian
+Debra Dilley as command ensign
+Elliot Durant III as operations ensign
+Holiday Freeman as command officer
+Bill Hagy as operations officer
+Fumiko Hamada as command officer
+Grace Harrell as civilian
+Kerry Hoyt as operations ensign
+D. Kai as sciences officer
+Ron Large as command officer
+Debbie Marsh as civilian
+Lorine Mendell as Diana Giddings
+Michael Moorehead as sciences ensign
+Keith Rayve as civilian
+Sissy Sessions as operations officer
+Noriko Suzuki as operations ensign
+Oliver Theess as command officer
+Margie Thomas as command officer
+Christina Wegler Miles as command ensign
+Unknown performers as
+Enterprise-D bridge officer (voice)
+Male civilian
+Ferengi associate 1
+Ferengi associate 2
+Young Jason Vigo (picture)
+
+
+=== Stunt doubles ===
+Dennis Madalone as stunt double for Ken Olandt
+John Nowak as stunt double for Patrick Stewart
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner and Ken Olandt
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis and Amy Pietz
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+Ken Ziff – stand-in for Lee Arenberg
+
+
+=== References ===
+2320; 2346; 2347; 2355; 2358; 2362; 2364; 2368; ability; amendment; anniversary; anti-grav harness; archaeology; artifact; B'Zal; bioscan; Bok's ship; Bok's son; botanist; Camor V (Camor system); Camorites; carrier wave; cat; class 4 pulsar; coat; criminal record; DaiMon; degenerative; diameter; dichromic nebula; disorderly conduct; DNA; Dorias Cluster; dozen; Earl Grey tea; Earth; estrangement; Federation; Ferengi; Ferengi government; Ferengi phaser; Ferengi probe; Ferengi space; first name; flight path; Forrester-Trent syndrome; Galaxy class decks; Gorlan prayer stick; gravimetric distortion; hairline; holodeck; hull; Kurlan naiskos; level 3 bioscan; light year; meter; micro-cellular scan; middle age; neurological disorder; New Gaul; number one; painting; phase dampers; phaser burn; phenomenon; Picard, Maurice; Picard and Vigo's mutual friend; quantum flux; red alert; rock climbing; Rog Prison; Rules of Acquisition; Saurian brandy; sensor range; Silvan glyph stone; signal lock; southern continent; spell; spelunking; Starfleet; statue; stray; subspace carrier wave; subspace field coil (field coil); subspace signature; subspace technology; subspace transport; subspace transporter; transport pattern; transport sequence; transporter; transporter beam; transporter system; trespassing; Vigo, Miranda; Vigo's father; Xendi Kabu system
+
+
+=== External links ===
+"Bloodlines" at Memory Beta, the wiki for licensed Star Trek works
+"Bloodlines" at Wikipedia
+"Bloodlines" at MissionLogPodcast.com
+"Bloodlines" script at Star Trek Minutiae
+"Bloodlines" at the Internet Movie Database

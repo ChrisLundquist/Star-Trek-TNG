@@ -1,0 +1,243 @@
+Investigating the disappearance of several ships, the Enterprise discovers two scientists who claim that warp drive is destructive to the fabric of subspace.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Lieutenant Commander Data arrives at Geordi La Forge's quarters to take back Spot after La Forge borrowed her temporarily to experience having a pet cat before getting one for himself – a wise precaution, as La Forge found that he was nowhere near ready for a cat as yet. Spot had completely ruined his quarters and furniture during her stay. They discuss training Spot in order to rid her of her somewhat reckless behavior, but the discussion is interrupted when Commander Riker (on the intercom) calls all senior staff to the observation lounge for a mission briefing in ten minutes. Before leaving, they try to make an attempt to get her out from under La Forge's bed, only to have Spot destroy more items in La Forge's quarters. "Training, definitely", he tells Data.
+
+
+=== Act One ===
+"Captain's log, Stardate 47310.2. We are investigating the disappearance of the medical transport Fleming somewhere in the Hekaras Corridor. Our search is complicated by the unique properties of this particular region of space."
+
+All of the senior staff are present in the observation lounge while Riker is briefing them about the disappearance of the USS Fleming, a medical transport vessel that had not been in contact with Starfleet for four days. Data continues the briefing, describing the hazardous nature of the space surrounding the Hekaras Corridor due to the abnormally intense tetryon fields surrounding the corridor. The corridor itself is free of the fields, and ships traveling at warp speed could only travel safely through the corridor in this particular region of space. Captain Picard asks how long it will take to perform a level-one search of the region, and Data replies, saying that it will take at least two days (much longer than normal) because the corridor is twelve light years in length and the interference from the tetryon fields severely limits the sensor range.
+Lieutenant Worf suggests using reconnaissance probes to supplement the sensors, but La Forge says that they would make little difference, as communication with the probes would be extremely difficult to maintain – the only viable solution would be to increase the efficiency of the sensors. Counselor Troi suggests contacting the inhabitants of Hekaras II, wondering if they had any contact with the Fleming. Riker states that he had already contacted the Hekaran government; they've had no contact with the Fleming, but they did say that in the past week, only one vessel had traveled through the corridor – a Ferengi trader. Because the Fleming's inventory included a supply of rare and valuable bio-mimetic gel, Dr. Crusher suggests the possibility that the Ferengi may have hijacked the ship or stolen the supply of the gel and destroyed the Fleming. Riker believes they should not discount that possibility, and Picard agrees. He orders Worf to initiate a search pattern for the Fleming as the Enterprise heads into the corridor.
+Sometime later, La Forge is in main engineering performing maintenance on the dilithium chamber. hoping to improve the efficiency of the warp engines. Data enters and reports to La Forge that there has been a small drop in the efficiency of the sensors, and Commander Riker wants them to examine the phase buffers. La Forge says that he will assist Data in a moment and orders Hansen to transfer an EPS conduit through the stabilizer matrix as he closes the dilithium chamber and moves over to the master systems display table. Data is curious about why La Forge is working on the warp engines, asking if something is wrong with them. La Forge replies in the negative, but Data asks why he is having the EPS conduit stabilized. La Forge says that he wants a slightly higher power conversion level even though it will not affect the engines in any way. When Data questions his motives further, he reluctantly reveals that he has been in contact with Commander Donald Kaplan, the chief engineer of the USS Intrepid and a former Starfleet Academy classmate of La Forge's. Kaplan reported the power conversion level of the Intrepid's engines was slightly higher than those on the Enterprise, which prompted La Forge to improve those on the Enterprise. Data assumes that La Forge is in competition with Kaplan, but La Forge will not admit it, saying that the Enterprise should be better than any ship in Starfleet in all respects, as it is the flagship. Eventually, he concedes that it is a matter of personal pride. When the computer reports that there has been no change in the power conversion levels, La Forge is frustrated but is unable to refuse Data, and they go to work on the sensors.
+Data and La Forge are traveling through a Jefferies tube until they arrive at a junction where La Forge works on a phase buffer, hoping to improve the sensor efficiency. There is an increase, but it is not as high as La Forge had anticipated, suggesting that one of the stages in the sensor system is out of alignment. The pair proceed to another junction, and en route, Data continues the discussion about training Spot, noting that his instruction has been "largely unsuccessful." La Forge cracks a joke, saying that using a phaser on stun should do the trick, although Data does not recognize the humor. Data and La Forge pass up another junction and find that one of the phase buffers in the third junction is out of alignment. Repairs fix the alignment, but sensor efficiency has only increased marginally. Just then, Riker calls Data on the intercom and informs him that a starship has been located on the long-range sensors and asks that he and La Forge report to the bridge. La Forge tells Data that nothing more can be done to improve the efficiency of the sensors, and they acknowledge Riker's order and make their way to the bridge.
+On the bridge, Worf reports that the Enterprise is now within visual range of the starship. When put on the viewscreen, a Ferengi vessel is shown – the same one that passed through the Hekaras Corridor a week ago. Data and La Forge arrive on the bridge; Data takes over for the operations officer, and La Forge mans the aft engineering console. La Forge reports that there are no emissions coming from the vessel's plasma vents, suggesting that its warp drive is completely inactive. Data confirms this, adding that the impulse engines are also offline and that power levels in general are low. Life support is functioning, and approximately four-hundred-and-fifty Ferengi life signs are detected on board the ship. The crew is briefly puzzled; Picard orders Worf to open hailing frequencies, but the hail goes unanswered. La Forge reports a lack of subspace emissions, suggesting that the field coils have been completely overloaded and explaining the Ferengi communications blackout and power loss. Since the Ferengi vessel's sensors are still functioning, he believes that using delta waves emitted from a deflector array could be modulated with a com signal, which the Ferengi ship could pick up. Picard proceeds with La Forge's suggestion and, as a precautionary measure, orders for the tractor beams as the Enterprise moves to transporter range. Suddenly, Worf detects rising power levels from the Ferengi vessel. The Ferengi lock weapons, and Riker quickly orders for the shields to be raised just before the Ferengi weapons fire hits the Enterprise.
+
+
+=== Act Two ===
+
+The Enterprise is hit by a second blast of weapons fire from the Ferengi vessel. Picard and Riker order phasers, targeting the Ferengi weapons array only. The Ferengi ship is quickly disabled, and the Enterprise sustains only minimal damage to Decks 5 and 7. The Ferengi vessel's power levels quickly stabilize, and their impulse engines come back on-line. Riker realizes that they were merely playing dead, waiting for the Enterprise to come in closer. Picard is curious why the Ferengi would attack his ship in the first place and opens a channel to the Ferengi ship via La Forge's jury-rigged link. The Ferengi DaiMon Prak appears through static, and Picard asks why the Enterprise was attacked. In turn, Prak is outraged, accusing the Enterprise of aggression, which led to his ship becoming disabled. Picard and Riker are confused about Prak's accusation and tell Prak the Enterprise was merely ascertaining the status of Prak's disabled vessel. Prak is skeptical about Picard's motives and threatens that the Enterprise's "attack" is an act of war, but Picard insists that there has been a misunderstanding and suggests that Prak come aboard the Enterprise to discuss the situation. Prak sees no reason to trust Picard, but the captain is determined to investigate what happened to the Ferengi ship, as it may have a connection to the disappearance of the Fleming. After Picard tells Prak that the Enterprise will leave Prak's ship stranded within the corridor if he refuses to speak with them and contact his government to come to his aid, Prak reluctantly accepts the captain's offer and transports over to the Enterprise.
+
+In the ready room, Prak reveals to Picard and Riker that his ship detected what appeared to be a Federation signal buoy and that when they approached it, it emitted a verteron pulse, immediately disabling the ship's warp drive, sensors, and communications. Prak assumed that it was a new Federation weapon, but Picard informs Prak that the Federation established the Hekaras Corridor as a safe route through the sector and that little stood to be gained from laying mines within it. Riker reinforces Picard's comment by revealing that this may not have been an isolated incident, as the Fleming had gone missing in the Corridor. Prak admits that his ship encountered a Federation ship a few days before, but it did not appear to be in any distress. Riker asks for the ship's heading, but Prak is unwilling to divulge the information so easily and strongly hints that Picard could spare some of his engineering staff to help Prak's crew with repairs to his ship in exchange for the information they gleaned on the Fleming in the ship's sensor logs. Picard understands the hint and sends an engineering team to assist Prak with his repairs in exchange for learning about the Fleming's last known heading.
+
+In his quarters, Data is still trying to train Spot as La Forge comes in, but his attempts to get Spot off his desk are unsuccessful, and he admits that it may not be possible to train her, as she may lack the necessary intelligence to respond to his commands. La Forge tells Data that he may have found another way to improve the power conversion levels of the warp engines. In main engineering, La Forge asks Data to keep the EPS flow constant while he modulates the flow of the power taps. Data informs La Forge that the procedure will only increase the conversion level by 0.8%, but La Forge knows this and that this marginal increase may be enough – Kaplan sent La Forge a subspace message saying that the Intrepid's power conversion levels are at 97.1%. After completing their work, the computer reports that the power conversion levels of the Enterprise are now at 97.2%, and La Forge is finally satisfied with "winning" his competition with Commander Kaplan.
+
+"Captain's log, supplemental. We have traced the Fleming's most likely course. It now appears that the vessel may have come to an unfortunate end."
+The Enterprise has approached a large field of debris. Picard and Data are studying the debris field on a monitor on one of the science stations on the bridge, and although the origin of the field is unknown, it is possible that the debris could be the remains of the Fleming because the debris consists mostly of duranium and poly-composite fragments (materials used in starship construction) and because the debris field contains enough mass to account for the Fleming. Picard has Ensign Gates take the Enterprise through the debris field to see if the Fleming can be positively identified. During the investigation, Data picks up a small, metallic object on the sensors. Riker guesses that it could be either a probe casing or some sort of a log recorder, but Data doubts Riker's guesses as an unusual signal is being emitted from the object. Data's tone then changes as he realizes from his console that the object is beginning to generate a verteron field. Picard immediately orders for shields to be raised and for a full reverse, but it is too late as a bright light fills the bridge, and as the light disappears, the lights on the bridge dim and several of the consoles are now dark. A damage report reveals that the warp drive has been disabled, as have the shields and all other subspace systems – the Enterprise has now fallen to the same fate as the Ferengi ship. An unidentified vessel now approaches the Enterprise with two lifeforms aboard, and the transporters of the vessel are initiated. All attempts to raise the shields fail, and red alert is raised when the Enterprise is boarded. There is a brief moment of tension as the crew does not know where the crew of the unidentified ship are going to materialize, and the moment is broken when Data announces an intruder alert. La Forge, on the intercom, calls the bridge, informing Picard that there are intruders in main engineering. Two humanoids (one male and one female) are standing in front of the now inactive warp core. La Forge asks them what they want, and the male, Rabal, says that he only wants them to listen, and the female, Serova, his sister, says that they're killing them.
+
+
+=== Act Three ===
+
+Picard, Riker, Data, La Forge, and two security guards are present with Rabal and Serova in the observation lounge. Picard wants a full explanation of their accusation due to its seriousness. Rabal, the seemingly more reasonable of the two, claims that his and Serova's research shows that warp fields are slowly damaging their region of space and that their homeworld (they are Hekarans, the inhabitants of Hekaras II) will one day be rendered uninhabitable if nothing is done to prevent the damage that they claim is being caused. Picard briefly considers what the scientists have just said, but La Forge openly shows his skepticism as he has already heard of their theories – the Federation Science Council reviewed their research several years before but dismissed it for lacking evidence. Serova explains that was because the research was only preliminary, and their original analysis was incomplete. Picard appreciates their situation but cares little for their methods in getting the Federation's attention and suggests placing a request to the Council for further research, but neither are interested in the bureaucracy that would ensue and feel that their method would have got a faster response from the Federation. Riker asks them if that was how they justified attacking their ships, but Serova does not consider it to be an attack as neither the Enterprise nor the Ferengi vessel suffered any casualties or serious damage. Rabal also adds that they dispersed the verteron probes in the Corridor merely to disable warp-driven ships and nothing more.
+Riker responds furiously at their "justification" and both scientists acknowledge that they had taken extreme measures to get the Federation's attention, but neither are going to apologize for their actions. Picard asks La Forge how long it will take to repair the warp engines but because the field coils were completely overloaded by the verteron pulse, La Forge estimates that it will take at least thirty-six hours. Serova knows exactly how the pulse disabled the warp engines and offers her assistance, which will reduce the repair time to just ten hours, but she will only assist on the condition that they review the research. Picard refuses to be forced into giving in to their demands, but due to the seriousness of their claims and the urgency of locating the Fleming, he agrees to review their research but makes it clear that his top priority is to recover the Fleming. Furthermore, he expects Serova and Rabal to assist the engineering staff in restoring the ship's systems and to deactivate all of the remaining probes within the corridor – if they refuse, they will be placed in the brig and taken to the nearest Federation starbase where they will be charged. Serova is unwilling to back down, but Rabal agrees to help Picard but insists that he review the research. Picard then orders La Forge to work with the Hekaran scientists in the effort to restore the ship's systems, although La Forge is clearly unhappy with the idea of having to work with them.
+La Forge, Serova and Rabal are working in engineering, and they restore the shields. Serova informs La Forge that the warp engines can be engaged in eight hours, but La Forge is irritated and says that even when the engines are back on-line, it will take at least a week to recalibrate them properly. Serova sarcastically apologizes for the inconvenience, saying that her concerns are more important than restoring the warp drive of the Enterprise. La Forge continues to argue with her and she soon leaves after realizing that it is of no use to continue trying to talk with him, as La Forge's mind has already been made up. Rabal asks La Forge to reconsider Serova's research, as Rabal himself was in a similar position a few years before and hopes that if he and Serova can persuade Starfleet to prohibit the use of warp drive through the corridor, they will convince the Hekarans to stop using warp drive as well, effectively isolating the Hekarans from the Federation – a sacrifice that Rabal and Serova are more than willing to make.
+In stellar cartography, Data reports his findings on the research to Captain Picard, Serova and Rabal. Using a monitor, he explains that the two scientists' theory claims that there are regions of subspace instability within the corridor and that prolonged exposure of warp field energy to these regions of subspace will caused them to rupture resulting in a subspace rift. Picard compares the theory to running up and down a carpet – eventually you will wear it out – an essentially correct analogy. Picard asks Data if the theory can be proven, but Data says that there is not enough evidence to prove it as of yet. Rabal is disappointed but Data continues by saying that the only way to determine whether or not a rift would form would be to expose a region of space within the corridor to warp field energy at least a million times greater than that normally generated by most starships. Rabal says that the effect is cumulative and that each time a vessel travels at warp through the corridor, they are one step closer to a rift forming in the corridor. Data agrees with the possibility and recommends that the Science Council sends a science vessel to the Corridor to hopefully resolve any further questions, but Serova is dissatisfied as further delays will be caused. Before he can respond, Picard is interrupted by Riker on the intercom reporting that they have located the Fleming on the long-range sensors. The vessel appears to be intact but its subspace systems are disabled, although its shields are functional. Picard says that they'll meet with the Fleming as soon as the warp drive is back online. Picard asks for Data, Serova and Rabal to put together a research proposal for the Science Council and Picard will give it his full recommendation. Data complies and Rabal gratefully thanks Picard for the opportunity, but Serova is not interested and refuses to have anything to do the proposal as delays will still be caused.
+Sometime later, La Forge returns to the bridge, reporting that the warp drive is now online, and other systems are ready. Picard orders a course to rendezvous with the Fleming, but Worf reports the Hekaran vessel is moving away, and Serova is on board. A channel is opened and Rabal asks Serova what she is doing, and she grimly replies she is giving them proof. Data informs Picard she is overloading her warp engines, inevitably leading to a warp core breach. Soon, Serova's ship explodes, and a massive purple phenomenon appears from where her ship was and grows, rapidly dwarfing the Enterprise – a subspace rift.
+
+
+=== Act Four ===
+
+The new rift is one-tenth of a light year in diameter, and high levels of tetyron radiation are emanating from it. The Fleming is now within the rift, and when Picard asks a shocked Rabal if a ship can survive within a rift, he is not certain. The Enterprise shakes from a high-energy distortion wave coming from the rift. It is secure at its current distance, but the Fleming's shields will fail within twelve hours. Riker asks whether the Enterprise can go inside the rift to recover the Fleming but using warp inside it would make the rift expand. Yet traveling below warp speed would take weeks to reach the Fleming. Picard wants better options and orders Data, La Forge, and Rabal to analyze the rift and work on a way to recover the Fleming.
+
+"Second officer's log, Stardate 47312.1. Our new sensor readings have greatly improved our understanding of the rift. However, we have been unable to find any way to counteract it."
+Data, La Forge, and Rabal find that the rift fully supports Serova's theories and that there is no way to close it or reduce the size. Data suggests finding a stable region within the rift where the Enterprise can use its warp engines, but there is none. While studying, La Forge finds a second area of subspace instability outside the rift, which should be impossible. Rabal promises to study it, while La Forge tells Picard there's no practical way to reach the Fleming in time, but Data has an idea.
+In the ready room, Data suggests to Captain Picard they coast the Enterprise into the rift by initiating a brief but intense warp pulse from their current position, where they'd be able to reach a high enough velocity to enter the rift, beam the crew of the Fleming onto the Enterprise and leave without using the warp engines inside. However, the Enterprise would only be able to stay at warp speed for two minutes before coming out of warp, giving them very little time to transport the crew of the Fleming aboard. In main engineering, La Forge and Data make their calculations and find that field saturating the nacelles with a warp field at 18.3% will give them just over two minutes of warp speed. La Forge questions how he and Data could have missed the connection between warp drive and the formation of the rift, especially as they have logged thousands of hours on the Enterprise's warp engines. He feels somewhat guilty about so readily dismissing Serova. La Forge realizes that he was taking everything personally – he looks at the warp core as something beautiful and never considered it to be so destructive. In thirty minutes, the nacelles will be fully saturated. La Forge asks Data to inform him when the process is complete and leaves engineering.
+La Forge enters Ten Forward and joins Rabal, staring at the rift. La Forge feels responsible for Serova's death and the formation of the rift, but Rabal says that La Forge was not at fault. He was confident that further research would have proved the theories were right, but Serova was unwilling to wait. The two consider where they'll go from this point, and La Forge has doubts about the Federation abandoning warp drive, as they are so dependent on it. "It won't be easy at all," Rabal replies.
+Later, they are ready. The drive will be engaged for 6.3 seconds, and a course is plotted to intercept the Fleming. La Forge initiates the warp pulse. The Enterprise jumps to warp, and six seconds later, the warp drive is disengaged as the ship enters the rift, shaken by distortions. The ship is almost at the Fleming with transporters on standby when Worf warns them the ship is engaging its warp engines. Unable to warn them due to distortions, the rift becomes more violent once the engines are active. The Enterprise is shaken, and the Fleming's systems start to fail. Worse, the rift has grown due to the warp drive – the Enterprise no longer has sufficient momentum to escape. More violent distortion waves begin to bombard the ship.
+
+
+=== Act Five ===
+The intensity of the energy distortion waves has increased by a factor of ten, now occurring every fifty-nine seconds. The Enterprise, in range, evacuates the Fleming's crew. Because the distortion waves are both more intense and frequent, the hull stress is reaching maximum tolerance. They attempt to think of a way to get out.
+
+La Forge suggests the Enterprise could clear the rift without warp engines by "surfing" the distortion waves, phase-matching the deflector shields with the EM variance of the distortion wave so they would be pulled along the wave. The next distortion wave starts to pull the ship but stops as the speed differential between the Enterprise and the wave is too great. Riker points out the hull stress is already critical and that the ship cannot take much more. Data suggests engaging impulse engines at full power to lessen the shock of the wave hitting the ship. The Enterprise is pulled along the next wave, but hull stresses are exceeding their maximum tolerance, and structural integrity fields on Decks 10 through 16 are failing. La Forge struggles to keep the Enterprise in the wave, with hull stresses at 120% of their maximum tolerance. As the Enterprise approaches its demise, the ship breaks from the wave and is thrown clear from the rift. Hull stress returns to normal.
+
+"Captain's log, Stardate 47314.5. We have been continuing our research while the Federation Council studies our reports on the subspace rift. It now appears certain that what we've seen here will have repercussions for many years to come."
+
+All the senior staff are present in the observation lounge, where La Forge and Rabal give their report. Scans of the sector have shown several more subspace instabilities, and if they are exposed to warp field energy, they too will create other subspace rifts. Rabal displays the probable locations where subspace rifts will form over the next forty years based on current warp drive patterns. Subspace rifts will occupy nearly all of the sector. Picard reads out new directives from the Federation Council on a PADD given to him by Ensign Armstrong:
+
+"Until we can find a way to counteract the warp field effect, the Council feels our best course is to slow the damage as much as possible. Therefore, areas of space found susceptible to warp fields will be restricted to essential travel only, and effective immediately, all Federation vessels will be limited to a speed of – Warp 5? – except in cases of extreme emergency."
+Worf reports the Klingons will observe the restrictions, but the Romulans will not, and Troi wonders if others will observe them, like the Ferengi or the Cardassians, but the Federation will inform all warp-capable species regardless and hope they realize it is in their best interests to take similar action. Crusher knows the warp speed limitations will prevent further rifts from forming but asks what will be done with the one that has formed. Unfortunately, there is nothing that can be done at the moment, and although Hekaras II is not in immediate danger, gravitational shifts caused by the rift have already begun to affect the planet, changing its climate. Picard informs Rabal that the Federation will be setting up a weather control matrix for Hekaras II that will suffice for now, although it will only work on a short-term basis. As the seriousness of the problem sinks in, Picard dismisses the staff while La Forge remains. Picard can't help but feel that through his forty-three years as a Starfleet officer exploring the galaxy, he was helping destroy the one thing that he held most dear: space and the races within it. La Forge confidently replies that it won't end that way and there's still time to repair the damage the warp engines had done.
+
+
+== Memorable quotes ==
+"Why is Spot under the bed?"
+"Probably because she knows if I catch her, I'm going to kill her."
+
+- Data to La Forge while he looks after Spot
+
+"Half the time, I didn't know if she was going to lick me or scratch my face off."
+
+- La Forge, on Spot
+
+"Training... definitely."
+
+- La Forge, to Data after Spot damages his quarters further
+
+"It is part of our job to retain an open mind."
+
+- Picard
+
+"How about a phaser? A low stun setting at just the right moment might do the trick..."
+"Geordi, I cannot stun my cat."
+
+- La Forge and Data, on training Spot
+
+"Hey, hey, don't you spit at me!"
+
+- Geordi La Forge, to Spot
+
+"What did she train her cat to do?"
+"She had that cat jumping into her arm on command."
+"Interesting... perhaps I could modify your sister's techniques to keep Spot from jumping on the console. Do you know how she was able to train her cat?"
+"Well, as I recall, she walked around for two months with a piece of tuna in her blouse."
+(Impressed) "Mph!"
+
+- La Forge and Data, on training cats
+
+"This is down. Down is good. This is up. Up is no."
+
+- Data, attempting to train Spot
+
+"This is the flagship. We should be better than everybody else."
+
+- La Forge
+
+"There's nothing wrong with a little friendly rivalry."
+
+- La Forge
+
+"Too bad, Mister Kaplan."
+
+- La Forge, after getting a higher power conversion rate than Commander Kaplan
+
+"There's no point in trying to talk to you. You've already decided not to listen."
+
+- Serova, in response to La Forge
+
+"They wanted proof. I'm going to give it to them... I'm sorry..."
+
+- Serova, before causing a warp core breach, killing herself, to prove that warp fields can cause subspace rifts
+
+"You know, Geordi, I spent the better part of my life exploring space. I've charted new worlds, I've met dozens of new species, and I believe that these were all valuable ends in themselves. Now it seems that... all this while, I was... helping to damage the thing that I hold most dear."
+"It won't turn out that way, Captain. We still have time to make it better."
+
+- Picard and La Forge
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 17 September 1993 [1]
+Vortex scene filmed at Image G: 10 June 1993. ("Departmental Briefing Year Five" ("Shooting Elements"), TNG Season 5 DVD special feature)
+Premiere airdate: 15 November 1993
+First UK airdate: 6 March 1996
+
+
+=== Story and production ===
+
+The episode derived from a premise Joe Menosky had created back in the sixth season, known as "Limits". Menosky's allegory for modern day environmental problems was dropped as an element from several episodes that season, including "Suspicions". (Star Trek: The Next Generation Companion, 3rd ed., p. 273)
+Jeri Taylor recalled, "This was a troubled episode from the first... We had tried it in many guises and it never worked. At the beginning of the seventh year, I sent Naren and Brannon to a big breakfast meeting of an environmental watchdog group that we have here in Hollywood and they came back inspired. Naren was so galvanized. He said, 'I want to take a crack at "Limits". I want to do this. This is important.' I agreed. It was a story I really wanted to do and I think it does make an important statement, but dramatizing a huge issue like that is always the trouble. We started down many roads. At first, we had Geordi's sister come on board to help him adjust to the death of his mother, but that seemed to muddle everything completely. We then started the whole little thread of Geordi in competition with the engineer from another ship so we could show Geordi's deeply felt belief in technology and the benefits of technology, so that he would be at war with himself when realizing that it was contributing to something disastrous."
+"When the script was written, it turned out to be very, very short and so we then started adding scenes about Data's cat. By luck, or by bad luck, all of those scenes turned out to be at the beginning of the show, so you had an episode that started very fitfully and seemed to be about Data's cat and then it took a turn and seemed to be about Geordi and his rivalry with this other guy. Then it went back to the cat and then, finally, in about the third act, the real story began and, by that point, I think people were hopelessly lost. It sort of never got back on track, but it's still an important idea and our intentions were good." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Regarding the weak link between the episode's A and B plots Shankar explained, "The slightest dramatic connection between those two is the notion that you can't control a force of nature like a cat." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Several wall displays in this episode read "RS Corridor". According to Michael Okuda, this was a mistake – the name of the Hekaras Corridor was misspelled on the graphic and then all but the last two incorrect letters were accidentally deleted. (Star Trek: The Next Generation Companion, ? ed., p. ?)
+Bio-mimetic gel was coined by science consultant André Bormanis, who based it on news that Cambridge researchers had developed a material that created small tubules that could mimic certain cellular-level biological activities and structures. (Star Trek: The Next Generation Companion, ? ed., p. ?)
+
+
+=== Continuity ===
+This was the first Star Trek episode where the maximum warp speed limitation was imposed by the Federation on all Starfleet vessels. Further references were made to the speed limit in "The Pegasus" and "Eye of the Beholder" later in the season, but has rarely been referenced since. According to the unpublished VOY Season 1 edition of the Star Trek: Voyager Technical Guide, by Rick Sternbach and Michael Okuda, it was suggested that because of the variable geometry pylons, warp fields may no longer have a negative impact on habitable worlds as established in this episode.
+This was the first episode in which Data's cat, Spot, was referred to as "she" rather than "he". Though unexplained, the cat's change in gender went on to play a significant role in TNG: "Genesis", in which she has kittens.
+The Talarian warship studio model was reused here as the Hekaran starship.
+Data's attempts to keep training Spot from not jumping onto his desk was still unsuccessful going into 2371, as shown in Star Trek Generations.
+Although the term had been used previously, the imposition of a warp "speed limit" led to the term maximum warp becoming ubiquitous in lieu a specific warp factor being stated; this was also later applied to prequel series, despite technically being an anachronism.
+
+
+=== Reception ===
+The production staff were unanimously disappointed with this episode. Michael Piller remarked, "I think this is the worst show I collaborated on this season. It certainly inspired us to have several meetings on where the season was going because I felt we were letting it slip away." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Taylor commented, "I've been on enough series and tried to do environmental issues to realize that they are so hard to dramatize, because you're talking about the ozone hole, and... it's so, so hard to make it emotional and personal and give impact on that kind of level." She praised Shankar's attempts to deal with the "doomed premise". (Star Trek: The Next Generation Companion, 3rd ed., p. 273)
+Shankar regretted that the emotional arc of Geordi's sister coming aboard was dropped rather than reworked. He admitted that the finished episode was "not one of my finer moments." (Star Trek: The Next Generation Companion, 3rd ed., p. 273)
+Braga observed, "There were preposterous moments in that show. On the other hand, we knew the risks, but we felt it was real important to at least try to do an environmental show. We struggled with making it a personal story and in the end it just didn't work as well as we wanted it to. We couldn't find a personal angle. When you limit warp drive, the rug is being pulled out from under Star Trek. I wish more time had been spent with that, and less time with Spot and cat." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 81, 6 June 1994
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Michael Corbett as Rabal
+Margaret Reed as Serova
+Lee Arenberg as Prak
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Armstrong
+Lena Banks as operations division ensign
+Brandy as Spot
+Michael Braveheart as Martinez
+Bud as Spot
+David Paul Christian as Ten Forward waiter
+Debbie David as Russell
+Tracee Lee Cocco as Jae
+Fumiko Hamada as command division officer
+Rad Milo as operations division ensign
+Monster as Spot
+Michael Moorehead as science division ensign
+Joycelyn Robinson as Gates
+Oliver Theess as command division officer
+Tyler as Spot
+Unknown performers as
+Gates (voice)
+Hansen (voice)
+Operations division officer
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+21st century; 2366; 2380; 2390; 2400; 2410; ability; accusation; act of war; analogy; animal training manual; area; bio-mimetic gel; blouse; Cardassian; carpet; casualty; chair; D'Kora-class (aka Ferengi transport, Ferengi trader); damage; damage control team; damage report; Danube 7; deck; diameter; dozen; duranium; emergency; EPS conduit; EPS discharge; EPS power flow; Federation; Federation Council; Federation Science Council; feline; feline supplement; Ferengi; Ferengi Council; field coil; Fleming; Galaxy class decks; grid search pattern; hairball; Hekaran; Hekaran government; Hekaran starship; Hekaras II; Hekaras II system; Hekaras Corridor; Hekaras sector; high energy distortion wave; impulse system; Intrepid, USS; Jefferies tube; Kaplan, Donald; Klingon; La Forge, Ariana; La Forge's cat; level 1 search; leverage; licking; life support system; medical transport; Merchant of Venice, The; meter; mining; multiphase buffer/phase buffer; nacelle; number one; plasma grid; plasma vent; playing dead; polycomposite; power conversion level; Prak's Marauder; probe casing; Putak VIII; research; reconnaissance probe; Romulan; safe passage; saucer section; science ship (aka research vessel); scratching; scratching post; ship's log recorder; signal buoy (aka signal marker); security team; sensor module; sensor range; slouch; species; speed limit; Starfleet; Starfleet Academy; structural breach; structural integrity field; Styxx; subspace rift; teapot; tetryon; thermal stabilizer; thing; training program; transporter range; transporter room; transporter system; tuna; vase; verteron; vessel; warp-capable species; warp core breach; warp driven vessel (aka warp driven ship); warp engine; warp field; warp field expert; warp speed; weather control matrix; year; Yomo System
+
+
+==== Library computer references ====
+Starship mission status: Ajax, USS; Alderaan; Alpha Laputa IV; Ambassador-class; Apollo-class; Aries, USS; Beta Cygni system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merced-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Romulan Neutral Zone; sector; Sector 21396; Sector 21538; Sector 22358; Sector 22846; Sector 22853; Sector 23079; Starbase 134; Starbase 434; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Zhukov, USS
+Spacecraft Systems Status: Bussard collector; captain's yacht; class M; gross vehicle mass; impulse engine; main shuttlebay Mars; navigational deflector; observation lounge; phaser bank; service docking port; shuttlebay 2; shuttlebay 3; torpedo launcher; umbilical connect port; Utopia Planitia; warp nacelle
+
+
+=== External links ===
+"Force of Nature" at Memory Beta, the wiki for licensed Star Trek works
+"Force of Nature" at Wikipedia
+"Force of Nature" at MissionLogPodcast.com
+"Force of Nature" script at Star Trek Minutiae
+"Force of Nature" at the Internet Movie Database

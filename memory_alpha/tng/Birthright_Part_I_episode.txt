@@ -1,0 +1,265 @@
+At Deep Space 9, Worf investigates reports that his father is still alive and an engineering accident causes Data to experience a vision of his father, Dr. Soong.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 46578.4. The Enterprise has arrived at Station Deep Space 9, to assist in the reconstruction of the Bajoran aqueduct systems damaged during the Cardassian Occupation."
+As Jean-Luc Picard and Beverly Crusher walk down Deep Space 9's Promenade, Crusher tells Picard that she is eager to visit Quark's holosuites, especially a relaxation program from Alture VII. Picard has no time for relaxation, since he is due to meet with ten Bajoran bureaucrats to discuss the repair of the Bajoran aqueducts. He and Crusher walk into one of the station's turbolifts and head to Ops. Meanwhile, Worf and Geordi La Forge are in the Replimat, eating pasta al fiorella. La Forge wants to visit the station's Ktarian antique shop, as he hears they have a 21st century plasma coil that is supposedly in perfect condition. As they eat, a Yridian is watching Worf from the upper level of the Promenade.
+
+On the Enterprise bridge, Data detects a power drain in the starboard EPS conduits in sickbay. Someone has made an unauthorized access into the computer's bio-imaging systems from his console. Commander Riker tells Data that he had better go investigate it. In sickbay, Dr. Julian Bashir is studying a strange device. When Data arrives to assess the situation, Bashir explains that the device was discovered in the Gamma Quadrant, that he believes it to be some sort of medical imaging scanner, and that the Enterprise's sickbay systems can analyze it far better and faster than his limited computer resources on Deep Space 9 can. Data suggests that they take the device to engineering and have La Forge assist them with the analysis.
+The Yridian introduces himself to Worf as Jaglom Shrek and tells him that he is a man who has information to sell. Worf confidently tells Shrek that he possesses no information he could possibly want. As Worf gets up to leave, Shrek reveals that his late father, Mogh, is in fact alive.
+
+
+=== Act One ===
+Shrek introduces himself as a broker of information. He says Mogh is being held prisoner in a Romulan prison camp. Enraged, Worf brands Shrek a liar and pins him to the wall, unwilling to believe that Mogh or any Klingon could have allowed himself to be captured at Khitomer. He threatens him for spreading lies and returns to the Enterprise.
+Worf finds that he cannot stop thinking about what Shrek told him. He verbally reprimands Ensign Lopez, and snaps at Riker. He immediately retires to his quarters and begins some mok'bara training, breaking a glass table in a fit of rage. Counselor Troi enters just after and tries to talk to him about his problem, and Worf explains that if Mogh had indeed been captured, it would dishonor his whole family line for three generations, meaning even his son Alexander would also bear the dishonor. Troi calmly tells Worf that he should not discount the possibility that his father may be alive just because he does not want it to be true. Before she leaves his quarters, Troi tells him he knows where to find her if he wants to talk about this further.
+Meanwhile in engineering, Data and La Forge attempt to input energy from the dilithium crystal chamber to the plasma inputs of Bashir's device. As they work, he finds his curiosity piqued by the android, asking him questions about how Data's miscellaneous functions allow him to seem more Human – such as how he can control the rate of his hair growth, and his circulatory and respiratory systems. Data remarks how different this is from most Humans that meet him, with Bashir focusing on Data's similarities to Humans, rather than the differences. Powering up the Gamma Quadrant device, Bashir detects an overload in its power systems from his PADD, and Data is struck by an energy discharge.
+
+Data suddenly finds himself walking down a corridor on board the Enterprise, drawn to the far-off sound of metal on metal. Exploring further, he finds a blacksmith with his back turned to Data, hammering away on a piece of metal. The blacksmith turns to Data and smiles – it is Dr. Noonien Soong, Data's creator and "father". Data awakens from his "vision" and cannot understand what he has just experienced.
+
+
+=== Act Two ===
+Conducting scans on Data, La Forge tells him that there doesn't appear to be a problem with his positronic subprocessors or circuit controllers. Data's internal diagnostics don't reveal anything wrong with his memory, and no cognitive activity. There does not appear to be an immediate scientific explanation for what Data experienced. La Forge rules out easy explanations. They disconnect the device from the dilithium chamber and Bashir suggests re-approaching the analysis given he is an exceptional machine. This prompts Data to seek out Worf, who had a vision when he was younger.
+Data finds him in Ten Forward, where he is still dwelling on his own thoughts. Despite his mood, he still engages Data in conversation. He becomes quite interested when Data explains he had a vision. Worf describes the Rite of MajQa and urges him to understand all he can from the experience, for it is very important one learn anything they can about their father, as it teaches one about themselves as well. Data thanks him and leaves. Through talking to Data, Worf ultimately realizes what he must do.
+Worf checks the station records for Shrek's transportation to the station and finds him on the second level Promenade. He "persuades" him to take him to the prison camp by holding Shrek over the railing, telling him he will take Worf there, and he will only be paid after the trip. Shrek says the prison is close to the Romulan Star Empire border, but Worf says it will be more dangerous for Shrek if he does not go.
+
+
+=== Act Three ===
+On the way to the planet in the Carraya sector, Worf determines he needs to beam down and make his way 12 hours to the camp, partly during night. Shrek has a map of the place. Worf questions him about why the planet isn't known to the Klingon Empire, but since he is only selling the information, he has not had an offer. Also, he "has his reasons." Shrek informs Worf that they will enter the Carraya sector in three hours and advises him to get some rest before they do.
+Meanwhile, Data talks to Captain Picard in his ready room about his vision; Picard suggests that rather than analyzing it from the point of view of another culture, Data should try interpreting what it means to him as an individual. Picard also urges Data to explore the image he saw in his vision, to let it excite his imagination and see where it leads him. Data thanks Picard and goes to his quarters. He starts to rapidly paint pictures of his vision.
+Worf and Shrek arrive on the Carraya IV where the prison camp is. Shrek tells him the location of the camp and he tells Worf will be back in fifty hours and gives him a homing device to help find his ship, as he will not be landing in the same area again. After this, he begins his long trek through the jungle, with distant animal cries in the background.
+
+
+=== Act Four ===
+During the trek, Worf encounters a Klingon girl bathing in a small pool, though the ridges on her forehead are somewhat different. The girl is frightened by his intrusion, but Worf asks her to wait. He says he will take her home, but she is confused, saying she is home. When a Romulan guard comes near, he asks her not to reveal him to anyone and she goes toward the camp, with Worf quietly following.
+La Forge comes to Data's quarters since they were supposed to meet. Data's paintings are as incomprehensible as the vision, but certain paintings – those of a bird, and a bird's wing – were not present in the vision. Unable to understand how he could be painting something he has never seen; Data decides to replicate the accident with the experiment with the Gamma Quadrant device. La Forge reluctantly agrees and tells Data he will go find Dr. Bashir and get him to assist.
+
+Monitored by La Forge and Bashir, Data is again struck by an energy beam and experiences another vision. He finds Soong once more, hammering a bird's wing on his anvil. Soong tells him that he has developed the capacity to dream; no man should understand his dreams, hence why they are incomprehensible. Soong tells Data he is proud of him, assuming Data has developed enough cognitive ability while in fact the dream was caused by the energy beam. He then tells Data that he is the bird; Data "flies" through the corridors from his perspective and out of the ship, before waking up in engineering.
+
+
+=== Act Five ===
+Finally understanding, he tells Bashir that there are circuits in his neural net that, until now, were dormant. It appears the plasma shock activated them prematurely, as Data believes Dr. Soong intended them to activate after he had reached a certain level of development. He intends to deactivate himself every night and dream more. Bashir mentions this could be a paper in the Starfleet Cybernetics Journal and asks to author it. Data permits it, and Bashir wishes him "sweet dreams" before departing the Enterprise for Deep Space 9.
+Meanwhile, Worf finds the Romulan prison camp and discovers a group of Klingons performing a ceremony. Taking one of them hostage briefly, he is told that his father did indeed die at Khitomer. He quickly learns that these Klingons are not treated as prisoners, but rather are living there together as a community and now that he knows of the camp's existence, he cannot be permitted to leave...
+
+TO BE CONTINUED...
+
+
+== Memorable quotes ==
+"Worf, I don't see how you can eat that stuff. It tastes like liquid polymer."
+"Delicious."
+
+- La Forge and Worf, while eating pasta al fiorella, which has been spoiled in its taste by the DS9 replicators
+
+"I must admit, Commander, I didn't think you'd be so... personable."
+
+- Julian Bashir to Data, about the android's friendly and polite ways
+
+"Did the table do something wrong?"
+"No."
+"I'm glad you weren't that hard on Ensign Lopez."
+"He made a mistake. The duty roster was inaccurate."
+"Would you like to talk about what's bothering you, or would you like to break some more furniture?"
+
+- Counselor Troi, about Worf's rather aggressive behavior
+
+"A Klingon would never allow himself to be captured. A warrior fights to the death!"
+
+- Worf after discovering his father may be alive in a Romulan prison camp
+
+"My father is dead! That Yridian is selling lies!"
+
+- Worf
+
+"Well, your creator went to a lot of trouble to make you seem Human. I find that fascinating."
+
+- Bashir to Data
+
+"Your father is a part of you... always. Learning about him teaches you about yourself. That is why, no matter where he is or what he has done... you must find him."
+
+- Worf giving Data (and himself) advice
+
+"This is not an empty jungle. There are many predators."
+"I am prepared."
+
+- Jaglom Shrek tells Worf about the jungle on Carraya IV
+
+"I am sorry to disturb you, sir."
+"Oh, not at all. I'm here studying the intricacies of Bajoran aqueduct management. I would welcome a little interruption."
+
+- Data and Picard, after Data entered Picard's ready room
+
+"I am curious Mr. Data, why are you looking at all these other cultures?" 
+"The interpretation of visions and other metaphysical experiences are almost always culturally derived, and I have no culture of my own."
+"Yes, you do. You're a culture of one, which is no less valid than a culture of one billion."
+
+- Picard and Data discussing Data interpreting his dream
+
+"Explore this image, Data. Let it... excite your imagination. Focus on it, see where it leads you. Let it inspire you."
+
+- Picard after Data's "vision" of Noonien Soong
+
+"We are not leaving here... and neither are you."
+
+- L'Kor, to Worf in the Romulan prison camp (last lines)
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 10 December 1992 [1]
+Premiere airdate: 22 February 1993
+First UK airdate: 25 October 1995
+
+
+=== Story and script ===
+The A-plot in this story derived from two separate premises. One, pitched by George Brozak, concerned captured Klingons too proud to go home. The other, from Daryl F. Mallett, Arthur Loy Holcomb, and Barbara Wallace, concerned the news that Worf's father Mogh might still be alive after Khitomer. (Star Trek: The Next Generation Companion, 2nd ed., p. 237)
+Michael Piller suggested to break the story into two parts, believing that there was too much story to tell in one episode. He commented, "Because this was season six, the season of taking risks, of not being afraid of doing things Star Trek hadn't done before, I said 'Why not do another two-parter? Why wait until the end of the season or wait for a Spock? If a story justifies being bigger than an hour, let's do it.' I had been very happy with the results of "Chain of Command" and I said to Rick we should do it and he said fine. I also felt, much mistakenly as it turned out to be, that we would be able to save money if we expanded it into two hours by using the sets twice." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273)
+When it was decided to expand the episode into two parts, the writing staff faced the challenge of finding a suitable B-plot, focusing on the character of Data. Jeri Taylor recalled, "The whole Data thing started in desperation, with our just saying, 'What can we do with Data? What haven't we done with Data?'" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273)
+Ronald D. Moore suggested Data having some kind of religious experience. Taylor noted, "It came from the Klingons sort of having a mystical, mythical, spiritual side and we thought maybe Data can have one." Brannon Braga, building on this, considered the idea of Data having a near-death experience. However, as René Echevarria explained, the idea was considered too similar to "Tapestry". As such the writing staff came up with the idea of Data dreaming. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273; Star Trek: The Next Generation Companion, 2nd ed., p. 237)
+In developing the dream imagery, Braga recalled, "I really tried to delve into Jungian archetypes and dream images that had never really been shown before." He added, "At first Michael didn't find the Data dream story very compelling and he'd had a couple of notions to fix it, namely showing a piece of the dream early on, which I had not done. His suggestions were very good and made it work." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273
+In another inteview, Braga noted, "I love that I got a chance to experiment with Data dreaming, and dream imagery. It was something I'd wanted to do for a while. There were some lovely metaphoric images in there." (Star Trek: The Next Generation 365, p. 295)
+This is the only two-part episode with a separate plot (B-plot) that ends within one part (Data's Dream Program). As noted in the Star Trek: The Next Generation Companion, 2nd ed., p. 237, many were disappointed by the lack of a follow-up in the next episode.
+Brannon Braga coined the name "Jaglom Shrek" from Henry Jaglom, an independent film director, and the old Yiddish word for "shriek". (Star Trek: The Next Generation Companion, 2nd ed., p. 237)
+
+
+=== Production ===
+
+Director Winrich Kolbe was challenged by the task of providing appropriately surreal imagery for the scenes of Data's visions. "I wanted to go all the way. I saw nothing but shades of 2001. But it was decided by the powers that be, that we would not overexpose or underexpose. If we do anything, I was told we underexpose, but this is not what I had in mind. I wanted to actually flare it out to give it that different look, but some people felt that it had been done too often and would not look good. So then I decided I'm not going to talk about my creative input anymore, I'm just going to do what I want to do." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273)
+According to composer Jay Chattaway, the dream sequence of Data was the first time an Electronic Wind Instrument was used during the production. ("Select Historical Data Year Six – Musical Directions", TNG Season 6 DVD special feature)
+Data's paintings were computer-generated collages contributed by art department staffers Alan Kobayashi, Jim Magdaleno and Michael Okuda. Kobayashi noted, "I remember Jim working on one of the paintings. It was the first digital painting onto canvas that I ever saw. I was very impressed!" (Star Trek: The Next Generation 365, p. 295; Star Trek: The Next Generation - The Continuing Mission, p. 180)
+The painting of the corridor was created by Okuda, who used Photoshop to digitally extend a photograph to be longer than the actual set. (Star Trek: The Next Generation 365, p. 295)
+
+During Data's second vision, after he turns into a bird and flies past Noonien Soong, makeup artist June Abston Haymore can be briefly seen sitting in the side corridor behind Dr. Soong. Her accidental appearance was digitally removed on the remastered Blu-ray edition but still visible in the first sequence (albeit less noticeably). This is the fifth time in TNG where a production staff member was accidentally filmed. The first was a camera operator in "The Naked Now", the second were two boom operators in "Angel One", the third was boom operator Bill Gocke in the episode "Unification II", the fourth an unnamed production staff member in "Time's Arrow", and the sixth an unknown boom operator in the episode "Journey's End".
+During Data's second dream sequence, and later on in the episode, a short "lobby" or lounge area can be seen in one of the cross corridors. It appears to be a redressed section of the engineering cross-through corridor.
+Among the costumes and props from this episode which were sold off on the It's A Wrap! sale and auction on eBay, was the costume of Jennifer Gatti. [2](X)
+
+
+=== Cast and characters ===
+Terry Farrell (Jadzia Dax) was to appear in this episode, but she was busy filming the Star Trek: Deep Space Nine episode "Move Along Home". Siddig El Fadil (Julian Bashir) appeared instead. Farrell commented "I cried. I thought I should have fallen off the rock so I could have gone over there instead of Sid disappearing, because when we were filming "Move Along Home" his character disappeared, and I was acting throughout the rest of it with Nana and Avery, and we got caught up together". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p 48)
+This episode is the second of only a handful of episodes throughout Star Trek to feature crossover appearances by characters from a spin-off series – in this case, characters from DS9 appear in TNG. A further such crossover was made near the end of TNG's run, with an appearance by Quark in "Firstborn".
+James Cromwell, who portrays Jaglom Shrek, previously played Prime Minister Nayrok of Angosia III in TNG: "The Hunted". The producers had enjoyed his performance in the earlier episode, and one of the considerations in bringing him back was that the prosthetics would make him less recognizable. (Star Trek: The Next Generation 365, p. 296; Star Trek: The Next Generation - The Continuing Mission, p. 181) Cromwell subsequently appearred as the inventor of the first warp drive, Zefram Cochrane, in Star Trek: First Contact and Hanok, a Karemma official in DS9: "Starship Down".
+This is the first time that Worf is seen aboard Deep Space 9. Worf agrees to be assigned to the station in DS9: "The Way of the Warrior".
+
+
+=== Continuity ===
+This is the Enterprise's third on-screen visit to Deep Space 9. The first and the second were featured in the DS9 pilot "Emissary". This is therefore the first time Deep Space 9 can be seen in HD as part of the TNG Remastering project.
+The Deep Space Nine theme is heard at the beginning of the episode.
+According to the stardate given for this episode, the events of this episode take place between "Q-Less" and "The Storyteller". The next five DS9 episodes after "Q-Less" have no stardate and the stardate of the next episode "Dax" places it near the end of the season.
+This is the first time that the "DS9/VOY-style" uniform is seen on TNG. It was seen once again in TNG: "Firstborn". The Enterprise crew donned the uniforms in Star Trek Generations and the uniforms were later used primarily in Star Trek: Voyager.
+This is the second episode in TNG in which a table is destroyed by a Klingon (in this case, Worf). The first occurrence was when K'Ehleyr broke a table in "The Emissary". On both occasions, Deanna Troi walked in shortly after.
+The Replimat scene with La Forge and Worf's food is a reuse of the same joke used in "Time Squared": La Forge hates the food, while Worf loves it.
+The chair in Worf's quarters was also seen in the episodes "Peak Performance", "Family", "Reunion", "Redemption", "New Ground", "Cost Of Living", "A Fistful of Datas", "Parallels", "Genesis", and "Firstborn" and was used as the command chair aboard the Tarellian starship in the first season episode "Haven". It was designed by Peter Opsvik. [3]
+This is the first of three appearances of Deep Space 9 outside of Star Trek: Deep Space Nine. The second was in VOY: "Caretaker" and the third was in LD: "Hear All, Trust Nothing"
+This marks the 6th of at least 10 instances where A Woman Holding a Balance was used as a prop; in this case, Data is describing his artistic visions and must conspicuously skip this painting as it is propped up among his own unframed creations.
+This is the first of only three occurrences of one series's credit style appearing over the sets of another, specifically the blue TNG style over DS9. The second and third are in the ENT: "In A Mirror, Darkly, Part II" and "These Are The Voyages...". The USS Enterprise appears during the credit sequence of DS9: "Trials and Tribble-ations", without a credit overlay.
+Morn is seen on the Promenade with a blue, alien woman fawning over him when Worf goes looking for Jaglom Shrek.
+Data mentions to Julian Bashir that he has had no reason to alter his hair-growing parameters, but in "The Schizoid Man", he briefly grows a beard.
+
+
+=== Reception ===
+Rick Berman stated, "It was one of my favorite shows. I loved every element of it and so did my son, Tommy... The B story and the A story were of equal importance to me, and it all clicked." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273)
+René Echevarria commented, "It was an unusual episode in that the two stories were very unconnected, but thematically they were... The scene where Worf tells Data about finding out the truth about the vision of his father is very powerful. It was one of the finest scenes in the history of Star Trek. I thought it was lovely when Worf realized he was talking about himself and it tied the two stories together and sent Worf on his journey." He concluded, "It was a very wonderful episode all the way around. Very well directed, the dream was spectacular." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 273-274)
+Brannon Braga noted, "The bird [in Data's vision] gave a great performance. It's one of our best guest stars ever. Kolbe executed the dream sequences with finesse. I was very happy that everything came together for me on that episode. The two stories resonated thematically with one another and I don't have a single complaint." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273)
+Brent Spiner enjoyed how the episode built on the character of Data. "'Birthright' was the best concept for the character in a long time. It expanded an idea really nicely. I thought the idea of Data having a dream program was inspired; and really excellent writing." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 273)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 71, 18 October 1993
+In feature-length form, as part of the UK VHS release Star Trek: The Next Generation - The Full Length TV Movies: Volume 7, catalog number VHR 4107, 10 April 1995
+As part of the TNG Season 6 DVD collection
+In feature-length form, as part of the Star Trek: The Next Generation - The Complete TV Movies collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Siddig El Fadil as Julian Bashir
+James Cromwell as Jaglom Shrek
+Cristine Rose as Gi'ral
+Jennifer Gatti as Ba'el
+And
+Richard Herd as L'Kor
+
+
+=== Uncredited co-stars ===
+June Abston Haymore as woman in corridor
+Lena Banks as operations division ensign
+Chris Blackwood as Klingon
+Steven Boz as operations division ensign
+Brandy as Spot
+Michael Braveheart as Martinez
+Bud as Spot
+Debbie David as Russell
+Tony Cruz as Lopez
+Brian Demonbreun as civilian
+Steve Diamond as Bajoran officer
+Debra Dilley as operations division ensign
+Jeannie Dreams as Human operations division ensign
+Inez Edwards as Turla
+Kevin Grevioux as Human security officer
+Gary Hunter as Romulan
+Arvo Katajisto as Torigan
+Ron Large as command officer
+Chad McCord as operations ensign
+Charles McIntosh as Ba'ktor
+Mary Meinel-Newport as Bolian
+Lorine Mendell as Diana Giddings
+Rad Milo as operations division ensign
+Monster as Spot
+Michael Moorehead as Klingon
+Robin Morselli as Bajoran
+Ted Parker as Sentith
+Irving Ross as Klingon
+Mark Allen Shepherd as Morn
+John Tampoya as operations division ensign
+Toni Taylor as Klingon
+Natalie Wood as Bailey
+Unknown performers as
+Bajoran officer
+Klingon
+Ten Forward waitress
+
+
+=== Stunt doubles ===
+Chris Doyle as stunt double for Brent Spiner
+Rusty McClennon as stunt double for Michael Dorn
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis and Cristine Rose
+Lorine Mendell – stand-in for Gates McFadden and Jennifer Gatti
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart and Richard Herd
+Dana Vitatoe – photo double for Brent Spiner
+
+
+=== References ===
+21st century; 2346; ability; analogy; anvil; arboreal needle snake; Alture VII; Alture VII relaxation program; aqueduct system; bat'leth; Bajor; Bajoran; bio-chemical lubricant; bio-imaging system; bird; blacksmith; breathing; bureaucrat; Carraya IV; Carraya sector; circuit; circuit pathway diagnostic; circulatory system; cognitive function (aka cognitive ability); Data's dream nebula; Data's dream star; David; Deep Space 9; dream; duty roster; elders; EPS conduit; field generator; Ferengi; foliage; fun; Gamma Quadrant; generation; GHE; hair; hair follicle; H'erat; hammer; hearth; holosuite; home; hour; icon; Khitomer; Khitomer Massacre; kiosk; Klingon; Klingonese; Ktarian antique; liquid polymer; medical personnel; megajoule; medical instrument; memory capacity; Merrimac, USS; metaphysics; Michelangelo; micro-hydraulic power; Mogh; mystery; Nagor; neural pathway; No'Mat; O'Brien, Miles; painting; paper; pasta al fiorella; plasma coil; pond; Promenade; protein bath; raven; Rite of MajQa; replicator; Replimat; Romulan space; Rozhenko, Alexander; Rozhenko, Helena; Rozhenko, Sergey; Rudman; sexual prowess; Soong, Noonien; Spot; Starfleet Cybernetics Journal; subprocessor; Symnay's Tomb; synthetic lifeform; Taqua Tribe; tricorder; vision; YLT-3609; Yridian; Yridian shuttle/vessel
+
+
+=== External links ===
+"Birthright" at Memory Beta, the wiki for licensed Star Trek works
+"Birthright" at Wikipedia
+"Birthright" at MissionLogPodcast.com
+"Birthright, Part I" script at Star Trek Minutiae
+"Birthright, Part I" at the Internet Movie Database

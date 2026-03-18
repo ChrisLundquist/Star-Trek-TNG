@@ -1,0 +1,330 @@
+A quantum filament disables the Enterprise, leaving Counselor Troi in command on the bridge, and various groups on different parts of the ship facing perils alone.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's Log, Stardate 45156.1. Our mission to Mudor V has been completed, and since our next assignment will not begin for several days, we are taking a welcome respite from our duties."
+In Ten Forward, Riker, Worf, Data, Chief O'Brien, and a very pregnant Keiko O'Brien are sitting at the bar discussing names for the O'Brien's baby. Miles and Keiko are arguing good-naturedly, each believing the other had agreed to name it after their respective fathers (Michael and Hiro), if it is a boy. Straight-faced, Riker advocates "William" as the perfect name. O'Brien excuses himself, patting Keiko's belly and addressing it as "Michael", telling them he's due on the bridge for a transporter simulation.
+In a cargo bay, Lieutenant Commander La Forge and Dr. Crusher are inventorying a collection of supply canisters. She is trying to convince him to audition for a part in her latest play, and he reluctantly sings a few lines of "I Am the Very Model of a Modern Major-General" from The Pirates of Penzance by Gilbert and Sullivan. He protests that he is too bashful to sing in front of other people, but Crusher insists that he is perfect, just that his musical tone was a little off, and puts his name down for the role.
+On the bridge, Counselor Troi introduces three children to Captain Picard as the winners of the school science fair, whose prize is a tour of the ship with the captain. Forcing down his usual awkwardness with children, Picard greets himself but refuses when asked by one of his charges if they can see the battle bridge or torpedo bay, instead offering to take them round less sensitive (and less interesting sounding) areas, such as the hydroponics and astrophysics laboratory, forcing a smile onto his face as he conducts the children onto a turbolift to begin the tour, passing a newly-arrived O'Brien.
+Aboard the lift, Picard tries to make conversation by asking each of the children about their respective projects. The third and oldest member of the group, Marissa Flores, is tongue-tied, and before conversation can go further, the ship is suddenly struck by an impact, and the turbolift plummets, causing the children to scream in panic. The heavy quaking is felt throughout the ship, throwing people around and causing substantial damage before it passes.
+Aboard the bridge, the crew picks themselves up off the deck and Ops officer Ensign Mandel reports an impact with a quantum filament, and warns that another one is headed for the ship. The conn officer, Lieutenant jg Monroe, only has time to warn all hands to brace for another impact before the ship is hit again and the helm console blows up in her face, sending her to the floor.
+
+
+=== Act One ===
+On the bridge, O'Brien and Troi see that Monroe is dead, most of the ship's systems, including the computer, are down and they can't contact anyone. Mandel reports to O'Brien that the turbolifts are inoperative – they are trapped on the bridge.
+In the turbolift, Picard is trapped with the three crying children. He also cannot raise anyone on his combadge, and the children assume everyone else on the ship has been killed. When Jay Gordon Graas says they are going to die too, Picard angrily tells them all to calm down – which only makes them cry harder.
+On the bridge, O'Brien reports that primary life support, main engines, and computer controls have all been disabled by the impact, and the turbolifts and communications have likewise been cut off, effectively sealing off the bridge from the rest of the ship. He also sends a distress call on automatic repeat, but doesn't even know if it is transmitting. Ensign Ro Laren squeezes through a turbolift door, having climbed up from her car which was close to the bridge when an emergency bulkhead closed just below it; the computer initiated the isolation protocol when the filament struck, thus closing all emergency bulkheads to prevent a hull breach. Mandel says that he is registering sporadic life signs throughout the rest of the ship on the primary hull. Ro asks if Mandel can detect life signs in the stardrive section, but he cannot. Ro inquires if the sensors are malfunctioning but Mandel cannot be sure without running a diagnostic. Troi is then surprised to be told by O'Brien that, with Monroe's death, she is now the commanding officer due to the fact that she, as a lieutenant commander, holds the highest rank of anyone present. Troi is bewildered, and seems unsure as to what to do. She invites suggestions from O'Brien and Ro, who suggest implementing standard emergency procedures.
+Ten Forward has been turned into a make-shift sickbay for the wounded. Data returns from a survey of the corridors and reports that heavy damage has blocked off access both to sickbay and engineering. Riker says that they have to assume no one has been left alive on the bridge, and he and Data attempt to reach engineering via a service crawlway. Worf is left in charge of Ten Forward.
+In the cargo bay, La Forge and Crusher are trying, unsuccessfully, to open the doors. When La Forge goes to a wall panel to remove a manual hand actuator, Crusher feels intense heat coming from the wall, and a panel explodes outwards, revealing a plasma fire in a damaged power conduit. Crusher warns that the fire is emitting intense radiation, which could have long-term effects if they don't put it out. La Forge says they have a more immediate problem: the cargo bay is filled with drums of quaratum, which becomes explosive when exposed to high levels of radiation.
+
+
+=== Act Two ===
+In the turbolift, Picard has no success with the lift controls. His ankle was broken in the initial fall, so his mobility is limited. To help the children overcome their fear, and pitch in to help him, he gives each of them a rank in his makeshift "crew", and pins one of his collar pips onto each of them accordingly: Marissa, the eldest, is appointed first officer (receiving two pips instead of one), and henceforth addressed as "Number One"; Jay Gordon Graas, the second oldest, is appointed science officer; and Paterson Supra, the youngest, is appointed "executive officer in charge of radishes," in reference to his science fair project.
+While crawling to engineering, Data and Riker are menaced by a coolant leak, and are forced to speed-crawl down the tunnel and seal a bulkhead behind them. They now have no choice but to go forward, but the way ahead is intimidating in itself, with electric arcs visible in the distance.
+In the cargo bay, Crusher notices that the radiation levels in the quaratum containers further away from the plasma fire are lower, so she and La Forge push the heavy containers into a corner to buy themselves more time.
+On the bridge, Ro has managed to restore power to the engineering monitoring console by dumping raw power from the phaser array into it, over O'Brien's protests that it is a completely improper procedure. She reports, with alarm, that the antimatter containment field has been damaged by the impact with the filament, and is slowly falling; when it falls to 15%, the ship will explode from a warp core breach.
+
+
+=== Act Three ===
+
+Riker and Data are halted in the crawlspace by a ½ million-amp arc of electricity in front of them. Data cannot shut off the current with the controls, and they cannot go back. Data has the idea of interrupting the flow of current with his own body to break the circuit. Alarmed, Riker says the current may destroy him; humanitarian concerns aside, he also needs Data's help to operate the computers in engineering. Data volunteers that his positronic brain has extra shielding, and could withstand the current even if the rest of his body could not. He proposes that after the current is shut down, Riker detaches Data's head and carry it with him. Due to their limited options, Riker half-heartedly agrees, so Data steps into the current, and succeeds in interrupting it. Data asks that Riker remove his ventral access panel to begin the process of removing his head from his body.
+In the turbolift, Picard helps Jay remove the ceiling hatch and climb up. Based on Jay's description of what he sees, Picard understands that the safety clamps meant to anchor the lift in an emergency are sheared away, meaning the lift will eventually break away and fall. He tells Marissa to lead the crew through the hatch and escape the lift via the shaft ladder.
+Picard says that, with his broken ankle, he would only slow them down and orders all of them to leave him behind. Exchanging a look with her crewmates, Marissa declares that they will not. Sighing, Picard accuses them of mutiny, but agrees to try. On his instructions, Marissa removes a large bundle of optical cabling from the control panel to lash them all together.
+In the cargo bay, La Forge and Crusher finish moving the quaratum containers, but the radiation levels are still rising. Frustrated, La Forge says that the only way to put out the fire would be to deprive it of oxygen – and gets an idea. If they open the exterior cargo bay door, the escaping air will blow out the containers and deprive the plasma fire of oxygen; if he and Crusher can hold on to something, they can reseal the door and reventilate the bay once the fire is put out.
+In Ten Forward, Worf and Keiko are caring for the wounded, when Keiko goes into labor. Worf points out that it's not a good time, but Keiko insists that the baby is coming whether he likes it or not.
+
+
+=== Act Four ===
+In a staff meeting in the observation lounge, Ro demands that they separate the saucer section from the rest of the ship. They cannot stop the containment field from degrading from the bridge, and it is better that they save those people in the saucer section than let the explosion claim the whole ship. O'Brien objects that some may still be alive in the stardrive section of the ship, but Ro says they can't know that for sure. Asserting her authority, Troi denies Ro's suggestion and instead tells O'Brien to transfer power to the consoles in engineering, to highlight the problem in case someone is still alive in that section and watching. After O'Brien leaves, Ro tells Troi that by not ordering the saucer separation, she will be responsible for all their deaths. Troi cooly thanks Ro for the reminder and to proceed with her orders. But after Ro leaves, Troi stays behind to consider her tough decision.
+In the turbolift shaft, Picard and the "crew" are climbing the ladder, trying to find a door they can open manually. After another door fails to respond, Paterson begins to despair, but Marissa "orders" him to steady himself. Before they can start to ascend again, the lift's clamps give way and it plunges, causing the walls of the shaft to tremble. They all cling to the ladder, and hear the crash of the lift far below. Grateful to at least be out of the lift, the crew keeps climbing. Picard suggests that they sing a song to boost their spirits, and eventually hits on "Frère Jacques" as one they all know.
+In Ten Forward, Worf is assisting Keiko, with the help of his medical tricorder and an emergency birth procedure he remembers from his Academy training. He appears flustered when Keiko starts to "deviate" from the procedure, asking him to check whether or not the baby's head is facing down.
+In the cargo bay, Crusher describes the sensations and dangers involved with vacuum exposure and explains they'll have about 25 seconds to restore the atmosphere before they collapse. The exterior door is opened, leaving only a force field keeping the air in the cargo bay. La Forge and Crusher hold on to a ladder and hold their breaths while La Forge hits the button to disengage the force field. The evacuating air blows all of the volatile barrels out into space, and the plasma fire eventually extinguishes from lack of oxygen. La Forge restores the force field and shuts the bay door, and Dr. Crusher is able to crawl to another panel and hit it before she collapses from the effects of the vacuum. She and La Forge breathe heavily in relief as air is resupplied to the cargo bay.
+
+
+=== Act Five ===
+
+On the bridge, O'Brien picks up a thermal inversion in the power coupling, and he and Ro frantically cross-connect the coupling to the transfer coils. Ro angrily tells Troi that this nearly caused the containment field to collapse. They may have stopped it this time, but if it happens again, they may not be able to prevent it, saying that it is time to leave. With more command confidence, Troi pulls rank on Ro, saying she will decide when to separate and not before, and sits down on the captain's chair.
+In the stardrive section, Riker has rigged Data's head to the controls, allowing him to raise the bulkhead to engineering. Immediately noticing that the monitors have been powered up, despite the lack of power on the rest of the deck, he deduces that the bridge is trying to show them something. When he sees the containment field is failing, he has to quickly connect Data's head to a new link, enabling him to stabilize the field with only seconds to spare. Seeing the field return to normal from the bridge monitors, Ro and O'Brien realize that someone is alive down there and disaster has been averted. Ro apologizes to Troi for her error, but Troi says she might well have been right.
+
+In a deserted corridor, a door finally opens, admitting Picard and his crew out of the turbolift shaft. Safe at last, Marissa hugs Picard gratefully, while he exchanges hearty handshakes with the two boys.
+In Ten Forward, with Worf's help, Keiko delivers her baby, which is a girl. Worf comments that she looks like Chief O'Brien, much to Keiko's amusement.
+
+"Captain's Log, supplemental. We are en route to Starbase 67 to undergo repairs. Life aboard the Enterprise is slowly returning to normal."
+Troi conducts the three children to the bridge again. Riker jokes that she must be drawn to Picard's empty chair, while Troi admits that she isn't cut out to be a captain – "first officer, maybe. I understand there aren't a lot of qualifications."
+When Picard emerges from his ready room, Marissa and the crew present him with a homemade plaque, thanking him for leading them out of the turbolift and for helping them to not be scared. Picard accepts it heartily and says he will rendezvous with them later to lead them on their promised tour, starting with the battle bridge. Returning to his ready room, he says over his shoulder, "You have the bridge, Number One," causing both Marissa and Riker to chirp, "Aye, sir!" in unison. Marissa lets out an embarrassed laugh and shrugs, but Riker grins, and Picard throws her a wink.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+
+
+== Memorable quotes ==
+"What did you do for your science projects?"
+"I planted radishes in this special dirt and they came up all weird!"
+"I see. That's very… very commendable."
+
+- Jean-Luc Picard and Paterson
+
+"I'm not sure who I feel sorry for, the captain or the kids."
+
+- Miles O'Brien, watching Picard and the children board the turbo lift
+
+"We're falling!"
+
+- Picard
+
+"Can I be an officer, too?"
+"Well let me see, uh, your science project involved radishes, did it not?"
+"Yes, sir."
+"Then I shall appoint you my executive officer in charge of radishes."
+(Big smile)
+
+- Paterson and Jean-Luc Picard
+
+(Engineering console powers up)
+"How did you do that?"
+"I've diverted power from the phaser array, and I dumped it into the engineering control system"
+"You what?"
+"Engineering station's online, Counselor."
+"But that's a completely improper procedure! You can't just dump that much raw energy into a bridge terminal without…"
+"We're not gonna get out of this by playing it safe!"
+
+- O'Brien and Ro
+
+"If it falls to fifteen percent, the field will collapse and we'll have a containment breach."
+"Which means?"
+"Which means the ship will explode."
+
+- O'Brien, Troi, and Ro
+
+"The bridge will be sending a rescue party as soon as possible, so I want you all to stop crying!"
+
+- Picard, to the children
+
+"Let me get this straight; you want me to take off your head?"
+"Yes, sir."
+
+- Riker and Data
+
+"We will separate the ship when I decide that it's time, and not before. Is that clear, Ensign?"
+"Yes. Perfectly."
+
+- Deanna Troi and Ro Laren
+
+"A remarkable experience, Commander."
+
+- Data, to Riker after being electrocuted
+
+"Geordi…"
+"Yeah?"
+"This wall is hot."
+
+- Beverly Crusher, to Geordi La Forge
+
+"No, I mean contractions… I'm going into labor!"
+"You cannot. This is not a good time, Keiko."
+
+- Keiko O'Brien and Worf
+
+"By not separating the ship now, you could be responsible for all our deaths."
+"Thank you, Ensign. Proceed."
+
+- Ro and Troi, arguing about whether or not to separate from the drive section before the containment field collapses
+
+"Your contractions are now only thirty seconds apart. Dilation has increased to seven centimeters since the onset of labor. That did not take long."
+"That's easy for you to say!"
+
+- Worf and Keiko
+
+"Congratulations, you are fully dilated to ten centimeters. You may now give birth."
+"That's what I've been doing!"
+
+- Worf and Keiko
+
+"The computer simulation was not like this. That delivery was very orderly."
+"Well, I'm sorry!"
+
+- Worf and Keiko, during the birth of Molly O'Brien
+
+"Push, Keiko. Push. Push! PUSH!"
+"I AM PUSHING!"
+
+- Worf and Keiko, during the birth of Molly
+
+"I will smack the child to induce breathing."
+
+- Worf, after Molly's birth
+
+"You must hurry, Commander. The containment field has dropped to sixteen percent."
+"I'm trying. You need a bigger head."
+
+- Data, while Riker tries to route commands for the Enterprise's containment field to his head
+
+"Marissa, is there a song you sing at school?"
+"Umm, "The Laughing Vulcan and His Dog?""
+"…I'm afraid I don't know that one."
+
+- Picard and Marissa
+
+"You have the bridge, Number One."
+"(in unison) Aye, sir."
+
+- Picard, William T. Riker, and Marissa (last lines)
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 12 August 1991
+Filmed: 16 August 1991 – 27 August 1991
+Second unit filming of insert footage: 28 August 1991
+Additional second unit inserts filming of more insert footage: 3 October 1991
+Premiere airdate: 21 October 1991
+First UK airdate: 18 January 1995
+
+
+=== Story and script ===
+Jeri Taylor commented that this episode "was pitched by a couple of outside writers and it's something we had never done before. I believe in variety. I think that it freshens a series. If you see the same story week after week it becomes deadly dull…I'm very much for breaking formula, changing something and doing a different kind of story. It was let's do something different – stop them dead in space and give them lots of problems." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+Teleplay writer Ronald D. Moore recalled, "I thought let's just have fun with it. We put our people in interesting and fun situations. It was nice to put Troi in the captain's chair and Picard in the elevator shaft. It was very episodic, and I remember the best moment was when we were breaking the story. Michael left the room and we were looking at different elements – Data and Riker in the powertube, in particular – and somebody said, 'What if Riker takes Data's head off?' Michael came back in and we said, 'You're going to hate this, but what if we took his head off?', and he laughed and rolled his eyes and said, 'Do it. No one will let us do it, but go ahead, it'll be fun.' I wrote it and Rick [Berman] never said a word. It's amazing that we got away with it." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+Moore remembered, "The Worf plot came out of our constant search for things to cut against his fierce, hyper-masculine Klingon nature. We all fell in love with the idea of him being the guy who delivers the baby. And Michael Dorn liked doing comedic stuff. I think he got tired of us beating him up all the time." (Star Trek: The Next Generation 365, p. 225)
+Originally, Moore planned for it to rain in the turboshaft, inspired by reports of weather forming in NASA's enormous Vehicle Assembly Building. Moore placed Picard in the shaft so that he would have to face currents of electricity. The idea was dropped due to the practical issues with introducing water to an indoor set. (Star Trek: The Next Generation 365, p. 225)
+Moore noted that following modern naval procedure, Deanna Troi should not have been in the chain of command to take over the bridge in a crisis. He decided to bend the rules for the sake of drama. (Star Trek: The Next Generation 365, p. 225)
+Moore saw the episode as The Next Generation's homage to disaster movies. To this end, he half-jokingly proposed casting Shelley Winters in the episode, but the idea was rejected. (Memorable Missions, TNG Season 5 DVD special features)
+When asked, Moore denied that "The Laughing Vulcan and His Dog" was a reference to Sybok. He explained, "I just liked the image the title of the song conjured up." (AOL chat, 1998)
+An early draft of the episode had the Enterprise colliding with an asteroid, but the writers, sensitive to scientific concerns that an asteroid would not cause the damage described in the script, "invented" the quantum filament. (Star Trek Encyclopedia, 1st ed., p. 267)
+
+
+=== Production ===
+
+"Disaster" was filmed between Friday 16 August 1991 and Tuesday 27 August 1991 on Paramount Stage 8, 9, and 16. Additional second unit inserts were filmed on Wednesday 28 August 1991 on Paramount Stage 9 and on Thursday 3 October 1991 on Paramount Stage 9 and 16.
+On Monday 19 August 1991, the Make-a-Wish Foundation visited the set of this episode at 11:00 am.
+This was the last episode aired before Gene Roddenberry's death on 24 October 1991.
+For the scene in which La Forge and Crusher evacuate the air from the cargo bay, Greg Jein constructed miniature barrels. Dan Curry recalled that these were then attached with pins to a vertical miniature floor. The pins were then removed, with the barrels falling against a blue screen. By shooting at a high frame rate, the desired effect was achieved. (Memorable Missions, TNG Season 5 DVD special features)
+Curry revealed that the plasma fire effect was created by filming a clear glass tray with hot water and granules of dry ice. This was then lit from the back and tinted green. (Memorable Missions, TNG Season 5 DVD special features)
+In the scene where Picard makes Marissa his first officer, there are two small but visible holes in her collar before she receives the pips. This indicates that either the earlier portions of this scene before she received them were re-shot, or that her collar was pierced in advance to ensure the pips could be placed.
+
+
+=== Cast and characters ===
+This episode is the first appearance of Molly O'Brien.
+The end credits incorrectly list Jana Marie Hupp's character as "Ensign Monroe". Dialogue and rank pips both identify the character as a lieutenant.
+At the end of the episode, the children present Picard with a commemorative plaque featuring their full names. The characters' last names are essentially the same as those of the actors who played them.
+
+
+=== Continuity ===
+In trying to understand O'Brien's description of a quantum filament, Troi (unsuccessfully) compares it to a cosmic string, which the Enterprise encountered in "The Loss".
+This is the final time during the series that the Enterprise's saucer separation capability is mentioned. It was not referenced again until Star Trek Generations.
+There is a humorous reference to this episode in Star Trek: Deep Space Nine, "Accession". Worf becomes alarmed at hearing that Keiko is pregnant again, and hastily plans a vacation to Earth for when she is due, so he does not have to assist with the birth again. (Worf does appear in "The Begotten" but does avoid helping with the birth.)
+In DS9: "The Begotten", Miles O'Brien also references having missed Molly's birth in this episode.
+Deanna Troi references this episode in "Thine Own Self", when explaining her interest in becoming a bridge officer.
+The Jefferies tube junction set appears for the first time in this episode. The set is still one level here and not attached to the main engineering set.
+
+
+=== Reception ===
+Michael Piller remarked, "I think "Disaster" was a fun show, it achieved everything that we set out to do. Ron wrote a nice script, I loved the stuff with Data's head disembodied. It had a real pace and rhythm. It didn't reach the upper echelon of episodes for me because it didn't really have a mystery or science fiction base to it." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+Moore remarked, "What I liked about it was the opportunity to put Troi in command and to do all the little stories in a disaster movie. Brannon was a big fan of The Towering Inferno and those films and he and I had a great deal of fun structuring the piece and putting it together and taking Data's head – I mean 'You want me to take off your head?' is one of the great lines on the series and literally carrying Data's head through the corridors of the Enterprise is just a scream." (Memorable Missions, TNG Season 5 DVD special features)
+However, Piller regretted the direction that Ro Laren took in the episode. "We gave her the role of the disbeliever who had nowhere to go but lose in the end because she didn't believe Troi. I think, as I wrote in a memo, it would have been much better if she'd been around a year with some victories before we threw her right into that situation to look rather foolish. And I didn't like the moment where she had to come back and say, which was almost the same arc as that character in the opening who apologized to Data, 'Gee, you were right, Counselor and I was wrong, and I respect you.' To me, after Troi made the right decision in a crisis, Ro's character, and I'm not sure if anybody would agree with me on this, would have said, 'You still could have killed us and I still think I was right and you're just lucky it came out this way.' That's the way I would have ended it with her. The bridge sequence was my least favorite part of the show because it seemed very predictable to me." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+Jeri Taylor commented, "I thought some fans thumbed their nose at it, but in a mix of varied stories it was a good infusion of life." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 230)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 18, pp. 28-31.
+This episode has been considered to be one of the most child-friendly episodes of Star Trek: The Next Generation, especially by one of it's UK broadcasters, the BBC.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 53, 5 October 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.2, catalog number VHR 4761, 22 July 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Rosalind Chao as Keiko O'Brien
+Colm Meaney as Miles O'Brien
+Michelle Forbes as Ro Laren
+Erika Flores as Marissa Flores
+John Christian Graas as Jay Gordon Graas
+Max Supera as Paterson Supra
+
+
+=== Co-stars ===
+Cameron Arnett as Ensign Mandel
+Jana Marie Hupp as Lieutenant Monroe
+
+
+=== Uncredited co-stars ===
+K.C. Amos as operations division officer
+Bowman as civilian
+Tracee Lee Cocco as Jae
+John Copage as science division officer
+Michael Echols as civilian
+Michele Gerren as science division officer
+Grace Harrell as operations division officer
+Gary Hunter as science division officer
+Johanson as command division officer
+Kim as operations division officer
+Alex Landi as operations division officer
+Mark Lentry as civilian
+Ivonne Perez as civilian
+Denise Lynne Roberts as Patti
+Nanci Rogers as sciences officer
+Talbot as Ten Forward waitress
+Angela & Angelica Tedeski as Molly O'Brien
+Curt Truman as command division officer
+Christina Wegler Miles as command division ensign
+Unknown performers as
+Female civilian
+Ten Forward waiter
+
+
+=== Stunt double ===
+Sandy Berumen-Justus as stunt double for Jana Marie Hupp
+
+
+=== Stand-ins and photo doubles ===
+David Keith Anderson – stand-in for LeVar Burton and Cameron Arnett
+Sunshine Black – photo double for Erika Flores
+Wendy Davies – stand-in for Jana Marie Hupp
+Johnny Hayden – stand-in for John Christian Graas
+Kristen – stand-in for Michelle Forbes
+Ron Large – photo double for Patrick Stewart
+Larry – stand-in for Max Supera
+Nora Leonhardt – stand-in for Marina Sirtis
+Maggie – stand-in for Erika Flores
+Tim McCormack – stand-in for Brent Spiner and Colm Meaney
+Lorine Mendell – stand-in for Gates McFadden and Michelle Forbes
+Randy Pflug – stand-in for Colm Meaney
+Greg Poole – stand-in for Michael Dorn
+Richard Sarstedt – stand-in for Jonathan Frakes
+Sissy Sessions – stand-in for Rosalind Chao
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – stand-in for Brent Spiner
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+access panel; afternoon; air; amp; analysis; android; animal; ankle; anti-grav unit; antimatter containment; antimatter containment field; antimatter pod; assignment; astrophysics laboratory; atmospheric control panel; baby; battle bridge; beam; "big chair"; blanket; body; bodyframe; bone; breathing; bridge; bridge crew; bridge terminal; bulkhead; Bussard unit; "by the book"; bypass (primary bypass); capillary; career; cargo bay; cargo container; cargo transporter; casualty; centimeter; cervical dilation; chance; childbirth; choice; clamp; climbing; commemorative plaque; communications; computer (main computer); computer control; computer simulation; confinement mode; consciousness; containtment breach; containment deviation; contraction; control pad; control panel; coolant leak; cosmic string; cranial unit; crew; crew member; crying; counselor; damage; damage report; day; death; debate; deck; depressurization; deuterium tank; diagnostic; dilithium chamber; dirt; disorientation; distance; distress call; docking latch; door; doorway; drive section; duty officer; ear; electrical wire; emergency bulkhead; emergency hand actuator; emergency procedure; emergency procedure alpha two; emergency system; emergency thruster pack; energy; energy arc (power arc); energy circuit; energy conduit; engineering; engineering control system; engineering station; evidence; executive officer; exhalation; experience; explosion; external door; fact; father; Federation; flow current; feet; first officer; French language; "Frère Jacques"; Galaxy-class decks; Gilbert and Sullivan; Gonal IV; groove; gymnast; hands; hatch; head; hell; high-energy particle; Hiro; hour; hull breach; Human; hundred; hydroponics laboratory; hyronalin; "I Am the Very Model of a Modern Major-General"; idea; impact; impulse drive (impulse engine, impulse power); information; internal power grid; internal processor; intership communications; Ishikawa, Hiro; isolation door; isolation protocol; kill two birds with one stone; kiss; labor; ladder; laugh; "Laughing Vulcan and His Dog, The"; leader; life signs; life span; life support system; lungs; major general; main corridor; manual override; mass; medical team; memory core; meter; Michael; millicochrane; million; millisecond; mineral; minute; mission; model; monitor; month; Mudor V; mutiny; name; neural net; night; non-conductive material; number one; O'Brien, Michael; ODN conduit; officer; offline; online; opti-cable; order; overheat; oxygen; pain; panel; parent; percent; Pirates of Penzance, The; phaser array; phenomenon; pips; pitch; plasma coolant; plasma fire; plasma transfer conduit; polarity; polyduranide; positronic brain; power; power coupling; power current; power grid; power shunt; power surge; pregnancy; pressure; primary school science fair (primary school); problem; protocol; quantum filament; quantum resonance; quaratum; rads; rads per minute; radiation; radiation level; radish; range; rank; red alert; relay box; repairs; rescue party; risk; room; safety; saucer section; saucer separation; science officer; science project; science station; secondary system; section 23A; security team; senior officer; sensors; service crawlway; setting (medicine); shuttlebay 2; sickbay; singing; skin; sleep; somersault; song; space; Starbase 67; starboard; Starfleet; Starfleet Emergency Medical Course; subspace distortion; subspace message; suggestion; suicide; survivor; swarming moth; system failure; temptation; Ten Forward; thermal inversion; torpedo bay; transfer coil; transporter simulation; treatment; tricorder; tripolymer; tour; turbolift; turboshaft; umbilical cord; vegetable; ventral access panel; wall; warp core breach; warp drive (warp engine); warp field; warp field array; wife; William; yellow
+
+
+=== External links ===
+"Disaster" at Memory Beta, the wiki for licensed Star Trek works
+"Disaster" at Wikipedia
+"Disaster" at MissionLogPodcast.com
+"Disaster" script at Star Trek Minutiae
+"Disaster" at the Internet Movie Database

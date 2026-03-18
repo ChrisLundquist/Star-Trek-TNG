@@ -1,0 +1,230 @@
+Counselor Troi's investigation into the suicide of a crewman suggests a murder was committed aboard the Enterprise while it was being built, and that the murderer is still aboard.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The red alert klaxon wails on the bridge of the Enterprise as Lieutenant Commander Data reports that they're losing containment in the starboard nacelle tube. Captain Picard orders more power to the field coils, and asks Lt. Commander La Forge for a report, which the chief engineer replies that someone has locked out the plasma injector controls and they cannot be shut down. The venting system engages as the Enterprise begins to vent plasma from the nacelle.
+Commander Riker and Lieutenant Worf race to the control room of the nacelle tube via a ladder in the Jefferies tube while Picard takes precautionary measures and orders the exterior hull plate released so they may jettison the warp core. When both Riker and Worf arrive, they find Lieutenant Daniel Kwan on the catwalk staring at the plasma stream. Lieutenant Nara is at her station, unable to shut down the plasma flow. She warns both officers that if they approach Kwan, she fears he'll jump through the force field and into the stream.
+
+Worf goes to try to circumvent the override Kwan placed on the injectors while Riker slowly moves towards him and tries to talk him down from the catwalk. Kwan oddly remarks about people laughing at him, and that he does not want to do what he is about to. Riker assures him that they'll talk about it but Kwan warns him to stay away. Worf gets control back, but there is still active plasma in the tube and it will take time to dissipate. Nearly desperate to buy the time, Riker tries to distract Kwan by getting him to explain his problem, but he calmly replies by saying, "I know what I have to do." Kwan then jumps into the plasma stream and kills himself, shocking Worf and Nara, with Riker slamming his hand against the bulkhead, visibly upset.
+
+
+=== Act One ===
+In the ready room, a visibly angry Riker explains to Picard and Counselor Troi that he could have saved Kwan's life if he had just a few more seconds, but Worf tells him he did everything he could and it was not his fault. Riker also notes something strange about the encounter: Kwan didn't seem to recognize him, even though he saw him the other day while he supervised the tube refit, and felt fine and pleased when Riker complimented him on getting the refit done faster than expected. Troi notes she met with him during crew evaluations six months earlier and that he was looking forward to being assigned to the nacelle tube. Riker adds that Kwan was a good officer with a fine career ahead of him and is dumbfounded. Picard notes that in his career as a Starfleet captain, he has notified the parents of fallen officers, but never one lost to suicide before. The captain wants to offer an explanation to Kwan's parents and authorizes Worf and Troi to look into Kwan's personal logs in order to find out what happened.
+La Forge, in engineering, calls in to Picard on the damage. The Enterprise needs to get urgently needed medical supplies to Barson II, and due to their unexpected delays, Starfleet has given them the green light to exceed warp limitations to do so. (TNG: "Force of Nature") Once the call ends, Data starts a conversation about suicide, wondering why any lifeform would do it. Hearing La Forge's guess that sometimes one's life is too hard to live, he relates to his own experiences in forming more and more complex pathways in his neural net during his first months after his activation. He considered simply shutting himself off to try again because it was becoming harder and harder to incorporate those pathways into his existing neural net. He said he finally decided against the procedure, considering it a challenge to overcome rather than an obstacle to avoid. La Forge commends Data and wished that Kwan had dealt with his problems the same way as Data did.
+After seeing Kwan's personal logs, Troi and Worf see no evidence of hardship in his life. That morning, he mentioned recently completing work on the nacelle tube refit the night before, and after pulling two double shifts in a row, he was looking forward to spending time with Ensign Maddy Calloway, his girlfriend. Calloway says that Kwan was pretty much happy and easygoing. She also says that Kwan didn't seem like the kind of person that would take his own life. Worf and Troi had already agreed earlier that Kwan didn't seem the type to commit suicide.
+Troi decides that it is time to see nacelle control. She questions Nara, but she doesn't have any clues as to his state of mind. After Nara leaves for a few moments, Troi examines his workstation, then climbs to the platform where he died. Suddenly she is overwhelmed by a strong empathic impression, almost going over the catwalk.
+
+
+=== Act Two ===
+After being examined in sickbay by Doctor Crusher, Counselor Troi is told to wait a few hours before returning to the nacelle tube, as she is detecting elevated psilosynine levels in the counselor. It is hard to see how Troi got an impression from an empty room. She decides to go back with Worf later.
+Meanwhile, the Enterprise has arrived at Starbase 328 and obtained the medical equipment they need to take to Barson II.
+Worf goes to Troi in her quarters to continue the discussion. She doesn't find anything more from Kwan's logs, so they talk about the possibility that she felt something from nothing. She relates hearing her grandfather's stories to her telepathically as a child and, Worf, his visions. At the same time, Worf, from his experience in the alternate reality  where he was married to Troi, begins to think about starting a relationship with her. He politely leaves Troi and goes to Ten Forward, where Riker is having Til'amin froths with Lieutenant Corell. Worf indirectly asks the first officer if it would be alright for him to date someone he had been close to. Riker says that it wouldn't be his choice. Then, Worf asks if there is anyone who Riker prefer he not date on the ship. Riker laughs and says that Worf is beginning to sound like he's asking him if he can date his (Riker's) sister. Worf realizes he's becoming suspicious with the hints and leaves quickly.
+
+Later, Troi returns to the nacelle tube with Worf. Climbing up to the maintenance door, she asks him to open it for her; he can, but only for 90 seconds as after that the plasma venting system will engage, to prevent degradation of the force field. Troi assures that she just wants to take a quick look, though she's not sure what she's looking for. This time, she has visions. First, a woman backing up to a bulkhead, pleading for her life, then, a man staring intently. She can tell it is in the cell where the plasma stream is held. Suddenly, she finds that Worf is gone, and she is alone. The plasma stream is not active, now. In fact, there are construction lights since the ship is inactive. On the ground, a box is labeled with "Utopia Planitia." She calls out to Worf.
+
+
+=== Act Three ===
+
+Troi gets down the ladder and back to the door. She then interrupts a man and a woman kissing, then laughing at her when they notice her. She turns around and bumps into Worf, as now the room is back to normal. After the vision, Worf and Troi call the senior staff to the observation lounge to discuss. It's clear that she was seeing some kind of scene eight years ago through someone's eyes. Crusher assumes that because Kwan was half-Napean that he may have gotten the same vision as Troi. Since the Napeans are also telepathic, it is a possibility. Troi doesn't recognize the couple, but may recognize the man who stared at her. Crusher also tells Troi that she may be able to give her an inhibitor in order to manage the emotions she was feeling during the experience.
+While waiting sixteen hours for the inhibitor to be synthesized by Dr. Crusher, Troi goes over the computer logs to see if anybody else aboard the Enterprise had worked with Kwan in at Utopia Planitia when nacelle control was under construction. In the logs, she sees the man from her vision: Lieutenant Walter Pierce. Troi and Worf decide to question Pierce in engineering about if he remembers anything about Kwan or anything strange happening during the building of the Enterprise. Pierce, however, doesn't tell Troi and Worf much of anything. Troi can't tell if Pierce is lying or what Pierce is really feeling, but thinks he is holding something back.
+Worf escorts Troi to her quarters as she remarks about how she couldn't read him. When gathering more logs seems to take some time, Worf says that maybe they should start earlier the next morning. Worf then says good night, but doesn't leave. Worf takes Troi's hand, touching her hand to his face, then sniffing her hand. Worf then embraces Troi in a long, passionate kiss.
+
+
+=== Act Four ===
+The next morning Worf is still in Troi's quarters, making breakfast. Crusher summons both of them at the same time to sickbay, Troi for her inhibitor and Worf to supervise the transport of medical supplies to the cargo bay for Barson II. They walk in at different times, not revealing their relationship. However, Troi silently notices the way Worf acts toward Ensign Calloway as she leaves.
+
+Troi goes back to the control room with La Forge, Data and Lieutenant Nara. Troi notices a bulkhead that was previously open in her vision, and Nara mentions that Kwan was working there the day before he died. After La Forge removes it, he detects Human DNA. Troi gets another vision of the woman being attacked. La Forge's device reveals a skeleton. Back in sickbay, Ensign Calloway sequences the DNA sample and matches it to Starfleet records and finds Marla Finn. Troi confirms she was indeed the woman in her vision. Suspicious, she says that something doesn't match up and pulls up Lieutenant Kwan's service record. She realizes that it could not have been Kwan's eyes she was seeing through as he wasn't posted to the Enterprise until about six months after Finn's death. It must have been either of the men in the vision. She realizes that it was Lieutenant Pierce's eyes she was seeing through when she sees her reflection in the computer panel. Troi finally understands that Pierce must somehow have telepathic abilities since she could not read his emotions before and because she also sees him in the visions.
+Troi and Worf head to ask Pierce some questions. On the way, Troi asks him if he is sorry for having been with her, thinking about his behavior toward Calloway. Worf says no, he doesn't and asks what's wrong. With the inhibitor, Troi admits she isn't feeling herself. Worf decides to question him alone and she goes to her quarters, where Worf promises to meet with her later. However, shortly after she arrives, Pierce shows up unannounced.
+
+
+=== Act Five ===
+Troi immediately calls for security, and security officers Kellogg and Garvey arrive. Confused, Pierce says that Worf told him to go to her. When she can't find Worf using the computer, Troi asks him where Worf is and then asks the computer, which reveals that he is with Ensign Calloway. Pierce is taken away while Troi goes and finds Worf and Ensign Calloway in a kissing embrace. The two start to laugh at her, just like in her earlier vision. She is outraged and responds by shooting Worf dead with a phaser. Distraught, she runs outside, running into Lieutenant Pierce on the way who tells her, "You know what you have to do." Compelled, she then runs to through the corridors to nacelle control.
+Alone, she gets to the nacelle tubes, walks up to the catwalk and stares into the plasma saying, "I know what I have to do," just like Kwan had. Just as she is about to jump into the plasma, Worf grabs her by the shoulder, whereupon it is revealed that her uniform has changed. The preceding events (from the end of act two to here) were a hallucination. Seeing that Worf is alive and well, she hugs him in relief.
+The investigation ends with Troi telling Picard in the observation lounge that she is in disbelief that all she experienced had been within the span of a few seconds: Worf had only just opened the maintenance door, then turned back to find Troi standing too close to the force field. Data confirms the identities of Pierce, Finn, and her secret lover William Hodges, and that Pierce was part Betazoid, as his maternal grandmother was from Betazed. Officially, they all were killed in an accidental plasma discharge eight years ago and their bodies were never found. Troi believes that Pierce had found his girlfriend Finn in the embrace of Hodges and killed them in a jealous rage, threw their bodies into the plasma stream to cover up any hint of murder, and then jumped in himself. La Forge enters after scanning behind the panel that Troi had directed him to, and while there weren't any bone fragments like that in her hallucination, he did find traces of cellular residue with a psionic signature. Troi theorizes that when Pierce hit the plasma stream, the subspace energy present imprinted his empathic pattern into the residue, a 'psychic photograph' as La Forge puts it. This triggered the hallucination and caused Troi's mind to take elements of her own life to create a situation that mirrored Pierce's situation. If Worf hadn't been present, she certainly would have met the same fate as Kwan.
+After everyone exits onto the bridge, Worf asks Troi why she seemed surprised to see him alive when he pulled her from her hallucination. Troi replies that in her version of the vision, Worf was killed. Worf inquires who had killed him, and Troi simply replies, "Hell hath no fury like a woman scorned."
+
+
+== Memorable quotes ==
+"They laughed at me!"
+
+- Daniel Kwan, shortly before dying by suicide
+
+"I know what I have to do..."
+
+- Daniel Kwan's last words before vaporizing himself
+
+"In my years as a Starfleet captain, I've had to... notify many parents of the loss of loved ones but never before to suicide."
+
+- Picard
+
+"Geordi, would you agree that the instinct for self-preservation is shared by most lifeforms?"
+"I'd say it's probably the most basic instinct, Data."
+"Hmm. That being the case, I find it difficult to understand why someone would deliberately terminate their own existence."
+
+- Data discusses his lack of understanding about suicide to La Forge
+
+"Is there someone in particular that you're talking about?"
+"No. Is there someone in particular you would rather I not be involved with?"
+"Mr. Worf, you sound like a man who's asking his friend if he can start dating his sister!"
+"No! No, I was merely... never mind. Excuse me, sir."
+
+- Riker and Worf
+
+"Counselor. When I pulled you from the plasma stream you seemed... surprised I was alive." 
+"Well, actually... in my hallucination, you were killed." 
+"May I ask by whom?"
+"Well, you know what they say, Mr. Worf. "Hell hath no fury like a woman scorned.""
+
+- Worf and Troi
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 21 December 1993 [1]
+Premiere airdate: 28 February 1994
+First UK airdate: 8 May 1996
+
+
+=== Story and production ===
+Because regular Marina Sirtis stand-in Nora Leonhardt was busy, filming her scenes as Marla Finn on Paramount stage 8, Second Assistant Director Arlene Fukai got a wig from the hair department and replaced her for the light settings on stage 9, standing in for Marina Sirtis.
+
+
+=== Continuity ===
+This episode continues the romance between Troi and Worf, albeit in illusory form since much of the episode takes place in Troi's imagination.
+According to the Star Trek: The Next Generation Companion, 3rd ed., p. 286, imaginary scenarios are usually shown only from the character's point of view. This episode breaks that convention by showing Dr. Crusher speaking in sickbay as she pages both Troi and Worf on the morning after they begin their affair.
+In Nacelle Control, after Troi was injected with the empathic inhibitor, the prop Commander La Forge uses is identical to the interphasic scanner seen in "Phantasms".
+While Troi and Worf are discussing Troi's grandfather, Worf states, "Yes, I too have sought visions in fire." This statement alludes to "Rightful Heir", in which Worf travels to a temple on Boreth in an attempt to see a vision of Kahless.
+
+
+=== Apocrypha ===
+The events surrounding the three past deaths are mentioned in the The Sky's the Limit short story "Meet with Triumph and Disaster". Captain Thomas Halloway debriefs a visiting group of admirals prior to the Enterprise's launch (consisting of Norah Satie, Theodorich Patterson, and Svaath Magodin (β)) on what he knew of the incident (that they disappeared due to a plasma accident and were presumed dead). It is one of his reasons for feeling uncertain about command.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 85, 8 August 1994
+As part of the UK VHS collection Star Trek: The Next Generation - 10th Anniversary Collector's Edition under the "Troi" section, 29 September 1997.
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Mark Rolston as Walter Pierce
+Nancy Harewood as Nara
+Tim Lounibos as Daniel Kwan
+Johanna McCloy as Maddy Calloway
+
+
+=== Co-stars ===
+Nora Leonhardt as Woman
+Dugan Savoye as Man
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Arratia as Alfonse Pacelli
+Lena Banks as operations division ensign
+Joe Baumann as Garvey
+Michael Braveheart as Martinez
+Debbie David as Russell
+Cameron as Kellogg
+Tracee Lee Cocco as Jae
+John Copage as science division officer
+Robert Cox as Bruno Salvatore
+Elliot Durant III as operations division ensign
+Holiday Freeman as command division officer
+Bill Hagy as operations division officer
+Fumiko Hamada as command division officer
+Kerry Hoyt as civilian
+Ellyn Humphreys as Anaanda Ziff
+Gary Hunter as science division officer
+Marianne Lewis as operations division officer
+Michael Moorehead as science division ensign
+Ted Parker as Ten Forward waiter
+Keith Rayve as civilian
+Richard Sarstedt as command division ensign
+John Tampoya as operations division ensign
+Oliver Theess as command division officer
+Margie Thomas as command officer
+Guy Vardaman as Darien Wallace
+Christina Wegler Miles as command division ensign
+Unknown performers as
+Corell
+Lois R. Eckridge
+Female civilian
+Female science division officer
+Garvey (voice)
+Kellogg (voice)
+Science division officer
+Ten Forward waiter (voice)
+Ten Forward waitress
+
+
+=== Stunt doubles ===
+Rusty McClennon as stunt double for Michael Dorn
+Unknown stunt performer as stunt double for Tim Lounibos
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Arlene Fukai – stand-in for Marina Sirtis
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+2362; 2363; 2368; 2369; affair; Barson II; bluff; bone; bulkhead; career; cargo bay; crew evaluation; Daystrom Award; depression; disorientation; DNA; empath; engineering log; field coil; field generator; fireplace; Galaxy-class; Galaxy class decks; grandmother; hallucination; hull plate; hybrid; inhibitor; instinct; Jefferies tube; maternal; medical personnel; mood swing; nacelle; nacelle tube; nacelle room; Napean; neural net; neural pathway; neurotransmitter; nightstand; ODN line; off-worlder; personal log; personnel record; phaser; phenomenon; plasma; plasma injector; plasma stream; poker; power conduit; psilosynine; quantum mechanics; refit; resonance scan; Roman numeral; security override; shore leave; Starbase 328; subspace energy; suicide; superior officer; Til'amin froth; tool crate; Utopia Planitia Fleet Yards; walkway; warp coil; warp drive; warp field stabilizer; Yridian tea
+
+
+==== Okudagram references ====
+assistant parts scheduler; Earth; Mars; San Francisco; serial number; Sol system; specialist; Starfleet Academy; team leader; warp engine local control system; warp field engineering
+
+Personnel File – Lois R. Eckridge (Remastered): A6 Construction Intermediate Unit; Beta Aquilae II; cellular peptide extraction; Eckridge, Arlene; Eckridge, Malcolm; emergency field sterilization; emergency medical assistant; Emergency Medical Certificate; radical assay; level 1 medical assistant; level 5 identification protocol; Northridge, USS; Psi Epsilon IV; protoplaser; Starfleet Academy (Beta Aquilae II)
+Personnel File – Marla E. Finn (Remastered): Finn, Ellen; Finn, William R.; J-Lee Award; Silversides, USS; Starfleet OSHC; warp field stabilization system
+Personnel File – Marla E. Finn (Original): Jalhal Award
+Personnel File – Daniel Kawn (Remastered): D Garza Engineering Scholarship; engineering science; Jahal Award; Kwan, Emiraa; Kwan, Ronald; Psi Epsilon III; Psi Upsilon IV; Pueblo, USS; Seaview, USS; second assistant team leader; Starfleet Academy (Psi Epsilon III); Tezber Award; warp engine emergency control system; warp field dynamics
+Personnel File – Daniel Kwan (Original): J. Bruce Engineering Scholarship; Okuda Award; Psi Upsilon III; Starfleet Academy (Psi Upsilon III)
+Personnel File – Alfonse Pacelli (Remastered): data flow management system; Graf Award; Kliever Citation; optical data net; Pacelli, Helene; Pacelli, Salvatore; Philadelphia, USS; positronic field; Starfleet Technical Services Academy; Syracuse, USS; Tolley Citation
+Personnel File – Alfonse Pacelli (Original): Kerry Award
+Personnel File – Walter J. Pierce (Remastered): assistant team leader; Chicago, USS; Epsilon Indi II; Huntley Award; Jahal Award; linear warp containment system; Macalintal Science Ribbon; Pierce, Ambrose; Pierce, Anita; power conduit; subspace research; Suleiman, USS; Umibozu, USS
+Personnel File – Bruno Salvatore (Remastered): assistant testing supervisor; biomechanics; Bronze Cluster for Academic Excellence; Dietz Physical Sciences Scholarship; Donovan, USS; Extended Tour Citation; install scheduler; Luna; main deflector array; Niels Bohr, USS; Salvatore, Eric; Salvatore, Moksha; sickbay/medlab containment system; Weiss Cadet Leadership Award
+Personnel File – Bruno Salvatore (Original): Ferranti Cadet Leadership Award; Salvatore, Giuseppi; Salvatore, Viola; Starfleet Extended Tour Ribbon
+Personnel File – Darien Wallace (Remastered): Altair IV; Baton Rouge, USS; Beta Ursae Minor II; bioengineering; Campbell Award; J. Bruce Award; life sciences; life support control and emergency system; life support system; linkage system; Seaquest, USS; Starfleet Academy (Beta Ursae Minor II); Wallace, Dennis; Wallace, Laurel
+Personnel File – Anaanda Ziff (Remastered): Clayton, USS; Daystrom Award; Gabl Academic Scholarship; Malone, USS; Peterson, USS: Omicron Ceti III; quantum mechanics; quantum physics; secondary Vogt system; Starfleet Extended Tour Ribbon; Uyehara Award; Ziff, Benjamin A.; Ziff, Marsha L.
+Personnel File – Anaanda Ziff (Original): Clavyn, USS; Okuda Award; secondary cargo transporter
+Spacecraft Systems Status: Bussard collector; captain's yacht; class M; gross vehicle mass; impulse engine; main shuttlebay Mars; navigational deflector; observation lounge; phaser bank; service docking port; shuttlebay 2; shuttlebay 3; torpedo launcher; umbilical connect port; Utopia Planitia; warp nacelle
+
+
+==== Retconned material ====
+Clavyn, USS
+
+
+=== External links ===
+"Eye of the Beholder" at Memory Beta, the wiki for licensed Star Trek works
+"Eye of the Beholder" at Wikipedia
+"Eye of the Beholder" at MissionLogPodcast.com
+"Eyes of the Beholder" script at Star Trek Minutiae
+"Eye of the Beholder" at the Internet Movie Database

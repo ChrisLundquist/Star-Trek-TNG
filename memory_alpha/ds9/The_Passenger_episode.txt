@@ -1,0 +1,209 @@
+An alien criminal, attempting to prolong his life, hides his consciousness inside the mind of a station crew member.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Major Kira and Doctor Bashir are returning from a medical mission in the runabout USS Rio Grande. Kira was reluctantly impressed by Bashir's competence after he found a vital clue in a woman whom she dismissed as deceased. Bashir appears to accept such praise as no more than his due, and Kira is about to tell him off for his arrogance, when they receive a distress call from the Reyab, a Kobliad transport. They beam aboard to find that the ship's systems have been disabled by a fire raging on board. Kira looks for fire safety gear, and Bashir goes to the nearest crewperson, a Kobliad female named Ty Kajada. He asks her if anyone else is on board, and she says the pilot is dead. But Bashir reads another lifeform behind a locked door from his tricorder and Kajada warns for him not to open it; the man is a prisoner who started the fire in an attempt to escape. Over her protests, Bashir overrides the door lock and finds a dying Kobliad male, Rao Vantika. Kira comes back and extinguishes the fire, preparing all four of them for emergency transport back to the runabout. Before she can energize, Vantika seizes Bashir by the throat with an iron grip and pulls him close. As Kira tries to pry his hand loose, Vantika growls, "make me live", before expiring. "This one I can't bring back," Bashir muses over Vantika's lifeless body.
+
+
+=== Act One ===
+Back on Deep Space 9, Bashir revives Kajada in the infirmary with a hypospray. When she awakes, her thoughts go immediately to her prisoner. Bashir says the man is dead, but Kajada insists on examining his body herself. Bashir, a little insulted, assures her that Vantika is quite dead. She retorts that she has tracked Vantika, a multiple murderer, for over twenty years, during which he has faked his death more times than she can count, and more than a few medical "experts" have been fooled. After scanning Vantika's retinas to confirm that he is brain dead, Kajada shocks Bashir by coolly stabbing the corpse in the chest with a scalpel. She asks Bashir to autopsy the body and confirm its identity with DNA records, and to scan her ship for anomalous life readings. Shaken, Bashir agrees.
+In Quark's, Quark delivers a drink with unctuous good wishes to Jadzia Dax, while Odo scornfully asks what he thinks his chances are with a woman like her. Quark retorts that nothing ventured, nothing gained, and not everyone in the galaxy is comfortable being as lonely and miserable as Odo. Odo is then put out to receive a visitor, Starfleet Security officer Lieutenant Primmin, who says they have been assigned to work together.
+In Ops, Bashir reports that every test he has run confirms that the dead Kobliad is Rao Vantika, and that he is indisputably dead. Kajada has warned that Vantika was on his way to Deep Space 9 when she captured him, and Sisko and Dax connect his destination with a shipment of deuridium ore scheduled to arrive at the station from the Gamma Quadrant. The Kobliads are a dying species, and need deuridium to stabilize their cell structures. Even with new deposits discovered in the Gamma Quadrant, the demand far outstrips the supply, so it makes sense that Vantika would want to steal a supply for himself. Bashir says Kajada still isn't convinced Vantika is dead, so Sisko agrees to her request to scan her ship. He is also concerned with unearthing any preparations or accomplices Vantika had on the station in preparation for the hijack.
+In conference with Primmin, Sisko quickly disabuses him of his belief that the station's security needs an "overhaul" to conform with Starfleet Security regulations; Odo has his own way of doing things, and Sisko has found that way to be effective, and best suited to the unique situations aboard the station. Sisko encourages Primmin to be a little more flexible, as he could actually learn something from "The Constable;" Primmin assures Sisko that he has made himself very clear.
+With some difficulty, Odo and Primmin begin working together, reviewing the security arrangements for the deuridium shipment. When Odo tries to access the computer, however, he is surprised to find that everything in the active memory banks has been accessed and then purged. He believes this is impossible, but Kajada appears in his office and says that Vantika has done exactly the same thing before on Rigel VII.
+
+
+=== Act Two ===
+
+In Ops, Sisko and his crew confer, with Kajada and Primmin present. Kajada says that Vantika usually pulls this sabotage trick by planting a subspace shunt in a nonessential system that would be overlooked by security checks. Odo concedes it is an elegant trick: rather than try to get past security programs guarding a particular file, a criminal simply performs a dump of the whole memory, which has not or cannot be guarded against. When a scan of the station detects an anomalous device planted, Odo (and Primmin) both order a security patrol to retrieve it.
+During these instructions, Kajada constantly speaks as though Vantika has done these things himself, but Sisko remains skeptical, and asks her whether it is more likely that some accomplice of Vantika is the one responsible. Kajada delivers an impassioned brief of Vantika's criminal history: the man is obsessed with ensuring his own survival; he has prolonged his life in myriad ways, and many of his crimes have been committed in the course of experiments, or thefts of cutting-edge research, to discover even more ways. Kajada assures them all that Vantika wouldn't have started the fire on board the ship unless he had a plan for living through it; she doesn't know what that plan was, but the sabotage aboard the station is enough to convince her that it succeeded. Impressed by her arguments, Sisko instructs the crew to assume for the time being that Vantika is alive, until Bashir receives DNA confirmation from Kobliad Security of the corpse's identity.
+Odo asks to have a word with Sisko in his office. Odo begins to complain about Primmin's presence, but Sisko already knows what he'll say. To Odo it is a professional insult, not to mention an annoyance, to have another security chief on the station. Sisko immediately says he likes Odo since he knows where he stands, but he reminds Odo that Starfleet has its own interests on the station, which makes Primmin a fact of life that Odo will have to deal with. Sisko says he has already encouraged Primmin to work with Odo, but Odo isn't satisfied. He wants to know who's in charge, and Sisko says: Odo. Trying not to look too pleased, Odo admits, "I can live with that," and departs.
+In Dax's lab, she reports to Sisko that someone tried to break into the cargo hold of the Reyab after it was docked at Deep Space 9. What they could have been looking for, Dax reports, is an isolinear chip she found, containing a "map" of the humanoid brain.
+In Quark's Bar, Quark is on his hands and knees collecting his "tips" (dropped money) from the floor of the upper level, when someone seizes him from behind and whispers in his ear, asking him whether he's made the preparations for the deuridium shipment – hiring a group of mercenaries. Baffled, Quark says that he has done so, but he was told by reputable sources that Vantika was dead. The voice whispers, "almost, but not quite," then releases Quark and retreats into the shadows.
+
+
+=== Act Three ===
+Bashir calls Kajada into the infirmary and triumphantly shows her the final results of the DNA comparison; every conceivable test has been run and confirms that the Kobliad in the morgue is dead, and that he is Rao Vantika. To his amazement, Kajada still isn't convinced.
+Dax calls Bashir into her lab and shows him Vantika's computer models. She theorizes that Vantika was developing a means of transferring his consciousness into another's brain. Bashir says that such a thing is theoretically possible, and if Vantika succeeded, then his most likely "host" is Kajada, the nearest available Kobliad.
+They present their theory to Sisko, who isn't convinced. Why would Kajada be warning them so if Vantika was controlling her?  Bashir explains that, according to their theory, Vantika is only controlling Kajada part of the time; the rest of the time, he's simply "along for the ride," and Kajada isn't even aware of his presence. Sisko asks for proof, and Dax says that they can't know what to look for until they have a better idea how Vantika accomplished the transfer.
+Odo is in his office when Kajada storms in, protesting that he's revoked her security access and is refusing to answer her questions about the precautions for the deuridium shipment. He says he is just being extra cautious, and she storms out.
+Suspecting that Quark may be assisting Vantika, Kajada spies on him from the upper level of the bar after closing time. She finds him meeting with the mercenaries he summoned, including Durg. Suddenly, they look up when they hear a scream, and see Kajada, hanging from the balcony rail. Before any of them can react, she loses her grip and plummets to the deck.
+
+
+=== Act Four ===
+Kajada lies in a coma in the infirmary, but not before saying she was pushed by Vantika. Bashir reports to Sisko that he cannot examine her more closely until she regains consciousness. Sisko theorizes that Kajada may have tried to kill herself after realizing she was carrying Vantika around with her.
+In the morgue, Sisko finds Dax taking samples from under Vantika's fingernails. She says she thinks she has found his transfer method: a biocoded message imprinted onto a glial cell that allows a message to be transmitted along a humanoid's nervous system directly to the brain. She found models of the glial cells on Vantika's data chip. The most effective means of transfer would be to inject the cells directly into the victim's skin, but there were no needles or hyposprays in Vantika's belongings. Examining the tissue from under his nails, Dax finds a microscopic electric generator, to "fire" the message along the nervous system. Vantika hid the device there, just to give himself a last-ditch escape.
+In the docking ring, Quark leads the three mercenaries to one of the runabout pads, explaining that their mysterious employer managed to access one and is waiting for them on board. The door opens, and there is Dr. Bashir. Quark backpedals, stammering that they took a wrong turn. But "Bashir" steps forward, smiles coldly, and says, in a voice quite unlike his own, that on the contrary, he has been expecting them.
+
+
+=== Act Five ===
+Dax enters the infirmary, calling for Bashir. He does not answer. She asks the computer to locate him, and it answers "the infirmary." She finds his combadge left on a counter.
+Odo meets with Kira's team and is surprised to find that Primmin is not working alongside them as agreed. When Odo finds Primmin, the lieutenant explains that he decided to take a hint from Odo's methods, and tried to think like Vantika. Doing so has led him to discover a second subspace shunt hidden in the waste extraction system. Impressed, Odo says that the device, if left in place, would have disabled the station for close to an hour.
+As the deuridium cargo ship comes through the wormhole, a runabout leaves the station, unscheduled, to escort it to the station. In Ops, the crew discover that Doctor Bashir is missing, and that it was his access codes that enabled the launch of the runabout.
+On the cargo ship, the three mercenaries beam aboard and kill the bridge crew, before signaling Vantika/Bashir that it's safe to board. Sending two of the mercenaries to secure the rest of the ship, Vantika orders the shields raised and to lay in a new course. Before the ship can engage, the station locks a tractor beam on them. Vantika is frustrated, because he thought he'd sabotaged them. Sisko hails the ship, and Vantika introduces himself from Bashir's body. He demands that the tractor beam be removed, or else he'll engage the warp drive, tearing the ship to pieces – killing Bashir and the remaining crew and spreading deuridium (a hazardous material) all over the system. When the mercenary on the bridge refuses to commit suicide, Vantika shoots him dead with his phaser. He gives Sisko one minute to decide, then cuts off the transmission.
+Sisko asks for suggestions. The ship's shields are raised, and any attack to overwhelm them would risk breaching the ship's hull. Dax comes up with a way of sending an electromagnetic pulse along the tractor beam, where it will resonate off the shields and cause an energy field inside the ship that will disrupt Vantika's hold over Bashir. It is successful, for long enough for Sisko to get through to a very confused Bashir, who lowers the ship's shields, and let him be beamed to Ops. As Rao tries to seize control of him again, Sisko stuns him with a phaser, and they take him to Dax's lab. With a specially programmed transporter, she removes Vantika's signature glial cells and transfers them to a small containment field. Scanning the unconscious Bashir, Dax pronounces him "clear," and revives him. Waking up with a groan, Bashir's first words are to complain of a splitting headache.
+A short time later, Sisko, Bashir, Dax, and a recovered Kajada regard the containment field in Dax's lab. Kajada apologizes to Bashir for his ordeal, while Bashir feels that they all owe her an apology for not taking her warnings about Vantika more seriously. Bashir confesses that he doesn't remember any of what Vantika made him do, and feels humiliated for not being able to stop it. Sisko assures him that no one holds him responsible.
+Kajada asks Sisko to formally return custody of "the prisoner" to her. As soon as he agrees, Kajada draws her phaser and disintegrates the container, wiping out the last traces of Vantika, then walks out without another word. Sisko's expression indicates he is a little unsettled by her cold-blooded "execution" of Vantika, and even more unsettled when Dax and Bashir show no reaction at all.
+
+
+== Memorable quotes ==
+"Ah, yes, well… tricorders, very accurate with living people, not so accurate with dead ones. We learned that in first year medical school."
+
+- Julian Bashir
+
+"Make… me… live!"
+
+- Rao Vantika
+
+"If you want my opinion…"
+"Actually, I don't."
+
+- George Primmin and Benjamin Sisko
+
+"Three persons were on your ship. Two bodies are in our morgue. Unless the ghost of Vantika is…"
+"Don't patronize me, commander!"
+
+- Sisko and Kajada
+
+"What kind of fool are you?!"
+"My own special variety."
+
+- Ty Kajada and Odo
+
+"I'm sure almost everyone knows about the shipment by now. Odo was probably making sure that Quark knows we know he knows."
+
+- Sisko
+
+"I've been asking myself, why would anyone induct a bioelectric charge into a glial cell?"
+"A question I have always wondered about."
+
+- Dax and Sisko
+
+"I want to speak with Dr. Bashir!"
+"Unfortunately, he's… not available at the moment."
+
+- Sisko and Rao Vantika (inhabiting Bashir's body)
+
+"You're deluding yourself."
+"There's nothing wrong with a good delusion, I sell them upstairs to dozens of people every day."
+
+- Odo and Quark
+
+"I'm watching you, Quark."
+"And I'm watching you, Jadzia."
+
+- Odo and Quark
+
+
+== Background information ==
+
+
+=== Story and script ===
+Morgan Gendel's original story was to have Kajada possessed by Vantika. Gendel commented, "I thought the idea of a cop who's chasing himself was something you could only do in a science fiction show. In my first outline, the bad guy's essence was in the cop, and we captured her at the end of act four. What I did in act five was have this woman Bashir's fallen for trying to convince him to let her out of jail because he's planted a bomb on the station. Act five was all about 'What does Bashir do'? Does he trust his gut or his logic? His gut is telling him he's got to go, even at gunpoint, so that she can lead him to the bomb. That was the tension in act five, which leads up where she changes back to Vantika and this whole run-and-jump thing." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 47)
+Morgan Gendel commented on how his pitch was finalized: "When I first pitched it, they said they were looking to do a Hannibal Lecter like character, and then the next pitch they would say, 'We want to make sure we're not doing that.' I pitched it to Ira [Steven Behr] and Peter [Allan Fields], and they called me back and said, 'We want to talk about it with Michael [Piller], and he was ready to say 'let's give it a whirl' when Ira, rightfully, brought up the problems we were going to face […] Ira was raising these fears about the episode – which I think turned out to be accurate, but I'm in there like a salesman and I don't want to walk away without the sale. I said, 'I hear what you're saying Ira, but I think I can explore it and make it work in story,' and I don't know if it was that enthusiasm or Michael felt sorry for me that day, but he said, 'Okay, let's give a run at this,' and, of course, there were problems." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 47) Piller himself remarked about the episode, "It was an opportunity to give Siddig a meaty role and to let him do some things he doesn't ordinarily get to do." (The Official Star Trek: Deep Space Nine Magazine issue 3, p. 12)
+The episode's story incorporated a long-discussed character concept. "We had always talked about this Primmin character because Colm was going away to do a movie," explained Michael Piller. "We wanted that story between him and Odo." However, it was only when Piller began rewriting the script that he realized the Primmin character could be used as a red herring. (The Official Star Trek: Deep Space Nine Magazine issue 3, p. 12)
+According to writer Robert Hewitt Wolfe, Bashir's reference to synaptic pattern displacement never being done by a non-Vulcan was a reference to Star Trek III: The Search for Spock, when Spock's consciousness afflicted Doctor McCoy. (Star Trek: Deep Space Nine Companion, p. 34)
+Morgan Gendel scripted a song for Quark to sing, but decided not to use it. Gendel commented, "I had [Quark] singing a whole little ditty, like a Hobbit. I took a day to write this ditty about making money while he's serving people and shorting them on their drinks. I thought it was hysterical and also thought if I turned it in, they were going to laugh me out of the room." (The Deep Space Log Book: A First Season Companion, p. 69)
+
+
+=== Cast and characters ===
+Several people involved with the episode commented on Quark's role, as his actions are the first illegal action the character was involved in, in the series. Armin Shimerman commented, "He is still the middle-man. I say that in the episode, 'I'm just the middle-man', when they ask me if I'm going with them. He's just trying to make a buck. But it was a darker Quark, getting back to the Quark of I think of in "Emissary". And that's good. Anytime that I get close to that I feel a little bit better. I feel more confident with that. Drama is always easier to play than comedy." Paul Lynch commented, "[Quark] is suckered in over his head by his own greed. He doesn't really go looking for trouble, and if he had known what he was getting into he wouldn't have, but his own greed overruled him." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 47)
+Caitlin Brown commented, "I had a wonderful time doing the show. Ty Kajada was a terrific character to play and it was great working with Rene Auberjonois and Avery Brooks and all the guys. They were all incredibly encouraging and supportive. Working on ST:DS9 is, to date, one of the best experiences I've ever had, just because all of the whole energy of the show. It was great and I'm really proud of my work in that." ("Law-maker, Law-breaker", Star Trek Monthly issue 27) Though she enjoyed working on the set of this episode, Brown was wary of how Brooks and Alexander Siddig were meanwhile thinking of her. "I had to be SUCH a you-know-what in my character, I am sure they thought I was that way in real life, too," she admitted. (BLANKMANinc.com: The Star Trek Interviews)
+Alexander Siddig found this episode to be the hardest thing he'd had to do during DS9's first two seasons, as well as, without doubt, his "biggest failure too." He commented, "It was right at the beginning [of the series run], you had to just do it in front of everybody you didn't know, and I had appallingly poor notice with the script. I was given it the day before. You need to prepare for that sort of thing." (Star Trek: Communicator issue 102, p. 49)
+All of Alexander Siddig's original on-set dialogue as Vantika in the episode was dubbed in post-production. Rick Berman commented, "We had a very odd experience on the show. Siddig made a choice of a voice that didn't work for us. It was too Bela Lugosi-like, and we replaced his entire part with him again, but we had him do it a different way. We didn't really know if it would work or not, but it was fine." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 47)
+Caitlin Brown's performance in this installment led to her casting as Vekor in the Star Trek: The Next Generation two-parter "Gambit, Part I" and "Gambit, Part II". ("Law-maker, Law-breaker", Star Trek Monthly issue 27) Whereas she believed her work on this episode had left Avery Brooks and Alexander Siddig with a mistaken impression that she was particularly harsh, it wasn't a viewpoint that stuck. "Thankfully we have all spent time together at events and have had a chance to get to know one another," she clarified. (BLANKMANinc.com: The Star Trek Interviews)
+Colm Meaney (Chief O'Brien) and Cirroc Lofton (Jake Sisko) do not appear in this episode.
+
+
+=== Reception ===
+Michael Piller commented, "I felt it was a very effective episode. The guest cast gave great performances, and it gave Bashir a chance to do something unique and different. It's a very spooky mystery, and I liked all the misleads because just when you think you know what's going on, it turns out that you think maybe it's the security officer that's missing and then suddenly you get the final twist that it's Bashir." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 47) Piller also commented, "It was a very successful show, very spooky and moody. The mystery was working." Piller was also pleased with the B-story between Odo and Primmin, terming the latter character as "a good red herring." One aspect of the episode that Piller disliked was a scene with Bashir. "If you look carefully, there's a frame of Bashir, just after you've heard the voice of the dead guy, and Bashir's reaction basically blows the whole show out of the water. It wasn't shot properly and it ruins the whole episode when you see it." (The Official Star Trek: Deep Space Nine Magazine issue 3, p. 12)
+Paul Lynch commented, "["The Passenger"] is a mystery and it owes a lot to the thriller conventions of Hitchcock, Murnau and De Palma." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 47)
+Ira Steven Behr was not as enamored of the episode, commenting, "'The Passenger' was a show at the time I felt could have just as easily been about Geordi. There's nothing wrong with the episode; I just don't have much of a feeling for it. It could have just as easily taken place on the Enterprise." He also admitted to not liking this episode, however, and commented that the reason was "probably" because "it's not really that character oriented. I don't have that visceral hold on it." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, pp. 31 & 48)
+In a review of the Laserdisc release, a reviewer wrote, "'The Passenger' is the best episode in the group, a taut mystery in which the heroes must figure out how a villain, clearly dead, intends to rob some rare minerals from the station." (The Laserdisc Newsletter, 1997)
+
+
+=== Trivia ===
+The authors of the The New Trek Programme Guide commented in their book that they thought the title of this episode might be a reference to Iggy Pop's 1977 song of the same name.
+One of the Bajoran mercenaries who invaded the Norkova has a 23rd century type 2 phaser.
+Odo's reaction to Lieutenant Primmin is almost identical to his reaction to Lieutenant Commander Eddington in the third season opener, "The Search, Part I" – on both occasions, he tells Sisko that he will be handing in his resignation.
+During this episode, O'Brien is presumably still on Earth, as mentioned in "Dax". Although this episode is not given a stardate, O'Brien's absence suggests that it happens after "Dax" (which, according to its own stardate, occurred later than most other episodes of the season).
+A somewhat similar premise is later seen in VOY: "Warlord", in which Tieran takes over Kes.
+Jadzia Dax mispronounces Vantika's name as "van-TEE-kah" at one point, rather than "VAN-ti-kah" as he is referred to in the rest of the episode.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 5, 4 October 1993
+As part of the DS9 Season 1 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Caitlin Brown as Ty Kajada
+James Lashly as George Primmin
+Christopher Collins as Durg
+James Harper as Rao Vantika
+
+
+=== Uncredited co-stars ===
+Majel Barrett as Federation Computer Voice
+Scott Barry as Bajoran officer
+Patti Begley as Bajoran officer
+Simone Boisseree as Norkova captain
+Robert Coffee as Bajoran officer
+Judi Durand as Deep Space 9 computer voice
+Randy James as Lieutenant Jones
+Mark Lentry as Human command division lieutenant
+David B. Levinson as Broik
+Irving Lewis as Norkova cargo officer
+Dennis Madalone as Norkova helmsman
+Chad McCord as operations ensign
+Robin Morselli as Bajoran officer
+Tyana Parr as Human DS9 resident
+Mark Allen Shepherd as Morn
+Unknown performers as
+Bajoran mercenary 1
+Bajoran mercenary 2
+Dabo girl
+DS9 security officer (voice)
+Human civilian
+Human operations ensign
+
+
+=== Stunt doubles ===
+Chuck Borden as stunt double for Christopher Collins
+Maria Kelly as stunt double for Caitlin Brown
+
+
+=== References ===
+2349; accomplice; active memory; allergic reaction; alpha wave; alpha-wave inducer; Antares-class; anti-gravity generator; authorization access code; auto-destruct system; automatic fire suppression; autopsy; bailiwick; Bajoran; Bajoran system; Bajoran wormhole; Bashir's scapular node patient; bearing; biobed; bioelectrical pulse; bio-regenerative research; black market; body; brain; brain scan; Cardassian; Cardassian freighters; cargo bay; cell structure; cellular longevity; central power linkage; cerebral cortex scan; clone; coin; combadge; command and control functions; computer; computer chip; computer memory; consciousness; cryogenics; day; deep space; Deep Space 9 levels; defense array; deuridium; distress signal; distribution amplifier; DNA; DNA reference scan; docking bay; docking ring; dozen; drug; electrical charge; electromagnetic pulse; emergency unit; EM field; examination; Federation; Ferengi; fiddle ("fit as a fiddle"); fingernail; fingerprint; fire; fire extinguisher; Gamma Quadrant; ghost; glial cell; glial scan; glove; handshake; headache; healer; helm; high security penitentiary; hijacking; holding cell; hour; hull breach; humanoid; hypospray; impulse; infirmary; jail; jewelry; joint operation; jurisdiction; Kobliad; Kobliad homeworld; Kobliad pilot; Kobliad Security; Kobliad transport; lab; life support; lighting control; logic; long range sensor; maneuvering subsystem; manual override; map; medical supervisor; medical school; medical supervisor; medical tricorder; mercenary; micro-containment field; microscope; microscopic generator; middleman; Milky Way Galaxy; minute; M-O; morgue; morning; needle; nervous system; neural pattern (aka neural energy pattern); nitrogen; Norkova, Norkova crewmembers; O²; paralysis; parasitic infection; petri dish; phaser; pilot; plot; power waveguide outlet; preliminary examination; priority one; Promenade; pulmonary trauma; raktajino; raktajino machine; rejuvenation drug; replicator; respiratory failure; retinal imaging scan; retinal pattern; retinal scanner; Reyab; Rigel VII; Rio Grande, USS; runabout; scan; scanner; scapular node; scientist; security alert yellow; security code; security file; security lockout; security office; security officer; security sweep; shield generator; shields; skin; soldier of fortune; Starfleet Academy; Starfleet Command; Starfleet Security; starship; stasis; stasis room; stowaway; structural integrity field; subspace crossover link; subspace crossover shunt; subspace shunt; suicide; synaptic field; synaptic pattern displacement; "take a cue from"; temperature control; tractor beam; transplant; transporter lock; unnamed medical tools; Vantika's victims; virtual positron imaging scan; Vener VII; visual cortex; Vulcans; warp; waste reclamation system; week; wing; year
+
+
+==== Deleted scene references ====
+launch pad; security clearance
+
+
+=== External links ===
+"The Passenger" at Memory Beta, the wiki for licensed Star Trek works
+"The Passenger" at Wikipedia
+"The Passenger" at MissionLogPodcast.com
+"The Passenger" at the Internet Movie Database
+"The Passenger" script at Star Trek Minutiae

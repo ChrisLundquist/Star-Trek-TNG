@@ -1,0 +1,222 @@
+Sisko, Jake, and O'Brien accidentally trigger an old Cardassian security system that believes the Occupation is still going on and the station has been taken in a Bajoran workers' rebellion.
+
+
+== Summary ==
+
+
+=== Teaser ===
+In one of Deep Space 9's ore processing units, O'Brien and Jake are deleting old Cardassian files from the computers as part of an effort to convert the facility into a deuterium refinery. Commander Sisko comes in to check on them.
+In the course of their work, Jake asks for help with removing one of the old files, but when O'Brien attempts to help he triggers a security program. Since O'Brien lacks an appropriate Cardassian access code, the OPU is locked down and an alert about a worker revolt is transmitted to ops... much to the consternation of the Ops crew.
+In the OPU a recording of Gul Dukat appears on the display, warning the "workers" that they have eight minutes to end their "revolt."
+
+
+=== Act One ===
+While beginning their effort to escape the OPU, Sisko hears from Kira on his combadge, and she tries to beam them out of the OPU without success... since she also lacks the needed access code. From his security office, Odo then speaks up to the effect that he is also trying to get them out, but that it will take time.
+
+Just then Quark walks into the security office, and offers his help. Much to Odo's surprise, Quark reveals in response that he has access codes for clearances one level higher than Odo does – and offers to make an "arrangement" for giving Odo the added level of clearance. Annoyed, Odo asks Quark to leave, but since Quark feels that the security office is the safest place on the station, he's determined to stay (and annoy Odo just by being there).
+Still frustrated in their efforts to escape, Sisko announces to the computer that he is the leader of the "revolt" and that they surrender. With the reprieve they gain, they work out a stratagem by which Jake will climb up the ore chute and open a hatch to greater safety than they have in the main area of the OPU. Just then, another recording plays, announcing that the compartment will be filled with neurocine gas in three minutes if the all-clear is not sounded by station security forces. As the three minutes draws to a close, Jake is only then able to open the hatch, and the three of them climb above the gas.
+However, the computer detects this escape and initiates a counter-insurgency program which locks down ops and the security office, and dampens combadge signals. The Ops crew is now trapped in the Ops center, as are Quark and Odo in the latter's office.
+
+
+=== Act Two ===
+
+Meanwhile Commander Sisko, O'Brien, and Jake have discovered that their combadges don't work, and start trying to break out of an ore receiving area by using a cart as a battering ram against a hatch. They finally give up that approach and figure out a way to blow the hatch with raw uridium ore primed with electricity from a nearby light.
+
+In Ops, Dax is trying to regain control of the main computer when her hands are burned by an intrusion countermeasure when a force field activates. This countermeasure also escalates the counter-insurgency program again, an action which a new recording says will result in neurocine being pumped into the station's habitat ring, killing everyone there.
+Just then Garak arrives, having made his way through the station with his old but still-valid access codes. Kira immediately sees this ability as a means of evacuating people from the habitat ring, only for Garak to explain that the force fields reappear as soon as he passes through a doorway. Garak tells the senior staff that he has repeatedly tried to use his code to shut down the counter-insurgency program, but does not have sufficient security clearance to do so, feigning ignorance as to why Dukat did not elect to give him top level clearance. He is however able to explain that the neurocine gas can only be stopped by destroying the station's life support system, throughout which the gas is released, saving those in the habitat ring. Dax points out they'll run out of oxygen and suffocate after twelve hours, but Bashir says this time can be used to regain control of the station. Garak is emphatic that this is the only way to save the habitat ring's inhabitants. Major Kira destroys the life support console with her phaser... which escalates the counter-insurgency program once more. The recording that goes along with the event announces that in two hours the station will self-destruct, and the computer begins the countdown.
+
+
+=== Act Three ===
+
+Since Dukat (the former commander of the station) is the only individual who can shut down the self-destruct, Garak tries to impersonate Dukat's codes and hack into the computer. To prevent the computer from scanning Garak's DNA to confirm his identity, Dax devises a new plan to disable the security sensors in Ops. However, before the plan can be put fully into action, an alarm is tripped and the counter-insurgency program escalates yet again – now to level four – which causes a disruptor to materialize in the Ops food replicator and start firing across Ops. One Starfleet officer is vaporized in the crossfire.
+
+A few minutes later Dukat himself beams unannounced into Ops and drily asks who tried to duplicate his access codes. When Kira demands to know what he's doing there, Dukat explains that his ship received a distress call, saying that Terok Nor was in the grip of a Bajoran rebellion. Intrigued, he has come to investigate. Asking where Sisko is, Dax tells him he was last in an ore processing unit, trapped. Kira, still taking cover, demands that he do something, to which Dukat says "All in good time." Dukat requests a cup of red leaf tea from the replicator, pausing the disruptor; Bashir starts to rise, but is forced back down when the disruptor resumes firing. Dukat then laughs out loud upon seeing Garak cowering, claiming this alone has made his trip to DS9 worthwhile. At this Garak stands up, reasoning that as the disruptor has fired around Dukat, it has been programmed only to target non-Cardassians. Dukat tells him he'd have made an exception in Garak's case, had Garak been on the station when he designed the program. Garak goads Dukat that this short-sightedness has held Dukat back, and that Dukat's father had had the same flaw. A fuming Dukat hisses that his father's only flaw was trusting Garak, prompting Garak to respond that at his trial, Dukat's father had said his biggest flaw "was that his ambition outweighed his patriotism." Kira stops this hateful exchange by suggesting that they continue it at some other time. Dukat agrees, and after warning Garak that that time is coming, he requests that Kira follow him into Sisko's (formerly his) office, shutting down the disruptor almost as an afterthought.
+In the office, he offers to shut down the counter-insurgency program, but only in exchange for being allowed to place a Cardassian garrison on the station. Kira immediately refuses those terms, insisting neither Bajor nor the Federation will agree to such, but Dukat asks whether she's really willing to sacrifice the lives of all two thousand people aboard the station. Kira retorts that she would rather destroy the station than hand it back to the Cardassians.
+
+With thirty minutes left on the countdown, Dukat struts out of the office and prepares to transport back to his ship, leaving them to think it over and promising to return when they have about five minutes left. However, as soon as Dukat signals his ship to beam him back, he trips a subroutine in the counter-insurgency program, left in the event the commander of Terok Nor attempted to flee the station during a revolt. A message from his former commanding officer, Legate Kell, informs Dukat that all of his access codes have been rescinded and the countdown can no longer be halted. After castigating Dukat for his "cowardice," the computer tells him to "try to die like a Cardassian", leaving Dukat uncharacteristically lost for words – and trapped with the others.
+
+
+=== Act Four ===
+Dukat tries repeatedly to deactivate the self-destruct, only for the computer to refuse to accept his access codes. Garak starts to laugh, touching off another brief spat between them, before Kira silences them both and tells Dukat to explain the self-destruct process. Dukat says that once the countdown reaches zero, the computer will deactivate the main reactor's stabilizers, triggering a catastrophic overload. Dax asks whether the reactor can be shut down before the countdown is completed; Dukat theorizes that the reactor's laser fusion initiator could be manually disengaged – but only from inside the reactor room. Dax counters that the initiator could be disengaged from a control junction on Level 34, but Bashir points out that with Dukat's access codes rescinded, no one, Cardassian or otherwise, can get past the force fields sealing off Ops. Dax further points out that even if they could disable those fields, they don't have time to disable every single field between Ops and Level 34, and they need a way to shut all of them down simultaneously.
+Back in the ore receiving bay, Sisko and O'Brien successfully blow the hatch which opens to the rest of the station. They try to make their way to ops, but find themselves blocked by force fields.
+In Ops, a plan is worked out to overload the power supplied to the force fields, and it works, also resulting in the restoration of communications (though the force field affecting the security office turns out to be on a different power system which hasn't been overloaded). Kira immediately explains to Sisko the need to disable the reactor's initiator. He orders the rest of the senior staff to begin evacuating the station while he and O'Brien attempt to shut down the reactor. Sisko tells Jake to head for landing pad C, but Jake refuses, opting instead to help his father and O'Brien save the station.
+
+
+=== Act Five ===
+Odo and Quark, still trapped in his office, finally hear Kira inform them communications are back and the force fields are down. Odo, however, finds his is still in place, and supposes the Cardassians didn't fully trust their security officer (himself) at the time, putting his force field on a different system. Quark, frustrated, attributes this to Odo's integrity, which will get them killed. Previously, Quark mourns the fact that despite a lifetime of plotting and faithfully following the Rules of Acquisition the only thing he owns is a bar; Odo tries to cheer Quark up by saying that although he has known of Ferengi who are richer than Quark, Quark is the most devious Ferengi Odo has ever met.
+
+With only six minutes left until the fusion reactor overloads, Sisko and O'Brien discover that the main corridors leading to the reactor control junction are blocked by debris from the power overload, so they decide to direct the reactor's energy against the station's shields instead as they can withstand the overload. O'Brien finds a maintenance conduit to traverse in order to reach a suitable control junction. However, the conduit is in the middle of a plasma fire, complicating the approach. Sisko and O'Brien prepare to travel through the conduit but not before the former sternly tells his son to stay behind in the main corridor, aware of the grave danger in the conduit.
+O'Brien is overwhelmed by the fire and small explosions in the conduit and passes out, but Sisko makes it all the way to the control junction and starts to implement the plan he worked out with O'Brien. While the commander is busy rearranging data rods, Jake disobeys his father's orders in order to pull O'Brien out of the maintenance corridor, saving O'Brien's life. Sisko completes the reconfiguration of the data rods just in time for their plan to succeed: the fusion reactor overload discharges harmlessly against the shields - Deep Space 9 is out of danger.
+On the Promenade, the doors to Odo's office finally open, and he looks back to see Quark browsing through the files at his desk. Among these files, Quark is outraged to find Odo's assessment of him as a self-important con artist who is not as clever as he thinks he is. Then as they walk off together, Odo admits that he was just trying to be nice when he praised Quark's duplicity, because he thought they were both about to die. When challenged, Odo recites a list of Ferengi he considers more devious than Quark, starting with the Grand Nagus and even including Rom.
+
+
+== Memorable quotes ==
+[After the security doors trap Quark and Odo]
+"You're telling me I'm stuck here with you?"
+"No... I'm stuck here with you. Believe me, a far worse fate."
+
+- Quark and Odo
+
+"Well. If you'd like a level seven, I'm sure we can make some kind of arrangement."
+"Leave me alone, Quark."
+
+- Quark and Odo
+
+"You know, I never knew how much this man's voice annoyed me."
+
+- Commander Sisko, to Chief O'Brien while a recording of Dukat blathers in the background
+
+"You have five seconds to enter correct access code."
+"Or what?"
+"I don't know, but I better stop it!"
+
+- Cardassian computer, Jake Sisko, and Miles O'Brien
+
+"You know, I've been here nearly three years and I was just finally starting to think of this place as home."
+"Your home was built by Cardassians, doctor. Don't ever forget that."
+"Well, there's not much chance of that, is there?"
+
+- Bashir and Kira
+
+"Ironic, isn't it? The only place in the galaxy that still recognizes my access code is a Bajoran space station."
+
+- Garak
+
+"I should've listened to my father. He always warned me this was going to happen."
+"What, that you'd spend your final hours in jail? I could've told you that."
+
+- Quark and Odo
+
+"Quark, I've met a lot of Ferengis in my time, and the truth is, while some of them have been more wealthy, I've never met one more devious."
+"Really?"
+"Would I lie?"
+"I guess not. Thank you, Odo. That means a lot to me. Now, can I have the phaser back?"
+"No."
+
+- Odo and Quark
+
+"Why go to so much trouble to keep people out of the security office?"
+"It's not to keep people out, it's to keep me in. I suppose, during the Occupation, the Cardassians considered their security chief a security risk."
+"And I know why."
+"Oh, do you?"
+"It's because they knew you were an honorable man. The kind of person who would do the right thing regardless of the circumstances. And now your integrity... is going to get us both killed. I hope you're happy."
+
+- Quark and Odo
+
+"Let me guess. Someone tried to duplicate my access codes."
+"Dukat, what the hell are you doing here?"
+"A short time ago, I had the strangest experience; there I was, patrolling the Demilitarized Zone when I received a distress signal from me. Or at least a recording of me. It seemed the Bajoran workers were rioting on Terok Nor. I must admit it piqued my curiosity."
+
+- Dukat and Kira
+
+"Where's Commander Sisko? I trust he wasn't vaporized, while asking for one of those raktajinos he's so fond of?"
+
+- Dukat
+
+"Garak, groveling in a corner. That alone makes my trip worthwhile."
+
+- Dukat
+
+"(signals his ship) Dukat, one to transport. Energize... (nothing happens) Energize!"
+"Dukat, if you are seeing this recording, it means you tried to abandon your post while the station's self-destruct sequence was engaged. That will not be permitted."
+"This is outrageous!"
+"You have lost control of Terok Nor, disgracing yourself and Cardassia. Your attempt to escape is no doubt a final act of cowardice. All fail-safes have been eliminated, your personal access codes have been rescinded. The destruct sequence can no longer be halted. All you can do now is contemplate the depth of your disgrace... and try to die like a Cardassian."
+
+- Dukat and Kell (on recording)
+
+"I thought your father told you to stay out of there!"
+"If you don't tell him, I won't."
+
+- O'Brien and Jake
+
+
+== Background information ==
+
+
+=== Story and script ===
+This episode had an extremely difficult gestation. According to Ira Steven Behr, "It was one of those back-breaking, horrible, horrible experiences," although he does acknowledge that "it was terrific at the end." The original pitch by Mike Krohn was intended as a bottle show, and while the basic man-against-machine element of the plot was fine, the problem, according to Ronald D. Moore, was in trying to find a way "to make the jeopardy intriguing, to find the inner story." By the time of production, virtually every writer on the staff had had a go at the script, but every single draft was rejected by Michael Piller. According to Behr, Piller called him at 8:00am on a Monday morning to tell him, "I hate to say this Ira, but I'm not buying any of it – it's not working." In the end, after much work, the staff finally got together a script which Piller approved, and the episode was green-lit, but even then, there were more problems. According to Behr, "The writing process turned out as painful and disgusting as we thought it would be." However, he does acknowledge that "in the end, it turned out solid, with some nice twists and some great stuff for Garak and Dukat, and the paired up teams." (Star Trek: Deep Space Nine Companion, p. 184)
+Behr commented on Dukat being more of a villain than he was previously in "The Maquis, Part I" and "The Maquis, Part II", "We were making him a little too friendly and we definitely did not want to do that. I don't want him to become the friendly neighborhood Cardassian". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p 87)
+
+
+=== Production ===
+The belt which Odo wore for the first six episodes of this season disappears in this episode. Rene Auberjonois had originally asked for the belt because he liked the look of the belt which costume designer Robert Blackman had designed for the mirror universe Odo's all-black outfit in "Crossover". However, on the beige costume, Auberjonois felt that the belt looked "Buck Rogers-y" and asked if he could remove it. Kira finally notices the difference in "Crossfire". (Star Trek: Deep Space Nine Companion, p. 185)
+
+
+=== Reception ===
+David Livingston commented, "Cool episode. And poor Reza had no prep time". (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p 86)
+Bo Yeon Kim commented, "There's always that one episode where everything just "clicks" for you, the one that makes you realize when you're helplessly in love with a show. This was that episode for me with DS9. It had a wonderful balance of action and comedy, vaguely disguised as a bottle show (for which I have a great affinity), through which somehow every character was given an opportunity to shine. It also brilliantly utilized the space station and its notorious history as a Cardassian station, creating (quite literally) a ticking time bomb." [1]
+The Companion's Rory Doherty argued that the episode is symbolic for Deep Space Nine's central tensions, writing, "What appears like a frothy adventure puzzle shows complexities beneath its comedy, where the action is metaphor, and the characters reflect on the relentlessness with which Cardassia will haunt those who took its place."[2]
+"Attention Bajoran workers" has become a popular meme on Twitter/X and Reddit.
+
+
+=== Trivia ===
+This is the first episode where we see Dukat express a desire for Kira, something that would return many times in the future, perhaps seen at its most forceful in the fourth season episode "Return to Grace" and the sixth season episode "A Time to Stand". In this episode however, his attempt to impress her is treated humorously, something which displeased Nana Visitor. According to Visitor, "I would have liked my character to make the point that only a few years earlier, Dukat's wanting me would have meant that he could have had me, and I wouldn't have been able to do a thing about it. So it shouldn't have been seen as a 'cute' moment. It was actually a horrifying moment, one that would make Kira feel disgust and panic. To Kira, Dukat is Hitler. She's not ever going to get over that. She can never forgive him, and that is important to me. Kira may have started to see Cardassians as individuals, but she will always hate Dukat." (Star Trek: Deep Space Nine Companion, p. 184) In subsequent episodes, Dukat's longing for Kira would take on a much less humorous tone.
+This episode builds upon the antagonism between Gul Dukat and Garak which was first hinted at in the second season episode "Cardassians". It would next be seen in the fourth season episode "The Way of the Warrior".
+This episode was the first to mention Quark's cousin, Gaila. Josh Pais plays the character in the episodes "Business as Usual" (Season 5) and "The Magnificent Ferengi" (Season 6).
+This is the second time in the series that a hidden device or program on Deep Space 9 causes mayhem on the station; the first time was the aphasia device planted by Dekon Elig in DS9: "Babel".
+Referenced Rules of Acquisition: #75 ("Home is where the heart is, but the stars are made of latinum")
+"Civil Defense" resembles the Star Trek: Voyager episode "Worst Case Scenario". In both episodes the crew trigger a computer program which they are unable to shut down and which proves life-threatening. However, in "Worst Case Scenario", the program was a holographic simulation that became a threat to the crew primarily due to an accident. In "Civil Defense", however, the program had been placed there specifically to threaten the crew. Coincidentally, in both episodes the programs' creators are Cardassian (although in "Scenario" Seska merely adapted a pre-existing program rather than creating one of her own).
+
+
+=== Remastered version ===
+Remastered scenes from the episode are featured in the documentary What We Left Behind.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 3.4, 27 March 1995
+As part of the DS9 Season 3 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Andrew Robinson as "Garak"
+Marc Alaimo as "Gul Dukat"
+Danny Goldring as Kell
+
+
+=== Uncredited co-stars ===
+Ivy Borg as Rita Tannenbaum
+Judi Durand as Deep Space 9 computer voice
+Bill Hagy as Markalian
+Sue Henley as command officer
+Randy James as Jones
+Zak Knutson as Pakled commander
+Mary Mascari as Bajoran woman
+Robin Morselli as Bajoran officer
+Michael Prokopuk as command officer
+
+
+=== Stand-ins and photo doubles ===
+Ivor Bartels as stand-in/ photo double for Cirroc Lofton
+
+
+=== Stunt double ===
+Unknown stunt performer as stunt double for Colm Meaney
+
+
+=== References ===
+2369; access code (aka authorization code, command code, emergency code, security code); Bajor; Bajorans; bar; baseball; burn; Cardassia; Cardassian; Celsius; command pathway; con artist; control junction; counter-insurgency program; cousin; DaiMon; dampening field; Deep Space 9 levels;  Defiant, USS; Demilitarized Zone; deuterium; DNA; door; Dukat's father; electrical charge; fail-safe; Federation; Ferengi; flaw; Frin; fusion reactor; Gaila; Gaila's moon; garrison; Grand Nagus; groveling; habitat ring; heart; home; hour; infirmary; interrogative subroutine; Jake-o; Keldar; landing pad; laser fusion initiator; latinum; leader; main fusion reactor; maintenance conduit; medkit; meter; Milky Way Galaxy; neurocine gas; neutralization emitter; Occupation of Bajor; operations center; oxygen; paranoia; patriotism; plasma conduit; plasma fire; power supply grid; Prakesh; Promenade; purification (chemistry); Quark's; racquetball; raktajino; ram; reaction stabilizer; red leaf tea; replicator; revolt; riot; Rules of Acquisition; runabout; security clearance; security protocol; self-destruct; short-sightedness; star; stirrup; suffocation; surrender; temperature; ton; tone of voice; Tye; turbolift shaft; uncle; uridium; worker; Zek
+
+
+=== External links ===
+"Civil Defense" at Memory Beta, the wiki for licensed Star Trek works
+"Civil Defense" at Wikipedia
+"Civil Defense" at MissionLogPodcast.com
+"Civil Defense" script at Star Trek Minutiae
+"Civil Defense" at the Internet Movie Database

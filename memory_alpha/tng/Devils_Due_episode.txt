@@ -1,0 +1,266 @@
+The USS Enterprise-D responds to a distress signal from a science station on Ventax II, where the planet is in chaos over the return of a being who claims to be that culture's "devil".
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+On the holodeck, Jean-Luc Picard is sitting off to the side in a chair and is watching with interest as Data performs a scene from Charles Dickens' A Christmas Carol, playing Ebenezer Scrooge to a holographic Jacob Marley. As with a previous critique of Data's performance as Henry V, (TNG: "The Defector") Picard compliments him on his technique, but encourages him to be more creative and less imitative. Data explains that he is using the technique of method acting, as it requires an actor to seek his or her emotional awareness to understand the character they are playing. Data believes that if he can learn to duplicate the fear of Ebenezer Scrooge, it will bring him one step closer to understanding Humanity. Picard remarks that Data's creation of his own interpretation of the role instead of duplicating other actors' performances has brought him closer to understanding Humanity.
+The USS Enterprise-D receives a distress call from a Federation science station on Ventax II. Commander Riker calls Picard to the bridge. They receive a garbled transmission from the team leader, Doctor Howard Clark, who reports that the planet is in chaos, and its entire population in the grip of mass hysteria: all of them believe their world is coming to an end.
+Suddenly, the transmission ends.
+
+
+=== Act One ===
+The Enterprise arrives as the science station is being besieged by an angry mob, and are only able to beam up Dr. Clark before the mob breaks in and confuses their sensors. In Picard's ready room, Clark reports that, a thousand years ago, the Ventaxians had achieved an extremely advanced technological level, but then voluntarily renounced it and reverted to a simple, agrarian existence. Since then, their culture has been peaceful and prosperous, with virtually no social problems – in fact, Clark says he would have described their society as idyllic, except for a superstitious streak that is now rearing its ugly head.
+Several years ago, the Ventaxian head of state, Acost Jared, became obsessed with the legend of Ardra, a figure akin to Earth's Devil. According to the legend, the Ventaxians made a deal with Ardra a millennium ago: one thousand years of peace and tranquility, and the end of war, poverty, and famine which at that time plagued Ventax II; in exchange, she would lay claim to the planet and enslave its inhabitants upon her return.
+In fact, it is soon learned from Jared that a mob is holding the rest of the science team hostage, claiming that the prophecies surrounding Ardra's return have come true: a shaking of the cities caused by minor earthquakes, and many people, including Jared, are having visions of her appearing to them. Picard believes this to be merely a dream but Jared assures him the planet's inhabitants, including himself, have seen visions of her.
+Picard beams down to the planet with Data, Deanna Troi and Worf to try and convince Jared to negotiate for the release of the hostages, but Jared, a very frightened man, says it is no longer in his control. Picard tells him he is being ridiculous, when a small tremor shakes the capital city, and a woman appears with a flash in the main hall. Smiling, she gleefully announces, "Time's up."
+
+
+=== Act Two ===
+
+Jared nervously addresses the woman as Ardra, using respectable titles which slightly annoys her. Picard demands to know who the woman is, and she airily claims to have many names, each belonging to some manifestation of evil in several cultures, including (with a sly glance at Worf), Fek'lhr, into which she briefly transforms. Despite her flair, she acts in a very businesslike manner; she presents Jared with a set of forms (appearing out of thin air) covering censuses and economic forecasts of the planet, since it is now hers. When Jared mentions the Federation hostages, she orders them to be immediately released, much to the relief of Dr. Clark. Picard dispatches Data to thoroughly study the ancient scrolls upon which the pact with Ardra is written. Meanwhile, with the hostages released, he returns to the starship.
+Aboard the Enterprise in the observation lounge, Picard and his crew discuss possible explanations. Riker considers whether Ardra may be another renegade Q Continuum member, or even Q himself as Dr. Crusher suggests, appearing in female form as a lark. Picard, however, thinks the woman is too interested in the earthly resources of the planet, and has quickly concluded that the woman is simply a flim-flam artist: after all, each and every one of her "magic" tricks can be produced with modern technology – transporters, holograms, or tractor beams – and Ardra only adds a little dramatic flair.
+
+Emerging onto the bridge, Picard is surprised to see Ardra sitting in his chair, continuing to show off, repeatedly using her powers to repel attempts to be removed by Worf and thwart attempts to beam her off the ship, even changing into a Starfleet uniform and sitting at the Enterprise's operations station. She is present when Data concludes that the language of the contract is quite clear. Intrigued by the speed of his mental powers, Ardra asks Data how he does it, and he replies that he is an android, which she declares an "unexpected bonus!" – since the pact giving her possession of the planet includes things in orbit, such as the Enterprise. Aghast, Picard looks at Data, who confirms that the contract could well be interpreted that way. Only then does Ardra disappear.
+
+
+=== Act Three ===
+Data visits Picard in his ready room, where the captain, to arm himself against Ardra's tricks, immerses himself in a study of "the con game," which he declares to be "quite fascinating." He also invokes the saying from P.T. Barnum, "There's a sucker born every minute." When Data asks why he can be so sure Ardra is a con artist, Picard tells Data to recall what he has learned from playing Ebenezer Scrooge: that fear is a very powerful motivator. But while fear is used for positive ends by the Spirits in Dickens's story, fear is a potent weapon in the hands of a con artist. He tells Data to check Ventaxian legal precedents as well as the ancient scrolls. Until they can discover exactly how Ardra's cons are being worked, they need to find some way of challenging her claim on the planet.
+That night, Ardra attempts to seduce Picard by appearing in his quarters while he sleeps, and changing into several "forms" with her bag of magic tricks (including Counselor Troi's). He remains unmoved and uninfluenced, his belief in her as a fraud far more powerful than whatever else he might think of her. She beams him down to the planet in his pajamas and apparently disables the transporters. Data has to come down in a type 15 shuttlepod with a uniform to pick him up. On the return trip, he informs the captain that he has found a useful legal precedent: a contract dispute that would have been routine, except one of the claimants was an alien (a Klingon handyman); because of this, the Ventaxian government decided to have the matter settled through arbitration, rather than the courts. Because it remains the only case involving an alien claimant, the same precedent could theoretically be used to challenge Ardra in an arbitration.
+Unfortunately, as the shuttle is about to dock, the Enterprise itself vanishes.
+
+
+=== Act Four ===
+On the planet, in the Federation science station, La Forge reports that the Enterprise cannot be detected anywhere within a light year. However, the station did detect a jump in Z-particles in the area, indicating a power source that could possibly be tracked down.
+Once again, Ardra appears, and Picard challenges her to an arbitration: if she loses, she will give up her claim on the planet. He reminds her that she has nothing to lose, if her claim is as unassailable as she maintains. She retorts that she has nothing to gain, since the planet is already hers; why should she waste her time? Picard offers, if she wins, to take her to the Zaterl emerald, a semi-mythical gemstone found in ruins located on the planet Ligillium. Ardra has a counter-proposal: if she wins, she wants Picard himself: mind, body, and soul, without reservation. He agrees, and invites her to choose an arbitrator. She chooses Data: as an android, he is unable to lie or be influenced by bias or favoritism. Taking Picard aside, Data confides that Ardra is right, and if Ardra presents a convincing case under the rules of Ventaxian law, he will have to rule in her favor. Picard assures him that he supports her choice as well, since Data is probably the sole person on the planet Ardra cannot intimidate.
+
+During the arbitration, Jared is a prime witness for both sides. He explains the desperate state of Ventax II a thousand years earlier, that drove them to make their pact with Ardra, which gradually transformed the planet into its peaceful, agrarian state. Picard disputes whether Ardra did anything to help Ventax II, and Ardra demonstrates her various "powers", including appearing as Earth's Devil. Ardra challenges Picard to explain these things, if he is so sure she is not really Ardra. Picard admits that he cannot.
+
+
+=== Act Five ===
+In the science station, the activity in the courtroom has generated more spikes in Z-particles that is allowing La Forge and Dr. Clark to close in on the power source that seems to be the source of Ardra's magic.
+In the courtroom, Picard comes at Ardra from a different direction: he asks Jared about the actual process by which Ventax II changed from a warlike, polluted planet to the "paradise" it is now. Jared describes a gradual course of events by which a new government was formed, a new economic model was adopted, all the weapons on the planet were rounded up and destroyed, and the people worked, and gradually succeeded, in cleansing the polluted portions of the planet. As he describes each of these processes, Picard asks what Ardra's role in them was, and Jared, discomfited, admits that, as far as Ventaxian history records, she had none. Allowing himself some sarcasm, Picard asks, "did she not even pick up one piece of trash?" Jared, deadpan, replies that Ardra was long gone by the time the Ventaxians started cleansing their environment. Picard argues that the ancient Ventaxians saved themselves, and Ardra did nothing that now entitles her to the planet. In rebuttal, Ardra asks Jared whether he has any doubts that the Ventaxians owe their salvation to her intervention, and if he is satisfied that she has lived up to her end of the bargain. Despite what he just told Picard, Jared is far too cowed to say anything, other than that he has no doubts at all. Ardra concludes that both sides of the contract have been fulfilled; since the [former] head of state agrees that she fulfilled her side of the bargain, there is nothing left to dispute. Things are not looking well for Picard's reputation as a litigator, not to mention his immortal soul.
+Then, La Forge enters the courtroom and Picard requests a recess. Aside, La Forge tells him that Ardra's "magical" activity has allowed him to pinpoint the power source they were looking for: a ship in orbit above the planet's magnetic pole, concealed by a "bad copy" of a Romulan cloaking device. The Enterprise never left its position; Ardra's ship simply extended its cloaking shields over it. La Forge has already made contact. With a predatory glint in his eye, Picard instructs La Forge what he wants him to do.
+When the court reconvenes an hour later, Picard holds the floor, and announces that Ardra has no powers whatsoever. Jared, confused, says that everyone in the courtroom has seen Ardra's power. Dripping sarcasm, Picard rejoins, "Oh, yes... Ardra's magic!" then, with snaps of his fingers, Picard causes the capital city to tremor, Ardra to disappear and then reappear inside the courtroom, and Picard himself to appear as Fek'lhr, all of which Ardra seems powerless to affect in any way. Picard explains that a team from the Enterprise has seized control of Ardra's ship, and arranged the "demonstrations" they just witnessed, from her ship's rather ingenious suite of transporter, holography, and tractor beam effects, using two way communication between himself and Riker on the other side of his combadge. Ardra was controlling these effects with a simple remote control implant, activated by imperceptible movements of her eye.
+Picard remarks wryly that Ardra was being truthful when she said she was "known by many names": her ship's records identify her as a notorious con artist, known by at least twenty-three different aliases in this sector alone. With the legend of Ardra committed to memory, she was about to win the largest prize of her career: an entire planet.
+
+Rising from her chair, Ardra formally renounces her claim on Ventax II, and attempts to escape, but Jared, no longer cowed, summons security guards, who place her under arrest. Jared thanks Picard for saving their lives, but Picard reminds him that Ventax II saved its own life, a long time ago. Data rules that with the withdrawal of the plaintiff, the contract is null and void. Ardra, however, has the last word, teasing Picard that he would have had much more fun if he had lost, and is led out of the room with a breezy "Until we meet again." Data and Picard depart back to the Enterprise.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2367
+
+
+== Memorable quotes ==
+"Method acting? I'm vaguely familiar with it."
+
+- Picard
+
+"And who is this Ardra?"
+"For all intents and purposes... the Devil."
+
+- Picard and Howard Clark
+
+"Who would you be?"
+"I'm Captain Jean-Luc Picard of the Federation starship Enterprise."
+"Keep up the good work."
+
+- Ardra and Jean-Luc Picard
+
+"Enterprise, advise Dr. Clark that the hostages are being released."
+"This is Clark. You did it, Captain! Thank goodness!"
+"Goodness had nothing to do with it!"
+
+- Howard Clark and Jean-Luc Picard, after Ardra orders the hostages released
+
+"Could she be another refugee from the Q Continuum?"
+"For that matter, could she be Q?
+"Q would never bother with contracts."
+"Or economic forecasts."
+
+- Riker, Crusher, Picard, and Troi, while trying to discover Ardra's true identity
+
+"The Klingons call me Fek'lhr."
+"You are not Fek'lhr!"
+
+- Ardra and Worf
+
+"Ah, my pale friend has returned."
+
+- Ardra, referring to Data
+
+"I've encountered many who are more credibly to be called the Devil than you."
+
+- Picard, likely referring to the Borg or Q, when Ardra questions his disbelief in the Devil after exploring such a diverse universe of creatures
+
+"She has an incredibly focused mind. It was virtually impossible to sense any deception... or anything else, for that matter."
+"The best magicians will never let you see what's up their sleeve, Counselor."
+
+- Troi and La Forge, on Ardra
+
+"Ensign, put up the shields until further notice."
+"Yes, sir, Captain. Whatever you say."
+"We are not impressed with your magic tricks!"
+"I pity you. We live in a universe of magic, which evidently you cannot see."
+
+- Picard, Ardra posing as a female Starfleet ensign, and Riker
+
+"Oh, come now, Picard! You know you find me tantalizing. Give in to your desires."
+"You know, there's nothing about you I find tantalizing. On the contrary, I find you obvious and vulgar."
+
+- Ardra and Picard, when Ardra attempts to seduce him in his quarters
+
+"I want your heart, your mind, your soul and I want you to give them to me without resistance, of your own free will. So, do you still wish to pursue this most dangerous game?"
+"I agree to your terms."
+"Oh, Picard, I will enjoy you morning, noon, and night."
+
+- Ardra and Picard
+
+"Just have Mr. Data fetch me in a shuttle and have him bring along a uniform."
+"Did you say uniform?"
+"Yes, I did!"
+
+- Picard, after being brought down to Ventax II in his sleepwear, and Worf unable to beam him up
+
+"The advocate will refrain from expressing personal affections for her opponent."
+
+- Data
+
+"The advocate will refrain from making her opponent disappear."
+
+- Data
+
+"I will draw my own conclusions, if you do not mind... sir."
+
+- Data, after Ardra objects to Picard making a conclusion
+
+"Mr. La Forge, my reputation as a litigator, not to mention my immortal soul, is in serious jeopardy."
+
+- Picard, after La Forge comes into the courtroom with the results of his search
+
+
+== Background information ==
+
+
+=== Production history ===
+First adaptation, by Melinda Snodgrass: 25 August 1989
+Second draft script: 29 June 1990
+Third draft script: 7 September 1990
+Fourth draft script: 8 October 1990
+Fifth draft script: 19 October 1990
+Final draft script: 2 November 1990 [1]
+Second unit and insert shots are filmed on Paramount Stage 8: 7 December 1990
+Premiere airdate: 4 February 1991
+Final UK airdate: 14 September 1994
+
+
+=== Story and script ===
+
+A very early version of this story was part of Gene Roddenberry's first draft proposal for Star Trek: The Original Series in the early 1960s. (Star Trek Encyclopedia, 2nd ed., p. 115) The story was later developed into a script for the unproduced series Star Trek: Phase II. Along with "The Child", it was earmarked for possible recycling for Star Trek: The Next Generation, in anticipation of what became a lengthy Screen Writers' Guild strike which delayed production on Season Two. In the Phase II script, set on the planet Neuterra, Kirk defended the interests of the planet's inhabitants. The Ardra entity was a male being called "Komether" and the Enterprise computer served as the judge. (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 101-102; Star Trek: The Next Generation 365, p. 189; Star Trek: The Next Generation - The Continuing Mission, p. 143)
+During the third season of TNG, Michael Piller commissioned Melinda Snodgrass to do a minimal rewrite of the script, replacing the characters with the Next Generation crew. "That didn't work at all," Piller remarked, "and we started talking about how we could change it to better suit our show." Because the writers didn't manage to find a solution of how to write the episode during Season Three, Piller gave it to Philip LaZebnik over the hiatus between that season and the next one. Piller recalled, "He turned it inside out and made it a delightful show. It was too funny, though, and the people felt it was playing it all for laughs. I loved that draft of the script, but not everybody did. It was put into rewrite by approximately 15 people between Phil's script and the final draft, which I took, changing the male devil into a female devil for fun. [I] put back as much of Phil's original script as I could." David Livingston described changing the Ardra character into a woman as "a great fix." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 214-215)
+Livingston recalled that the script went through many revisions. Indeed, those who worked on rewriting the script comprised a larger team of writers than most episodes required and included not only Piller, Snodgrass, and LaZebnik, but also William Douglas Lansford, Lee Sheldon, Larry Carroll, and David Bennett Carren. (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 214-215)
+
+
+=== Production ===
+Candidates for the role of Ardra were Stella Stevens and Adrienne Barbeau. (The Official Star Trek: The Next Generation Magazine issue 19, p. 10) Marta Dubois, who was ultimately cast in the part, had previously tried out for many other TNG roles. "We brought her in for a lot of sessions and never found the right part for her," remembered David Livingston. "She came in and just blew us all away. Like, how do you do better? Let's just start shooting. Where's her wardrobe? We want more of that. I'm always pushing for more humor on this show. I think we get a little too serious sometimes. It's nice to be a little lighter." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 215)
+The graphic of a multimodal reflection sorting, initially seen in "The Best of Both Worlds", was re-used on a console in the science station on Ventax II.
+Second unit and insert shots for this episode were filmed on Friday, 7 December 1990 on Paramount Stage 8.
+The chairs used in the arbitration were common props and featured in The Addams Family movie. (citation needed • edit)
+
+
+=== Music ===
+This episode was scored by Ron Jones.
+
+
+=== Continuity ===
+An individual resembling the Devil, aka Lucien, first appeared in "The Magicks of Megas-Tu", an episode of Star Trek: The Animated Series.
+The name of the Klingon homeworld is "presumed" to be "Klingon" when Picard, as Fek'lhr, says, "Impudence is pretending to be Fek'lhr of Klingon!"
+Worf is unnerved at seeing Ardra transform into Fek'lhr, who torments the dishonored after they die; at this time, he is still suffering from discommendation by the Klingon High Council. Kang had previously stated in "Day of the Dove" that Klingons have no Devil, so Fek'lhr is presumably the closest cultural equivalent.
+Picard mirrors Q's finger-snapping when performing the "supernatural" tricks at the end of the episode.
+
+
+=== Reception ===
+Michael Piller ultimately approved of this episode, stating, "The bottom line was I felt the script was very funny and satisfying. It was very off for our show, and I thought its origins showed, but ultimately it was a funny little show and a nice part of our mix." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Riker actor Jonathan Frakes commented, "It was like an old Star Trek. It's ironic that it was an old Star Trek story, because it's really a Kirk story. It was so '60s." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 215)
+"Devil's Due" was the highest-rated TNG episode since "Encounter at Farpoint". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 214)
+A mission report for this episode by John Sayers was published in The Official Star Trek: The Next Generation Magazine issue 16, pp. 10-12.
+This episode was nominated for an Emmy Award for Outstanding Costume Design for a Series (Robert Blackman).
+At the beginning of this episode, Picard is viewing Data doing a re-enactment of a scene from A Christmas Carol. Patrick Stewart, who played Picard, later went on to play the lead in a 1999 re-make of A Christmas Carol and live on stage at the Guthrie Theater in Minneapolis in their annual production.
+
+
+=== Video, DVD, and Blu-ray releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 44, 6 April 1992
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 4.5, 16 July 2001
+As part of the TNG Season 4 DVD collection
+As part of the TNG Season 4 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Marta Dubois as Ardra
+Paul Lambert as Howard Clark
+Marcelo Tubert as Acost Jared
+
+
+=== Co-stars ===
+Thad Lamey as Devil Monster
+Tom Magee as Klingon Monster
+
+
+=== Uncredited co-stars ===
+Terrence Beasor as Alien voices
+Cameron as Kellogg
+Cooper as Reel
+William Glover as Jacob Marley
+Mark Kosakura as operations division ensign
+Lorine Mendell as Diana Giddings
+Noriko Suzuki as operations division ensign
+Unknown performers as
+Three Federation scientists
+Three Ventaxian aides
+Transporter chief (voice)
+Two Ventaxian guards
+Ventaxian citizens
+
+
+=== Stand-ins ===
+Brett – stand-in for LeVar Burton
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+14th century; 2297; ability; accuracy; acting master; acting technique; actor; adjournment; Adler, Stella; advocate; agrarian society; agreement; air; alias; alien; altitude; ancestor; android; anthropology; anxiety; arbiter; arbitration; Ardra; Ardra's ship; arrival; associate; Atheneum; atmospheric contaminants; anthropology; "bargain; Barnum, P.T.; base of operations; beef; behavior; Berussian Cluster; bit player; body; business arrangement; capitulation; career; case; census; century; chair; character; cheese; Christmas Carol, A; city-state; claim; claimant; cloaking device (cloaking shield); communicator; computer; computer program; con artist (aka flim-flam artist); con game; conclusion; contempt of court; construction; Contract of Ardra; coordinates; copy; council; courage; court; courtesy; craftsman; creature; crust; culture; Dante; decay rate; deceit; deception; degree; desire; destruction; devil; director; disorder; disruption; document; door; dream; Drellian; earthquake (tremor); east; ecology; economic forecast; economics; economy; effect; emergency; emergency transmission; emotion; emotional awareness; epidemic; event; evidence; existence; expedition; experience; exploitation; eye; famine (starvation); fear; feeling; Federation; Fek'lhr; fire; first contact; force field projection; form; fraud; free will; friend; game; Garnav; generation; government; grave; gravy; Gre'thor; guardian; guideline; hail; head of state; heart; high-resolution scan; historical records; holographic program; holographic projection; holography; home; hostage; hour; Human (Humanity); hundred; identity; illusion; implant; impression; industrial base; industrial waste; initiative; interference; intruder; intruder alert; jewel; job; judge; judgment; jurist; kilometer; Klingon; knee; law; leader; legal precedent; legend; light year; Ligillium; litigator; loophole; looting; magic (magic tricks); magician; magnetic pole; mass hysteria; Mendora; mentor; method acting; Midsummer Night's Dream, A; Milky Way Galaxy; mind; mob; mustard; mythology; name; night; non-believer; north; number one; O'Brien, Miles; obedience; objection; obligation; observation; observer; opponent; orbit; panic; paradise; peace; performance; philosophy; pollution; population; potato; power; power source; privacy; prize; productivity; promise; property; prophet; prophecy; punishment; purification (chemistry); Q; Q Continuum; question; reality; reason; rebuttal; reception; recess; refugee; report; reputation; respect; risk; Romulan; ruins; rules of conduct; scene; scholar; science station; science team; scroll; Scrooge, Ebenezer; sculpture; sense; sentiment; Shuttlepod 01; sin; snow; social problem; society; soul; speculation; speed; spirit; staff; Stanislavsky, Constantin; Starfleet uniform;  stomach; subspace damping field; subspace frequency; sucker; suicide; summary dismissal; surface; surrender; tapestry; tectonic plate; tectonic stress pattern; tenant; term; "there is a sucker born every minute"; theology; thing; thousand; threat; title; Torak; tractor beam; tranquility; transporter (transporter effects); Transporter Room 3; transporter technology; trash; treaty of non-aggression; universe; "up their sleeve"; vault; Ventax; Ventax II; Ventax II Constitution; Ventax II sector; Ventaxian; Ventaxian city; Ventaxian cities; Ventaxian law; verdict; vernacular; viewscreen; violence; vision; visitor; visual scan; waste disposal; water; west; witness; year; z-particle; Zaterl emerald
+
+
+==== Unused production references ====
+AA; Akul K'Ton; Garv Etes; Tau Velor
+
+
+=== External links ===
+"Devil's Due" at Memory Beta, the wiki for licensed Star Trek works
+"Devil's Due" at Wikipedia
+"Devil's Due" at MissionLogPodcast.com
+"Devil's Due" script at Star Trek Minutiae
+"Devil's Due" at the Internet Movie Database

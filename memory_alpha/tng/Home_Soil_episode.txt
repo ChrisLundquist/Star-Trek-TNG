@@ -1,0 +1,231 @@
+When the Enterprise-D visits an outpost in the process of terraforming a dead planet, they find the science team threatened by a mysterious new form of life.
+
+
+== Summary ==
+
+
+=== Teaser ===
+The USS Enterprise-D is on a mission to catalog young planets in the Pleiades Cluster. Along the way, they have been instructed by the Federation to check on the terraforming colony on Velara III, as they were behind schedule. Captain Picard calls down to the station, and after a minute or two of no answers from the planet, Director Kurt Mandl finally responds. On the viewscreen, the director insists there is no need for them to pay a visit as they are back on schedule. Counselor Troi senses that he is extremely nervous about something, especially when Picard insists that an away team be sent down to have a look around. Troi, Commander Riker, Lieutenant Yar, Lieutenant Commander Data, and Lieutenant La Forge beam to the facility.
+
+
+=== Act One ===
+
+They are greeted by hydraulics specialist Arthur Malencon, biosphere designer Luisa Kim, and Chief Engineer Bjorn Bensen. Outside the complex is Velara III's dark, windswept desert, a hostile place, which Kim tells them to remember; in a couple of decades, she plans for it to look like a Garden of Eden. Kim apologizes for their director's rudeness. She points out that they don't get many visitors and mentions that Dr. Mandl has been under a great deal of stress lately.
+Kim offers a look around, proudly explaining their amazing procedure of taking a lifeless planet and converting it into a class M environment. Afterwards, La Forge and Data can't help but go to Malencon at the controls for the hydraulic probes. He mentions he has been having problems with the erratic power surges in the servos that control the probes. La Forge offers assistance, wondering if the high saline content of the soil is disrupting conductivity. Mandl finally enters, appearing gruff and moody. He reminds Malencon of their tight schedule and sends the reluctant tech off to work in the laser drilling room. Mandl directs the away team's attention to a schematic diagram of their planning; everything is specific and exacting.
+
+Suddenly, Troi senses terror and announces that Malencon is in serious trouble. A warning siren sounds and the group runs to the hydraulic station. As they approach, they hear the blasting of a drilling laser and cries of pain. The door to the room is sealed; they try to force the hatch when the laser blasts and screams abruptly stop. Upon opening the door, they find the room is a complete mess and spot Malencon, so badly injured he probably cannot be saved. In the center of the room a large drilling laser hangs from a control arm, still pointing down at him.
+
+
+=== Act Two ===
+
+Riker has Malencon transported to the Enterprise-D sickbay, but indeed Crusher cannot save him. In the meantime, they have the power to the hydraulics room shut down. Kim, Mandl, Troi, and Riker head to the ship as well; the rest stay to survey the damage. Data finds it interesting that the laser drill seemed to stop at the moment Malencon stopped screaming. He reactivates power to the room and reruns the drilling program. Data watches the drill run its cycle as it blasts down into each of the bore holes. As he turns away for a moment to check the readouts, the drill suddenly pivots toward him from behind and the door closes by itself. Fortunately, Data is saved by his android reflexes and quickly dodges the drill's beam as it blasts past him. Hearing the drill firing repeatedly, La Forge and Bensen come to the rescue but find the door is sealed again. Beyond it, they hear a horrendous crash and the smashing of equipment. La Forge screams Data's name but receives no answer. They finally get the hatch open, and find that Data has ripped the drilling machine down from its mounting. The whole device lies mangled on the floor, and Bensen laments that a year's work has been destroyed. Data simply tells Bensen he had no choice.
+
+In Picard's ready room, he tells Mandl he is shutting down operations until the matter is investigated; Mandl is outraged, stating that Picard is overstepping his authority. Picard says a member of his crew has been attacked, which gives him the right to intervene. Mandl reminds him that he has a delicate schedule to maintain, but Picard says it is on hold until he has answers. Yar escorts Mandl to his temporary quarters and now La Forge and Data inform him the drilling laser was somehow reprogrammed to kill anyone who entered the room. The three remaining terraformers seem to be the only possible suspects. Picard instructs La Forge and Data to return to the planet to look for any sabotage or tampering. He also tells Yar to dig up the service records of all the terraformers for himself, and Counselor Troi to review and look for a possible motive.
+
+Data and La Forge return to the station. Data notices a strange flicker of light down at the far end of one of the bore shafts. He makes sure it isn't a reflection, then scans it with his tricorder. He gets no readings, so he asks La Forge to look at it with his VISOR. Using its various visual modes, La Forge scans the object. It's inorganic, yet the pulses of light and color are unexplainable. Data wonders if it could be alive; it might be what the terraformers are trying to cover up… and why someone killed Malencon.
+
+
+=== Act Three ===
+The object is beamed to the Enterprise-D, where Dr. Crusher has it placed inside a glass bell jar for analysis in a medical lab. The computer makes scans and verifies that it contains no organic molecules. Crusher enhances the scan on the wall display, which shows a complex pattern of crystalline forms. Energy patterns flow throughout a beautiful network of structures. It begins to emanate an audible hum. Crusher asks the computer what is causing the flashes and noise, but it is uncertain, since it is theoretically impossible for the substance to produce such an effect. However, it gets louder as they approach the object. She asks the computer for a hypothesis, to which it replies: "Life".
+Picard relays the findings to Mandl and his staff. Mandl reiterates that the Federation verified Velara III to be lifeless, but Picard says this was an understandable mistake given the novel nature of the lifeform. Regardless, Picard mentions his suspicions that Mandl knew there was life down there; if so, he was in direct violation of the Prime Directive. Mandl makes it clear that he is in the business of creating life, not taking it. He leaves, and now Troi and Yar make it clear he suspected the truth but did not intend to commit murder. Furthermore, only he and Malencon would have necessary skills to program the drill in the manner it behaved.
+
+Back in the medical lab, Crusher calls for Picard for new information. Picard arrives, and La Forge indicates he has detected a shift in the infrared spectrum; its internal structure is somehow changing. Suddenly, the small flicker of light brightens, nearly blinding everyone in the room. The hum grows louder as well. The hum and light subside, revealing two points of light inside the bell jar. Data points out that only life can replicate itself. As a precaution, Crusher activates a containment field around the bell jar, but the computer has trouble maintaining the field. The computer indicates that a "translation request" is being made; the glowing objects are trying to communicate with the computer. Power is increased to the containment field, but the fight for control continues. It looks as if Data is right; it's a lifeform, and also intelligent, with the power to access the computer. Everyone evacuates the lab.
+
+
+=== Act Four ===
+In the observation lounge, Picard now directly confronts Mandl, asking if he knew there was life on Velara III. He admits he knew of random energy patterns that disrupted their drilling, but that hardly indicated life by anything he is aware of. He adds they're meaningless silicon crystals that rebroadcast sunlight. Picard tells him they are hardly meaningless; they are clearly alive and intelligent, and are trying to communicate.
+
+By now, the bell jar contains a cluster of several points of light. Data, La Forge and Worf further the analysis and confirm its structure and properties. From engineering, however, an ensign reports that the power fluctuations are increasing, causing numerous systems around the ship to go haywire; something is taking over. Soon, the universal translator comes online by itself, saying "Ugly giant bags of mostly water." Picard is confused, and Data indicates it is an accurate description of Human physiology; he points out that Humans are 90% water surrounded by a flexible container. The crystals speak, saying they had asked the Humans to leave, but they did not listen. It has driven them to kill. Picard tries to reassure the crystals that they come in peace; they didn't understand the message, and were unaware there was life on the planet. The crystals object, stating the "bags" at the station knew. They tried peaceful contact, but were ignored, and some were killed. They have no choice now but to declare war. Before Picard can respond, the crystals end communication. At this point the whole ship is jarred by a force. Data indicates that the crystals have joined together into a kind of living computer he calls a "microbrain"; the more there are, the stronger they become.
+
+
+=== Act Five ===
+Data identifies the flashes of light they emit appear to be program instructions allowing them to interface with the ship's computers. Additionally, it is intelligent enough to interface faster than the crew can. After a quick flare up of energy and more disturbances in the ship, the crystals seem to power down. Crusher indicates that with single-celled organic life, replication is preceded by a resting state; perhaps it is the same for the microbrain. Picard orders Yar to beam the entity back to the planet. She tries to energize the beam, but the beam is redirected. Picard is agitated; lifeform or not, the safety of the ship is at stake. He tells Data to remove the atmosphere from the medical lab. Data tries, but again, the controls are locked out.
+
+Picard meets with the terraformers, explaining that the entity said it has tried to contact them before, but they ignored it. Mandl claims that if it tried communicating, they didn't understand it; how were they to know? Picard wants to know what the terraformers did to cause the crystals to fight back. Kim indicates Malencon was siphoning off a layer of saline water on the surface of the sand. Crusher suggests that life needs water; perhaps it was sustaining them. Data suggests that as saline water conducts electricity, it might have been what linked them together; individually, a single brain cell is not intelligent, but when linked to others, intelligence is formidable. To prevent the loss of the saline, which would have destroyed them, it understandably drove them to kill. Any one would declare war after such action against them, notes Picard.
+
+The image of the medical lab shows the mass in the bell jar growing brighter. Suddenly, the glass shatters and now the crystal is large enough to see. Data and La Forge come up with an idea; they had detected cadmium salts, which create electrical current under infrared light. Perhaps the crystals are photoelectric in nature. Picard orders the lights in the medical lab killed, but again the controls do not work. Picard sends Riker, who opens an access panel outside the lab, and disables the lighting that way. Kim realizes now that the species must have evolved within the thin layer where light penetrated the sand enough to reach the saline water; if the water level dropped even one centimeter beyond the light, the lifeforms would have starved to death. Now in total darkness, the glow of the microbrain begins to soften, and the crystals communicate, begging for more light. They reluctantly declare the war to be over if they are returned to the "wet sand". Picard has Riker bring the lights back up, just a bit, to relieve them of their torment. He expresses his apologies for having caused them harm, it was not intentional and asks if the microbrain believes him: they do. However when he says it's important that the beings trust them, they opine that they can't yet, as they believe Humans to be too arrogant and primitive, and ask that they return no earlier than three centuries; perhaps by then, Humanity can be trusted. Picard replies that he understands, and agrees to leave after sending them home. After Riker check up on the microbrain in the medical lab, he has the transporter chief lock on to its coordinates and reports to Picard that the transporter is ready, at which Picard has the entity beamed back to the sand layer on Velara III.
+Data is disappointed that they couldn't learn more about the strange lifeform, to which Picard says that they will in time, when they're better prepared. Afterward, Picard places an indefinite quarantine on the planet. They set course to the nearest starbase to drop off the surviving terraformers, Picard noting in his log that he hopes the lessons they learned at Velara III will prevent it from happening elsewhere.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2364
+First officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"Someone that tense could be very unpredictable. Stay on your toes, Number One."
+
+- Picard, to Riker about Mandl
+
+"Ugly giant bags of mostly water."
+
+- The crystal lifeform, describing Humans
+
+"I sense deliberate concealment, sir."
+"Of what?"
+"I don't know, but it's intense."
+
+- Deanna Troi expresses concern to Jean-Luc Picard about Kurt Mandl
+
+"I'm Luisa Kim, gardener of Edens."
+
+- Luisa Kim, introducing herself to the away team
+
+"She is as open as she seems."
+
+- Deanna Troi, on Luisa Kim
+
+"I create life… I don't take it!"
+
+- Kurt Mandl
+
+"A year's work… destroyed!"
+
+- Bjorn Bensen, remarking on the laser drill Data destroyed to save himself
+
+"Terraformers are often obsessive. It frequently goes with the career profile."
+
+- Troi
+
+"…But is it alive?"
+"Probability: positive."
+"I wasn't asking you."
+
+- Worf and the computer
+
+"Terraforming makes you feel almost God-like."
+
+- Luisa Kim
+
+"Agreed. We will send you home, to your wet sand."
+
+- Captain Picard, talking to the crystal lifeform
+
+
+== Background information ==
+
+
+=== Production history ===
+Second draft story outline (titled "The Sandy Soils of Home"): 27 October 1987
+Two-page memo of story notes from Gene Roddenberry: 4 November 1987
+Preliminary script draft: 23 November 1987
+Four-page memo of script notes from Gene Roddenberry: 25 November 1987
+Third revised final draft script: 2 December 1987 [1]
+Filmed: 3 December 1987 – 14 December 1987
+Premiere airdate: 22 February 1988
+UK premiere airdate: 30 January 1991
+
+
+=== Story and production ===
+This was the final episode of the series on which Gene Roddenberry acted as head writer. Maurice Hurley took over control of the writing staff starting with the following episode, "Coming of Age". (William Shatner Presents: Chaos on the Bridge)
+According to Hurley, the production was troubled. "An interesting idea, but the execution fell apart. I thought it was a wonderful idea. If you could think of all the problems you could possibly put together in one episode, we had it in that one. Casting, sets, location, time, the fact that the director was getting pages the day before we had to shoot … that was a real tough show to do." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 164)
+Director Corey Allen noted, "I think we struggled with that script for a very long time. The 'Q' in that one was, 'Do I recognize that there could be other life forms than the kind of life I'm used to?' To ask that question was okay, but I don't feel it was asked as strongly as it was in "Encounter at Farpoint"." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 164)
+
+
+=== Cast and characters ===
+This episode was the second time on Star Trek for Carolyne Barry. Twenty-one years earlier she appeared as a Metron in the Star Trek: The Original Series episode "Arena" under the name Carole Shelyne.
+
+
+=== Continuity ===
+Like TOS: "The Devil in the Dark", this episode also has people with good intentions unwittingly killing and being attacked by silicon-based lifeforms that wish to continue to exist.
+
+
+=== Sets, props, and costumes ===
+The medical lab is first featured in this episode. The narrow wedge-shaped set was newly built for TNG in the space left by the shortening of the transporter room from the Original Series films. The room accessible by the glass doors in the waiting room near the CMO's office, as well as two doors to the corridor set, next to the transporter room. The narrow room was determined to be difficult to film in, and was only shown a handful of times.
+When Picard and the others evacuate the medical lab, they exit through a door that leads to a straight corridor on the set, with a door across the corridor. When the shot cuts to a view from the corridor, they exit into a curved corridor with a blank wall facing the door. On the set, this is, in fact, a different exit from the medical lab.
+Among the items and costumes from this episode which were sold off on the It's A Wrap! sale and auction on eBay was a distressed costume worn by Mario Roccuzzo. [2](X)
+
+
+=== Reception ===
+A mission report by Robert Greenberger for this episode was published in The Official Star Trek: The Next Generation Magazine issue 5, pp. 46-47.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 9, catalog number VHR 2438, 4 February 1991
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 1.6, catalog number VHR 4647, 10 August 1998
+As part of the TNG Season 1 DVD collection
+As part of the TNG Season 1 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Captain Jean-Luc Picard
+Jonathan Frakes as Commander William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Denise Crosby as Lt. Tasha Yar
+Michael Dorn as Lt. Worf
+Gates McFadden as Doctor Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Guest stars ===
+Walter Gotell as Kurt Mandl
+Elizabeth Lindsey as Luisa Kim
+Gerard Prendergast as Bjorn Bensen
+
+
+=== Co-stars ===
+Mario Roccuzzo as Arthur Malencon
+Carolyne Barry as Female Engineer
+
+
+=== Uncredited co-stars ===
+Majel Barrett as Computer Voice
+James G. Becker as Youngblood
+Darrell Burris as operations officer
+Dan Campise as operations officer
+Dexter Clay as operations officer
+Susan Duchow as operations officer
+David Eum as Wright
+Nora Leonhardt as sciences officer
+Tim McCormack as Bennett
+James McElroy as operations officer
+Lorine Mendell as Diana Giddings
+Susan Raborn as operations officer
+Unknown performers as
+Command crewmember
+Command officer
+Female sciences officer
+Female sciences crewmember
+Female tactical officer
+Five operations crewmembers
+Technician
+Technician
+Transporter chief (voice)
+Two command crewmembers
+Velara III lifeform (voice)
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Susan Duchow – stand-in for Denise Crosby
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+2360; 2363; 2395; 28th century; ability; accusation; achievement; air;  alien lifeform; amount; analysis; android; announcement; apology; apprehension; aquarium; area; artificial intelligence; assimilation; atmosphere; attack; attention; authority; away team; bag; base drilling program; basin; bell jar; biomed research unit scanner; biosphere; biosphere designer; body; brain cell; cadmium selenide; "calm before the storm"; carbon; career profile; carbon; career profile; cell; cell division; centimeter; certainty; channel; chief engineer; choice; class M; colony; color; communication; computer; computer console; computer program; computer science; concept; conclusion; conductivity; conductor; conduit; conference room; container; Constellation-class; contact; containment field; control console; coordinates; damage; data; darkness; day; death; debate; decade; definition; degree; diameter; desalinization; desktop monitor; desolation; detective; director; discovery; discussion; dome; door; drilling system; Earth; Eden; effect; efficiency; electricity; element; Emergency Manual Override station; emergency power; energy field; energy level; energy pattern; energy surge; environment; environmental systems; excretion; existence; expertise; explanation; facility; fantasy; fear; Federation; feeding; file; firing program; fish; fixed program; gallium arsenide; gardener; geometric shape; germanium; god-like; gravity; growth and development; guest; hailing frequency; harm; hearing; Henry V; holodeck; home; hum; hydraulic chamber; hydraulic landscaping; hydraulic probe; hydraulics; hydraulics engineer; hydraulics room; hydraulics specialist; idea; image; imager; infrared; initial contact; injury; inorganic life (inorganic lifeform); input; inspection; instruction; intelligence; intelligent life; intent; ion; job; knowledge; laser drill; lesson; life force; lifeform (life); life support system; light (artificial); light (natural); Livingston; location; magnification; main viewer; malfunction; mass; master servomotor drive system; master subsurface pump; medical lab; memory bank; microbrain; microorganism; mind; miracle; mistake; mister; model; month; motive; MSD; murder; nature; negligence; newcomer; night; non-essential personnel; number one; nursery; observation lounge; obsession; ocean; opportunity; organic life; overload; painting; panic; pattern; peace; percent; permission; person; personnel record; phenomenon; photoelectric; photosynthesis; place; planet; Pleiades Cluster; power; power drain; power surge; Prime Directive; probability; problem; programmer; psych profile; quarantine; quarantine field; quarantine seal; quarters; question; rapport; rate of rotation; ready room; reality; reason; recon expedition; recon scout; refraction; report; reproduction; reproductive cycle; respiration; resting state; rest room; rhythm; ribbon; right; rock; room; sabotage; saline fluid; saline water; salt; sand; scanner; schedule; science laboratory; scientific method; sea; secretion; section; sensor; series; servo-mechanism; shipboard video feed; shock; silicon; single-celled lifeform; situation report; size; skant; snow; social graces; sodium salt; speculation; spectral analysis; staff; standard orbit; state of war; starvation; status; storm; subject; substance; subsurface; sulfide; sunlight; surface; tactics; talent; tear; Terraform Command; Terraform Command uniform; terraformer; terraforming; terraforming site; terraforming station; theory; thing; third-in-command; thought; time; timetable; topsoil; trace; training; transistor; translation; translator circuit; transporter power; transporter room; tricorder; truth; tunnel; turbolift; type 1 phaser; universal translator; universe; unnamed plants; unnamed starbase; utility uniform; vacuum; Velara III; Velara Base; vegetation graph; victim; viewscreen; vision; visionary; visitor; VISOR; visual contact; war; water; water table; will; window; work; wound; year
+
+
+==== Unused production references ====
+Velara system
+
+
+=== External links ===
+"Home Soil" at Memory Beta, the wiki for licensed Star Trek works
+"Home Soil" at Wikipedia
+"Home Soil" at the Internet Movie Database
+"Home Soil" at MissionLogPodcast.com
+"Home Soil" script at Star Trek Minutiae

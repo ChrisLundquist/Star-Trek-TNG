@@ -1,0 +1,199 @@
+After escaping imprisonment on an alien world, Picard and Dr. Crusher find that their thoughts are connected by brain implants.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 47304.2. The Enterprise has arrived at Kesprytt III in order to evaluate an unusual request on the part of the Kes for associate membership in the Federation."
+Dr. Crusher and Captain Picard are sharing breakfast in the captain's quarters. While Crusher tells Picard of the burgeoning romance between Nurse Alyssa Ogawa and Ensign Markson, Picard seems preoccupied. When confronted with his inattention, Picard confesses that he is, while not exactly worried, bothered by the idea of admitting only half of Kesprytt III to the Federation while leaving the other half out. Crusher attempts to alleviate his concerns by pointing out that the Kes inhabit about three-quarters of the planet and present all the characteristics necessary for admission, even if the Prytt are xenophobic and wish only to be left alone. If Australia had refused to join the United Earth Government in 2150, Crusher hypothetically asks Picard, should the people of Earth have been left out of the Federation? Picard is arguing that the cases are hardly analogous when he is interrupted by a communication from Commander Riker, alerting him to the fact that Ambassador Mauric is awaiting them on the planet. Picard and Crusher leave for the transporter room, but not before Crusher promises a special Vulcan dish for the next morning's breakfast.
+Lieutenant Worf is standing ready at the transporter console and beams Picard and Crusher to Mauric's chambers, after receiving confirmation from Kes Security Relay Station One that they have dropped their defense shield and are ready to receive transport. Worf is about to leave the transporter room after successfully beaming down the two officers when he receives word from Security Relay Station 1 that Picard and Crusher never arrived. He is stunned.
+
+
+=== Act One ===
+Picard regains consciousness lying on a dirty stone floor in a dimly-lit room. Crusher is slumped against a wall nearby. He calls her by her name, and she wakes at his touch. Together they observe their surroundings, and find that the last thing either remembers is beginning to transport off the Enterprise. Picard deduces that they must be on Kesprytt, in a prison cell of some kind, although he can think of no reason for Ambassador Mauric to detain them. When he stands up to look at the barred window, Crusher notices a device of some sort protruding from the back of his neck. Upon closer examination, she finds an implant, connected directly to the brain stem; an identical implant also juts from her own neck. Picard asks if it could be a coercive device, and Crusher observes dryly that she doubts it's intended for their health.
+The door slides open. Three guards enter, two armed with phasers and one carrying a tricorder. While they are being scanned with the tricorder, Picard demands to know what it is going on, but receives no answer. When Crusher asks why they are being held hostage, the guard with the tricorder responds that they are not hostages, but prisoners held by the authority of the Prytt Security Ministry, charged with conspiring with the enemy. She accuses the Federation of attempting to establish a military alliance with the Kes, and informs them that such an attempt will not be tolerated. When Picard tries to tell her that the Federation is not interested in destroying the Prytt, the guard will not listen, informing them that the truth will soon be known from their implants, which are being calibrated to their psi wave pattern. Picard tells her that the data from the implants will conclusively prove they are telling the truth and the guard says they will see about that. The guards leave.
+Meanwhile, on the Enterprise, Lieutenant Commander Data has run a diagnostic of the targeting components of the transporter and has determined that there has been no malfunction. Worf, however, has been looking at the sensor logs and has found an unusual concentration of antigravitons in the emitter coil. Data realizes that this suggests a tractor beam, which might have deflected the transporter beam to another set of coordinates. He is unable to determine the exact coordinates but tells Riker that the beam originated somewhere in the Prytt Alliance. Worf wonders aloud what the Prytt Alliance could have wanted with Picard and Crusher, and Riker responds that it's going to be hard to find out – the Prytt are xenophobic and have consistently shied away from any outside contact at all. He decides to work through the Kes, and orders Worf to contact Ambassador Mauric and schedule a meeting immediately.
+Picard is systematically trying the tiny bars on the window when he senses Crusher staring at him. She protests that she is only trying to think of a way to escape. He continues to search for a structural flaw, telling Crusher that the important thing to remember in any confinement situation is to think positively. Picard reminds her that there is a solution to every puzzle and a way out of every box – they just have to find it. The door slides open, disclosing a male guard with a phaser and a covered plate. He sets the plate down just inside the door, keeping the phaser on them at all times, and leaves. Picard rushes the door as it closes but is too late to keep it open. He swears, but Crusher observes that at least they won't starve. Upon lifting the cover, however, Crusher finds not food, but her medical tricorder. It is not only fully functional but has been modified to include a map with an escape route. Picard gloomily observes that this may be part of a carefully-laid trap, but Crusher tells him that she would rather take her chances "out there," and he agrees. The code to the door has been programmed into the tricorder, and they creep out without further discussion.
+
+
+=== Act Two ===
+Having arrived on the Enterprise, Ambassador Mauric presents his formal apologies to Riker in the observation lounge on behalf of his government for the unfortunate incident involving the Enterprise's officers. Riker and Counselor Deanna Troi assure Mauric that the Federation does not blame the Kes for what happened, and that the Enterprise's primary concern is rescuing Picard and Crusher. Mauric offers his government's assistance, and assures them that the Kes are prepared to send a hostage rescue team into the Prytt capital city in three hours. Riker rolls his eyes, looks at Troi, and tells Mauric that they have not even attempted a diplomatic solution yet, and that he would rather not use excessive force until they have exhausted all other options. Options, however, are something Mauric sees little of: the Kes have no formal diplomatic relationship with the Prytt, no ambassadors, and no way of communication. Troi asks about the system in place for a planetary emergency, but Mauric says they have never had need of such a system.
+Finally, when Worf suggests that they can determine the Prytt communication frequencies and simply establish a link themselves, Mauric replies that he must be blunt – the Prytt are a xenophobic, fanatical people who refuse to engage in civilized discourse, and it has been nearly a century since there has been any diplomatic contact between the Kes and the Prytt. In response to Troi's suggestion that the Prytt might have changed over the century, Mauric is adamant that they've indeed changed very little. Riker is annoyed by the Kes ambassador, and tells him that with all due respect, the Enterprise must communicate with the Prytt before he will sanction the use of force. Although Mauric assents, his placating manner is subverted by his statement that he will continue making preparations for a hostage rescue mission. Riker agrees and brings the meeting to a close by getting up, along with Worf and Troi. Mauric has one last request, however – due to the presumed breach of the Kes communication network, he would like to establish a base of communications on the Enterprise. Riker assigns Worf to help him.
+Worf leads Mauric and his young assistant to standard guest quarters. Mauric sends Worf into the room first to make sure there are no traps, then waits until his assistant carefully scans the entire suite before pronouncing it acceptable. Worf is offended by his excessive caution, and stiffly offers his assistance as Security Chief of the Enterprise. Mauric says they will manage alone, effectively dismissing Worf.
+Meanwhile, Crusher and Picard escape from the Prytt base into subterranean caves, about thirty meters above a lava flow. They follow the escape map on the tricorder through a cave of erupting gas spouts, barely managing to flee the area before an enormous fire explosion of gas pursues them.
+
+
+=== Act Three ===
+
+Back on the Enterprise, Data has scanned the entire Prytt communication network and found the primary access module to their central government. On orders from Riker, Data hails the Prime Minister's office. The official who answers is initially unaware of the origin of the communication. Riker gets no further than identifying himself and his ship before the official interrupts in fear and anger and, upon learning that the ship has no authorization from the Prytt Security Ministry, abruptly terminates the connection.
+Within seconds, the Enterprise is hailed by the Prytt Security Council, represented by Security Minister Lorin, who was the tricorder-bearing guard from Picard and Crusher's cell. Lorin demands the immediate cessation of all communication with her people. Riker counters by asking to discuss Picard and Crusher's confinement, but Lorin says there is nothing to discuss. As Mauric and his aide appear on the bridge, she continues by threatening aggressive action against the Enterprise unless it ceases all communication with the Prytt, and then abruptly ends the connection. Worf assures Riker that the Prytt pose no appreciable military threat to the Enterprise. Riker nonetheless orders the shields to be kept up for the time being.
+Mauric then tells Riker that while the Enterprise's efforts to effect a diplomatic solution have stalled, a Kes operative has freed Picard and Crusher from Prytt custody and set them on their way to the border between Kes and Prytt. Riker asks how exactly the two officers are meant to cross the fortified border, and Mauric says the information is confidential. When Riker presses the matter, Mauric intimates that the bridge is not sufficiently secure for him to explain. Neither is the captain's ready room, Riker's next suggestion. Only the quarters assigned to Mauric and his aide are acceptable to the Kes ambassador, who claims that they are "safer". Riker is nonplussed, but agrees.
+On the planet, Picard and Crusher are navigating through a maze of underground tunnels. Crusher announces that she is also thirsty, under the impression that Picard had just made the same observation aloud. He protests that he only thought about his thirst and did not express it in audible speech. They realize that the transceivers must have calibrated to their psi-wave patterns, as threatened by Lorin back in the cell, and are now transmitting their thoughts to one another. Their attempts to prove the hypothesis are unsuccessful, and they wonder if it might have been a fluke. In any case, however, the immediate concern of finding a way out demands their attention.
+The map sends them to a great hill of rock, indicating that a ledge about thirty meters up leads to a tunnel that connects to the surface. Picard has just started to climb when he stops and turns, having felt a sudden sense of fear from Crusher. Crusher admits her fear of heights, and Picard attempts to calm her by telling her to pretend that she is on the holodeck. They begin to climb toward the ledge.
+Entering Mauric's quarters, promptly scanned by the aide, Riker notices the "redecorating" done by the Kes. Machines and gadgets of all kinds now fill the room, humming and whirring away. Mauric characterizes them as a few pieces of equipment necessary for security, as the aide pronounces Riker "all right" to enter. Riker and Mauric huddle over a desk to discuss the situation. Demanding complete confidentiality, Mauric tells Riker that the Kes employ operatives in Prytt territory. The escape map provided to Picard and Crusher will lead them to a tavern in a village near the border, where these operatives will be waiting to help them cross. Riker is skeptical of the advisability of sending Human Starfleet officers into a Prytt village, but Mauric downplays the risk in a manner that is faintly patronizing, citing the great deal of experience the Kes have with the Prytt. He attempts to reassure the skeptical Riker by pointing out that the Kes have no reason to wish Picard and Crusher harm, as they still hope that the Enterprise will support the Kes petition to enter the Federation. Riker smiles wanly.
+Picard and Crusher emerge from underground into a sunny, deserted countryside. They hike down a hill amidst tall green grass as Picard observes that one of the two is hungry. Crusher admits it, and Picard pleads for her to think of something else, as he is becoming hungry himself just observing her thoughts of a large bowl of vegetable soup. Crusher remembers how her grandmother used to make it, with peas and carrots, but is interrupted by an exasperated Picard. She apologizes, but apparently indulges in the thought that he is being unreasonable. He abruptly stops and defends himself. They discuss the matter, and come to the decision that they cannot react to every thought that crosses the other's mind, and that there is a difference between thoughts and speech. Telepaths acquire new respect from the pair, as their experience demonstrates just how much clutter and flotsam the mind churns out on a continual basis.
+When Picard thinks a joke to see if Crusher is "still listening," she realizes that the link is growing stronger. Picard suggests putting some distance between them to see if that helps, although he sarcastically observes, "not that I'm growing tired of hearing your most intimate thoughts." As soon as they are only a couple of yards apart, however, they are overcome with pain and nausea. Crusher's tricorder tells them there's nothing physically wrong with them, but a second try yields the same result, this time with only a step's distance. They continue their journey side by side.
+
+
+=== Act Four ===
+As their link grows stronger, Picard "remembers" Dr. Crusher's memory as if it were his own. He finishes a sentence about a boy, Tom Norris, that Crusher had a crush on when she was younger. Crusher acknowledges Picard's sudden knowledge of shame on the doctor's part, and Crusher admits she acted unkindly towards Norris by asking him whether he was growing in a beard or if it was just dirt on his face. Crusher thought at the time that she was merely being cute, but she ended up hurting his feelings. At that moment, they see who they think is a Prytt operative, but was probably a Kes operative.
+Meanwhile on the Enterprise, Riker and Mauric argue about how safe Picard and Crusher are and whether or not they will know to meet up with their operatives. Mauric makes the accusation that since Picard and Crusher did not meet with their operative at the border, that they must be meeting the Prytt in secret in order to negotiate a military alliance. Riker says it's ridiculous and denies it. Mauric doesn't believe him and wants to leave the ship. Riker agrees and tells him to take his "junk" with him.
+Picard and Crusher try to find something to eat before nightfall, but there is nothing edible on the planet's surface. Gathered around a fire, Picard tells Crusher that they will probably be on the Enterprise by tomorrow and that she can plant herself in front of a replicator with a fork and knife. Crusher and Picard talk about breakfast and the Vulcan dish she was meant to have prepared. Picard, it turns out, just wants a simple meal in the morning, not the elaborate things they have been eating. Crusher realizes that he wants coffee and croissants, and by her own admission, says she also likes the simple things. They then both agree that coffee and croissants are what they shall be having for breakfast in the future. When she mentions when she took a camping trip with her son Wesley when he was very young to Balfour Lake, she begins to reference her deceased husband, Jack R. Crusher, and then she senses Picard's feeling towards her. Picard, a bit embarrassed, at first denies it, but Crusher realizes that Picard has had romantic feelings towards her even when she was married. Picard admits that because he was afraid of what would happen, he tried denying her application to be aboard the Enterprise; he also says that he had those feelings from when Crusher was married and then hated himself for wanting to act on his romantic feelings when Jack died. He never did act on them, and he says that eventually, those feelings went away. Crusher acknowledges that and then says they are now good friends, seven years later. Feeling both a little awkward from this experience, Crusher announces that they have a lot of ground to cover tomorrow and probably should get some sleep. Picard and Crusher both lay down near the fire and fall asleep.
+
+
+=== Act Five ===
+Riker tries to contact the Prytt again, but they will not listen. Fed up with the two nations' lack of communication, Riker has Worf transport the Prytt security minister, Lorin, directly to the observation lounge against her will to force a dialogue with Mauric. However, the "dialogue" is entirely unproductive, as the two ministers hurl various conspiracy theories at each other – for instance, Lorin says the Prytt "know" about the Kes's plans to build new orbital attack satellites with Federation technology and warns Mauric that they have already prepared defenses; Mauric calls these accusations ridiculous but rejoins that the Kes "know" about the Prytt's plans to use Federation aid to regain control of certain territory; Lorin says the Prytt don't need aid, the territory is quite clearly theirs – and so on.
+Riker slams a hand down on the observation lounge's table and tells both ministers he is finished with them. He allays Lorin's concerns by assuring her that the Kes's application for Federation membership will be denied. Mauric, outraged, says Riker has no authority to make such a decision and threatens to go over his head to the Federation Council. Riker rejoins that his report to the Council will carry serious weight, and his report will state in no uncertain terms that the Kes, while outwardly democratic and friendly, are also paranoid and suspicious to the point of insanity. The Federation does not ask much from its members, but it does assume that they are at least willing to trust each other, and the Kes have a long way to go before they can meet this basic requirement. Moreover, although the Federation was initially willing to consider admitting Kesprytt because the Kes are the majority faction, Lorin and Mauric's "dialogue" has graphically illustrated that the division between the Kes and the Prytt is a much deeper problem than the Kes were willing to admit and disqualifies their world for membership.
+Addressing Lorin, Riker demands the return of Picard and Crusher, but she stubbornly insists that they are still suspected of espionage. Riker turns up the heat on Lorin, telling her that if anything happens to their missing officers, then Starfleet will subject her country to increasing scrutiny, ranging anywhere from more starships in orbit to sensor sweeps to maybe even away teams conducting interrogations of hundreds of Prytt citizens – a very unsettling prospect to Lorin, as Riker makes clear that she will be held responsible by her own people for the Federation intrusion.
+
+On the planet's surface, Picard and Crusher are attacked by the Prytt. They run for a while before getting to the border. Crusher disables the force field just long enough for Picard to get through, but she is captured by the Prytt. However, Riker has finally made Lorin understand, and she tells her operatives on the surface to give the Enterprise the coordinates of both Picard and Crusher. The captain and doctor both arrive in the transporter room, and they continue to share some thoughts, literally, while Riker walks behind them, utterly confused as to why they are laughing.
+Later that night, Picard and Crusher have just finished an elegant dinner, and both have already had their implants removed. Picard and Crusher are both relieved that they won't be hearing each other's thoughts any longer. Crusher then says "a penny for your thoughts" to Picard and reveals that while she was trying to sleep on Kesprytt, Picard fell asleep faster than her and that he had some very interesting dreams. Picard asks her not to blame him for his dreams because it wasn't something he had control over, as he was sleeping. Crusher then asks what about the things he does have control over, such as his thoughts when he is awake. Picard says that now that they both know how they feel, maybe they shouldn't be afraid to explore the possibilities that are in store for them. Crusher replies, "Or maybe we should be afraid." She then kisses Picard on the cheek. Crusher suggests maybe she should be going now. Picard agrees, and they kiss on the lips. She departs from the room and stands outside the door, reflecting for a moment on what happened. Picard goes to the dinner table and blows out the candles and looks out the window into space.
+
+
+== Memorable quotes ==
+"There is a way out of every box, a solution to every puzzle; it's just a matter of finding it."
+
+- Picard, to Crusher during their confinement by the Prytt
+
+"You first."
+
+- A paranoid Mauric, asking Worf to enter his quarters on the Enterprise
+
+"Well, it seems as if we're stuck with each other."
+
+- Picard, after he and Crusher become ill while trying to separate and break the link
+
+"I didn't know you felt that way."
+"Didn't you?"
+
+- Crusher, reading Picard's thoughts about her dead husband
+
+"Why didn't you ever tell me you were in love with me?"
+"You were married to my best friend."
+
+- Crusher and Picard
+
+"And when Jack died, you felt guilty."
+"I felt guilty before he died. Having feelings like that for my best friend's wife... and then later after the accident, I promised myself that I would never tell you how I felt. It would be like betraying my friend."
+"That's why you didn't want me on the Enterprise seven years ago."
+
+- Crusher and Picard, revealing all to each other
+
+"I will not sit at a table with him."
+"No more than I would sit with her."
+"All right, then. We'll stand!"
+
+- Lorin and Mauric arguing while Riker attempts to mediate
+
+"We still plan to take our petition directly to the Federation Council! They'll listen-!"
+"They will also listen to the reports of the captain of the Enterprise and his first officer! And I can tell you right now the first officer's report will go something like this: 'Kesprytt, a deeply troubled world with social, political, and military problems that they have yet to resolve. The Kes, while a friendly and democratic people, are driven by suspicion, deviousness, and paranoia. It is the opinion of this officer that they are not ready for membership.'"
+
+- Mauric and Riker
+
+"Now that we know how each of us feels, perhaps we should not be afraid to explore those feelings."
+"Or perhaps we should be afraid. I think I should be going now. Good night."
+"Good night."
+
+- Picard, attempting to begin a relationship with Crusher (last lines of the episode)
+
+
+== Background information ==
+
+
+=== Production history ===
+One-page story pitch memo from Jeri Taylor to Michael Piller: 24 June 1993 [1]
+Final draft script: 7 September 1993 [2]
+Premiere airdate: 8 November 1993
+First UK airdate: 28 February 1996
+
+
+=== Continuity ===
+This is the first of two episodes in the last season of Star Trek: The Next Generation (the other is "Bloodlines") to be written by Nicholas Sagan, son of the famous astronomer Carl Sagan (author of Contact) and subsequently a writer for Star Trek: Voyager.
+The prospect of romance between Doctor Crusher and Captain Picard is further explored in the final episode "All Good Things...".
+This is the last episode of the series to feature Picard's jacket uniform variant. To that end, Picard is seen discarding the jacket in the cave.
+Crusher's fear of heights was also mentioned in "Chain Of Command, Part I".
+The armbands that Ambassador Mauric and his  aide wear each feature an insignia that appears to be made up of two copies of the rank insignia for an Admiral from the 2364 Starfleet flag uniforms, though seemingly in silver instead of gold.
+A close up insert shot of the science stations on the bridge of the Enterprise in this episode is a stock shot from "The Vengeance Factor", as the "missing" Dr. Crusher can be seen reflected through the console's glass screen pressing controls.
+Picard explains that every member of the Federation (as of 2370) has "entered as a unified world."
+
+
+=== Cast and characters ===
+LeVar Burton (Geordi La Forge) does not appear in this episode. This marks the only non-appearance of a regular cast member in the seventh season.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 80, 23 May 1994.
+As part of the TNG Season 7 DVD collection.
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Robin Gammell as Mauric
+Lenore Kasdorf as Lorin
+
+
+=== Co-star ===
+J.C. Stevens as Kes aide
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Armstrong
+Michael Blackburn as Kes aide
+Michael Blackman as Prytt trooper
+Cameron as Prytt armed guard
+Tracee Lee Cocco as Jae
+Gerard David, Jr. as operations division ensign
+Michael Moorehead as science division ensign
+Tom Morga as Prytt trooper
+Patrica Tallman as Prytt trooper
+Joycelyn Robinson as Gates
+Rick Ryan as Prytt guard
+Sissy Sessions as operations division ensign
+John Tampoya as operations division officer
+Oliver Theess as command division officer
+Lydia Triplett as Kes aide
+Christina Wegler Miles as command division ensign
+Unknown performers as
+Kes aide
+Kes contact (voice)
+Prytt secretary (voice)
+
+
+=== Stunt double ===
+John Nowak as stunt double for Patrick Stewart
+
+
+=== Stand-ins ===
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+47; 2150; 23rd century; 2350; 2364; analogy; antigraviton; attack satellite; Australia; Balfour Lake; base of operations; best friend; brain stem; carrot; cerebral cortex; coffee; communications frequency; communications network; conspiracy; croissant; Crusher, Jack R.; Crusher, Wesley; defense shields; diplomacy; Earth; emitter coil; European Hegemony; fear of heights; Federation; Federation Council; Federation member; freedom; fugitive; graviton; graviton beam; hip; holo-programs; Horath; hostage rescue team; Howard, Felisa; Howard, Isabel; Howard, Paul; Human history; intoxication; "Joined at the hip"; Kes; Kesprytt; Kesprytt III; Kolrod Island; map; Markson; medical tricorder; methanogenic compound; military; military alliance; Mintakan tapestry; multiphase pulse; nation-state; Norris, Tom; number one; Ogawa, Alyssa; Ohn-Kor; operative; painting; pea; penny; plot; political differences; prime minister; prison; Prytt; Prytt Alliance; Prytt National Communications Net; Prytt Security Ministry; psi-wave device; security minister; Security Relay Station One; sextant; social differences; Starfleet; structural flaw; targeting components; tavern; toast; topography; tractor beam; transport sequence; transporter; transporter beam; transporter room; transporter sensor log; tricorder; undercover operative; United Earth; vegetable soup; village; Vulcan dish; World Government; xenophobia (xenophobic)
+
+
+=== External links ===
+"Attached" at Memory Beta, the wiki for licensed Star Trek works
+"Attached" at Wikipedia
+"Attached" at MissionLogPodcast.com
+"Attached" script at Star Trek Minutiae
+"Attached" at the Internet Movie Database

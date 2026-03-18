@@ -1,0 +1,255 @@
+Data suffers amnesia in a primitive society while Troi applies for a promotion.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Bridge officer's log, stardate 47611.2. Doctor Beverly Crusher reporting. We have rendezvoused with Counselor Troi's shuttlecraft. She has just returned from a three day class reunion on Starbase 231."
+Beverly Crusher is in charge of the night shift on the USS Enterprise-D. Counselor Deanna Troi arrives on the ship after having attended a class reunion at Starbase 231. A conversation ensues between Crusher and Troi on the bridge in which the main subject is Crusher's past decision to apply for the rank of commander, a rank which she does not need as a requirement for the post of chief medical officer.
+Lieutenant Commander Data is commonly in charge of the night shift, but he is out on an away mission. A deep space probe containing radioactive material in its casing has crashed on a planet, Barkon IV, hosting a preindustrial civilization. Due to Data's android nature, he is the one best suited for the mission. He is hailed by the Enterprise's bridge by Ensign Rainer, but no response is received by them. Dr. Crusher is not overly concerned, as the radioactive nature of the fragments Data is supposed to collect on the planet are expected to disturb any received and sent messages, as Geordi La Forge had warned. Crusher thought she should probably try to hail him anyway.
+Crusher says that Data can wait for a few days before being picked up by the Enterprise as the ship has to rendezvous with the USS Lexington to deliver medical supplies to the Taranko colony.
+In a village on Barkon IV, two Barkonians, a middle-aged man named Garvin and his young daughter, Gia, are talking. They are interrupted when Data walks in, his appearance suggesting that he has been through some rough experiences; his hair is tousled and his uniform is dirty and ripped in places. He stops when he sees them, but is only able to emit non-vocal sounds.
+
+
+=== Act One ===
+Unnerved by the sight of Data, Garvin tells his daughter to go home and tries to talk to Data, but he at first can only repeat what Garvin has said. It is a slow process talking to him, but Data eventually recovers enough to state that he can explain he has no idea who he is. His only memory is that he walked to the village from the mountains outside it, which Garvin remarks is very far away, over 200 seltons. Garvin sees that Gia only hid behind a wooden wheel and again makes her leave for school. She is not afraid of Data.
+Garvin points to the box Data is carrying, asking what it is. Data is not sure, and hands him the box, the weight of which surprises Garvin. Garvin asks what the writings on it mean, and Data immediately replies "Radioactive", though he cannot say what the word means, and suggests that it may be his name. Garvin opens the box in the hopes of finding some clues as to Data's identity, but finds only several hunks of silver metal, one of which he holds in his bare hands and examines closely. It is obviously harmful, but neither of them are aware of it.
+
+
+=== Act Two ===
+On the Enterprise, Troi comes into Commander Riker's quarters while he is playing his trombone. She wants to ask Riker for his opinion of her taking the Bridge Officer's Test. Riker wonders why, and is told that she has considered it off and on for over two years, but was motivated by her class reunion, as well as being in charge of the bridge when the Enterprise-D struck a quantum filament two years before. Riker says she has his full support, though he will be involved in evaluating her and can show her no favoritism. They agree to begin the next day.
+Garvin and his daughter take care of Data because of his amnesia. Because they do not know his name, they call him Jayden, after initially having suggested that his name might be "Radioactive" since it was written on the case. Talur, a scientist and doctor, takes a look at Data and proclaims that he is not ill despite the amnesia, and that his pale appearance is because he is an Ice-man, a humanoid native to the mountains outside the village. Data is dressed in Garvin's old clothes and meets with the village's blacksmith, Skoran, to discuss selling the pieces of metal he has. Skoran shows interest in the metal fragments Data had collected and offers to buy half of them. There is also an incident at Skoran's and an anvil falls on a man's leg after the support gives way due to rotting wood. The villagers cannot lift it, but Data does so with ease, shocking everyone.
+At dinner, Talur posits that Data's strength is something he shares with all Icemen from the Vellorian Mountains, that they have to use their strength to fight off the wild beasts that roam the mountains. Data pushes that claim, saying she also said no one has ever seen one of these creatures. Then, Garvin finds himself feeling tired; Talur tells him to take a walk and get some fresh air to feel better. When he's gone, Gia notes that Data didn't eat, asking if the food was not to his liking, which Data denies, commenting that he simply didn't have an appetite. Gia comments that her father's cooking isn't as good as her mother's, revealing she has died. She tells Data that her father says she went to a place where no one gets hurt or sick, and everyone loves each other. Gia asks Data if he thinks a place like that truly exists. Data looks out the window towards the stars and states that he is certain it does.
+
+
+=== Act Three ===
+In engineering on the Enterprise, Geordi La Forge and Worf are the senior officers in Troi's test simulation, where the insulation of the antimatter storage pod chambers is breaking down. Troi has to make fast decisions, but fails to stop the inevitable warp core breach. Riker tells her that all parts of the test went well for her, except for that last and most important part of it, resulting in Troi failing the whole test. Troi asks what part she failed, but Riker says he cannot tell her; not knowing is part of the test.
+On Barkon IV, Data follows Gia to Talur's school. Talur teaches the Barkonian children about the basic elements: sky, fire, rock, and water. She says that wood is combustible as it contains fire and, when exposed to a flame, the fire within the element comes to life. When the fire is put out, air is released as smoke. Data is not convinced that this philosophy is correct. He voices his opinion that he knows fire is not an element, and that wood is composed of thousands of different chemical compounds of which none is fire. Talur shakes Data's words off, telling the children that his amnesia makes his reasoning unreliable. After Talur and the other students leave, Gia asks Data if he thinks Talur is correct. Data responds that, despite his amnesia, he is convinced that fire is not an element.
+Just then, they overhear Garvin arguing with Skoran about the price of the metal that changed hands. Skoran is trying to cheapen the deal, blaming Garvin's memory. Suddenly, Garvin begins to feel weak and ill, and has to go home. Talur examines him, but does not know how to handle Garvin's symptoms, involving hair loss and third-degree burns all over his body. She gives Gia some herbs, and hopes that they will help Garvin to recover. Data is not satisfied with the treatment Talur suggested, so he starts to investigate Garvin's illness more closely. He and Gia go to the market to get supplies to make equipment for his investigation, and there are confronted by Skoran and several others. They blame Data for bringing a sickness to the village, leading Data to realize that Garvin's sickness has spread. The townsfolk angrily tell Data to leave the village and to go back to where he came from as he and Gia leave the market quickly.
+
+
+=== Act Four ===
+Data constructs the equipment he needs, including a five-hundred power magnifying glass and a fluorescent screen. He studies cell samples from both Garvin and Gia, who also has started to show symptoms of radiation sickness. Talur comes with suggestions, that maybe Data is the one to have brought the sickness to the village, but it is only after Data has examined a pendant of Gia's more closely that he comes up with the cause for the villagers' sudden illness. The pendant was made by Skoran from the radioactive metal, and a large piece of the metal is the pendant itself. This also explains why the blacksmith has fallen ill as well.
+On board the Enterprise, Troi is intensely studying the ship's technical specifications when Riker enters her quarters. He tells her that she has failed the Bridge Officer's Test three times, and that she cannot take it again. She protests and says that she will take it as many times as she has to in order to pass it. She tells him there's more to being a bridge officer than studying technical manuals. Riker tells her that she shall not take the test again, that she does not possess the qualities expected from an officer on the bridge. He also says that no matter how much he cares for her, his first duty is toward the ship and that he cannot let a bridge officer serve who is not qualified. Riker apologizes and leaves. His last words before his exit make Troi think, and she rushes to the holodeck.
+After having entered the holodeck, Troi starts the test's simulation again. She is in engineering, and the control system for the primary containment field is not functioning. She asks La Forge if he can repair the damaged parts from inside a crawl way. The Worf hologram explains that La Forge will not survive the radiation within, but Troi, well aware of this, orders the holographic La Forge to repair the damage anyway. As an anguished Troi watches him enter the crawl way, Riker, having known she would not give up so easily, enters and congratulates her on passing the test. She immediately deduces that the point of the test was to see if she could order someone to their death, which Riker confirms. Having known this was part of being in command, but having still hesitated when the time came, Troi admits that he may have been right about her being ill-suited for the job—to which Riker counters that she passed with flying colors; she had tried every possible solution she could think of, and when nothing else worked, she made the painful but necessary decision required to save the ship and has therefore earned her promotion to Commander.
+On Barkon IV, Data places the metal before the indicator of radioactivity, and discovers that the metal is the cause of the sickness. The indicator consists of a wooden frame and a linen cloth. The cloth has been treated with a liquid Data took from a lamp in Garvin's house. When exposed to a candle, the cloth illuminates, and when the metal is present, the cloth is illuminated by green dots scattered over the surface. This tells Data that the metal is emitting invisible particles, which however can be blocked by the box he brought to the village. He tells Talur to collect all of the metal fragments in the box, while he tries to find a cure.
+Skoran enters the house shortly after Talur leaves, together with another villager. They attack Data and tear off a piece of skin from the left side of his face, exposing his internal circuits and flashing lights. The two villagers become scared and ask him what he is, but Data cannot answer the question due to his amnesia. The villagers retreat, scared, and Data is left in a confused state.
+
+
+=== Act Five ===
+
+Talur has returned with the radioactive box and Skoran places his metal fragments into it. He tries to warn everyone that Data is some kind of creature, completely unlike any of them. Skoran believes that Data is trying to kill them all and he must stop him before he does so. Garvin does not believe that Data could hurt any of them, but Skoran dismisses this and leaves with the other villagers to go look for Data. Gia leaves her father's bedside and encounters Data, who is keeping his face covered with a hood. Gia eventually gets Data to remove his hood, which shocks her momentarily when she sees part of Data's exposed android face. Data tells her that has almost come up with a cure to the radiation sickness. He was very close to finding it but it will take time for him to develop.
+Later, Data has completed his work and gives the cure to Gia, telling her that it worked on her father's cellular samples and that Garvin is currently recovering. Data says that he has to administer it to the entire village, but that they never will trust him due to his exposed android nature. Gia offers to help, but is told that she will not be trusted either. As the village's well is the only fresh water source, since the nearest river is two days away, Data decides to pour the cure into it. At night, Data exits Garvin's house and reaches the well. As he is about to pour the cure into the water, the villagers appear. They say that it was Data who made them sick, that he brought the plague to their village. Data pours the cure into the water, but is then stabbed in the back by Skoran with a long pole. The blacksmith is shocked with electricity and Data collapses onto the ground, the pole going through his torso.
+Sometime later, Gia stands before a tombstone with Barkonian letters. Cosmetically altered to appear Barkonian and dressed up in the local style of clothes, Crusher and Riker approach her, asking her if she has seen a friend of theirs, with pale skin and yellow eyes. Gia nods and speaks about Jayden in past tense. Crusher wonders why, and is told that Data is dead, and that the tombstone is his. Gia says that she did not know his name, so they called him Jayden, and wonders what his real name was. Gia also says that Data was killed because he was different and the villagers were scared of him, despite his efforts to cure them of the sickness the strange metal fragments caused. Riker wonders where the fragments are and is told that they are buried in the woods. After Gia has left, Riker suggests that Data can be beamed up from his resting place directly onto the ship, together with the probe fragments.
+In the Enterprise's sickbay, Data is repaired and put back on-line again. Captain Picard asks him if he remembers what happened, and Data says that he was recovering the information from the probe's onboard computer when there was a power surge. He suggests that it overloaded his positronic net and that, as a result, he has no memory from that moment on. He says, though, that his clothes suggest that he had been through quite an adventure. Riker and Crusher tell him that he saved a village from radiation poisoning and became good friends with a child. Troi then leaves to assume her watch on the bridge, and Data notices that she has been promoted to Commander during his absence. Troi comments that now Data can call her 'sir', which he does.
+
+
+== Memorable quotes ==
+"You know, this is a much better way of communicating for you. It's far less confusing than the way you normally speak."
+
+- Troi, to Riker when he uses his trombone to talk
+
+"Did you come here for something in particular, or just general Riker-bashing?"
+
+- Riker, to Troi after picking on his communication
+
+"Congratulations, you just destroyed the Enterprise."
+
+- Riker, to Troi after a failed Bridge Officer's Test
+
+"Mr. Radioactive?"
+
+- Garvin, trying to find a name for Data
+
+"Stay out of this, iceman!"
+
+- Skoran, to Data
+
+"The word "radioactive" may be a warning about the dangerous nature of the metal."
+
+- Data, to Talur
+
+"What… what are you?!"
+"I do not know."
+
+- Skoran after the "skin" of Data's face is ripped off and his android inner workings are exposed
+
+"We must find him and stop him before he kills us all."
+"I don't… not Jayden. He wouldn't try to hurt us."
+
+- Skoran and Garvin, referring to Data
+
+"Skoran said you're some kind of… creature."
+"I do not know what I am… but I am not like you."
+
+- Gia and Data
+
+"Jayden… why are you wearing that hood?"
+"I do not wish to frighten you."
+
+- Gia and Data, hiding his face from her
+
+"Where is your mother?"
+"She died about a year ago. Father said she went to a beautiful place, where everything is peaceful and everyone loves each other and no one ever gets sick. Do you think there's really a place like that?"
+"Yes. I do."
+
+- Data and Gia, discussing her mother's death
+
+"Tell me one thing –  is there a solution? Or is this simply a test of my ability to handle a no-win situation?"
+"There is a solution…"
+"Then give me time to find it!"
+"I can't – as much as I care about you, my first duty is to the ship. I can not let any bridge officer serve who's not qualified – I'm sorry."
+
+- Troi and Riker, after he cuts off her attempts to pass the Bridge Officer's Test
+
+"My first duty is…to the ship… the ship!"
+
+- Troi, realizing that Riker had hidden the solution in his previous comments
+
+"Congratulations, you passed."
+"That's what this was all about, wasn't it – to see if I'd order someone to their death?"
+"That's right…"
+"I knew that was part of being in command, and I thought I'd prepared for it – but when the moment came, I hesitated…Maybe you were right, maybe I'm not cut out for this…"
+"You did exactly what you had to do. You considered all your options, you tried every alternative, and then you made the hard choice."
+
+- Riker and Troi, after she passes the test
+
+"It's a trick!"
+"No. It is empirical data."
+
+- Talur and Data, discussing the radioactive metal fragments, and inadvertently invoking his actual name
+
+"What's the last thing you remember?" 
+
+- Captain Picard (Whole dialogue for this episode)
+
+"I was attempting to download the sensor logs from the probe's on-board computer. There was a power surge… I believe the surge overloaded my positronic matrix. After that, I have no memory until this moment… (seeing himself still in Barkonian clothing)… but it appears, I had an interesting time."
+
+- Data, after returning to the Enterprise
+
+"Well… if you'll excuse me, um… I have the bridge this watch."
+"Counselor, have you been promoted in my absence?"
+"That's right. Which means from now on you can call me "sir.""
+"Yes, sir."
+
+- Troi and Data, the final dialogue of this episode
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 30 November 1993 [1]
+Premiere airdate: 14 February 1994
+First UK airdate: 24 April 1996
+
+
+=== Title ===
+This is one of twenty-two Star Trek TV and film productions with titles derived from Shakespearean works.
+
+The episode's ultimate title is taken from William Shakespeare's play Hamlet: "This above all: to thine own self be true", which Data quoted to Commander Riker in TNG: "Hide And Q".
+The episode had the working title "Jayden". [2]
+
+
+=== Story and production ===
+The story pitch for this episode came from Christopher Hatton, who had previously provided the spec script that "Gambit, Part I" was based upon. Hatton pitched his story as "Data as Frankenstein", a concept that Jeri Taylor described as "irresistible". Teleplay writer Ronald D. Moore joked, "He wanders into the medieval village, is befriended by the little girl, and villagers come out and chase him with torches!" (Star Trek: The Next Generation Companion, 3rd ed., p. 263; Captains' Logs: The Unauthorized Complete Trek Voyages)
+Budget requirements necessitated a ship-board B-story to fill out the show. Moore decided to avoid a predictable "We've lost Data and we got to find him!" plot in favor of the story of Troi's promotion, which had been originally conceived for "Liaisons". He explained, "I thought that was a neat idea and was a good move for the character. The whole notion was something I wanted to do ever since I read Jeri Taylor's novelization of Unification, where there is a line about Troi reflecting on her experiences in the episode "Disaster", where she got command temporarily. Jeri had a line in there about tasting blood and wanting to again, and that stuck with me. I thought that was an interesting direction to take Troi." (Star Trek: The Next Generation Companion, 3rd ed., p. 263; Captains' Logs: The Unauthorized Complete Trek Voyages)
+Patrick Stewart (Captain Picard) only appears in the final scene and has only one line of dialogue ("What's the last thing you remember?"). This was as a result of Stewart having taken time off to appear in his one-man version of A Christmas Carol in London while the episode was filmed. (Star Trek: The Next Generation Companion, 3rd ed., p. 264) Aside from the animated episode "The Slaver Weapon", in which Captain Kirk does not appear at all, this is probably the briefest appearance by a series lead, the only other candidate being "The Wire" in which Sisko only had three lines.
+Riker's use of imzadi here was added at Jonathan Frakes' request. (Star Trek: The Next Generation Companion, 3rd ed., p. 264)
+
+
+=== Continuity ===
+In this episode Deanna Troi is promoted from lieutenant commander to commander.
+In discussing her considering becoming a commander with Riker, Troi references the events depicted in TNG: "Disaster", wherein she found herself the highest-ranking officer on the bridge after a quantum filament hit the ship and disabled all communication and transportation on the ship, and clearly found the task of taking command overwhelming.
+The set for the Barkon IV village was modified to reappear in TNG: "Journey's End", "Firstborn", "Preemptive Strike" and DS9: "Shadowplay". (Star Trek: The Next Generation Companion, 3rd ed., p. 264)
+Worf and Geordi La Forge only appear in this episode as holograms.
+This episode marks the last time that Will Riker plays a trombone on the series. This trombone is obviously a new one, since Riker gave his trombone as a gift to his transporter clone Thomas in TNG: "Second Chances".
+This episode is the fourth time in the series that Riker participates in an undercover mission on an alien world, although unlike in "Who Watches The Watchers", "First Contact" and "Frame of Mind", things do not turn out terribly for him.
+This episode features the final appearance of Counselor Troi's maroon jumpsuit first featured in the second season episode "The Child".
+This is the first time the left side of Data's face is destroyed. It would happen again in Star Trek: First Contact and Star Trek: Insurrection.
+Troi asks Riker if the engineering qualification portion of the Bridge Officer's Test is "a test of my ability to handle a no-win situation". She may be thinking of the well-known Kobayashi Maru scenario formerly given during officer training at Starfleet Academy, although her test does turn out to have a solution.
+
+
+=== Reception ===
+On Troi's promotion, Taylor remarked, "I thought it was really strong, although we have taken some criticism from people who said, 'How could you promote her over Data and Geordi?' But it would not have been a very interesting story to see Geordi or Data getting their rank. The obstacles she had to overcome were formidable and where you get interesting drama is out of conflict" (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Moore admitted having mixed feelings on the episode. "As a writer, I never figured out what it was about. I didn't know what I was trying to say with the episode. It was probably the most difficult writing experience I had on the show because I was very frustrated. It was a bad time in the season. I was tired and I was not having fun, and I think it showed in the writing…What I enjoyed writing was Data as Mr. Wizard on the planet of people who aren't very smart. That was kind of funny. I got a kick out of Data being the guy in the back of the class raising his hand, inventing quantum mechanics with stone knives and bear skins." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Brannon Braga commented, "It was great to see an episode as fundamental as Data being forced to confront his inner nature. The cool factor was also very high. Seeing Data impaled by a metal rod was just great. I enjoyed the episode. A couple of the performances of the townsfolk were a little groggy for my taste, but Data as Frankenstein – what a neat idea. I thought, all in all, it was a very nice job. In fact, I thought it was probably one of the best ones of this season." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+Director Winrich Kolbe observed, "It was interesting because I had done "Pen Pals", a show that didn't quite find the right direction. Data seems to have a predilection for little girls, not in a bad way. Here we wind up again with a little girl. There seems to be something about Data that gives writers the idea for the relationship. He has a vulnerability or an innocence, especially at the beginning. It's Brent at his best. I liked the episode. We got some good actors and it was almost like a period piece. It was like going back to the Renaissance." (Captains' Logs: The Unauthorized Complete Trek Voyages)
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Individual Achievement in Art Direction for a Series.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 84, 25 July 1994
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Ronnie Claire Edwards as Talur
+Michael Rothhaar as Garvin
+Kimberly Cullum as Gia
+Michael G. Hagerty as Skoran
+
+
+=== Co-stars ===
+Andy Kossin as Apprentice
+Richard Ortega-Miro as Rainer
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Michael Braveheart as Martinez
+Oliver Theess as command division officer
+Christina Wegler Miles as command division ensign
+Unknown performers as
+Eighteen Barkonians
+Four Barkonian children
+
+
+=== Stunt double ===
+Brian J. Williams as stunt double for Brent Spiner
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+2362; 2368; 2369; ability; achromatic objective lens; analogy; anvil; antimatter containment unit; antimatter storage deck; arithmetic; authorization code; auxiliary control; Barkon IV; Barkon IV moon; Barkonian; basic elements; blacksmith; bridge officer; Bridge Officer's Test; bridge operations; broth; butter; cheese; chemical compound; chief medical officer; class reunion; combustible (combustibility); commander; communicable disease; cooking; deep space probe; demon; dilution; diplomatic law; dorak; EM power inverter; empirical data; exposure; Federation; fever; fire; first contact procedure; fluid; focal length; forge; Galaxy class decks; Gia's mother; headache; herb; hood; house; ice-man; imzadi; indigestion; Jayden; Jefferies tube; jewelry; lesion; lever; Lexington, USS; luminescent; magnetic field; magnification; magnifying glass; malnutrition; meat; metal (metallic); memory loss; meter; microscope; milling; monster; neodyne relay; neuroelectrical system; night shift; no-win scenario; ODN conduit; palpitation; path; phase inducer; phenomenon; plasma conduit; positronic matrix; positronic net; pre-industrial society; probe casing; quantum filament; radiation; radiation poisoning; rank; red alert; rock; scientific methodology; secondary plasma vent; self-image; selton; sir; skin; sky; spelling; spirit; Starbase 231; subprocessor relay; Talur's grandmother; Taranko colony; technical manual; temperature; tempering; tooth; town magistrate; town square; transducer matrix; Troi's shuttle; trombone: Vellorian Mountains; village; village elder; warp-plasma shaft; water; well; winter; wood
+
+
+==== Unused production materials ====
+Jayden
+
+
+=== External links ===
+"Thine Own Self" at Memory Beta, the wiki for licensed Star Trek works
+"Thine Own Self" at Wikipedia
+"Thine Own Self" at MissionLogPodcast.com
+"Thine Own Self" script at Star Trek Minutiae
+"Thine Own Self" at the Internet Movie Database

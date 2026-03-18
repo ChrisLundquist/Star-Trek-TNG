@@ -1,0 +1,313 @@
+An engineering team finds evidence of an alien presence on Earth in 19th century San Francisco: Data's severed head, buried five hundred years ago. (Season finale)
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45959.1. The Enterprise has been recalled to Sector 001 on a priority mission. All we have been told is that evidence has been discovered indicating the presence of extraterrestrials on Earth five centuries ago."
+Captain Picard and Lieutenant Commander Data enter an underground cavern in San Francisco with a scientist where work crews have discovered some artifacts dating back to the 19th century. Data notes the presence of a "bifocal visual aid" that is typical for the era and a revolver which is identified as a ".45 caliber double action cavalry pistol invented by Colt Firearms in 1873." A gold watch is also present with the inscription "To S.L.C. With Love 30 November 1889." The time on the watch is 9:39:46.
+The scientist leading them explains that the work crews installing seismic regulators in the cavern under San Francisco were having difficulty with the phase conditioners due to the composition of the walls of the cavern. Data scans the rock walls with a tricorder and determines that the rock face has been altered by exposure to triolic waves which are foreign to Earth in both the 19th and the 24th centuries.
+Picard wonders aloud why the Enterprise would be called back for such a discovery when there surely are experts on Earth better suited for an investigation. The scientist reveals that there is one more item they found that he has not shown them yet. He lifts a cover to reveal Data's severed head.
+
+
+=== Act One ===
+"Captain's log, Stardate 45960.2. We have transported the materials discovered in the cavern back to the ship for analysis. I wish I could be as dispassionate about the implications as my second officer."
+
+Data and Commander Riker are in engineering examining the android's head. Data notes that there is a 12% decomposition of bitanium in the neural pathway links. Riker is obviously uncomfortable and asks Data how he can examine the head without feeling emotion. Picard arrives and asks if the head could be that of Data's brother, Lore. Data says no, because his brother's positronic brain has a Type L phase discriminating amplifier, while his is a Type R. He estimates that the head has been in the cavern for approximately five hundred years like the rest of the artifacts. Riker states that Data's head is not an artifact. Data agrees in relative terms, but further asserts that at some future date, he will be transported back in time to Earth, where he will die. Riker says they will do everything they can to prevent it, but Data appears to accept his death as inevitable – "It has occurred. It will occur."
+Lieutenant Commander Geordi La Forge interjects that he has some information on who the aliens in the cavern might have been. He believes they are dealing with a species with microcentrum cell membranes because triolic waves wouldn't harm them. Further, they may be shapeshifters. La Forge also discovers a cellular fossil, specifically, a microscopic ciliated lifeform designated LB10445, only known to exist on Devidia II in the Marrab sector. Picard orders Riker to immediately lay in a course for Devidia II.
+Later, in Ten Forward, La Forge and Data are sitting at the bar discussing Data's death. La Forge posits that the discovery must bother Data a little, but, to the contrary, Data finds it comforting. Previously, Data believed that he may exist for an unlimited period of time. This reinforced the fact that he was artificial and even more different from Humans who age. He explains that he is now more like everyone else because he is mortal. More importantly, prior to the discovery of his mortality, he expected to outlive everyone he considers his friends, and make new ones which he would then outlive as well. Mortality makes his existence complete in a way immortality cannot. He thus feels that he can "look forward" to death, since he has reviewed his existence to date and can be satisfied that he has accomplished a great deal.
+Picard's voice over the intercom interrupts them, ordering all bridge officers to their stations as they are approaching the Devidia system. Data leaves and Guinan asks La Forge about their conversation, which she observed to be very intense. He tells her that they found Data's head a mile under San Francisco and it had been there for five centuries. As La Forge leaves for engineering, Guinan says, "Full circle. Hmm…".
+
+Counselor Troi and Riker are walking in a corridor on Deck 12 toward the turbolift discussing the recent events. Riker expresses that he is angry about the situation, while Troi says it is like finding out that someone you love has a terminal illness. Just then the turbolift doors open and Data is standing inside. They immediately cease their discussion and enter the lift. Data looks sideways at both of them before telling them that people are behaving differently around him, such as by abruptly ending conversations as they just did when the doors opened. Troi says that he's right and that it wasn't a very nice thing to do. Riker explains, "It's just that our mental pathways have become accustomed to your sensory input pattern" – quoting Data's explanation of what friendship means to him, which Troi had just quoted to Riker. Data says he understands and that he's fond of them also. They exit the lift onto the bridge.
+The Enterprise is in orbit of Devidia II. Picard enters the bridge from his ready room and asks if there are any signs of life on the planet's surface. Lieutenant Worf answers in the negative. Data announces that sensors have detected a temporal disturbance on the planet's surface at 42 degrees, seven minutes north by 88 degrees declination east. A spectral analysis shows a high level of triolic waves at the same location. The magnetic signature of the waves is identical to those found in the cavern under San Francisco. Picard asks if the waves are dangerous and Data replies "only with long-term exposure." Picard then orders Riker to take an away team to the surface. Riker orders Worf, La Forge, and Troi to join him in transporter room three. Data is left out as Picard explains to him that he is needed to monitor sensor readings. Data asks to speak with the captain alone and they move the conversation into Picard's ready room.
+Once alone, Data notes that standard procedure calls for the second officer to accompany away teams. Picard explains that he is just being cautious. Data observes that there is not rational justification for the decision to which Picard snaps, "Then I'll be irrational!" Data tells Picard that he appreciates his concern for him, then employs an aphorism saying, "One cannot cheat fate." Picard replies, "Perhaps we can't, Mr. Data, but at least we can give it a try."
+
+The away team materializes in a cavern under the surface of the planet. La Forge scans for and finds triolic waves but can't determine their source. He contacts Data and asks him to run a spectral field correlation to see if the waves are related to the temporal distortions. Troi is standing in the middle of a large room and says, "There's life here." She senses hundreds of lives. They're all terrified and to her shock, realizes that they're all Human.
+
+
+=== Act Two ===
+Riker reports to Picard from the surface that Troi is convinced that there are Humans present and that they may be trapped. Data reports that his temporal analysis indicates a synchronic distortion in the areas emanating triolic waves. The displacement is a positive .004 percent which is enough to render the Devidians invisible due to being out of phase with the away team. La Forge hypothesizes that if they could create a contained subspace force field, they may be able to compensate for the phase variance. However, a very sensitive phase discriminator would be needed. Data allows that he has one built into his positronic decompiler and that he will need to join the away team to continue the investigation. Picard reluctantly tells him to proceed.
+Data transports to the planet with a device for manually adjusting the phase of the subspace force field. He explains to the away team that he will become invisible after he adjusts his phase but that they will still be able to hear him because his combadge will transmit on a delay. After asking for Riker's assistance in testing their combadges, Data explains that the communication will not be two-way, however. As Data adjusts his device, he begins to disappear, and completely vanishes when he reaches .004. He reports visual contact with lifeforms in the room but they don't react to his presence. He describes vaguely humanoid creatures, two to three meters in height, silver-grey in color with an orifice in their foreheads. They are ingesting some type of energy fragments. There is a container with perhaps thousands of these fragments in the center of the room. As Data moves northward, he encounters an ophidian held captive in a force field. The away team can only stand in place and listen as his communication becomes more obscured by static with each passing moment. Data describes to them that two Devidians are approaching the ophidian and are releasing it. A loud noise interrupts the communication and Data reports through much interference that he is caught in the aftereffect of a temporal distortion that was opened by the creatures. A sudden bright flash lights up the cavern and the phasing device that Data was carrying falls to the floor. Troi yells out his name and Riker reports to Picard that they have lost him.
+Data finds himself lying on his back in the middle of a brick street outside Fire House Nº 5 as a horse-drawn buggy goes by. He is in 19th century San Francisco.
+
+
+=== Act Three ===
+
+Data walks around the streets of San Francisco asking about two individuals with an ophidian. He gets ignored, laughed at and even called a Frenchman by a man. He finds a copy of the San Francisco Register dated Sunday, August 13, 1893 with the headline "Cholera Outbreak." A forty-niner asks for his help, but Data explains that he has no money and is in search of information. The forty-niner tells him some basic rules of panhandling.
+Data walks up to a bellboy, Jack London, outside the Hotel Brian and asks for temporary lodging and is told the cost is "six bits a day or four dollars a week." Data explains that he cannot pay and that he would like a job at the hotel. Jack says he himself already performs all of the work and walks away past a sad-looking man leaving the hotel. Jack remarks to Data that the man hasn't filled a straight in five weeks. Data looks at the bellboy and asks simply, "Poker?"
+Data enters a smoke-filled room where four men, a seaman, an American Indian in a hat, a well-dressed man and another man are playing poker. He asks to join the game and remarks (to explain his appearance) that he is a Frenchman. The well-dressed man speaks to him in French with a Louisiana accent. Data replies in French and is invited to join them. He sits down and offers his combadge in exchange for currency. He explains that it is a crystalline composite of silicon, beryllium, carbon-70, and gold. The well-dressed man offers him three dollars for it. Data accepts and deals the cards.
+
+Data walks into his room at the Hotel Brian wearing the Indian's hat and the well-dressed gentleman's vest. Jack is talking about how he beat the card sharks, Frederick La Rouque and Joe Falling Hawk. He gives Data the key to the room and holds out his hand with the palm upturned. Data shakes his hand. Jack clears his throat and puts his hand out again for a tip. Data advises him to monitor his cough as there is a cholera epidemic in San Francisco. He tells Data that he has never felt better, then clears his throat again and Data finally understands. He hands a dollar to Jack, who is very impressed with the amount of his tip and offers to get Data whatever he needs. Data writes down a list with his left hand and gives it to Jack. Data explains the odd list of items by saying that he is an inventor. He then gives Jack a large sum of money for buying them and tells him to "retain the surplus for yourself."
+Jack leaves the hotel to start on Data's list and passes the old forty-niner Data had encountered before still begging on the street. A tall woman and a gentleman approach him. The man has a walking stick with the head of a snake on it. The woman lifts her leather bag and a blue beam of light emanates from the end and strikes the old man in the chest. He goes pale and dies before the beam is stopped and the two turn and walk away arm in arm.
+
+
+=== Act Four ===
+"Captain's log, supplemental. Close range sensor analysis has yielded no further trace of Commander Data. Despite the emotional repercussions of the crew, I must move this mission forward."
+The senior staff is assembled in the observation lounge. They are speculating on the disappearance of Data and the purpose of the Devidians' travels to earth. La Forge says that he may be able to reproduce what Data did to reach the Devidians' phase, but it would be very difficult and take quite some time. Picard doesn't want anyone else going alone and La Forge says he can make a large enough subspace field to encompass everyone. Picard says, "Make it so." Worf takes Riker aside as the rest of the senior staff exit the lounge after Riker suggests going after Data in the past. Worf notes that it may be their fate to die in the cavern five hundred years before with Data as their remains would have turned to dust long ago.
+In Ten Forward, Guinan is mixing drinks when Picard enters. She tells him she is mixing a Tzartak aperitif and that it is a very, very tricky recipe as it can easily just evaporate. Guinan tells Picard that the trick is to keep the temperature of the liquid half a degree lower than the temperature of the customer, so the flavor will be carried on the vapor when drunk. She asks if Picard is going along on the away mission back to the surface. He says it is general policy not to. She asks him if he remembers the first time they met. When he says yes, she replies, "Don't be so sure." She adds that he must go on this away mission or they will never meet.
+Meanwhile, Data has assembled many components into a device on a table in his room. Jack struggles in with an anvil, which Data explains he needs for a low intensity electromagnetic field core. Data almost exposes his android abilities by thoughtlessly picking up the anvil with one hand. However, when he hears Jack's shocked exclamation at the feat, he quickly corrects the mistake by pretending to have overexerted himself and stretched a muscle. Jack leaves him a croissant wrapped in a page of an old newspaper. Data sets the pastry aside, looks at the paper and sees, to his surprise, a picture of Guinan under the headline, "Literary Reception Announced." The date on the paper is Friday, August 11, 1893.
+
+
+=== Act Five ===
+
+At the literary reception, Samuel Clemens, while lighting a cigar, is holding forth about Alfred Russel Wallace and his theories about Earth being the only life-supporting planet in the universe while Guinan, dressed in period clothing, listens and comments on his words. She posits that perhaps Earth is one of millions of inhabitable planets in the heavens. Clemens agrees and notes how insignificant mankind is in the grand scheme of things. Data enters the house and is stopped at the door and asked his name. His name is not found on the guest list and is asked to leave immediately. He dodges the doorman, enters the reception and calls out to Guinan. When he finds her he asks to be able to speak with her. She doesn't know him so he tells her they were on a ship together – a starship. Immediately, she feigns knowing him and excuses herself and Data from Clemens' presence.
+Outside, on being asked, Data explains that he's an android, and wasn't sent by her father. Having realized that this Guinan is actually contemporary to this time period, he explains their future service together on the Enterprise. He tells her how he came to be in the 19th century and that he assumed that she had followed him from the 24th century. He adds that although he knew that her species was long-lived, he had no idea that she had visited Earth so long ago. A wisp of smoke drifts by, giving away the presence of Clemens standing in the open doorway listening to their conversation. Clemens tells them both that eavesdropping is by no means an appropriate activity from a gentleman. Nevertheless, the deed is done, he says.
+
+"Captain's log, Stardate 45965.3. An away team has beamed to the surface with a device that may enable them to phase shift into the alien world."
+La Forge, Troi, Worf, Riker, and Doctor Crusher are in the cavern on Devidia II setting up equipment when Picard beams down. La Forge establishes the subspace field and Picard orders Worf to return to the Enterprise. La Forge adjusts the synchronic distortion and as they get nearer to .004, the Devidians flicker into view. Luminescent spheres exit a container in the center of the room one by one, then swirl around before entering an orifice on the foreheads of the aliens. Crusher scans them with a tricorder and says the strands may be organic. Troi says there is no life, but she senses an echo of the last moment of Human life. "They all died in terror."
+
+A bright flash of light and a loud noise make the away team turn to see an opening appear in the wall of the cavern. Two Devidians enter, one holding a staff with a snake's head on it. They deliver more energy fragments and go back toward the temporal door. With grim determination, Picard leads the Enterprise crew into the vortex and into the unknown danger that awaits them.
+
+TO BE CONTINUED…
+
+
+== Memorable quotes ==
+"At some future date, I will be transported back to 19th century Earth, where I will die. It has occurred. It will occur."
+
+- Data
+
+"However, this investigation began with your death. I'm trying to see it doesn't end that way."
+
+- Picard, to Data
+
+"How did he put it…(impersonating Data) 'As I experience certain sensory input patterns my mental pathways become accustomed to them. The inputs eventually are anticipated and even missed when absent.' "
+
+- Troi
+
+"It's just that 'our mental pathways have become accustomed to your sensory input patterns.'"
+"Ah. I believe I understand. I am fond of you as well, commander. And you too, counselor."
+
+- Riker and Data
+
+"Your head is not an artifact!"
+
+- Riker, to Data
+
+"So… do you want to talk about it?"
+"Are you referring to the foreknowledge of my death?"
+
+- La Forge and Data
+
+"I never knew how tough this must be for you."
+"Tough? As in difficult?"
+"Knowing that you would outlive all your friends."
+"I expected to make new friends."
+"True."
+"And then to outlive them as well."
+
+- La Forge and Data
+
+"It provides a sense of completion to my future. In a way, I am not that different from anyone else. I can now look forward to death."
+
+- Data, to La Forge
+
+"I am presently in need of information."
+"The stockbrokers are cheap as hell – don't even ask 'em. Best handout is a young man with his lady. You give him a chance to impress her by bein' generous. But stay clear of the sailors – likely as not, you'll get a fist across the jaw for your trouble."
+"Thank you for the advice, but I am trying to find two individuals with a snake."
+
+- Data and the forty-niner
+
+"Pale face."
+"Well, I don't like easterners, personally."
+"I am a Frenchman."
+
+- Joe Falling Hawk, Seaman, and Data
+
+"Mes parents sont originaires de Bourgogne. Je suis né à la New Orléans." (Translation: "My parents come from Burgundy. I was born in New Orleans.")
+"Alors, nous sommes presque frères. Je suis heureux de vous connaître." (Translation: "We are almost brothers, then. I am happy to know you.")
+
+- Frederick La Rouque and Data
+
+"Looks like the missus booted you out in the middle of the night!"
+"Ah. I understand the source of your misperception, but this is not sleepwear, and I do not have a 'missus.' "
+
+- Jack London and Data
+
+"Your suspicions, Madame Guinan, are undoubtedly based upon your keen observational skills. Ha, ha. Now, if you'll permit me, I'll continue my character assassination unimpeded."
+"My dear Mr. Clemens, please do. Please do."
+
+- Samuel Clemens, disputing Alfred Russel Wallace's notion that Earth is the only inhabited planet in the universe, while Guinan observes
+
+"Full circle. Hmm…"
+
+- Guinan, seeing the past and future coming together
+
+"Isn't that what makes America great?"
+"To what are you referring?"
+"A man rides into town in his pajamas, wins a grubstake at a poker table, turns it into a horseless carriage, and makes a million bucks. That's America!"
+"I believe I have given you an erroneous impression."
+
+- Jack London and Data
+
+"Data, is this yours?"
+
+- Picard, referring to Data's severed head from the 19th century
+
+"My God, Will, they're Human."
+
+- Troi, to Riker
+
+"Do you remember the first time we met?"
+"Of course."
+"Don't be so sure. I just mean … if you don't go on this mission, we'll never meet." 
+
+- Guinan and Picard
+
+"Eavesdropping is by no means a proper activity for a gentleman; never-the-less, the deed is done!"
+
+- Clemens, to Data and Guinan
+
+
+== Background information ==
+
+
+=== Production timeline ===
+Final draft script: 6 April 1992 [1]
+Filmed: April 1992
+14 April 1992 – Sanchez Street, El Pueblo de Los Ángeles Historical Monument: Ext. Putney Street (Star Trek: The Magazine Volume 3, Issue 8, p. 106)
+Premiere airdate: 15 June 1992
+First UK airdate: 14 June 1995
+
+
+=== Story and script ===
+
+Rick Berman and Michael Piller had originally decided not to end the fifth season with a cliffhanger, but the development of the spin-off series Star Trek: Deep Space Nine changed that. Piller remarked, "Because of all the attention DS9 was getting and the rumors that TNG would be shutting down, we wanted to send a message that this show was alive and well and continuing to grow". (Star Trek: The Next Generation Companion, 2nd ed., p. 205)
+Throughout the season, the writing staff considered a story where Data had to pass himself off as a humanoid on a planet for a lengthy period of time. They were unable to make it work, as they could not come up with a plausible reason why the Enterprise was not coming back. The idea was finally used when someone suggested time travel. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 249)
+A number of different time periods were considered, including the 1930s, '60s, and '90s. The latter was rejected as having "been done" in Star Trek IV: The Voyage Home. (Star Trek: The Next Generation Companion, 2nd ed., p. 205)
+While debating the setting, it became a running joke among the staff that Data would go back in time to save John F. Kennedy from assassination. Coincidentally, the producers received a spec script with a very similar premise only two weeks after this episode's script was completed. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 249)
+The late 19th century was finally chosen by Rick Berman, who came up with the idea of Data meeting Mark Twain. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 249)
+Joe Menosky suggested involving Guinan, which intrigued Piller. He remembered, "I said if she was alive, what if that's where she met everybody and what if that's where the relationship with the Star Trek group started and she met Picard. Ultimately that's where Picard helped her out of trouble back then and she came back to find him before he met her, knowing she was going to be on the Enterprise to complete the circle." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 249)
+Before writing the episode, Menosky spent time studying Twain's writings, particularly his essays and lectures, to find his "voice". He remembered, "People thought I actually was quoting him, but I was just writing the way I thought he would speak." (Star Trek: The Next Generation 365, p. 266)
+
+
+=== Cast and characters ===
+Michael Piller tasked David Livingston with approaching Whoopi Goldberg to confirm her availability. Goldberg loved the idea, and committed to both parts. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 249)
+Marc Alaimo gives his last TNG performance in this episode as the poker player, Frederick La Rouque. His next Star Trek appearance is as Dukat, his most famous character, in "Emissary", the pilot episode of Star Trek: Deep Space Nine.
+Jerry Hardin plays the role of Samuel Clemens, which is the real name of the writer Mark Twain. He can also be seen as Radue in TNG: "When The Bough Breaks" and as Dr. Neria in the Star Trek: Voyager episode "Emanations". According to the Star Trek: The Next Generation Companion, 2nd ed., p. 215, Hardin had never played Twain before, but became so enamored with the character after these two episodes that he created a one-man touring show about him.
+
+
+=== Production ===
+
+This is the last episode in which the flying title "Star Trek The Next Generation" appears.
+The San Francisco exterior scenes were shot on location at the historic Pico House and along Olvera Street, the restored area near the first mission in old Los Angeles. (Star Trek: The Next Generation Companion, 2nd ed., p. 205)
+Scenes in the cavern were filmed on Paramount Stage 16. David Livingston recalled that lengthy blue screen sequences were required. "In order to photograph them with our people, it's a three-stage process. We shoot our people on the set, we have to shoot plates and then we have to shoot the aliens. Then Rob Legato has to matte all that stuff together, and the process of shooting something sometimes takes two or three times longer to do than it normally would, because there are so many layers to the process." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 249)
+For a brief moment, a member of the production staff can be seen behind a wall in main engineering at the beginning of the episode. This is the fourth time on TNG where a production staff member was accidentally filmed. The first was a camera operator in "The Naked Now", the second two boom operators in the episode "Angel One", the third one boom operator Bill Gocke in the episode "Unification II", the fifth was June Abston Haymore in "Birthright, Part I", and the sixth an unknown boom operator in the episode "Journey's End".
+The beacons used to erect the large force field were previously seen in "Power Play".
+The severed Data head used in this episode was seen again in "Phantasms" and was later used as the severed head of a Borg drone in VOY: "Unimatrix Zero".
+Data is incorrect in identifying the 1873 Colt .45 cavalry revolver as being double action. It is in fact, single action as the hammer must be cocked manually before the trigger can be pulled to fire the weapon. Double action revolvers can be cocked and fired by simply pulling the trigger.
+
+
+=== Continuity ===
+Data's definition of friendship as quoted by Deanna Troi is a word-for-word restatement of Data's own description of friendship as related to Ishara Yar in the fourth season episode "Legacy".
+
+
+=== Reception ===
+Joe Menosky commented that the episode "was a bit of a mess, but I was happy with the Mark Twain stuff." (Star Trek: The Next Generation 365, p. 266)
+Members of the staff, including Jeri Taylor and Ronald D. Moore, admitted that they were unsatisfied with the amount of technobabble used in the episode. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 256)
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 63, 15 March 1993
+In feature-length form, as part of the UK VHS release Star Trek: The Next Generation - The Full Length TV Movies: Volume 5, catalog number VHR 4105, 13 March 1995
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.8, 23 December 2002
+This is the last re-release volume released by PHE, due to the shift to DVD releases.
+As part of the TNG Season 5 DVD collection
+In feature-length form, as part of the Star Trek: The Next Generation - The Complete TV Movies collection
+As part of the Star Trek: Fan Collective - Time Travel collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Jerry Hardin as Samuel Clemens
+Michael Aron as Jack London
+Barry Kivel as doorman
+Ken Thorley as seaman
+Sheldon Peters Wolfchild as Joe Falling Hawk
+Jack Murdock as begging forty-niner
+Marc Alaimo as Frederick La Rouque
+Milt Tarver as Federation scientist
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-star ===
+Michael Hungerford as Roughneck
+
+
+=== Uncredited co-stars ===
+K.C. Amos as operations officer
+David Keith Anderson as Armstrong
+Lena Banks as operations ensign
+Joe Baumann as Garvey
+Eugenie Bondurant as Devidian woman
+Debbie David as Russell
+Tracee Lee Cocco as Jae
+Hal Donahue as command lieutenant
+Grace Harrell as operations officer
+Christie Haydon as command ensign
+Alex Landi as operations officer
+Mark Lentry as civilian
+Marianne Lewis as literary reception guest
+Michael Moorehead as sciences ensign
+Sherry O'Keefe as literary reception guest
+Keith Rayve as civilian
+Joycelyn Robinson as Gates
+Robert Seeley as Devidian
+Noriko Suzuki as operations ensign
+Roma Lee Tracy as literary reception guest
+Michael Wilkinson as literary reception guest
+Unknown performers as
+Butler
+Devidian male
+Two Devidians
+Fifteen San Francisco citizens
+Fourteen literary reception guests
+Lane
+Maid
+Poker player
+Policeman
+Ten Forward waiter
+Ten Forward waitress
+Transporter operator (voice)
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Candace Crump – stand-in for Whoopi Goldberg
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+19th century; 1873; 1889; 1893; 24th century; 49er; alloy; ante; anvil; aphorism; apple; away mission; bakery; banana; barber; beggar; bifocal visual aid; bit; bitanium; body temperature; borax; bowler hat; breakfast; Burgundy; byproduct; caliber; cameo; candle; cannery; card shark; carpenter; cavern; Chapman's Ice Cream; character assassination; checkout; cholera; cigar; clipper ship; close range; Coahuila; Colt .45; Colt Firearms; communicator; companionship; cough; cranial unit; declination; decomposition; degree; Depew; Devidia II; Devidia system; Devidian; diamond; dime; diving horse; dozen; Dr. Haile's 'Old Injun' System Tonic; driver; drug broker; Earth; east; Easterner; emotional repercussion; evaporation; evolution; exochemistry; extraterrestrial; fire engine; Fire House Nº 5; fossil; French language; fruit; Gentleman Jim; geology; Germany; gray; grub stake; guest list; Guinan's father handshake; horse; hotel; Hotel Brian; inventor; iron; J. Mees Rodent Control; jaw; jocular reaction; Kingsbury Pale; La Forestal FCL; La Rouque's parents; LB10445; legal tender; Lillian; liniment; liquid; literary reception; living tissue; location; Lore; Luna; magnetic field; maid; Manitowoc; Manitowoc Products Co.; Marrab sector; mass: match; mental pathway; meter; microcentrum cell membrane; Midsummer Night's Dream, A; mile; minute; mission; molecule; mortality; Murphy Harmonika; Native American; neural pathway link; New Orleans; north; number one; No. 5 Fire House; occupation; Ole Injun;  ophidian; orange; orifice; oyster; oyster pirate; Pacific Coast; painting; perceptual range; phase conditioner; phase decompiler; phase discriminator; phase shift; phase variance; pistol; poker; poker face; prairie; Putney; result; rock face; sailor; saloon; Saltillo; San Francisco Register; second officer; Sector 001; sensor analysis; silver; sleepware; Starfleet Academy; stockbroker; subspace generator; temperature; Third; tip; tongue; transporter room 3; tricorder; triolic wave; turbolift; Twain, Mark; Tzartak aperitif; vapor; Wallace, Alfred Russel: whiskey; wholesale; Wisconsin
+
+
+=== External links ===
+"Time's Arrow" at Memory Beta, the wiki for licensed Star Trek works
+"Time's Arrow" at Wikipedia
+"Time's Arrow" at MissionLogPodcast.com
+"Time's Arrow" script at Star Trek Minutiae
+"Time's Arrow" at the Internet Movie Database

@@ -1,0 +1,188 @@
+La Forge uses a virtual reality probe to explore a wrecked ship inside a gas giant, but he's preoccupied by the disappearance of his mother's ship.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Geordi La Forge, Data, and Beverly Crusher are testing an interface in a science lab on the USS Enterprise-D which allows La Forge to use the VISOR's neural implants in his brain, along with an interface suit, to control a probe by remote control. Via this connection, La Forge can use the probe to virtually enter areas that would be far too dangerous for actual crew members to enter, and the probe transmits information directly into La Forge's cerebral cortex, providing him with the sensation that he is actually there.
+
+
+=== Act One ===
+As the crew prepare to use the experimental probe to investigate the wreckage of the USS Raman, which became trapped in the atmosphere of Marijne VII, Captain Jean-Luc Picard receives an incoming message from Admiral Marcus Holt of Deep Space 3. Picard reminds the crew that the seven crew members of the Raman are their top priority.
+In the ready room, Picard and Admiral Holt exchange greetings, and the admiral mentions they're hosting the year's palio and the Ferengi have been accused of bribing the Breen pilot into throwing the race, which doesn't surprise Picard. Holt muses that he wishes he was calling to catch up; he informs Picard that the USS Hera under the command of Geordi La Forge's mother, Silva La Forge, was lost during a routine courier mission operating out of the station. A massive search mounted by the USS Excelsior and the USS Nobel so far has failed to discover any trace of the ship, and all hands were presumed lost. Holt says he'll keep both ships at it for 72 more hours but is resigned to the fact that another week would not make a difference. Picard tells Holt he will give the bad news to La Forge and their communication terminates.
+Picard walks into the lab where La Forge and Data are working and interrupts their probe preparations. He dismisses Data and once they are alone, Picard tells La Forge about the Hera's disappearance, which draws a very unsettling look from the chief engineer.
+
+
+=== Act Two ===
+Despite the apparent loss of his mother, La Forge intends to continue on with the mission. He views the last message he received from his mother in his quarters when Commander Riker enters to try to talk La Forge out of performing the task and give him a couple of days off, but La Forge insists he should continue, as the interface has been specifically configured to his VISOR's inputs and there's little time if there are survivors on the Raman.
+After a brief period of adjustment in activating the interface, he travels through a corridor on the Raman, finding someone dead. He continues on and cannot get the doors to open to a magnetic storage bay. La Forge theorizes that if there were a hull breach on the bridge, the bay would be the safest area on the ship for the crew to head to. La Forge cannot get the doors to the bay open through the probe, so he has Data fire a phaser blast at a door panel at narrow focus and at level four intensity. The doors open and La Forge finds the rest of the crew's dead bodies slumped together in the bay. There is no one left alive on the ship. Suddenly, a fire breaks out and Crusher orders a disconnection. However, they see that La Forge's hands have been severely burned.
+
+
+=== Act Three ===
+It turns out the heat sensory inputs overloaded through a possible feedback loop. In sickbay, Crusher treats the wounds. Picard wants to get the information the crew of the Raman were collecting, but not at the risk of La Forge's health. La Forge says they can modify the interface, so they can try again in a couple of hours once the entry point on the Raman can be created.
+In the meantime, La Forge learns from his father that a memorial service has already been planned for the crew on Vulcan, as most of the Hera's personnel were native to the planet. La Forge's father wants to plan a private memorial along with his daughter and La Forge's sister Ariana, which seems premature to La Forge. He tells his father that he can believe she is dead if he wants but until he sees hard evidence of this, he will not be giving up hope. La Forge's father tells his son to contact him again if he needs anything and closes the channel.
+Later, he "is just passing by" Data's quarters and stops in. Data is contemplating the emptiness of his computer screen in the style of the Doosodarians. He initially asks if La Forge wants to talk about his mother, and he says no, however, La Forge gives in and asks if it's crazy to think she's still alive. Data factually replies he's not crazy, but statistics show that situations similar to those of the Hera rarely come out well.
+La Forge is back in the interface, but, immediately, he inexplicably sees his mother standing on board the Raman.
+
+
+=== Act Four ===
+Captain La Forge states that she and the crew of the Hera are actually trapped on the planet's surface. Continued use of the probe soon exposes La Forge to unhealthy levels of neural stimulation, forcing his disconnection from the interface.
+La Forge becomes convinced that his mother was on the Raman, and wants to use the probe to communicate with his mother. Dr. Crusher and Picard refuse to allow him to use the interface suit again, and attempt to explain that it is highly improbable that he actually communicated with his mother who was last seen over three hundred light years away. Picard orders him to talk to Counselor Troi while Data comes up with an alternate plan to salvage the Raman. There, La Forge admits to Troi that he regretted not responding to his mother's last message, but he does not accept the treatment he's being given, as there's no evidence of her death, and he believes the image he saw on the ship. He abruptly leaves the room, since he has a theory of his own.
+In the observation lounge, Data presents his plan to bring the Raman out of orbit. La Forge agrees, but presents his theory about the Hera: in his mother's last message to him, she stated that the Hera's engineer was experimenting with the ship's warp drive. He believes the trionic initiators, which are known to cause strange side effects on the warp coils, had created a subspace funnel. He believes that this funnel sent the Hera from its last recorded position three hundred light years away all the way to Marijne VII. Asked by Picard if La Forge's assumption is possible, Data says that this theory is but upon being pressed by Captain Picard further, he reluctantly admits that it is almost impossible. Picard makes the decision on Data's plan over La Forge's objections.
+In engineering, Riker walks in and finds La Forge sitting glumly at his console. Riker informs him that they will be in position to use the tractor beam in less than an hour. He admits he did not come down to engineering merely to tell La Forge this and begins to go into the loss of his mother. She died when Riker was an infant and he had no memory of her – only photographs. He recalls that he used to ask his father to tell him stories about his mother over and over again. He began to tell those stories to his friends at school and started to believe that she was alive – she was just going to be gone for awhile. When his teacher got wind of this, she and Kyle Riker sat him down and explained that it was important for him to accept that his mother was dead and that she was not coming back. Riker tells La Forge that he cried all night that night but soon started feeling better. La Forge counters that Riker's mother was indeed gone, and that there was a body and a funeral. Regarding his own mother, he has none of this and says that now there is a possibility that she is alive and he is not going to quit.
+
+La Forge has decided to take matters into his own hands and prepares the interface in the science lab. Data had predicted this behavior and arrives. Despite Data's insistence of having La Forge stop what he is doing or be confined to quarters, La Forge doesn't back down. Data then decides to ultimately help his friend.
+
+
+=== Act Five ===
+With Data's assistance, La Forge returns to the Raman and again encounters the being who appears to be his mother. Prodding Data to continue increasing the sensory input at and beyond tolerance, La Forge takes the ship further down into lower orbit. However, when he eventually doesn't find the Hera, he soon learns that the being is actually a subspace creature native to the gas giant's lower atmosphere who became trapped when the Raman entered, then left the atmosphere. These creatures inadvertently killed the crew of the Raman in their attempt to communicate, but were able to successfully read La Forge's mind via his interface with the probe. La Forge takes the ship closer to the planet so that she and others like her trapped on the ship can return home – almost at the cost of his life. By this time, Picard and Dr. Crusher have arrived. The creatures leave the ship, but the shields are about to fail soon. By simulating sensory information from his previous attempts in the suit, Crusher and Data are able to disconnect La Forge from the interface safely.
+Afterwards, Picard sternly rebukes La Forge in his ready room for going against his express orders and informs him that the incident is going to be noted on his service file, before offering his condolences that he never found his mother. La Forge responds that the entity appearing to be his mother seemed real, and that in a way his encounter with the creatures allowed him to say goodbye.
+
+
+== Memorable quotes ==
+"Geordi… your mother's gone."
+"Yeah, well, you can think that if you want, but until I see some hard evidence I'm not going to give up hope."
+
+- Edward La Forge and Geordi La Forge
+
+"I decided I missed my favorite son."
+"Your only son, Ma."
+
+- Silva La Forge, from a video message sent to her son Geordi
+
+"Do you need to be comforted?"
+
+- Data, to Geordi La Forge, after learning that his mother on the Hera is missing
+
+"Mom, is it really you?"
+"Yes, Geordi. It's Mom."
+
+- Geordi La Forge, speaking to a representation of his mother Silva
+
+"Geordi, we're safe now. Goodbye."
+
+- A representation of Silva La Forge
+
+"You disobeyed my direct order. You put yourself in grave danger. I am not happy."
+
+- Picard, to La Forge
+
+"Geordi? I'm very sorry that you didn't find your mother."
+"Thank you, sir. You know, it's funny. When I was down there, it was so real. I felt like I had a chance to say goodbye."
+
+- Picard and La Forge (last lines)
+
+
+== Background information ==
+
+
+=== Production history ===
+In a two-page memo, Jeri Taylor reminds Michael Piller of Joe Menosky's pitch: 3 March 1993 [1]
+Final draft script: 14 July 1993 [2]
+Premiere airdate: 4 October 1993
+First UK airdate: 24 January 1996
+
+
+=== Story and script ===
+Joe Menosky's initial story, pitched two seasons before, had Riker in the virtual-reality suit, troubled by the death of his father, and seeing scenes of his Alaska cabin. (Star Trek: The Next Generation Companion, 2nd ed., p. 263)
+The story was not developed further, in part because Michael Piller felt it would be too similar to the proposed plot for the Star Trek: Deep Space Nine pilot "Emissary". On 3 March 1993, Jeri Taylor sent a memo to Piller, suggesting that the idea be revived for the seventh season. [3]
+The main character was changed to La Forge due to Riker's recent mind trip in "Frame of Mind", and the logic of using the engineer's VISOR implants. (Star Trek: The Next Generation Companion, 2nd ed., p. 263; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 291)
+Taylor recalled, "We've had the family of everybody else on board. Every other character has had their family dealt with except Geordi and probably the main reason for doing it was there was an order to finally flesh out his character more than it had been, and to show that he didn't spring isolated from Zeus' forehead." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 291)
+The script received an uncredited polish by René Echevarria. (Star Trek: The Next Generation Companion, 2nd ed., p. 263)
+The scene where Riker consoles La Forge of his loss was written by Jeri Taylor when it was discovered the show was running short. The scene was not filmed until after "Phantasms", three episodes later. (Star Trek: The Next Generation Companion, 2nd ed., p. 263)
+
+
+=== Production ===
+Visual effects supervisor Ronald B. Moore was disappointed that the elaborate probe miniature was only seen once. The episode instead uses the convention of La Forge in place of the probe. Director Robert Wiemer explained that it would have been "emotionally unrewarding" to film the probe with 'Silva' while cutting to La Forge for reaction shots. (Star Trek: The Next Generation Companion, 2nd ed., p. 263)
+This episode marks the first appearance of a new hairstyle for Troi, with softer waves in a warmer copper tone. Troi's hair varied throughout the season, depending on whether she was "on duty" or not. Typically this was marked by her wearing her hair looser with bangs when she was off duty.
+The console on which Riker is resting his arm in the teaser is the same, albeit modified, prop that was used as the theta-band wave emitter in "Chain Of Command, Part I" and Lore's console near the end of "Descent, Part II".
+
+
+=== Cast and characters ===
+
+LeVar Burton and guest stars Ben Vereen and Madge Sinclair all appeared in the 1977 television miniseries Roots. Vereen played Burton's character's grandson and Sinclair the wife of his character as an older man, played by John Amos.
+
+
+=== Reception ===
+It was during the production of this episode that Ronald D. Moore felt TNG had gone as far as it could be taken. "I think it was a point where we were in the room and we were talking about bringing Geordi's mother in, and we all kind of looked at each other and we were like, 'This is sad. This is the best we can do? Is this the best we can do, is Geordi's mother?' It was such a "who cares" idea that we were just sort of, 'Oh man… This show has got to end'." [4]
+In another interview, Moore commented, "There was some creative burnout during the last season […] The relatives were coming out of the closet because we were looking for things to do with people." (Star Trek: The Next Generation 365, p. 318)
+LeVar Burton welcomed the late insight into his character, but noted, "We just touched the tip of the iceberg where Geordi's background is concerned. I wish we'd gotten deeper into his relationship with those parents." (Star Trek: The Next Generation 365, p. 318)
+Naren Shankar questioned whether the story's premise was futuristic enough. "To me, it's not real interesting from a gee-whiz standpoint of technology, because we weren't looking at technology four hundred years in the future. I think it's more like forty years into the future. It's almost an overdone type of theme these days. The technology seems out of proportion to the other technologies that we use on the Enterprise." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 291)
+Science adviser André Bormanis noted, "There are prototypes of that kind of thing already, although tying it straight to the brain will take much longer." (Star Trek: The Next Generation Companion, 2nd ed., p. 263)
+
+
+=== Continuity ===
+This episode finally introduces Geordi La Forge's previously spoken of family.
+The episode's script spells the USS Nobel as "USS Noble", however the former spelling later appeared on screen. [5]
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 78, April 1994
+As part of the TNG Season 7 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William T. Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Madge Sinclair as Silva La Forge
+Warren Munson as Marcus Holt
+And
+Ben Vereen as Doctor La Forge
+
+
+=== Uncredited co-stars ===
+Lena Banks as operations division ensign
+Michael Braveheart as Martinez
+Debbie David as Russell
+Gary Hunter as science division officer
+Joycelyn Robinson as Gates
+Oliver Theess as command division officer
+Unknown performers as
+Female science division officer
+Seven USS Raman crewmembers
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+47; 2340; 2369; accusation; ammonia; Breen; Breen pilot; bribery; cerebral cortex; chlorine; confined to quarters; cough; counselor's office; courier mission; Deep Space 3; Doosodarians; emergency suppression system; Excelsior, USS; Ferengi; fire; gas giant; God; heart rate; Hera, USS; Hera crew; interface probe; interface suit; inverse warp cascade; Jefferies tube; La Forge, Ariana; lacuna; low stationary orbit; magnetic storage bay; Marijne VII; Marijne VII subspace being; meter; methane; Midsummer Night's Dream, A; nervous system; neural shock; neural synapse; Nobel, USS; palio; permanent record; phaser burst; phenomenon; poetry; potassium chloride; psychosomatic response; quantum fluctuation; Raman, USS; Riker, Betty; Riker, Kyle; roller coaster; science vessel; sensor range; service; Starbase 495; Starfleet; Starfleet Academy; Starfleet Command; subspace anomaly; subspace being; subspace deformation; subspace energy; subspace funnel; throwing; tractor beam; trionic initiator; troposphere; VISOR; Vulcan; Vulcan (planet); warp bubble; warp coil; warp field; warp funnel; week; wife
+
+
+==== Neural Sensor Analysis 7769-011 references ====
+cranial sensor; deep peroneal nerve; femoral nerve; femoral sensor; peroneal sensor; phrenic sensor; radial nerve; radial sensor; sacral nerve; saphenous nerve; sciatic nerve; sciatic sensor; thoracic nerve; tibial nerve; tibial sensor
+
+
+==== Library computer references ====
+Starship mission status: Ajax, USS; Alderaan; Alpha Laputa IV; Ambassador-class; Apollo-class; Aries, USS; Beta Cygni system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merced-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Romulan Neutral Zone; sector; Sector 21396; Sector 21538; Sector 22358; Sector 22846; Sector 22853; Sector 23079; Starbase 134; Starbase 434; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Zhukov, USS
+Spacecraft Systems Status: Bussard collector; captain's yacht; class M; gross vehicle mass; impulse engine; main shuttlebay Mars; navigational deflector; observation lounge; phaser bank; service docking port; shuttlebay 2; shuttlebay 3; torpedo launcher; umbilical connect port; Utopia Planitia; warp nacelle
+
+
+=== External links ===
+"Interface" at Memory Beta, the wiki for licensed Star Trek works
+"Interface" at Wikipedia
+"Interface" at MissionLogPodcast.com
+"Interface" script at Star Trek Minutiae
+"Interface" at the Internet Movie Database

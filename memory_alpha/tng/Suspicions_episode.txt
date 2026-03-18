@@ -1,0 +1,207 @@
+Dr. Crusher violates Starfleet regulations and medical ethics when she investigates the death of a Ferengi scientist.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Doctor Beverly Crusher enters her quarters with a PADD in hand, feeling dejected and defeated. With a long sigh, she throws the PADD to her desk and decides to change out of her uniform, when her door chime rings. With reluctance, she allows the visitor and Guinan enters complaining of tennis elbow after Geordi beats her in straight sets. Crusher tells her she had better see Dr. Selar in sickbay, but Guinan refuses as she's very particular about her doctors and only wants to see Crusher. Crusher responds that she better look for a new one and then breaks the news that she is no longer a doctor on the ship.
+
+
+=== Act One ===
+Crusher expresses her frustration at the next few weeks, as she will face Admiral Brooks. She clearly disagrees with the circumstances of the impending end of her career. In her usual style, Guinan insists on her elbow getting treated to calm Crusher down and starts to ask her about what happened. A Ferengi scientist, Dr. Reyga, has created a metaphasic shielding technique and had presented it at the Altine Conference, but his unorthodox methods have left most scientists in the field ignoring his work. Crusher remarks that Reyga was practically jeered off the stage at the conference. Dr. Crusher decided to play "scientific diplomat" and invite other scientists in the field to come to the USS Enterprise-D and view a demonstration of the doctor's prototype.
+
+Only four scientists were willing to come: a Klingon named Kurak, a Vulcan named T'Pan and her Human husband Christopher, and a Takaran named Jo'Bril. Crusher expected disbelief from the group, but the fact that they came made her hopeful. She gathered the group in the science lab and began by stating the vision that the group had for the potential benefits. Furthermore, Reyga was willing to share rights with whoever provided assistance to him. Reyga plans to perform a test using an Enterprise shuttle, the Justman. It is to be fitted with Dr. Reyga's experimental shield and flown into a nearby star, Veytan, a lofty goal as it is a particularly superdense corona, but Reyga is confident. As they are all skeptical, they decide that someone other than the Ferengi should pilot the shuttle so as to provide an impartial analysis. Jo'Bril volunteers, and Reyga thanks him.
+At the test flight, all of the invited scientists watch from the bridge as Jo'Bril enters the Veytan's corona. Everything seems to be going as planned until suddenly Jo'Bril becomes short of breath. There are increased levels of baryon particles building up in the shuttle's interior. Jo'Bril barely pilots the shuttle out of the star and is beamed on the Enterprise before dying in sickbay, remarking, "I saw... the sun!"
+
+
+=== Act Two ===
+Guinan says Crusher shouldn't take it too hard since she wasn't in control. Reminded of what Captain Picard said to her during the autopsy she performed on Jo'Bril, she recalled the frustration she felt at the unexplained nature of his death. His anatomy was very different from other humanoids. In fact, she cannot understand his physiology at all, especially why his cells seem to be decaying at such a slow rate. He also has no discrete organs, and they are all distributed equally throughout his body, which should make him incredibly resistant to injury.
+
+Meanwhile, Data and La Forge analyze the Justman in the shuttlebay. Data informs Reyga that the plasma flow regulators, the field emitter coils, and the radial force compensators were all functioning normally. La Forge found microcrystalline damage to the hull, confirming the shield was breached by the radiation. Reyga is livid and cannot accept that the shield was at fault.
+Gathering the scientists in the science lab, Crusher explains she has no choice but to end the visit. She hopes that someday, when Reyga has perfected the metaphasic technology behind the shield, they may be able to try again. Reyga pleads with the other scientists to allow him a second test but meets intense opposition, including from Crusher, who, as chief medical officer, refuses to put anyone at further risk. He seems determined to prove himself and leaves. A few hours later, he is found dead in Science Lab 4 from a plasma discharge.
+
+
+=== Act Three ===
+Worf judges the death to be a suicide, but Crusher is incredulous, as he had tightly clutched his hand on the plasma infuser instead of dropping it, the normal response. She plans on performing an autopsy on him, but after speaking to Picard about how unusual the death was, she learns the family won't permit it and arrangements have already been made to have his body returned home so they can perform the Ferengi death ritual.
+Frustrated, Dr. Crusher explains the situation to Nurse Ogawa and decides to perform an investigation of her own. She confronts Christopher and T'Pan in their quarters, and Christopher becomes incensed. Eventually, he mentions that while he was in the storage room in the science lab, he heard Kurak and Reyga having a fiery argument shortly before his death. Dr. Crusher then confronts Kurak, much to her own peril, as the Klingon scientist throws her violently against the wall, yelling that she will no longer be subjected to Crusher's insinuations. But Crusher doesn't back down, and she gets Kurak to confess that the argument she had with Reyga had to do with him accusing her of committing sabotage to his project, but she insists she didn't and says nothing else. As she determines Kurak also did not murder Reyga, Crusher finds herself stumped, as she doesn't have any more insight than she did before she started.
+Finally, knowing she will be disobeying a direct order, she performs an autopsy on Reyga, believing that it will answer her questions... and can find nothing. Crusher then goes to Picard's quarters and informs him what she did, and he is extremely disappointed and lectures her about how she not only disobeyed his orders, but she also grossly violated the Prime Directive by interfering in another culture's burial ritual. Her actions put both of them in a very difficult position, and Reyga's family will have to be notified, and Picard is most certain the Ferengi government will get involved. Crusher accepts the consequences of her decision and that he doesn't have to protect her. With a nod, Picard signals to her that she is relieved from duty and files a report on her conduct to Starfleet Medical.
+Back to the present, Guinan recalls the move that caused her Tennis Elbow, and asks Crusher if she thinks Reyga committed suicide and if there's a murderer on board. Crusher pushes back on the idea of digging around again, but Guinan encourages her to continue her investigation, as she has only been relieved of her duty. With that train of thought, Crusher realizes she has nothing to lose.
+
+
+=== Act Four ===
+"Chief medical officer's log, personal, Stardate 46830.1. I'll be leaving the ship tomorrow to attend the board of inquiry. That means I have less than 24 hours to get to the bottom of this mystery."
+With less than 24 hours before she leaves the Enterprise for the board of inquiry, Crusher finds Data in the Justman making sure it wasn't permanently damaged by the radiation. She asks for his help to determine a possible sabotage scenario. Data deduces that, if it happened, it must have been done during Jo'Bril's test flight, and it's unlikely he did it himself and put himself in danger. Another scenario is that a phased ionic pulse beamed directly into the projection matrix would result in a temporary system malfunction by forming a tetryon field. Realizing she could confirm the tetryon field from Jo'Bril's tissue, she heads for sickbay.
+On the way, Commander Riker informs her that they've arranged for the shuttle to take her to Starbase 23 at 0700 tomorrow and apologizes for everything that's happened and tries to raise her hopes that it will work out in the end but warns her that if she does anything rash before the inquiry, it will be that much harder. Crusher tries to brush off Riker's concerns, but he knows exactly what's going on and strongly suggests she return to her quarters and read a book, which she rejects. Riker pleads with her as a friend, but Crusher again refuses and pleads with him not to get involved, as she can't quit now.
+Ogawa finds Crusher in sickbay attempting to access the computer to look at autopsy files, but her access has been revoked, as she is no longer an active medical officer on board. When Crusher tries to leave without involving her, Ogawa decides to help anyway, activating the computer for Crusher. Crusher pleads with her not to get involved, and when she tries to pull rank on Ogawa, the nurse reminds her that she's not her boss anymore. They perform an additional examination of Jo'Bril's body and confirm the tetryon particles. It's not conclusive evidence, Ogawa reminds her, but it does indicate there may have been sabotage of the metaphasic shield.
+On the bridge, Counselor Troi expresses great concern for Crusher and that she's been avoiding her every time. Picard concedes that, and with surprise, Data picks up an unscheduled shuttle launch. Riker checks his instruments and finds no flight plan and learns from the viewscreen it's the Justman. Picard establishes visual communication, and he and the bridge crew are horrified to learn that Crusher herself is piloting the shuttle in an attempt to test a theory.
+
+
+=== Act Five ===
+Crusher explains that the shield does work, but it was sabotaged in the first test. Picard orders her to come back, but she is determined and apologizes. She's already isolated the navigational system and is too close to the star for Worf to attempt to stop the shuttle with a tractor beam. Picard tries to reason with her to no avail even as the temperature rises. After a few minutes, it appears that the shield is working. Crusher is delighted and tells Picard that one of the three remaining scientists must be the murderer. She asks that he confine them to quarters and post security guards, but just then the communication terminates.
+On board the Justman, Jo'Bril emerges from his hiding place in a compartment armed with a phaser and tells Dr. Crusher that his species are able to control their metabolic function to the point where they can simulate death. Crusher realizes he heard all her plans while lying "dead" on a slab in the morgue. Jo'Bril demands that she step away from the controls while he inputs a set of commands to send out a transient subspace signal, which would simulate a warp core breach in the shuttle according to the Enterprise's sensors. He thanks her and admits the metaphasic shield is real. He wanted to discredit Reyga to have the technology for himself. Now with a prototype, he'll wait until the Enterprise leaves (its sensors cannot penetrate the star's corona). Then, he'll take her and the shuttle back to Takara, his homeworld, to perfect the technique and weaponize it.
+
+With surprise, Crusher attacks Jo'Bril and inputs commands to take the shuttle deeper into the star's corona. The sudden descent catches Jo'Bril off guard, and he backs into a wall, dropping his phaser to the floor of the shuttle. Both doctors engage in a struggle for the weapon after Crusher grabs it. Seeing an attack of opportunity, Crusher delivers an elbow strike to his face, dazing him long enough for her to follow up with a painful roundhouse kick to his chest, sending him down while training her newly-acquired phaser at him. Jo'Bril immediately gets up, and Crusher fires at him, blowing a hole in his torso. To her shock, this doesn't slow him down at all, only serving to annoy him. Crusher quickly adjusts the setting and shoots him again at maximum level, killing Jo'Bril by vaporization. She immediately adjusts the heading and returns to the Enterprise. On board the Enterprise, the crew is beginning a search for shuttle debris when the Justman emerges from the star's corona, and Dr. Crusher tells them she finally has the answers about Reyga's murder.
+
+"Chief medical officer's log, Stardate 46831.2. I have been reinstated, and I will be resuming my duties shortly. In the meantime, I have a personal matter to attend to"
+Crusher returns to the Enterprise, where she is reinstated to active duty. In Ten Forward, she finds Guinan standing at the bar. Crusher opens the present she brought her as thanks for her encouragement – a tennis racket of the latest design she replicated so that Guinan will never get tennis elbow again – but Guinan admits she has never played tennis.
+
+
+=== Log entries ===
+Chief medical officer's personal log, USS Enterprise (NCC-1701-D)
+Chief medical officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"Well, you better go to sickbay. I think Dr. Selar's on duty."
+"I don't want to see Dr. Selar, I always see you. I'm very particular about my doctors."
+"Well, you better get a new one because I'm not a doctor on this ship anymore."
+
+- Crusher to Guinan after she comes to her quarters complaining of tennis elbow
+
+"I can hear Admiral Brooks now telling me how I've disgraced Starfleet Medical. Then, a leisurely day and a half before the formal inquiry begins and my career ends."
+"Beverly... my elbow."
+
+- Crusher on how her career is finished while Guinan asks to be looked at
+
+"You know, I've never been to a formal inquiry."
+"Well, I'll see if I can arrange one for you. All you have to do is disobey orders, violate medical ethics and cause an interstellar incident."
+"Well, I guess that would do it."
+
+- Guinan and Crusher
+
+"I saw... the sun!"
+
+- Dr. Jo'Bril, saying his "last" words
+
+"I don't want you to get involved in this."
+"Is that an order, doctor?"
+"Yes!"
+"Too bad you're not my boss anymore."
+
+- Beverly Crusher and Alyssa Ogawa
+
+"Thank you, Doctor. This looks like a great racket but, uh... I don't play tennis. Never have."
+
+- Guinan, when Crusher gives her a racket guaranteed not to cause tennis elbow (last lines; also Guinan's last lines in the series)
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 25 February 1993 [1]
+Premiere airdate: 10 May 1993
+First UK airdate: 6 December 1995
+
+
+=== Story and script ===
+Joe Menosky's original story, while involving the murder of a Ferengi scientist, ended with the revelation that warp drive was destroying the fabric of space. This element was later revived for the seventh season episode "Force of Nature". (Star Trek: The Next Generation Companion, 2nd ed., p. 247)
+The story went through many versions. Originally, it featured Worf and included film noir elements such as flashbacks, dissolves and voiceover narration. Rick Berman only hesitantly approved this, feeling that the voiceovers would conflict with the captain's log. (Star Trek: The Next Generation Companion, 2nd ed., p. 247; Captains' Logs: The Unauthorized Complete Trek Voyages, p. 277)
+Worf was replaced with Beverly Crusher as the staff thought that he was being overused. (Star Trek: The Next Generation Companion, 2nd ed., p. 247) Jeri Taylor recalled, "What I really wanted was a vehicle for Beverly. I felt we had given Troi some really nice things to do, Beverly has had more to do within a number of episodes but she did not have one that was all hers. We wanted to give her something atypical and not a female role. The idea of her playing a Private Eye or Quincy was very appealing." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 278)
+Michael Piller rejected several drafts as unexciting until the staff came up with the twist that the first apparent victim was the perpetrator. (Star Trek: The Next Generation Companion, 2nd ed., p. 247)
+The producers learned that this would be Whoopi Goldberg's last opportunity to appear in the season. Accordingly, further rewrites were necessary to insert Guinan. (Star Trek: The Next Generation Companion, 2nd ed., p. 247)
+Ronald D. Moore commented, "It was just a never-ending, never-waking nightmare. Keep the murder mystery, lose the warp thing, move Worf out, keep the flashbacks, lose the film noir, insert Beverly – it was just arrgh!" (Star Trek: The Next Generation Companion, 2nd ed., p. 247)
+Naren Shankar added, "It was a misery. It was a troubled script. There'd been two other attempts to do murder mysteries and they hadn't worked out – then we tried to do this and the whole thing was a clusterfuck." (Star Trek: The Next Generation 365, p. 304)
+
+
+=== Cast and characters ===
+This episode marks the final appearance of Guinan on the series, though she remains on the Enterprise-D. She plays an integral role in Star Trek Generations and has a brief appearance in Star Trek Nemesis and would return in the first and last episodes of Season 2 of Star Trek: Picard.
+According to director Cliff Bole, several scenes with Dr. Reyga (Peter Slutsker) were reshot. "He was a scientist, so I said that means he's got a little more compassion, maybe he's not as oily as the rest of them. I think I went too far and the guys asked me to reshoot a few scenes. Rick Berman said, 'Don't forget, they're still Ferengis [sic].'" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 278)
+Stock footage from the fourth season episode "Final Mission" is used, including Mary Kohnert as Ensign Allenby.
+
+
+=== Continuity ===
+The metaphasic shield technology was later used by the Enterprise-D under the command of Dr. Crusher in "Descent, Part II" to combat the Borg. James Horan also guest starred in that episode, but as Lieutenant Barnaby, an Enterprise-D crewmember. By 2401, the technology had become standard equipment on at least some Starfleet ships. (PIC: "The Next Generation")
+In this episode, it is stated that Ferengi are to be buried after death and are very adamant that the body not be "violated" before burial. On Star Trek: Deep Space Nine, a different Ferengi death ritual for Grand Nagus Zek and for Quark is shown involving vacuum-desiccated remains that are sold to the highest bidder. (DS9: "The Nagus", "Body Parts") However, since the Deep Space Nine episode refers specifically to the Grand Nagus' funeral as appropriate for a Ferengi "of his stature," it may be that death ritual of vacuum-desiccated remains does not apply to the Ferengi scientist in this episode because, as a disgraced failure, there would be no (financial) interest in his remains.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 74, 22 November 1993
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Patti Yasutake as Alyssa Ogawa
+Tricia O'Neil as Kurak
+Peter Slutsker as Reyga
+James Horan as Jo'Bril
+John S. Ragin as Christopher
+Joan Stuart Morris as T'Pan
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-star ===
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Armstrong
+Arratia as Alfonse Pacelli
+Debbie David as Russell
+Tracee Lee Cocco as Jae
+Robert Cox as Marquez
+Hal Donahue as command division lieutenant
+Goldie Ann Gareza as command division officer
+Christie Haydon as command division ensign
+Arvo Katajisto as Torigan
+Mary Kohnert as Allenby (recycled footage)
+Ron Large as command division officer
+Michael Moorehead as science division ensign
+Joycelyn Robinson as Gates
+Richard Sarstedt as command division ensign
+Oliver Theess as command division crewmember
+Unknown actor as operations division officer
+
+
+=== Stunt doubles ===
+Tom Morga as stunt double for James Horan
+Patricia Tallman as stunt double for Gates McFadden
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+2354; accusation; Altine Conference; autonomic functions scan; autopsy files; baryon; bearing; board of inquiry; Brooks; cabin; career; cellular level; Celsius; "contradiction in terms"; cortical stimulator; data; DNA; Earth; Ferengi; Ferengi death ritual; Ferengi government; Ferengi ship; field emitter coil; field test; fired; forensic clues; formal inquiry; humanoid species; Justman; Kelvin; Klingon; medical logs; medical personnel; medical tricorder; metaphasic shield; Midsummer Night's Dream, A; millimeter; Mintakan tapestry; medical ethics; morgue; organic tissue; painting; phased ionic pulse; plasma infuser; poison; polarity; Qo'noS; rad; radiation; Reyga's family; science laboratory (Science Labs 1, 4, 16); science station; scientific community; scientific diplomat; scientific diplomacy; scientist; security guard; Selar; sextant; sickbay; slander; Starbase 23; Starfleet Medical; subspace morphology; subspace technology; subspace theoretician; methodology; Takara; Takaran; temperature; tennis; tennis elbow; tennis racket; tetryon; tetryon radiation; transporter lock; Type 6 shuttlecraft; Vaytan; Vulcan Science Academy
+
+
+==== Other references ====
+Takaran anatomy: aorta; bronchus; carotid artery; coronal section; epigastric; heart; jugular vein; large intestine; lateral sternal; liver; small intestine; lung; parasternal; stomach; superior vena cava; thyroid; torso; trachea; umbilical
+Metaphasic Shielding Project: field density; measurement probe; metaphasic project; metaphasic shielding report
+Metaphasic Project 33121: emitter array; line amp
+
+
+=== External links ===
+"Suspicions" at Memory Beta, the wiki for licensed Star Trek works
+"Suspicions" at Wikipedia
+"Suspicions" at MissionLogPodcast.com
+"Suspicions" script at Star Trek Minutiae
+"Suspicions" at the Internet Movie Database

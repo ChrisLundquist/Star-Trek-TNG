@@ -1,0 +1,318 @@
+Picard must prove Data is legally a sentient being with rights and freedoms under Federation law when transfer orders demand Data's reassignment for study and disassembly.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+The USS Enterprise-D is visiting the newly-built Starbase 173 for a crew rotation. Meanwhile, four of the senior staff and Chief Miles O'Brien sit down in Commander Riker's quarters for a game of poker. It is Lieutenant Commander Data's first official game, but he has studied up on the subject and explains it in detail as the cards are dealt. Doctor Pulaski announces a bet, which the rest of the staff calls. Data bets ten, as he holds the highest hand, whereas Pulaski and Lieutenant La Forge fold. The cards are dealt, and Riker's new card is the five of hearts, as we see three hearts, compared to Data's pair of queens, ace high.
+Data bets five cautiously, whereas O'Brien calls, but Riker raises five more. Data calls, but O'Brien folds. The cards are dealt a final time, and Riker receives a four of hearts, which causes a moan from the others – Riker may have a flush. Data bets ten, but Riker raises another ten. This causes Data to peek at his face-down card, which is a queen, indicating he has three of a kind. Data comments about Riker's facial expression being a "poker face", but Riker asks if Data is "playing or not?". Data hesitates and then folds. Riker reveals his face-down card as the two of spades, which raises a resounding groan from the table. Confused, Data doesn't understand how Riker could have won – as he had nothing toward a winning hand – but La Forge points out to Data Riker's valid play and that he did win, in bluffing Data.
+Captain Picard, while sitting and having tea on the station, encounters Captain Phillipa Louvois, whom he has not seen in ten years.
+
+
+=== Act One ===
+
+Phillipa Louvois is a longtime friend who had previously prosecuted Picard with zeal during the court martial following the loss of the USS Stargazer. While they reminisce and tease each other playfully, the pair is approached by Admiral Nakamura, accompanied by Commander Bruce Maddox, a Starfleet cyberneticist. On the admiral's request, Picard, with Maddox following, guides Nakamura on a tour of the Enterprise. They finish up on the bridge, where Maddox looks at Data with interest; he in turn notices this and looks back. On Maddox's reminder, Nakamura tells Picard that the commander is there "to work on your android" and takes his leave. Maddox and Data greet each other with familiarity; Data explains to Picard that Maddox was the sole member of a Starfleet special admissions panel to oppose Data's admission to Starfleet Academy, on the basis that Data was not a sentient lifeform, who briefly looks annoyed with the memory. Maddox tells Picard that the "work" entails dismantling Data.
+
+In an interview in the Enterprise's observation lounge with Picard, Riker, and Data, Maddox explains that he wants Data to help him understand better how Dr. Noonien Soong was able to overcome certain engineering challenges in designing Data's positronic brain. He mostly speaks to Picard and Riker, not really addressing Data. Data is intrigued, until he discovers that it is Maddox's intention to "dump" Data's memories from his positronic brain into the Starbase 173 main computer, then deactivate and disassemble Data in hopes of deriving enough technical knowledge to enable him to construct more Soong-type androids. He also asks if Maddox, having built a model positronic brain, has solved the most important first step: the electron resistance across the neural filaments. Maddox admits he hasn't, but plans to examine Data's working filament links in his anterior cortex; Data points out that if he can't find the answers that way, Maddox's model will not work. In spite of this, Maddox claims the risks to Data are "negligible."
+Data concludes that Maddox lacks sufficient technical knowledge to carry out the procedure safely, and declines to participate, with Picard's support. Maddox, prepared for this eventuality, produces orders from Starfleet Command separating Data from the Enterprise and transferring him to Starbase 173, under Maddox's command. Maddox orders Data to report to him the following morning.
+
+
+=== Act Two ===
+
+In his ready room, recognizing Starfleet's inherent interests in the creation of more Soong-type androids, Picard attempts to persuade Data into submitting to Maddox's procedure. Despite Picard's approach being the opposite of Maddox's – with the application of much more carrot than stick – Data counters that asking him to submit to an uncertain, dangerous, potentially destructive Starfleet experiment is tantamount to compulsorily requiring all Starfleet officers to have their biological eyes replaced with superior cybernetic implants such as the type utilized by Geordi La Forge. Data goes on to remind Picard that it is precisely because he is not Human – and even considered among some to lack true sentience – that Starfleet is emboldened enough to make their request in the first place. Realizing this to be the jarring truth of the matter, Picard dismisses Data and has the computer pull all relevant information of Starfleet regulations on officer transfers to a PADD for further research, intending to find a way to block Data's transfer.
+
+Swayed by the gravamen of Data's argument and having made little sense of Starfleet's official regulations, Picard seeks the counsel of the Judge Advocate General's office on Starbase 173, headed by Captain Louvois. Louvois initially contends that while Data can refuse to participate in the experiment, the transfer itself cannot be stopped. Picard articulates his concern that once Maddox has Data in his clutches, as it were, anything could happen; Louvois therefore suggests, alternatively, that Data could resign his Starfleet commission.
+Aboard the Enterprise, Maddox enters Data's quarters unannounced and without permission, continuing to bluntly drive home the point that he clearly does not accord Data the same respect he would otherwise a being whose sentience were not a matter of opinion. He finds Data packing his cabin after having resigned from Starfleet. Maddox, unaware that Data has resigned, passionately attempts to convince Data to reconsider the experiment by reassuring Data that his memories and knowledge will remain intact. Data, still genuinely concerned that Dr. Maddox has not yet demonstrated his ability to make good on that promise, argues that the substance and flavor of his experiences would be lost, reduced to mere facts. He offers the Teaser's earlier poker game as an example: he had absorbed all the available literature on the subject of Poker to prepare for the game, but when he actually played it, found it bore little resemblance to the rules as published. Continuing the inference, Data communicates his lack of confidence that Maddox has acquired the expertise needed to retain Data's "essence" of his stored experience. Maddox is irritated and reminds Data that his cooperation may be desired but is not required; he is now under his command. Data finally reveals to Maddox that while he regretted having to do so, he has resigned his Starfleet commission such that he cannot be compelled to participate in Maddox's experiment. Maddox is infuriated at this complication and does little to hide it, angrily insisting that one way or another Data will be reporting to him the next day.
+
+
+=== Act Three ===
+Still smarting from Data's sudden resignation, Maddox has found a legal loophole he can use to get his experiment back on track. Meeting with Captains Louvois and Picard aboard Starbase 173, Maddox angrily counters to the affirmative when Louvois ponders aloud whether Data is actually the property of Starfleet – rather than an individual, sentient being with rights and freedoms within the Federation – and that Data, a machine, is no more legally able to refuse his procedure and resign from Starfleet than the Enterprise's computer is able to refuse a refit. Ironically, this is in contrary to Maddox's wishes years ago: had he had his way, Data would not be in Starfleet – and would not, in Maddox's own opinion, be "Starfleet property." Louvois tells Picard that there might be established law to support Maddox's position, who asks her to find the proof – and Picard also hopes she will use the same zeal she used in his court martial involving the Stargazer.
+
+After announcing his resignation, Data's shipmates throw an impromptu going-away party in Ten Forward. Among the gifts, Worf presents him with a copy of The Dream of the Fire, a classic Klingon novel by K'Ratak. Across the room, Data sees Geordi La Forge glumly sitting alone, and he approaches his friend. La Forge tells Data that he's upset about the android being forced out of Starfleet, and the two express that they will miss each other.
+After deliberating, Captain Louvois initially finds for Commander Maddox's position "based on the Acts of Cumberland passed in the early 21st century." She states that Data can neither resign nor can he refuse to undergo Maddox's procedure. Picard requests a formal legal hearing to challenge the ruling; however, because the brand-new Sector 23 Judge Advocate General's Office has not yet received their staff transfers to Starbase 173, JAG staff consists only of Captain Louvois herself and "one terrified little ensign." Despite this, Louvois agrees to convene a hearing on condition that Enterprise personnel serve as legal counsel during the proceedings: As his commanding officer, Captain Picard is burdened with the defense of Data and his rights and freedoms as a sentient being. A reluctant Commander Riker is pressed into representing Commander Maddox's position; Riker initially refuses to participate in the hearing on the grounds that he vehemently disagrees with the premise of the case: Not only does Riker consider Data legally possessed of the same rights and freedoms of all sentient beings under Federation law, but also because Riker considers Data a comrade and friend, and on a personal level does not wish to be compelled into potentially placing a friend in harm's way. However, since Data's position is at peril of Louvois' preliminary ruling, which would be finalized in Maddox's favor if Riker does not participate, Riker disappointingly concludes that he is offered no palatable choice in the matter. Louvois goes on to sternly warn Riker that she will tolerate no attempt to sandbag his performance – if she at any point determines that Riker is not prosecuting the case as vigorously as she feels he is capable, she will rule summarily in favor of Maddox.
+
+
+=== Act Four ===
+
+Picard calls Data to his ready room and informs him that he has been denied his resignation and he has been ruled the property of Starfleet Command. Data remarks that gives him no choice but to submit, but his captain tells him about the hearing, which will clearly define the android's legal status once and for all and how he was asked to represent him. He asks if Data would be happier with another officer, but Data places his complete confidence in Picard's abilities. In the meantime, Riker does research for the hearing, and uses his authorization to look up Data's technical schematics. He is initially pleased to find what he was looking for... but then remembers why he was doing so in the first place.
+On Starbase 173, Louvois begins the hearing, acting as judge. Riker calls Data to the stand and the computer recounts Data's service record – including Data's Starfleet decorations, which Picard insists be recited in its entirety as an example of Data's service. Riker begins his prosecution by seeking to demonstrate that Data is, in fact, a man-made, constructed being. Data is asked his maximum storage capacity ("eight hundred quadrillion bits") and how quickly he can access information ("sixty trillion operations per second"). Riker then compels Data to bend a rod of parsteel, despite Picard's objection based on the fact that many creatures in the Federation are possessed of mega-strength. Riker asks to be allowed to remove Data's left hand for examination; Picard objects then withdraws it, realizing he has no way to rebut it. Softly apologizing to his friend, Riker disconnects the entire forearm for Captain Louvois' examination. Citing that Data is essentially hardware built by a man and programmed with software written by a man, Riker then moves behind Data and abruptly deactivates him, proclaiming "Pinocchio is broken; its strings have been cut." Even Louvois, who warned him to do his best, is a bit taken aback and as a remorseful Riker takes his seat, Picard requests a recess, which is granted.
+
+
+=== Act Five ===
+
+Back on the Enterprise, Captain Picard recounts Riker's devastating prosecution to Guinan in Ten Forward, admitting that he himself was ready to believe that Data was only a machine after Riker's arguments. Guinan aptly observes that were Maddox to prevail in the proceedings and go on to become successful in replicating Data – despite the value this would represent to Starfleet – Maddox's success would almost certainly result in the creation of an entirely new race of "disposable creatures": beings whose welfare and needs would not require consideration.
+Picard quickly concludes from Guinan's wise words that victory for Maddox would have far more sinister repercussions throughout the Federation; that behind the comfortable, easy euphemism of "property", this fledgling race could potentially become a race of slaves. This grim realization strengthens Picard's resolve and inspires him to take a new approach in the defense phase of the hearing.
+Later, in the courtroom, Picard begins Data's defense by quickly dismissing Riker's arguments that Data is a constructed being:
+
+"Commander Riker has dramatically demonstrated to this court that Lieutenant Commander Data is a machine. Do we deny that? No, because it is not relevant: we, too, are machines, just machines of a different type. Commander Riker has also reminded us that Lieutenant Commander Data was created by a man; do we deny that? No. Again, it is not relevant. Children are created from the 'building blocks' of their parents' DNA. Are they property?" Picard asks rhetorically.
+Picard then calls Data to the witness stand and enters as evidence Data's personal belongings, a sample of the items he had packed in preparation of his resignation: a plaque of his Starfleet medals, a book that was given to him by his captain, and a holocube portrait of the late Enterprise crewmember Tasha Yar. Picard asks Data, what purpose do any of these articles serve him? Of the Starfleet medals, he answers that they serve no purpose other than that he simply wanted them, wondering out loud to Picard if that demonstrates vanity. Of the book, Data says that it is a reminder of his friendship and service with the captain.
+
+Picard questions Data about the holocube of Tasha Yar, taking the time to set it out and activate it, stating for the record that he has "no other portraits of [his] fellow crewmates." Data replies that he would prefer not to answer any questions related to Yar, as he had given his word to her to not speak of the matter. Picard gently reminds Data that considering the circumstances, he doesn't believe that Tasha would mind. Data reveals – with what can only be interpreted as discomfort – that Yar was "special" to him because they had been intimate with one another.
+Calling Commander Maddox forward as a hostile witness, Picard proceeds to expose for the court, and then to impeach, Maddox's assertions as to Data's sentience. In doing so, Picard maneuvers Maddox into conceding that Data fulfills most of the cyberneticist's own criteria for sentience – intelligence and self-awareness – and dramatically coerces the scientist into an admission that the remaining criterion, consciousness, is too nebulous a concept to precisely determine whether the android is in possession of it or not. Having cemented his argument for Data's sentience, Picard summarizes his final contention that to create more Soong-type androids would be the beginnings of a race, and a sentient race that is considered "property" is to sanction slavery – a profound violation of the basic principles and ideals upon which the United Federation of Planets is based:
+
+"Your honor, the courtroom is a crucible; in it, we burn away irrelevancies until we are left with a purer product: the truth, for all time. Now sooner or later, this man [Commander Maddox] – or others like him – will succeed in replicating Commander Data. The decision you reach here today will determine how we will regard this creation of our genius. It will reveal the kind of people we are; what he is destined to be. It will reach far beyond this courtroom and this one android. It could significantly redefine the boundaries of personal liberty and freedom: expanding them for some, savagely curtailing them for others. Are you prepared to condemn him [Commander Data] – and all who will come after him – to servitude and slavery? Your honor, Starfleet was founded to seek out new life: well, there it sits! Waiting."
+Ultimately, Captain Louvois rules in favor of Data:
+
+"It sits there looking at me, and I don't know what it is. This case has dealt with metaphysics, with questions best left to saints and philosophers. I am neither competent, nor qualified, to answer those. I've got to make a ruling – to try to speak to the future. Is Data a machine? Yes. Is he the property of Starfleet? No. We've all been dancing around the basic issue: does Data have a soul? I don't know that he has. I don't know that I have! But I have got to give him the freedom to explore that question himself. It is the ruling of this court that Lieutenant Commander Data has the freedom to choose."
+
+Data formally refuses to undergo Maddox's procedure after Louvois' ruling is entered, and Maddox, in turn, states he will see that Data's transfer orders are rescinded. Surprisingly, however, Data encourages Maddox to continue his work; he claims to remain intrigued by some of what Maddox is proposing and suggests he might agree to the procedure at some point in the future, once he is certain Maddox can perform it safely. Captain Louvois notes to Maddox that he no longer refers to Data as an "it" but as a "he", inferring that he now ascribes to Data "personhood."
+After the victory, Riker, deeply affected by the gravity of nearly costing a friend and colleague his life, prefers the solitude of the Enterprise's darkened observation lounge looking out at the stars more than attending Data's victory celebration on the holodeck. Data himself arrives to ask why Riker hasn't joined them, who sullenly explains his guilt over his role in the trial. Data reminds Riker in his immutable manner that had he not agreed to prosecute the position in favor of Maddox, they would not have been afforded the opportunity to defend the position that Data is sentient and legally entitled to the full panoply of rights and freedoms accorded sentient beings in the Federation, as Louvois would have ruled summarily in favor of Maddox's position. Data expresses his sincere gratitude at the ignominy Riker had endured, but that had, in its effect, saved him. Riker smiles, declaring his friend a wise man; Data cautions that he does not believe he is yet, but with Riker's help, he is learning. Feeling better, Riker leaves with Data to join the celebration.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2365a
+
+
+== Memorable quotes ==
+"It's been ten years, but seeing you again like this makes it seem like fifty. If we weren't around all these people, do you know what I would like to do?"
+"Bust a chair across my teeth."
+"After that."
+"Oh, ain't love wonderful."
+
+- Jean-Luc Picard and Phillipa Louvois
+
+"It brings a sense of order and stability to my universe to know that you're still a pompous ass... and a damn sexy man."
+
+- Louvois, to Picard
+
+"My God..."
+
+- Picard, upon seeing Louvois again
+
+"You're a little vague on the specifics."
+
+- William Riker, to Bruce Maddox
+
+"'When in disgrace with fortune and men's eyes / I all alone beweep my outcast state.' Tell me: are these just words to you? Or do you fathom the meaning?"
+"Is it not customary to request permission before entering an individual's quarters?"
+
+- Maddox and Data
+
+"I am the culmination of one man's dream. This is not ego or vanity, but when Doctor Soong created me, he added to the substance of the universe. If, by your experiments, I am destroyed, something unique – something wonderful – will be lost. I cannot permit that. I must protect his dream."
+
+- Data, to Maddox
+
+"You are imparting Human qualities to it because it looks Human – but I assure you: it is not. If it were a box on wheels I would not be facing this opposition."
+
+- Maddox, to Picard and Louvois
+
+"...and the unenviable task of prosecuting this case would fall on you, Commander, as the next most senior officer of the defendant's ship."
+"I can't! I...I won't! Data's my comrade. We have served together. I not only respect him, I consider him my friend!"
+
+- Louvois and Riker
+
+"Consider that in the history of many worlds there have always been disposable creatures. They do the dirty work. They do the work that no one else wants to do, because it's too difficult or too hazardous. And an army of Datas, all disposable? You don't have to think about their welfare; you don't think about how they feel. Whole generations of disposable people."
+"You're talking about slavery."
+"I think that's a little harsh."
+"I don't think that's a little harsh, I think that's the truth. But that's a truth that we have obscured behind a... comfortable, easy euphemism. 'Property'. But that's not the issue at all, is it?"
+
+- Guinan and Picard
+
+"I would prefer not to answer, sir. I gave my word."
+"Under the circumstances, I don't think Tasha would mind."
+"She was special to me. We were... intimate."
+
+- Data, to Picard when asked about his connection to Tasha Yar
+
+"Now tell me, Commander, what is Data?"
+"I don't understand."
+"What is he?"
+"A machine!"
+"Is he? Are you sure?"
+"Yes!"
+"You see he's met two of your three criteria for sentience, so what if he meets the third, consciousness, in even the smallest degree? What is he then? I don't know, do you? (to Riker) Do you? (to Phillipa) Do you?"
+
+- Picard and Maddox
+
+"Pinocchio is broken; its strings have been cut."
+
+- Riker, after turning Data off during the trial to prove he is nothing more than a machine
+
+"Your Honor, a courtroom is a crucible; in it we burn away irrelevancies until we are left with a pure product: the truth, for all time."
+
+- Picard, in his summation
+
+"... Starfleet was founded to seek out new life – well, there it sits! ...waiting."
+
+- Picard, in his summation
+
+"You wanted a chance to make law. Well, here it is...make it a good one."
+
+- Picard, before Louvois hands down her ruling
+
+"I formally refuse to undergo your procedure."
+
+- Data, to Maddox after he is declared to not be property
+
+"That act injured you and saved me. I will not forget it."
+"You're a wise man, my friend."
+"Not yet, sir. But with your help, I am learning."
+
+- Data and Riker, regarding the latter's prosecution of the former
+
+
+== Background information ==
+
+
+=== Production history ===
+Second revised final draft script: 14 December 1988 [1]
+Premiere airdate: 13 February 1989
+First UK airdate: 29 May 1991
+
+
+=== Story and script ===
+
+"The Measure Of A Man" was writer Melinda Snodgrass' first television credit. She drew from her own experience as an attorney in writing the episode. (Star Trek: The Next Generation Companion, 2nd ed., p. 77)
+Snodgrass' spec script was "discovered" as a result of the 1988 Writers Guild of America strike and the consequent need to use existing scripts. (Star Trek: The Next Generation - The Continuing Mission, p. 90)
+Snodgrass commented, "Everyone seems to view [the episode] as a Data script, but it's really a Picard script. Data is the catalyst, but the stress is all on Picard." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 176)
+In a comment on her blog, Snodgrass recalls how Gene Roddenberry nearly shot down the story: "As to the issue of law in Gene's vision. He nearly killed 'The Measure of a Man' because according to Gene there were no lawyers in the 24th century because if people had criminal intentions, they 'had their minds made right'. I found that chilling. I also pointed out that you have contracts that have to be negotiated and conflicts of law between different legal systems, and divorces, etc. etc. There was no way there would be no lawyers in the future." [2]
+
+
+=== Production ===
+
+The model of Starbase 173 was a reuse of a model best known as space lab Regula I from Star Trek II: The Wrath of Khan. For more information, see Studio models.
+
+
+=== Sets and props ===
+Captain Louvois's office was built on Stage 9 in the space across the corridor from the transporter room where swing sets were commonly built. The space was last seen as a lounge "The Outrageous Okona", and some elements of that room were retained. A temporary wall was built outside the office door in the middle of the corridor set to block the standing corridor wall.
+The Starbase restaurant was a new set built on Stage 16 that contained the series' "planet hell" cave set.
+The computer room in which Riker researches Data for his prosecution is a mild redress of the medical lab set.
+The courtroom set was a redress of the TOS movie bridge set that first served TNG as the battle bridge. This was the first time the set appears with a revised ceiling featuring illuminated trapezoidal panels that would be noticeable on the set in its subsequent appearances. Standing control consoles from the bridge set remain on the upper level of the courtroom, through they are not used. A chart showing the current location of twenty-four starships is seen behind the witness chair on a portion of the viewscreen (when the set is used as a bridge). Other graphics displayed on this wall include a map of the galaxy previously seen in "Conspiracy" which is shown on either side of the "viewscreen".
+
+
+=== Continuity ===
+The Daystrom Institute, first mentioned here, was a homage to the character of Richard Daystrom from TOS: "The Ultimate Computer". (Star Trek: The Next Generation Companion, 2nd ed., p. 77)
+Data's rights as a sentient being would again be challenged a season later, in "The Offspring". There, the issue was whether Data could assert parental rights over his "daughter," Lal. In both episodes, Picard acts as Data's advocate.
+After his trial, Data showed Commander Bruce Maddox that he nonetheless remained open to future collaboration with him. He would indeed keep open correspondence with Maddox, at one point recording a log of a day in his life in "Data's Day".
+Data would refer back to his trial in his decision to champion the exocomps in Season 6's "The Quality of Life". He explains to Picard that while he had Picard to defend him, the Exocomps had no one to defend their rights.
+
+This episode contradicts a statement made by Pulaski in "Where Silence Has Lease" that Data is listed as alive in his Starfleet Personnel file.
+This episode features the first appearance of the officers' regular poker game, with Data, Riker, La Forge, Dr. Pulaski, and O'Brien. It is also the first time Data has ever played the game.
+Admiral Nakamura tells Picard that Starbase 173 has been established in response to disturbances along the Federation/Romulan Neutral Zone, which were first referenced the episode "The Neutral Zone". These disturbances will later be revealed to be early attacks by the Borg.
+The episode features the rare "interim" pattern Starfleet admiral uniform which was only seen twice in the second season of TNG. The uniform departed from the first season "pip triangle" admiral insignia and introduced the "boxed pip" version which was the standard admiral insignia for the rest of Next Generation and all subsequent series. The second season pip insignia was worn vertical while later seasons showed the insignia flat against the collar.
+The restoration of the scene mentioning Picard's service aboard the USS Reliant means that he and Pavel Chekov have each served on a starship named Reliant and two starships named Enterprise.
+Unknown to Dr. Maddox at the time, other examples of Soong-type androids were available. Such examples would have been Lore, B4, two other prototypes, Data's head (later discovered in the episode "Time's Arrow"), and Juliana Tainer. Also, Dr. Noonien Soong himself was still alive during the events of this episode. Maddox will eventually meet and work with Dr. Soong's natural son, Altan Soong, to continue his research project. (PIC: "Et in Arcadia Ego, Part 1")
+Data speaks of his and Tasha Yar's intimate encounter from "The Naked Now" during the hearing, making an exception to his vow never to mention the encounter to others.
+
+
+=== Reception ===
+
+This episode was nominated for a Writers Guild of America Award in the category of "Best Episodic Drama". (The Making of Star Trek: Deep Space Nine)
+Entertainment Weekly ranked this episode #6 on their list of "The Top 10 Episodes" to celebrate the 20th anniversary of Star Trek: The Next Generation. [3]
+Producer Maurice Hurley commented, "Stunning. That's the kind of show you want to do... It just worked great, everything about it. And it dealt with an issue in a very interesting way. I thought Whoopi's place was good in that. She's a wonderful actress." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 176)
+Director Robert Scheerer called the episode one of the best of The Next Generation. He explained, "It has to do with the content, what it had to say, how it deals with it, the depth that it goes and the way it's resolved. I love that show. It is indeed my favorite show. I guess you would have to say that what I enjoyed is the dilemma that they're put in to, especially Jonathan [Frakes] and Patrick [Stewart] having to deal with Brent [Spiner] not as a dear friend but as someone whose worth has to be resolved. And Jonathan had to take the other side. It was all just beautifully crafted. It was not typical episodic television and had a great deal to say about man, Humanity, what our problems in the world are today and hopefully what we can do about it in the future." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 176) Scheerer also stated, "That was a wonderful show. But no thanks to me especially. It was based on a book the young lady – [screenwriter] Melinda Snodgrass – has done. She was brought out because of it and wrote the episode. She was a lawyer, I think. That was where the book 'Measure of a Man' came from. It was her first writing experience, as I understand it. She quit [her law position] and came out here to write for Next Generation, and served as story editor. Very impressive." (The Official Star Trek: The Next Generation Magazine issue 20, p. 30)
+Rick Berman cited this episode, along with "Yesterday's Enterprise", as one of his favorites. (TNG Season 3 DVD)
+Michael Piller named this episode (along with "The Inner Light" and "The Offspring") as one of his favorite TNG episodes, "because they had remarkable emotional impacts. And they genuinely explored the Human condition, which this franchise does better than any other when it does it well." (AOL chat, 1997)
+Troi actress Marina Sirtis cited this as her favorite TNG episode, commenting, "It was perfect Star Trek. A riveting story, great performances and a moral issue to think about." (SFX, issue 136, p. 028)
+Whoopi Goldberg talked about this episode, as a socially relevant TNG installment, in the documentary 50 Years of Star Trek.
+The book Star Trek 101 (p. 72), by Terry J. Erdmann and Paula M. Block, lists this episode as one of the "Ten Essential Episodes" from Star Trek: The Next Generation.
+A mission report for this episode, by Robert Greenberger, was published in The Official Star Trek: The Next Generation Magazine issue 8, pp. 5-10.
+
+
+=== Extended edition ===
+A significant amount of original footage was cut from the episode during editing but was restored for the TNG Season 2 Blu-ray release. [4] [5] The "extended edition" features a fifty-seven-minute version of the episode, containing approximately thirteen minutes of restored scenes and visual effects, including:
+
+Act 1, Scene 5 – Picard, Nakamura, and Maddox beam aboard the Enterprise; Picard and Nakamura reminisce about their days aboard the USS Reliant.
+Act 2, Scene 14 – Picard confronts Nakamura about Data's transfer by way of his ready room desktop monitor.
+Act 3, Scene 11 – Data presents La Forge with his Sherlock Holmes pipe in engineering; they discuss life outside of Starfleet.
+Act 3, Scene 13 – An extended version of Data's farewell party in Ten Forward. Pulaski gives Data advice on where to live after leaving Starfleet; Riker and Troi privately discuss their feelings about Data; Maddox crashes the party and insults Data; Picard summons Riker to the transporter room.
+Act 3, Scene 17 – Riker interrupts the fencing match between Picard and his fencing partner. Riker warns Picard that he will do everything in his power to win the coming legal battle – and Picard warns Riker that he will do the same.
+Act 3, Scene 18 – Picard and Data review their legal strategy. Picard attempts to guide Data's testimony to a more favorable position, calling it "a bit of legal fiction"; Data cites "kill all the lawyers" from Shakespeare's Henry VI, Part II.
+Act 5, Scene 23 – An extended version of Data and Riker's post-hearing conversation in the observation lounge; Data tells "Will" that he has learned from Riker's sacrifice in prosecuting his friend.
+
+
+=== Apocrypha ===
+In the novel Articles of the Federation, which is set in the post-Star Trek Nemesis period, it is established that B-4 was placed under Starfleet's jurisdiction. Captain Bruce Maddox, having advanced in rank since his earlier appearances, was given custody of B-4. When questions arose regarding B-4's legal status and rights, Maddox adopted a stance reminiscent of Captain Picard's position in this episode. Specifically, Maddox advocated for B-4 to be granted the same rights and legal protections that had previously been extended to Data, marking a significant shift in his perspective on artificial life forms and their place in Federation society.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 18, catalog number VHR 2471, 12 August 1991
+As part of the UK VHS collection Star Trek: The Next Generation - Data Box: 6 November 1995
+As part of the US VHS collection Star Trek: The Next Generation - The Data Collection: 19 August 1997
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 2.3, catalog number VHR 4739, 3 May 1999
+As part of the TNG Season 2 DVD collection
+As part of The Best of Star Trek: The Next Generation DVD collection
+As part of the TNG Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Geordi La Forge
+Michael Dorn as Lt. Worf
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+Wil Wheaton as Wesley Crusher
+
+
+=== Special appearance by ===
+Diana Muldaur as Doctor Pulaski
+
+
+=== Guest stars ===
+Amanda McBroom as Captain Phillipa Louvois
+Clyde Kusatsu as Vice Admiral Nakamura
+Brian Brophy as Commander Bruce Maddox
+And
+
+
+=== Special guest star ===
+Whoopi Goldberg as Guinan
+
+
+=== Co-star ===
+Colm Meaney as Chief O'Brien
+
+
+=== Uncredited co-stars ===
+Majel Barrett as USS Enterprise-D computer voice
+Michael Braveheart as Martinez
+Denise Crosby as Natasha Yar (archive footage from "Skin Of Evil")
+Victor Paul as fencing opponent (extended edition)
+Unknown performers as
+Antican
+Male Starbase 173 computer voice
+Six Starbase 173 officers
+
+
+=== Stand-ins ===
+James G. Becker – stand-in for Jonathan Frakes
+Darrell Burris – stand-in for LeVar Burton
+Dexter Clay – stand-in for Michael Dorn
+Jeffrey Deacon – stand-in for Patrick Stewart
+Nora Leonhardt – stand-in for Marina Sirtis
+Tim McCormack – stand-in for Brent Spiner
+Guy Vardaman – stand-in for Wil Wheaton
+
+
+=== References ===
+19th century; 21st century; 2355; ability; access code; ace; achievement; Acts of Cumberland; adversarial process; adversarial system; advice; agreement; "all right"; analysis; android; answer; anterior cortex; "ante up"; argument; army; assignment; Associate Chair of Robotics; "as you know"; As You Like It; "at stake"; attitude; authority; automaton; bit; bluff; box; bridge crew; bridge officer; building blocks; case; casino chip; celebration; chair; children; choice; choir; committee; computer; computational speed; comrade; confidence; conscience; consciousness; construction; core memory; court martial; court; courtroom; creator; creature; crew rotation; cross; crucible; curiosity; cybernetics; cybernetic implant; day; Daystrom Technological Institute; Decoration for Valor and Gallantry; defendant; defense; demonstration; dinner; discussion; DNA; download; dream; Dream of the Fire, The; edition; ego; electron resistance; emergency manual control; engineering; Enterprise history; entrance evaluation; euphemism; event; evidence; "excuse me"; existence; experience; experiment; experiment module; expertise; eye; fact; Federation; five-card stud; freedom; French language; friend; friendship; game of chance; generation; genius; gift; "gobbledygook"; guide; hand; hardware; hearing (sense); heuristic algorithm; history; holocube; holodeck; hostile witness; hour; Human; Human characteristic; "ice man"; idea; ignorance; individual; "in force"; information; "in general"; "in particular"; inspection; intelligence; irrational; "I see"; instinct; jack; JAG ensign; job; Judge Advocate General (JAG); K'Ratak; kilobar; knowledge; law; legal counsel; legal hearing; legal status; legend; Legion of Honor; letter of the law; liberty; lifeform; log record; Lore; love; luck; machine; mainframe computer; "man with the axe"; meaning; medal; Medal of Honor; megastrength; memory; memory capacity; metaphysics; mind; minute; mission; model; "my god"; name; neural filament; neural net; "no doubt"; novel; objection; "of course"; office; officer; "once and for all"; "one way or the other"; operations per second; opportunity; opposition; order; organization; outcast; paper; parent; parsteel; passion; permission; person; philosopher; pigeon; Pinocchio; place; player; playing card; poker; poker face; portrait; positronic brain; "preaching to the choir"; presentation; problem; product; programming; property; proposal; prototype; quadrillion; quality; quarters; question; race; reality; reason; refit; Reliant, USS; research; resignation; right; risk; robotics; rod; Romulan; Romulan Neutral Zone; rule; rule of law; ruling; saint; Sector 23; self-awareness/self-aware; senior officer; sentience; sentimentality; seven-card stud; sexy; Shakespeare's sonnets; "sick to death of"; "sit down"; slavery; software; Soong, Noonien; soul; stability; staff; stand; standard procedure; Starbase 173; Star Cross; Starfleet; Starfleet Academy; Starfleet Command; Starfleet regulations; Starfleet uniform; Stargazer, USS; storage capacity; string; stubborn; student; substance; superstition; technical schematic; teeth; tensile strength; Ten Forward; textbook; "the letter of the law"; "the spirit of the law": thousand; toaster; transfer; transfer order; treatise; Transporter Room 3; trillion; trust; truth; "under the circumstances": universe; value; vanity; vocabulary; Webster's 24th Century Dictionary; wheel; wisdom; witness; wonder; word; world; wrapping paper; year
+
+
+==== Library computer references ====
+Technical Schematics of Data: chemical fuel reaction unit; cryo fluid pressure system; emergency manual control; fluidic subsystem regulator; hydraulic regulation unit; kei/yuri submodule; locomotion subsystem; locomotor neural net; nutrient distribution net; nutrient processing system; oscillation overthruster; positronic cortex unit; primary system module; sensory neural net; spatial orientation unit; substrate interface; Turing test; vascular fluid pumps
+Emergency Manual Control: plastic; primary cerebral circuit; reserve bus; secondary neural processing network; yurium
+Federation Star Chart ("The Explored Galaxy"): Aldebaran; Alfa 177; Alpha Carinae; Alpha Centauri; Alpha Majoris; Altair VI; Andor; Ariannus; Arret; Babel; Benecia; Berengaria VII; Beta Aurigae; Beta Geminorum; Beta Lyrae; Beta Niobe; Beta Portolan; Camus II; Canopus III; Capella; Daran V; Delta Vega; Deneb; Eminiar; Fabrina; First Federation; Gamma Canaris N; Gamma Trianguli; Holberg 917G; Ingraham B; Janus VI; Kling; Kzin; Lactra VII; Makus III; Manark IV; Marcos XII; Memory Alpha; Mudd; Omega IV; Omega Cygni; Organia; Pallas 14; Phylos; Pollux IV; Psi 2000; Pyris VII; Regulus; Remus; Rigel; Romulus; Sarpeid; Sirius; Talos; Tau Ceti; Theta III; Tholian Assembly; Vulcan
+Starship Deploy Status: Alderaan; Apollo, USS; Artemis, USS; Atlantis, USS; Benson, Gregory; Bernard, Alan; Brownfield, Dick; Bushwacker, USS;Constantinople, USS; Genovese, Cosmo; Cronn, Richard; El-Tejear, USS; Endeavour, USS; Epstein, Manuel; Excalibur, USS; Excelsior, USS; Farouk El-Baz, USS; Fife, Marian; Hokule'a, USS; James, Richard; Jedlicka, Martin; LaDue, Gere; Laser, USS; Lauritson, Peter; Lexington, USS; McCarthy, Dennis; McKenzie, Richard; Metoyer, Robert; Nausicaä, USS; Neil Armstrong, USS; Purser, Thomas; Saratoga, USS; Sector 134; Sector 136; Sector 142; Sector 230; Sector 234;  Sector 528; Sector 530; Sector 532; Sector 542; Sector 627;  Sector 632;  Sector 634; Sector 637; Sector 638; Simmons, Adele; Smutko, Al; Starbase 74; Terraform Command; Thomas, Cari L.; Thoms, Wil; Vescio, Elaina; Wellington, USS; Yamato, USS; Yorktown, USS; Yuri Gagarin, USS
+Starfleet Transfer Requirements (remastered): Administrative Commander; Chief of Starfleet Operations; Chief of Starfleet Personnel; Class K planet; Daystrom Institute; Deep Space Corps Selection Board; Federation Diplomatic Corps; Starbase; Starbase Selection Board; Starfleet Academy; Starfleet Deep Space Exploratory Corps; Starfleet Diplomatic Corps; Starfleet Operational Support Division; Starfleet Scientific Corps; Starfleet Tactical
+Subspace Comm Net Ops: Aldebaran; Alfa 177; Alpha Carinae; Alpha Centauri; Alpha Majoris; Altair VI; Andor; Ariannus; Arret; Babel; Benecia; Berengaria VII; Beta Aurigae; Beta Lyrae; Beta Niobe; Beta Portolan; Camus II; Canopus III; Capella; Daran V; Delta Vega; Deneb; Fabrina; Gamma Canaris N; Gamma Trianguli; Gamma Trianguli VI; Janus VI; Kling; Kzin; Lactra VII; Organia; Orion; Pollux IV; Regulus; Rigel; Sarpeid; Sol; Tau Ceti; Vulcan
+
+
+==== Unreferenced material ====
+Acts of Gould; plasteel
+
+
+=== External links ===
+"The Measure of a Man" at Memory Beta, the wiki for licensed Star Trek works
+"The Measure of a Man" at Wikipedia
+"The Measure of a Man" at MissionLogPodcast.com
+"The Measure of a Man" script at Star Trek Minutiae
+"The Measure Of A Man" at the Internet Movie Database

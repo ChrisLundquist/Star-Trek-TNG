@@ -1,0 +1,287 @@
+Voyager enters a vast region of space with no stars or systems. As the crew tries to find a way to pass time in this desolate part of space, Janeway bitterly reflects on her decision that stranded them in the Delta Quadrant. (Season premiere)
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Lieutenant Paris is running his "Captain Proton" holodeck simulation with Ensign Kim. The Doctor interrupts – annoyed, as they have gone into his allotted holodeck time. He tries to end the simulation at the control panel, while Paris tries to stop him.
+
+This overloads the hologrid, sending an alarm to the command console on the bridge. Commander Chakotay is in his seat, but, very strangely, the bridge is nearly empty; no one is there except him and an officer at the conn station. He calls down to Paris and Kim about the alarm, and they assure him they are fixing the problem.
+Seven of Nine enters from the turbolift. She reports the results of her astrometric scan of the region they are in: no star systems for 2,500 light years. Theta radiation is blocking their sensors, so they cannot see anything beyond the region. There are no other ships; the USS Voyager is quite alone.
+Chakotay looks concernedly at the viewscreen, which is completely blank. He wonders aloud how they will make it for two years in this place. Seven asks him if she should inform Captain Janeway of the results. He decides to do it himself.
+
+
+=== Act One ===
+As Chakotay notes in his log, Voyager has been traveling for the last two months through a region dubbed the Void by the crew. It is completely devoid of planets, stars, or any astronomical phenomena. Voyager itself is illuminated only by its interior and exterior lighting. Forced to cross the region with no chance to refuel or restock supplies if they want to continue their journey to the Alpha Quadrant, the crew has been working on creating energy reserves and stockpiling deuterium.
+Chakotay conducts a meeting with senior staff in the briefing room. The room's windows are as blank as the bridge's viewscreen. The captain is absent. The meeting seems pointless, as, according to Chief Engineer Torres, there is nothing new to report. The warp core is at peak efficiency, as it has been for weeks, and Torres' staff is going stir crazy. Ensign Kim reports all systems are operating normally. Lt. Commander Tuvok reports an increase in theta radiation in the area. Chakotay considers it may be worth looking into, if only to have something to do.
+The attention then turns to crew morale, which is suffering due to the monotony and the oppressive pitch-black nothingness outside every window. Neelix, the jovial Talaxian chef and morale officer, makes several suggestions intended to boost morale. He suggests they create a temporary holodeck in cargo bay 2. He also suggests rotating crew assignments. Working outside of their fields to learn something new could help break the monotony.
+Chakotay agrees but becomes irritated when Neelix asks him about the conspicuous absence of Captain Janeway. No one has seen her. Lt. Paris chimes in, saying that, according to rumor, she never leaves her quarters. Chakotay harshly rebuffs them but then relents, excusing himself due to the strain of the situation. He ends the meeting.
+In the middle of the night, Neelix wakes up in a panic. Fearful of the utter blackness outside his window, he goes to the mess hall, where Paris and Torres are playing durotta. Torres takes offense at a joke Paris makes, and the game ends in an argument. Neelix tries to mediate but fails. He angrily begins to rebuke them but then begins to hyperventilate. Paris calls sickbay.
+Neelix is taken to sickbay and is treated by The Doctor. He is diagnosed with nihiliphobia: the fear of nothingness. The Doctor assures him he will get used to it and discharges him.
+Tuvok seems to be looking out a window at stars, but he is revealed to be in the astrometrics lab, looking at a recorded star field on the lab's huge viewscreen. Seven of Nine enters and asks him if the lab has been designated for recreational use. He explains that he is using it to meditate, as he normally does in his own quarters looking out his windows at the stars; however, the view from his window is not what it used to be. Just then an alarm sounds on the main astrometrics console; massive amounts of theta radiation have been detected on long-range sensors, source unknown.
+
+Meanwhile, Chakotay briefs Captain Janeway on the theta radiation discovery in her quarters. The lights are low. Janeway stands at the far end in silhouette, looking out a window at the nothingness. Janeway feels it'll amount to nothing but orders a course change to investigate anyway. Sensing she needs cheering up, he tries to interest her in a game of Velocity. She refuses. He then plainly tells her that she should not be isolating herself; the crew needs her.
+
+She comes out of the shadows and wishes aloud for the times before when they were frequently attacked; it helped her avoid thinking about how they got to be there, stranded in the Delta Quadrant. She orders him to tell her how that happened. He responds that they had the means to return home, but to use it would have put an innocent species at risk, so they chose to destroy it to stop it from falling into the wrong hands.
+She corrects him, saying that the decision was hers alone. The depressing emptiness of the void has made her dwell on that decision, and she has become filled with guilt over it. She bitterly blames herself for making a short-sighted, selfish error in judgment, for which all of them are now paying. Chakotay tries to say otherwise, but she has none of it. The reason for her self-imposed isolation is now clear; she cannot lift the crew's morale as hers is the lowest of all. She retreats back into silhouette at the far end of the room, telling Chakotay to give the crew her regards if they ask for her. Forced to accept Janeway does not want any help, Chakotay leaves silently.
+The bridge is empty except for Ensign Kim. With absolutely nothing to do, Kim lounges in the captain's seat, his feet up on the closed command console, playing a melancholy tune on his clarinet. Tuvok enters. Kim quickly sits up and acknowledges him. Tuvok tells him to relax, and Kim offers to play the tune, a concerto he has written, for him. He calls it "Echoes of the Void." With nothing else to do, Tuvok listens appreciatively.
+On the holodeck, Paris has invited Seven to join him in his "Captain Proton" adventures, playing the role of Constance Goodheart, his "secretary." Uninterested, Seven plays her part without any enthusiasm. Paris exhorts her to get into it; she responds with a sardonic gaze.
+On the bridge, Kim is still playing his concerto for Tuvok. But then the ship is suddenly shaken. Lights and control panels flicker. An alarm beeps as the two officers dash to their stations. Kim reports that they have fallen out of warp and are losing power. A switch to auxiliary has no effect. Lights and systems begin shutting down all over the ship; even the warp core suddenly goes dark and dead. In her quarters, Janeway, sitting depressed in a chair, looks around startled as the already dim lights go out completely. Every single light outside the now-stationary ship, from the blue glow of the warp nacelles' warp field grilles and navigational deflector to the light illuminating the ship's registry, goes out, leaving the ship in total darkness, invisible in the blackness of the void.
+
+
+=== Act Two ===
+Officers and crew scramble to get a handle on the situation. Wrist-borne lights come out. In the holodeck, Lt. Paris, amusingly, has difficulty figuring out how to switch on a simulated 20th century flashlight. He gets it working, and he and Seven make their way to the control panel. They find that power is off all over the ship; main and auxiliary. Independent subsystems controlling environment, life support and holodecks, however, are still working. This explains why they are still in the "Captain Proton" simulation, though now in the dark. Paris, on Seven's suggestion, reroutes power from the holodeck to the emergency relays; no effect; the hologrid remains frozen.
+Chakotay, walking carefully with a wrist-borne light through a corridor, hears panicked breathing. He follows the sound to find Neelix cowering in a corner, incapacitated, given the current conditions. Chakotay gently lifts him to his feet, assuring him it is only a power loss, nothing to worry about, and they go off together.
+On the bridge, Kim manages to get partial sensors back from a bit of fiddling with a circuit panel. This allows him to find the cause of the power drain; a dampening field, whose origin is outside the ship, off the port bow. Tuvok orders him to display it on the viewscreen. He does, but all they can see is the void's nothingness. Tuvok gets the idea to use a photon torpedo as a flare, to illuminate the source.
+
+Lt. Paris and Seven, still trapped in the dark, frozen "Captain Proton" simulation, seek an alternative means of exit. Paris looks around for something to open a hatch with. Then, suddenly, his flashlight beam falls on a creature that was there with them, in the dark, not part of the simulation. It shrinks back, as if hurt by the light. Then it growls, charges and swats him with a glowing hand. He goes down, screaming with pain. Seven grabs his simulated "ray gun", orders the still-powered holodeck computer to disengage the safety protocols, making a blast from the gun as damaging as if it were real, and shoots the creature, stunning it.
+In the corridors, Chakotay and Neelix move carefully along. Suddenly Neelix sees something. Chakotay thinks he is imagining things, but Neelix insists. As they move forward he hears breathing. Chakotay points his light in that direction and it falls on a creature like the one that attacked Lt. Paris. It shrinks from the light and then charges them. But its charge is broken off by phaser fire from off in the darkness. Light shone in that direction shows who is responsible; Captain Janeway, animated by the danger facing her ship, has emerged from her quarters, putting her depression aside. Carrying a phaser rifle, she fires at the creature as it scurries away down the corridor. She orders the two men to follow her.
+On the bridge, Tuvok fires the "warp flare" he created. It illuminates three ships off the bow. In engineering, Janeway orders a power cell be used to get emergency power back on-line. The engineering staff hooks the cell up to the EPS manifold. On the bridge, Tuvok and Kim watch the ships on the viewscreen, illuminated by the lingering light of the photon torpedo flare. The hook-up is completed in engineering and emergency power comes on. Tuvok immediately raises the deflector shields. In engineering, the warp core starts to hum and glow with matter/antimatter reaction as it begins to function again. Janeway and Chakotay set up a temporary command console. Janeway hails the bridge and Tuvok fills her in: three ships surround them, seventeen aliens are on board. Janeway tries to hail the ships but gets no answer. Weapons come back on-line. She orders Tuvok to fire a few warning shots at the ships. He does. They return fire.
+Seven arrives in sickbay with a badly burned Lt. Paris. She and The Doctor help him to a bed, as she informs The Doctor of the attack by the intruder. He sends her to bring the incapacitated creature back to sickbay.
+The alien ships continue to hammer Voyager until the shields fail. They restart their dampening field and, once again, the ship begins losing power. But then the field abruptly disappears and full power returns. In engineering, Chakotay reads on the temporary command console that the aliens on board are beaming off. On the bridge, Ensign Kim detects another vessel approaching. It closes in, firing a large volley of spatial charges, which send the three attacking ships fleeing. The new arrival hails them. Tuvok orders Kim to put it on screen. The image of the new ship is replaced by that of a pasty-looking, balding, humanoid, alien man in a dark, smoky room, presumably the ship's bridge. He is clad in a bulky protective suit. Tuvok tries to introduce himself, but the alien interrupts, expecting compensation for the spatial charges he used to drive off the attackers. Tuvok, bemused, agrees. Satisfied, the alien amicably asks them why they are there, in the middle of nowhere. Tuvok and Kim regard him, silently.
+
+
+=== Act Three ===
+
+Janeway and Chakotay are in one of the ship's transporter rooms. Tuvok is also present, behind the controls. The form of the alien he spoke to materializes on the platform. But, before he becomes solid, the pattern buffer holds him as bio-filters warn that he is emitting large amounts of theta radiation. Janeway orders a force field erected around the platform to contain the radiation. Once solid, the alien cordially introduces himself as Controller Emck, Malon export vessel, eleventh gradient. Janeway warmly thanks him for his help. He replies that they should turn around and go back; there are thousands more of the ships that attacked them, further in. Janeway responds that going back is out of the question; they need to cross the region in order to get home.
+Emck then invites her to follow him to a spatial vortex that he uses for quick entry and exit to and from the void; it leads directly to the void's other end. Janeway again thanks him. But when she expresses curiosity as to why Emck is there, he begins to get hostile. He vaguely responds that he is on a "transport mission", and demands the alien they have in sickbay as the price for leading them to the vortex. Janeway becomes suspicious at this and asks him more probing questions, pertaining to what it is he is transporting and why he wants the alien. He tersely tells her to cooperate or stay behind. Janeway has Tuvok beam him back to his ship. Suspicious, she and Chakotay go to sickbay to find out the story with these aliens.
+Sickbay is dark. The Doctor explains to the two officers that the alien is very photosensitive. Its species seems to be indigenous to the void, adapted to total darkness. It is suffering from acute theta radiation poisoning, however; it is close to death. Janeway goes to the bed and gently speaks to it. It accuses them of being in collusion with the Malon, which she denies. She asks if they are at war with the Malon. It responds that the Malon are poisoning them. The Malon do not take anything from them; they simply poison their space; why, the aliens do not know. His condition worsens, and The Doctor suggests they return him to his people; there is nothing more he can do for him. The alien provides them with coordinates where more of his people's ships are gathered. Janeway sends Chakotay to the bridge while she remains there to talk further with the alien.
+
+The bridge has returned to normal; all stations are manned. A worried Chakotay calls Tuvok into the briefing room. He is very concerned about the captain's self-imposed isolation; they face a possible crisis, but instead of coming to her place on the bridge, she sent him, continuing her isolation. He asks Tuvok for insight as to any previous instances of this behavior on any previous ship she served on before taking command of Voyager. Tuvok tells him about the USS Billings.
+In her first year on that vessel, as a commander, she sent an away team to survey a volcanic moon. Their shuttle was damaged by a magma eruption and three members of the team were severely injured. The next day, she took a shuttle and returned to the moon alone to complete the survey, though she could have been killed. She was consumed with guilt over the injuries suffered by members of the away team she sent, and wanted to show that their sacrifice had not been for nothing. Chakotay becomes afraid that she will take a similar risk to get them out of the void, consumed with guilt over making the decision which stranded them in the Delta Quadrant. He asks for Tuvok's support in preventing her from taking any such action, which Tuvok pledges.
+
+Voyager arrives at the alien's coordinates. A bio-scan confirms that every one of them has terminal theta radiation sickness. Before the alien beams to one of the ships, he begs Captain Janeway for help in stopping the Malon. His species has, he tells her, lived in the void for eons undisturbed. Then Emck's ship came and began poisoning them. They tried to reason with him, but he ignored them. They tried to stop him by force, but his ship is too powerful. They would close the vortex if they could, to prevent him from returning once he left, but they do not know how to do so. The alien transporter takes him before he can hear Janeway's answer to his pleas.
+
+
+=== Act Four ===
+
+The Malon ship and Voyager sit in proximity. A noxious-looking, green substance pours out from vents in the Malon ship's side. In astrometrics, Captain Janeway stands, arm folded, thunderclouds on her brow as she stares at the large viewscreen, watching this. Seven of Nine and Chakotay are at the consoles. Seven reports that the ship is releasing massive amounts of contaminated antimatter. Chakotay adds that its holds are full of it. Angrily, Janeway orders a hail to the ship. Emck responds. He assumes she has agreed to his conditions and begins telling her where to send the alien on his ship, but Janeway cuts him off and demands to know why he is dumping his poisonous antimatter waste in the aliens' space. He responds that his people produce huge amounts of these industrial wastes every day; the void is a perfect disposal site.
+
+Chakotay accusingly tells him that a species lives there. Emck sees that as unimportant. Janeway sharply disagrees. She proposes a solution. Humans have long ago learned how to purify antimatter waste so that it poses no threat. She will allow him to see the technology they use to do this, so that he and his people can duplicate it. She tells him to prepare for transport to Voyager's engine room and ends the communication. She orders Chakotay to go to engineering and show Emck the technology with Lt. Torres. Chakotay leaves and she remains with Seven, analyzing the vortex with the astrometric sensors, in case destroying it becomes their only option to protect the aliens.
+In engineering, Chakotay and Torres show Emck the relevant technology. They offer to help him and the Malon government to start building and using it. At first he seems interested, but then it becomes clear that he is only stringing them along. Voyager's technology, he responds, would destroy the waste export business that he works in. The void provides a perfect opportunity for him to dump the waste he transports at only half the expense that other waste exporters must contend with, increasing his profits, native aliens be damned. Torres is furious. Chakotay tries to reason with him, but he will not listen. Chakotay warns him that they will not allow him to continue. He sternly responds that Voyager would never have a chance against his ship, and storms off back to the transporter room, accompanied by security.
+Chakotay and Captain Janeway discuss their next move in her quarters. Chakotay wants to fight past Emck, go through the vortex, then contact the Malon homeworld, report Emck's activities and give them the technology. But Janeway is not sure if the Malon government will do the right thing, if Emck is any indication. She is determined to shut the vortex to protect the native aliens. But it can only be closed at its weakest point, inside the void... and Janeway has no intention of asking the crew to again sacrifice their own way out to protect strangers. She has him assemble senior staff on the bridge.
+
+For the first time in two months, Captain Janeway steps off the turbolift onto the bridge. All her senior staff is present. She outlines her plan: they will go to the vortex, and, once there, she will stay behind in a shuttle and destroy the vortex from inside the void, after Voyager enters. They will continue on without her. But Chakotay, after his talk with Tuvok, is expecting something like this. He informed Tuvok and the other senior staff, and they all know what their response will be. One by one, they all refuse to let her sacrifice herself. She is outwardly angry at this rank insubordination, but it is evident that she is actually touched by their action.
+
+Thus she abandons her plan and asks for suggestions. They quickly come up with another idea: enter the vortex and then collapse the vortex with delayed-detonation photon torpedoes from aft. The ship will go into high warp once the collapse begins. Reinforced shielding should protect them from the shock wave. As for Emck, antimatter waste radiation has weakened his cargo hold's bulkheads; a direct shot on them should disable him. Janeway happily accepts the plan and takes her position in the Captain's seat once again, with Chakotay in the First Officer's seat next to hers. On his order the ship goes to red alert, and Paris takes the ship toward the vortex.
+
+
+=== Act Five ===
+
+They arrive and, as is expected, the Malon ship is waiting for them. Emck fires a barrage of spatial charges at them, but they avoid the explosions. Janeway orders a return of fire. Phasers and photon torpedoes strike the Malon ship's shields. The explosion from a charge ruptures a nacelle, but they keep going, with only 47 seconds until they reach the vortex. But as they get closer to the vortex, Emck scores a direct hit on their remaining nacelle, robbing them of their ability to go to warp speed once they pass into the vortex. Thus they will be unable to outrun the shock wave from their planned destruction of the vortex with torpedoes. Janeway decides that they will instead ride the shock wave itself out to the other side.
+
+But then, on the viewscreen, they see Emck's ship moving to block their way, directly in front of the vortex's entrance. Chakotay orders Tuvok to prepare to fire, at which point the battle is joined. The native aliens arrive and begin firing on Emck's ship. He moves away from the vortex to combat them, but their combined firepower weakens his shields. With a satisfied sneer, Janeway orders Tuvok to target his cargo hold, pointing out mockingly, "Time to take out the garbage." Tuvok does this and opens fire on Emck. A volley of photon torpedoes ruptures his bulkheads, destroying him as Voyager flies past, into the vortex.
+
+They enter and release delayed-charge torpedoes, which explode, beginning the collapse of the vortex as Voyager goes deeper into it. The shock wave hits and, according to plan, pushes them through the vortex and out the other side. But they are still some distance away from the edge of the void itself. Janeway orders a forward view on-screen. Only a black canvas shows up.
+
+As they progress in their journey, all eyes watch the viewscreen expectantly. Suddenly, Paris says he thinks he sees a star. They continue watching. Then navigational sensors, which had all the time been silent as they had nothing to detect, begin beeping. On the viewscreen, stars slowly become visible. Voyager passes beyond the nothingness of the void into regular space, awash with stars and nebulae. The crew watches with joy and relief. Janeway asks Kim what he sees. He replies with a smile that he sees a densely-packed region with thousands of star systems. Swallowing back emotion, Janeway orders full speed ahead. Voyager continues on, once again in a cosmos filled with light and life.
+
+
+== Memorable quotes ==
+"Take a look around you. This is how the twentieth century saw the future. We are studying sociology."
+(Sarcastically) "Perhaps you can teach a course at Starfleet Academy: "Satan's Robot: An Historical Overview.""
+
+- Paris and The Doctor, arguing over holodeck time
+
+"First thing in the morning, I replicate some curtains."
+
+- Neelix, after his panic attack in the middle of the night, looking into the blackness outside his window
+
+"I made an error in judgment, Chakotay. It was short-sighted and it was selfish. And now all of us are paying for my mistake."
+
+- Janeway, to Chakotay
+
+"Oh why sleep when we're having so much fun?"
+"He's joking Neelix, we're all supposed to laugh..."
+
+- Paris and Torres, bickering in front of Neelix in the mess hall
+
+"Why don't we make a schedule – a fight rotation? We can optimize our resources: I can start one, then you can start one..."
+"I am really tired of these games."
+"Well, then, don't play them."
+
+- Paris and Torres, bickering in front of Neelix in the mess hall
+
+"Needless to say, the view from my quarters has been less than stellar lately."
+
+- Tuvok, to Seven of Nine on the lack of stars for thousands of light years
+
+"Citizen of Earth, surrender! Do not resist!"
+"I am Borg."
+"Surrenderrr..."
+"The robot has been neutralized. May I leave now?"
+
+- Satan's Robot and Seven of Nine, taking part in the Captain Proton simulation, effortlessly neutralizing the robot by disconnecting some wires
+
+"I'm telling you, I saw something! I may be nihiliphobic but my eyes work just fine!"
+
+- Neelix, to Chakotay while moving through a darkened corridor after the ship lost power
+
+"I suggest you try Borg regeneration. It's much more efficient. A simple cortical implant would be required."
+"Another time, perhaps."
+
+- Seven of Nine and Tuvok, on Tuvok's meditations
+
+"Chance is irrelevant. We will succeed."
+"A vote of Borg confidence. Who can argue with that?"
+
+- Seven and The Doctor
+
+"Target their cargo hold. Time to take out the garbage."
+
+- Captain Janeway
+
+"I've been saving up my holodeck rations and I've got three full hours coming. Any chance I might persuade you to join me for a few rounds of Velocity? It'll help clear your mind."
+"My mind is perfectly clear."
+"What if I told you I'm not leaving until you join me?"
+"I'd say, have a seat; it'll be a while."
+
+- Chakotay, trying to get Janeway out of her quarters
+
+"Look, I realize we're not exactly best friends. From day one, we've kept each other at arm's length. But I've always respected your judgment and right now, I could use a little Vulcan clarity."
+
+- Chakotay, to Tuvok
+
+"It's the captain. As you may have noticed, she's isolated herself from the crew..."
+"She believes that she made an error in judgment four years ago. That she's responsible for stranding Voyager in the Delta Quadrant."
+"She told you?"
+"No. I've been observing her behavior for the past four years. Guilt has been her constant companion."
+
+- Chakotay and Tuvok
+
+"She sent an away team to survey a volcanic moon. Their shuttle was damaged by a magma eruption and three crew members were severely injured. The next day she returned to the moon alone to complete the survey. She wanted the crew to know that their suffering had not been in vain."
+
+- Tuvok to Chakotay, recalling a moment during Janeway's first year as Commander on the USS Billings
+
+"Captain Janeway's methods are unorthodox. It is her strength as a leader, but unfortunately, it is also her greatest weakness."
+"Stubborn as a Klingon."
+"To put it mildly."
+
+- Tuvok and Chakotay
+
+"Anxiety? Anxiety is what I feel when I burn a pot roast. This... this is more like..."
+"Dizziness, nausea, unspeakable dread?"
+"Yes."
+"Nihiliphobia. The fear of nothingness, or in layman's terms, the fear of... nothingness."
+
+- Neelix and The Doctor
+
+
+== Background information ==
+
+
+=== Story and script ===
+The Void was a plot element that executive producer Brannon Braga considered to be risky. He remarked, "To kick off the season, why not have Voyager hit a region of space that is utterly devoid of anything? It's a dangerous way to start a story, of course." (Cinefantastique, Vol. 31, No. 11, p. 27) However, Braga also hoped that the region would add a particularly realistic element to the episode. "These are the realities of space travel," he said, "and I hope it adds something of reality to the show. A little more down and dirty, maybe." (Star Trek Monthly issue 44, p. 13)
+This episode was originally to have included a perilous, unusual planet amid The Void. "With 'Night', we originally had this expanse [of empty space] and then somewhere in the middle of it we were going to find this planet which was essentially going to be the alien equivalent of King Tut's tomb," said co-writer Joe Menosky. "We had this huge, ancient temple and these creatures which are half-alive and half-dead and came flying out like locusts and attacked the ship. I wrote at least 10 pages of that stuff, and that's what everybody was expecting to see. The outline and the story had been done, and we just looked at it and thought, 'This isn't working,' and it was all thrown out [...] We gutted the script and turned it into something else." (Star Trek Monthly issue 46, p. 15)
+The scripted description of the Void was memorable for visual effects supervisor Mitch Suskin. "We got a script that said, Voyager is going through a place that has no stars, no planets, nothing,'" Suskin recalled. (Cinefantastique, Vol. 31, No. 11, p. 48)
+Regarding the creation of Janeway's waning confidence over the events that trapped Voyager in the Delta Quadrant, Brannon Braga noted, "We thought it would be interesting." (Star Trek: The Magazine Volume 1, Issue 1, p. 66)
+Although the mysterious victimized aliens are unnamed in this episode's final version, the installment's teleplay refers to them as "Night Aliens". (Star Trek: Voyager Companion, p. 256)
+One plot hole is that the Malon seem to be a profit-oriented society but apparently have no concept of intellectual property, such as inventions. Or Controller Emck passed on the opportunity to create a monopoly on waste-recycling energy production.
+
+
+=== Cast and characters ===
+Joe Menosky once commented that he believed Janeway's character arc in this episode is "good" and "very cool." (Cinefantastique, Vol. 30, No. 9/10, p. 103) Brannon Braga contemplated Janeway's predicament: "If you think about it, since the show's inception she's always been on the run, she's always been moving, always moving forward, no time to think about the consequences of her decision. And then suddenly, when you hit two years of nothing, there's nothing to do but look back and face the demons of your decision." (Star Trek: The Magazine Volume 1, Issue 1, p. 66)
+According to the episode's call sheets, actor Steve Dennis played both Night Aliens. The first one is shot by Seven of Nine on the holodeck, and the second one is shot by Janeway but escapes.
+
+
+=== Production ===
+According to the unofficial reference book Delta Quadrant (p. 251), every element of the Malon design – including their ships and costumes – was intended to look as if it was showing signs of industrial decay.
+This episode entered production in the week beginning 15 June 1998. (Star Trek Monthly issue 43, p. 4)
+The game that Paris and Torres are playing in the mess hall, referred to herein as "durotta", has game pieces that are easily recognizable as pieces from the real-life game Quarto. While playing the game, the characters follow the rules of Quarto, as well.
+
+
+=== Visual effects ===
+The emptiness of the Void caused some consternation for the visual effects artists. Mitch Suskin remembered, "That certainly had us tearing our hair out [...] The audience can assume that, even though you usually don't see the sun, or whatever is lighting Voyager, it's obviously being lit by something. When there is nothing there, we have no way to cheat the lighting." Nevertheless, the visual effects artists had to devise a lighting scheme that made the starship Voyager seem as if it was being lit merely by its own lights. Suskin offered, "We went through numerous iterations, with Mojo at Foundation Imaging trying to make that work." (Cinefantastique, Vol. 31, No. 11, p. 48)
+Contrastingly, the visual effects artists were excited about visualizing such CG designs as the Night Alien ships. Commented Mitch Suskin, "The night ship was fun because it was so unusual compared to the normal ships on Voyager. We're not normally given license to do something quite that unusual and wacky. We had a sketch that visual effects producer Dan Curry refined and worked on." (Cinefantastique, Vol. 31, No. 11, p. 48)
+Depicting the transition from the darkness of the Void to star-filled space also required visual effects. To create the colorful final shot of the episode, Foundation Imaging employee Robert Bonchune created a CGI composite using images from the Hubble space telescope. He explained, "I just took different images, built it all together, put in flares, threw in a couple of planets. It was one of the only times I just put it all together and it worked well right away." (Cinefantastique, Vol. 31, No. 11, p. 48)
+
+
+=== Continuity and trivia ===
+Near the beginning of the episode, the Doctor tells Paris, “doesn’t the phrase ‘to be continued’ mean anything to you?” This may be a reference to how, unlike most season premieres of Star Trek at the time, this premiere was not a continuation of the previous season’s finale.
+In dealing with Janeway's guilt over trapping the crew of Voyager in the Delta Quadrant, this episode makes several references to the series premiere "Caretaker".
+Neelix's panic attack, and subsequent diagnosis of nihiliphobia, the fear of nothingness, may be a subtle reference to the events of the fourth season episode "Mortal Coil", in which Neelix dies and experiences nothingness, instead of the afterlife that he expected to find.
+This is the first appearance of The Adventures of Captain Proton holodeck program. According to Brannon Braga, a real-life influence on the genesis of the holoprogram was Flash Gordon. (Cinefantastique, Vol. 30, No. 9/10, p. 103) The program reappears in "Thirty Days", "Bride of Chaotica!", and "Shattered".
+Neelix orders Bergamot tea from the replicator to calm himself while hyperventilating, saying "Bergamot tea, hot." This is likely a reference to Captain Picard's preferred beverage; Bergamot is the defining ingredient in Earl Grey tea.
+Chakotay invites Janeway to play the holodeck sports game Velocity, which first made its appearance in the previous episode, "Hope and Fear".
+Janeway suggests in this episode that mutiny is punishable by hanging. This would contradict a number of episodes throughout the Star Trek franchise that establish the death penalty does not exist in the Federation, though the context of Janeway's remarks suggest they were said in jest.
+Voyager uses thirteen photon torpedo in this episode, more than in any other previous episode, having previously used four in "Hope and Fear". This brings the total number of torpedoes confirmed to have been used by Voyager over the course of the series to 40, exceeding by 2 the irreplaceable complement of 38 that had been established by Chakotay in the first season episode "The Cloud".
+The musical score for this episode, composed by Jay Chattaway, shares similarities to Virgil Thompson's orchestral suite The Plow that Broke the Plains, a piece about the dust bowl and the great depression, thus also suggesting desolation. (citation needed • edit)
+
+
+=== Reception ===
+Prior to the airing of this episode, Brannon Braga and Joe Menosky were both enthusiastic about the installment. Braga referred to it as "a sweeping adventure" and described the issue of Voyager finding itself in the Void as the ship's "greatest predicament yet." Joe Menosky said of the episode, "It gets the season off to a pretty good start [...] and it will have a very interesting coming together at the end." (Cinefantastique, Vol. 30, No. 9/10, p. 103) Sometime thereafter, however, Braga and Menosky became considerably less confident of the installment. Braga admitted, "I don't feel that the night aliens and the Malon freighter guys were all that captivating. I liked it, but I wouldn't say it was one of our best." Menosky's disgruntlement with the episode was more about the effectiveness of Janeway's depression. He complained, "I don't think it was really sold. If you are going to have a big crisis like that, you can't do it in the course of a single episode, wrap it up at the end and make it believable. It was the wrong way to go, and it did not come off particularly well, no excuses. It was just a lot of pieces of different story elements." (Cinefantastique, Vol. 31, No. 11, p. 27)
+At the 2008 Las Vegas Star Trek convention, Robert Picardo recalled this episode, saying, "I remember we went through a portion of space once that was called the 'Night'. And there was no power and there was a little alien that looked like a large tootsie roll and he was called the 'Captain's log!'" [1]
+Among the items from this episode which were sold off on the It's A Wrap! sale and auction on eBay were the costumes of Kirsten Turner (as Constance Goodheart) [2](X) and Steve Dennis [3](X), the Captain Proton jetpack [4](X), and several mug lots. [5](X) [6](X) [7](X) A script of this episode was also sold off [8](X) while the costume of Martin Rayner (as Doctor Chaotica) was auctioned on the Profiles in History auction. [9](X)
+Kate Mulgrew discussed the reception of this episode with Star Trek: The Magazine Volume 1, Issue 18, p. 15, "Janeway's heroism is now so well established that I'm always asking them to, you know, rock the boat a little bit... it seems that when we do that, though, it's controversial. 'Night' got really mixed reviews because people get uncomfortable watching a captain's depression, but I thought it was just such a wonderful thing to explore. Six years of this loneliness, of this absolute solitariness: how would she feel at this point, how would she manifest this great sadness?"
+
+
+=== Apocrypha ===
+In the String Theory trilogy, it is revealed that the Void was caused by Voyager helping to seal a rift in space that opened up to Exosia, the home dimension of the Nacene. As the rift was sealed, the space that it occupied in space/time changed to accommodate thousands of years of another history, and the absence of light is due to the photonic energy in that area having been drained into the rift and unable to regenerate at this time. The String Theory series also gives an explanation for Janeway's out-of-the-norm attitude, revealing that she had gone through a traumatic experience that caused her to suffer a minor neural imbalance that would leave her with periods of emotional struggles for the rest of her life.
+A Malon character mentions the events of this episode in the Star Trek: Deep Space Nine post-finale novel Demons of Air and Darkness.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 5.1, 1 March 1999
+Another sleeve design change from this volume on – like the DS9 Season 7 releases, a character grouping appears at the bottom of the cover, in this case (from left to right): Tuvok, The Doctor, Kathryn Janeway, Seven of Nine, Chakotay.
+As part of the VOY Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Kate Mulgrew as Captain Kathryn Janeway
+
+
+=== Also starring ===
+Robert Beltran as Chakotay
+Roxann Dawson as B'Elanna Torres
+Robert Duncan McNeill as Tom Paris
+Ethan Phillips as Neelix
+Robert Picardo as The Doctor
+Tim Russ as Tuvok
+Jeri Ryan as Seven of Nine
+Garrett Wang as Harry Kim
+
+
+=== Guest stars ===
+Ken Magee as Emck
+Steve Dennis as
+Night Alien 1
+Night Alien 2
+Martin Rayner as Doctor Chaotica
+
+
+=== Uncredited co-stars ===
+David Keith Anderson as Ashmore
+Richard Bishop as an operations officer
+Elizabeth Carlisle as a command officer
+Damaris Cordelia as Foster
+Christine Delgado as Susan Nicoletti
+Andrew English as a security officer
+Tarik Ergin as
+Ayala
+Satan's Robot (suit only)
+Holiday Freeman as an operations division officer
+Grace Harrell as an operations division officer
+Noriko Suzuki as an operations division officer
+Kirsten Turner as Constance Goodheart
+Stuart Wong as a civilian
+Unknown actor as Satan's Robot (voice)
+
+
+=== Stand-ins ===
+Brita Nowak – stand-in for Jeri Ryan and Kirsten Turner
+
+
+=== References ===
+47; 20th century; 2371; 2377; Adventures of Captain Proton, The; AM; antimatter; astrometrics; astronomical phenomena; auxiliary power; bergamot tea; Billings, USS; Billings personnel, USS; Billings shuttle, USS; bingo; bio-filter; bioscan; Borg cubes; candle; Captain Proton; Caretaker's array; cellular level; Chaotica; clarinet; Class 2 shuttle; concerto; controller; cortical implant; country; curtains; Delta Quadrant; dimensional radius; department; distraction; dizziness; Don Carlo; dread; duet; Durotta; Earth; "Echoes of the Void"; electron; Emergency Medical Holographic program; emergency power; energy; engineer (aka engineering staff); engineering (applied science); engineering (location); EPS manifold; eyesight; Federation; hanging; high warp; holodeck; hologram; hybrid; hyperventilation; "in layman's terms"; injector ports; intergalactic; Intrepid-class; isolation suit; isoton; jig; kilometer; Kincaid, Buster; Klingon; lava; leader; life support; lock plate; magma; Malon; Malon export vessel, eleventh gradient; Malon Prime; mass murder; meditation; meter; Milky Way Galaxy; morale officer; mutiny; nacelle; Night Aliens; Night Alien ship; nihiliphobia; Novakovich gambit; Ocampa; painstick; phenomenon; photon torpedo; photosensitivity; plasma manifold; poetic justice; polyluminous burst; pot roast; power cell; profit margin; purification; radiation poisoning; radio relay; radiometric converter; reclamation technology; recycling; red alert; retrofit; replicator; respiratory distress; sailor; Satan's Robot: An Historical Overview; senior officer; shortcut; short-sightedness; SIMs beacon; space force; spaceman first class; spatial charge; spatial vortex; spectral frequency; star; star system; Starfleet Academy; Starfleet uniform; "steady as she goes"; stir crazy; subatomic level; surrender; tactical training; Talaxian; theta radiation; "to be continued"; transkinetic chamber; Velocity; Void, the; volcanic moon; volcano; vote of confidence; Voyager, USS; Vulcan; warp flare; waste export industry
+
+
+=== External links ===
+"Night" at Memory Beta, the wiki for licensed Star Trek works
+"Night" at Wikipedia
+"Night" at the Internet Movie Database
+"Night" at MissionLogPodcast.com

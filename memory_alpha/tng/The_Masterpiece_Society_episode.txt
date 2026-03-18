@@ -1,0 +1,251 @@
+The Enterprise tries to save a "perfect" colony from destruction, but the assistance causes damage of its own.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, Stardate 45470.1. The Enterprise has been diverted to the Moab sector to track a stellar core fragment from a disintegrated neutron star. Our science teams have been asked to monitor the planetary disruptions it may cause."
+While the USS Enterprise-D crew is observing the fragment, they find that Moab IV, one of the planets it would affect as it passes by, is inhabited by Humans and that an artificial environment biosphere has been created there on the southern continent. When they contact the inhabitants, after a reluctant response by Aaron Conor, Picard arranges for Commander Riker and an away team to beam down.
+
+
+=== Act One ===
+
+The away team explains to Conor and Martin Benbeck that given the nature of the stellar core fragment evacuation may be inevitable. However, Conor and Benbeck explain that it is in fact imperative that they remain on the planet and preserve the colony. It is explained to Commander Riker, Counselor Troi and Lieutenant Commander La Forge that this is a genetically-engineered society; their ancestors came from Earth to create a perfect society, believing that through controlled procreation they could create people without flaws and those people would build a paradise. They explain that they have evolved beyond Humanity. They also tell the away team that they have achieved a fully integrated existence with their environment, thanks also to their master design. They cannot separate themselves from it without irreparably altering who and what they are.
+Benbeck, who is the interpreter of the colony founders' wishes, continually emphasizes the importance of preserving the balance of their society. He dislikes the away team's presence. Conor is more receptive, understanding the necessity of their presence, and welcomes them warmly. He allows La Forge to work with Hannah Bates – their top scientist in the field of theoretical physics – to find a solution. He even begins to find a liking in Counselor Troi. However, he reiterates that this is a perfect existence for them which they will not give up so easily.
+When Bates shows La Forge a design for a multiphasic tractor beam, he believes the Enterprise could use it to move the fragment just enough to reduce the effects below dangerous levels. However, he would need her assistance in setting it up, which means she would have to leave the colony and beam up to the Enterprise.
+Benbeck strongly objects, arguing that her absence would create a dangerous imbalance. Conor overrules him, noting that the imbalance would only be temporary, and she is beamed aboard.
+
+
+=== Act Two ===
+"Captain's log, supplemental. Commander La Forge and Hannah Bates have spent three days trying to find a way to adjust the path of the core fragment. If they do not succeed in the next 48 hours, we will need to begin evacuation."
+While discussing the matter with Captain Picard, Troi notes that some of the colonists would choose to risk death rather than leave. He asks her how if their minds can be changed, but Troi is unsure if this is possible. Picard is opposed to genetic engineering, calling it a bad idea whose time has long passed. He considers the genetic engineering practiced by the founders of the colony eliminates much of the qualities that make life worth living. He advises Troi to use Conor's openness to suggestions and reasonable attitude, as well as her personal admiration for him, to help him see the reality of the situation and convince others to do the same.
+Meanwhile, as Bates and La Forge work on their multiphasic tractor beam, they find that it would overload some of the power conduits. As they try to come up with a solution, a tired La Forge takes a seat at the engineering console, removes his VISOR, and Bates sees his non-functioning eyes. He bitterly observes that he probably wouldn't have been allowed to be born in their colony, likely terminated as a fertilized cell. When she asks about how it works, he explains it to her and suddenly has an idea as to how to solve the problem: he suggests using the same technology that his VISOR utilizes. He chuckles, saying that it would be an irony if the answer to all of this is in a device created for a blind man who never would have existed in their society.
+Down on the planet, during a piano recital by Matthew, there is an earthquake. It is the first tremor of what would become many. Counselor Troi is strongly attracted to Conor, almost falling in love. That's when she realizes that this is all wrong. Conor is obviously changed, ever since the Enterprise has been in touch with the colony, and she is concerned that this is affecting his decision making. He seems willing to throw everything away for her, not just for the survival of the colony.
+
+
+=== Act Three ===
+La Forge and Bates brief Picard and Riker on the design they came up with. They can't quite get what they need, so they suggest additionally fortifying the biostructure, which means beaming down about fifty engineers from the Enterprise. Picard approves and Riker will make preparations while they get Conor's approval.
+On the planet, Troi tells Conor she must leave because her presence is affecting the decision. Despite the concern about external influences on the colony, she allowed herself to become involved with him, and is angry at herself for it. Conor begins to say he doesn't see it that way, and that he needs her, but she is convinced they both know what would happen if they continued the relationship. They get interrupted when La Forge and Bates beam down to brief Conor on their plan. La Forge informs Conor that they will need a total of fifty personnel serving as engineering crews to beam down and begin modifications. Conor asks Bates if there is another option, but she tells him there is not. Conor, unnerved, reluctantly agrees and teams begin to beam down to get to work.
+
+
+=== Act Four ===
+"Captain's log, supplemental. The Enterprise has moved to a parallel course with the core fragment. We must adjust its trajectory by a minimum of 1.2 degrees to ensure the colony's safety."
+In engineering, Bates and La Forge wish each other luck and begin their respective tasks. The tractor beam is activated, and they begin to use it on the fragment. Slowly but surely, the Enterprise begins to push the fragment away. La Forge and Bates continue to monitor the altered trajectory of the core fragment; however, the tractor beam is beginning to short out emitter circuits and the Enterprise begins to lose life support on multiple decks due to the enormous amount of power needed. Riker has the affected decks initiate evacuation protocols and sternly tells La Forge they need to deactivate the tractor beam soon.
+La Forge acknowledges this, but the life support level continues to decline, and Picard finally orders La Forge to terminate the tractor beam. La Forge does so, and routes all diverted power back to life support. Bates, monitoring the core fragment's new course, tells La Forge they have done it. Picard has the colony hailed and informs Conor that with the fragment's trajectory changed and the fortification of the biosphere, it should no longer pose a threat to them. Conor is pleased, as is everyone on the colony. He is patched through to Bates and tells her the entire colony will celebrate her return. After the channel is closed, Bates walks away, looking reluctant to returning.
+
+
+=== Act Five ===
+"Captain's log, supplemental. The stellar core fragment has passed safely out of the Moab system. The colony was shaken by powerful tremors, but fortunately there were no injuries, and only minor damage was reported."
+The engineering crews depart, leaving only Riker and La Forge, when Bates suddenly reports a breach in the artificial biosphere. She goes to the lab to analyze it, where La Forge points out that there is no such breach; his VISOR's positronic scan and molecular pattern enhancer would have detected even the smallest crack. He concludes she faked the incident. Bates admits she did that because of her encounters outside her world: if she's so brilliant, she wonders, why didn't she invent starships or deflector shielding. As a result, she requests asylum, and Riker indicates she may not be the only one wishing to leave.
+Captain Picard himself decides it is time for him to finally meet Aaron Conor. On the way to the transporter room, Troi confesses to Picard her brief relationship with Conor, apologizing for acting so unprofessional but assures him she can still beam to the surface. As Troi notes that she only wanted to help Conor, Picard reminds her they all went into this with good intentions and, in the end, "nobody's perfect." When they arrive, Benbeck immediately starts denouncing Picard, saying all of these people wanting to leave is his fault. Conor decides to talk to Captain Picard alone and explains he didn't want to listen to Martin from the first moment they were hailed. He understands the desire to leave, with a curiosity about the outside world, and feels responsible for it happening. He asks that Picard refuse them passage, since his leaving will solve the problem he created with his arrival. Picard points out that this is simplistic. He cannot deny their Human rights, whatever other consequences it may have. However, he is willing to try to dissuade them from leaving.
+Conor and Picard stand before Hannah and the others wanting to leave, and Conor implores them to consider staying, asking them to at least wait six months. Picard tries as diplomatically as possible to convince the colonists not to make any hasty decisions but to carefully consider the consequences, telling them that feelings are running high, and they're only had the briefest of glimpses into the life outside the biosphere. Despite this and the promise that the Enterprise will return in six months, Hannah stands firm insisting that being forced to stay will only cause more problems. Conor finally gives in but decides not to leave as well instead telling the departing colonists they are welcome to return if they like. He then laments to Troi about his impossible task of rebuilding the colony, and while he doesn't know what his mistake was, he knows he would do it all again if he could. He then confesses that he has fallen in love with her.
+The Enterprise takes twenty-three colonists in all, and Picard points out to Riker this is the best reminder of the Prime Directive. Riker reminds Picard that because they're Human, the Prime Directive does not apply. Picard ruefully tells Riker that ultimately, they are responsible for any consequences to the colony and were just as destructive as any core fragment could ever have been.
+
+
+== Memorable quotes ==
+"Perhaps it is your imperfections that make you so unique?"
+
+- Aaron Conor, trying to smooth talk Deanna Troi
+
+"This is wrong."
+"Terribly wrong."
+
+- Deanna Troi and Aaron Conor, as they kiss
+
+"Picard, I was born to govern this colony, not to dismantle it."
+"If you force them to stay, you will be suppressing their Human rights."
+
+- Conor and Picard, as members of the Genome colony on Moab IV consider leaving
+
+"Your arrival created this problem; your departure solves it."
+"That is simplistic."
+
+- Conor and Picard
+
+"We were innocent. It will never be that way again."
+
+- Hannah Bates
+
+"It was the wish of our founders that no one have to suffer a life of disabilities."
+"Who gave them the right to decide whether or not I should be here? Whether or not I might have something to contribute?"
+
+- Hannah Bates and La Forge, on eugenics
+
+"Oh, that's perfect."
+"What?"
+"If the answer to all of this is in a VISOR created for a blind man who never would have existed in your society."
+
+- La Forge and Hannah Bates
+
+"My VISOR's positronic scan would have detected the leak. Its molecular-pattern enhancer would pick up even the smallest crack."
+"The damn thing doesn't miss much, does it?"
+
+- La Forge and Hannah Bates
+
+"Maybe necessity really is the mother of invention. You never really look for something until you need it."
+
+- La Forge
+
+"They've managed to turn a dubious scientific endeavor into dogma."
+
+- Picard
+
+"They've given away their Humanity with this genetic manipulation. Many of the qualities that they breed out – the uncertainty, self-discovery, the unknown – these are many of the qualities that make life worth living. Well, at least to me. I wouldn't want to live my life knowing that my future was written, that my boundaries had been already set."
+
+- Picard, on genetic engineering
+
+"Genetic manipulation or not, nobody's perfect."
+
+- Picard
+
+"We are responsible."
+"We had to respond to the threat of the core fragment, didn't we?"
+"Of course we did. But, in the end… we may have proved just as dangerous to that colony as any core fragment could ever have been."
+
+- Picard and Riker, discussing the fate of the now crippled Genome colony (last lines)
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 4 November 1991 [1]
+Filmed: 7 November 1991 – 15 November 1991
+Second unit and insert shots filmed: 12 December 1991
+More second unit and insert shots filmed: 19 December 1991
+Premiere airdate: 10 February 1992
+First UK airdate: 15 March 1995
+
+
+=== Story and script ===
+The story started as a pitch from James Kahn titled "The Perfect Human". According to Adam Belanoff, "Not many elements from 'The Perfect Human' ended up in 'The Masterpiece Society,' but one of the things that did make it was the genetically engineered society. In Kahn's conception, it was an idyllic community that contained, essentially, a hundred Dolph Lundgrens and Paulina Porizkovas, romping around semi-clothed, Adam and Eve-like. It was a beautiful Blue Lagoon colony." (Star Trek: The Next Generation 365, p. 241)
+"The Masterpiece Society" passed through five writers' hands before Michael Piller took on the script. The main problem for Piller was how to define a genetically-engineered society. (Star Trek: The Next Generation Companion, 2nd ed., p. 190)
+At one point, Piller was prepared to abandon the concept, before Belanoff suggested that it would be more interesting if the colony had people of diverse appearances and talents, each of whom was themselves a "masterpiece" in a different way. Joe Menosky then proposed setting the story in an artificial biosphere, inspired by the Biosphere 2 facility in Arizona. Belanoff explained, "People need obstacles. In a place where everyone is an Einstein or a Mozart, there's nobody to perform for, everything is provided for, and life is quite easy. Things would tend to stagnate. So we created a biosphere where everything was so finely balanced that even one person's departure could harm it." (Star Trek: The Next Generation 365, p. 241)
+
+
+=== Production ===
+"The Masterpiece Society" was filmed between Thursday 7 November and Friday 15 November 1991 on Paramount Stage 8, 9, and 16. Second unit and insert shots were filmed on Thursday 12 December 1991 on Paramount Stage 16 and on Thursday 19 December 1991 on Paramount Stage 9.
+David Livingston recalled that visualizing the biosphere proved to be a challenging task for the production team. "Rick [Berman] wanted to make sure we could see the effects outside the window. He didn't want to do what we normally do on stage, which was something tangible and real. That presented some challenges to the director, because the blue screen was right in the middle of the set, but he shot around it a little bit and I think it worked out successfully." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+The piano piece played by the young pianist Matthew at the colony is Frédéric Chopin's Prelude in E minor (Op. 28 No. 4).
+On Monday 11 November and Tuesday 12 November 1991, the Oregon Museum of Science and Industry filmed scenes with Gates McFadden in sickbay, Brent Spiner on an aft science station of the bridge, Patrick Stewart on the bridge, and LeVar Burton in main engineering.
+
+
+=== Cast and characters ===
+Both Ron Canada and Dey Young's next Star Trek appearances were in Star Trek: Deep Space Nine. Canada played Advocate Ch'Pok in "Rules of Engagement" and Young played Arissa in "A Simple Investigation".
+This is John Snyder's second appearance on TNG. His first appearance was as Romulan Centurion Bochra in "The Enemy".
+
+
+=== Continuity ===
+Regarding this episode's clear focus upon themes of eugenics and genetic engineering, Picard refers to them as a "dubious scientific endeavor" whose "time has passed," which perhaps mirror Humanity's experience through the Eugenics Wars or Khan, although no direct mention is made. Earlier in the season, Picard explicitly refers to Khan as a tyrant, comparing him to Adolf Hitler in "A Matter Of Time". Eugenics have also been featured in "Unnatural Selection", although there was no overt criticism from Picard. His disapproval was, however, implied when he responds to the genetically engineered Humans being referred to as the future of Humanity with "At least Doctor Kingsley's vision of it."
+There are also references to eugenics in ENT: "The Augments" and DS9: "Doctor Bashir, I Presume".
+At approximately the 9:00 mark, LeVar Burton, playing La Forge, trips on a piece of the set in the take used for the final cut and still used for this scene yet today. Burton's stumble was likely due to the visual impediment caused by La Forge's visor prop. In the scene, La Forge, Riker, and Troi are being led by Conor to meet Bates in her lab. While crossing the set, just before hitting his mark, Burton stumbles, nearly falling directly into the actress portraying Bates.
+
+
+=== Reception ===
+Michael Piller remarked, "This was the beginning of me feeling better about the season. It was another one of these shows that had been around for awhile and a lot of writers had taken a shot at. It dealt with genetic engineering and abortions and interesting things for Geordi to do, and the relationship between Troi and the leader of the society. I think it's a real classic tragedy, because everybody was trying to do the right thing in that episode and it ended up in destruction. Aside from some disappointment in casting, I was rather pleased with that. I think a lot of people were rather pleased they liked it as much as they did." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+Other members of the production staff were not as enthused by the final version of the episode. Rick Berman stated, "It's a very philosophical issue that we felt seriously about, and a show that I thought was disappointing and didn't turn out as well as I had hoped. It was slow and talky and we had casting problems." Berman also rejected claims that the episode promoted an anti-abortion viewpoint. "[T]hat's nonsense. It was totally unintended. I think that there are very few people on our writing staff who would be involved with something that would be a non-choice outlook." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+Likewise, Jeri Taylor commented, "Michael and I are at odds about it. It was an idea I didn't like from the beginning. I didn't like the concept. I wasn't wild about the script. I thought it was one of our weakest episodes of the season." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+Director Winrich Kolbe observed, "The people were too damn perfect, and I don't think perfection makes for good drama. I wasn't too intrigued with the lead actor either and that turned out to be kind of a flat episode for me." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237) Kolbe also remarked, "I liked that idea, but I'm not satisfied with the casting. I don't think the episode had enough energy. Maybe it's unfair to blame the casting. Maybe I just didn't give it the energy. I liked the concept and the script. I just didn't like the show." (The Official Star Trek: The Next Generation Magazine issue 21, p. 31)
+Ronald D. Moore commented, "This is another example of a show that doesn't really work too well. We sort of show up at a genetically perfect colony – which in and of itself is starting to bore me – and when we get there, it's 'Gee, Troi falls in love with one of the people.' You can't wait to get up and get a beer." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 237)
+Adam Belanoff recalled that after the episode aired his genetics teacher contacted him, praising the drama but calling the science "terrible". (Star Trek: The Next Generation 365, p. 241)
+A mission report for this episode, by John Sayers, was published in The Official Star Trek: The Next Generation Magazine issue 20, pp. 38-41.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 57, 11 January 1993
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.5, 7 October 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+John Snyder as Aaron Conor
+Dey Young as Hannah Bates
+Ron Canada as Martin Benbeck
+
+
+=== Co-star ===
+Sheila Franklin as Ensign
+
+
+=== Uncredited co-stars ===
+Avis as Moab IV colonist
+Beaghen as Moab IV colonist
+Carreo as Moab IV colonist
+Copeland as Moab IV colonist
+Tony Cruz as Lopez
+Cushman as Moab IV colonist
+Davis as Moab IV colonist
+Larry DeRussy as Moab IV colonist
+Echeverria as Genome colony child
+Gunnel Eriksson as Moab IV colonist
+Daniel Fawcett as Matthew
+Franco as Moab IV colonist
+Star Halm as Moab IV colonist
+Grace Harrell as operations division officer
+Hazelbarth as Moab IV colonist
+Hightower as Moab IV colonist
+Jackson as Moab IV colonist
+James as Moab IV colonist
+Andray Johnson as Moab IV colonist
+Mark Lentry as science division lieutenant
+Marianne Lewis as Moab IV lab technician
+Michaels as Moab IV colonist
+Michael Moorehead as science division ensign
+Morrow as Moab IV colonist
+Portnoy as Moab IV colonist
+Ramkisson as Genome colony child
+S. Reed as Moab IV colonist
+Joycelyn Robinson as Gates
+Seo as Moab IV colonist
+Sissy Sessions as operations division ensign
+Sprague as Moab IV colonist
+Warren Tabata as Moab IV colonist
+Takemoto as Moab IV colonist
+Théyard as science division officer
+John Thibodeau as Moab IV lab technician
+Guy Vardaman as Darien Wallace
+Christina Wegler Miles as command division ensign
+Harry Young as science division officer
+Unknown actor as Transporter officer (voice)
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton and Ron Canada
+Melba Gonzalez – stand-in for Marina Sirtis
+Debbie Marsh – stand-in for Marina Sirtis
+Tim McCormack – stand-in for John Snyder
+Lorine Mendell – stand-in for Gates McFadden, Dey Young, and Sheila Franklin
+Michael Moorehead – stand-in for Ron Canada
+Richard Sarstedt – stand-in for Jonathan Frakes and John Snyder
+Dennis Tracy – stand-in for Patrick Stewart
+Guy Vardaman – stand-in for Brent Spiner
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+22nd century; 23rd century; ability; abortion; accident; administrator; advice; Alpha Moab; ancestor; anger; anguish; answer; artificial biosphere; asylum; asteroid; away team; Betazoid; blindness; century; children; choice; Chopin, Frédéric; colonist; colony; computer; conception; Conor's mother; damage; data conversion; data stream; date: day; death; deck; defensive shield; degree; disability; DNA; defensive shield; delegation; density; diplomat; disability; dogma; dozen; Earth; earthquake (temblor); efficiency; egg; electromagnetic spectrum;; emitter array; energy; engineering support crew/engineering crew; environment; EPS power; evacuation procedure; eugenics; evidence; existence; eye; eyelid; family; Federation; feeling; fertilized cell; founder; free will; frequency; friend; fun; generation; genetic engineering; geneticist; Genome colony; governor; graviton generator; guest; hail; harm; heading; hertz; history book; home; horse; hotel; Human; Human nature; Human rights; Humpty Dumpty; idea; impulse power; information; injury; intention; invention; irony; job; joke; judge; judgment; kilogram per cubic centimeter; king; kiss; laborer; lateral emitter circuit; lead; leader; life support system; matter-antimatter warp reaction system; matter-energy transport/matter-energy transportation; meter; microscopic lifeform; mind; mistake; Moab I; Moab II; Moab III; Moab IV; Moab V; Moab VI; Moab sector; Moab system; molecular pattern enhancer; molecular transport; month; moon; multiphase tractor beam; need; neutron star; number one; nursery rhyme; outsider; pain; paradise; parallel course; percent; piano; plant; plasma; poet; poetry; political asylum; population; positronic scan; Prelude Number 4; preprocessor; Prime Directive; problem; procreation; psychology; pulse compression; quality; question; range; reality; Richter scale; schematic; science team; scientist; selective breeding; sensory overload; shield generator; ship in a bottle; shock; sleep; society; southern continent; Starfleet; stellar core fragment; story; structural damage; structural integrity; student; subspace channel; subspace relay; suggestion; suicide; superstructure; surface; surge pulse; tectonic shift; terahertz; terawatt; theoretical physics; theory; threat; toxic leak; toxicity; tractor beam; tractor beam generator; tractor beam systems; tractor emitter; tractor force rebounding; trajectory; transporter; Transporter Room 3; truth; turbolift; vacation; victim; VISOR; visual cortex; wall; warp power conduit; way of life; welcome mat
+
+
+=== External links ===
+"The Masterpiece Society" at Memory Beta, the wiki for licensed Star Trek works
+"The Masterpiece Society" at Wikipedia
+"The Masterpiece Society" at MissionLogPodcast.com
+"The Masterpiece Society" script at Star Trek Minutiae
+"The Masterpiece Society" at the Internet Movie Database

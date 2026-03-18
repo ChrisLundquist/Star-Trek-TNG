@@ -1,0 +1,227 @@
+Sisko builds a replica of an eight hundred-year-old Bajoran spaceship, and tries to use it to prove that Bajoran explorers could have made it to Cardassia without developing warp drive.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+Dr. Bashir sits alone in Quark's reading a PADD as a dabo girl, Leeta, approaches him to solicit his help in treating her "cough." The two flirt, and he orders them a Fanalian toddy, but Dax interrupts to inform him that an old colleague, Elizabeth Lense, will be arriving at Deep Space 9 on the USS Lexington in three weeks. Bashir is visibly apprehensive; during his time at Starfleet Medical Academy, he was the class salutatorian rather than valedictorian (an honor that went to Lense) due to him mistaking a preganglionic fiber for a postganglionic nerve.
+
+Meanwhile, Sisko has returned from Bajor after attending the opening of a library and greets Jake in their quarters. Jake notices that his father grew a beard, to which the elder Sisko stated that he felt it "was time for a change." He asked his son what he thinks, and Jake replied that he likes it. Sisko is extremely excited and shows Jake blueprints for a Bajoran lightship, a type of starship ancient Bajorans used to achieve spaceflight 800 years ago, with some scholars saying they made it all the way to Cardassia Prime, which Jake is highly skeptical of. Jake then wonders if such a ship could really fly, and this inspires Sisko to build and fly one in order to recreate the process.
+
+
+=== Act One ===
+Sisko begins by procuring space in a cargo bay. Even though Chief O'Brien is unsure whether the ship is even spaceworthy, let alone if it could make it from Bajor to Cardassia, Sisko begins the laborious task of building a lightship from scratch. Furthermore, he wants to build it just like the Bajorans did with the same tools they used, because it'll be fun – with the only exception being the installation of a gravity net in the floor, as weightlessness makes him queasy. Intent on proving the vessel can fly, Sisko plans to fly all the way to the Denorios belt as his major goal. He doesn't know if he could get all the way to Cardassia as the ancient Bajorans supposedly did, a hotly contested modern debate, but getting to the belt would be a good proving point.
+Taking a break for a meal in his quarters, he asks Jake to accompany him, since it will only be a few days, but Jake wants to see Leanne when she gets back from Bajor. Later, he takes another break when Dax stops by and pleasantly observes that she has not seen Sisko so excited since he and Jennifer decided to have a baby.
+Later, Jake receives a message in his quarters from Wellington, New Zealand on Earth. He's happy with it, but it makes him think. Going down to the cargo bay where Ben is working on the lightship, he says he now wants to go with his father.
+
+
+=== Act Two ===
+At the Replimat, Bashir is preparing for Lense's arrival by reviewing several medical texts on a PADD. Dropping by, Dax asks why they are competitive, when they both got the positions they wanted. Bashir, however, says regardless he will always feel second-best.
+Sisko prepares to leave when Gul Dukat calls him in his office to warn him not to attempt the journey after hearing about it, as lightships are fragile and it's a long way to the Denorios belt at sublight speeds. Despite his overt concern for Sisko's safety, noting possible Maquis trouble, Dukat obviously is of the opinion that these lightships could not have made the trip to Cardassia. Sisko responds that the Maquis have no motive either way on this, and he's prepared emergency procedures. This is while implying a threat from Dukat, but he insists that's not the case. He ends the call wishing him luck instead.
+Jake and Ben bond during their voyage, and they both enjoy the tranquility of the lightship. With a few coordinated pulls of levers, the sails are up, and they are on their way.
+
+
+=== Act Three ===
+Ben has determined to do things exactly as the Bajorans did – even taking zero-gravity ration packs instead of a portable replicator. He has Jake change the heading a bit and then sits down, where he explains the next few actions they'll need to take. Jake notices the (strange) bathroom, designed for a zero-gravity environment and his father tells him he will get the hang of it eventually. He's also not a fan of the rations. Ben tells him he's very glad he's here, even if he didn't want to come. Then, after weeks of hiding it from even his father, Jake finally asks Ben to read a story he has been diligently working on.
+Meanwhile, Morn and Quark have made a bet on how long Bashir will talk with his old schoolmate once she arrives on the station. As usual, Odo has kept tabs on the situation as well. Bashir nervously sits in Quark's with O'Brien, observing Lense from afar, and finally gets up the nerve to talk to her; however, she walks past him as if he does not exist.
+
+Having read Jake's story, Ben appears reluctant to give his opinion of it. He is genuinely impressed, claiming the story shows "a lot of promise", but does not feel his son has had experience with the issues being dealt with in the story. Jake seems to understand, and his father tells him he should keep writing. He then reveals he received a message from the Pennington School in New Zealand with an offer for a writing fellowship. His father is surprised and pleased, but they are interrupted as there is a crash and one of the mast supports gives way.
+
+
+=== Act Four ===
+Ben says they need to immediately jettison the lightship's starboard sprit. Without the sprit, sail efficiency has been compromised. Ben's enthusiasm about the journey's chances wanes, but Jake encourages his father to press on.
+
+Meanwhile, Bashir and O'Brien drunkenly sing together in the latter's quarters. The doctor is perplexed by Lense's reaction (or lack thereof) to him, and the chief notes with amusement that Lense must be either in love with Bashir or unable to stand him; as O'Brien observes, Bashir is not an in-between kind of guy. O'Brien encourages him to ask her himself — in the morning, when they are considerably less drunk.
+Back on the lightship, Jake informs his father that he has decided to defer admission for a year. The older Sisko then relates a story about when he left home for Starfleet Academy. For the first week, he transported home to New Orleans for dinner every night because he was homesick, but Jake claims he does not want to leave Ben alone. Jake turns the conversation to encouraging his father to date again, and he says he knows someone who's interested in meeting Ben. Their conversation is interrupted as the ship rocks suddenly. The port mainsail breaks off as they accelerate quickly and, to Ben's astonishment, go to warp for several minutes.
+
+
+=== Act Five ===
+Ben doesn't know how the ship got to warp, but they need to stop the ship. They do so successfully and check the map. There were no spatial anomalies, but when Jake points out the tachyon eddies, Ben realizes that, while a regular starship is not affected by tachyon eddies, a Bajoran lightship is different due to its solar sails, since its surface area is much greater relative to its mass. And as tachyons travel faster than light, it's possible that their impact on the sails somehow pulled the ship to warp and probably far off-course.
+This new information for ancient Bajoran space travel doesn't do them much good for their current situation: main power is offline, they've lost the jib along with the port mainsail, leaving only the starboard mainsail and port sprit, and the sextant had fallen to the deck during the warp jump and smashed to pieces, without which Ben can't determine their location or heading. Although they were less than a day from their goal of reaching the Denorios belt, Ben decides they have no choice but to call the station for pickup with the emergency com unit he brought but doesn't get an answer. As it's not damaged, Ben believes they could be so far out that the signal hasn't yet reached Deep Space 9.
+
+The next day, Bashir gets up the courage to confront Lense, who shows no sign of recognition. He discovers that, while at a New Year's Eve party of a mutual friend in 2367, Lense was mistakenly informed that Bashir was an Andorian. Bashir explains that he attended that party with his friend Erit, who is an Andorian. Once the two begin talking, Lense confesses how bored she has been aboard the Lexington, as it turned out to be more of a charting expedition for her, and claims she envies Bashir's opportunity to work on long-term projects. Bashir invites her to examine some of his latest results at the infirmary, which she is more than eager to see. On the second level directly above them, Quark happily informs Morn that he has won their bet, and Morn reluctanly pays up.
+
+With nothing better to do, the Siskos discuss this woman whom Jake wants to introduce Ben to. She's a freighter captain, and Jake assures his father that he'll like her. Ben agrees to meet this woman on the condition that Jake agrees not to base his decision about going to Pennington on how their date turns out. He confesses that he has decided to stay aboard DS9 not just for his father, but because the station will prove an excellent source of the kind of experience Ben noted that he needs to be a truly great writer. Their conversation is interrupted as three Cardassian warships arrive, headed by Dukat, and call them on the com unit to congratulate them on having just entered the Cardassian system, thereby proving that the idea of the ancient Bajorans sailing there was possible. The tachyon eddy allowed the ship to get past the Denorios belt, presumably how the ancient Bajorans successfully met the Cardassians so many centuries earlier. Coincidentally (which Ben strongly doubts), the Cardassian Central Command has announced the discovery of an ancient crash site on Cardassia that their archaeologists believe contains the remnants of a Bajoran lightship, proving the story about ancient first contact to be true. The Cardassian ships set off fireworks around their ships in recognition of this momentous event.
+
+
+== Memorable quotes ==
+"Here is the immunological data you asked for."
+"GO AWAY"
+
+- Bashir and his PADD, upon giving it to Jadzia
+
+"What is this?"
+"I thought it was time for a change. What do you think?""
+"I like it."
+
+- Jake and Sisko, on the latter's new beard
+
+"Oh, you sound just like a Cardassian."
+"I beg your pardon?"
+"They have denied the possibility of ancient contact for decades because they cannot stand the idea of Bajor having interstellar flight before they did."
+"With all due respect, Major, you're beginning to sound like a Romulan."
+"A Romulan?"
+"There is no piece of technology in existence they don't claim they invented before everyone else."
+
+- Major Kira and Chief O'Brien arguing over whether a Bajoran lightship could actually have traveled to Cardassia
+
+"Look, I don't plan to spend the next few years sailing to Cardassia. All I want is to build one of these ships and prove that it's spaceworthy."
+"A computer model could do that. And why go to all that trouble?"
+"Why? Because it'll be fun."
+
+- O'Brien and Sisko
+
+"I understand you're planning a trip"
+"Word get around."
+"I can't believe that a man of your intelligence would take stock in Bajoran fairy tales about ancient contact."
+"If you recall, you thought the Celestial Temple was a Bajoran fairy tale, until we discovered the wormhole."
+"I suggest you reconsider your plans. Solar vessels are very fragile, and it's a long way to the Denorios belt at sublight speeds."
+"Don't worry. I'll have emergency equipment on board. If something goes wrong, Major Kira can a have a runabout to me within an hour."
+"An hour can be a very long time, especially if you happen to encounter something unexpected."
+"Like what?"
+"Oh, I don't know. A Maquis ship, perhaps."
+"Why would the Maquis have any quarrel with an unarmed ship sailing toward the Denorios belt? They have nothing at stake here, nothing to prove– or should I say, disprove."
+"Commander, I contacted you out of concern for your safety, but you seem to be intimating that I've made some sort of threat."
+"Ah, then I'm glad I was wrong. For a moment there, I thought that you had been put in charge of the Cardassian Ministry for the Refutation of Bajoran Fairy Tales."
+"Since I don't seem to be able to dissuade you from undertaking this little voyage of yours, I'll wish you luck instead. Let's hope you don't need it."
+
+- Dukat and Sisko
+
+"Listen."
+"I don't hear anything."
+"Exactly. Not even the hum of an engine. It's almost like being on the deck of an old sailing ship. Except the stars are not just up in the sky; they're all around us."
+
+- Benjamin Sisko and Jake Sisko
+
+"Hammock time!"
+"Yo."
+
+- Benjamin and Jake stringing up a hammock on the lightship
+
+"You're not an in-between kind of guy. People either love you or hate you."
+"Really?"
+"I mean, I hated you when we first met."
+"I remember."
+"And now..."
+"And now?"
+"Well... Now, I don't."
+"That means a lot to me, chief, it really does."
+"And that is from the heart! I really do... not hate you anymore."
+
+- Miles O'Brien and Julian Bashir (while very drunk)
+
+"Well, let's face it. It's been over a year since your last date. A year, Dad. Well, you got to make time for these things."
+"I cannot believe that I'm getting advice about women from my son."
+"Don't think of me as your son, right now. Just think of me as another guy. Another guy who happens to know a very attractive lady who wants to meet you."
+"You are trying to set me up?"
+"Well, why not?"
+
+- Jake and Benjamin, on being introduced to Kasidy Yates
+
+
+== Background information ==
+
+
+=== Story and script ===
+Hilary J. Bader's original story featured Miles O'Brien rather than Benjamin and Jake Sisko. It was the producers who decided that they needed a "father and son" episode. (Star Trek: Deep Space Nine Companion, p. 237)
+René Echevarria, who took the story pitch from Bader, commented, "[Bader] was talking about an old space ship with primitive engines. I loved the idea and suggested solar sails, and she loved that idea." Ronald D. Moore then added his own suggestions. Moore commented, "After Hilary's pitch, I wrote up a memo that said, 'Let's make this about the Bajorans and let's tie it in to the treaty that was established in "Life Support" and see a different side of Sisko.' That he's really into something for a personal reason and wants to make it a father/son project. So they go out and bond on this ship as Jake is getting older, and Sisko realizes that Jake has other interests. He wants to be a writer, but, ironically, the thing holding him back is he's worried about his dad. I thought that was a nice character moment. Rene [Echevarria] did a wonderful job with the script." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+The song "Jerusalem", which is sung by O'Brien and Bashir during a drinking binge, was chosen by Colm Meaney and Siddig El Fadil after the producers determined that obtaining the rights to their initial choices, "Louie, Louie" or "Rocket Man", would be too expensive. El Fadil recalled, "'Jerusalem' was very familiar to both of us. It's like an anthem in England, and something that drunk people might very well sing." (Star Trek: Deep Space Nine Companion, p. 238)
+In the script, Sisko named his lightship the "Baraka" and explained to Kira that it meant "good fortune" in the Swahili language. (Star Trek: Deep Space Nine Companion - A Series Guide and Script Library) It can also mean "blessing" or "prosperity."
+
+
+=== Production ===
+During production, this episode was known as "The Butterfly Episode". (Star Trek: Deep Space Nine Companion, p. 237)
+The lightship (and the basic plot of the episode itself) was inspired by the voyage of the Kon-Tiki, a deliberately primitive sailing craft that Norwegian explorer Thor Heyerdahl used to sail from Peru to Tahiti in 1947, substantiating his belief that it was possible that a Pre-Columbian South American civilization could have settled Polynesia by making a trans-oceanic voyage. (Star Trek: Deep Space Nine Companion, p. 236 & 237)
+Production Designer Herman Zimmerman and Illustrator Jim Martin envisioned the Siskos as "sailors in space" and intentionally made the set of the lightship similar to a sailing boat. René Echevarria told Zimmerman and Martin that he wanted the ship to have a "Jules Verne look, a wooden cabin outfitted with brass." Indeed, some real sailing equipment can even be seen in the background at various points in the episode. Both men count this episode among their favorites to work on from a design point of view, and Zimmerman mentions it in the Star Trek V: The Final Frontier Special Edition DVD special feature Herman Zimmerman: A Tribute.
+As Jim Martin explained, in reality, a solar sail would need to be several miles wide to propel a ship like this. As such, "We needed to take it into the realm of fantasy. But that was a very whimsical idea, and we could be very whimsical with it, and do something that was kind of in a fun fantasy vein." (Sailing Through the Stars: A Special Look at "Explorers", DS9 Season 3 DVD special features)
+Leeta, who goes on to become Rom's wife, makes her first appearance here. Actress Chase Masterson originally auditioned to play the role of Mardah, Jake Sisko's girlfriend in the episode "The Abandoned". However, when Avery Brooks, who was directing that episode, saw her, he decided that she was too old to be the girlfriend of a sixteen-year-old. When Masterson returned to play the character of Leeta, it was originally intended to be a one-episode character, but the producers were so impressed with her performance that they wrote the character into "Facets", and subsequently decided to add her to the list of recurring characters in Season 4. (Star Trek: Deep Space Nine Companion, p. ?)
+John Knoll at Industrial Light & Magic created the lightship as a CGI model. He later used the model for Akorem Laan's ship in "Accession".
+Regarding the scene where Bashir and O'Brien sing "Jerusalem", Colm Meaney commented, "We were a bit concerned about it. It was the first time that that sort of scene was ever done in a Starfleet or Federation situation. We're all supposed to be so well behaved and we were aware that it was a bit risky so it was a question of playing it right." ("Mr. Goodwrench", Star Trek: Communicator issue 105, p. 19)
+
+
+=== Reception ===
+Ira Steven Behr commented, "I want to pay special homage to René Echevarria, who I thought wrote a really wonderful script and gave Sisko his best role in the history of the show. Avery was wonderful; for the ship itself I also have to give a nod to Herman Zimmerman. When we went on stage and walked the ship, it was probably how they felt about the time machine from the 1960 movie – a great little piece of equipment. I said, 'Don't throw this out; don't trash it. Keep it somewhere because this goes in the Star Trek museum someday.' It's just a great prop." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+Behr was also extremely happy with the O'Brien/Bashir drinking scene, and he felt that it was an important scene in establishing DS9's differing ideology from Star Trek: The Next Generation. Behr explained, "That was a scene I pushed for. Every couple of shows, I'll have a scene that becomes a baby that I nurture. This one was just so Human. It had friendship. It had vulnerability. It was funny. It was sloppy. It's that stuff that Deep Space Nine had helped bring back into the Star Trek universe. The Next Generation was very serious at times, and I understand that it did a lot of wonderful things, but it had a very self-important air to it. Finding things that work against that is very important to me." (Star Trek: Deep Space Nine Companion, p. 238)
+David Livingston commented, "It was a bottle show, but an interesting bottle show with a father-and-son relationship and some interesting computer graphics of the sailing ship. We were reluctant to do computer graphics, but Peter Lauritson finally came around. He recognized how valuable it is. You can do more stuff with the ship, but you have to do it right. Not to pick on other shows, but Babylon 5 looks like computer-generated imagery. On Voyager and Deep Space Nine, you may not know some of these shots are not motion-control shots. They're really, really good if done properly. You have to spend a couple of extra bucks and get really good artists, but CGI just allows you to do more and you can build more elements into the shots." (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages)
+At its 1995 convention, the Space Frontier Foundation recognized this episode for exemplifying "the most imaginative use of a vehicle to travel in space," and awarded the episode the "Best Vision of the Future" award. The award was presented by Robert Staehle, the world's foremost expert on solar sails. (Star Trek: Deep Space Nine Companion, p. 236)
+Director Cliff Bole commented: "I think the [DS9] episode I really enjoyed was a story with Avery and his son, and they were on a special little ship that they built and they went out in space. We built a marvellous set, very small, and it was just the two of them. It was a great relationship show with some great optical effects, and I was able to come up with some camera movement inside of the set with cranes and stuff. I just enjoyed the whole thing". (Star Trek: The Official Starships Collection, issue 130, p. 16)
+
+
+=== Trivia ===
+Actor Andrew Robinson cited Dukat's territorialism in this episode as an example of how the Cardassians represented the reptilian portion of the Human brain, with Robinson stating, "Gul Dukat's whole thing is, 'Well, where are you going?' and he is trying to discourage them. And it's all about territoriality." (Star Trek: Communicator issue 103, p. 53)
+When the Star Trek Customizable Card Game released its "Energize" set in 2003, special pairs of starships and their matching commanders were released as a promotion to commemorate the tenth anniversary of the game's launch. One such pair was "Benjamin Sisko, Shipwright"[1] (whose alignment was Bajoran, rather than Federation) and the ship seen in this episode, which was given the name "Baraka". [2]
+The liquor that O'Brien and Bashir were drinking is called "Wee Bairns".
+
+
+=== Continuity ===
+Kasidy Yates is mentioned for the first time, although she does not appear until "Family Business".
+Benjamin Sisko (Avery Brooks) sports a goatee for the first time. He keeps it throughout the series, though its look changes in subsequent episodes. An additional touch, shaving his head, first appears in the Season 4 opener "The Way of the Warrior", and he also keeps his head bald for the rest of the series.
+The "awkward" moment between O'Brien and Bashir marks the beginning of a running joke about the chief's love for his best friend. A later example is "Hippocratic Oath", in which he finds himself agreeing completely with Bashir's analysis of a fight he has had with Keiko and stops short of saying he wishes Keiko was a man, much to the doctor's amusement. Another situation comes up in "Extreme Measures", where O'Brien refuses to admit that he likes Bashir more than Keiko.
+This episode contains the second hint of Jake's literary talents. It was revealed in "The Abandoned" that he wrote romantic love poetry; here, he is revealed to have composed a short story about the Maquis.
+
+
+=== Remastered version ===
+Remastered scenes from the episode are featured in the documentary What We Left Behind.
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 3.11, 28 August 1995
+As part of the DS9 Season 3 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Avery Brooks as Commander Sisko
+
+
+=== Also starring ===
+Rene Auberjonois as Odo
+Siddig El Fadil as Doctor Bashir
+Terry Farrell as Lieutenant Dax
+Cirroc Lofton as Jake Sisko
+Colm Meaney as Chief O'Brien
+Armin Shimerman as Quark
+Nana Visitor as Major Kira
+
+
+=== Guest stars ===
+Marc Alaimo as "Gul Dukat"
+Bari Hochwald as Elizabeth Lense
+Chase Masterson as Leeta
+
+
+=== Uncredited co-stars ===
+Patti Begley as Bajoran officer
+Ivy Borg as Rita Tannenbaum
+Brian Demonbreun as Starfleet sciences officer
+Judi Durand
+Anthony Giger as command officer
+Terry Green as operations lieutenant
+David B. Levinson as Broik
+Dan Rose as Bajoran ops officer
+Mark Allen Shepherd as Morn
+Michael Wajacs as Bajoran civilian
+Unknown performers as
+Bajoran civilian
+Eight Human Lexington officers
+Napean Lexington officer
+
+
+=== References ===
+16th century; 2367; 2370; acceleration; ancient contact; Andorian; antiquities; archaeologist; baby; Bajor; Bajoran; Bajoran lightship (unnamed); Bajoran Militia uniform; Bajoran system; Bajoran wormhole; bathroom; campus; Cardassia; Cardassian; Cardassian archaeologists; Cardassian Ministry for the Refutation of Bajoran Fairy Tales; Cardassian government; Cardassian history; Cardassian system; Cardassian uniform; ceiling; celebration; Changeling; chariots; charting expedition; coincidence; congratulations; cough; dabo girl; "damn"; data; date; Dax, Tobin; day; Deep Space 9; Demilitarized Zone; Denorios belt; explanation; England; Erit; experience; fairy tale; faking illness; Fanalian toddy; father (aka dad, old man); fellowship; Ferengi; final exam; fire; First Republic; freighter captain; friend; "from the heart"; Galor-class (Prakesh's sister ships); girlfriend; graduating class; graduation; gravity net; green; Gul; guy; hammock; homesick; hate; hum; immuno-therapy; immunology; impact; infirmary; ion storm; "Jake-o"; Jared; Jared's betrayer; jib; "Jerusalem" (hymn); Jerusalem (location); Keiko's friend and their friend; land; laser; laser cutter; Leanne; Lexington, USS; library; light year; living room; Lucier, Bruce; lumber; Lurian; mainsail; Maquis; mass; mast; minutes; money; month; moss; Napean; New Orleans; New Year's Eve; New Zealand; night; Nog; nursery; O'Brien, Keiko; old man; PADD; party; Pennington School; Pennington employee; photosynthesis; port; Prakesh; Promenade; Quark's; queasy; ration pack; replicator; Replimat; rigging; rock; Romulan; runabout; sabre saw; sailing ship; salutatorian; San Francisco; singing; Sisko, Jennifer; Sisko, Joseph; Sisko's lightship; Sisko's wife; solar sail; spaceworthy; spritsail (aka sprit); stairs; star charts; Starfleet Academy; Starfleet Medical Academy; Starfleet uniform (2350s-2370s); Starfleet uniform (late 2360s-early 2370s); station; surface area; "Survey on Cygnian Respiratory Diseases, A"; synthale; system; table; tachyon; tachyon eddy; tack; technology; Terok Nor-type; Trill; T-cell anomaly; transporter credits; uncharted space; valedictorian; warp speed; Wee Bairns; week; Wellington; winch; woman (aka lady); Yates, Kassidy; year; zero gravity
+
+
+==== Unreferenced material ====
+Baraka; Swahili language
+
+
+=== External links ===
+"Explorers" at Memory Beta, the wiki for licensed Star Trek works
+"Explorers" at Wikipedia
+"Explorers" at MissionLogPodcast.com
+"Explorers" script at Star Trek Minutiae
+"Explorers" at the Internet Movie Database

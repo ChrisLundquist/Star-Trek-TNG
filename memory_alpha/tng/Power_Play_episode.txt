@@ -1,0 +1,297 @@
+Alien entities take over the minds of Data, Troi, and Miles O'Brien.
+
+
+== Summary ==
+
+
+=== Teaser ===
+"Captain's log, stardate 45571.2. We are going into orbit around an unexplored M class moon of Mab-Bu VI. Though the moon was reported to be uninhabited, we have picked up a weak distress call."
+As the USS Enterprise-D attempts to identify the source of the distress call, they are confronted with extreme interference due to electromagnetic whirlwinds on the moon, which renders the sensors incapable of picking up life signs. However, Commander Data is able to identify the distress call to be consistent with that of Daedalus-class starships, which have not been in service for 172 years. Captain Picard asks Data to check if any starships have been reported missing in this area. Data determines that the USS Essex under the command of Captain Bryce Shumar disappeared in the vicinity, over two hundred years ago. He also determines, that the signal from the moon is identical to the subspace signature from the Essex. The captain thinks that they have solved the mystery of the Essex, seeing no need to risk beaming down to check a ghost ship, and orders Lt. Worf to notify Starfleet. However, in that moment, Counselor Deanna Troi tells the captain that they have not necessarily solved the mystery of the missing ship, since she senses life on the moon's surface.
+
+
+=== Act One ===
+"First officer's log, supplemental. The electromagnetic interference on the surface has been judged too dangerous for anyone to transport down. So we've taken a shuttle to investigate."
+
+William T. Riker, Data, and Troi are on board the shuttle Campbell on their way down to the moon surface. However, the shuttle is continually being violently shaken by the winds, until some systems fail and the crew are forced to emergency land on the moon's surface. On the Enterprise, the crew are worried about the people on the shuttle, however, Ro Laren is able to determine the coordinates where the shuttle crashed.
+
+The crew in the shuttle manage to explosively release the exit door of the shuttle. However, they are unable to communicate with the Enterprise, and all equipment in the shuttle has been rendered inoperable. Riker's arm has been broken in the crash. Troi notices an odd-looking storm front close to their own position. Data does not pick up any life signs in the front with his tricorder, but Troi is absolutely certain that there is life, and it is rapidly approaching along with the storm.
+On the Enterprise, Geordi La Forge and Chief O'Brien are attempting to find a way to beam the away team from the surface. O'Brien suggests that he beam down by boosting the confinement beam and he will bring with him a set of pattern enhancers, which would allow safe transport for the away team. La Forge reminds the chief that the chances of him making it down to the surface without materializing in a million pieces are 50/50 at best, but O'Brien insists that he be allowed to try. When Worf informs Captain Picard that a storm front is moving towards their crew on the moon, Picard allows O'Brien to take the risk and wishes him luck.
+
+O'Brien manages to beam down to the away team and starts distributing the pattern enhancers, reminding Data and Troi to place them about seven meters apart. However, as he tries to activate the third enhancer, it is struck by a bolt of lightning, knocking the four crewmembers over on the ground. As they lie unconscious, the storm passes over them and glowing orbs enter the bodies of O'Brien, Data, and Troi. A fourth one passes over Riker, but does not enter and flies away instead. He gets up and activates the third pattern enhancer, and the crew are beamed up to the ship, with Data, Troi, and O'Brien still unconscious.
+
+
+=== Act Two ===
+Now in sickbay, Troi's eyes move rapidly and she screams as she opens her eyes. Doctor Crusher comes to calm her down. The rest of the away team are also in sickbay and have all regained consciousness. Captain Picard enters sickbay to check on his crew and finds them all in a fairly good condition. Troi, Data, O'Brien, Riker, and Picard then enter a turbolift to the bridge. In the turbolift, Data explains how they can continue with the investigation. However, there is a short audible buzz in his voice, which he dismisses as a fluctuation in his speech processors. He claims that he will have it corrected shortly.
+On the bridge, Troi asks Picard to have a word with him in private and they proceed to his ready room. Riker orders Ensign Ro to take a synchronous orbit around the shuttle's crash site, but Data claims that due to the EM patterns it would be best if they begin the search around the southern polar region. Riker is skeptical, as that would have them start their search from scratch and maintains his request to begin the search at the crash site. There is a visible reluctance on Data's face as he hears that.
+In the captain's ready room, Troi claims that the entities she sensed on the moon surface were calling her to the southern polar region. She recommends that they should look for the Essex there.
+On the bridge, Ro notices that she has been locked out from the helm, but Riker has no explanation for it. He asks Data what may have happened, but Data does not answer. As Riker walks up to Data's console, Data hits Riker and knocks him on the floor. As Worf tries to fire a phaser at Data, he is pulled away and knocked over the tactical station by O'Brien and falls over the command chair. Ro tries to stun O'Brien with a phaser of her own, but he takes cover and shoots her. Riker manages to transfer all bridge control to engineering, which completely locks out Data from his console. In his ready room, Picard gets knocked on his back by Troi. Data, O'Brien, and Troi enter the turbolift and proceed to engineering.
+
+Riker restores bridge control and Worf walks up to tactical station. There he overrides the control for the turbolift and stops it at deck ten. However, O'Brien has sufficient technical skills to override the bridge command and can get the turbolift to move again. Picard orders Worf to engage emergency bulkheads in the turboshaft. The turbolift is stopped at deck 13 and Picard orders Worf to take a security team there. However, when the security team opens the door of the turbolift, it is empty except for Troi's, Data's, and O'Brien's combadges. On deck ten, the three walk through a corridor, as they get trapped by force fields. Data smashes a computer console on the wall and touches the exposed circuitry, thereby connecting with the computer and overriding the force field. Picard is informed of their escape and location, and realizes the three are on their way to Ten Forward and sends security there.
+In Ten Forward, Keiko O'Brien, Miles' wife, tries to calm her daughter, Molly, who is hungry and crying. In that moment, Troi, Data, and O'Brien enter Ten Forward and force everyone on the floor. Worf's security team arrives, which results in a phaser shoot-out. However, none of the phasers seems to have any effect on any of the three and they successfully seize control over Ten Forward. When Picard attempts to contact Worf from the bridge, Troi refuses to let him answer. Instead, proving her control over the situation, she points a phaser at Worf and responds firmly, "Yes bridge, he can hear you."
+
+
+=== Act Three ===
+"Captain's log, supplemental. Following an aborted attempt to take control of the bridge, Counselor Troi, Mister Data, and Chief O'Brien have seized Ten Forward."
+On the bridge, the crew try everything they can to get the situation under control, but without any success. Data isolates Ten Forward with force fields and O'Brien collects all communicators from any of the Starfleet crew in Ten Forward. Meanwhile, Picard asks Dr. Crusher to see if she can find any clue as to what happened to Troi, Data, and O'Brien. He then contacts Ten Forward and asks the captors to discuss the situation. After some delay, they respond and tell Picard to move the ship to the southern polar region. Picard orders the ensign to move the ship there, but as slowly as possible. Dr. Crusher then comes up with a possible explanation – she has determined that other life forms may have taken control over their people – Riker was not affected because his broken arm inflicted pain, which fired his pain receptors and prevented him from being taken over by the alien entity. Picard then suggests that inflicting pain on Troi, Data, and O'Brien may free them from their possessors. Ro and La Forge come up with the possibility to fire a plasma shock on their people, which would cause Troi and O'Brien non-physical pain and incapacitate Data. They suggest that they could place a micro-optic drill in the ceiling of Ten Forward from above, deactivate the force field for a short moment and then fire the plasma shock through the drill. Picard then orders Dr. Crusher to work on a way to contain the alien entities once they have been forced out.
+Picard then contacts Ten Forward and inquires about the severity of injuries of the people there. Troi tells Worf to inform the bridge about the injuries. Picard then asks Troi to release the injured, in exchange for himself as another hostage, and Troi agrees. Riker objects to Picard placing himself in this position, but Picard points out that the whole ship is essentially being held hostage anyway and while he's there he can find out who or what they're dealing with. He leaves with orders that if La Forge and Ro can go ahead with the plasma shock then to do so, but if they can't or if it doesn't work then for Riker to watch for any opportunity Picard might give him. When Picard enters Ten Forward with a medical team, Troi tells him that she is Captain Shumar of the Essex.
+
+
+=== Act Four ===
+Stunned, Picard is in disbelief, and Troi tells him that Data is Shumar's first officer, Commander Steven Mullen and that O'Brien is the security chief Lt. Morgan Kelly. She also says that she has no wish to harm Counselor Troi, who is still alive, or anybody else on the Enterprise. She tells Picard that they have commandeered the ship because they have been trapped on the moon for over two centuries and simply want to find rest. For that, they need the help of the Enterprise. When questioned, she says that the Essex broke apart when the ship was caught in the same electromagnetic storm as the shuttle Campbell. The bridge crashed in the southern polar region. At that moment, lightning struck the bridge and their consciences were absorbed by the magnetic currents on the surface. She explains they didn't tell Picard this because he wouldn't believe them.
+
+La Forge and Ro have reached a service crawlway just above Ten Forward. On the bridge, Dr. Crusher has determined how she could trap the alien entities – by duplicating the magnetic flux density in the storms on the moon by flooding Ten Forward with ionogenic particles. However, La Forge tells the bridge that he still has to calibrate the plasma inverter, which would still take up to forty-five minutes to an hour for them to fire the plasma shock.
+In Ten Forward, Picard and Worf have a chance to discuss the situation. Worf confides that Klingon history contains many legends such as the jat'yIn – the living being possessed by the spirits of the dead, and Picard admits that Human history has many similar legends. Worf asks if Picard believes that "Shumar" and the others are who they say they are, and Picard, dropping his voice even lower, says absolutely not: if they were Starfleet officers, they would be behaving much less violently. Worf posits that, after years living disembodied on the moon, the crew of the Essex has gone insane. The entity inhabiting Data cuts them off and orders them to sit down apart from each other.
+The Enterprise is nearing the southern polar region of the moon and Picard asks Troi for further instructions. She demands that they beam up the skeletal remains of the Essex crew and bring them to Earth for a proper burial. Picard demands that all the hostages are to be released first, but Data threatens to kill some of the hostages if the captain does not cooperate.
+
+At that moment, La Forge and Ro attempt to fire the plasma charge on the three captors but Data walks out of range at the last second and the shock misses him. The alien beings emerge from the bodies of Troi and O'Brien as they slump to the floor. Dr. Crusher establishes the field that traps the alien entities. An enraged Data, still possessed, grabs Picard by the neck, lifts him from the floor, and threatens to kill everyone in Ten Forward starting with the captain if he does not order the bridge to stop. Picard, under duress, gives in. The bridge deactivates the field and the glowing orbs again seize control of Troi and O'Brien. Troi angrily asks Picard if he is ready to cooperate. Choking, the captain says that he is, and Data releases him.
+
+
+=== Act Five ===
+"First officer's log, supplemental. The Enterprise has moved into a synchronous orbit near the southern polar region. We await further instructions from Ten Forward."
+
+The ship has arrived at the destination, but the electromagnetic storm activity renders the sensors useless again. All La Forge can detect is a basic ionic cyclone. The same distortion also makes the use of the transporters impossible and Picard reminds the captors that O'Brien is the only person on board who can get the transporters to work through the interference. O'Brien confirms this, but says he needs a transporter pad to conduct the procedure; since there is none in Ten Forward, Picard proposes that he give them safe passage to the transporter in Cargo Bay Four. Picard signals the bridge, telling Riker they have the "opportunity" to end the violence – putting a barely noticeable emphasis on the word that reminds Riker of their earlier conversation.
+After some debate, the captors agree, but they each take a hostage. Troi takes Picard, Data takes Worf, and O'Brien takes Keiko, though he agrees to her plea to leave Molly behind, and Keiko gives her to the care of another woman. They deactivate the force fields and leave Ten Forward.
+
+After arriving in Cargo Bay Four, Picard asks "Shumar" when he will really tell him who he is, but gets no response. On the bridge, Riker explains to Ro that there is only one reason why Picard chose that particular cargo bay: the bridge crew can blow the hatch and decompress the cargo bay if and when it becomes necessary.
+In the cargo bay, O'Brien is able to modify the transporter and beams up hundreds more of the alien beings. Then, Troi tells Picard that he was right: they and the other entities are all condemned prisoners from a system called Ux-Mal, who were brought to the moon over five hundred years ago, separated from their physical bodies, and left to drift in the storms; the moon is, essentially, a penal colony. They tried to escape on the Essex, but the ship was incapable of eluding the moon's electromagnetic storms. Now, they intend to use the Enterprise and the bodies of its crew to escape the moon and return home.
+On the bridge, Ro reads with alarm that hundreds of the "prisoners" are now in the cargo bay. Riker gives Picard his advantage, ordering Dr. Crusher to activate the containment field she developed. When she does, the entities are now trapped in the cargo bay. Enraged, Troi threatens to kill Picard, but he calmly tells her that her threats have no value now, reminding her that all her fellow prisoners will die if the cargo bay hatch is blown. Data says Picard and the other Humans will likewise be killed, but Keiko and Worf step forward and say they are more than willing to give up their lives to save their friends and loved ones. Picard reminds them that Troi, Data, and O'Brien are Starfleet officers who would also give their lives in this situation. He proposes to them that if they free their host bodies, Picard will return all of the entities, unhurt, to the moon's surface. After some thought, the criminal inhabiting Troi gives in and warns Picard not to pass their way again.
+
+The entities leave the bodies of O'Brien, Troi, and Data and join the others on the transporter pad. Using Troi's communicator, Picard informs the bridge that the siege was successfully ended and orders Worf to beam all the entities back to the moon, which he gladly does.
+
+"Captain's log, stardate 45572.1. Dr. Crusher has examined Troi, Data, and O'Brien. There seem to be no residual effects from their experience."
+Troi describes her experience of being possessed, explaining that while she could see and hear everything she was doing but wasn't in control, and notes that the being that inhabited her was intelligent but ruthless. Data apologizes to Worf for his behavior and thanks him for his restraint, and Worf notes that Data has "no idea" how hard it was to control himself. In sickbay, Doctor Crusher finishes checking out O'Brien and he reunites with Keiko and Molly, before apologizing for his behavior and saying that he would've killed the entity inside him if he could. Keiko states that she understands and Molly is happy that her father is back to normal.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2368
+First officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"Someone's down there... alive."
+
+- Troi, sensing life on Mab-Bu VI's desolate moon
+"A concussive charge would blow out the security fields. We could go in with phasers on wide beam, stun everybody. Sort it out later."
+
+- Riker, discussing a plan to end the hostage situation.
+"I never want to see this part of the Enterprise again."
+"I hear you. This is what starship designers call 'easy access'."
+
+- Ro and La Forge, carrying a bulky device through a narrow service crawlway
+"Lunch time, Miles! Let's do it!"
+
+- Riker, after O'Brien tells him Molly gets angry when he's not feeding her lunch before the away team beams up
+"Everyone, get down on the floor!!"
+
+- A possessed Deanna Troi
+"Mr. Worf, acknowledge! Can you hear me, Mr. Worf?!"
+"Yes, bridge. He can hear you."
+
+- Picard, trying to contact Worf during the crisis in Ten Forward, while a possessed Troi answers for him
+"What are you looking at? You, Klingon. Attack me!"
+
+- A possessed Data, to Worf
+"Silence that child!"
+
+- A possessed Data, to Keiko O'Brien, regarding Molly's crying
+"I have no fear of death."
+"And I have no fear of killing you!"
+
+- Worf and a possessed Data
+"You have thirty seconds to change your course, or else additional members of your crew will require medical attention."
+
+- A possessed Deanna Troi, to Captain Picard
+"Tell them to stop or I will kill everyone in this room, starting with you!"
+"(choking) Picard to bridge! Abort immediately!"
+
+- A possessed Data and Picard
+"How do you intend to free yourselves of this existence that has so trapped your consciousness?"
+"It will fade as we move further from this planet."
+"Really? What is your scientific basis for that?"
+"I don't need a scientific basis. Just be quiet."
+"Captain Shumar, when are you going to tell me who you really are?"
+
+- Picard and a possessed Deanna Troi
+"Are you ready to sacrifice the lives of these others? They'll all die when the cargo bay hatch is blown!"
+"You will die too, Picard!"
+"I would die to save the life of my child."
+"To die defending one's ship is the hope of every Klingon."
+"If you each know the officers you inhabit, then you know they're equally ready to give their lives for this ship."
+
+- Picard, a possessed Data, Keiko O'Brien, and Worf
+"I advise you, Picard, not to pass our way again."
+
+- A possessed Deanna Troi, to Captain Picard
+"Lieutenant, I must apologize for my inadvertent misconduct toward you."
+"No apology necessary."
+"Your restraint was most remarkable."
+"You have no idea."
+
+- Data and Worf
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 26 November 1991 [1]
+Filming starts: 27 November 1991
+Shooting company on holiday: 28 November 1991 – 29 November 1991
+Principal photography wraps: 11 December 1991
+Second unit filming: 12 December 1991
+More second unit filming: 19 December 1991
+Storyboards by Dan Curry: 14 January 1992
+More second unit filming: 23 January 1992
+Premiere airdate: 24 February 1992
+First UK airdate: 29 March 1995
+
+
+=== Story and script ===
+According to the script, working titles for this episode included "The Invaders", "Terror in Ten-Forward", and "Feeling Poorly". [2] "Power Play" was previously a working title for the Star Trek: The Original Series episode "This Side of Paradise".
+The basic story went through several treatments by freelancers before being assigned to Brannon Braga and Herbert J. Wright. (Star Trek: The Next Generation Companion, 2nd ed., p. 192)
+Braga recalled "The first time I wrote it, I thought, bottle show: Ten-Forward, Picard and Troi talk. Mike Piller said don't be afraid to write seven or eight page scenes with Picard and Troi. I said, 'Okay, Mike, I won't.' Jesus! Seven or eight pages? I had a tough time writing that and when I turned it in, Piller said he felt that we'd taken it as far as it could go and we shouldn't produce it. If it had been produced as I had written it, the episode would have been a little too familiar as a hostage show. So what happened was Herb Wright had just come in and Mike said we need some new blood, and gave it to Herb. Together we came up with the twist of them claiming to be the ghosts and that's what I think brought the show level up and gave it a dimension of mystery and twists that it really needed." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 238)
+The shuttle Campbell was named after science fiction author John W. Campbell. (Star Trek: The Next Generation Companion, 2nd ed., p. 193)
+
+
+=== Production ===
+"Power Play" was filmed between Wednesday 27 November 1991 and Wednesday 11 December 1991 on Paramount Stage 8, 9, and 16. The company went on holiday on Thursday 28 November 1991 and Friday 29 November 1991, and the call sheet for 27 November 1991 featured the note "Company Holiday – Happy Turkey Day". Additional days of second unit filming were Thursday 12 December 1991 on Paramount Stage 16, Thursday 19 December 1991 on Paramount Stage 9, and Thursday 23 January 1992 on Paramount Stage 8.
+Director David Livingston recalled that the most enjoyable part of the episode "was taking three of our continuing characters and having them play something entirely different. It was a chance to work with them and create totally new characters, and that was a lot of fun. We came up with names for them on the set. Marina was Slash, Data was Buzz, and Colm was Slugger." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 238)
+Brent Spiner commented, "I always love to play another type of character. The challenge here was to make sure my character didn't sound or act like Lore, and I don't think he did. It's really fun to get those curves, because so much of Data is already defined. When you get to play someone else and let loose like Leonard Nimoy occasionally got to do in the old show, it's really rewarding." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 239)
+This episode was a rare example in which a camera crane was used (in common with second season opener "The Child"). (Captains' Logs Supplemental - The Unauthorized Guide to the New Trek Voyages, p. 14)
+Livingston noted that the crew encountered difficulties while filming on the "Planet Hell" set on Paramount Stage 16. "It was tough because we had atmosphere and wind and lightning. One of those elements is hard enough. Just being on Stage 16 is enough. But we had all of those elements and eventually all the actors had to lie down in them. The stage floor had a sandy surface, so when you have the wind blowing, the sand starts blowing around and I was real concerned about it getting into people's eyes. In fact, Marina's make-up became so messed up that she had to have a complete redo before we could continue shooting that day. We had to go over to Stage 9 and wait for her make-up to be done. Not through any fault of hers, just the fact that she wasn't presentable on screen, because the sand had sandblasted her and she looked like a house after the guys come through with their hoses." (Captains' Logs: The Unauthorized Complete Trek Voyages, pp. 238-239)
+In the scene where the crew is thrown backward by the force of the storm, Marina Sirtis (doing her own stunt) "flung [herself] back, onto [her] coccyx," breaking it. She was the only cast member in the scene to do the stunt herself, despite her face being barely visible in the finished shot. Marina later claimed, "It could have been Worf in Troi's costume and we wouldn't have known the difference." (Journey's End: The Saga of Star Trek: The Next Generation, [3])
+During second unit filming on Thursday 23 January 1992, the company also worked on a Trading Card photo shoot. (Call sheet)
+The release of this episode included on Star Trek: The Next Generation (Blu-ray) contains approximately 1 minute and 41 seconds of SD footage converted to HD.
+
+
+=== Sets and props ===
+Besides the twins, Angela & Angelica Tedeski, portraying young Molly, a stunt prop baby was used during the filming of the Ten Forward scenes. (Call sheets)
+The broken off nacelle of the Campbell later turns up in DS9: "Battle Lines" as the warp nacelle of the doomed runabout USS Yangtzee Kiang.
+
+
+=== Continuity ===
+Starfleet retired the last Daedalus-class starship in 2196.
+The Type 15 shuttlepod Campbell is equipped with seat belts.
+Pattern enhancers make their first appearance in this episode. Here, they are carried in a set of three in a practical carry-bag.
+This is the second episode after TNG: "Clues" in which Deanna Troi is taken over by a non-corporeal lifeform.
+Five years later, in DS9: "The Assignment", Keiko O'Brien is possessed by an alien consciousness in a similar way to her husband Miles in this episode.
+
+
+=== Reception ===
+Brannon Braga remarked, "In the end it turned into a really great action show. To me, it was a breath of fresh air. It had no pretensions. Instead of exploring some theme or idea, it was just action and phaser blasts. What are you going to do, deny that and say it's not fun?" (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 238)
+Michael Piller was not as pleased with the final result. "'Power Play' had the distinction of being one of the best directed episodes of the season, but only made me angry because it was empty [...] It was meant to be a show that was dark and brooding, and the shows I've always used as prototypes were Key Largo and The Petrified Forest. Very contained situations. We had a hard time making that work and making it interesting for five acts. It's not a difficult premise, it's been done on a lot of shows, a lot of times and television has found a way to make those premises kind of work [...] Ultimately it became a major action show and instead of helping us get even, knocked us into the stratosphere. I wasn't very fond of that show, but very fond of David's direction. If that show had any merit at all, it was because he directed it with an extraordinary sense of style. The three actors who were given the job of being the aliens carried it with wonderful performances [...] Brent, Marina and Colm really put together interesting performances, but I was not happy with the script." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 239)
+A mission report for this episode, by John Sayers, was published in The Official Star Trek: The Next Generation Magazine issue 20, pp. 48-50.
+
+
+=== Awards ===
+This episode was nominated for an Emmy Award for Outstanding Individual Achievement in Sound Editing for a Series.
+
+
+=== Video and DVD releases ===
+Original UK VHS release (two-episode tapes, CIC Video): Volume 58, 11 January 1993
+UK re-release (three-episode tapes, Paramount Home Entertainment): Volume 5.5, 7 October 2002
+As part of the TNG Season 5 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lt. Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Rosalind Chao as Keiko O'Brien
+Colm Meaney as Miles O'Brien
+Michelle Forbes as Ro Laren
+
+
+=== Co-stars ===
+Ryan Reid as Transporter Technician
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Joe Baumann as Garvey
+Christine Anne Baur as Corelki
+Bowman as science division officer
+Michael Braveheart as Martinez
+Camara as operations division officer
+Cameron as Kellogg
+Gerard David, Jr. as operations division ensign
+Elliot Durant III as operations division ensign
+Gina Gallante as science division officer
+Keith Gearhart as science division officer
+Melba Gonzalez as civilian
+Rosine "Ace" Hatem as civilian
+Christie Haydon as command division ensign
+Hunt as operations division officer
+Gary Hunter as science division officer
+Mark Lentry as science division lieutenant
+Marin as command division officer
+Debbie Marsh as command division ensign
+Holly McBee as command division officer
+Lorine Mendell as Diana Giddings
+Jay Montalvo as operations division officer
+Michael Moorehead as science divsion ensign
+Denise Lynne Roberts as Patti
+Joycelyn Robinson as Gates
+Lincoln Simonds as operations division officer
+Angela & Angelica Tedeski as Molly O'Brien
+Talbot as Ten Forward waitress
+Patricia Tallman as operations division officer
+Théyard as science division officer
+Guy Vardaman as Darien Wallace
+Christina Wegler Miles as command division ensign
+Harry Young as science division officer
+Unknown performers as
+Operations division officer
+Security officer (voice)
+Ten Forward waiter
+
+
+=== Stunt doubles ===
+Chris Doyle as stunt double for Brent Spiner
+Maria Kelly as stunt double for Michelle Forbes
+Ken Lesco as stunt double for Colm Meaney
+Rusty McClennon as stunt double for Michael Dorn
+Tom Morga as stunt double for Jonathan Frakes
+John Nowak as stunt double for Patrick Stewart
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Margaret Flores – stand-in for Rosine "Ace" Hatem
+Melba Gonzalez – stand-in for Marina Sirtis
+Joe – stand-in for Jonathan Frakes
+Kathy – stand-in for Rosalind Chao
+Tim McCormack – stand-in for Brent Spiner
+Lorine Mendell – stand-in for Gates McFadden, Michelle Forbes, and Patricia Tallman
+Randy Pflug – stand-in for Colm Meaney
+Keith Rayve – stand-in for Colm Meaney
+Richard Sarstedt – stand-in/ photo double for Jonathan Frakes and stand-in for Colm Meaney, Lincoln Simonds, and Ryan Reid
+Sissy Sessions – stand-in for Rosalind Chao
+Terri – stand-in for Marina Sirtis and Michelle Forbes
+Dennis Tracy – stand-in for Patrick Stewart
+James Washington – stand-in for Michael Dorn
+
+
+=== References ===
+19th century; 2168; 2196; access code; afterimage; air vent; anesthizine; anionic energy; anti-grav lift; apology; area; arm; atmosphere; authorization code; away team; bargaining chip; biofilter; body; bone; bracelet; bridge; burial; burn; Campbell; captor; cargo bay 4; cargo bay hatch; cargo transporter; ceiling; century; circle; communicator; computer; concussive charge; conduit; confinement beam; consciousness; coordinates; crash landing; crash site; Daedalus-class; data; deception; deck; degree; density; diagnostic cycle; diagnostic mode; disembodied; distress call; door; dozen; Earth; EM burst; EM field property; electromagnetic discharge; electromagnetic interference; electromagnetic spectrum; electromagnetic storm; electromagnetic whirlwind; emergency bulkhead; emergency forcefield command; emergency landing procedure; emergency medical team; enhancer rod; entity; Essex, USS; evidence; experience; existence; fact; fear of death; Federation; feeding; floor; force field; forward thruster; fracture; Galaxy-class decks; ghost; ghost ship; grass; green; ground cover; guest; happiness; harm; heading; helm; home; hostage; hour; Human history; idea; impact; impulse generator; inclination; indication; injury; injury report; intelligence; internal scanner; ionic cyclone; ionogenic particles; jat'yIn; Jefferies tube; Kelly, Morgan; Klingon; Klingon history; laser scanner; legend; length; life; life sign; lightning; lunch; lying; M-class; Mab-Bu VI; Mab-Bu VI moon; magnetic current; magnetic flux density; magnetic flux density analysis; McKinley Park; meter; micro-optic drill; minute; mood; moon; Mullen, Steven; mystery; Narsu, Uttan; neural net; neural pattern; neutrino; neutrino field; number one; O'Brien, Molly; offline; open-mindedness; orbit; orbital heading; orbital inclination; order; override control; pain receptor; pattern enhancer; pattern lock; penal colony; person; phaser; picnic; place; plasma inverter; plasma shock; pocket; polar orbit; polarity; power; primary speech processor; prisoner; question; range; region; risk; rock; room; safe passage; saucer section; scanner; scientific basis; search pattern; seat belt; secondary booster; Sector 25712; second; security alert; security field; security lockout; security protocol; security team; sensor scan; siege; sign; skeletal system; skin; Shumar, Bryce; south; southern polar region; spirit; spiritual possession; stabilizer; Starbase 12; Starfleet; Starfleet Academy; starship designer; storm front; stun setting; subspace transponder; surface; surprise; sympathy; synaptic activity; synchronous orbit; theory; thing; threat; thruster; torture; trace pattern; trace signature; transporter; transporter array; transporter control; transporter pad; transporter room 3; transporter signal; transporter trace; tree; tricorder; truth; turbolift; turboshaft; Type 15 shuttlepod; Ux-Mal; Ux-Mal star system; Ux-Mal entity; violence; virtual imaging; voice; wind; wind shear
+
+
+=== External links ===
+"Power Play" at Memory Beta, the wiki for licensed Star Trek works
+"Power Play" at Wikipedia
+"Power Play" at MissionLogPodcast.com
+"Power Play" script at Star Trek Minutiae
+"Power Play" at the Internet Movie Database

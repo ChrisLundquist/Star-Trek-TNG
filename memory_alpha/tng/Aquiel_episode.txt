@@ -1,0 +1,230 @@
+Geordi La Forge falls in love with a woman accused of murder in an isolated communication relay station. The Enterprise crew investigates the crime; the only other suspect is a Klingon officer who frequently visited the station.
+
+
+== Summary ==
+
+
+=== Teaser ===
+
+"Captain's log, Stardate 46461.3. We have arrived at a communication relay station near the Klingon border, where we are scheduled to deliver supplies. However, the station has not responded to repeated hails."
+The USS Enterprise-D has sent an away team composed of Dr. Crusher, Lieutenant Commander La Forge, Commander Riker, and Lieutenant Worf over to the Communications Relay Station 47. Upon arriving, they find the station has been abandoned and the audio monitoring system in disarray, with a few thousand subspace messages playing all at once. La Forge manages to deactivate the monitoring system. Investigating a banging noise from a service duct, Riker and La Forge find a large, fluffy white dog, hiding there. The station's shuttlecraft is missing, along with both Starfleet officers, Aquiel Uhnari and Keith Rocha. Dr. Crusher discovers cell residue on a deck plate, which must be the remains of one of the personnel.
+
+
+=== Act One ===
+Crusher confirms that the blood traces match those of Uhnari, so the doctor assumes the cellular residue is Uhnari's also but must study it further in her lab to make certain. Geordi La Forge explains to Riker that encrypted subspace messages are all sent through a particular channel and that someone has tried to bypass the access protocols, perhaps taking or rewriting some of the messages. He also mentions that the security lockouts froze up when it happened. La Forge accesses the station's logs from the nearby quarters but at first can see only a handful of official and personal entries by Uhnari. Perusing the logs, he discovers that the dog was Uhnari's pet. Uhnari seems to be an upbeat person, though she appeared to have some intense friction with Rocha. The computer cuts out.
+Meanwhile in sickbay, Dr. Crusher tries to get a clear DNA sample from the metallic plate; she guesses to Picard and Riker that a high-level phaser blast caused the death. Riker suggests it could have been a Klingon disruptor and then mentions the tampered messages, but Picard needs more evidence, as there hasn’t been a Klingon raid against the Federation in seven years, and he doesn’t want to risk sparking a diplomatic incident. Plus, there's the question of what happened to Rocha. Picard then tells Riker to retrieve Rocha's personnel file from Starfleet Command and to ask Starbase 212 for help in finding the missing shuttle.
+In the quarters on board the station, La Forge orders a diagnostic while he gets an iced coffee from the room's replicator. Soon, he gets a visual of Uhnari.
+
+
+=== Act Two ===
+Uhnari's personal letters continue to reveal her to be a spirited, romantic Haliian woman who was abused by her father, is intensely homesick for the rest of her family and traditions, and has difficulty getting along with "egomaniac" Rocha. At one point, she confesses to countermanding his orders by taking on additional com traffic, which Rocha ordered her not to, as he believed they could not handle the signal load. Uhnari tells her sister that Rocha will be furious with her when he eventually finds out. Uhnari also mentions in her log that a Commander Morag, an aggressive Klingon, has been harassing and threatening the station. La Forge reports this to Captain Jean-Luc Picard, who then asks the Klingon governor Torak to investigate. At first, the governor is hesitant to help, but Picard uses his influence as Gowron's Arbiter of Succession to convince him to assist.
+La Forge watches more of Lieutenant Uhnari's personal logs in his quarters. In the log, she states that she misses her mother's own muskan seed punch and how the replicators on the station cannot quite make it the same when a loud bang is heard. Uhnari asks if it is Rocha. The log suddenly goes to static.
+Back on the station, Worf, Riker, and La Forge continue the investigation. Worf has discovered traces of Klingon DNA. La Forge has most of Uhnari's logs but cannot find Rocha's, telling Riker that whatever happened to the station's encrypted messages had a cascade effect on the communications storage system.
+Eventually, the governor arrives at the Enterprise's position on the IKS Qu'Vat. Worf escorts Torak to the observation lounge, and the governor has Uhnari brought in, with her uniform torn and looking battered but very much alive.
+
+
+=== Act Three ===
+Uhnari claims that Rocha suddenly and irrationally attacked her; she first tried to access the weapons locker, but next remembers escaping in the shuttle; she was picked up by the Klingons. Possibly owing to a head injury, Uhnari's memory for exactly what happened is spotty, she notes it's as if her memories of the incident have been drained out of her, but she doesn't remember Morag on the station when she left. Torak is faced with the evidence of Klingon DNA on the station, and continues to be angered by the accusation of any Klingon involvement. He permits them to talk to Morag. Dr. Crusher now assumes that the cellular residue on the station's deck plate is Rocha, but continues to analyze it.
+While they wait for Commander Morag to arrive, La Forge escorts Uhnari out of the lounge, telling her he has a friend of hers that is probably eager to see her. La Forge brings Uhnari to his quarters, where he reunites her with her dog. The dog's name is revealed to be Maura, named after a character in Cold Moon Over Blackwater, a gothic novel. La Forge says Uhnari probably wants to be left alone in her assigned quarters after her recent ordeal, but she tells him that she would like to go to a place that has a lot of activity since she has spent nine months on the station with only Rocha to talk to. They go to Ten Forward, where La Forge reveals that he knows quite a bit about Uhnari, such as getting her muskan seed punch to drink and that she lived on a house on a hill growing up. When the lieutenant is surprised, La Forge confesses that he has reviewed her logs, as well as her personal correspondence. He explains that they thought she had been murdered and needed to investigate. Visibly upset, she first sees it as an invasion of privacy, but eventually comes to understand. La Forge brings up her contemptuous relationship with her superior officer, Keith Rocha. She considered him hostile and obnoxious and felt she had to battle him to hold her own. But, she insists, she did not want to see him dead. La Forge asks why Rocha attacked her but Uhnari does not know. While taking Uhnari to her quarters, she asks La Forge, since he knows her the best from anyone on the Enterprise, if she seems like a person who would murder someone. La Forge admits she doesn't. She wishes him a good night in Haliian.
+Riker has Rocha's and Uhnari's Starfleet files brought up to Picard on his desktop monitor. According to Rocha's file, he seems to have been a bright and promising officer, not as nasty as Uhnari's experience of him. Uhnari's records, on the other hand, show her to be difficult and argumentative from her previous posting on Deriben V. Picard orders Riker to examine the shuttle thoroughly to shed more light on her story, since there's still no hard evidence. There, Worf finds a missing phaser from the station in a small compartment under the shuttlecraft's helm controls: it is set to kill.
+
+
+=== Act Four ===
+"Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha."
+
+Circumstantial evidence now points to Uhnari as possibly having killed Rocha, but she hotly denies this to Riker and Worf. Riker informs her that the phaser was found set on level ten, and all phasers in weapons lockers are required to be set on level one. Uhnari still cannot recall what happened after her struggle with Rocha but admits she may have used the phaser in self-defense. Riker tells her that to inflict the cellular damage found in Rocha's remains, it would take a sustained phaser blast on level ten of thirty to forty seconds. At this point, La Forge defends her, saying that the phaser found hasn't even been established to be the murder weapon. La Forge tells Riker he is heading back to the station to try to retrieve Rocha's logs. Riker stops him on the way out and asks him as a friend and not his superior officer that he not get more involved with Uhnari so his relationship doesn't cloud his judgment. La Forge responds back that he's "not the one making judgments."
+Commander Morag arrives shortly thereafter. He describes how he investigated the station when they did not answer his hails. He also confesses that he was the one who tried to bypass the access protocols and filched 27 priority Starfleet messages, but that while he saw blood and signs of a struggle, he did not kill anyone. Torak has Morag remain on the Enterprise under Starfleet custody at Picard's request, as he does not want to cause a diplomatic incident with the Federation.
+On the station, La Forge discovers that Uhnari had established a subspace link with a console on the relay station and deleted a number of Rocha's personal logs, including a letter he was planning to send to Starfleet Command. Citing her as "belligerent and insubordinate," Rocha had planned to ask for a formal hearing. She explains that she did so because she was afraid that if Starfleet found the letter, they would place the blame on her for the murder. Knowing her pattern of running away in panic when she is afraid, La Forge advises her to stay and face what has happened, and she agrees. They kiss passionately.
+
+"Medical officer's log, supplemental. I've isolated the cellular residue from the deck plate, but the DNA has destabilized. I'm attempting to reform it."
+On the Enterprise, Dr. Crusher continues to examine the cellular residue in sickbay; she is having trouble getting a stable DNA reading and finds that the nucleotide sequence is fluctuating. Suddenly, upon contact with her skin, the residue takes the form of her hand.
+
+
+=== Act Five ===
+
+On the station, Uhnari and La Forge are quite close, and she introduces him to a Haliian custom in which their minds can telepathically connect, amplified by a large crystal ornament called a canar.
+Meanwhile, Crusher explains to Picard that the remains are not Rocha's either but a coalescent organism that feeds off other lifeforms and then assumes their shape. Rocha had never worked at the station; it was the shapeshifter that killed him at his last post of duty, in the remote Triona system, and took his place. Crusher warns that what appears to be Uhnari may actually be the creature, but the same also applies for Morag. Worf and Riker leave to find them. Riker enters as La Forge and Uhnari are linked by the canar, aiming his phaser at the lieutenant and telling her to step aside from La Forge.
+
+"Medical officer's log, supplemental. Commander Morag and Lieutenant Uhnari are being kept under close observation. So far, no sign of coalescent behaviour has surfaced."
+While Uhnari and Morag are being examined, La Forge returns to his quarters, where he's been keeping Maura. The dog approaches him; he assumes she wants to play, but suddenly, Maura begins to morph into the coalescent organism they are searching for and attacks La Forge. With the organism blocking his escape route, he grabs his phaser that was in his drawer and fires, but it does no damage to the organism. La Forge resets his phaser to maximum and fires again, vaporizing the organism completely. Catching his breath, La Forge sits on the floor, relieved and thankful to be alive.
+In Ten Forward, La Forge tells his theory that Uhnari's memory loss after the Rocha-like creature attacked her was caused by the beginning of the coalescing process; she felt her memory was being drained out because it was. Uhnari realizes she may indeed have taken the phaser and shot. She is grateful to La Forge for his advice and friendship but refuses his offer to recommend her for a post in communications on board. She knows she is not an ideal Starfleet officer but tells him she is considering staying in Starfleet and perhaps one day serving aboard the Enterprise – when she can earn the position on her own merits. La Forge takes her hands and holds them. She holds his as well.
+
+
+=== Log entries ===
+Captain's log, USS Enterprise (NCC-1701-D), 2369
+Medical officer's log, USS Enterprise (NCC-1701-D)
+
+
+== Memorable quotes ==
+"The Klingon Empire will not stand for these kinds of lies!"
+"Governor Torak… I apologize. I can see that you honestly didn't know what happened aboard the station. I will just have to take this matter up with Gowron. I'm really sorry that we bothered you."
+
+- Torak speaking with Picard, after Aquiel Uhnari stated in a log she was harassed by Morag, a Klingon
+
+"We found traces of Klingon DNA on the station."
+"You still try to blame us?!"
+"Have the courage to admit your mistakes. Or are you a lo'Be Vos?"
+"At least I do not wear the uniform of the petaQ!"
+
+- Worf and Governor Torak butting heads
+
+"Governor, we are merely exploring all the possibilities. Lieutenant Uhnari's logs reported that Commander Morag had been harassing the station."
+"He was doing his job."
+"If he was only doing his job, then I'm sure you won't mind if we spoke with him."
+"Very well. In the interests of diplomacy, I will allow you to speak to Morag. But my patience has limits!"
+
+- Captain Picard and Governor Torak
+
+"You know me better than anyone here. Do I seem like the kind of person who would murder someone?"
+"No, you don't."
+
+- Aquiel Uhnari and La Forge
+
+"I think you've let your personal feelings cloud your judgment."
+"I'm not the one making judgments."
+
+- Riker and La Forge
+
+"Geordi?"
+"I can see you. Oh, and I can feel you."
+
+- Aquiel Uhnari and La Forge, while they both use the canar to create a bond between them
+
+"What are you doing, Commander?"
+"That may not be Lieutenant Uhnari."
+
+- La Forge to Riker, while he has a phaser pointed at Aquiel
+
+"Concerned?"
+
+- Counselor Troi, her only line of dialogue
+
+
+== Background information ==
+
+
+=== Production history ===
+Final draft script: 5 November 1992 [1]
+Premiere airdate: 1 February 1993
+First UK airdate: 4 October 1995
+
+
+=== Story and script ===
+
+This story began as another attempt at providing La Forge with a recurring romance. Jeri Taylor recalled, "We were looking for a new spin to put on a love story. A straight love story didn't seem good enough." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+At Michael Piller's suggestion, the romance was tied into a mystery in the manner of the 1944 film Laura, starring Gene Tierney, in which a detective investigating the murder of a woman named Laura falls in love with her, only to discover that she is alive and may herself be a killer. (Star Trek: The Next Generation Companion, 2nd ed., p. 232)
+With Colm Meaney (Miles O'Brien) and Rosalind Chao's (Keiko O'Brien) departure from the series to Star Trek: Deep Space Nine, TNG had lost its only married couple. It was hoped that this episode would show that marriage and serious relationships still existed in the 24th century. As Taylor observed, "We now portray the twenty-fourth century as being full of single people […] It seems to me that's not the comment we should be making – that marriage and serious relationships do survive into the twenty-fourth century." (Star Trek: The Next Generation Companion, 2nd ed., p. 232) One season later, however, recurring Nurse Alyssa Ogawa and her husband Andrew Powell started a family, so eventually the idea was pursued.
+Brannon Braga, Ronald D. Moore and Taylor spent two days breaking the story. Braga recalled that it was a "torturous experience". (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+At first, Aquiel was to have been the killer, but it was felt that this was too similar to the film Basic Instinct. Keith Rocha and Morag were next considered, but dismissed as too obvious. According to Moore, "At one point, we finally said 'Why not the dog?' He had always been in the script; we had meant to leave him with Geordi from that time on." Moore joked that he and Braga had considered calling the episode "Murder, My Pet!" (Star Trek: The Next Generation Companion, 2nd ed., p. 233)
+Early drafts of the script included more backstory and family history for La Forge. This was dropped as it was felt that it was loading down the story. (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269-270)
+The writers struggled with creating a mystery that couldn't be solved by 24th century technology. Moore remembered, "We were at pains trying to make the murder mystery harder than it needed to be, so the script became very technobabble heavy." He added, "Technology had run amok on the show. People had gotten careless about establishing what devices like the tricorder could do, and we were stuck with that. Walk into a room with a tricorder and it could tell you who'd been in there, and what they'd done […] We were always trying to trip up the technology. It was just too powerful." (Star Trek: The Next Generation 365, p. 290)
+
+
+=== Production ===
+Maura was played by Friday, a terrier mix. The dog had previously played Commissioner Robert Scorpio's dog on General Hospital. (Star Trek: The Next Generation Companion, 2nd ed., p. 233)
+The golden tape in Aquiel Uhnari's quarters aboard the station was previously worn by Nehemiah Persoff as Palor Toff in the third season episode "The Most Toys".
+The look of the coalescent organism disappointed the staff. Visual Effects Supervisor Ronald B. Moore recalled that many names were given to the creature, and that "Mr. Peanut was probably the kindest that I had." (Select Historical Data Year Six: To CGI or Not to CGI, TNG Season 6 DVD special feature) Moore noted that the effect was subcontracted out and was delivered without enough time for the touch-ups to add texture and motion that he felt were needed. (Star Trek: The Next Generation Companion, 2nd ed., p. 233)
+
+
+=== Continuity ===
+It is noted that at this point there has been no Klingon raid on the Federation in "seven years" (i.e. since 2362). Ronald D. Moore added this to show that the situation could still be uneasy in the Federation-Klingon alliance. (Star Trek: The Next Generation Companion, 2nd ed., p. 233)
+There are several references barely legible in Keith Rocha's log on the screen, including his linking of an Andorian comm channel, having a competition with a Ryan aboard the USS Saratoga, Starbase 237 in the Delta Vega sector, and that Starfleet had diverted several starships to "the Epsilon IX station", implying they rebuilt it after its destruction by V'ger in Star Trek: The Motion Picture.
+In the scene where Geordi finds that a log has been deleted, he asks "Where are the log entries for StarDate 46459?" but the missing StarDate is 45459.
+
+
+=== Reception ===
+Many production staff members were disappointed with this episode, considered to be the weakest of the generally good sixth season. (Star Trek: The Next Generation Companion, 2nd ed., p. 233)
+Jeri Taylor felt that Renée Jones was not suited to the nature of the series and that there was little chemistry between her and LeVar Burton. She commented, "Star Trek sometimes does to actors what it does to writers – people who are very effective in one kind of thing feel very exposed. So I don't think this was quite her cup of tea." (Star Trek: The Next Generation Companion, 2nd ed., p. 233)
+When asked what he would have done differently in his time on Star Trek, Ronald D. Moore stated that he would not have written "Aquiel". (AOL chat, 1997)
+Moore did, however, enjoy the Klingon subplot. "I thought it was a nice little runner. I didn't want to make that any bigger than it was. But in the final product, it was one of the more intriguing things […] it was just a cool little C story." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+Brannon Braga had mixed feelings. He recalled, "I thought it was going to be terrible, but when I sat down and watched it I kind of liked the mystery. I rather enjoyed that the dog did it. Ultimately, I didn't think the romance part worked but I liked the feel of the episode, which had a rather tragic, mysterious feel to it." (Captains' Logs: The Unauthorized Complete Trek Voyages, p. 269)
+
+
+=== Video and DVD releases ===
+UK VHS release (two-episode tapes, CIC Video): Volume 70, 6 September 1993
+As part of the TNG Season 6 DVD collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Patrick Stewart as Capt. Jean-Luc Picard
+Jonathan Frakes as Cmdr. William Riker
+
+
+=== Also starring ===
+LeVar Burton as Lt. Cmdr. Geordi La Forge
+Michael Dorn as Lieutenant Worf
+Gates McFadden as Dr. Beverly Crusher
+Marina Sirtis as Counselor Deanna Troi
+Brent Spiner as Lt. Commander Data
+
+
+=== Guest stars ===
+Renée Jones as Aquiel Uhnari
+Wayne Grace as Torak
+
+
+=== Co-stars ===
+Reg E. Cathey as Morag
+Majel Barrett as Computer Voice
+
+
+=== Uncredited co-stars ===
+Arratia as Alfonse Pacelli
+Michael Braveheart as Martinez
+Cameron as Kellogg
+Tracee Lee Cocco as Jae
+John Copage as science division officer
+Friday as Maura
+Christie Haydon as command division ensign
+Kerry Hoyt as operations division ensign
+Arvo Katajisto as Torigan
+Rad Milo as operations division ensign
+Michael Moorehead as science division ensign
+Joycelyn Robinson as Gates
+Noriko Suzuki as operations division ensign
+Natalie Wood as Bailey
+Unknown performers as
+Command division lieutenant
+Female command division officer
+Female science division officer
+Female science division officer
+Klingon officer
+Keith Rocha
+Ten Forward waitress
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for LeVar Burton
+Debbie David – stand-in for Brent Spiner
+Michael Echols – stand-in for Michael Dorn
+Nora Leonhardt – stand-in for Marina Sirtis
+Lorine Mendell – stand-in for Gates McFadden
+Richard Sarstedt – stand-in for Jonathan Frakes
+Dennis Tracy – stand-in for Patrick Stewart
+
+
+=== References ===
+23rd century; 2362; 2368; 47; accusation; alpha shift; Aquiel's parents; Arbiter of Succession; audio monitoring system; bark; Batarael; beta shift; canar; cellular level; coalescent organism; Cold Moon Over Blackwater; communication relay station; cycle; deck plate; Deriben V; diagnostic cycle; disruptors; DNA; duty engineer; duty roster; evidence; Fatal Revenge, The; Federation; Federation-Klingon border; formal hearing; generation; gothic fiction; governor; Gowron; Haliian; Haliian language;  Horath; hour; iced coffee; impulse propulsion officer; irritable; Klingons; Klingon Empire; Klingonese; Klingon patrol ship; Klingon space; level 2 diagnostic; level 2 specialist; level 3 diagnostic; lie; Maura (character); Maura (imposter); memory module; message delay buffer; micro-vaporize; Milky Way Galaxy; Muskan seed punch; network relay tech; nucleotide sequences; nightstand; nowadays; oumriel; Pendleton; Personal log, Aquiel Uhnari; Personal log, Keith Rocha; petaQ; phase inducer; phaser discharge; playback; pooch; phaser, type 2; Qu'Vat, IKS; Relay Station 47; Relay Station 194; remote sector; Sector 2520; sense of humor; service duct; Shianna; shuttlecraft; Starbase 12; Starbase 212; Starfleet; Starfleet Command; subspace relay station; suspect; transporter systems officer; Triona outpost; Triona system; Triona system sector; Type 6 shuttlecraft; Uhnari's former commanding officer; Verne; Vor'cha-class; waiting list; warp propulsion officer; wig
+
+
+==== Other references ====
+Personal Service Record – Keith Rocha: Beta'Elan Minor; Drexler, Douglas; Mare Tranquillitatis, USS; Network relay technician; New Lagos; Omega Cluster; Ops; Rocha, Bradley T.; Rocha, Wendy D.; Sector Ipai
+Subspace Com Link 047: Delta Vega sector; Epsilon IX station; Rocha, Keith; Sector 32834; Starbase 11; Starbase 237; Starbase 515; Taylor
+Sector Ipai Relay Log: Caroliqe, CGN; CGN; Charleston, USS; Commnet Three; Commnet Six; Commnet Seven; Commnet Ten; extragalactic space; GCA; Hood, USS; K'Warko, USS; Mark VII warp drive; Merrimac, USS; Metlaok, GCA; Quiele, USS; Relay Station 001; Relay Station 67; Relay Station 102-A; Relay Station 452; Relay Station 6110; Relay Station 902N; Romulan Neutral Zone; Sector 001; Sector 0912; Sector 1540; Sector 5561; Sector 6701; Sector 8912; Sector 21834; Sector 22055; Sector 23891; Sector 25712; Sector 80912; Sector 89102; Starbase 58; Starbase 78; Starbase 4112; Starbase Meta; Starfleet Commnet One; Starfleet Commnet Three; Starfleet Commnet Four; Starfleet Commnet Seven; Zhukov, USS
+Starfleet Comm Traffic 77813: Molokai, SS; Science Station 0812
+Ops Record 44712: Research Station 091
+Personal log, Keith Rocha: Epsilon IX station; Epsilon IX starships
+Starship mission status: Ajax, USS; Alpha Laputa IV; Ambassador-class; Apollo-class; Aries, USS; Berlin, USS; Beta Mahoga system; Bradbury, USS; Bradbury-class; Charleston, USS; Constellation-class; Epsilon Ashanti III; Excelsior-class; Fearless, USS; Goddard, USS; Hood, USS; Korolev-class; Merced-class; Merrimac, USS; Monitor, USS; Nebula-class; New Orleans-class; pulsar; Renaissance-class; Repulse, USS; Romulan Neutral Zone; sector; Sector 21538; Sector 21602; Sector 22036; Sector 22055; Sector 22358; Sector 22846; Sector 22853; Sector 23079; Starbase 174; Starbase 414; Thomas Paine, USS; Trieste, USS; Victory, USS; Vulcan Science Academy; warp drive; Zhukov, USS
+Spacecraft Systems Status: Bussard collector; captain's yacht; class M; gross vehicle mass; impulse engine; main shuttlebay Mars; navigational deflector; observation lounge; phaser bank; service docking port; shuttlebay 2; shuttlebay 3; torpedo launcher; umbilical connect port; Utopia Planitia; warp nacelle
+Engineering Dept Duty Roster: chief engineer; duty engineer; impulse propulsion officer; transporter systems officer; warp propulsion officer
+
+
+=== External links ===
+"Aquiel" at Memory Beta, the wiki for licensed Star Trek works
+"Aquiel" at Wikipedia
+"Aquiel" at MissionLogPodcast.com
+"Aquiel" script at Star Trek Minutiae
+"Aquiel" at the Internet Movie Database

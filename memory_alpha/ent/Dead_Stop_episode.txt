@@ -1,0 +1,254 @@
+Enterprise docks with a strange, automated repair space station, which proves too good to be true.
+
+
+== Summary ==
+
+
+=== Teaser ===
+Following an encounter nearly four days earlier with a Romulan mine, Enterprise has suffered damage that requires extensive repairs. Trip Tucker estimates that he needs three to four months to complete the repairs, assuming they can even find tritanium alloy. Moreover, the damage is so extensive that Enterprise cannot travel faster than warp 2.1, leaving Enterprise about a decade away from Jupiter Station.
+Given their dire situation, Captain Archer orders Hoshi Sato to send out a distress call asking for assistance with repairs.
+
+
+=== Act One ===
+Meanwhile, Malcolm Reed is in the middle of rehabilitation following the serious leg injury he sustained while trying to disarm the mine. He is frustrated to learn from Doctor Phlox it will be another week or two before he can return to duty.
+
+The Enterprise's call is answered by a Tellarite freighter, however, they are only barely within range of communication, so they only receive coordinates to a repair station. T'Pol believes the Tellarites are trustworthy for the most part, so Archer decides to head to the station. Three days later, they arrive at a repair station. It doesn't answer Archer's hail, and, interestingly, has a liquid helium atmosphere inside, with a temperature 270 degrees below zero. Soon, though, a biomolecular scan blinds the crew briefly and T'Pol identifies it as originating from the station. One of the docking berths then widens just enough to fit the ship. T'Pol also sees that the atmosphere has changed to accommodate the crew. With few options, Archer orders Travis Mayweather to take them in.
+Still without instruction, Archer, Tucker and T'Pol carefully board the station. They find it to be completely automated, but quite sophisticated. They seem to be led via the lights to a holographic projector illustrating their ship with damaged areas highlighted. The detail impresses them – even the scratch on the hull that Tucker had made with an inspection pod and intended to fix a year ago but hadn't gotten to yet. They soon find that the text is all in English and the station had even scanned the crew, with a diagram of Reed's injury displayed.
+Finally, the computer speaks to them, having completed its analysis and requesting form of payment. Archer hesitates and asks to speak to someone, but the computer simply says it doesn't understand his request. The computer promises to complete the repairs in 34.2 hours, surprising Tucker (the work would take Jupiter Station three months). Listed are a few ways to pay, and, after discussing the loss of any irreplaceable items, they settle on an exchange of two hundred liters of warp plasma. T'Pol suggests it's a fair exchange, so Archer agrees. Immediately, the computer generates a repair schedule and advises the crew to leave the areas under construction. Huge mechanical arms go toward the ship, and Archer confirms to Mayweather not to be concerned.
+The computer then opens a room and explains it is for recreation, open to the entire crew. Cautiously, the crew enter.
+
+
+=== Act Two ===
+Archer, Tucker, and T'Pol explore the recreation area. It's quite bland, with a large window giving them a view of Enterprise in the repair dock. Interestingly, though, there is are replicators imbedded in the tables. T'Pol explains that they're far more advanced than protein resequencers and orders a glass of cold water, adding that she'd seen something similar on a Tarkalean ship. Tucker tries ordering a meal of pan-fried catfish and, when they see it, T'Pol realizes it scanned their database or it wouldn't have been able to reproduce the catfish genome or the recipe. Archer is concerned about the breach of privacy, decides he prefers Chef's cooking and leaves to go to the bridge.
+Meanwhile, a device from the station was put in sickbay to repair Reed's leg. Phlox monitors the device as it very efficiently works. He remarks he'd like to trade something for one of them. It soon completes and disappears. Phlox confirms there isn't even a scar and Reed easily walks without pain.
+T'Pol reports on the progress to Archer in his ready room. Despite the stated agreement, Archer is troubled that the station's builders are nowhere to be found, nor did they leave any kind of message. He also can't shake the bad feeling that such extensive repairs are being conducted for a relatively insignificant payment. T'Pol tries to alleviate his concerns, suggesting that the station's builders may have wanted to simply help other ships and wish to remain anonymous.
+
+Later, much of the crew is in the recreation room. Tucker and Reed talk about the amazing technology and its impacts on their roles. Tucker also shares with Reed the fact that he is mystified that the station's computer core, despite being far more advanced than the one used by Enterprise, appears to be much smaller than they would have expected. The two decide to try and access the restricted compartment to have a look, but they are detected before they get too far and are transported back to Enterprise's bridge in front of T'Pol. Archer gives the two a dressing down for acting without authorization and as senior officers, setting a bad example for the rest of the crew. He confines them both to quarters but takes the chance to ask if they noticed anything unusual.
+Meanwhile, Mayweather is contacted by the captain in his quarters and asked to come to launch bay 1. He thought it was off-limits, but the captain says not anymore. However, when he gets there, no one is to be seen and there is an odd gap in the wall. Archer is called down to find out later that Mayweather is dead.
+
+
+=== Act Three ===
+The evidence suggests that Mayweather disobeyed orders to stay out of the sections under repair, leading to his death by isolytic shock. However, Archer refuses to believe that Mayweather was that foolish. He orders an investigation and security to be posted around all areas under construction. Commander Tucker says that Travis did not check with him about performing maintenance. Further, Commander Tucker says that the last time he saw Travis, he and Hoshi were having dinner on board the repair station earlier in the evening and seemed normal. Archer orders Hoshi be interviewed about Travis's
+recent activities. Archer goes to see if the station's computer has a record of what happened, but it simply says it doesn't recognize his questions.
+Sato enters sickbay to say goodbye to Mayweather as Phlox performs the autopsy. He lets her say what she needs to, but then sees something odd on the monitor. Meanwhile, Archer goes to Reed in Mayweather's quarters, but no more information is to be found. Phlox calls him to sickbay to reveal that the body is not Mayweather's, but that of a near-perfect replica: even if Mayweather was dead, there would still be microorganisms (from a Rigelian fever vaccine recently administered ship-wide after a crewmember was infected with the disease) living in the bloodstream, but they are also dead. Since they thrive on isolytic energy, the shock that killed Mayweather would have, if anything, increased their number. Doctor Phlox suggests that replicating living organisms is beyond the abilities of the station.
+The captain decides to investigate the matter in more detail and assembles a team to reach the computer core, using Tucker and Reed's previous infiltration as an advantage. While Tucker keeps the computer occupied with banter after delivering the payment of warp plasma, Archer and T'Pol follow Reed into the same crawlspace as before. Reed trips the same trigger and is transported to the bridge again. T'Pol and Archer use phase-pistols and blast the trigger and the door. They arrive, and are surprised by what they find: dozens of unconscious bodies, all connected to the computer.
+
+
+=== Act Four ===
+The computer blares a message about the intrusion as they investigate. The bodies are still alive, but (with the exception of Mayweather) their cerebral cortices have been reorganized by the station's core, causing irreversible brain damage.
+When they disconnect Mayweather, the station turns hostile. The station clamps on to the ship and, through the umbilical connect port, turns off various systems and locks them out. Archer and T'Pol are able to blast through a wall and bring Mayweather back to the ship. With everyone finally back aboard Enterprise, the station refuses to let the ship disembark. It threatens to destroy the ship, locking out the crew from all systems.
+
+Archer still has an ace up his sleeve, however, as he had arranged to place a detonator next to the plasma canisters of their payment. The detonator ignites the plasma and seemingly destroys the station, finally allowing Enterprise to escape, repaired and with its entire crew.
+As Enterprise warps away, however, some parts of the repair station that had been left in ruins slowly come together and begin repairing themselves...
+
+
+== Log entries ==
+"Captain's starlog, supplemental. It's been almost four days since the incident in the Romulan minefield. Repair teams have been working around the clock. Nerves are definitely frayed."
+
+
+== Memorable quotes ==
+"We've answered enough calls for help over the past year – it's time someone returned the favor."
+
+- Archer
+
+"It can't be ethical to cause a patient this much pain."
+"It's unethical to harm a patient; I can inflict as much pain as I like."
+
+- Reed and Phlox
+
+"Your inquiry was not recognized."
+
+- Automated repair station
+
+"Evenin' sub-commander!"
+
+- Tucker, after he and Reed are transported onto the bridge
+
+"These repairs are one hell of a bargain at only two hundred liters of warp plasma, don't you think?"
+
+- Archer, to T'Pol
+
+"We're explorers. Where's your spirit of adventure?"
+"I left it in a Romulan minefield."
+
+- Tucker, asking a reluctant Reed to join him in getting a look at the automated repair station's computer
+
+"Computer, begin recording. Subject's name: Ensign Travis Mayweather, Human male. Weight: 72 kilograms. Age: 26 Earth years. Far too young to be on this table."
+
+- Phlox, beginning a postmortem on Mayweather's "corpse"
+
+"I wanted to say goodbye."
+"You may find this disturbing."
+"I've seen a body before, fifteen of them on that alien ship."
+
+- Sato, asking Phlox if she can see Mayweather's "body"
+
+"It might comfort you to know, he felt very little pain – an isolytic shock instantly impairs the...(the doctor starts to lose concentration when he looks at his PADD) the nervous... (looks up at the biobed scan) that's odd... they're dead! All of them!"
+
+- Phlox, comforting a distraught Sato during Mayweather's autopsy, only to realize her grief might be premature
+
+"Did you find something?"
+"As a matter of fact, I did – this is not Ensign Mayweather!"
+
+- Archer and Phlox, revealing the shocking truth
+
+"It's ironic, in a way. The station can duplicate a dead Human body in all its exquisite detail, yet a living, simple one-celled organism is beyond its capability."
+
+- Phlox, describing the station's bio-replicator
+
+"The station's got us by the thrusters."
+
+- Tucker, as Enterprise is trying to get away from the repair station
+
+"You look pretty good for a dead guy."
+
+- Archer, to Mayweather
+
+"I think it's time we deliver our payment."
+
+- Archer, ordering Reed to ignite the warp plasma on the station
+
+"But what about all those other people?"
+"According to T'Pol's scans, most of them had been there for... years. The damage to their brains was irreversible."
+
+- Mayweather, concerned for the other lifeforms kidnapped by the station, and Phlox
+
+
+== Background information ==
+
+
+=== Production timeline ===
+Production number: 011-40358-031
+Final draft script: 8 August 2002 [1]
+Working title: "Slip Two"
+Filming:
+Day 1 – 12 August 2002, Monday
+Day 2 – 13 August 2002, Tuesday
+Day 3 – 14 August 2002, Wednesday
+Day 4 – 15 August 2002, Thursday
+Day 5 – 16 August 2002, Friday
+Day 6 – 19 August 2002, Monday
+Day 7 – 20 August 2002, Tuesday – Paramount Stage 9: alien cooling duct, adjoining duct, alien computer core, alien station corridor; Paramount Stage 18: bridge, engineering
+Airdate: 9 October 2002
+
+
+=== Story and script ===
+Brannon Braga and John Shiban conceived of this episode's concept while developing "Minefield". Shiban noted to Star Trek Monthly issue 106, "the usual thing to do would be that the ship is all repaired and everything is back to normal next week, but Brannon and I really felt like this had to be important, that the ship had been damaged," referring to the follow-up episode as "continuity without being serialized." [2]
+In the audio commentary for this episode, Mike Sussman and Phyllis Strong reiterate that this episode was an attempt to diverge from previous episodes of Star Trek in which a ship is critically damaged in one episode, but miraculously repaired in the next, with no mention of repair work.
+
+
+=== Production ===
+Roxann Dawson not only directed this episode, but also performed as the voice of the automated station. According to the audio commentary by the episode's writers, several actors auditioned for this voice part but Dawson read it best.
+
+
+=== Costumes and props ===
+The automated repair station's medical re-generator was a modified reuse of the exocomp from TNG: "The Quality of Life".
+The prop in the middle of the diagnostic room was a re-use of the artificial intelligence from the episode VOY: "Think Tank". The model itself was previously re-used in the episodes "Flesh and Blood" and "The Voyager Conspiracy".
+Dominic Keating's sickbay outfit, a warp plasma canister, and the prop holographic diagnosis unit were later sold off on the It's A Wrap! sale and auction on eBay.  [3](X) [4](X) [5](X)
+
+
+=== Continuity ===
+The plot of this episode continues from "Minefield", with Enterprise seeking repairs after being damaged in that episode, as well as Reed still recuperating from the injuries suffered during the encounter. Many episodes in the first two seasons would end with a hint toward the setup for the following episode, and/or reference the events from the immediately preceding one, but this is a more prominent example of an episode prior to season three which carries on directly from the previous episode without being a multi-part episode.
+Trip Tucker makes reference to scratching the hull in an inspection pod. This is reference to the pilot episode "Broken Bow", where he does indeed scratch the hull. "Broken Bow" took place about a year before this episode, and the time reference is correct.
+This episode shows taken-for-granted Federation technologies, such as the food replicator and medical regenerator, before Starfleet has devised them for themselves.
+This was the second time Roxann Dawson voiced a spacecraft. Previously, she voiced the Cardassian computer in VOY: "Dreadnought", although in that case it was specifically stated that B'Elanna Torres, also played by Dawson, had reprogrammed Dreadnought's original computer voice to her own, out of frustration with the original voice.
+Ensign Mayweather has a model of the Nomad probe, in its initial configuration, in his quarters. The probe originally appeared in TOS: "The Changeling".
+According to Phlox's autopsy report, Mayweather weighed 72 kilograms (about 159 pounds).
+Tarkaleans are referenced the first time on Star Trek: Enterprise in this episode. Tellarites are mentioned the third time following "Civilization" and "Carbon Creek", though it is the first time we hear a Tellarite. Species previously seen in other Star Trek series and films make their first and only appearance in Enterprise, namely Ellora, Xepolite, Cardassian, and Vaadwaur.
+
+
+=== Reception ===
+This episode was nominated for an Emmy Award for Outstanding Special Visual Effects for a Series in 2003. The nominees were Robert Bonchune, Arthur Codron, Pierre Drolet, Steve Fong, Koji Kuramura, Sean Scott, John Teska, Greg Rainoff, and Mitch Suskin.
+
+
+=== Apocrypha ===
+The automated repair station's network resurfaced as the focal point of the novels Uncertain Logic and Live by the Code.
+
+
+=== Video and DVD releases ===
+As part of the ENT Season 2 DVD collection
+As part of the ENT Season 2 Blu-ray collection
+
+
+== Links and references ==
+
+
+=== Starring ===
+Scott Bakula as Jonathan Archer
+John Billingsley as Phlox
+Jolene Blalock as T'Pol
+Dominic Keating as Malcolm Reed
+Anthony Montgomery as Travis Mayweather
+Linda Park as Hoshi Sato
+Connor Trinneer as Charles "Trip" Tucker III
+
+
+=== Uncredited Co-Stars ===
+Ryan Adams as Ellora
+Adam Anello as operations crewman
+Michael Braveheart as Klingon
+Breezy as Porthos
+Solomon Burke, Jr. as Billy
+Mark Correy as Alex
+Roxann Dawson as repair station computer voice
+Michael Doherty as repair station alien
+Michelle Dotson as Pelian
+Hilde Garcia as Rossi
+Robert Garcon as operations crewman
+Lindly Gardner as operations crewman
+Peter Godoy as operations crewman
+Bryan Heiberg as operations crewman
+Scott Hill as Hutchison
+Dieter Hornemann as member of Kago's species
+Amina Islam as command ensign
+Roy Joaquin as sciences crewman
+John Jurgens as command crewman
+Andy Keith as sciences crewman
+Brad Lee as Kreetassan
+Mark Major as Vulcan
+Marnie Martin as operations crewman
+Marlene Mogavero as operations crewman
+Bobby Pappas as operations crewman
+Aric Rogokos as sciences crewman
+Jeffrey Sherrard as Vaadwaur
+Thelma Tyrell as operations crewman
+Michelle Van Den Broeck as sciences crewman
+Jessica Vash as command ensign
+Christina Walter as Pelian
+Mark Watson as operations crewman
+Gary Weeks as operations crewman
+Frank Williams as sciences crewman
+Unknown performers as
+Axanar
+Eight repair station aliens
+Female Cardassian
+Female command division crewman
+Female crewmember on file
+Klingon
+Male crewmember on file
+Tellarite (voice)
+Xepolite
+
+
+=== Stand-ins ===
+David Keith Anderson – stand-in for Anthony Montgomery
+Evan English – stand-in for Dominic Keating
+J.R. Quinonez – stand-in for John Billingsley
+Richard Sarstedt – stand-in for Scott Bakula
+Jessica Vash – stand-in for Jolene Blalock
+Mark Watson – stand-in for Connor Trinneer
+Susan Yee – stand-in for Linda Park
+Unknown performers as
+Hand double for Scott Bakula
+Hand double for Jolene Blalock
+Hand double for Connor Trinneer
+
+
+=== References ===
+2126; access port; alien medical device; alloy; April; atmosphere; automated repair station; autopsy report; Axanar; bio-molecular probe; bloodworm; bolt-coupling; brain; breadbox; British; calculations per nanosecond; Cardassian; catfish; central nervous system; cerebral cortex; Chef; compensation; computer core; conductive pathway; "confined to quarters"; cytokinetic enzyme; damage; death; deck plating; deuterium injector; distress call; duranium; Earth hour; Earth year; Ellora; English language; Enterprise inspection pod; epidermis; EPS grid; expression; Fisher; full postmortem; gelatin; gelatinous lifeform; gremlin; Hayes; helium; hull breach; hull damage; inanimate object; injury; inoculation; inspection pod; isolytic shock; Jupiter Station; Kago's species; Klingon; Kreetassan; launch bay; leg; lemon; liquid helium; liter; matter-energy converter; Mayweather, Rianna; Mayweather, Travis; Mayweather's sister; mechanical arm; medical ethics; meter; metacarpus; metaphor; microcellular scan; minefield; model; molecular synthesizer; month; musculature; mythical creature; necrosis; nanosecond; neurological damage; nitrogen; no trespassing sign; Nomad; O2 conduit; oxygen; PADD; pain; pan-fried; Pelian; phalanges; plasma; plasma conduit; practical joke; protein resequencer; remote control; rendezvous; repair team; replica; replicator; Rigelian fever; Romulan; scanner; scope; security detail; senior officer; sentient; snoop; squeak; starlog; strawberry; stretcher; subspace amplifier; subspace antenna; synaptic pathway; tactical officer; Tarkalean vessel; Tellarite; Tellarite freighter; temperature; Tessik Prime; thermal fracture; transporter; transtator; trespassing; tritanium; umbilical port; underwear; Vaadwaur; vaccine; ventricular fibrillation; vessel; vital organ; Vulcan; warp coil; warp plasma; warp plasma canister; water; "wide berth"; Xepolite; year
+
+
+=== External links ===
+"Dead Stop" at Memory Beta, the wiki for licensed Star Trek works
+"Dead Stop" at Wikipedia
+"Dead Stop" at the Internet Movie Database
